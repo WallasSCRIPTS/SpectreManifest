@@ -1,0 +1,108 @@
+{
+  "name": "Gleaner Heights",
+  "source": "spectre",
+  "changenumber": 37511357,
+  "updated": "2026-11-07T21:00:41.514Z",
+  "branches": {
+    "public": {
+      "buildid": "8553526",
+      "timeupdated": "1649883178",
+      "timebuildupdated": "1649879588"
+    },
+    "legacy_engine": {
+      "buildid": "2912835",
+      "timeupdated": "1550808053",
+      "timebuildupdated": "1530560973"
+    },
+    "linux_test": {
+      "buildid": "2629123",
+      "timeupdated": "1521834426",
+      "timebuildupdated": "1521834395"
+    },
+    "testing": {
+      "buildid": "4108429",
+      "timeupdated": "1565874716",
+      "timebuildupdated": "1565874668"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "786581": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7889184204939508231",
+          "size": "269221416",
+          "download": "213441088"
+        }
+      }
+    },
+    "786582": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4436085826491393183",
+          "size": "274249115",
+          "download": "215302832"
+        }
+      }
+    },
+    "1899580": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3273188312208723300",
+          "size": "12383438",
+          "download": "11878064"
+        }
+      },
+      "dlcappid": "1899580"
+    },
+    "1899581": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5774585866635861337",
+          "size": "12383438",
+          "download": "11878064"
+        }
+      },
+      "dlcappid": "1899580"
+    },
+    "branches": {
+      "public": {
+        "buildid": "8553526",
+        "timeupdated": "1649883178",
+        "timebuildupdated": "1649879588"
+      },
+      "legacy_engine": {
+        "buildid": "2912835",
+        "timeupdated": "1550808053",
+        "timebuildupdated": "1530560973"
+      },
+      "linux_test": {
+        "buildid": "2629123",
+        "timeupdated": "1521834426",
+        "timebuildupdated": "1521834395"
+      },
+      "testing": {
+        "buildid": "4108429",
+        "timeupdated": "1565874716",
+        "timebuildupdated": "1565874668"
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "name": "Cosmic Trip",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:44.361Z",
+  "branches": {
+    "public": {
+      "buildid": "4373422",
+      "timeupdated": "1573514799",
+      "timebuildupdated": "1573330497"
+    },
+    "dev-build": {
+      "buildid": "4373422",
+      "description": "In-development branch (unstable)",
+      "timeupdated": "1573331229",
+      "timebuildupdated": "1573330497"
+    },
+    "hypereal": {
+      "buildid": "1939684",
+      "timeupdated": "1512586032",
+      "timebuildupdated": "1499297581"
+    },
+    "previous-patch": {
+      "buildid": "2783809",
+      "description": "previous stable patch",
+      "timeupdated": "1568061849",
+      "timebuildupdated": "1526594293"
+    },
+    "win7_no_il2cpp": {
+      "buildid": "3976268",
+      "timeupdated": "1562109666",
+      "timebuildupdated": "1562109633"
+    }
+  },
+  "depot": {
+    "427241": {},
+    "427242": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3401840191125294646",
+          "size": "1284221889",
+          "download": "271750704"
+        }
+      }
+    },
+    "640401": {
+      "manifests": {
+        "public": {
+          "gid": "2842386205009531599",
+          "size": "85032013",
+          "download": "76091840"
+        }
+      },
+      "dlcappid": "640401"
+    },
+    "770150": {
+      "dlcappid": "770150"
+    },
+    "branches": {
+      "public": {
+        "buildid": "4373422",
+        "timeupdated": "1573514799",
+        "timebuildupdated": "1573330497"
+      },
+      "dev-build": {
+        "buildid": "4373422",
+        "description": "In-development branch (unstable)",
+        "timeupdated": "1573331229",
+        "timebuildupdated": "1573330497"
+      },
+      "hypereal": {
+        "buildid": "1939684",
+        "timeupdated": "1512586032",
+        "timebuildupdated": "1499297581"
+      },
+      "previous-patch": {
+        "buildid": "2783809",
+        "description": "previous stable patch",
+        "timeupdated": "1568061849",
+        "timebuildupdated": "1526594293"
+      },
+      "win7_no_il2cpp": {
+        "buildid": "3976268",
+        "timeupdated": "1562109666",
+        "timebuildupdated": "1562109633"
+      }
+    }
+  }
+}

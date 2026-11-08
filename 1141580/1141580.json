@@ -1,0 +1,46 @@
+{
+  "name": "Taiji",
+  "source": "spectre",
+  "changenumber": 40276564,
+  "updated": "2026-11-07T21:03:40.578Z",
+  "branches": {
+    "public": {
+      "buildid": "20272664",
+      "timeupdated": "1759764788",
+      "timebuildupdated": "1759764694"
+    },
+    "mono-moddable": {
+      "buildid": "20272581",
+      "description": "Uses the Mono backend, which has reduced performance but is more easily moddable",
+      "timeupdated": "1759764347",
+      "timebuildupdated": "1759764266"
+    }
+  },
+  "depot": {
+    "1141581": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2193899610468114744",
+          "size": "341449849",
+          "download": "286640496"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20272664",
+        "timeupdated": "1759764788",
+        "timebuildupdated": "1759764694"
+      },
+      "mono-moddable": {
+        "buildid": "20272581",
+        "description": "Uses the Mono backend, which has reduced performance but is more easily moddable",
+        "timeupdated": "1759764347",
+        "timebuildupdated": "1759764266"
+      }
+    }
+  }
+}

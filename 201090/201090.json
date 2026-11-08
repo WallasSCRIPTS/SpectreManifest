@@ -1,0 +1,61 @@
+{
+  "name": "Steel Storm: Burning Retribution Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:56:00.450Z",
+  "branches": {
+    "public": {
+      "buildid": "85080",
+      "timebuildupdated": "1372213871"
+    },
+    "ssbr_demo_test": {
+      "buildid": "85080",
+      "timebuildupdated": "1372213871"
+    }
+  },
+  "depot": {
+    "201091": {
+      "manifests": {
+        "public": {
+          "gid": "8790480208788496207",
+          "size": "402147033",
+          "download": "0"
+        }
+      }
+    },
+    "201092": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7615165546741680831",
+          "size": "26819915",
+          "download": "0"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "244471": {
+      "config": {
+        "oslist": "linux"
+      },
+      "depotfromapp": "244470"
+    },
+    "branches": {
+      "public": {
+        "buildid": "85080",
+        "timebuildupdated": "1372213871"
+      },
+      "ssbr_demo_test": {
+        "buildid": "85080",
+        "timebuildupdated": "1372213871"
+      }
+    }
+  }
+}

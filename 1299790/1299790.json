@@ -1,0 +1,61 @@
+{
+  "name": "Be Hero",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:16.523Z",
+  "branches": {
+    "public": {
+      "buildid": "8357873",
+      "timeupdated": "1647046062",
+      "timebuildupdated": "1647046020"
+    },
+    "testbranch": {
+      "buildid": "10691401",
+      "description": "Test game updates before they go live",
+      "timeupdated": "1677938297",
+      "timebuildupdated": "1677938297"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1299791": {
+      "manifests": {
+        "public": {
+          "gid": "2098916016724498485",
+          "size": "359386705",
+          "download": "240311216"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8357873",
+        "timeupdated": "1647046062",
+        "timebuildupdated": "1647046020"
+      },
+      "testbranch": {
+        "buildid": "10691401",
+        "description": "Test game updates before they go live",
+        "timeupdated": "1677938297",
+        "timebuildupdated": "1677938297"
+      }
+    }
+  }
+}

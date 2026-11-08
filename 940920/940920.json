@@ -1,0 +1,70 @@
+{
+  "name": "BlastFX",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:51.146Z",
+  "branches": {
+    "public": {
+      "buildid": "25341463",
+      "timeupdated": "1789547496",
+      "timebuildupdated": "1789547315"
+    },
+    "legacy": {
+      "buildid": "6089607",
+      "description": "Old 1.x version, no longer supported",
+      "timeupdated": "1610740267",
+      "timebuildupdated": "1610740036"
+    }
+  },
+  "depot": {
+    "940921": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1168875267392654349",
+          "size": "108082108",
+          "download": "45178528"
+        }
+      }
+    },
+    "940922": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1996916021632820202",
+          "size": "110633849",
+          "download": "41305888"
+        }
+      }
+    },
+    "940923": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5746723153904571745",
+          "size": "103064637",
+          "download": "42992928"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25341463",
+        "timeupdated": "1789547496",
+        "timebuildupdated": "1789547315"
+      },
+      "legacy": {
+        "buildid": "6089607",
+        "description": "Old 1.x version, no longer supported",
+        "timeupdated": "1610740267",
+        "timebuildupdated": "1610740036"
+      }
+    }
+  }
+}

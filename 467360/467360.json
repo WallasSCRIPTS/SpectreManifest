@@ -1,0 +1,111 @@
+{
+  "name": "Off-Peak",
+  "source": "spectre",
+  "changenumber": 40673947,
+  "updated": "2026-11-07T20:58:07.343Z",
+  "branches": {
+    "public": {
+      "buildid": "4887654",
+      "timeupdated": "1586632934",
+      "timebuildupdated": "1586630450"
+    },
+    "clean": {
+      "buildid": "1500350",
+      "description": "Clean Version",
+      "timeupdated": "1480996390",
+      "timebuildupdated": "1480996205"
+    },
+    "controller_input_disabled": {
+      "buildid": "1500408",
+      "description": "Disables controller input.",
+      "timeupdated": "1480999449",
+      "timebuildupdated": "1480999399"
+    },
+    "previous_build": {
+      "buildid": "1431335",
+      "timeupdated": "1480996127",
+      "timebuildupdated": "1477974368"
+    },
+    "test": {
+      "buildid": "4887654",
+      "timeupdated": "1586630612",
+      "timebuildupdated": "1586630450"
+    }
+  },
+  "depot": {
+    "467361": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3389915089077705360",
+          "size": "612726667",
+          "download": "293817040"
+        }
+      }
+    },
+    "467362": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5025115064381042490",
+          "size": "628347479",
+          "download": "297953776"
+        }
+      }
+    },
+    "467363": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1008766895658953417",
+          "size": "621940886",
+          "download": "296726640"
+        }
+      }
+    },
+    "544980": {
+      "manifests": {
+        "public": {
+          "gid": "6165298460681266554",
+          "size": "185060840",
+          "download": "184663136"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4887654",
+        "timeupdated": "1586632934",
+        "timebuildupdated": "1586630450"
+      },
+      "clean": {
+        "buildid": "1500350",
+        "description": "Clean Version",
+        "timeupdated": "1480996390",
+        "timebuildupdated": "1480996205"
+      },
+      "controller_input_disabled": {
+        "buildid": "1500408",
+        "description": "Disables controller input.",
+        "timeupdated": "1480999449",
+        "timebuildupdated": "1480999399"
+      },
+      "previous_build": {
+        "buildid": "1431335",
+        "timeupdated": "1480996127",
+        "timebuildupdated": "1477974368"
+      },
+      "test": {
+        "buildid": "4887654",
+        "timeupdated": "1586630612",
+        "timebuildupdated": "1586630450"
+      }
+    }
+  }
+}

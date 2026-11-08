@@ -1,0 +1,94 @@
+{
+  "name": "Perfect Heist 2",
+  "source": "spectre",
+  "changenumber": 40528191,
+  "updated": "2026-11-06T21:05:52.889Z",
+  "branches": {
+    "public": {
+      "buildid": "25375795",
+      "timeupdated": "1789671856",
+      "timebuildupdated": "1789671856"
+    },
+    "raytracing-test": {
+      "buildid": "7255059",
+      "description": "RT Test",
+      "timeupdated": "1629983385",
+      "timebuildupdated": "1629983385"
+    },
+    "beta": {
+      "buildid": "25375795",
+      "description": "beta",
+      "timeupdated": "1789671856",
+      "timebuildupdated": "1789671856"
+    },
+    "debug": {
+      "buildid": "16646163",
+      "description": "debug",
+      "timeupdated": "1733867413",
+      "timebuildupdated": "1733417256"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1521581": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7342527082885507868",
+          "size": "6303816320",
+          "download": "1091748416"
+        }
+      }
+    },
+    "1521582": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4168765983783726904",
+          "size": "9194314901",
+          "download": "1481754128"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25375795",
+        "timeupdated": "1789671856",
+        "timebuildupdated": "1789671856"
+      },
+      "raytracing-test": {
+        "buildid": "7255059",
+        "description": "RT Test",
+        "timeupdated": "1629983385",
+        "timebuildupdated": "1629983385"
+      },
+      "beta": {
+        "buildid": "25375795",
+        "description": "beta",
+        "timeupdated": "1789671856",
+        "timebuildupdated": "1789671856"
+      },
+      "debug": {
+        "buildid": "16646163",
+        "description": "debug",
+        "timeupdated": "1733867413",
+        "timebuildupdated": "1733417256"
+      }
+    }
+  }
+}

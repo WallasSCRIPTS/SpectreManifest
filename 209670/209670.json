@@ -1,0 +1,83 @@
+{
+  "name": "Cortex Command",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:02.637Z",
+  "branches": {
+    "public": {
+      "buildid": "1635149",
+      "timeupdated": "1487233921",
+      "timebuildupdated": "1487233921"
+    },
+    "ccoss": {
+      "buildid": "4013670",
+      "description": "Open Source build",
+      "timeupdated": "1563224553",
+      "timebuildupdated": "1563224553"
+    },
+    "local": {
+      "buildid": "4004369",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1562888154",
+      "timebuildupdated": "1562888153"
+    }
+  },
+  "depot": {
+    "209671": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1344435321594457621",
+          "size": "99403207",
+          "download": "55267712"
+        }
+      }
+    },
+    "209672": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1872517060490567825",
+          "size": "108482281",
+          "download": "57140864"
+        }
+      }
+    },
+    "209673": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1635149",
+        "timeupdated": "1487233921",
+        "timebuildupdated": "1487233921"
+      },
+      "ccoss": {
+        "buildid": "4013670",
+        "description": "Open Source build",
+        "timeupdated": "1563224553",
+        "timebuildupdated": "1563224553"
+      },
+      "local": {
+        "buildid": "4004369",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1562888154",
+        "timebuildupdated": "1562888153"
+      }
+    }
+  }
+}

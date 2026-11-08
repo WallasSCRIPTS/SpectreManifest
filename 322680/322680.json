@@ -1,0 +1,108 @@
+{
+  "name": "BLACKHOLE",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:40.788Z",
+  "branches": {
+    "public": {
+      "buildid": "3115362",
+      "timeupdated": "1536768293",
+      "timebuildupdated": "1536768293"
+    },
+    "beta": {
+      "buildid": "3115364",
+      "description": "Public Beta Branch",
+      "timeupdated": "1536768331",
+      "timebuildupdated": "1536768310"
+    },
+    "safe": {
+      "buildid": "1409845",
+      "description": "Old build (1.7, 1.6)",
+      "timeupdated": "1492423269",
+      "timebuildupdated": "1477304384"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "322681": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7811584808150129816",
+          "size": "1398256415",
+          "download": "1075372336"
+        }
+      }
+    },
+    "322682": {},
+    "322683": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7759444666812023527",
+          "size": "1405963653",
+          "download": "1075842432"
+        }
+      }
+    },
+    "322684": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4125041415311740987",
+          "size": "1409960221",
+          "download": "1077452912"
+        }
+      }
+    },
+    "323650": {
+      "manifests": {
+        "public": {
+          "gid": "6343634924214004827",
+          "size": "1412902228",
+          "download": "1346765840"
+        }
+      },
+      "dlcappid": "323650"
+    },
+    "694600": {
+      "dlcappid": "694600"
+    },
+    "branches": {
+      "public": {
+        "buildid": "3115362",
+        "timeupdated": "1536768293",
+        "timebuildupdated": "1536768293"
+      },
+      "beta": {
+        "buildid": "3115364",
+        "description": "Public Beta Branch",
+        "timeupdated": "1536768331",
+        "timebuildupdated": "1536768310"
+      },
+      "safe": {
+        "buildid": "1409845",
+        "description": "Old build (1.7, 1.6)",
+        "timeupdated": "1492423269",
+        "timebuildupdated": "1477304384"
+      }
+    }
+  }
+}

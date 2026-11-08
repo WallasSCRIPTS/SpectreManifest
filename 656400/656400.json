@@ -1,0 +1,88 @@
+{
+  "name": "Attrition: Tactical Fronts",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:33.327Z",
+  "branches": {
+    "public": {
+      "buildid": "2569716",
+      "timeupdated": "1520380303",
+      "timebuildupdated": "1519970926"
+    },
+    "beta": {
+      "buildid": "2569716",
+      "description": "Public test builds",
+      "timeupdated": "1519971065",
+      "timebuildupdated": "1519970926"
+    },
+    "nightly": {
+      "buildid": "2569716",
+      "description": "Automated builds for every commit",
+      "timeupdated": "1519970926",
+      "timebuildupdated": "1519970926"
+    }
+  },
+  "depot": {
+    "229005": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "656401": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3719722851845986150",
+          "size": "442042423",
+          "download": "201124560"
+        }
+      }
+    },
+    "656402": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6739724380494486852",
+          "size": "496757564",
+          "download": "218094000"
+        }
+      }
+    },
+    "656403": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5830174587005154921",
+          "size": "508252789",
+          "download": "224379568"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2569716",
+        "timeupdated": "1520380303",
+        "timebuildupdated": "1519970926"
+      },
+      "beta": {
+        "buildid": "2569716",
+        "description": "Public test builds",
+        "timeupdated": "1519971065",
+        "timebuildupdated": "1519970926"
+      },
+      "nightly": {
+        "buildid": "2569716",
+        "description": "Automated builds for every commit",
+        "timeupdated": "1519970926",
+        "timebuildupdated": "1519970926"
+      }
+    }
+  }
+}

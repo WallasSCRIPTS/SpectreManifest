@@ -1,0 +1,130 @@
+{
+  "name": "Kingdoms Reborn",
+  "source": "spectre",
+  "changenumber": 38427006,
+  "updated": "2026-11-06T21:04:20.169Z",
+  "branches": {
+    "public": {
+      "buildid": "21894337",
+      "timeupdated": "1771296099",
+      "timebuildupdated": "1770864235"
+    },
+    "old_patch_coop": {
+      "buildid": "11846240",
+      "description": "Old Patch (Co-op)",
+      "timeupdated": "1693887347",
+      "timebuildupdated": "1690966075"
+    },
+    "old_patch_japan": {
+      "buildid": "12391959",
+      "description": "Old Patch (Japan)",
+      "timeupdated": "1708785895",
+      "timebuildupdated": "1696845721"
+    },
+    "old_patch_viking": {
+      "buildid": "10503263",
+      "description": "Old Patch (Viking)",
+      "timeupdated": "1684501748",
+      "timebuildupdated": "1675838362"
+    },
+    "old_update": {
+      "buildid": "8337697",
+      "description": "Old Patch (Emirates)",
+      "timeupdated": "1671175234",
+      "timebuildupdated": "1646797576"
+    },
+    "stable": {
+      "buildid": "14491079",
+      "description": "stable (mostly the same as default branch)",
+      "timeupdated": "1716996933",
+      "timebuildupdated": "1716614845"
+    },
+    "test": {
+      "buildid": "21894337",
+      "description": "Latest Test Branch",
+      "timeupdated": "1770879715",
+      "timebuildupdated": "1770864235"
+    },
+    "test2": {
+      "buildid": "16327273",
+      "description": "2nd Latest Test Branch (if latest has issues)",
+      "timeupdated": "1731050395",
+      "timebuildupdated": "1730981567"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1307891": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3752827560026047833",
+          "size": "5276957126",
+          "download": "4686661840"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21894337",
+        "timeupdated": "1771296099",
+        "timebuildupdated": "1770864235"
+      },
+      "old_patch_coop": {
+        "buildid": "11846240",
+        "description": "Old Patch (Co-op)",
+        "timeupdated": "1693887347",
+        "timebuildupdated": "1690966075"
+      },
+      "old_patch_japan": {
+        "buildid": "12391959",
+        "description": "Old Patch (Japan)",
+        "timeupdated": "1708785895",
+        "timebuildupdated": "1696845721"
+      },
+      "old_patch_viking": {
+        "buildid": "10503263",
+        "description": "Old Patch (Viking)",
+        "timeupdated": "1684501748",
+        "timebuildupdated": "1675838362"
+      },
+      "old_update": {
+        "buildid": "8337697",
+        "description": "Old Patch (Emirates)",
+        "timeupdated": "1671175234",
+        "timebuildupdated": "1646797576"
+      },
+      "stable": {
+        "buildid": "14491079",
+        "description": "stable (mostly the same as default branch)",
+        "timeupdated": "1716996933",
+        "timebuildupdated": "1716614845"
+      },
+      "test": {
+        "buildid": "21894337",
+        "description": "Latest Test Branch",
+        "timeupdated": "1770879715",
+        "timebuildupdated": "1770864235"
+      },
+      "test2": {
+        "buildid": "16327273",
+        "description": "2nd Latest Test Branch (if latest has issues)",
+        "timeupdated": "1731050395",
+        "timebuildupdated": "1730981567"
+      }
+    }
+  }
+}

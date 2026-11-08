@@ -1,0 +1,56 @@
+{
+  "name": "Pierhead Arcade",
+  "source": "spectre",
+  "changenumber": 38943343,
+  "updated": "2026-11-07T20:57:50.193Z",
+  "branches": {
+    "public": {
+      "buildid": "2537693",
+      "timeupdated": "1519037692",
+      "timebuildupdated": "1519037617"
+    },
+    "beta": {
+      "buildid": "2537693",
+      "description": "Public beta",
+      "timeupdated": "1519037681",
+      "timebuildupdated": "1519037617"
+    }
+  },
+  "depot": {
+    "435491": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1301603204414798859",
+          "size": "668554705",
+          "download": "192008576"
+        }
+      }
+    },
+    "435492": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "435493": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2537693",
+        "timeupdated": "1519037692",
+        "timebuildupdated": "1519037617"
+      },
+      "beta": {
+        "buildid": "2537693",
+        "description": "Public beta",
+        "timeupdated": "1519037681",
+        "timebuildupdated": "1519037617"
+      }
+    }
+  }
+}

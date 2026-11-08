@@ -1,0 +1,58 @@
+{
+  "name": "OSES",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:58.427Z",
+  "branches": {
+    "public": {
+      "buildid": "2908567",
+      "timeupdated": "1530462920",
+      "timebuildupdated": "1530376165"
+    },
+    "beta": {
+      "buildid": "2908567",
+      "description": "Feature testing branch",
+      "timeupdated": "1530376165",
+      "timebuildupdated": "1530376165"
+    },
+    "vanilla": {
+      "buildid": "2119197",
+      "description": "Original launch version",
+      "timeupdated": "1530463191",
+      "timebuildupdated": "1505405226"
+    }
+  },
+  "depot": {
+    "704991": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "395406196576656557",
+          "size": "154294949",
+          "download": "52359424"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2908567",
+        "timeupdated": "1530462920",
+        "timebuildupdated": "1530376165"
+      },
+      "beta": {
+        "buildid": "2908567",
+        "description": "Feature testing branch",
+        "timeupdated": "1530376165",
+        "timebuildupdated": "1530376165"
+      },
+      "vanilla": {
+        "buildid": "2119197",
+        "description": "Original launch version",
+        "timeupdated": "1530463191",
+        "timebuildupdated": "1505405226"
+      }
+    }
+  }
+}

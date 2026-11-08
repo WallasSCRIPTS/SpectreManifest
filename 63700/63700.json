@@ -1,0 +1,79 @@
+{
+  "name": "BIT.TRIP BEAT",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:57.170Z",
+  "branches": {
+    "public": {
+      "buildid": "774535",
+      "timebuildupdated": "1442270026"
+    },
+    "wingl_unsupported": {
+      "buildid": "20727",
+      "description": "Old OpenGL builds.  Unsupported!",
+      "timebuildupdated": "1350924514"
+    }
+  },
+  "depot": {
+    "63701": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2851779470641597068",
+          "size": "104374027",
+          "download": "53700816"
+        }
+      }
+    },
+    "63703": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5291636274410280479",
+          "size": "100803489",
+          "download": "43158384"
+        }
+      }
+    },
+    "63705": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "98005": {
+      "manifests": {
+        "public": {
+          "gid": "2392078250303359337",
+          "size": "10423434",
+          "download": "0"
+        }
+      },
+      "dlcappid": "98005"
+    },
+    "202951": {
+      "manifests": {
+        "public": {
+          "gid": "1229884303698906555",
+          "size": "30432094",
+          "download": "29642496"
+        }
+      },
+      "dlcappid": "202951"
+    },
+    "branches": {
+      "public": {
+        "buildid": "774535",
+        "timebuildupdated": "1442270026"
+      },
+      "wingl_unsupported": {
+        "buildid": "20727",
+        "description": "Old OpenGL builds.  Unsupported!",
+        "timebuildupdated": "1350924514"
+      }
+    }
+  }
+}

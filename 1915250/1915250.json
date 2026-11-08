@@ -1,0 +1,94 @@
+{
+  "name": "Constructed",
+  "source": "spectre",
+  "changenumber": 38094697,
+  "updated": "2026-11-06T23:13:30.505Z",
+  "branches": {
+    "public": {
+      "buildid": "24778626",
+      "timeupdated": "1786978726",
+      "timebuildupdated": "1786978623"
+    },
+    "eav1.7": {
+      "buildid": "16737338",
+      "description": "EAV 1.7 Main Release",
+      "timeupdated": "1735743109",
+      "timebuildupdated": "1734103999"
+    },
+    "eav1.8": {
+      "buildid": "16861200",
+      "description": "Game Version EAV 1.8",
+      "timeupdated": "1739967921",
+      "timebuildupdated": "1735311601"
+    },
+    "eav2.0farmingupdate": {
+      "buildid": "19622610",
+      "description": "EAV 2.0 Farming Update",
+      "timeupdated": "1755351187",
+      "timebuildupdated": "1755345992"
+    },
+    "openbeta": {
+      "buildid": "16737338",
+      "description": "The Open Beta branch offers a preview of upcoming features, improvements, and bug fixes, allowing users to test and provide feedback before the official release",
+      "timeupdated": "1734105704",
+      "timebuildupdated": "1734103999"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1915251": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2978289067838499865",
+          "size": "2683672666",
+          "download": "2272234464"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24778626",
+        "timeupdated": "1786978726",
+        "timebuildupdated": "1786978623"
+      },
+      "eav1.7": {
+        "buildid": "16737338",
+        "description": "EAV 1.7 Main Release",
+        "timeupdated": "1735743109",
+        "timebuildupdated": "1734103999"
+      },
+      "eav1.8": {
+        "buildid": "16861200",
+        "description": "Game Version EAV 1.8",
+        "timeupdated": "1739967921",
+        "timebuildupdated": "1735311601"
+      },
+      "eav2.0farmingupdate": {
+        "buildid": "19622610",
+        "description": "EAV 2.0 Farming Update",
+        "timeupdated": "1755351187",
+        "timebuildupdated": "1755345992"
+      },
+      "openbeta": {
+        "buildid": "16737338",
+        "description": "The Open Beta branch offers a preview of upcoming features, improvements, and bug fixes, allowing users to test and provide feedback before the official release",
+        "timeupdated": "1734105704",
+        "timebuildupdated": "1734103999"
+      }
+    }
+  }
+}

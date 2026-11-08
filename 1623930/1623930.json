@@ -1,0 +1,70 @@
+{
+  "name": "Solaris",
+  "source": "spectre",
+  "changenumber": 40315868,
+  "updated": "2026-11-06T21:06:39.666Z",
+  "branches": {
+    "public": {
+      "buildid": "26228202",
+      "timeupdated": "1793050058",
+      "timebuildupdated": "1793049726"
+    },
+    "beta": {
+      "buildid": "18270331",
+      "description": "Beta builds of Solaris Desktop",
+      "timeupdated": "1745871360",
+      "timebuildupdated": "1745871360"
+    }
+  },
+  "depot": {
+    "1623932": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1237584238945840413",
+          "size": "374001243",
+          "download": "149405632"
+        }
+      }
+    },
+    "1623933": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "177135556583507373",
+          "size": "262788870",
+          "download": "111626352"
+        }
+      }
+    },
+    "1623934": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7653400233895511880",
+          "size": "286702231",
+          "download": "115720752"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26228202",
+        "timeupdated": "1793050058",
+        "timebuildupdated": "1793049726"
+      },
+      "beta": {
+        "buildid": "18270331",
+        "description": "Beta builds of Solaris Desktop",
+        "timeupdated": "1745871360",
+        "timebuildupdated": "1745871360"
+      }
+    }
+  }
+}

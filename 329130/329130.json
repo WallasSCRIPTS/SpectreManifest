@@ -1,0 +1,84 @@
+{
+  "name": "Reassembly",
+  "source": "spectre",
+  "changenumber": 37433691,
+  "updated": "2026-11-07T20:56:43.815Z",
+  "branches": {
+    "public": {
+      "buildid": "19149099",
+      "timeupdated": "1751998479",
+      "timebuildupdated": "1751993880"
+    },
+    "beta": {
+      "buildid": "24279321",
+      "timeupdated": "1784426517",
+      "timebuildupdated": "1784426517"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "329131": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4839602549532422465",
+          "size": "123908904",
+          "download": "102583472"
+        }
+      }
+    },
+    "329132": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7640489419007103993",
+          "size": "132685615",
+          "download": "106796432"
+        }
+      }
+    },
+    "329133": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1446294067501623196",
+          "size": "119258660",
+          "download": "102030192"
+        }
+      }
+    },
+    "329134": {
+      "manifests": {
+        "public": {
+          "gid": "6431344855630987537",
+          "size": "100730275",
+          "download": "100740832"
+        }
+      },
+      "dlcappid": "1012980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "19149099",
+        "timeupdated": "1751998479",
+        "timebuildupdated": "1751993880"
+      },
+      "beta": {
+        "buildid": "24279321",
+        "timeupdated": "1784426517",
+        "timebuildupdated": "1784426517"
+      }
+    }
+  }
+}

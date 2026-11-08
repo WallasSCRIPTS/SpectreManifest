@@ -1,0 +1,119 @@
+{
+  "name": "Deus Ex: Revision",
+  "source": "spectre",
+  "changenumber": 40632082,
+  "updated": "2026-11-07T20:57:31.508Z",
+  "branches": {
+    "public": {
+      "buildid": "25916968",
+      "timeupdated": "1791921836",
+      "timebuildupdated": "1791921767"
+    },
+    "beta": {
+      "buildid": "25916968",
+      "description": "Public beta branch",
+      "timeupdated": "1791921767",
+      "timebuildupdated": "1791921767"
+    },
+    "previous-version": {
+      "buildid": "20367540",
+      "description": "Previous version in case of issues with the latest version.",
+      "timeupdated": "1760354222",
+      "timebuildupdated": "1760352487"
+    },
+    "tnm-access": {
+      "buildid": "25916968",
+      "description": "Gives access to TNM launch option",
+      "timeupdated": "1791921811",
+      "timebuildupdated": "1791921767"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229000": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "397551": {
+      "manifests": {
+        "public": {
+          "gid": "4524667079660942193",
+          "size": "3407832697",
+          "download": "1903338976"
+        }
+      }
+    },
+    "397552": {
+      "manifests": {
+        "public": {
+          "gid": "7155457725720681891",
+          "size": "3207277275",
+          "download": "1269737696"
+        }
+      }
+    },
+    "397553": {
+      "manifests": {
+        "public": {
+          "gid": "5205207099181051767",
+          "size": "1002574",
+          "download": "601392"
+        }
+      }
+    },
+    "1149530": {
+      "manifests": {
+        "public": {
+          "gid": "3801113000899398791",
+          "size": "268030355",
+          "download": "267214448"
+        }
+      },
+      "dlcappid": "1149530"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25916968",
+        "timeupdated": "1791921836",
+        "timebuildupdated": "1791921767"
+      },
+      "beta": {
+        "buildid": "25916968",
+        "description": "Public beta branch",
+        "timeupdated": "1791921767",
+        "timebuildupdated": "1791921767"
+      },
+      "previous-version": {
+        "buildid": "20367540",
+        "description": "Previous version in case of issues with the latest version.",
+        "timeupdated": "1760354222",
+        "timebuildupdated": "1760352487"
+      },
+      "tnm-access": {
+        "buildid": "25916968",
+        "description": "Gives access to TNM launch option",
+        "timeupdated": "1791921811",
+        "timebuildupdated": "1791921767"
+      }
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Cats and the Other Lives",
+  "source": "spectre",
+  "changenumber": 40458282,
+  "updated": "2026-11-06T21:04:40.017Z",
+  "branches": {
+    "public": {
+      "buildid": "10128598",
+      "timeupdated": "1670847628",
+      "timebuildupdated": "1670847628"
+    },
+    "internaltest": {
+      "buildid": "10198724",
+      "description": "ForTesting",
+      "timeupdated": "1671704689",
+      "timebuildupdated": "1671703644"
+    },
+    "mactest": {
+      "buildid": "10198724",
+      "description": "forMac",
+      "timeupdated": "1671703644",
+      "timebuildupdated": "1671703644"
+    }
+  },
+  "depot": {
+    "1360391": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "174276555964371455",
+          "size": "2120806885",
+          "download": "1376790864"
+        }
+      }
+    },
+    "1360392": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "1360393": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "2226720": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2538814004508371294",
+          "size": "20877667",
+          "download": "18139920"
+        }
+      },
+      "dlcappid": "2226720"
+    },
+    "branches": {
+      "public": {
+        "buildid": "10128598",
+        "timeupdated": "1670847628",
+        "timebuildupdated": "1670847628"
+      },
+      "internaltest": {
+        "buildid": "10198724",
+        "description": "ForTesting",
+        "timeupdated": "1671704689",
+        "timebuildupdated": "1671703644"
+      },
+      "mactest": {
+        "buildid": "10198724",
+        "description": "forMac",
+        "timeupdated": "1671703644",
+        "timebuildupdated": "1671703644"
+      }
+    }
+  }
+}

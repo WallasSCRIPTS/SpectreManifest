@@ -1,0 +1,80 @@
+{
+  "name": "Uplink",
+  "source": "spectre",
+  "changenumber": 40463187,
+  "updated": "2026-11-07T20:55:40.964Z",
+  "branches": {
+    "public": {
+      "buildid": "10994814",
+      "timeupdated": "1773149681",
+      "timebuildupdated": "1681391312"
+    },
+    "beta": {
+      "buildid": "10994814",
+      "timeupdated": "1705419092",
+      "timebuildupdated": "1681391312"
+    },
+    "newmac": {
+      "buildid": "10994814",
+      "description": "Build for Mac OS X 10.13 and above, including Arm64 support",
+      "timeupdated": "1681391651",
+      "timebuildupdated": "1681391312"
+    }
+  },
+  "depot": {
+    "1511": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7980727824852442543",
+          "size": "20859561",
+          "download": "0"
+        }
+      }
+    },
+    "1512": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6139778989668968019",
+          "size": "46127361",
+          "download": "12912064"
+        }
+      }
+    },
+    "1513": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "684832396443035354",
+          "size": "46107609",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10994814",
+        "timeupdated": "1773149681",
+        "timebuildupdated": "1681391312"
+      },
+      "beta": {
+        "buildid": "10994814",
+        "timeupdated": "1705419092",
+        "timebuildupdated": "1681391312"
+      },
+      "newmac": {
+        "buildid": "10994814",
+        "description": "Build for Mac OS X 10.13 and above, including Arm64 support",
+        "timeupdated": "1681391651",
+        "timebuildupdated": "1681391312"
+      }
+    }
+  }
+}

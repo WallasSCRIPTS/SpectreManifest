@@ -1,0 +1,70 @@
+{
+  "name": "Mechabellum",
+  "source": "spectre",
+  "changenumber": 40669561,
+  "updated": "2026-11-07T20:59:39.869Z",
+  "branches": {
+    "public": {
+      "buildid": "26234214",
+      "timeupdated": "1793071553",
+      "timebuildupdated": "1793071553"
+    },
+    "public_test": {
+      "buildid": "26485080",
+      "description": "public test",
+      "timeupdated": "1793970722",
+      "timebuildupdated": "1793970483"
+    }
+  },
+  "depot": {
+    "669331": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "639117589502912689",
+          "size": "16371611699",
+          "download": "8469138992"
+        }
+      }
+    },
+    "669332": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3072295220112354151",
+          "size": "16562155134",
+          "download": "8793943232"
+        }
+      }
+    },
+    "669333": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4438589394810492067",
+          "size": "16371611699",
+          "download": "8465262368"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26234214",
+        "timeupdated": "1793071553",
+        "timebuildupdated": "1793071553"
+      },
+      "public_test": {
+        "buildid": "26485080",
+        "description": "public test",
+        "timeupdated": "1793970722",
+        "timebuildupdated": "1793970483"
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Sky Rogue",
+  "source": "spectre",
+  "changenumber": 37434570,
+  "updated": "2026-11-07T20:57:22.197Z",
+  "branches": {
+    "public": {
+      "buildid": "7448474",
+      "timeupdated": "1633106609",
+      "timebuildupdated": "1632950676"
+    },
+    "indev": {
+      "buildid": "7584391",
+      "description": "Cutting edge in-development version",
+      "timeupdated": "1635180323",
+      "timebuildupdated": "1634936281"
+    },
+    "legacy": {
+      "buildid": "6447074",
+      "description": "Previous stable version",
+      "timeupdated": "1633106597",
+      "timebuildupdated": "1616782397"
+    }
+  },
+  "depot": {
+    "381021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4087909618060486181",
+          "size": "271387442",
+          "download": "117163728"
+        }
+      }
+    },
+    "381022": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1536839892641543061",
+          "size": "285619306",
+          "download": "121021392"
+        }
+      }
+    },
+    "381023": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4942981531399044209",
+          "size": "320513919",
+          "download": "133178064"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7448474",
+        "timeupdated": "1633106609",
+        "timebuildupdated": "1632950676"
+      },
+      "indev": {
+        "buildid": "7584391",
+        "description": "Cutting edge in-development version",
+        "timeupdated": "1635180323",
+        "timebuildupdated": "1634936281"
+      },
+      "legacy": {
+        "buildid": "6447074",
+        "description": "Previous stable version",
+        "timeupdated": "1633106597",
+        "timebuildupdated": "1616782397"
+      }
+    }
+  }
+}

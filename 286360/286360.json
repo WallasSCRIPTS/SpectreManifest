@@ -1,0 +1,94 @@
+{
+  "name": "Shadows on the Vatican - Act I: Greed",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:23.912Z",
+  "branches": {
+    "public": {
+      "buildid": "23169067",
+      "timeupdated": "1778663613",
+      "timebuildupdated": "1778430978"
+    },
+    "local": {
+      "buildid": "240303",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1398104118"
+    },
+    "legacy": {
+      "buildid": "2882453",
+      "description": "backwards compatibility",
+      "timeupdated": "1767628849",
+      "timebuildupdated": "1529579903"
+    },
+    "pubrelease_6": {
+      "buildid": "21386406",
+      "description": "DT release 2 (steam deck)",
+      "timeupdated": "1767628154",
+      "timebuildupdated": "1767628154"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "286364": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6166121621419979113",
+          "size": "937",
+          "download": "896"
+        }
+      }
+    },
+    "286379": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6226204047570067390",
+          "size": "2811831576",
+          "download": "2526765440"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23169067",
+        "timeupdated": "1778663613",
+        "timebuildupdated": "1778430978"
+      },
+      "local": {
+        "buildid": "240303",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1398104118"
+      },
+      "legacy": {
+        "buildid": "2882453",
+        "description": "backwards compatibility",
+        "timeupdated": "1767628849",
+        "timebuildupdated": "1529579903"
+      },
+      "pubrelease_6": {
+        "buildid": "21386406",
+        "description": "DT release 2 (steam deck)",
+        "timeupdated": "1767628154",
+        "timebuildupdated": "1767628154"
+      }
+    }
+  }
+}

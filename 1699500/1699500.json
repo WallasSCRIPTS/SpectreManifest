@@ -1,0 +1,82 @@
+{
+  "name": "Move Dodge and Kill",
+  "source": "spectre",
+  "changenumber": 34869303,
+  "updated": "2026-11-06T23:07:51.005Z",
+  "branches": {
+    "public": {
+      "buildid": "8611352",
+      "timeupdated": "1650730455",
+      "timebuildupdated": "1650724963"
+    },
+    "openbeta": {
+      "buildid": "8611352",
+      "description": "Public test version",
+      "timeupdated": "1650724992",
+      "timebuildupdated": "1650724963"
+    }
+  },
+  "depot": {
+    "1699501": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7842986367598319927",
+          "size": "343127040",
+          "download": "252648016"
+        }
+      }
+    },
+    "1699502": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8273705686517783368",
+          "size": "341959922",
+          "download": "251771888"
+        }
+      }
+    },
+    "1699503": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2570432557786402044",
+          "size": "347603119",
+          "download": "253841824"
+        }
+      }
+    },
+    "1699504": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2311079839056003194",
+          "size": "344260316",
+          "download": "252881184"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8611352",
+        "timeupdated": "1650730455",
+        "timebuildupdated": "1650724963"
+      },
+      "openbeta": {
+        "buildid": "8611352",
+        "description": "Public test version",
+        "timeupdated": "1650724992",
+        "timebuildupdated": "1650724963"
+      }
+    }
+  }
+}

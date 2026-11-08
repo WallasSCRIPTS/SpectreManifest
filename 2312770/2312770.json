@@ -1,0 +1,58 @@
+{
+  "name": "Linkito",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:21:28.241Z",
+  "branches": {
+    "public": {
+      "buildid": "22800919",
+      "timeupdated": "1779095708",
+      "timebuildupdated": "1776266314"
+    },
+    "experimental": {
+      "buildid": "16657654",
+      "description": "Test new features (can be unstable)",
+      "timeupdated": "1733495003",
+      "timebuildupdated": "1733494653"
+    }
+  },
+  "depot": {
+    "2312771": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3781023381219897834",
+          "size": "811839116",
+          "download": "371383056"
+        }
+      }
+    },
+    "2312772": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2541944422833930005",
+          "size": "859449965",
+          "download": "374412592"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22800919",
+        "timeupdated": "1779095708",
+        "timebuildupdated": "1776266314"
+      },
+      "experimental": {
+        "buildid": "16657654",
+        "description": "Test new features (can be unstable)",
+        "timeupdated": "1733495003",
+        "timebuildupdated": "1733494653"
+      }
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "name": "The Jackbox Party Pack 7",
+  "source": "spectre",
+  "changenumber": 40683835,
+  "updated": "2026-11-07T21:04:17.769Z",
+  "branches": {
+    "public": {
+      "buildid": "15437980",
+      "timeupdated": "1724191253",
+      "timebuildupdated": "1724176828"
+    },
+    "linux-beta": {
+      "buildid": "7468164",
+      "description": "For Linux beta testing",
+      "timeupdated": "1633210909",
+      "timebuildupdated": "1633210909"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1211631": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1992139171697371548",
+          "size": "1754872383",
+          "download": "1635930048"
+        }
+      }
+    },
+    "1211632": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2880198022783484293",
+          "size": "22129216",
+          "download": "6377712"
+        }
+      }
+    },
+    "1211633": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5172518439760413726",
+          "size": "18219008",
+          "download": "10166160"
+        }
+      }
+    },
+    "1211634": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1463407510689344713",
+          "size": "2028962101",
+          "download": "1835886512"
+        }
+      }
+    },
+    "1211635": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2432478397816825479",
+          "size": "49401708",
+          "download": "14622832"
+        }
+      }
+    },
+    "2828508": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5145691608909662874",
+          "size": "2021",
+          "download": "848"
+        }
+      },
+      "depotfromapp": "2828500"
+    },
+    "branches": {
+      "public": {
+        "buildid": "15437980",
+        "timeupdated": "1724191253",
+        "timebuildupdated": "1724176828"
+      },
+      "linux-beta": {
+        "buildid": "7468164",
+        "description": "For Linux beta testing",
+        "timeupdated": "1633210909",
+        "timebuildupdated": "1633210909"
+      }
+    }
+  }
+}

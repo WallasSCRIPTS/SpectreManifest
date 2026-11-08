@@ -1,0 +1,82 @@
+{
+  "name": "Mercury Fallen",
+  "source": "spectre",
+  "changenumber": 40710723,
+  "updated": "2026-11-07T20:59:58.223Z",
+  "branches": {
+    "public": {
+      "buildid": "26386556",
+      "timeupdated": "1793644007",
+      "timebuildupdated": "1793643295"
+    },
+    "experimental": {
+      "buildid": "26386556",
+      "description": "Experimental",
+      "timeupdated": "1793643983",
+      "timebuildupdated": "1793643295"
+    },
+    "update_1.17": {
+      "buildid": "13382679",
+      "description": "Patch Update 1.17",
+      "timeupdated": "1715530912",
+      "timebuildupdated": "1707234618"
+    },
+    "update_1.19": {
+      "buildid": "14469606",
+      "description": "Update 1.19",
+      "timeupdated": "1761834298",
+      "timebuildupdated": "1716473198"
+    }
+  },
+  "depot": {
+    "704513": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6408546481966466018",
+          "size": "682412198",
+          "download": "222843328"
+        }
+      }
+    },
+    "704514": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7228274411958661667",
+          "size": "916705260",
+          "download": "466176160"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26386556",
+        "timeupdated": "1793644007",
+        "timebuildupdated": "1793643295"
+      },
+      "experimental": {
+        "buildid": "26386556",
+        "description": "Experimental",
+        "timeupdated": "1793643983",
+        "timebuildupdated": "1793643295"
+      },
+      "update_1.17": {
+        "buildid": "13382679",
+        "description": "Patch Update 1.17",
+        "timeupdated": "1715530912",
+        "timebuildupdated": "1707234618"
+      },
+      "update_1.19": {
+        "buildid": "14469606",
+        "description": "Update 1.19",
+        "timeupdated": "1761834298",
+        "timebuildupdated": "1716473198"
+      }
+    }
+  }
+}

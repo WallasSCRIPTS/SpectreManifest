@@ -1,0 +1,58 @@
+{
+  "name": "MSI Electric City: Core Assault",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:51.172Z",
+  "branches": {
+    "public": {
+      "buildid": "2231788",
+      "timeupdated": "1509015826",
+      "timebuildupdated": "1509013516"
+    },
+    "vrworks": {
+      "buildid": "2231795",
+      "description": "Nvidia VRWorks",
+      "timeupdated": "1509014079",
+      "timebuildupdated": "1509013731"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "691931": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4771596523257425514",
+          "size": "1409950644",
+          "download": "325626736"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2231788",
+        "timeupdated": "1509015826",
+        "timebuildupdated": "1509013516"
+      },
+      "vrworks": {
+        "buildid": "2231795",
+        "description": "Nvidia VRWorks",
+        "timeupdated": "1509014079",
+        "timebuildupdated": "1509013731"
+      }
+    }
+  }
+}

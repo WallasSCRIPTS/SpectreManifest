@@ -1,0 +1,92 @@
+{
+  "name": "Infection Free Zone",
+  "source": "spectre",
+  "changenumber": 40615609,
+  "updated": "2026-11-06T21:05:29.003Z",
+  "branches": {
+    "public": {
+      "buildid": "26104777",
+      "timeupdated": "1792593808",
+      "timebuildupdated": "1792581408"
+    },
+    "experimental": {
+      "buildid": "26104777",
+      "description": "For experimental builds - highly unstable",
+      "timeupdated": "1792593772",
+      "timebuildupdated": "1792581408"
+    },
+    "old_major_update_5": {
+      "buildid": "23078848",
+      "description": "Old - Major Update 5",
+      "timeupdated": "1777907589",
+      "timebuildupdated": "1777906998"
+    },
+    "open_beta": {
+      "buildid": "26104777",
+      "description": "New builds still in testing",
+      "timeupdated": "1792593785",
+      "timebuildupdated": "1792581408"
+    },
+    "previous": {
+      "buildid": "25808032",
+      "description": "previous default build",
+      "timeupdated": "1791993101",
+      "timebuildupdated": "1791474187"
+    }
+  },
+  "depot": {
+    "1465461": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5712198911692081708",
+          "size": "6276752758",
+          "download": "4020327808"
+        }
+      }
+    },
+    "3905440": {
+      "manifests": {
+        "public": {
+          "gid": "1617389351499270440",
+          "size": "570372119",
+          "download": "564185888"
+        }
+      },
+      "dlcappid": "3905440"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26104777",
+        "timeupdated": "1792593808",
+        "timebuildupdated": "1792581408"
+      },
+      "experimental": {
+        "buildid": "26104777",
+        "description": "For experimental builds - highly unstable",
+        "timeupdated": "1792593772",
+        "timebuildupdated": "1792581408"
+      },
+      "old_major_update_5": {
+        "buildid": "23078848",
+        "description": "Old - Major Update 5",
+        "timeupdated": "1777907589",
+        "timebuildupdated": "1777906998"
+      },
+      "open_beta": {
+        "buildid": "26104777",
+        "description": "New builds still in testing",
+        "timeupdated": "1792593785",
+        "timebuildupdated": "1792581408"
+      },
+      "previous": {
+        "buildid": "25808032",
+        "description": "previous default build",
+        "timeupdated": "1791993101",
+        "timebuildupdated": "1791474187"
+      }
+    }
+  }
+}

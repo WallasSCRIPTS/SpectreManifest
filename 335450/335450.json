@@ -1,0 +1,70 @@
+{
+  "name": "Curse of the Assassin",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:47.565Z",
+  "branches": {
+    "public": {
+      "buildid": "792052",
+      "timebuildupdated": "1443425285"
+    },
+    "beta": {
+      "buildid": "792052",
+      "timebuildupdated": "1443425285"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "335451": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3829033815167873882",
+          "size": "200725156",
+          "download": "73821504"
+        }
+      }
+    },
+    "335452": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "475391958296515641",
+          "size": "180218520",
+          "download": "62658560"
+        }
+      }
+    },
+    "335453": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4330509803742700134",
+          "size": "170355588",
+          "download": "60056800"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "792052",
+        "timebuildupdated": "1443425285"
+      },
+      "beta": {
+        "buildid": "792052",
+        "timebuildupdated": "1443425285"
+      }
+    }
+  }
+}

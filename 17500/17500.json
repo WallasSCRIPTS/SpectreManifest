@@ -1,0 +1,103 @@
+{
+  "name": "Zombie Panic! Source",
+  "source": "spectre",
+  "changenumber": 40675827,
+  "updated": "2026-11-07T20:55:46.886Z",
+  "branches": {
+    "public": {
+      "buildid": "26335113",
+      "timeupdated": "1793438993",
+      "timebuildupdated": "1793397316"
+    },
+    "legacy2.4": {
+      "buildid": "5567592",
+      "description": "ZPS v2.4 - NOT SUPPORTED!!!",
+      "timeupdated": "1601483687",
+      "timebuildupdated": "1600539595"
+    },
+    "v3.0.9a": {
+      "buildid": "3811266",
+      "description": "ZPS v3.0.9a - NOT SUPPORTED!!!",
+      "timeupdated": "1602784693",
+      "timebuildupdated": "1557482730"
+    }
+  },
+  "depot": {
+    "17501": {
+      "manifests": {
+        "public": {
+          "gid": "7984826436004781904",
+          "size": "7777790246",
+          "download": "3639191840"
+        }
+      }
+    },
+    "17502": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1006875527667340208",
+          "size": "120651606",
+          "download": "40417536"
+        }
+      }
+    },
+    "17503": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6831433578263663568",
+          "size": "88327195",
+          "download": "23803216"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26335113",
+        "timeupdated": "1793438993",
+        "timebuildupdated": "1793397316"
+      },
+      "legacy2.4": {
+        "buildid": "5567592",
+        "description": "ZPS v2.4 - NOT SUPPORTED!!!",
+        "timeupdated": "1601483687",
+        "timebuildupdated": "1600539595"
+      },
+      "v3.0.9a": {
+        "buildid": "3811266",
+        "description": "ZPS v3.0.9a - NOT SUPPORTED!!!",
+        "timeupdated": "1602784693",
+        "timebuildupdated": "1557482730"
+      }
+    }
+  }
+}

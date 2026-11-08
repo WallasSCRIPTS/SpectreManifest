@@ -1,0 +1,56 @@
+{
+  "name": "The Bard's Tale Trilogy",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:06.740Z",
+  "branches": {
+    "public": {
+      "buildid": "12101052",
+      "timeupdated": "1695949644",
+      "timebuildupdated": "1693783821"
+    },
+    "beta": {
+      "buildid": "12101052",
+      "timeupdated": "1694483109",
+      "timebuildupdated": "1693783821"
+    }
+  },
+  "depot": {
+    "843261": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5150270716173845995",
+          "size": "1226930553",
+          "download": "472905872"
+        }
+      }
+    },
+    "843262": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2601927168656308210",
+          "size": "1295289909",
+          "download": "537249280"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12101052",
+        "timeupdated": "1695949644",
+        "timebuildupdated": "1693783821"
+      },
+      "beta": {
+        "buildid": "12101052",
+        "timeupdated": "1694483109",
+        "timebuildupdated": "1693783821"
+      }
+    }
+  }
+}

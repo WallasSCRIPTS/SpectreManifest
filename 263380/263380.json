@@ -1,0 +1,68 @@
+{
+  "name": "Driftmoon",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:16.285Z",
+  "branches": {
+    "public": {
+      "buildid": "20692753",
+      "timeupdated": "1762424556",
+      "timebuildupdated": "1762424556"
+    },
+    "vanilladriftmoon": {
+      "buildid": "283602",
+      "timeupdated": "1588056320",
+      "timebuildupdated": "1401379024"
+    }
+  },
+  "depot": {
+    "263382": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "445817158101732897",
+          "size": "389733284",
+          "download": "197003232"
+        }
+      }
+    },
+    "263383": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4350854899965558485",
+          "size": "416419301",
+          "download": "208979104"
+        }
+      }
+    },
+    "263384": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8836241005147569202",
+          "size": "256513187",
+          "download": "178455088"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20692753",
+        "timeupdated": "1762424556",
+        "timebuildupdated": "1762424556"
+      },
+      "vanilladriftmoon": {
+        "buildid": "283602",
+        "timeupdated": "1588056320",
+        "timebuildupdated": "1401379024"
+      }
+    }
+  }
+}

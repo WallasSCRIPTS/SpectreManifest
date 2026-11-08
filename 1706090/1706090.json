@@ -1,0 +1,99 @@
+{
+  "name": "Bean and Nothingness",
+  "source": "spectre",
+  "changenumber": 37450809,
+  "updated": "2026-11-06T23:07:51.768Z",
+  "branches": {
+    "public": {
+      "buildid": "17313451",
+      "timeupdated": "1739228461",
+      "timebuildupdated": "1739227744"
+    },
+    "local": {
+      "buildid": "7458576",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1633066941",
+      "timebuildupdated": "1633066941"
+    },
+    "prev-version": {
+      "buildid": "10216950",
+      "description": "Most recent previous version",
+      "timeupdated": "1728081990",
+      "timebuildupdated": "1672068957"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1706091": {
+      "manifests": {
+        "public": {
+          "gid": "1956360301068309631",
+          "size": "149889192",
+          "download": "125628528"
+        }
+      }
+    },
+    "1706092": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1986563220667897116",
+          "size": "13656205",
+          "download": "2747504"
+        }
+      }
+    },
+    "1706093": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3565118291377291445",
+          "size": "9664302",
+          "download": "3105184"
+        }
+      }
+    },
+    "1706094": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6805298076172774760",
+          "size": "6353663",
+          "download": "1567232"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17313451",
+        "timeupdated": "1739228461",
+        "timebuildupdated": "1739227744"
+      },
+      "local": {
+        "buildid": "7458576",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1633066941",
+        "timebuildupdated": "1633066941"
+      },
+      "prev-version": {
+        "buildid": "10216950",
+        "description": "Most recent previous version",
+        "timeupdated": "1728081990",
+        "timebuildupdated": "1672068957"
+      }
+    }
+  }
+}

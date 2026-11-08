@@ -1,0 +1,390 @@
+{
+  "name": "Godhood",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:40.660Z",
+  "branches": {
+    "public": {
+      "buildid": "6590925",
+      "timeupdated": "1619193079",
+      "timebuildupdated": "1619193079"
+    },
+    "previous": {
+      "buildid": "5708646",
+      "description": "The previous version of Godhood",
+      "timeupdated": "1613125157",
+      "timebuildupdated": "1603183278"
+    },
+    "translated": {
+      "buildid": "4167390",
+      "description": "The last translated version",
+      "timeupdated": "1571933211",
+      "timebuildupdated": "1567628528"
+    },
+    "version_00": {
+      "buildid": "5150023",
+      "description": "Early Access Release",
+      "timeupdated": "1591873127",
+      "timebuildupdated": "1591873126"
+    },
+    "version_01": {
+      "buildid": "5150029",
+      "description": "EA Update #1: Will of the People",
+      "timeupdated": "1591873273",
+      "timebuildupdated": "1591873272"
+    },
+    "version_02": {
+      "buildid": "5150026",
+      "description": "EA Update #2: Old One Rising",
+      "timeupdated": "1591873209",
+      "timebuildupdated": "1591873208"
+    },
+    "version_03": {
+      "buildid": "4369352",
+      "description": "EA Update #3: Create Your Own Religion",
+      "timeupdated": "1591873311",
+      "timebuildupdated": "1573209206"
+    },
+    "version_04": {
+      "buildid": "4737056",
+      "description": "EA Update #4: Newfound Shores",
+      "timeupdated": "1591873341",
+      "timebuildupdated": "1583227070"
+    },
+    "version_05": {
+      "buildid": "4818593",
+      "description": "EA Update #5: Righteous Rituals",
+      "timeupdated": "1591873400",
+      "timebuildupdated": "1585150414"
+    },
+    "version_06": {
+      "buildid": "5247521",
+      "description": "EA Update #6: Tenets & Traditions",
+      "timeupdated": "1597162698",
+      "timebuildupdated": "1593775495"
+    },
+    "version_1.0": {
+      "buildid": "6230007",
+      "description": "#1.0 Release Version",
+      "timeupdated": "1613125092",
+      "timebuildupdated": "1613125092"
+    },
+    "version_1.1": {
+      "buildid": "5708646",
+      "description": "Update #1.1: Freedom of Religion",
+      "timeupdated": "1613125142",
+      "timebuildupdated": "1603183278"
+    }
+  },
+  "depot": {
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "917151": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2974605979541422734",
+          "size": "900271544",
+          "download": "875490816"
+        }
+      }
+    },
+    "917152": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6563653548417105476",
+          "size": "895566824",
+          "download": "873757904"
+        }
+      }
+    },
+    "917153": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1382454298207340660",
+          "size": "916652355",
+          "download": "877354192"
+        }
+      }
+    },
+    "1117010": {
+      "manifests": {
+        "public": {
+          "gid": "9159988775650117432",
+          "size": "846",
+          "download": "464"
+        }
+      },
+      "dlcappid": "1117010"
+    },
+    "1117011": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1619958469586656596",
+          "size": "846",
+          "download": "464"
+        }
+      },
+      "dlcappid": "1117010"
+    },
+    "1117012": {
+      "manifests": {
+        "public": {
+          "gid": "8252796456395136700",
+          "size": "134221069",
+          "download": "132411824"
+        }
+      },
+      "dlcappid": "1117721"
+    },
+    "1117190": {
+      "manifests": {
+        "public": {
+          "gid": "2395253516979947366",
+          "size": "1173",
+          "download": "656"
+        }
+      },
+      "dlcappid": "1117190"
+    },
+    "1117191": {
+      "manifests": {
+        "public": {
+          "gid": "3661930160277089175",
+          "size": "1404",
+          "download": "720"
+        }
+      },
+      "dlcappid": "1117191"
+    },
+    "1117192": {
+      "manifests": {
+        "public": {
+          "gid": "4761188624683867382",
+          "size": "1550",
+          "download": "752"
+        }
+      },
+      "dlcappid": "1117192"
+    },
+    "1117193": {
+      "manifests": {
+        "public": {
+          "gid": "8388764455202932087",
+          "size": "1538",
+          "download": "736"
+        }
+      },
+      "dlcappid": "1117193"
+    },
+    "1117195": {
+      "manifests": {
+        "public": {
+          "gid": "2658907125353359580",
+          "size": "1550",
+          "download": "752"
+        }
+      },
+      "dlcappid": "1117195"
+    },
+    "1117196": {
+      "manifests": {
+        "public": {
+          "gid": "6863951907913779034",
+          "size": "1552",
+          "download": "752"
+        }
+      },
+      "dlcappid": "1117196"
+    },
+    "1117197": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2065752527198640776",
+          "size": "1173",
+          "download": "656"
+        }
+      },
+      "dlcappid": "1117190"
+    },
+    "1117198": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1225915766486242873",
+          "size": "1404",
+          "download": "720"
+        }
+      },
+      "dlcappid": "1117191"
+    },
+    "1117199": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "168905401564426137",
+          "size": "1550",
+          "download": "752"
+        }
+      },
+      "dlcappid": "1117192"
+    },
+    "1117722": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2601545882702153125",
+          "size": "1538",
+          "download": "736"
+        }
+      },
+      "dlcappid": "1117193"
+    },
+    "1117723": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3063746808656555897",
+          "size": "1550",
+          "download": "752"
+        }
+      },
+      "dlcappid": "1117195"
+    },
+    "1117724": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2210030196856536337",
+          "size": "1552",
+          "download": "752"
+        }
+      },
+      "dlcappid": "1117196"
+    },
+    "1118460": {
+      "manifests": {
+        "public": {
+          "gid": "5738165174216188532",
+          "size": "1559",
+          "download": "752"
+        }
+      },
+      "dlcappid": "1118460"
+    },
+    "1118461": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7159589166312435327",
+          "size": "1559",
+          "download": "752"
+        }
+      },
+      "dlcappid": "1118460"
+    },
+    "branches": {
+      "public": {
+        "buildid": "6590925",
+        "timeupdated": "1619193079",
+        "timebuildupdated": "1619193079"
+      },
+      "previous": {
+        "buildid": "5708646",
+        "description": "The previous version of Godhood",
+        "timeupdated": "1613125157",
+        "timebuildupdated": "1603183278"
+      },
+      "translated": {
+        "buildid": "4167390",
+        "description": "The last translated version",
+        "timeupdated": "1571933211",
+        "timebuildupdated": "1567628528"
+      },
+      "version_00": {
+        "buildid": "5150023",
+        "description": "Early Access Release",
+        "timeupdated": "1591873127",
+        "timebuildupdated": "1591873126"
+      },
+      "version_01": {
+        "buildid": "5150029",
+        "description": "EA Update #1: Will of the People",
+        "timeupdated": "1591873273",
+        "timebuildupdated": "1591873272"
+      },
+      "version_02": {
+        "buildid": "5150026",
+        "description": "EA Update #2: Old One Rising",
+        "timeupdated": "1591873209",
+        "timebuildupdated": "1591873208"
+      },
+      "version_03": {
+        "buildid": "4369352",
+        "description": "EA Update #3: Create Your Own Religion",
+        "timeupdated": "1591873311",
+        "timebuildupdated": "1573209206"
+      },
+      "version_04": {
+        "buildid": "4737056",
+        "description": "EA Update #4: Newfound Shores",
+        "timeupdated": "1591873341",
+        "timebuildupdated": "1583227070"
+      },
+      "version_05": {
+        "buildid": "4818593",
+        "description": "EA Update #5: Righteous Rituals",
+        "timeupdated": "1591873400",
+        "timebuildupdated": "1585150414"
+      },
+      "version_06": {
+        "buildid": "5247521",
+        "description": "EA Update #6: Tenets & Traditions",
+        "timeupdated": "1597162698",
+        "timebuildupdated": "1593775495"
+      },
+      "version_1.0": {
+        "buildid": "6230007",
+        "description": "#1.0 Release Version",
+        "timeupdated": "1613125092",
+        "timebuildupdated": "1613125092"
+      },
+      "version_1.1": {
+        "buildid": "5708646",
+        "description": "Update #1.1: Freedom of Religion",
+        "timeupdated": "1613125142",
+        "timebuildupdated": "1603183278"
+      }
+    }
+  }
+}

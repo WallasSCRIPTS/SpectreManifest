@@ -1,0 +1,83 @@
+{
+  "name": "Kind Words",
+  "source": "spectre",
+  "changenumber": 37441117,
+  "updated": "2026-11-07T21:02:58.611Z",
+  "branches": {
+    "public": {
+      "buildid": "20773423",
+      "timeupdated": "1762979887",
+      "timebuildupdated": "1762978788"
+    },
+    "oldermacos": {
+      "buildid": "6211689",
+      "description": "Outdated version supporting MacOS 10.11",
+      "timeupdated": "1629271207",
+      "timebuildupdated": "1612863595"
+    },
+    "testing": {
+      "buildid": "20773423",
+      "timeupdated": "1762979035",
+      "timebuildupdated": "1762978788"
+    }
+  },
+  "depot": {
+    "1070711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8131971208091364765",
+          "size": "281401202",
+          "download": "139640640"
+        }
+      }
+    },
+    "1070712": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1398422364074959364",
+          "size": "293247322",
+          "download": "145015360"
+        }
+      }
+    },
+    "1070713": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1928069261314305325",
+          "size": "321530301",
+          "download": "138023024"
+        }
+      }
+    },
+    "1129440": {
+      "dlcappid": "1129440"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20773423",
+        "timeupdated": "1762979887",
+        "timebuildupdated": "1762978788"
+      },
+      "oldermacos": {
+        "buildid": "6211689",
+        "description": "Outdated version supporting MacOS 10.11",
+        "timeupdated": "1629271207",
+        "timebuildupdated": "1612863595"
+      },
+      "testing": {
+        "buildid": "20773423",
+        "timeupdated": "1762979035",
+        "timebuildupdated": "1762978788"
+      }
+    }
+  }
+}

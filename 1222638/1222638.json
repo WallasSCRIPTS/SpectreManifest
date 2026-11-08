@@ -1,0 +1,73 @@
+{
+  "name": "EasyRPG",
+  "source": "spectre",
+  "changenumber": 40627073,
+  "updated": "2026-11-06T21:03:42.037Z",
+  "branches": {
+    "public": {
+      "buildid": "20833885",
+      "timeupdated": "1763418449",
+      "timebuildupdated": "1763416464"
+    },
+    "nightly": {
+      "buildid": "26456967",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793879184",
+      "timebuildupdated": "1793879184"
+    }
+  },
+  "depot": {
+    "1222638": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8428595716958439500",
+          "size": "36116",
+          "download": "12064"
+        }
+      },
+      "dlcappid": "1222638"
+    },
+    "1790110": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2784759809258414173",
+          "size": "36116",
+          "download": "12064"
+        }
+      },
+      "dlcappid": "1222638"
+    },
+    "1790111": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6489930669828664739",
+          "size": "36116",
+          "download": "12064"
+        }
+      },
+      "dlcappid": "1222638"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833885",
+        "timeupdated": "1763418449",
+        "timebuildupdated": "1763416464"
+      },
+      "nightly": {
+        "buildid": "26456967",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793879184",
+        "timebuildupdated": "1793879184"
+      }
+    }
+  }
+}

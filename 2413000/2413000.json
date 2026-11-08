@@ -1,0 +1,58 @@
+{
+  "name": "Magic Cube 4D VR",
+  "source": "spectre",
+  "changenumber": 34900635,
+  "updated": "2026-11-06T23:23:25.492Z",
+  "branches": {
+    "public": {
+      "buildid": "13069952",
+      "timeupdated": "1704042096",
+      "timebuildupdated": "1704042096"
+    },
+    "oculus": {
+      "buildid": "11555006",
+      "description": "support for Oculus Rift CV1, maybe other oculus headsets too",
+      "timeupdated": "1687710301",
+      "timebuildupdated": "1687710301"
+    }
+  },
+  "depot": {
+    "2413001": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1994132100028799325",
+          "size": "451874626",
+          "download": "314968464"
+        }
+      }
+    },
+    "2413002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5895030183074480725",
+          "size": "949913389",
+          "download": "487541968"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13069952",
+        "timeupdated": "1704042096",
+        "timebuildupdated": "1704042096"
+      },
+      "oculus": {
+        "buildid": "11555006",
+        "description": "support for Oculus Rift CV1, maybe other oculus headsets too",
+        "timeupdated": "1687710301",
+        "timebuildupdated": "1687710301"
+      }
+    }
+  }
+}

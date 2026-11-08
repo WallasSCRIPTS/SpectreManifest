@@ -1,0 +1,82 @@
+{
+  "name": "Thrive",
+  "source": "spectre",
+  "changenumber": 40485785,
+  "updated": "2026-11-06T23:09:46.418Z",
+  "branches": {
+    "public": {
+      "buildid": "26179654",
+      "timeupdated": "1792832210",
+      "timebuildupdated": "1792832171"
+    },
+    "0.6.5-last-version-with-godot-3": {
+      "buildid": "13551762",
+      "description": "Last version of Thrive before the update to Godot 4",
+      "timeupdated": "1712829661",
+      "timebuildupdated": "1708765647"
+    },
+    "beta": {
+      "buildid": "26179654",
+      "description": "non-stable version",
+      "timeupdated": "1792832171",
+      "timebuildupdated": "1792832171"
+    }
+  },
+  "depot": {
+    "1779202": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6332479871858915269",
+          "size": "1937299512",
+          "download": "715031408"
+        }
+      }
+    },
+    "1779203": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5244257383345703857",
+          "size": "1975915486",
+          "download": "724727968"
+        }
+      }
+    },
+    "1779204": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "252345328038773724",
+          "size": "2331465210",
+          "download": "838565824"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26179654",
+        "timeupdated": "1792832210",
+        "timebuildupdated": "1792832171"
+      },
+      "0.6.5-last-version-with-godot-3": {
+        "buildid": "13551762",
+        "description": "Last version of Thrive before the update to Godot 4",
+        "timeupdated": "1712829661",
+        "timebuildupdated": "1708765647"
+      },
+      "beta": {
+        "buildid": "26179654",
+        "description": "non-stable version",
+        "timeupdated": "1792832171",
+        "timebuildupdated": "1792832171"
+      }
+    }
+  }
+}

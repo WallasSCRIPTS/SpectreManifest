@@ -1,0 +1,63 @@
+{
+  "name": "Ascension",
+  "source": "spectre",
+  "changenumber": 40665052,
+  "updated": "2026-11-06T23:21:29.990Z",
+  "branches": {
+    "public": {
+      "buildid": "21056618",
+      "timeupdated": "1764916535",
+      "timebuildupdated": "1764865617"
+    },
+    "publictest": {
+      "buildid": "24289935",
+      "description": "用于公开场合测试的版本",
+      "timeupdated": "1784519330",
+      "timebuildupdated": "1784518603"
+    }
+  },
+  "depot": {
+    "2328481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1731661745705585833",
+          "size": "5094109954",
+          "download": "4185372704"
+        }
+      }
+    },
+    "2328482": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8629111367049051029",
+          "size": "5094109954",
+          "download": "4189027808"
+        }
+      }
+    },
+    "2328483": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21056618",
+        "timeupdated": "1764916535",
+        "timebuildupdated": "1764865617"
+      },
+      "publictest": {
+        "buildid": "24289935",
+        "description": "用于公开场合测试的版本",
+        "timeupdated": "1784519330",
+        "timebuildupdated": "1784518603"
+      }
+    }
+  }
+}

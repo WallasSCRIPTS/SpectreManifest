@@ -1,0 +1,68 @@
+{
+  "name": "Anodyne",
+  "source": "spectre",
+  "changenumber": 40190916,
+  "updated": "2026-11-07T20:56:08.360Z",
+  "branches": {
+    "public": {
+      "buildid": "15101492",
+      "timeupdated": "1721518174",
+      "timebuildupdated": "1721518126"
+    },
+    "beta": {
+      "buildid": "12385594",
+      "timeupdated": "1696742846",
+      "timebuildupdated": "1696742773"
+    }
+  },
+  "depot": {
+    "234901": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4410290425533029018",
+          "size": "236241559",
+          "download": "163044320"
+        }
+      }
+    },
+    "234902": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6542586886442311988",
+          "size": "265444541",
+          "download": "161997904"
+        }
+      }
+    },
+    "234903": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5828973670738540060",
+          "size": "161915972",
+          "download": "92635920"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15101492",
+        "timeupdated": "1721518174",
+        "timebuildupdated": "1721518126"
+      },
+      "beta": {
+        "buildid": "12385594",
+        "timeupdated": "1696742846",
+        "timebuildupdated": "1696742773"
+      }
+    }
+  }
+}

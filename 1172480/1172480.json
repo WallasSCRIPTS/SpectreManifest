@@ -1,0 +1,68 @@
+{
+  "name": "Louie",
+  "source": "spectre",
+  "changenumber": 34848707,
+  "updated": "2026-11-07T21:03:56.731Z",
+  "branches": {
+    "public": {
+      "buildid": "5648728",
+      "timeupdated": "1602293685",
+      "timebuildupdated": "1602068669"
+    },
+    "main_osx": {
+      "buildid": "4533728",
+      "timeupdated": "1577747627",
+      "timebuildupdated": "1577747627"
+    },
+    "next": {
+      "buildid": "5648728",
+      "description": "used to testing deploys before going to mainline",
+      "timeupdated": "1602068682",
+      "timebuildupdated": "1602068669"
+    }
+  },
+  "depot": {
+    "1172481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8777540992168908619",
+          "size": "516535149",
+          "download": "147777632"
+        }
+      }
+    },
+    "1172482": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6316322966139741105",
+          "size": "527266137",
+          "download": "149803600"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5648728",
+        "timeupdated": "1602293685",
+        "timebuildupdated": "1602068669"
+      },
+      "main_osx": {
+        "buildid": "4533728",
+        "timeupdated": "1577747627",
+        "timebuildupdated": "1577747627"
+      },
+      "next": {
+        "buildid": "5648728",
+        "description": "used to testing deploys before going to mainline",
+        "timeupdated": "1602068682",
+        "timebuildupdated": "1602068669"
+      }
+    }
+  }
+}

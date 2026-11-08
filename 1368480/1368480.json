@@ -1,0 +1,67 @@
+{
+  "name": "Voidwalkers - Astora's Darkness",
+  "source": "spectre",
+  "changenumber": 40615790,
+  "updated": "2026-11-06T21:04:43.339Z",
+  "branches": {
+    "public": {
+      "buildid": "7370792",
+      "timeupdated": "1631801380",
+      "timebuildupdated": "1631801042"
+    },
+    "beta": {
+      "buildid": "10652887",
+      "description": "Experimental builds",
+      "timeupdated": "1677567714",
+      "timebuildupdated": "1677566321"
+    },
+    "oldgame": {
+      "buildid": "7370792",
+      "description": "This is the branch for the old game.",
+      "timeupdated": "1677390489",
+      "timebuildupdated": "1631801042"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1368481": {
+      "manifests": {
+        "public": {
+          "gid": "4647882768754824017",
+          "size": "4432456700",
+          "download": "4304134352"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7370792",
+        "timeupdated": "1631801380",
+        "timebuildupdated": "1631801042"
+      },
+      "beta": {
+        "buildid": "10652887",
+        "description": "Experimental builds",
+        "timeupdated": "1677567714",
+        "timebuildupdated": "1677566321"
+      },
+      "oldgame": {
+        "buildid": "7370792",
+        "description": "This is the branch for the old game.",
+        "timeupdated": "1677390489",
+        "timebuildupdated": "1631801042"
+      }
+    }
+  }
+}

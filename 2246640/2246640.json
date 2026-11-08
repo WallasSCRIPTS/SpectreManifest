@@ -1,0 +1,70 @@
+{
+  "name": "Tiny Atolls",
+  "source": "spectre",
+  "changenumber": 40417647,
+  "updated": "2026-11-06T23:21:20.665Z",
+  "branches": {
+    "public": {
+      "buildid": "26320702",
+      "timeupdated": "1793355910",
+      "timebuildupdated": "1793355910"
+    },
+    "preview": {
+      "buildid": "26320609",
+      "description": "Preview Branch",
+      "timeupdated": "1793355641",
+      "timebuildupdated": "1793355641"
+    }
+  },
+  "depot": {
+    "2246641": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "824609212517213657",
+          "size": "1776344444",
+          "download": "147036464"
+        }
+      }
+    },
+    "2246642": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4850811432494020596",
+          "size": "1777980584",
+          "download": "146953696"
+        }
+      }
+    },
+    "2246643": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6387089619370449733",
+          "size": "1020416690",
+          "download": "112156368"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26320702",
+        "timeupdated": "1793355910",
+        "timebuildupdated": "1793355910"
+      },
+      "preview": {
+        "buildid": "26320609",
+        "description": "Preview Branch",
+        "timeupdated": "1793355641",
+        "timebuildupdated": "1793355641"
+      }
+    }
+  }
+}

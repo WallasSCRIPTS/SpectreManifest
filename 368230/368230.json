@@ -1,0 +1,80 @@
+{
+  "name": "Kingdom: Classic",
+  "source": "spectre",
+  "changenumber": 40620897,
+  "updated": "2026-11-07T20:57:13.278Z",
+  "branches": {
+    "public": {
+      "buildid": "1062187",
+      "timeupdated": "1460404081",
+      "timebuildupdated": "1460021252"
+    },
+    "v1.1.0": {
+      "buildid": "908328",
+      "description": "Legacy version",
+      "timeupdated": "1460401562",
+      "timebuildupdated": "1450705968"
+    }
+  },
+  "depot": {
+    "368231": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5035219411638131622",
+          "size": "313105907",
+          "download": "202011200"
+        }
+      }
+    },
+    "368232": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4435849246243124237",
+          "size": "302889321",
+          "download": "200176944"
+        }
+      }
+    },
+    "368233": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8807784533836159804",
+          "size": "291054445",
+          "download": "202228976"
+        }
+      }
+    },
+    "408370": {
+      "manifests": {
+        "public": {
+          "gid": "3926834420074162618",
+          "size": "617205062",
+          "download": "612131264"
+        }
+      },
+      "dlcappid": "408370"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1062187",
+        "timeupdated": "1460404081",
+        "timebuildupdated": "1460021252"
+      },
+      "v1.1.0": {
+        "buildid": "908328",
+        "description": "Legacy version",
+        "timeupdated": "1460401562",
+        "timebuildupdated": "1450705968"
+      }
+    }
+  }
+}

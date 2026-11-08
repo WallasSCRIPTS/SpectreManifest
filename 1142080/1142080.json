@@ -1,0 +1,70 @@
+{
+  "name": "Pawnbarian",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:40.836Z",
+  "branches": {
+    "public": {
+      "buildid": "22516219",
+      "timeupdated": "1774532976",
+      "timebuildupdated": "1774530352"
+    },
+    "public-beta": {
+      "buildid": "22516219",
+      "description": "Public beta branch",
+      "timeupdated": "1774530354",
+      "timebuildupdated": "1774530352"
+    }
+  },
+  "depot": {
+    "1142082": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "590784518725178393",
+          "size": "224128913",
+          "download": "110380912"
+        }
+      }
+    },
+    "1142083": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3920224311256263081",
+          "size": "217061420",
+          "download": "106616400"
+        }
+      }
+    },
+    "1142084": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "678088482385963261",
+          "size": "241893560",
+          "download": "118546416"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22516219",
+        "timeupdated": "1774532976",
+        "timebuildupdated": "1774530352"
+      },
+      "public-beta": {
+        "buildid": "22516219",
+        "description": "Public beta branch",
+        "timeupdated": "1774530354",
+        "timebuildupdated": "1774530352"
+      }
+    }
+  }
+}

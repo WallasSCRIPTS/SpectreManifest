@@ -1,0 +1,58 @@
+{
+  "name": "Fish Lake",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:58:32.654Z",
+  "branches": {
+    "public": {
+      "buildid": "7697783",
+      "timeupdated": "1636654807",
+      "timebuildupdated": "1636654192"
+    },
+    "beta_testing": {
+      "buildid": "1519932",
+      "description": "Fish Lake v2.0-180-ga1b9974",
+      "timeupdated": "1486192967",
+      "timebuildupdated": "1481752991"
+    }
+  },
+  "depot": {
+    "529611": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4881707840363425430",
+          "size": "1741103346",
+          "download": "1380798320"
+        }
+      }
+    },
+    "529612": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3887281593631493116",
+          "size": "1749110597",
+          "download": "1379951136"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7697783",
+        "timeupdated": "1636654807",
+        "timebuildupdated": "1636654192"
+      },
+      "beta_testing": {
+        "buildid": "1519932",
+        "description": "Fish Lake v2.0-180-ga1b9974",
+        "timeupdated": "1486192967",
+        "timebuildupdated": "1481752991"
+      }
+    }
+  }
+}

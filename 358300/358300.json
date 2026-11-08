@@ -1,0 +1,59 @@
+{
+  "name": "Major Stryker",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:07.568Z",
+  "branches": {
+    "public": {
+      "buildid": "606131",
+      "timebuildupdated": "1430315534"
+    }
+  },
+  "depot": {
+    "358282": {
+      "depotfromapp": "358280"
+    },
+    "358301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4234364669001166710",
+          "size": "32811938",
+          "download": "11596496"
+        }
+      }
+    },
+    "358302": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1951672371918033842",
+          "size": "10818473",
+          "download": "2786480"
+        }
+      }
+    },
+    "358303": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4648468625388612600",
+          "size": "12834430",
+          "download": "3688640"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "606131",
+        "timebuildupdated": "1430315534"
+      }
+    }
+  }
+}

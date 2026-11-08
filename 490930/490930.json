@@ -1,0 +1,70 @@
+{
+  "name": "Need to Know",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:13.860Z",
+  "branches": {
+    "public": {
+      "buildid": "20363314",
+      "timeupdated": "1760332054",
+      "timebuildupdated": "1760328011"
+    },
+    "beta": {
+      "buildid": "20363314",
+      "description": "Dev testing",
+      "timeupdated": "1760328011",
+      "timebuildupdated": "1760328011"
+    }
+  },
+  "depot": {
+    "490931": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7224991467668749373",
+          "size": "2120596255",
+          "download": "1332025264"
+        }
+      }
+    },
+    "490932": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5280170301535695422",
+          "size": "2185743085",
+          "download": "1341957616"
+        }
+      }
+    },
+    "490933": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2137421253640089887",
+          "size": "2137956974",
+          "download": "1344449648"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20363314",
+        "timeupdated": "1760332054",
+        "timebuildupdated": "1760328011"
+      },
+      "beta": {
+        "buildid": "20363314",
+        "description": "Dev testing",
+        "timeupdated": "1760328011",
+        "timebuildupdated": "1760328011"
+      }
+    }
+  }
+}

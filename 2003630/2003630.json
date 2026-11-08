@@ -1,0 +1,58 @@
+{
+  "name": "晴天咖啡館Sunny Cafe 試玩版",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-06T23:15:31.101Z",
+  "branches": {
+    "public": {
+      "buildid": "13983476",
+      "timeupdated": "1712564248",
+      "timebuildupdated": "1712564231"
+    },
+    "beta": {
+      "buildid": "13983476",
+      "description": "for testing",
+      "timeupdated": "1712564231",
+      "timebuildupdated": "1712564231"
+    }
+  },
+  "depot": {
+    "2003631": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8521803393686710929",
+          "size": "5223939405",
+          "download": "4355686784"
+        }
+      }
+    },
+    "2003632": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9061603312677566732",
+          "size": "5460792898",
+          "download": "4604847024"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13983476",
+        "timeupdated": "1712564248",
+        "timebuildupdated": "1712564231"
+      },
+      "beta": {
+        "buildid": "13983476",
+        "description": "for testing",
+        "timeupdated": "1712564231",
+        "timebuildupdated": "1712564231"
+      }
+    }
+  }
+}

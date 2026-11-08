@@ -1,0 +1,73 @@
+{
+  "name": "Stella",
+  "source": "spectre",
+  "changenumber": 40627149,
+  "updated": "2026-11-06T21:03:44.111Z",
+  "branches": {
+    "public": {
+      "buildid": "20833911",
+      "timeupdated": "1763418548",
+      "timebuildupdated": "1763416580"
+    },
+    "nightly": {
+      "buildid": "26457028",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793879352",
+      "timebuildupdated": "1793879352"
+    }
+  },
+  "depot": {
+    "1227443": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3131651053748146520",
+          "size": "7066048",
+          "download": "1885648"
+        }
+      },
+      "dlcappid": "1227443"
+    },
+    "1656160": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7276589342859580541",
+          "size": "9453149",
+          "download": "1645968"
+        }
+      },
+      "dlcappid": "1227443"
+    },
+    "1656161": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3822727764060743964",
+          "size": "9071141",
+          "download": "2182496"
+        }
+      },
+      "dlcappid": "1227443"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833911",
+        "timeupdated": "1763418548",
+        "timebuildupdated": "1763416580"
+      },
+      "nightly": {
+        "buildid": "26457028",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793879352",
+        "timebuildupdated": "1793879352"
+      }
+    }
+  }
+}

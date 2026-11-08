@@ -1,0 +1,101 @@
+{
+  "name": "Indoorlands",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:48.436Z",
+  "branches": {
+    "public": {
+      "buildid": "13012137",
+      "timeupdated": "1703090308",
+      "timebuildupdated": "1703089211"
+    },
+    "experimental": {
+      "buildid": "10201234",
+      "description": "Experimental",
+      "timeupdated": "1671728763",
+      "timebuildupdated": "1671728718"
+    },
+    "previous": {
+      "buildid": "10201234",
+      "description": "Previous released version",
+      "timeupdated": "1703089238",
+      "timebuildupdated": "1671728718"
+    }
+  },
+  "depot": {
+    "1378891": {
+      "manifests": {
+        "public": {
+          "gid": "2764598533673051832",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "1378892": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4368443347947358865",
+          "size": "2883675280",
+          "download": "539438880"
+        }
+      }
+    },
+    "1378893": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6247152751848006656",
+          "size": "2848161721",
+          "download": "472253120"
+        }
+      }
+    },
+    "1378894": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8069855620164840877",
+          "size": "2767694369",
+          "download": "434159184"
+        }
+      }
+    },
+    "1666380": {
+      "manifests": {
+        "public": {
+          "gid": "1859637704321650033",
+          "size": "72398422",
+          "download": "68270400"
+        }
+      },
+      "dlcappid": "1666380"
+    },
+    "branches": {
+      "public": {
+        "buildid": "13012137",
+        "timeupdated": "1703090308",
+        "timebuildupdated": "1703089211"
+      },
+      "experimental": {
+        "buildid": "10201234",
+        "description": "Experimental",
+        "timeupdated": "1671728763",
+        "timebuildupdated": "1671728718"
+      },
+      "previous": {
+        "buildid": "10201234",
+        "description": "Previous released version",
+        "timeupdated": "1703089238",
+        "timebuildupdated": "1671728718"
+      }
+    }
+  }
+}

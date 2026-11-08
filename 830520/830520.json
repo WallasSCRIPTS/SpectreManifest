@@ -1,0 +1,68 @@
+{
+  "name": "Finger Jets",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:01:01.153Z",
+  "branches": {
+    "public": {
+      "buildid": "2731198",
+      "timeupdated": "1524983546",
+      "timebuildupdated": "1524978673"
+    },
+    "beta": {
+      "buildid": "2738060",
+      "timeupdated": "1525236031",
+      "timebuildupdated": "1525227094"
+    }
+  },
+  "depot": {
+    "830521": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6021763983037595949",
+          "size": "123180751",
+          "download": "25903040"
+        }
+      }
+    },
+    "830522": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5913398707600882069",
+          "size": "130220455",
+          "download": "27651760"
+        }
+      }
+    },
+    "830523": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3201985108543817972",
+          "size": "165671554",
+          "download": "40183968"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2731198",
+        "timeupdated": "1524983546",
+        "timebuildupdated": "1524978673"
+      },
+      "beta": {
+        "buildid": "2738060",
+        "timeupdated": "1525236031",
+        "timebuildupdated": "1525227094"
+      }
+    }
+  }
+}

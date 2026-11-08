@@ -1,0 +1,52 @@
+{
+  "name": "Heartwood Online",
+  "source": "spectre",
+  "changenumber": 40642006,
+  "updated": "2026-11-06T23:19:28.145Z",
+  "branches": {
+    "public": {
+      "buildid": "22153816",
+      "timeupdated": "1772411050",
+      "timebuildupdated": "1772410561"
+    }
+  },
+  "depot": {
+    "2180601": {},
+    "2180602": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2973293664146830450",
+          "size": "873966760",
+          "download": "106924016"
+        }
+      }
+    },
+    "2180603": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6970202039784224846",
+          "size": "729420855",
+          "download": "74078816"
+        }
+      }
+    },
+    "2180604": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22153816",
+        "timeupdated": "1772411050",
+        "timebuildupdated": "1772410561"
+      }
+    }
+  }
+}

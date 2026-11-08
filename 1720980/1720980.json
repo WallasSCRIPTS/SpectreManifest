@@ -1,0 +1,70 @@
+{
+  "name": "SILO27: Crashlanded",
+  "source": "spectre",
+  "changenumber": 34870140,
+  "updated": "2026-11-06T23:09:38.624Z",
+  "branches": {
+    "public": {
+      "buildid": "10688300",
+      "timeupdated": "1677885245",
+      "timebuildupdated": "1677885245"
+    },
+    "beta": {
+      "buildid": "10688299",
+      "description": "Public beta branch",
+      "timeupdated": "1677885233",
+      "timebuildupdated": "1677885233"
+    }
+  },
+  "depot": {
+    "1720981": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2558186919282560494",
+          "size": "537505434",
+          "download": "192879712"
+        }
+      }
+    },
+    "1720982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2545462973668408773",
+          "size": "590181672",
+          "download": "237811024"
+        }
+      }
+    },
+    "1720983": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3215679947935984286",
+          "size": "687702363",
+          "download": "269377360"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10688300",
+        "timeupdated": "1677885245",
+        "timebuildupdated": "1677885245"
+      },
+      "beta": {
+        "buildid": "10688299",
+        "description": "Public beta branch",
+        "timeupdated": "1677885233",
+        "timebuildupdated": "1677885233"
+      }
+    }
+  }
+}

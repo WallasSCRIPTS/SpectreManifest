@@ -1,0 +1,70 @@
+{
+  "name": "NABOKI",
+  "source": "spectre",
+  "changenumber": 37442455,
+  "updated": "2026-11-07T21:03:59.197Z",
+  "branches": {
+    "public": {
+      "buildid": "20332931",
+      "timeupdated": "1760081224",
+      "timebuildupdated": "1760081181"
+    },
+    "beta": {
+      "buildid": "8586071",
+      "description": "testing",
+      "timeupdated": "1650415370",
+      "timebuildupdated": "1650415370"
+    }
+  },
+  "depot": {
+    "1177131": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1218557828704038877",
+          "size": "173386323",
+          "download": "71899632"
+        }
+      }
+    },
+    "1177132": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "198491041852687474",
+          "size": "157315679",
+          "download": "64109008"
+        }
+      }
+    },
+    "1177133": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "941874292196328709",
+          "size": "199208894",
+          "download": "63896768"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20332931",
+        "timeupdated": "1760081224",
+        "timebuildupdated": "1760081181"
+      },
+      "beta": {
+        "buildid": "8586071",
+        "description": "testing",
+        "timeupdated": "1650415370",
+        "timebuildupdated": "1650415370"
+      }
+    }
+  }
+}

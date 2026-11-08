@@ -1,0 +1,79 @@
+{
+  "name": "RuneTech",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:01:13.072Z",
+  "branches": {
+    "public": {
+      "buildid": "2916464",
+      "timeupdated": "1530659117",
+      "timebuildupdated": "1530659077"
+    },
+    "beta": {
+      "buildid": "2926303",
+      "description": "Beta only builds, likely highly buggy",
+      "timeupdated": "1530931121",
+      "timebuildupdated": "1530931090"
+    }
+  },
+  "depot": {
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "857891": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7516029716850472554",
+          "size": "1245429484",
+          "download": "571458992"
+        }
+      }
+    },
+    "857892": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1497957182025998695",
+          "size": "1185231850",
+          "download": "549228544"
+        }
+      }
+    },
+    "857893": {
+      "manifests": {
+        "public": {
+          "gid": "3861720887535585596",
+          "size": "1245429484",
+          "download": "570908144"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2916464",
+        "timeupdated": "1530659117",
+        "timebuildupdated": "1530659077"
+      },
+      "beta": {
+        "buildid": "2926303",
+        "description": "Beta only builds, likely highly buggy",
+        "timeupdated": "1530931121",
+        "timebuildupdated": "1530931090"
+      }
+    }
+  }
+}

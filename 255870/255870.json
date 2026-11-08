@@ -1,0 +1,68 @@
+{
+  "name": "PixelJunk™ Shooter",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:14.158Z",
+  "branches": {
+    "public": {
+      "buildid": "143657",
+      "timebuildupdated": "1384532278"
+    },
+    "local": {
+      "buildid": "145622",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1384935990"
+    }
+  },
+  "depot": {
+    "255871": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "345927042848564350",
+          "size": "283487013",
+          "download": "0"
+        }
+      }
+    },
+    "255872": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4018387637181103577",
+          "size": "274618074",
+          "download": "0"
+        }
+      }
+    },
+    "255873": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3858467501625988533",
+          "size": "282455599",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "143657",
+        "timebuildupdated": "1384532278"
+      },
+      "local": {
+        "buildid": "145622",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1384935990"
+      }
+    }
+  }
+}

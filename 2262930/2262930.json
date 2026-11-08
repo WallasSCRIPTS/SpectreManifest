@@ -1,0 +1,76 @@
+{
+  "name": "Bombe",
+  "source": "spectre",
+  "changenumber": 38267457,
+  "updated": "2026-11-06T23:21:22.614Z",
+  "branches": {
+    "public": {
+      "buildid": "19503708",
+      "timeupdated": "1754511017",
+      "timebuildupdated": "1754510945"
+    },
+    "testing": {
+      "buildid": "24895116",
+      "description": " Testing branch for unstable and experimental",
+      "timeupdated": "1787517151",
+      "timebuildupdated": "1787517106"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2262932": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2702245815651047184",
+          "size": "89195756",
+          "download": "59348064"
+        }
+      }
+    },
+    "2262933": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4446841708848598584",
+          "size": "108171788",
+          "download": "65717936"
+        }
+      }
+    },
+    "2262934": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "463855778375360931",
+          "size": "105736292",
+          "download": "63483664"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19503708",
+        "timeupdated": "1754511017",
+        "timebuildupdated": "1754510945"
+      },
+      "testing": {
+        "buildid": "24895116",
+        "description": " Testing branch for unstable and experimental",
+        "timeupdated": "1787517151",
+        "timebuildupdated": "1787517106"
+      }
+    }
+  }
+}

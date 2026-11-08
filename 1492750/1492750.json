@@ -1,0 +1,70 @@
+{
+  "name": "Mega Knockdown",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:40.847Z",
+  "branches": {
+    "public": {
+      "buildid": "24728011",
+      "timeupdated": "1786686270",
+      "timebuildupdated": "1786685290"
+    },
+    "beta": {
+      "buildid": "25554733",
+      "description": "experimental branch",
+      "timeupdated": "1790473162",
+      "timebuildupdated": "1790473136"
+    }
+  },
+  "depot": {
+    "1492751": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "922056729366799289",
+          "size": "1136809649",
+          "download": "293612400"
+        }
+      }
+    },
+    "1492752": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "447465528023913391",
+          "size": "1168849123",
+          "download": "301317760"
+        }
+      }
+    },
+    "1492753": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2562039993557545439",
+          "size": "1136971922",
+          "download": "292286784"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24728011",
+        "timeupdated": "1786686270",
+        "timebuildupdated": "1786685290"
+      },
+      "beta": {
+        "buildid": "25554733",
+        "description": "experimental branch",
+        "timeupdated": "1790473162",
+        "timebuildupdated": "1790473136"
+      }
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Tales And Tactics",
+  "source": "spectre",
+  "changenumber": 40543055,
+  "updated": "2026-11-06T21:06:50.859Z",
+  "branches": {
+    "public": {
+      "buildid": "25135900",
+      "timeupdated": "1788576639",
+      "timebuildupdated": "1788574394"
+    },
+    "fixmysave": {
+      "buildid": "12213875",
+      "description": "Save issues? Switch to this, launch, quit from menu, switch back to normal.",
+      "timeupdated": "1698470980",
+      "timebuildupdated": "1695025242"
+    },
+    "win7compatible": {
+      "buildid": "12213875",
+      "description": "Windows 7 Compatible Branch - Pre-October Update",
+      "timeupdated": "1698421659",
+      "timebuildupdated": "1695025242"
+    },
+    "experimental": {
+      "buildid": "26353260",
+      "description": "Pre-Release Stability Testing",
+      "timeupdated": "1793489475",
+      "timebuildupdated": "1793489475"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1652251": {
+      "manifests": {
+        "public": {
+          "gid": "8470895783960990037",
+          "size": "5636046381",
+          "download": "4837257760"
+        }
+      }
+    },
+    "1652252": {},
+    "branches": {
+      "public": {
+        "buildid": "25135900",
+        "timeupdated": "1788576639",
+        "timebuildupdated": "1788574394"
+      },
+      "fixmysave": {
+        "buildid": "12213875",
+        "description": "Save issues? Switch to this, launch, quit from menu, switch back to normal.",
+        "timeupdated": "1698470980",
+        "timebuildupdated": "1695025242"
+      },
+      "win7compatible": {
+        "buildid": "12213875",
+        "description": "Windows 7 Compatible Branch - Pre-October Update",
+        "timeupdated": "1698421659",
+        "timebuildupdated": "1695025242"
+      },
+      "experimental": {
+        "buildid": "26353260",
+        "description": "Pre-Release Stability Testing",
+        "timeupdated": "1793489475",
+        "timebuildupdated": "1793489475"
+      }
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Ascender",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:08.595Z",
+  "branches": {
+    "public": {
+      "buildid": "8456774",
+      "timeupdated": "1648538595",
+      "timebuildupdated": "1648538158"
+    },
+    "ending_fix": {
+      "buildid": "2563046",
+      "description": "Use this build to get the ending where you need to pray 30 times consecutively at the Giant Tree in Everest.",
+      "timeupdated": "1648539207",
+      "timebuildupdated": "1519805612"
+    }
+  },
+  "depot": {
+    "598231": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7667248067626496008",
+          "size": "1949215186",
+          "download": "457341856"
+        }
+      }
+    },
+    "598232": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3899027041616928047",
+          "size": "1966739101",
+          "download": "460772672"
+        }
+      }
+    },
+    "598233": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6912403635085496221",
+          "size": "1991053175",
+          "download": "469990096"
+        }
+      }
+    },
+    "816620": {
+      "manifests": {
+        "public": {
+          "gid": "8126558908561561654",
+          "size": "66686727",
+          "download": "65278304"
+        }
+      },
+      "dlcappid": "816620"
+    },
+    "branches": {
+      "public": {
+        "buildid": "8456774",
+        "timeupdated": "1648538595",
+        "timebuildupdated": "1648538158"
+      },
+      "ending_fix": {
+        "buildid": "2563046",
+        "description": "Use this build to get the ending where you need to pray 30 times consecutively at the Giant Tree in Everest.",
+        "timeupdated": "1648539207",
+        "timebuildupdated": "1519805612"
+      }
+    }
+  }
+}

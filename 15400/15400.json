@@ -1,0 +1,68 @@
+{
+  "name": "Harvest: Massive Encounter",
+  "source": "spectre",
+  "changenumber": 40641311,
+  "updated": "2026-11-07T20:55:45.999Z",
+  "branches": {
+    "public": {
+      "buildid": "22768",
+      "timebuildupdated": "1351683541"
+    },
+    "modern_beta": {
+      "buildid": "26465788",
+      "description": "2026 Beta",
+      "timeupdated": "1793903508",
+      "timebuildupdated": "1793903508"
+    }
+  },
+  "depot": {
+    "15401": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1176538588865510955",
+          "size": "113235552",
+          "download": "0"
+        }
+      }
+    },
+    "15402": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5086176818670982542",
+          "size": "146845221",
+          "download": "0"
+        }
+      }
+    },
+    "15403": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "927912754689293811",
+          "size": "104122389",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22768",
+        "timebuildupdated": "1351683541"
+      },
+      "modern_beta": {
+        "buildid": "26465788",
+        "description": "2026 Beta",
+        "timeupdated": "1793903508",
+        "timebuildupdated": "1793903508"
+      }
+    }
+  }
+}

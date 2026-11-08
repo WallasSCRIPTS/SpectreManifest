@@ -1,0 +1,70 @@
+{
+  "name": "Amata Demo",
+  "source": "spectre",
+  "changenumber": 40445963,
+  "updated": "2026-11-06T23:13:31.722Z",
+  "branches": {
+    "public": {
+      "buildid": "26338759",
+      "timeupdated": "1793412273",
+      "timebuildupdated": "1793411734"
+    },
+    "testing": {
+      "buildid": "24899355",
+      "description": "for ci",
+      "timeupdated": "1787575363",
+      "timebuildupdated": "1787542905"
+    }
+  },
+  "depot": {
+    "1924231": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7292347628984152026",
+          "size": "383350720",
+          "download": "235453296"
+        }
+      }
+    },
+    "1924232": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4437295889006955099",
+          "size": "226181274",
+          "download": "226080832"
+        }
+      }
+    },
+    "1924233": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4445318677513478984",
+          "size": "393984385",
+          "download": "237657824"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26338759",
+        "timeupdated": "1793412273",
+        "timebuildupdated": "1793411734"
+      },
+      "testing": {
+        "buildid": "24899355",
+        "description": "for ci",
+        "timeupdated": "1787575363",
+        "timebuildupdated": "1787542905"
+      }
+    }
+  }
+}

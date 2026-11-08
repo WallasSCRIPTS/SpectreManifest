@@ -1,0 +1,74 @@
+{
+  "name": "Griftlands",
+  "source": "spectre",
+  "changenumber": 39396692,
+  "updated": "2026-11-07T20:59:10.383Z",
+  "branches": {
+    "public": {
+      "buildid": "7766853",
+      "timeupdated": "1637774114",
+      "timebuildupdated": "1637716990"
+    },
+    "experimental": {
+      "buildid": "7732299",
+      "timeupdated": "1637194058",
+      "timebuildupdated": "1637194058"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "601841": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8186007050625851555",
+          "size": "5508168500",
+          "download": "5373368624"
+        }
+      }
+    },
+    "601842": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3412191620193152015",
+          "size": "5490136568",
+          "download": "5363061664"
+        }
+      }
+    },
+    "601843": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "198799919367503668",
+          "size": "5535414871",
+          "download": "5376361408"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7766853",
+        "timeupdated": "1637774114",
+        "timebuildupdated": "1637716990"
+      },
+      "experimental": {
+        "buildid": "7732299",
+        "timeupdated": "1637194058",
+        "timebuildupdated": "1637194058"
+      }
+    }
+  }
+}

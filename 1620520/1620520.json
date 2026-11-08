@@ -1,0 +1,112 @@
+{
+  "name": "Mondealy",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:06:38.430Z",
+  "branches": {
+    "public": {
+      "buildid": "12178832",
+      "timeupdated": "1695124737",
+      "timebuildupdated": "1694613164"
+    },
+    "neaudiofix": {
+      "buildid": "12448701",
+      "description": "Test of NeAudioFix",
+      "timeupdated": "1697433265",
+      "timebuildupdated": "1697433265"
+    },
+    "previous": {
+      "buildid": "12048816",
+      "description": "Previous build (v1.0.3)",
+      "timeupdated": "1695124722",
+      "timebuildupdated": "1693220805"
+    },
+    "public_testing": {
+      "buildid": "12178832",
+      "description": "Pre-release patches and updates.",
+      "timeupdated": "1695124753",
+      "timebuildupdated": "1694613164"
+    },
+    "v1.0.0l": {
+      "buildid": "11893657",
+      "description": "Version 1.0.0l",
+      "timeupdated": "1694618980",
+      "timebuildupdated": "1691505168"
+    },
+    "v1.0.4": {
+      "buildid": "12178832",
+      "description": "Version 1.0.4",
+      "timeupdated": "1696786332",
+      "timebuildupdated": "1694613164"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1620521": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8240962897874620857",
+          "size": "282138411",
+          "download": "228691904"
+        }
+      }
+    },
+    "1620522": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4972525943733392339",
+          "size": "283123114",
+          "download": "228487680"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12178832",
+        "timeupdated": "1695124737",
+        "timebuildupdated": "1694613164"
+      },
+      "neaudiofix": {
+        "buildid": "12448701",
+        "description": "Test of NeAudioFix",
+        "timeupdated": "1697433265",
+        "timebuildupdated": "1697433265"
+      },
+      "previous": {
+        "buildid": "12048816",
+        "description": "Previous build (v1.0.3)",
+        "timeupdated": "1695124722",
+        "timebuildupdated": "1693220805"
+      },
+      "public_testing": {
+        "buildid": "12178832",
+        "description": "Pre-release patches and updates.",
+        "timeupdated": "1695124753",
+        "timebuildupdated": "1694613164"
+      },
+      "v1.0.0l": {
+        "buildid": "11893657",
+        "description": "Version 1.0.0l",
+        "timeupdated": "1694618980",
+        "timebuildupdated": "1691505168"
+      },
+      "v1.0.4": {
+        "buildid": "12178832",
+        "description": "Version 1.0.4",
+        "timeupdated": "1696786332",
+        "timebuildupdated": "1694613164"
+      }
+    }
+  }
+}

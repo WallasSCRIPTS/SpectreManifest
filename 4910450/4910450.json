@@ -1,0 +1,70 @@
+{
+  "name": "Blobkey",
+  "source": "spectre",
+  "changenumber": 39245584,
+  "updated": "2026-11-04T23:25:43.744Z",
+  "branches": {
+    "public": {
+      "buildid": "25561194",
+      "timeupdated": "1790520772",
+      "timebuildupdated": "1790519251"
+    },
+    "beta": {
+      "buildid": "25110429",
+      "description": "Beta",
+      "timeupdated": "1788469027",
+      "timebuildupdated": "1788468929"
+    }
+  },
+  "depot": {
+    "4910451": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5242011281575217314",
+          "size": "232708912",
+          "download": "156305712"
+        }
+      }
+    },
+    "4910452": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5851455429226897911",
+          "size": "298358177",
+          "download": "175147184"
+        }
+      }
+    },
+    "4910453": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8548275582999657142",
+          "size": "197065464",
+          "download": "147462128"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25561194",
+        "timeupdated": "1790520772",
+        "timebuildupdated": "1790519251"
+      },
+      "beta": {
+        "buildid": "25110429",
+        "description": "Beta",
+        "timeupdated": "1788469027",
+        "timebuildupdated": "1788468929"
+      }
+    }
+  }
+}

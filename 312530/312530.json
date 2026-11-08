@@ -1,0 +1,91 @@
+{
+  "name": "Duck Game",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:35.785Z",
+  "branches": {
+    "public": {
+      "buildid": "8782838",
+      "timeupdated": "1653096881",
+      "timebuildupdated": "1653096795"
+    },
+    "linux_fix": {
+      "buildid": "8519846",
+      "description": "Experimental fixes to help Duck Game run through Proton",
+      "timeupdated": "1649388547",
+      "timebuildupdated": "1649388200"
+    },
+    "oldschool_dg": {
+      "buildid": "5567590",
+      "description": "Play DG as it was in 2017",
+      "timeupdated": "1605287714",
+      "timebuildupdated": "1600539594"
+    },
+    "oldschool_discord": {
+      "buildid": "3324863",
+      "description": "A very old version of Duck Game with Discord integration. This branch is unsupported and using it is not recommended!",
+      "timeupdated": "1621369978",
+      "timebuildupdated": "1542742439"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "312531": {
+      "manifests": {
+        "public": {
+          "gid": "6719175927298523857",
+          "size": "275179297",
+          "download": "161587088"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8782838",
+        "timeupdated": "1653096881",
+        "timebuildupdated": "1653096795"
+      },
+      "linux_fix": {
+        "buildid": "8519846",
+        "description": "Experimental fixes to help Duck Game run through Proton",
+        "timeupdated": "1649388547",
+        "timebuildupdated": "1649388200"
+      },
+      "oldschool_dg": {
+        "buildid": "5567590",
+        "description": "Play DG as it was in 2017",
+        "timeupdated": "1605287714",
+        "timebuildupdated": "1600539594"
+      },
+      "oldschool_discord": {
+        "buildid": "3324863",
+        "description": "A very old version of Duck Game with Discord integration. This branch is unsupported and using it is not recommended!",
+        "timeupdated": "1621369978",
+        "timebuildupdated": "1542742439"
+      }
+    }
+  }
+}

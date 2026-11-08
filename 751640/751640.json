@@ -1,0 +1,80 @@
+{
+  "name": "Dead Dungeon",
+  "source": "spectre",
+  "changenumber": 39753090,
+  "updated": "2026-11-07T21:00:24.300Z",
+  "branches": {
+    "public": {
+      "buildid": "25283011",
+      "timeupdated": "1789304315",
+      "timebuildupdated": "1789304297"
+    },
+    "1.1.4_downgrade_not_recom": {
+      "buildid": "20246040",
+      "description": "Unity 2020",
+      "timeupdated": "1759526980",
+      "timebuildupdated": "1759526943"
+    },
+    "beta": {
+      "buildid": "25633655",
+      "timeupdated": "1790788467",
+      "timebuildupdated": "1790788466"
+    }
+  },
+  "depot": {
+    "751641": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6489549896315391256",
+          "size": "249966328",
+          "download": "86448544"
+        }
+      }
+    },
+    "751642": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4358739018661920241",
+          "size": "264618312",
+          "download": "93863648"
+        }
+      }
+    },
+    "751643": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6330442847194224030",
+          "size": "242954470",
+          "download": "82670096"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25283011",
+        "timeupdated": "1789304315",
+        "timebuildupdated": "1789304297"
+      },
+      "1.1.4_downgrade_not_recom": {
+        "buildid": "20246040",
+        "description": "Unity 2020",
+        "timeupdated": "1759526980",
+        "timebuildupdated": "1759526943"
+      },
+      "beta": {
+        "buildid": "25633655",
+        "timeupdated": "1790788467",
+        "timebuildupdated": "1790788466"
+      }
+    }
+  }
+}

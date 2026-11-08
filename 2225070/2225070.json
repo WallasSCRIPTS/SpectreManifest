@@ -1,0 +1,49 @@
+{
+  "name": "Trackmania",
+  "source": "spectre",
+  "changenumber": 40616050,
+  "updated": "2026-11-06T23:19:33.239Z",
+  "branches": {
+    "public": {
+      "buildid": "21751642",
+      "timeupdated": "1770207163",
+      "timebuildupdated": "1770054060"
+    },
+    "hotfix": {
+      "buildid": "24354606",
+      "description": "opt-in preview of the next update",
+      "timeupdated": "1784884253",
+      "timebuildupdated": "1784813082"
+    }
+  },
+  "depot": {
+    "2225071": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9066463832979889462",
+          "size": "6897633717",
+          "download": "5809247376"
+        }
+      }
+    },
+    "4099821": {
+      "depotfromapp": "4099820"
+    },
+    "branches": {
+      "public": {
+        "buildid": "21751642",
+        "timeupdated": "1770207163",
+        "timebuildupdated": "1770054060"
+      },
+      "hotfix": {
+        "buildid": "24354606",
+        "description": "opt-in preview of the next update",
+        "timeupdated": "1784884253",
+        "timebuildupdated": "1784813082"
+      }
+    }
+  }
+}

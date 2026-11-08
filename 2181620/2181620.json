@@ -1,0 +1,112 @@
+{
+  "name": "Monster Knockout",
+  "source": "spectre",
+  "changenumber": 40062413,
+  "updated": "2026-11-06T23:19:28.228Z",
+  "branches": {
+    "public": {
+      "buildid": "23731521",
+      "timeupdated": "1781476732",
+      "timebuildupdated": "1781476552"
+    },
+    "openbeta": {
+      "buildid": "23731521",
+      "description": "Open Beta Branch",
+      "timeupdated": "1781476711",
+      "timebuildupdated": "1781476552"
+    },
+    "firstbuild": {
+      "buildid": "10867282",
+      "description": "The first ever build of Monster Knockout",
+      "timeupdated": "1679950065",
+      "timebuildupdated": "1679950035"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229030": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2181621": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6956640550804755086",
+          "size": "522743969",
+          "download": "162544736"
+        }
+      }
+    },
+    "2181622": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7739114314038357299",
+          "size": "508668481",
+          "download": "179748176"
+        }
+      }
+    },
+    "2181623": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9180813481414547041",
+          "size": "462593872",
+          "download": "178786736"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23731521",
+        "timeupdated": "1781476732",
+        "timebuildupdated": "1781476552"
+      },
+      "openbeta": {
+        "buildid": "23731521",
+        "description": "Open Beta Branch",
+        "timeupdated": "1781476711",
+        "timebuildupdated": "1781476552"
+      },
+      "firstbuild": {
+        "buildid": "10867282",
+        "description": "The first ever build of Monster Knockout",
+        "timeupdated": "1679950065",
+        "timebuildupdated": "1679950035"
+      }
+    }
+  }
+}

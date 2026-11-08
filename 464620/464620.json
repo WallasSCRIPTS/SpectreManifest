@@ -1,0 +1,80 @@
+{
+  "name": "Siralim 2",
+  "source": "spectre",
+  "changenumber": 37435436,
+  "updated": "2026-11-07T20:58:05.483Z",
+  "branches": {
+    "public": {
+      "buildid": "3631259",
+      "timeupdated": "1552145027",
+      "timebuildupdated": "1552145027"
+    },
+    "test": {
+      "buildid": "1494514",
+      "description": "don't use this!",
+      "timeupdated": "1480689070",
+      "timebuildupdated": "1480689057"
+    }
+  },
+  "depot": {
+    "464621": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1063583489002652215",
+          "size": "126255616",
+          "download": "127581072"
+        }
+      }
+    },
+    "464622": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6439561190310676895",
+          "size": "146648633",
+          "download": "119049552"
+        }
+      }
+    },
+    "464623": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3113093515353133798",
+          "size": "153697844",
+          "download": "122579216"
+        }
+      }
+    },
+    "509500": {
+      "manifests": {
+        "public": {
+          "gid": "1080972165462332323",
+          "size": "134989610",
+          "download": "134325872"
+        }
+      },
+      "dlcappid": "509500"
+    },
+    "branches": {
+      "public": {
+        "buildid": "3631259",
+        "timeupdated": "1552145027",
+        "timebuildupdated": "1552145027"
+      },
+      "test": {
+        "buildid": "1494514",
+        "description": "don't use this!",
+        "timeupdated": "1480689070",
+        "timebuildupdated": "1480689057"
+      }
+    }
+  }
+}

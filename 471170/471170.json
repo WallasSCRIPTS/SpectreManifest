@@ -1,0 +1,82 @@
+{
+  "name": "Romopolis",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:08.652Z",
+  "branches": {
+    "public": {
+      "buildid": "17107467",
+      "timeupdated": "1737648916",
+      "timebuildupdated": "1737647878"
+    },
+    "legacy": {
+      "buildid": "5027011",
+      "description": "The legacy version of the game.",
+      "timeupdated": "1713880711",
+      "timebuildupdated": "1589460801"
+    }
+  },
+  "depot": {
+    "471171": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4925478605271139853",
+          "size": "185909692",
+          "download": "104408528"
+        }
+      }
+    },
+    "471172": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5146374899227367978",
+          "size": "2722704",
+          "download": "734880"
+        }
+      }
+    },
+    "471173": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2763571199781428628",
+          "size": "203325597",
+          "download": "108907648"
+        }
+      }
+    },
+    "471174": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3735966064858507753",
+          "size": "1716513",
+          "download": "508944"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17107467",
+        "timeupdated": "1737648916",
+        "timebuildupdated": "1737647878"
+      },
+      "legacy": {
+        "buildid": "5027011",
+        "description": "The legacy version of the game.",
+        "timeupdated": "1713880711",
+        "timebuildupdated": "1589460801"
+      }
+    }
+  }
+}

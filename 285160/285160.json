@@ -1,0 +1,112 @@
+{
+  "name": "LEGO® The Hobbit™",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:23.359Z",
+  "branches": {
+    "public": {
+      "buildid": "475949",
+      "timebuildupdated": "1418827706"
+    },
+    "local": {
+      "buildid": "474547",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1418745711"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "285161": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3531787193063722680",
+          "size": "8852936958",
+          "download": "4563815093697"
+        }
+      }
+    },
+    "285162": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5597572562996417827",
+          "size": "8669259317",
+          "download": "881899359296"
+        }
+      }
+    },
+    "285163": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "292710": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "112895498698125239",
+          "size": "1055293",
+          "download": "653808"
+        }
+      },
+      "dlcappid": "292710"
+    },
+    "292711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6715094389507311823",
+          "size": "1168914",
+          "download": "737904"
+        }
+      },
+      "dlcappid": "292711"
+    },
+    "292712": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7649136833763476343",
+          "size": "1623165",
+          "download": "1592384"
+        }
+      },
+      "dlcappid": "292712"
+    },
+    "branches": {
+      "public": {
+        "buildid": "475949",
+        "timebuildupdated": "1418827706"
+      },
+      "local": {
+        "buildid": "474547",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1418745711"
+      }
+    }
+  }
+}

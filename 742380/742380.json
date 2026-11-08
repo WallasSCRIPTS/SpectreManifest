@@ -1,0 +1,88 @@
+{
+  "name": "Spreadstorm",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:19.474Z",
+  "branches": {
+    "public": {
+      "buildid": "4196456",
+      "timeupdated": "1568469309",
+      "timebuildupdated": "1568468785"
+    },
+    "previous": {
+      "buildid": "3676765",
+      "description": "Contains the first ever uploaded version of Spreadstorm for nostalgic.",
+      "timeupdated": "1568469361",
+      "timebuildupdated": "1553503545"
+    },
+    "unstable": {
+      "buildid": "4534883",
+      "description": "Unstable branch for development",
+      "timeupdated": "1577808244",
+      "timebuildupdated": "1577807958"
+    }
+  },
+  "depot": {
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "742381": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6237612406263246489",
+          "size": "2404680025",
+          "download": "422943248"
+        }
+      }
+    },
+    "742382": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5847556260969479577",
+          "size": "2444059024",
+          "download": "446874448"
+        }
+      }
+    },
+    "742383": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8555830384398787308",
+          "size": "2425326157",
+          "download": "435228368"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4196456",
+        "timeupdated": "1568469309",
+        "timebuildupdated": "1568468785"
+      },
+      "previous": {
+        "buildid": "3676765",
+        "description": "Contains the first ever uploaded version of Spreadstorm for nostalgic.",
+        "timeupdated": "1568469361",
+        "timebuildupdated": "1553503545"
+      },
+      "unstable": {
+        "buildid": "4534883",
+        "description": "Unstable branch for development",
+        "timeupdated": "1577808244",
+        "timebuildupdated": "1577807958"
+      }
+    }
+  }
+}

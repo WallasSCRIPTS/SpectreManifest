@@ -1,0 +1,68 @@
+{
+  "name": "JUMPGRID",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:51.626Z",
+  "branches": {
+    "public": {
+      "buildid": "4778906",
+      "timeupdated": "1584241160",
+      "timebuildupdated": "1584240688"
+    },
+    "test2": {
+      "buildid": "4778906",
+      "timeupdated": "1584240689",
+      "timebuildupdated": "1584240688"
+    }
+  },
+  "depot": {
+    "942061": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8737858654458139480",
+          "size": "40261704",
+          "download": "37040432"
+        }
+      }
+    },
+    "942062": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8661459451860183169",
+          "size": "45829952",
+          "download": "39001728"
+        }
+      }
+    },
+    "942063": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3527664237825334750",
+          "size": "42369370",
+          "download": "37465568"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4778906",
+        "timeupdated": "1584241160",
+        "timebuildupdated": "1584240688"
+      },
+      "test2": {
+        "buildid": "4778906",
+        "timeupdated": "1584240689",
+        "timebuildupdated": "1584240688"
+      }
+    }
+  }
+}

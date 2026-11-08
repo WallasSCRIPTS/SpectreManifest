@@ -1,0 +1,58 @@
+{
+  "name": "9 Kings",
+  "source": "spectre",
+  "changenumber": 40558630,
+  "updated": "2026-11-06T21:07:24.617Z",
+  "branches": {
+    "public": {
+      "buildid": "25806078",
+      "timeupdated": "1791469437",
+      "timebuildupdated": "1791469325"
+    },
+    "beta_multiplayer": {
+      "buildid": "25790360",
+      "description": "Public Early Multiplayer Test",
+      "timeupdated": "1791413822",
+      "timebuildupdated": "1791413821"
+    }
+  },
+  "depot": {
+    "2784471": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6080481090604531116",
+          "size": "210521017",
+          "download": "113257424"
+        }
+      }
+    },
+    "2784472": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5186330571124163058",
+          "size": "224048341",
+          "download": "123093840"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25806078",
+        "timeupdated": "1791469437",
+        "timebuildupdated": "1791469325"
+      },
+      "beta_multiplayer": {
+        "buildid": "25790360",
+        "description": "Public Early Multiplayer Test",
+        "timeupdated": "1791413822",
+        "timebuildupdated": "1791413821"
+      }
+    }
+  }
+}

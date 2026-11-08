@@ -1,0 +1,76 @@
+{
+  "name": "Snowmen",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:21:29.656Z",
+  "branches": {
+    "public": {
+      "buildid": "12625423",
+      "timeupdated": "1699225303",
+      "timebuildupdated": "1699225303"
+    },
+    "beta": {
+      "buildid": "12625421",
+      "description": "used for playtesting before release",
+      "timeupdated": "1699225293",
+      "timebuildupdated": "1699225293"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2325771": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "724802760309350454",
+          "size": "676019219",
+          "download": "516780352"
+        }
+      }
+    },
+    "2325772": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7403259336887056482",
+          "size": "1740215792",
+          "download": "593306640"
+        }
+      }
+    },
+    "2325774": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8526582496042176882",
+          "size": "1387186083",
+          "download": "543847232"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12625423",
+        "timeupdated": "1699225303",
+        "timebuildupdated": "1699225303"
+      },
+      "beta": {
+        "buildid": "12625421",
+        "description": "used for playtesting before release",
+        "timeupdated": "1699225293",
+        "timebuildupdated": "1699225293"
+      }
+    }
+  }
+}

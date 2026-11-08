@@ -1,0 +1,68 @@
+{
+  "name": "Grab the Bottle",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:40.165Z",
+  "branches": {
+    "public": {
+      "buildid": "2630326",
+      "timeupdated": "1521891498",
+      "timebuildupdated": "1521891498"
+    },
+    "linuxtest": {
+      "buildid": "1534218",
+      "timeupdated": "1482339871",
+      "timebuildupdated": "1482339871"
+    }
+  },
+  "depot": {
+    "546411": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1384746969531934729",
+          "size": "2638478009",
+          "download": "179298560"
+        }
+      }
+    },
+    "546412": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2900538970294352103",
+          "size": "2649316789",
+          "download": "181692672"
+        }
+      }
+    },
+    "546413": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "332573083108556938",
+          "size": "2423903408",
+          "download": "171617568"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2630326",
+        "timeupdated": "1521891498",
+        "timebuildupdated": "1521891498"
+      },
+      "linuxtest": {
+        "buildid": "1534218",
+        "timeupdated": "1482339871",
+        "timebuildupdated": "1482339871"
+      }
+    }
+  }
+}

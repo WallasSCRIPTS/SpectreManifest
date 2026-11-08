@@ -1,0 +1,104 @@
+{
+  "name": "SCP: Blackout",
+  "source": "spectre",
+  "changenumber": 40315868,
+  "updated": "2026-11-07T21:02:02.379Z",
+  "branches": {
+    "public": {
+      "buildid": "5761169",
+      "timeupdated": "1604151773",
+      "timebuildupdated": "1604062158"
+    },
+    "bleedingedge": {
+      "buildid": "5761169",
+      "timeupdated": "1604151786",
+      "timebuildupdated": "1604062158"
+    },
+    "v_1_3_7-may2020": {
+      "buildid": "5085298",
+      "description": "Update that lasted the longest",
+      "timeupdated": "1603892620",
+      "timebuildupdated": "1590597462"
+    },
+    "v1_2-early-access_launch_aug2019": {
+      "buildid": "5748758",
+      "description": "The version of the game when first released",
+      "timeupdated": "1603887677",
+      "timebuildupdated": "1603887677"
+    },
+    "v1_2_6halloween2019": {
+      "buildid": "4286921",
+      "description": "The first Halloween Update",
+      "timeupdated": "1603892591",
+      "timebuildupdated": "1571093944"
+    },
+    "v1_3_big-vr-overhaul_jan2020": {
+      "buildid": "4549375",
+      "description": "The update that added better VR mechanics",
+      "timeupdated": "1603892567",
+      "timebuildupdated": "1578439630"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "963401": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7305909288014503453",
+          "size": "6237194338",
+          "download": "3258706176"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5761169",
+        "timeupdated": "1604151773",
+        "timebuildupdated": "1604062158"
+      },
+      "bleedingedge": {
+        "buildid": "5761169",
+        "timeupdated": "1604151786",
+        "timebuildupdated": "1604062158"
+      },
+      "v_1_3_7-may2020": {
+        "buildid": "5085298",
+        "description": "Update that lasted the longest",
+        "timeupdated": "1603892620",
+        "timebuildupdated": "1590597462"
+      },
+      "v1_2-early-access_launch_aug2019": {
+        "buildid": "5748758",
+        "description": "The version of the game when first released",
+        "timeupdated": "1603887677",
+        "timebuildupdated": "1603887677"
+      },
+      "v1_2_6halloween2019": {
+        "buildid": "4286921",
+        "description": "The first Halloween Update",
+        "timeupdated": "1603892591",
+        "timebuildupdated": "1571093944"
+      },
+      "v1_3_big-vr-overhaul_jan2020": {
+        "buildid": "4549375",
+        "description": "The update that added better VR mechanics",
+        "timeupdated": "1603892567",
+        "timebuildupdated": "1578439630"
+      }
+    }
+  }
+}

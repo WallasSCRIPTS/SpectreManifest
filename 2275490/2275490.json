@@ -1,0 +1,76 @@
+{
+  "name": "Kaizen: A Factory Story",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:21:23.920Z",
+  "branches": {
+    "public": {
+      "buildid": "24289492",
+      "timeupdated": "1784515503",
+      "timebuildupdated": "1784515474"
+    },
+    "old-mono": {
+      "buildid": "21265823",
+      "description": "Old version of Mono for macOS 10.15",
+      "timeupdated": "1766194182",
+      "timebuildupdated": "1766194019"
+    }
+  },
+  "depot": {
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2275491": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "255467617546952722",
+          "size": "1805510886",
+          "download": "912189056"
+        }
+      }
+    },
+    "2275492": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4450079268003894596",
+          "size": "1848920551",
+          "download": "923690064"
+        }
+      }
+    },
+    "2275493": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5665340290284822907",
+          "size": "1861678961",
+          "download": "927840688"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24289492",
+        "timeupdated": "1784515503",
+        "timebuildupdated": "1784515474"
+      },
+      "old-mono": {
+        "buildid": "21265823",
+        "description": "Old version of Mono for macOS 10.15",
+        "timeupdated": "1766194182",
+        "timebuildupdated": "1766194019"
+      }
+    }
+  }
+}

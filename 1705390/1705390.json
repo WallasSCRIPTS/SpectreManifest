@@ -1,0 +1,61 @@
+{
+  "name": "Freeland",
+  "source": "spectre",
+  "changenumber": 40626161,
+  "updated": "2026-11-06T23:07:51.689Z",
+  "branches": {
+    "public": {
+      "buildid": "26412614",
+      "timeupdated": "1793736783",
+      "timebuildupdated": "1793729042"
+    },
+    "publicbeta": {
+      "buildid": "26386268",
+      "description": "The public Beta channel to test new versions before the full release",
+      "timeupdated": "1793652825",
+      "timebuildupdated": "1793642492"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1705391": {
+      "manifests": {
+        "public": {
+          "gid": "5581056957724810731",
+          "size": "22541447176",
+          "download": "21293309552"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26412614",
+        "timeupdated": "1793736783",
+        "timebuildupdated": "1793729042"
+      },
+      "publicbeta": {
+        "buildid": "26386268",
+        "description": "The public Beta channel to test new versions before the full release",
+        "timeupdated": "1793652825",
+        "timebuildupdated": "1793642492"
+      }
+    }
+  }
+}

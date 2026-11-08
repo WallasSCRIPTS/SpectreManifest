@@ -1,0 +1,76 @@
+{
+  "name": "Papo & Yo",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:06.769Z",
+  "branches": {
+    "public": {
+      "buildid": "931572",
+      "timebuildupdated": "1452783693"
+    },
+    "beta": {
+      "buildid": "62552",
+      "description": "public beta branch",
+      "timebuildupdated": "1366819565"
+    }
+  },
+  "depot": {
+    "227081": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7139592645588388774",
+          "size": "1989468543",
+          "download": "0"
+        }
+      }
+    },
+    "227082": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7731499500327966311",
+          "size": "1947838938",
+          "download": "1446148672"
+        }
+      }
+    },
+    "227083": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8422153802559784554",
+          "size": "1646354311",
+          "download": "1307771792"
+        }
+      }
+    },
+    "227090": {
+      "manifests": {
+        "public": {
+          "gid": "3141948737585082973",
+          "size": "130511779",
+          "download": "0"
+        }
+      },
+      "dlcappid": "227090"
+    },
+    "branches": {
+      "public": {
+        "buildid": "931572",
+        "timebuildupdated": "1452783693"
+      },
+      "beta": {
+        "buildid": "62552",
+        "description": "public beta branch",
+        "timebuildupdated": "1366819565"
+      }
+    }
+  }
+}

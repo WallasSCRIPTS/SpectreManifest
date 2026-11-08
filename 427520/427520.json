@@ -1,0 +1,384 @@
+{
+  "name": "Factorio",
+  "source": "spectre",
+  "changenumber": 40378705,
+  "updated": "2026-11-07T20:57:44.492Z",
+  "branches": {
+    "public": {
+      "buildid": "26246811",
+      "timeupdated": "1793273374",
+      "timebuildupdated": "1793113821"
+    },
+    "experimental": {
+      "buildid": "26246811",
+      "description": "Latest 2.1 Experimental (2.1.24)",
+      "timeupdated": "1793114928",
+      "timebuildupdated": "1793113821"
+    },
+    "console": {
+      "buildid": "23347942",
+      "description": "Factorio version matching latest console release (2.0.77)",
+      "timeupdated": "1782197370",
+      "timebuildupdated": "1779380616"
+    },
+    "2.1.24": {
+      "buildid": "26246811",
+      "description": "Factorio Stable 2.1.24",
+      "timeupdated": "1793114998",
+      "timebuildupdated": "1793113821"
+    },
+    "2.1.23": {
+      "buildid": "26076417",
+      "description": " Factorio Outdated Stable 2.1.23",
+      "timeupdated": "1792492783",
+      "timebuildupdated": "1792492226"
+    },
+    "2.1.22": {
+      "buildid": "25956922",
+      "description": " Factorio Experimental 2.1.22",
+      "timeupdated": "1792059448",
+      "timebuildupdated": "1792059233"
+    },
+    "2.1.21": {
+      "buildid": "25749703",
+      "description": " Factorio Experimental 2.1.21",
+      "timeupdated": "1791284774",
+      "timebuildupdated": "1791283519"
+    },
+    "2.1.20": {
+      "buildid": "25458442",
+      "description": "Factorio Experimental 2.1.20",
+      "timeupdated": "1790078656",
+      "timebuildupdated": "1790078540"
+    },
+    "2.1.19": {
+      "buildid": "25349654",
+      "description": " Factorio Experimental 2.1.19",
+      "timeupdated": "1789573324",
+      "timebuildupdated": "1789573208"
+    },
+    "2.1.17": {
+      "buildid": "25118737",
+      "description": "Factorio Experimental 2.1.17",
+      "timeupdated": "1788507285",
+      "timebuildupdated": "1788507256"
+    },
+    "2.1.14": {
+      "buildid": "24592963",
+      "description": " Factorio Experimental 2.1.14",
+      "timeupdated": "1786020402",
+      "timebuildupdated": "1786019873"
+    },
+    "2.0.77": {
+      "buildid": "23347942",
+      "description": " Factorio Outdated Stable 2.0.77",
+      "timeupdated": "1779382993",
+      "timebuildupdated": "1779380616"
+    },
+    "2.0.76": {
+      "buildid": "22092041",
+      "description": " Factorio Outdated Stable 2.0.76",
+      "timeupdated": "1772025335",
+      "timebuildupdated": "1772025172"
+    },
+    "1.1.110": {
+      "buildid": "15397692",
+      "description": "Factorio Outdated Stable 1.1.110 (must disable DLC in Steam menu)",
+      "timeupdated": "1723828577",
+      "timebuildupdated": "1723827244"
+    },
+    "1.0.0": {
+      "buildid": "5407217",
+      "description": "Factorio Stable 1.0",
+      "timeupdated": "1597395390",
+      "timebuildupdated": "1597315263"
+    },
+    "0.17.79": {
+      "buildid": "4404625",
+      "description": "Factorio Stable 0.17",
+      "timeupdated": "1574174277",
+      "timebuildupdated": "1574173348"
+    },
+    "0.16.51": {
+      "buildid": "2864790",
+      "description": "Factorio Stable 0.16",
+      "timeupdated": "1529066850",
+      "timebuildupdated": "1529065653"
+    },
+    "0.15.40": {
+      "buildid": "2326706",
+      "description": "Factorio Stable 0.15",
+      "timeupdated": "1511992213",
+      "timebuildupdated": "1511991997"
+    },
+    "0.15.37": {
+      "buildid": "2205470",
+      "description": "Factorio Stable 0.15",
+      "timeupdated": "1508249255",
+      "timebuildupdated": "1508247203"
+    },
+    "0.14.23": {
+      "buildid": "1767771",
+      "description": "Factorio Stable 0.14",
+      "timeupdated": "1493037708",
+      "timebuildupdated": "1492615758"
+    },
+    "0.13.20": {
+      "buildid": "1306063",
+      "description": "Factorio Stable 0.13",
+      "timeupdated": "1478180124",
+      "timebuildupdated": "1472489879"
+    },
+    "0.12.35": {
+      "buildid": "1158343",
+      "description": "Factorio Stable 0.12",
+      "timeupdated": "1472219884",
+      "timebuildupdated": "1464794536"
+    }
+  },
+  "depot": {
+    "427521": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "422768584032543502",
+          "size": "2375489309",
+          "download": "1609552592"
+        }
+      }
+    },
+    "427522": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8127115610667035850",
+          "size": "488882534",
+          "download": "290216160"
+        }
+      }
+    },
+    "427523": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4835038178438493428",
+          "size": "2387398965",
+          "download": "1617167152"
+        }
+      }
+    },
+    "427524": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2006867560965339051",
+          "size": "362494820",
+          "download": "276749184"
+        }
+      }
+    },
+    "427525": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7995304108941275587",
+          "size": "2729633478",
+          "download": "1671745904"
+        }
+      }
+    },
+    "427526": {
+      "config": {
+        "oslist": "android"
+      }
+    },
+    "645391": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7593083902538539794",
+          "size": "5368970239",
+          "download": "4555411584"
+        }
+      },
+      "dlcappid": "645390"
+    },
+    "645392": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4722344636429736299",
+          "size": "5712379521",
+          "download": "4610222288"
+        }
+      },
+      "dlcappid": "645390"
+    },
+    "645393": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7435081102448144579",
+          "size": "5357085963",
+          "download": "4547826608"
+        }
+      },
+      "dlcappid": "645390"
+    },
+    "645394": {
+      "config": {
+        "oslist": "android"
+      },
+      "dlcappid": "645390"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26246811",
+        "timeupdated": "1793273374",
+        "timebuildupdated": "1793113821"
+      },
+      "experimental": {
+        "buildid": "26246811",
+        "description": "Latest 2.1 Experimental (2.1.24)",
+        "timeupdated": "1793114928",
+        "timebuildupdated": "1793113821"
+      },
+      "console": {
+        "buildid": "23347942",
+        "description": "Factorio version matching latest console release (2.0.77)",
+        "timeupdated": "1782197370",
+        "timebuildupdated": "1779380616"
+      },
+      "2.1.24": {
+        "buildid": "26246811",
+        "description": "Factorio Stable 2.1.24",
+        "timeupdated": "1793114998",
+        "timebuildupdated": "1793113821"
+      },
+      "2.1.23": {
+        "buildid": "26076417",
+        "description": " Factorio Outdated Stable 2.1.23",
+        "timeupdated": "1792492783",
+        "timebuildupdated": "1792492226"
+      },
+      "2.1.22": {
+        "buildid": "25956922",
+        "description": " Factorio Experimental 2.1.22",
+        "timeupdated": "1792059448",
+        "timebuildupdated": "1792059233"
+      },
+      "2.1.21": {
+        "buildid": "25749703",
+        "description": " Factorio Experimental 2.1.21",
+        "timeupdated": "1791284774",
+        "timebuildupdated": "1791283519"
+      },
+      "2.1.20": {
+        "buildid": "25458442",
+        "description": "Factorio Experimental 2.1.20",
+        "timeupdated": "1790078656",
+        "timebuildupdated": "1790078540"
+      },
+      "2.1.19": {
+        "buildid": "25349654",
+        "description": " Factorio Experimental 2.1.19",
+        "timeupdated": "1789573324",
+        "timebuildupdated": "1789573208"
+      },
+      "2.1.17": {
+        "buildid": "25118737",
+        "description": "Factorio Experimental 2.1.17",
+        "timeupdated": "1788507285",
+        "timebuildupdated": "1788507256"
+      },
+      "2.1.14": {
+        "buildid": "24592963",
+        "description": " Factorio Experimental 2.1.14",
+        "timeupdated": "1786020402",
+        "timebuildupdated": "1786019873"
+      },
+      "2.0.77": {
+        "buildid": "23347942",
+        "description": " Factorio Outdated Stable 2.0.77",
+        "timeupdated": "1779382993",
+        "timebuildupdated": "1779380616"
+      },
+      "2.0.76": {
+        "buildid": "22092041",
+        "description": " Factorio Outdated Stable 2.0.76",
+        "timeupdated": "1772025335",
+        "timebuildupdated": "1772025172"
+      },
+      "1.1.110": {
+        "buildid": "15397692",
+        "description": "Factorio Outdated Stable 1.1.110 (must disable DLC in Steam menu)",
+        "timeupdated": "1723828577",
+        "timebuildupdated": "1723827244"
+      },
+      "1.0.0": {
+        "buildid": "5407217",
+        "description": "Factorio Stable 1.0",
+        "timeupdated": "1597395390",
+        "timebuildupdated": "1597315263"
+      },
+      "0.17.79": {
+        "buildid": "4404625",
+        "description": "Factorio Stable 0.17",
+        "timeupdated": "1574174277",
+        "timebuildupdated": "1574173348"
+      },
+      "0.16.51": {
+        "buildid": "2864790",
+        "description": "Factorio Stable 0.16",
+        "timeupdated": "1529066850",
+        "timebuildupdated": "1529065653"
+      },
+      "0.15.40": {
+        "buildid": "2326706",
+        "description": "Factorio Stable 0.15",
+        "timeupdated": "1511992213",
+        "timebuildupdated": "1511991997"
+      },
+      "0.15.37": {
+        "buildid": "2205470",
+        "description": "Factorio Stable 0.15",
+        "timeupdated": "1508249255",
+        "timebuildupdated": "1508247203"
+      },
+      "0.14.23": {
+        "buildid": "1767771",
+        "description": "Factorio Stable 0.14",
+        "timeupdated": "1493037708",
+        "timebuildupdated": "1492615758"
+      },
+      "0.13.20": {
+        "buildid": "1306063",
+        "description": "Factorio Stable 0.13",
+        "timeupdated": "1478180124",
+        "timebuildupdated": "1472489879"
+      },
+      "0.12.35": {
+        "buildid": "1158343",
+        "description": "Factorio Stable 0.12",
+        "timeupdated": "1472219884",
+        "timebuildupdated": "1464794536"
+      }
+    }
+  }
+}

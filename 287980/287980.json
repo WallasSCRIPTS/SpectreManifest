@@ -1,0 +1,160 @@
+{
+  "name": "Mini Metro",
+  "source": "spectre",
+  "changenumber": 39887547,
+  "updated": "2026-11-07T20:56:24.521Z",
+  "branches": {
+    "public": {
+      "buildid": "25333770",
+      "timeupdated": "1789608568",
+      "timebuildupdated": "1789512373"
+    },
+    "test": {
+      "buildid": "25977229",
+      "description": "Public test branch",
+      "timeupdated": "1792122596",
+      "timebuildupdated": "1792122319"
+    },
+    "directx9": {
+      "buildid": "4252960",
+      "description": "DirectX 9 compatibility branch",
+      "timeupdated": "1575938521",
+      "timebuildupdated": "1570089059"
+    },
+    "highsierra": {
+      "buildid": "12967854",
+      "description": "macOS 10.13 compatibility branch",
+      "timeupdated": "1717123807",
+      "timebuildupdated": "1702605874"
+    },
+    "opengl2": {
+      "buildid": "2117938",
+      "description": "OpenGL 2.x compatibility branch",
+      "timeupdated": "1505424699",
+      "timebuildupdated": "1505378007"
+    },
+    "openglcore": {
+      "buildid": "4252960",
+      "description": "OpenGL Core macOS compatibility branch",
+      "timeupdated": "1575938653",
+      "timebuildupdated": "1570089059"
+    },
+    "sierra": {
+      "buildid": "6084903",
+      "description": "macOS 10.12 compatibility branch",
+      "timeupdated": "1625103969",
+      "timebuildupdated": "1610674789"
+    },
+    "snowleopard": {
+      "buildid": "1445188",
+      "description": "macOS 10.6 and 10.7 compatibility branch",
+      "timeupdated": "1482441861",
+      "timebuildupdated": "1478563085"
+    },
+    "ubuntu-i386": {
+      "buildid": "4543337",
+      "description": "Ubuntu 32-bit compatibility branch",
+      "timeupdated": "1603576448",
+      "timebuildupdated": "1578260632"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "287981": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5530718059660103601",
+          "size": "340123089",
+          "download": "213735232"
+        }
+      }
+    },
+    "287982": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7745621216642740064",
+          "size": "428253159",
+          "download": "240527664"
+        }
+      }
+    },
+    "287983": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3344847065123816285",
+          "size": "353645464",
+          "download": "217555040"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25333770",
+        "timeupdated": "1789608568",
+        "timebuildupdated": "1789512373"
+      },
+      "test": {
+        "buildid": "25977229",
+        "description": "Public test branch",
+        "timeupdated": "1792122596",
+        "timebuildupdated": "1792122319"
+      },
+      "directx9": {
+        "buildid": "4252960",
+        "description": "DirectX 9 compatibility branch",
+        "timeupdated": "1575938521",
+        "timebuildupdated": "1570089059"
+      },
+      "highsierra": {
+        "buildid": "12967854",
+        "description": "macOS 10.13 compatibility branch",
+        "timeupdated": "1717123807",
+        "timebuildupdated": "1702605874"
+      },
+      "opengl2": {
+        "buildid": "2117938",
+        "description": "OpenGL 2.x compatibility branch",
+        "timeupdated": "1505424699",
+        "timebuildupdated": "1505378007"
+      },
+      "openglcore": {
+        "buildid": "4252960",
+        "description": "OpenGL Core macOS compatibility branch",
+        "timeupdated": "1575938653",
+        "timebuildupdated": "1570089059"
+      },
+      "sierra": {
+        "buildid": "6084903",
+        "description": "macOS 10.12 compatibility branch",
+        "timeupdated": "1625103969",
+        "timebuildupdated": "1610674789"
+      },
+      "snowleopard": {
+        "buildid": "1445188",
+        "description": "macOS 10.6 and 10.7 compatibility branch",
+        "timeupdated": "1482441861",
+        "timebuildupdated": "1478563085"
+      },
+      "ubuntu-i386": {
+        "buildid": "4543337",
+        "description": "Ubuntu 32-bit compatibility branch",
+        "timeupdated": "1603576448",
+        "timebuildupdated": "1578260632"
+      }
+    }
+  }
+}

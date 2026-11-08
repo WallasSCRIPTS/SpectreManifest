@@ -1,0 +1,71 @@
+{
+  "name": "Arcane Wilds",
+  "source": "spectre",
+  "changenumber": 40454849,
+  "updated": "2026-11-05T14:55:25.039Z",
+  "branches": {
+    "public": {
+      "buildid": "26344989",
+      "timeupdated": "1793448674",
+      "timebuildupdated": "1793448355"
+    },
+    "testing": {
+      "buildid": "26344989",
+      "description": "highly unstable",
+      "timeupdated": "1793448632",
+      "timebuildupdated": "1793448355"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1492051": {},
+    "1492052": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "322738110668578917",
+          "size": "2570907731",
+          "download": "1970726112"
+        }
+      }
+    },
+    "1492053": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4813164080241562065",
+          "size": "2163056601",
+          "download": "1934764032"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26344989",
+        "timeupdated": "1793448674",
+        "timebuildupdated": "1793448355"
+      },
+      "testing": {
+        "buildid": "26344989",
+        "description": "highly unstable",
+        "timeupdated": "1793448632",
+        "timebuildupdated": "1793448355"
+      }
+    }
+  }
+}

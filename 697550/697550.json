@@ -1,0 +1,70 @@
+{
+  "name": "It Lurks Below",
+  "source": "spectre",
+  "changenumber": 40683443,
+  "updated": "2026-11-07T20:59:54.155Z",
+  "branches": {
+    "public": {
+      "buildid": "16318973",
+      "timeupdated": "1730925070",
+      "timebuildupdated": "1730925011"
+    },
+    "test_center": {
+      "buildid": "16309131",
+      "description": "testing upcoming patches",
+      "timeupdated": "1730861930",
+      "timebuildupdated": "1730861844"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "697551": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9132200633246467672",
+          "size": "60147100",
+          "download": "40639664"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16318973",
+        "timeupdated": "1730925070",
+        "timebuildupdated": "1730925011"
+      },
+      "test_center": {
+        "buildid": "16309131",
+        "description": "testing upcoming patches",
+        "timeupdated": "1730861930",
+        "timebuildupdated": "1730861844"
+      }
+    }
+  }
+}

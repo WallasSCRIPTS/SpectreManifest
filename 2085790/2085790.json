@@ -1,0 +1,58 @@
+{
+  "name": "Mutant Meltdown",
+  "source": "spectre",
+  "changenumber": 39455635,
+  "updated": "2026-11-06T23:17:29.898Z",
+  "branches": {
+    "public": {
+      "buildid": "9844928",
+      "timeupdated": "1667307690",
+      "timebuildupdated": "1667307690"
+    }
+  },
+  "depot": {
+    "2085791": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7878232333020190846",
+          "size": "363292502",
+          "download": "106077344"
+        }
+      }
+    },
+    "2085792": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5033662348294669427",
+          "size": "412169665",
+          "download": "117293056"
+        }
+      }
+    },
+    "2085793": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "386284428149805803",
+          "size": "380261822",
+          "download": "108057360"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9844928",
+        "timeupdated": "1667307690",
+        "timebuildupdated": "1667307690"
+      }
+    }
+  }
+}

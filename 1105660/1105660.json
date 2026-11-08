@@ -1,0 +1,82 @@
+{
+  "name": "Stay Safe: Labyrinth of the Mad",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:20.711Z",
+  "branches": {
+    "public": {
+      "buildid": "8366527",
+      "timeupdated": "1647259993",
+      "timebuildupdated": "1647259993"
+    },
+    "experimental": {
+      "buildid": "8366526",
+      "description": "beta branch for windows version",
+      "timeupdated": "1647259973",
+      "timebuildupdated": "1647259973"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1105661": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6985844911532165832",
+          "size": "58980059",
+          "download": "44106304"
+        }
+      }
+    },
+    "1105662": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "539081594733069821",
+          "size": "89649903",
+          "download": "52775136"
+        }
+      }
+    },
+    "1105663": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "1105664": {},
+    "branches": {
+      "public": {
+        "buildid": "8366527",
+        "timeupdated": "1647259993",
+        "timebuildupdated": "1647259993"
+      },
+      "experimental": {
+        "buildid": "8366526",
+        "description": "beta branch for windows version",
+        "timeupdated": "1647259973",
+        "timebuildupdated": "1647259973"
+      }
+    }
+  }
+}

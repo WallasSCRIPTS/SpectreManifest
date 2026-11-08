@@ -1,0 +1,68 @@
+{
+  "name": "Jagged Alliance Gold",
+  "source": "spectre",
+  "changenumber": 39450034,
+  "updated": "2026-11-07T20:56:22.613Z",
+  "branches": {
+    "public": {
+      "buildid": "245264",
+      "timebuildupdated": "1398527369"
+    },
+    "local": {
+      "buildid": "245244",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1398524394"
+    }
+  },
+  "depot": {
+    "283271": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2469998056095848275",
+          "size": "1223523621",
+          "download": "0"
+        }
+      }
+    },
+    "283272": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2485616417053044687",
+          "size": "1251118013",
+          "download": "0"
+        }
+      }
+    },
+    "283273": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1868507848841794073",
+          "size": "1228216557",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "245264",
+        "timebuildupdated": "1398527369"
+      },
+      "local": {
+        "buildid": "245244",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1398524394"
+      }
+    }
+  }
+}

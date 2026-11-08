@@ -1,0 +1,112 @@
+{
+  "name": "Tomb of Tyrants",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:50.334Z",
+  "branches": {
+    "public": {
+      "buildid": "2316230",
+      "timeupdated": "1511644920",
+      "timebuildupdated": "1511644752"
+    },
+    "2018-beta-freeze": {
+      "buildid": "2841982",
+      "timeupdated": "1561411254",
+      "timebuildupdated": "1528372937"
+    },
+    "beta": {
+      "buildid": "10285425",
+      "timeupdated": "1673298758",
+      "timebuildupdated": "1673298733"
+    },
+    "osx-64-testing": {
+      "buildid": "5638666",
+      "timeupdated": "1601910738",
+      "timebuildupdated": "1601910550"
+    }
+  },
+  "depot": {
+    "340361": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5742626755706244337",
+          "size": "107291385",
+          "download": "41566992"
+        }
+      }
+    },
+    "340362": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7570794200249256029",
+          "size": "155807426",
+          "download": "89595248"
+        }
+      }
+    },
+    "340363": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7087631456240484268",
+          "size": "108493061",
+          "download": "40295904"
+        }
+      }
+    },
+    "340364": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5808806206165258048",
+          "size": "105905560",
+          "download": "38749184"
+        }
+      }
+    },
+    "340365": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4110049247681187253",
+          "size": "106990679",
+          "download": "40604800"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2316230",
+        "timeupdated": "1511644920",
+        "timebuildupdated": "1511644752"
+      },
+      "2018-beta-freeze": {
+        "buildid": "2841982",
+        "timeupdated": "1561411254",
+        "timebuildupdated": "1528372937"
+      },
+      "beta": {
+        "buildid": "10285425",
+        "timeupdated": "1673298758",
+        "timebuildupdated": "1673298733"
+      },
+      "osx-64-testing": {
+        "buildid": "5638666",
+        "timeupdated": "1601910738",
+        "timebuildupdated": "1601910550"
+      }
+    }
+  }
+}

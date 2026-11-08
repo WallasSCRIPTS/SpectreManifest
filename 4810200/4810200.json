@@ -1,0 +1,58 @@
+{
+  "name": "Block Siege",
+  "source": "spectre",
+  "changenumber": 40538639,
+  "updated": "2026-11-04T23:25:43.382Z",
+  "branches": {
+    "public": {
+      "buildid": "26026184",
+      "timeupdated": "1792330146",
+      "timebuildupdated": "1792330145"
+    },
+    "qaversion": {
+      "buildid": "26025979",
+      "description": "上架前验收",
+      "timeupdated": "1792329274",
+      "timebuildupdated": "1792329274"
+    }
+  },
+  "depot": {
+    "4810201": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6011818140749452139",
+          "size": "489252071",
+          "download": "199060976"
+        }
+      }
+    },
+    "4810202": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "280772746998275147",
+          "size": "490836354",
+          "download": "202823616"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26026184",
+        "timeupdated": "1792330146",
+        "timebuildupdated": "1792330145"
+      },
+      "qaversion": {
+        "buildid": "26025979",
+        "description": "上架前验收",
+        "timeupdated": "1792329274",
+        "timebuildupdated": "1792329274"
+      }
+    }
+  }
+}

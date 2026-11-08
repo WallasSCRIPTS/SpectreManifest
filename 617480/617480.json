@@ -1,0 +1,99 @@
+{
+  "name": "Tower of Time",
+  "source": "spectre",
+  "changenumber": 40453857,
+  "updated": "2026-11-07T20:59:17.431Z",
+  "branches": {
+    "public": {
+      "buildid": "20162867",
+      "timeupdated": "1759142553",
+      "timebuildupdated": "1759075917"
+    },
+    "beta_pre_patch": {
+      "buildid": "3781516",
+      "description": "beta_pre_patch",
+      "timeupdated": "1579791118",
+      "timebuildupdated": "1556632897"
+    },
+    "previous_version": {
+      "buildid": "5059146",
+      "description": "In case of an issue with current version - you can always switch to the previous one.",
+      "timeupdated": "1680686044",
+      "timebuildupdated": "1590055793"
+    },
+    "public_beta": {
+      "buildid": "2825472",
+      "description": "Public beta build",
+      "timeupdated": "1527851851",
+      "timebuildupdated": "1527851851"
+    },
+    "public_french_beta": {
+      "buildid": "3143857",
+      "description": "Public beta of French translation",
+      "timeupdated": "1537518307",
+      "timebuildupdated": "1537518238"
+    }
+  },
+  "depot": {
+    "617481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8107368761346491256",
+          "size": "11605447697",
+          "download": "5323165712"
+        }
+      }
+    },
+    "617482": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1007241320530508268",
+          "size": "11415281800",
+          "download": "4983488704"
+        }
+      }
+    },
+    "617483": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20162867",
+        "timeupdated": "1759142553",
+        "timebuildupdated": "1759075917"
+      },
+      "beta_pre_patch": {
+        "buildid": "3781516",
+        "description": "beta_pre_patch",
+        "timeupdated": "1579791118",
+        "timebuildupdated": "1556632897"
+      },
+      "previous_version": {
+        "buildid": "5059146",
+        "description": "In case of an issue with current version - you can always switch to the previous one.",
+        "timeupdated": "1680686044",
+        "timebuildupdated": "1590055793"
+      },
+      "public_beta": {
+        "buildid": "2825472",
+        "description": "Public beta build",
+        "timeupdated": "1527851851",
+        "timebuildupdated": "1527851851"
+      },
+      "public_french_beta": {
+        "buildid": "3143857",
+        "description": "Public beta of French translation",
+        "timeupdated": "1537518307",
+        "timebuildupdated": "1537518238"
+      }
+    }
+  }
+}

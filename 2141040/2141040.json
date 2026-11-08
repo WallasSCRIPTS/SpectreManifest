@@ -1,0 +1,70 @@
+{
+  "name": "Formula Retro Racing - World Tour",
+  "source": "spectre",
+  "changenumber": 37543268,
+  "updated": "2026-11-06T23:17:36.681Z",
+  "branches": {
+    "public": {
+      "buildid": "10901519",
+      "timeupdated": "1680274728",
+      "timebuildupdated": "1680261476"
+    },
+    "vrtest": {
+      "buildid": "10903203",
+      "description": "vr test branch",
+      "timeupdated": "1680275204",
+      "timebuildupdated": "1680275153"
+    }
+  },
+  "depot": {
+    "2141041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6388746559019994748",
+          "size": "1674221257",
+          "download": "312271840"
+        }
+      }
+    },
+    "2141042": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2010270024104905583",
+          "size": "1519265803",
+          "download": "267796656"
+        }
+      }
+    },
+    "2141043": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6270874647806166039",
+          "size": "1507210623",
+          "download": "264751632"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10901519",
+        "timeupdated": "1680274728",
+        "timebuildupdated": "1680261476"
+      },
+      "vrtest": {
+        "buildid": "10903203",
+        "description": "vr test branch",
+        "timeupdated": "1680275204",
+        "timebuildupdated": "1680275153"
+      }
+    }
+  }
+}

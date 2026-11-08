@@ -1,0 +1,58 @@
+{
+  "name": "Beam Splitter",
+  "source": "spectre",
+  "changenumber": 34884994,
+  "updated": "2026-11-06T23:17:32.999Z",
+  "branches": {
+    "public": {
+      "buildid": "9380776",
+      "timeupdated": "1661365928",
+      "timebuildupdated": "1661365841"
+    },
+    "alpha": {
+      "buildid": "9380776",
+      "description": "Alpha testing",
+      "timeupdated": "1661365841",
+      "timebuildupdated": "1661365841"
+    }
+  },
+  "depot": {
+    "2109661": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5921285221336758375",
+          "size": "147100588",
+          "download": "55895248"
+        }
+      }
+    },
+    "2109662": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7240262356679555995",
+          "size": "124603676",
+          "download": "49383312"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9380776",
+        "timeupdated": "1661365928",
+        "timebuildupdated": "1661365841"
+      },
+      "alpha": {
+        "buildid": "9380776",
+        "description": "Alpha testing",
+        "timeupdated": "1661365841",
+        "timebuildupdated": "1661365841"
+      }
+    }
+  }
+}

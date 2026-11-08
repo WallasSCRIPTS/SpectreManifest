@@ -1,0 +1,63 @@
+{
+  "name": "Sciophobia: The Fear of Shadows",
+  "source": "spectre",
+  "changenumber": 34880549,
+  "updated": "2026-11-06T23:15:27.347Z",
+  "branches": {
+    "public": {
+      "buildid": "8673812",
+      "timeupdated": "1651633088",
+      "timebuildupdated": "1651633031"
+    },
+    "macintosh": {
+      "buildid": "8673895",
+      "description": "mac distro",
+      "timeupdated": "1651634776",
+      "timebuildupdated": "1651634516"
+    },
+    "windows": {
+      "buildid": "8673812",
+      "description": "windows distro",
+      "timeupdated": "1651634730",
+      "timebuildupdated": "1651633031"
+    }
+  },
+  "depot": {
+    "1990381": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "470770488402586708",
+          "size": "314032291",
+          "download": "250982384"
+        }
+      }
+    },
+    "1990382": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8673812",
+        "timeupdated": "1651633088",
+        "timebuildupdated": "1651633031"
+      },
+      "macintosh": {
+        "buildid": "8673895",
+        "description": "mac distro",
+        "timeupdated": "1651634776",
+        "timebuildupdated": "1651634516"
+      },
+      "windows": {
+        "buildid": "8673812",
+        "description": "windows distro",
+        "timeupdated": "1651634730",
+        "timebuildupdated": "1651633031"
+      }
+    }
+  }
+}

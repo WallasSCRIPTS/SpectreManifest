@@ -1,0 +1,88 @@
+{
+  "name": "Thronefall",
+  "source": "spectre",
+  "changenumber": 40682010,
+  "updated": "2026-11-06T23:19:35.002Z",
+  "branches": {
+    "public": {
+      "buildid": "25306299",
+      "timeupdated": "1790253528",
+      "timebuildupdated": "1789410004"
+    },
+    "previousversionrollback": {
+      "buildid": "16153885",
+      "description": "Roll back to the previous version of Thronefall.",
+      "timeupdated": "1738582668",
+      "timebuildupdated": "1729700967"
+    },
+    "publicbeta": {
+      "buildid": "20375838",
+      "description": "Public beta branch",
+      "timeupdated": "1760389281",
+      "timebuildupdated": "1760389281"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2239151": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "132065699055713075",
+          "size": "1030719609",
+          "download": "286148176"
+        }
+      }
+    },
+    "2239152": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8856992457311851910",
+          "size": "1069170031",
+          "download": "296730576"
+        }
+      }
+    },
+    "4822240": {
+      "config": {
+        "oslist": "windows,macos"
+      },
+      "dlcappid": "4822240"
+    },
+    "4822250": {
+      "config": {
+        "oslist": "windows,macos"
+      },
+      "dlcappid": "4822250"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25306299",
+        "timeupdated": "1790253528",
+        "timebuildupdated": "1789410004"
+      },
+      "previousversionrollback": {
+        "buildid": "16153885",
+        "description": "Roll back to the previous version of Thronefall.",
+        "timeupdated": "1738582668",
+        "timebuildupdated": "1729700967"
+      },
+      "publicbeta": {
+        "buildid": "20375838",
+        "description": "Public beta branch",
+        "timeupdated": "1760389281",
+        "timebuildupdated": "1760389281"
+      }
+    }
+  }
+}

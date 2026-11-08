@@ -1,0 +1,62 @@
+{
+  "name": "Storm in a Teacup",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:58.999Z",
+  "branches": {
+    "public": {
+      "buildid": "816270",
+      "timebuildupdated": "1444899071"
+    }
+  },
+  "depot": {
+    "104021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2958008979270537420",
+          "size": "32498434",
+          "download": "22675344"
+        }
+      }
+    },
+    "104022": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "531307830196583693",
+          "size": "35561885",
+          "download": "24011584"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "816270",
+        "timebuildupdated": "1444899071"
+      }
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "name": "Dungeons of Dredmor",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:58.702Z",
+  "branches": {
+    "public": {
+      "buildid": "150078",
+      "timebuildupdated": "1385694523"
+    },
+    "public_beta": {
+      "buildid": "22934623",
+      "description": "Beta version of Dungeons of Dredmor! Use at your own risk!",
+      "timeupdated": "1784004714",
+      "timebuildupdated": "1777004937"
+    }
+  },
+  "depot": {
+    "98801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3357870713289374721",
+          "size": "232640116",
+          "download": "0"
+        }
+      }
+    },
+    "98802": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7312801695931671139",
+          "size": "271534969",
+          "download": "0"
+        }
+      }
+    },
+    "98803": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2847176393467869946",
+          "size": "231237443",
+          "download": "0"
+        }
+      }
+    },
+    "98820": {
+      "manifests": {
+        "public": {
+          "gid": "7722742268612991",
+          "size": "16270564",
+          "download": "0"
+        }
+      },
+      "dlcappid": "98820"
+    },
+    "98821": {
+      "manifests": {
+        "public": {
+          "gid": "5474045213305627546",
+          "size": "7354644",
+          "download": "0"
+        }
+      },
+      "dlcappid": "98821"
+    },
+    "98822": {
+      "manifests": {
+        "public": {
+          "gid": "3306837406124533499",
+          "size": "19031540",
+          "download": "0"
+        }
+      },
+      "dlcappid": "98822"
+    },
+    "branches": {
+      "public": {
+        "buildid": "150078",
+        "timebuildupdated": "1385694523"
+      },
+      "public_beta": {
+        "buildid": "22934623",
+        "description": "Beta version of Dungeons of Dredmor! Use at your own risk!",
+        "timeupdated": "1784004714",
+        "timebuildupdated": "1777004937"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Respawn Man",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:32.304Z",
+  "branches": {
+    "public": {
+      "buildid": "1084471",
+      "timeupdated": "1461346359",
+      "timebuildupdated": "1461122062"
+    },
+    "macosx": {
+      "buildid": "1538002",
+      "description": "mac version",
+      "timeupdated": "1482469679",
+      "timebuildupdated": "1482469640"
+    }
+  },
+  "depot": {
+    "398941": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7669811121090864797",
+          "size": "101112739",
+          "download": "80374960"
+        }
+      }
+    },
+    "398942": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1393407970726463940",
+          "size": "102790012",
+          "download": "80206736"
+        }
+      }
+    },
+    "398943": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1926327237472353356",
+          "size": "99702655",
+          "download": "79588784"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1084471",
+        "timeupdated": "1461346359",
+        "timebuildupdated": "1461122062"
+      },
+      "macosx": {
+        "buildid": "1538002",
+        "description": "mac version",
+        "timeupdated": "1482469679",
+        "timebuildupdated": "1482469640"
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Primate Signal",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:47.078Z",
+  "branches": {
+    "public": {
+      "buildid": "5867321",
+      "timeupdated": "1606106533",
+      "timebuildupdated": "1606106533"
+    },
+    "linux": {
+      "buildid": "5865244",
+      "description": "linux+steamos",
+      "timeupdated": "1606029101",
+      "timebuildupdated": "1606029101"
+    },
+    "macos": {
+      "buildid": "5867317",
+      "description": "macos",
+      "timeupdated": "1606106388",
+      "timebuildupdated": "1606106388"
+    }
+  },
+  "depot": {
+    "1153041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5962607068774149820",
+          "size": "229084700",
+          "download": "67092752"
+        }
+      }
+    },
+    "1153042": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "650598873054045761",
+          "size": "183286471",
+          "download": "53960864"
+        }
+      }
+    },
+    "1153043": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "392626128794022510",
+          "size": "206467792",
+          "download": "60014416"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5867321",
+        "timeupdated": "1606106533",
+        "timebuildupdated": "1606106533"
+      },
+      "linux": {
+        "buildid": "5865244",
+        "description": "linux+steamos",
+        "timeupdated": "1606029101",
+        "timebuildupdated": "1606029101"
+      },
+      "macos": {
+        "buildid": "5867317",
+        "description": "macos",
+        "timeupdated": "1606106388",
+        "timebuildupdated": "1606106388"
+      }
+    }
+  }
+}

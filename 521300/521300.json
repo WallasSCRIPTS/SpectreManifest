@@ -1,0 +1,68 @@
+{
+  "name": "The Electric Shocktopus",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:28.805Z",
+  "branches": {
+    "public": {
+      "buildid": "22280581",
+      "timeupdated": "1773155089",
+      "timebuildupdated": "1773155089"
+    },
+    "beta": {
+      "buildid": "22094556",
+      "timeupdated": "1772035531",
+      "timebuildupdated": "1772035531"
+    }
+  },
+  "depot": {
+    "521301": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "478983520212248858",
+          "size": "151825355",
+          "download": "36622016"
+        }
+      }
+    },
+    "521302": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7666665783046979830",
+          "size": "112187185",
+          "download": "20783216"
+        }
+      }
+    },
+    "521303": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4394415316310915070",
+          "size": "150216547",
+          "download": "31889232"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22280581",
+        "timeupdated": "1773155089",
+        "timebuildupdated": "1773155089"
+      },
+      "beta": {
+        "buildid": "22094556",
+        "timeupdated": "1772035531",
+        "timebuildupdated": "1772035531"
+      }
+    }
+  }
+}

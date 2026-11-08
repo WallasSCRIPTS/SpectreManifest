@@ -1,0 +1,190 @@
+{
+  "name": "Overgrowth",
+  "source": "spectre",
+  "changenumber": 40269142,
+  "updated": "2026-11-07T20:55:49.620Z",
+  "branches": {
+    "public": {
+      "buildid": "3450449",
+      "timeupdated": "1547007364",
+      "timebuildupdated": "1546927956"
+    },
+    "advance_testing": {
+      "buildid": "8438631",
+      "description": "Release candidate, will be the next alpha.",
+      "timeupdated": "1648728658",
+      "timebuildupdated": "1648213048"
+    },
+    "internal_testing": {
+      "buildid": "13770693",
+      "description": "Current master, very unstable.",
+      "timeupdated": "1710740340",
+      "timebuildupdated": "1710740340"
+    },
+    "internal_testing_multiplayer": {
+      "buildid": "8368000",
+      "description": "Unstable multiplayer testing branch.",
+      "timeupdated": "1647274713",
+      "timebuildupdated": "1647274713"
+    },
+    "multiplayer": {
+      "buildid": "8295349",
+      "description": "Stable multiplayer test branch",
+      "timeupdated": "1646158158",
+      "timebuildupdated": "1646158158"
+    },
+    "ouruin": {
+      "buildid": "14068218",
+      "description": "ouruin testing",
+      "timeupdated": "1713261601",
+      "timebuildupdated": "1713261601"
+    },
+    "version_1_3_1": {
+      "buildid": "2937215",
+      "description": "Previous version",
+      "timeupdated": "1641808869",
+      "timebuildupdated": "1531325392"
+    },
+    "version_1_4_0": {
+      "buildid": "3450449",
+      "description": "Current version",
+      "timeupdated": "1641808975",
+      "timebuildupdated": "1546927956"
+    }
+  },
+  "depot": {
+    "25001": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4106272477922664518",
+          "size": "193083145",
+          "download": "55876496"
+        }
+      }
+    },
+    "25002": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8572447376951838510",
+          "size": "21253430647",
+          "download": "6611914480"
+        }
+      }
+    },
+    "25003": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5367962205282759232",
+          "size": "21294498971",
+          "download": "6621086720"
+        }
+      }
+    },
+    "25004": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2109637481877491154",
+          "size": "223736763",
+          "download": "55351968"
+        }
+      }
+    },
+    "25005": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6893192256816917708",
+          "size": "28327825",
+          "download": "8382288"
+        }
+      }
+    },
+    "25006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4818519136603890294",
+          "size": "23854933",
+          "download": "7165232"
+        }
+      }
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "3450449",
+        "timeupdated": "1547007364",
+        "timebuildupdated": "1546927956"
+      },
+      "advance_testing": {
+        "buildid": "8438631",
+        "description": "Release candidate, will be the next alpha.",
+        "timeupdated": "1648728658",
+        "timebuildupdated": "1648213048"
+      },
+      "internal_testing": {
+        "buildid": "13770693",
+        "description": "Current master, very unstable.",
+        "timeupdated": "1710740340",
+        "timebuildupdated": "1710740340"
+      },
+      "internal_testing_multiplayer": {
+        "buildid": "8368000",
+        "description": "Unstable multiplayer testing branch.",
+        "timeupdated": "1647274713",
+        "timebuildupdated": "1647274713"
+      },
+      "multiplayer": {
+        "buildid": "8295349",
+        "description": "Stable multiplayer test branch",
+        "timeupdated": "1646158158",
+        "timebuildupdated": "1646158158"
+      },
+      "ouruin": {
+        "buildid": "14068218",
+        "description": "ouruin testing",
+        "timeupdated": "1713261601",
+        "timebuildupdated": "1713261601"
+      },
+      "version_1_3_1": {
+        "buildid": "2937215",
+        "description": "Previous version",
+        "timeupdated": "1641808869",
+        "timebuildupdated": "1531325392"
+      },
+      "version_1_4_0": {
+        "buildid": "3450449",
+        "description": "Current version",
+        "timeupdated": "1641808975",
+        "timebuildupdated": "1546927956"
+      }
+    }
+  }
+}

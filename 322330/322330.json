@@ -1,0 +1,88 @@
+{
+  "name": "Don't Starve Together",
+  "source": "spectre",
+  "changenumber": 40702592,
+  "updated": "2026-11-07T20:56:40.594Z",
+  "branches": {
+    "public": {
+      "buildid": "26474873",
+      "timeupdated": "1793935165",
+      "timebuildupdated": "1793934571"
+    },
+    "updatebeta": {
+      "buildid": "26002070",
+      "description": "Public Beta",
+      "timeupdated": "1792203499",
+      "timebuildupdated": "1792201726"
+    }
+  },
+  "depot": {
+    "228982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "322331": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4765299823199933366",
+          "size": "4524314165",
+          "download": "3179132368"
+        }
+      }
+    },
+    "322332": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "38311723838500344",
+          "size": "4404753182",
+          "download": "3065301312"
+        }
+      }
+    },
+    "322333": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8864614794497092941",
+          "size": "4381683041",
+          "download": "3058888016"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26474873",
+        "timeupdated": "1793935165",
+        "timebuildupdated": "1793934571"
+      },
+      "updatebeta": {
+        "buildid": "26002070",
+        "description": "Public Beta",
+        "timeupdated": "1792203499",
+        "timebuildupdated": "1792201726"
+      }
+    }
+  }
+}

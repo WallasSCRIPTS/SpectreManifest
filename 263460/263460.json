@@ -1,0 +1,82 @@
+{
+  "name": "Girls Like Robots",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:16.321Z",
+  "branches": {
+    "public": {
+      "buildid": "20364937",
+      "timeupdated": "1760341686",
+      "timebuildupdated": "1760340724"
+    },
+    "old_version": {
+      "buildid": "383355",
+      "description": "Pre-remaster Edition",
+      "timeupdated": "1682352841",
+      "timebuildupdated": "1410842386"
+    },
+    "development": {
+      "buildid": "20364937",
+      "description": "Testing",
+      "timeupdated": "1760340724",
+      "timebuildupdated": "1760340724"
+    }
+  },
+  "depot": {
+    "263461": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8047385106619649934",
+          "size": "266420063",
+          "download": "105769792"
+        }
+      }
+    },
+    "263462": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9063745644003873634",
+          "size": "272845982",
+          "download": "107821264"
+        }
+      }
+    },
+    "263463": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8444247780885243031",
+          "size": "294962205",
+          "download": "119126656"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20364937",
+        "timeupdated": "1760341686",
+        "timebuildupdated": "1760340724"
+      },
+      "old_version": {
+        "buildid": "383355",
+        "description": "Pre-remaster Edition",
+        "timeupdated": "1682352841",
+        "timebuildupdated": "1410842386"
+      },
+      "development": {
+        "buildid": "20364937",
+        "description": "Testing",
+        "timeupdated": "1760340724",
+        "timebuildupdated": "1760340724"
+      }
+    }
+  }
+}

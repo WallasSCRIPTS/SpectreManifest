@@ -1,0 +1,70 @@
+{
+  "name": "Mini Countries",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:04:19.318Z",
+  "branches": {
+    "public": {
+      "buildid": "10855850",
+      "timeupdated": "1679761517",
+      "timebuildupdated": "1679761242"
+    },
+    "beta": {
+      "buildid": "10855850",
+      "description": "Beta version",
+      "timeupdated": "1679761242",
+      "timebuildupdated": "1679761242"
+    }
+  },
+  "depot": {
+    "1214181": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8252775406121082006",
+          "size": "1305546194",
+          "download": "806681600"
+        }
+      }
+    },
+    "1214182": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1166694833680238672",
+          "size": "1357476242",
+          "download": "827176560"
+        }
+      }
+    },
+    "1214183": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6817830604274766404",
+          "size": "1336929542",
+          "download": "815597808"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10855850",
+        "timeupdated": "1679761517",
+        "timebuildupdated": "1679761242"
+      },
+      "beta": {
+        "buildid": "10855850",
+        "description": "Beta version",
+        "timeupdated": "1679761242",
+        "timebuildupdated": "1679761242"
+      }
+    }
+  }
+}

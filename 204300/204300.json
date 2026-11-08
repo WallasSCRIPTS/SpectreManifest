@@ -1,0 +1,172 @@
+{
+  "name": "Awesomenauts",
+  "source": "spectre",
+  "changenumber": 37432492,
+  "updated": "2026-11-07T20:56:01.183Z",
+  "branches": {
+    "public": {
+      "buildid": "21266073",
+      "timeupdated": "1766196240",
+      "timebuildupdated": "1766196240"
+    },
+    "local": {
+      "buildid": "1050528",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1459427007",
+      "timebuildupdated": "1459427007"
+    },
+    "december_11_testing": {
+      "buildid": "21191016",
+      "description": "Testing nauts issues",
+      "timeupdated": "1765802199",
+      "timebuildupdated": "1765802199"
+    },
+    "offline3.5": {
+      "buildid": "1877321",
+      "description": "only playable for pre-f2p players",
+      "timeupdated": "1753370945",
+      "timebuildupdated": "1496935171"
+    },
+    "premium-beta": {
+      "buildid": "20124353",
+      "description": "beta for premium relaunch",
+      "timeupdated": "1758798352",
+      "timebuildupdated": "1758798352"
+    }
+  },
+  "depot": {
+    "204301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2221649742285058191",
+          "size": "3627385837",
+          "download": "3593672320"
+        }
+      }
+    },
+    "204302": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6761536228838512520",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "230881": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8443224012258295594",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "387985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8708905611939068607",
+          "size": "26436733",
+          "download": "4947392"
+        }
+      },
+      "dlcappid": "387985"
+    },
+    "387986": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2047698335894122264",
+          "size": "74575775",
+          "download": "15385184"
+        }
+      },
+      "dlcappid": "387986"
+    },
+    "387987": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6073310980195353852",
+          "size": "33858396",
+          "download": "8795120"
+        }
+      },
+      "dlcappid": "387987"
+    },
+    "561520": {
+      "config": {
+        "oslist": "macos"
+      },
+      "dlcappid": "561520"
+    },
+    "561521": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "495530719079464370",
+          "size": "2948777713",
+          "download": "2916421312"
+        }
+      },
+      "dlcappid": "561521"
+    },
+    "634000": {
+      "config": {
+        "oslist": "linux"
+      },
+      "dlcappid": "634000"
+    },
+    "branches": {
+      "public": {
+        "buildid": "21266073",
+        "timeupdated": "1766196240",
+        "timebuildupdated": "1766196240"
+      },
+      "local": {
+        "buildid": "1050528",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1459427007",
+        "timebuildupdated": "1459427007"
+      },
+      "december_11_testing": {
+        "buildid": "21191016",
+        "description": "Testing nauts issues",
+        "timeupdated": "1765802199",
+        "timebuildupdated": "1765802199"
+      },
+      "offline3.5": {
+        "buildid": "1877321",
+        "description": "only playable for pre-f2p players",
+        "timeupdated": "1753370945",
+        "timebuildupdated": "1496935171"
+      },
+      "premium-beta": {
+        "buildid": "20124353",
+        "description": "beta for premium relaunch",
+        "timeupdated": "1758798352",
+        "timebuildupdated": "1758798352"
+      }
+    }
+  }
+}

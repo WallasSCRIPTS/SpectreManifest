@@ -1,0 +1,100 @@
+{
+  "name": "DOG GONE GOLFING",
+  "source": "spectre",
+  "changenumber": 40099217,
+  "updated": "2026-11-07T20:59:37.946Z",
+  "branches": {
+    "public": {
+      "buildid": "9471403",
+      "timeupdated": "1662582161",
+      "timebuildupdated": "1662582161"
+    },
+    "experimental": {
+      "buildid": "9619139",
+      "description": "Internal Experiments",
+      "timeupdated": "1664466363",
+      "timebuildupdated": "1664466363"
+    },
+    "public_beta": {
+      "buildid": "9619277",
+      "description": "Public Beta",
+      "timeupdated": "1664467241",
+      "timebuildupdated": "1664467241"
+    },
+    "dgg-online": {
+      "buildid": "25554857",
+      "description": "DGG ONLINE",
+      "timeupdated": "1790474244",
+      "timebuildupdated": "1790474244"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "665591": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1163378908307179262",
+          "size": "29059370",
+          "download": "20215888"
+        }
+      }
+    },
+    "665592": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2979387965216638838",
+          "size": "35116695",
+          "download": "21770576"
+        }
+      }
+    },
+    "665593": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3798653347957957391",
+          "size": "52399795",
+          "download": "36369008"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9471403",
+        "timeupdated": "1662582161",
+        "timebuildupdated": "1662582161"
+      },
+      "experimental": {
+        "buildid": "9619139",
+        "description": "Internal Experiments",
+        "timeupdated": "1664466363",
+        "timebuildupdated": "1664466363"
+      },
+      "public_beta": {
+        "buildid": "9619277",
+        "description": "Public Beta",
+        "timeupdated": "1664467241",
+        "timebuildupdated": "1664467241"
+      },
+      "dgg-online": {
+        "buildid": "25554857",
+        "description": "DGG ONLINE",
+        "timeupdated": "1790474244",
+        "timebuildupdated": "1790474244"
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Betrayal At Club Low",
+  "source": "spectre",
+  "changenumber": 35946306,
+  "updated": "2026-11-06T23:13:26.929Z",
+  "branches": {
+    "public": {
+      "buildid": "10850944",
+      "timeupdated": "1679686887",
+      "timebuildupdated": "1679683276"
+    },
+    "mac-developer-mode": {
+      "buildid": "10850395",
+      "description": "Workaround mode for Macs which graphics card issues.",
+      "timeupdated": "1679680551",
+      "timebuildupdated": "1679678769"
+    },
+    "previous": {
+      "buildid": "10501624",
+      "description": "previous build",
+      "timeupdated": "1681404205",
+      "timebuildupdated": "1675820546"
+    },
+    "test": {
+      "buildid": "10850944",
+      "description": "next build!",
+      "timeupdated": "1679683512",
+      "timebuildupdated": "1679683276"
+    }
+  },
+  "depot": {
+    "1885751": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6727245746526074428",
+          "size": "2470619095",
+          "download": "1037351872"
+        }
+      }
+    },
+    "1885752": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8517749503720354106",
+          "size": "2499773147",
+          "download": "1044847520"
+        }
+      }
+    },
+    "1885753": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1494130171407505883",
+          "size": "2577682960",
+          "download": "1103733088"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10850944",
+        "timeupdated": "1679686887",
+        "timebuildupdated": "1679683276"
+      },
+      "mac-developer-mode": {
+        "buildid": "10850395",
+        "description": "Workaround mode for Macs which graphics card issues.",
+        "timeupdated": "1679680551",
+        "timebuildupdated": "1679678769"
+      },
+      "previous": {
+        "buildid": "10501624",
+        "description": "previous build",
+        "timeupdated": "1681404205",
+        "timebuildupdated": "1675820546"
+      },
+      "test": {
+        "buildid": "10850944",
+        "description": "next build!",
+        "timeupdated": "1679683512",
+        "timebuildupdated": "1679683276"
+      }
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "name": "Polynomial 2",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:21.380Z",
+  "branches": {
+    "public": {
+      "buildid": "19473250",
+      "timeupdated": "1754331631",
+      "timebuildupdated": "1754329440"
+    },
+    "linux_vr_alpha": {
+      "buildid": "1997609",
+      "description": "Linux VR testing",
+      "timeupdated": "1501432427",
+      "timebuildupdated": "1501392852"
+    },
+    "very_old_version": {
+      "buildid": "1444201",
+      "timeupdated": "1488129805",
+      "timebuildupdated": "1478536791"
+    },
+    "latest_build": {
+      "buildid": "22557236",
+      "description": "Latest build of the game, may not work at all",
+      "timeupdated": "1774806129",
+      "timebuildupdated": "1774806087"
+    },
+    "maybe_broken": {
+      "buildid": "22559978",
+      "timeupdated": "1774828939",
+      "timebuildupdated": "1774828939"
+    },
+    "old_version": {
+      "buildid": "1686485",
+      "timeupdated": "1754331603",
+      "timebuildupdated": "1489368774"
+    }
+  },
+  "depot": {
+    "379421": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1257417576726039130",
+          "size": "366704285",
+          "download": "303709568"
+        }
+      }
+    },
+    "379422": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7889060936624258592",
+          "size": "374919005",
+          "download": "312088144"
+        }
+      }
+    },
+    "379423": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7614357811480471639",
+          "size": "372954516",
+          "download": "288956496"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19473250",
+        "timeupdated": "1754331631",
+        "timebuildupdated": "1754329440"
+      },
+      "linux_vr_alpha": {
+        "buildid": "1997609",
+        "description": "Linux VR testing",
+        "timeupdated": "1501432427",
+        "timebuildupdated": "1501392852"
+      },
+      "very_old_version": {
+        "buildid": "1444201",
+        "timeupdated": "1488129805",
+        "timebuildupdated": "1478536791"
+      },
+      "latest_build": {
+        "buildid": "22557236",
+        "description": "Latest build of the game, may not work at all",
+        "timeupdated": "1774806129",
+        "timebuildupdated": "1774806087"
+      },
+      "maybe_broken": {
+        "buildid": "22559978",
+        "timeupdated": "1774828939",
+        "timebuildupdated": "1774828939"
+      },
+      "old_version": {
+        "buildid": "1686485",
+        "timeupdated": "1754331603",
+        "timebuildupdated": "1489368774"
+      }
+    }
+  }
+}

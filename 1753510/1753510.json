@@ -1,0 +1,82 @@
+{
+  "name": "Cavemen Tales Collector's Edition",
+  "source": "spectre",
+  "changenumber": 36465212,
+  "updated": "2026-11-06T23:09:42.987Z",
+  "branches": {
+    "public": {
+      "buildid": "23657997",
+      "timeupdated": "1781083614",
+      "timebuildupdated": "1781083585"
+    },
+    "previous_version": {
+      "buildid": "12621303",
+      "description": " Contains the previous version of the game, to be used in case the new update doesn't work well.",
+      "timeupdated": "1699136184",
+      "timebuildupdated": "1699136177"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1753511": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5617923867237428585",
+          "size": "228416233",
+          "download": "212637296"
+        }
+      }
+    },
+    "1753512": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5923317558438646470",
+          "size": "235865140",
+          "download": "217290160"
+        }
+      }
+    },
+    "1753513": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "863847763282776000",
+          "size": "220886870",
+          "download": "210586464"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23657997",
+        "timeupdated": "1781083614",
+        "timebuildupdated": "1781083585"
+      },
+      "previous_version": {
+        "buildid": "12621303",
+        "description": " Contains the previous version of the game, to be used in case the new update doesn't work well.",
+        "timeupdated": "1699136184",
+        "timebuildupdated": "1699136177"
+      }
+    }
+  }
+}

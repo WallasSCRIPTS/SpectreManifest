@@ -1,0 +1,60 @@
+{
+  "name": "The Safe Place",
+  "source": "spectre",
+  "changenumber": 36304884,
+  "updated": "2026-11-06T23:13:30.842Z",
+  "branches": {
+    "public": {
+      "buildid": "10968837",
+      "timeupdated": "1681127683",
+      "timebuildupdated": "1681127420"
+    },
+    "local": {
+      "buildid": "9105584",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1657624893",
+      "timebuildupdated": "1657624893"
+    }
+  },
+  "depot": {
+    "1917831": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8335904104002558949",
+          "size": "2173160699",
+          "download": "706212496"
+        }
+      }
+    },
+    "1917832": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4673195520690900216",
+          "size": "2210732429",
+          "download": "716285072"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10968837",
+        "timeupdated": "1681127683",
+        "timebuildupdated": "1681127420"
+      },
+      "local": {
+        "buildid": "9105584",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1657624893",
+        "timebuildupdated": "1657624893"
+      }
+    }
+  }
+}

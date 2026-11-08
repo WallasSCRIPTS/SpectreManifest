@@ -1,0 +1,140 @@
+{
+  "name": "Quest of Dungeons",
+  "source": "spectre",
+  "changenumber": 40680646,
+  "updated": "2026-11-07T20:56:18.675Z",
+  "branches": {
+    "public": {
+      "buildid": "26271793",
+      "timeupdated": "1793353164",
+      "timebuildupdated": "1793194698"
+    },
+    "v4.0": {
+      "buildid": "26492090",
+      "description": "version 4.X expansion content",
+      "timeupdated": "1793990253",
+      "timebuildupdated": "1793990253"
+    },
+    "v3.0.5_linux_ubuntu_12_14_support": {
+      "buildid": "4211199",
+      "description": "Older version that should still support older versions of Ubuntu 12 and 14",
+      "timeupdated": "1640776727",
+      "timebuildupdated": "1568905463"
+    },
+    "v3.0.5_before_macos_catalina": {
+      "buildid": "3171413",
+      "description": "Version 3.0.5 pre MacOS 10.15",
+      "timeupdated": "1568905284",
+      "timebuildupdated": "1538379766"
+    },
+    "v2.0.4": {
+      "buildid": "851325",
+      "description": "Version 2.0.4. Stable if someone runs into problems with >=3.X",
+      "timeupdated": "1506442056",
+      "timebuildupdated": "1447085606"
+    },
+    "v1.1": {
+      "buildid": "305201",
+      "description": "Version 1.1 (if has issues with >=2.0)",
+      "timebuildupdated": "1403460811"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "270051": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2271177191805414564",
+          "size": "46987938",
+          "download": "32119280"
+        }
+      }
+    },
+    "270052": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2901987979523217847",
+          "size": "54007896",
+          "download": "35514704"
+        }
+      }
+    },
+    "270053": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7788686634588332636",
+          "size": "50147069",
+          "download": "33310576"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26271793",
+        "timeupdated": "1793353164",
+        "timebuildupdated": "1793194698"
+      },
+      "v4.0": {
+        "buildid": "26492090",
+        "description": "version 4.X expansion content",
+        "timeupdated": "1793990253",
+        "timebuildupdated": "1793990253"
+      },
+      "v3.0.5_linux_ubuntu_12_14_support": {
+        "buildid": "4211199",
+        "description": "Older version that should still support older versions of Ubuntu 12 and 14",
+        "timeupdated": "1640776727",
+        "timebuildupdated": "1568905463"
+      },
+      "v3.0.5_before_macos_catalina": {
+        "buildid": "3171413",
+        "description": "Version 3.0.5 pre MacOS 10.15",
+        "timeupdated": "1568905284",
+        "timebuildupdated": "1538379766"
+      },
+      "v2.0.4": {
+        "buildid": "851325",
+        "description": "Version 2.0.4. Stable if someone runs into problems with >=3.X",
+        "timeupdated": "1506442056",
+        "timebuildupdated": "1447085606"
+      },
+      "v1.1": {
+        "buildid": "305201",
+        "description": "Version 1.1 (if has issues with >=2.0)",
+        "timebuildupdated": "1403460811"
+      }
+    }
+  }
+}

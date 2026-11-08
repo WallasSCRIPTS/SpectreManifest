@@ -1,0 +1,58 @@
+{
+  "name": "City Bus Manager",
+  "source": "spectre",
+  "changenumber": 39901750,
+  "updated": "2026-11-06T21:04:41.438Z",
+  "branches": {
+    "public": {
+      "buildid": "25982721",
+      "timeupdated": "1792153015",
+      "timebuildupdated": "1792143068"
+    },
+    "beta": {
+      "buildid": "25982721",
+      "description": "Beta-Branch",
+      "timeupdated": "1792143374",
+      "timebuildupdated": "1792143068"
+    }
+  },
+  "depot": {
+    "1364211": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7156528687817050331",
+          "size": "5407781717",
+          "download": "2914090096"
+        }
+      }
+    },
+    "1364212": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "89364794072419182",
+          "size": "5409138010",
+          "download": "2562171312"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25982721",
+        "timeupdated": "1792153015",
+        "timebuildupdated": "1792143068"
+      },
+      "beta": {
+        "buildid": "25982721",
+        "description": "Beta-Branch",
+        "timeupdated": "1792143374",
+        "timebuildupdated": "1792143068"
+      }
+    }
+  }
+}

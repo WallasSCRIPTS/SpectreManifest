@@ -1,0 +1,70 @@
+{
+  "name": "Death Harvest",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:23:18.894Z",
+  "branches": {
+    "public": {
+      "buildid": "23438713",
+      "timeupdated": "1779996361",
+      "timebuildupdated": "1779911292"
+    },
+    "beta": {
+      "buildid": "23438713",
+      "description": "Open beta version for the community.",
+      "timeupdated": "1779996304",
+      "timebuildupdated": "1779911292"
+    },
+    "default_openxr": {
+      "buildid": "23809594",
+      "description": "Branch with version that supports OpenXR api instead of OculusVR or SteamVR.",
+      "timeupdated": "1781812764",
+      "timebuildupdated": "1781812729"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2358601": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4776657665545083314",
+          "size": "4091429453",
+          "download": "3537794288"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23438713",
+        "timeupdated": "1779996361",
+        "timebuildupdated": "1779911292"
+      },
+      "beta": {
+        "buildid": "23438713",
+        "description": "Open beta version for the community.",
+        "timeupdated": "1779996304",
+        "timebuildupdated": "1779911292"
+      },
+      "default_openxr": {
+        "buildid": "23809594",
+        "description": "Branch with version that supports OpenXR api instead of OculusVR or SteamVR.",
+        "timeupdated": "1781812764",
+        "timebuildupdated": "1781812729"
+      }
+    }
+  }
+}

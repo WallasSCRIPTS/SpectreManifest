@@ -1,0 +1,55 @@
+{
+  "name": "[Neolithic]To the End",
+  "source": "spectre",
+  "changenumber": 40572081,
+  "updated": "2026-11-06T21:05:51.885Z",
+  "branches": {
+    "public": {
+      "buildid": "26420904",
+      "timeupdated": "1793757806",
+      "timebuildupdated": "1793756832"
+    },
+    "rollback_1_version": {
+      "buildid": "26388638",
+      "description": "If anything blows up, use this to roll back to a previous version",
+      "timeupdated": "1793649573",
+      "timebuildupdated": "1793649516"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1519141": {
+      "manifests": {
+        "public": {
+          "gid": "4393367135402877997",
+          "size": "1249721939",
+          "download": "1162174896"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26420904",
+        "timeupdated": "1793757806",
+        "timebuildupdated": "1793756832"
+      },
+      "rollback_1_version": {
+        "buildid": "26388638",
+        "description": "If anything blows up, use this to roll back to a previous version",
+        "timeupdated": "1793649573",
+        "timebuildupdated": "1793649516"
+      }
+    }
+  }
+}

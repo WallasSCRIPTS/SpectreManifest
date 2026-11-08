@@ -1,0 +1,64 @@
+{
+  "name": "Muspell",
+  "source": "spectre",
+  "changenumber": 40531397,
+  "updated": "2026-11-07T21:02:56.582Z",
+  "branches": {
+    "public": {
+      "buildid": "10821360",
+      "timeupdated": "1679420159",
+      "timebuildupdated": "1679416076"
+    },
+    "beta": {
+      "buildid": "10821360",
+      "description": "Beta Branch",
+      "timeupdated": "1679416168",
+      "timebuildupdated": "1679416076"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1067701": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2419755213509477440",
+          "size": "105370829",
+          "download": "39563120"
+        }
+      }
+    },
+    "1067702": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7227672899357580496",
+          "size": "106208996",
+          "download": "39718208"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10821360",
+        "timeupdated": "1679420159",
+        "timebuildupdated": "1679416076"
+      },
+      "beta": {
+        "buildid": "10821360",
+        "description": "Beta Branch",
+        "timeupdated": "1679416168",
+        "timebuildupdated": "1679416076"
+      }
+    }
+  }
+}

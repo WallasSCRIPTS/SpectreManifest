@@ -1,0 +1,57 @@
+{
+  "name": "Raiden V: Director's Cut",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:53.285Z",
+  "branches": {
+    "public": {
+      "buildid": "2204201",
+      "timeupdated": "1508551061",
+      "timebuildupdated": "1508210951"
+    },
+    "fix_cheer": {
+      "buildid": "2192611",
+      "timeupdated": "1507809049",
+      "timebuildupdated": "1507809022"
+    },
+    "fix_frame_rate": {
+      "buildid": "2204201",
+      "timeupdated": "1508211141",
+      "timebuildupdated": "1508210951"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "570051": {
+      "manifests": {
+        "public": {
+          "gid": "8421580091318723806",
+          "size": "5366655818",
+          "download": "1560548256"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2204201",
+        "timeupdated": "1508551061",
+        "timebuildupdated": "1508210951"
+      },
+      "fix_cheer": {
+        "buildid": "2192611",
+        "timeupdated": "1507809049",
+        "timebuildupdated": "1507809022"
+      },
+      "fix_frame_rate": {
+        "buildid": "2204201",
+        "timeupdated": "1508211141",
+        "timebuildupdated": "1508210951"
+      }
+    }
+  }
+}

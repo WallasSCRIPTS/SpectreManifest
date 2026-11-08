@@ -1,0 +1,62 @@
+{
+  "name": "Ra Ra BOOM",
+  "source": "spectre",
+  "changenumber": 39967035,
+  "updated": "2026-11-06T23:23:16.208Z",
+  "branches": {
+    "public": {
+      "buildid": "20342325",
+      "timeupdated": "1760217519",
+      "timebuildupdated": "1760123016"
+    },
+    "press": {
+      "buildid": "19306955",
+      "description": "Stable release for press to use.",
+      "timeupdated": "1753139875",
+      "timebuildupdated": "1753136963"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2335061": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7149212067554402708",
+          "size": "2187779811",
+          "download": "1505686384"
+        }
+      }
+    },
+    "3931540": {
+      "manifests": {
+        "public": {
+          "gid": "860255614136944799",
+          "size": "90884696",
+          "download": "87958608"
+        }
+      },
+      "dlcappid": "3931540"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20342325",
+        "timeupdated": "1760217519",
+        "timebuildupdated": "1760123016"
+      },
+      "press": {
+        "buildid": "19306955",
+        "description": "Stable release for press to use.",
+        "timeupdated": "1753139875",
+        "timebuildupdated": "1753136963"
+      }
+    }
+  }
+}

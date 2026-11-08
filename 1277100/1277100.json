@@ -1,0 +1,69 @@
+{
+  "name": "Dungeon & Derision",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:06.773Z",
+  "branches": {
+    "public": {
+      "buildid": "5429750",
+      "timeupdated": "1597802408",
+      "timebuildupdated": "1597802272"
+    },
+    "beta": {
+      "buildid": "5380057",
+      "timeupdated": "1596901641",
+      "timebuildupdated": "1596726058"
+    }
+  },
+  "depot": {
+    "1277101": {},
+    "1277102": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2290206183580074349",
+          "size": "143762123",
+          "download": "41352400"
+        }
+      }
+    },
+    "1277103": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6052018357187564293",
+          "size": "135160373",
+          "download": "39945184"
+        }
+      }
+    },
+    "1277104": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9044468712544179506",
+          "size": "133403378",
+          "download": "39811392"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5429750",
+        "timeupdated": "1597802408",
+        "timebuildupdated": "1597802272"
+      },
+      "beta": {
+        "buildid": "5380057",
+        "timeupdated": "1596901641",
+        "timebuildupdated": "1596726058"
+      }
+    }
+  }
+}

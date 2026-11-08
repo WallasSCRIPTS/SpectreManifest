@@ -1,0 +1,70 @@
+{
+  "name": "Space Grunts 2",
+  "source": "spectre",
+  "changenumber": 39611490,
+  "updated": "2026-11-07T21:03:33.143Z",
+  "branches": {
+    "public": {
+      "buildid": "15677106",
+      "timeupdated": "1726143957",
+      "timebuildupdated": "1726143824"
+    },
+    "beta_v2": {
+      "buildid": "13893335",
+      "description": "Beta for new update",
+      "timeupdated": "1711709370",
+      "timebuildupdated": "1711709303"
+    }
+  },
+  "depot": {
+    "1125371": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6009441990762250841",
+          "size": "110403920",
+          "download": "87012096"
+        }
+      }
+    },
+    "1125372": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6280566728669645840",
+          "size": "124938875",
+          "download": "91447392"
+        }
+      }
+    },
+    "1125373": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4053452977467940943",
+          "size": "119847995",
+          "download": "89404384"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15677106",
+        "timeupdated": "1726143957",
+        "timebuildupdated": "1726143824"
+      },
+      "beta_v2": {
+        "buildid": "13893335",
+        "description": "Beta for new update",
+        "timeupdated": "1711709370",
+        "timebuildupdated": "1711709303"
+      }
+    }
+  }
+}

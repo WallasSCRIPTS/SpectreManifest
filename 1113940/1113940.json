@@ -1,0 +1,95 @@
+{
+  "name": "Electronic Super Joy 2",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T21:03:25.770Z",
+  "branches": {
+    "public": {
+      "buildid": "5730372",
+      "timeupdated": "1603497902",
+      "timebuildupdated": "1603497776"
+    },
+    "beta": {
+      "buildid": "4194777",
+      "description": "The latest build",
+      "timeupdated": "1568399439",
+      "timebuildupdated": "1568398695"
+    },
+    "safe": {
+      "buildid": "4099360",
+      "description": "An older build, the most stable, but without any recent hot-fixes or bug patches.",
+      "timeupdated": "1565756316",
+      "timebuildupdated": "1565657443"
+    }
+  },
+  "depot": {
+    "1113941": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1226656577493871149",
+          "size": "571824021",
+          "download": "239911936"
+        }
+      }
+    },
+    "1113942": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1495546111904130393",
+          "size": "579497022",
+          "download": "243312384"
+        }
+      }
+    },
+    "1113943": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "855823570130585227",
+          "size": "613864038",
+          "download": "255728336"
+        }
+      }
+    },
+    "1121810": {
+      "manifests": {
+        "public": {
+          "gid": "6038323510261474696",
+          "size": "546284095",
+          "download": "390568560"
+        }
+      },
+      "dlcappid": "1121810"
+    },
+    "1240750": {
+      "dlcappid": "1240750"
+    },
+    "branches": {
+      "public": {
+        "buildid": "5730372",
+        "timeupdated": "1603497902",
+        "timebuildupdated": "1603497776"
+      },
+      "beta": {
+        "buildid": "4194777",
+        "description": "The latest build",
+        "timeupdated": "1568399439",
+        "timebuildupdated": "1568398695"
+      },
+      "safe": {
+        "buildid": "4099360",
+        "description": "An older build, the most stable, but without any recent hot-fixes or bug patches.",
+        "timeupdated": "1565756316",
+        "timebuildupdated": "1565657443"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Teslagrad 2",
+  "source": "spectre",
+  "changenumber": 40111512,
+  "updated": "2026-11-06T23:07:50.828Z",
+  "branches": {
+    "public": {
+      "buildid": "23225880",
+      "timeupdated": "1779038454",
+      "timebuildupdated": "1778719738"
+    },
+    "old_version_for_speedrunning": {
+      "buildid": "17572578",
+      "description": "Previous public build for the speedrunning community - lacks some lag spikes in the latest version, but has theoretical security vulnerabilities in the Unity version used. Use at your own risk.",
+      "timeupdated": "1773239146",
+      "timebuildupdated": "1740997082"
+    }
+  },
+  "depot": {
+    "1698221": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6083985703561740539",
+          "size": "2927498405",
+          "download": "1798227136"
+        }
+      }
+    },
+    "1698222": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2491611081859669868",
+          "size": "3009670903",
+          "download": "1816721808"
+        }
+      }
+    },
+    "1698223": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6696388896988100324",
+          "size": "2956938504",
+          "download": "1800510240"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23225880",
+        "timeupdated": "1779038454",
+        "timebuildupdated": "1778719738"
+      },
+      "old_version_for_speedrunning": {
+        "buildid": "17572578",
+        "description": "Previous public build for the speedrunning community - lacks some lag spikes in the latest version, but has theoretical security vulnerabilities in the Unity version used. Use at your own risk.",
+        "timeupdated": "1773239146",
+        "timebuildupdated": "1740997082"
+      }
+    }
+  }
+}

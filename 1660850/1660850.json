@@ -1,0 +1,67 @@
+{
+  "name": "Flesh",
+  "source": "spectre",
+  "changenumber": 40203285,
+  "updated": "2026-11-05T14:59:17.617Z",
+  "branches": {
+    "public": {
+      "buildid": "11929944",
+      "timeupdated": "1691884032",
+      "timebuildupdated": "1691884032"
+    },
+    "beta": {
+      "buildid": "11929944",
+      "description": "development branch",
+      "timeupdated": "1691884050",
+      "timebuildupdated": "1691884032"
+    }
+  },
+  "depot": {
+    "1660851": {
+      "manifests": {
+        "public": {
+          "gid": "39302888804628166",
+          "size": "424387",
+          "download": "18448"
+        }
+      }
+    },
+    "1660852": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7691833545606504062",
+          "size": "192615023",
+          "download": "164375424"
+        }
+      }
+    },
+    "1660853": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "246113709462917817",
+          "size": "191876155",
+          "download": "164695088"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11929944",
+        "timeupdated": "1691884032",
+        "timebuildupdated": "1691884032"
+      },
+      "beta": {
+        "buildid": "11929944",
+        "description": "development branch",
+        "timeupdated": "1691884050",
+        "timebuildupdated": "1691884032"
+      }
+    }
+  }
+}

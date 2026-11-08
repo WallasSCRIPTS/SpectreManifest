@@ -1,0 +1,58 @@
+{
+  "name": "Zero Caliber VR",
+  "source": "spectre",
+  "changenumber": 40641151,
+  "updated": "2026-11-07T21:01:22.335Z",
+  "branches": {
+    "public": {
+      "buildid": "24626051",
+      "timeupdated": "1786219347",
+      "timebuildupdated": "1786170608"
+    },
+    "experimental-public": {
+      "buildid": "19417381",
+      "description": "VD and compatibility fixes",
+      "timeupdated": "1753991124",
+      "timebuildupdated": "1753895967"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "877201": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6227097626281725948",
+          "size": "30267280212",
+          "download": "28980199904"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24626051",
+        "timeupdated": "1786219347",
+        "timebuildupdated": "1786170608"
+      },
+      "experimental-public": {
+        "buildid": "19417381",
+        "description": "VD and compatibility fixes",
+        "timeupdated": "1753991124",
+        "timebuildupdated": "1753895967"
+      }
+    }
+  }
+}

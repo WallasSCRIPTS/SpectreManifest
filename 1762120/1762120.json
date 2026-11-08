@@ -1,0 +1,58 @@
+{
+  "name": "The Cruise",
+  "source": "spectre",
+  "changenumber": 40629843,
+  "updated": "2026-11-06T23:09:44.126Z",
+  "branches": {
+    "public": {
+      "buildid": "10856302",
+      "timeupdated": "1679771732",
+      "timebuildupdated": "1679771708"
+    },
+    "thecruise1.0": {
+      "buildid": "8111752",
+      "description": "Legacy The Cruise",
+      "timeupdated": "1663971917",
+      "timebuildupdated": "1643493030"
+    }
+  },
+  "depot": {
+    "1762121": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8718905615477823934",
+          "size": "115621782",
+          "download": "46246848"
+        }
+      }
+    },
+    "1762122": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "59175335543414623",
+          "size": "135450260",
+          "download": "53915952"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10856302",
+        "timeupdated": "1679771732",
+        "timebuildupdated": "1679771708"
+      },
+      "thecruise1.0": {
+        "buildid": "8111752",
+        "description": "Legacy The Cruise",
+        "timeupdated": "1663971917",
+        "timebuildupdated": "1643493030"
+      }
+    }
+  }
+}

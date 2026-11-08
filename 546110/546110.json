@@ -1,0 +1,72 @@
+{
+  "name": "画境(Picturesque) VR",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:39.993Z",
+  "branches": {
+    "public": {
+      "buildid": "1530179",
+      "timeupdated": "1482208677",
+      "timebuildupdated": "1482208677"
+    },
+    "local": {
+      "buildid": "1566755",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1484290773",
+      "timebuildupdated": "1484290773"
+    }
+  },
+  "depot": {
+    "546111": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "365992081914029144",
+          "size": "890995539",
+          "download": "363371744"
+        }
+      }
+    },
+    "546112": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3185966517890900940",
+          "size": "891370603",
+          "download": "363435888"
+        }
+      }
+    },
+    "546113": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6687975822992797570",
+          "size": "891370603",
+          "download": "363437456"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1530179",
+        "timeupdated": "1482208677",
+        "timebuildupdated": "1482208677"
+      },
+      "local": {
+        "buildid": "1566755",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1484290773",
+        "timebuildupdated": "1484290773"
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Traffic Brains 2",
+  "source": "spectre",
+  "changenumber": 39171908,
+  "updated": "2026-11-06T23:21:22.773Z",
+  "branches": {
+    "public": {
+      "buildid": "25510686",
+      "timeupdated": "1790270396",
+      "timebuildupdated": "1790269004"
+    },
+    "marketing": {
+      "buildid": "11965323",
+      "description": "For youtubers and other infulencers",
+      "timeupdated": "1692278933",
+      "timebuildupdated": "1692278591"
+    },
+    "testing": {
+      "buildid": "25510686",
+      "description": "For testing, duh",
+      "timeupdated": "1790269204",
+      "timebuildupdated": "1790269004"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2264161": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8567876560421398168",
+          "size": "514660202",
+          "download": "247409264"
+        }
+      }
+    },
+    "2264162": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1807297854139465897",
+          "size": "472703196",
+          "download": "218764992"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25510686",
+        "timeupdated": "1790270396",
+        "timebuildupdated": "1790269004"
+      },
+      "marketing": {
+        "buildid": "11965323",
+        "description": "For youtubers and other infulencers",
+        "timeupdated": "1692278933",
+        "timebuildupdated": "1692278591"
+      },
+      "testing": {
+        "buildid": "25510686",
+        "description": "For testing, duh",
+        "timeupdated": "1790269204",
+        "timebuildupdated": "1790269004"
+      }
+    }
+  }
+}

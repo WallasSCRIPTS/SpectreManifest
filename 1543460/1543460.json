@@ -1,0 +1,68 @@
+{
+  "name": "The Sin",
+  "source": "spectre",
+  "changenumber": 40247185,
+  "updated": "2026-11-06T21:06:01.287Z",
+  "branches": {
+    "public": {
+      "buildid": "6975747",
+      "timeupdated": "1625342462",
+      "timebuildupdated": "1625342462"
+    },
+    "linux": {
+      "buildid": "6974145",
+      "description": "for linux",
+      "timeupdated": "1625294559",
+      "timebuildupdated": "1625294559"
+    },
+    "macbuild": {
+      "buildid": "6974142",
+      "description": "for mac",
+      "timeupdated": "1625294435",
+      "timebuildupdated": "1625294435"
+    }
+  },
+  "depot": {
+    "1543461": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8728618102559221340",
+          "size": "203930919",
+          "download": "132614400"
+        }
+      }
+    },
+    "1543462": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "1543463": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6975747",
+        "timeupdated": "1625342462",
+        "timebuildupdated": "1625342462"
+      },
+      "linux": {
+        "buildid": "6974145",
+        "description": "for linux",
+        "timeupdated": "1625294559",
+        "timebuildupdated": "1625294559"
+      },
+      "macbuild": {
+        "buildid": "6974142",
+        "description": "for mac",
+        "timeupdated": "1625294435",
+        "timebuildupdated": "1625294435"
+      }
+    }
+  }
+}

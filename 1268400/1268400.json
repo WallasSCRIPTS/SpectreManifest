@@ -1,0 +1,109 @@
+{
+  "name": "Pinball Lockdown",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:02.444Z",
+  "branches": {
+    "public": {
+      "buildid": "5579991",
+      "timeupdated": "1600795550",
+      "timebuildupdated": "1600793815"
+    },
+    "baseline": {
+      "buildid": "5579991",
+      "timeupdated": "1600795562",
+      "timebuildupdated": "1600793815"
+    },
+    "linux": {
+      "buildid": "5579991",
+      "timeupdated": "1600793815",
+      "timebuildupdated": "1600793815"
+    },
+    "test2": {
+      "buildid": "7222269",
+      "timeupdated": "1629458438",
+      "timebuildupdated": "1629458438"
+    },
+    "test3": {
+      "buildid": "5558672",
+      "timeupdated": "1600358067",
+      "timebuildupdated": "1600358067"
+    },
+    "test4": {
+      "buildid": "5558904",
+      "timeupdated": "1600361117",
+      "timebuildupdated": "1600361117"
+    }
+  },
+  "depot": {
+    "1268401": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1133651702754556303",
+          "size": "1854784341",
+          "download": "379476624"
+        }
+      }
+    },
+    "1268402": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2261744084523743921",
+          "size": "1901124369",
+          "download": "403444000"
+        }
+      }
+    },
+    "1268403": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5707847233803761313",
+          "size": "1954888669",
+          "download": "435755296"
+        }
+      }
+    },
+    "1268404": {},
+    "branches": {
+      "public": {
+        "buildid": "5579991",
+        "timeupdated": "1600795550",
+        "timebuildupdated": "1600793815"
+      },
+      "baseline": {
+        "buildid": "5579991",
+        "timeupdated": "1600795562",
+        "timebuildupdated": "1600793815"
+      },
+      "linux": {
+        "buildid": "5579991",
+        "timeupdated": "1600793815",
+        "timebuildupdated": "1600793815"
+      },
+      "test2": {
+        "buildid": "7222269",
+        "timeupdated": "1629458438",
+        "timebuildupdated": "1629458438"
+      },
+      "test3": {
+        "buildid": "5558672",
+        "timeupdated": "1600358067",
+        "timebuildupdated": "1600358067"
+      },
+      "test4": {
+        "buildid": "5558904",
+        "timeupdated": "1600361117",
+        "timebuildupdated": "1600361117"
+      }
+    }
+  }
+}

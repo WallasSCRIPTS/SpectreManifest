@@ -1,0 +1,50 @@
+{
+  "name": "Air Forte ",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:56.401Z",
+  "branches": {
+    "public": {
+      "buildid": "58850",
+      "timebuildupdated": "1365614518"
+    }
+  },
+  "depot": {
+    "55021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1241547696903243750",
+          "size": "21860309",
+          "download": "0"
+        }
+      }
+    },
+    "55022": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8177610145366174284",
+          "size": "87479516",
+          "download": "0"
+        }
+      }
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "58850",
+        "timebuildupdated": "1365614518"
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Bios Ex",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:32.418Z",
+  "branches": {
+    "public": {
+      "buildid": "4997114",
+      "timeupdated": "1588886157",
+      "timebuildupdated": "1588886157"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1022151": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "175771976345488473",
+          "size": "863675326",
+          "download": "644082032"
+        }
+      }
+    },
+    "1022152": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4890809017683726933",
+          "size": "817530458",
+          "download": "630808496"
+        }
+      }
+    },
+    "1022153": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5646878489276214455",
+          "size": "840811269",
+          "download": "636907136"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4997114",
+        "timeupdated": "1588886157",
+        "timebuildupdated": "1588886157"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Redmatch 2",
+  "source": "spectre",
+  "changenumber": 40624964,
+  "updated": "2026-11-06T21:04:08.127Z",
+  "branches": {
+    "public": {
+      "buildid": "24496548",
+      "timeupdated": "1785514393",
+      "timebuildupdated": "1785513775"
+    },
+    "ac_beta": {
+      "buildid": "22651716",
+      "description": "anti cheat beta",
+      "timeupdated": "1775347203",
+      "timebuildupdated": "1775347203"
+    },
+    "beta": {
+      "buildid": "26455546",
+      "description": "testing updates before release",
+      "timeupdated": "1793874958",
+      "timebuildupdated": "1793874958"
+    }
+  },
+  "depot": {
+    "1280771": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4647145190882772546",
+          "size": "1384832141",
+          "download": "388245376"
+        }
+      }
+    },
+    "1280772": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8355177552191041121",
+          "size": "1257489656",
+          "download": "339456848"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24496548",
+        "timeupdated": "1785514393",
+        "timebuildupdated": "1785513775"
+      },
+      "ac_beta": {
+        "buildid": "22651716",
+        "description": "anti cheat beta",
+        "timeupdated": "1775347203",
+        "timebuildupdated": "1775347203"
+      },
+      "beta": {
+        "buildid": "26455546",
+        "description": "testing updates before release",
+        "timeupdated": "1793874958",
+        "timebuildupdated": "1793874958"
+      }
+    }
+  }
+}

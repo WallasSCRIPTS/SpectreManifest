@@ -1,0 +1,81 @@
+{
+  "name": "Astro Duel",
+  "source": "spectre",
+  "changenumber": 38577290,
+  "updated": "2026-11-07T20:57:46.644Z",
+  "branches": {
+    "public": {
+      "buildid": "12665552",
+      "timeupdated": "1699571551",
+      "timebuildupdated": "1699571069"
+    },
+    "beta": {
+      "buildid": "9134836",
+      "description": "crash test branch",
+      "timeupdated": "1657999505",
+      "timebuildupdated": "1657999394"
+    },
+    "legacy": {
+      "buildid": "3154795",
+      "description": "v2.0.2",
+      "timeupdated": "1658501460",
+      "timebuildupdated": "1537883470"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "429691": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6545860454463382000",
+          "size": "98803465",
+          "download": "76171536"
+        }
+      }
+    },
+    "429692": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5326898086008784260",
+          "size": "101373725",
+          "download": "75583984"
+        }
+      }
+    },
+    "429693": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12665552",
+        "timeupdated": "1699571551",
+        "timebuildupdated": "1699571069"
+      },
+      "beta": {
+        "buildid": "9134836",
+        "description": "crash test branch",
+        "timeupdated": "1657999505",
+        "timebuildupdated": "1657999394"
+      },
+      "legacy": {
+        "buildid": "3154795",
+        "description": "v2.0.2",
+        "timeupdated": "1658501460",
+        "timebuildupdated": "1537883470"
+      }
+    }
+  }
+}

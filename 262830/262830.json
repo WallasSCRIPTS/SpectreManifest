@@ -1,0 +1,112 @@
+{
+  "name": "Crimsonland",
+  "source": "spectre",
+  "changenumber": 39484850,
+  "updated": "2026-11-07T20:56:16.072Z",
+  "branches": {
+    "public": {
+      "buildid": "9959747",
+      "timeupdated": "1669037307",
+      "timebuildupdated": "1668696040"
+    },
+    "last_32bit_build": {
+      "buildid": "6175522",
+      "description": "The last build that works with 32-bit processors. New builds are 64-bit only.",
+      "timeupdated": "1668429135",
+      "timebuildupdated": "1612267428"
+    },
+    "macos_old": {
+      "buildid": "3886718",
+      "description": "Old macOS build",
+      "timeupdated": "1611661899",
+      "timebuildupdated": "1559650073"
+    },
+    "update_beta": {
+      "buildid": "10800890",
+      "description": "New version beta test",
+      "timeupdated": "1679122690",
+      "timebuildupdated": "1679122690"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "262831": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5318254292612917484",
+          "size": "80485167",
+          "download": "56896384"
+        }
+      }
+    },
+    "262832": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8423493318097968866",
+          "size": "113698541",
+          "download": "85788960"
+        }
+      }
+    },
+    "262833": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8495016242481692177",
+          "size": "147124250",
+          "download": "130971232"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9959747",
+        "timeupdated": "1669037307",
+        "timebuildupdated": "1668696040"
+      },
+      "last_32bit_build": {
+        "buildid": "6175522",
+        "description": "The last build that works with 32-bit processors. New builds are 64-bit only.",
+        "timeupdated": "1668429135",
+        "timebuildupdated": "1612267428"
+      },
+      "macos_old": {
+        "buildid": "3886718",
+        "description": "Old macOS build",
+        "timeupdated": "1611661899",
+        "timebuildupdated": "1559650073"
+      },
+      "update_beta": {
+        "buildid": "10800890",
+        "description": "New version beta test",
+        "timeupdated": "1679122690",
+        "timebuildupdated": "1679122690"
+      }
+    }
+  }
+}

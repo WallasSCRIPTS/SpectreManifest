@@ -1,0 +1,82 @@
+{
+  "name": "Super Arcade Football",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:41.408Z",
+  "branches": {
+    "public": {
+      "buildid": "14206830",
+      "timeupdated": "1714383554",
+      "timebuildupdated": "1714383099"
+    },
+    "legacy": {
+      "buildid": "3154886",
+      "description": "the old 3D SAF",
+      "timeupdated": "1597222371",
+      "timebuildupdated": "1537884887"
+    },
+    "arcade": {
+      "buildid": "14206830",
+      "description": "the new 2D SAF",
+      "timeupdated": "1714383506",
+      "timebuildupdated": "1714383099"
+    }
+  },
+  "depot": {
+    "420551": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1022139311914718395",
+          "size": "18069243",
+          "download": "3164000"
+        }
+      }
+    },
+    "420552": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3871293733826621124",
+          "size": "21675277",
+          "download": "4947792"
+        }
+      }
+    },
+    "420553": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7927805333416441446",
+          "size": "19236801",
+          "download": "3573840"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14206830",
+        "timeupdated": "1714383554",
+        "timebuildupdated": "1714383099"
+      },
+      "legacy": {
+        "buildid": "3154886",
+        "description": "the old 3D SAF",
+        "timeupdated": "1597222371",
+        "timebuildupdated": "1537884887"
+      },
+      "arcade": {
+        "buildid": "14206830",
+        "description": "the new 2D SAF",
+        "timeupdated": "1714383506",
+        "timebuildupdated": "1714383099"
+      }
+    }
+  }
+}

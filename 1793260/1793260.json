@@ -1,0 +1,70 @@
+{
+  "name": "Delivery INC",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:09:48.220Z",
+  "branches": {
+    "public": {
+      "buildid": "19430010",
+      "timeupdated": "1754488787",
+      "timebuildupdated": "1753969066"
+    },
+    "previous": {
+      "buildid": "18533157",
+      "description": "Previous Default build",
+      "timeupdated": "1754488745",
+      "timebuildupdated": "1747742438"
+    },
+    "openbeta": {
+      "buildid": "19430010",
+      "description": "Open beta test branch",
+      "timeupdated": "1754488729",
+      "timebuildupdated": "1753969066"
+    }
+  },
+  "depot": {
+    "1793261": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5293481331739014978",
+          "size": "4827977406",
+          "download": "2863184464"
+        }
+      }
+    },
+    "1793262": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6553385840219056157",
+          "size": "4849527139",
+          "download": "2869337968"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19430010",
+        "timeupdated": "1754488787",
+        "timebuildupdated": "1753969066"
+      },
+      "previous": {
+        "buildid": "18533157",
+        "description": "Previous Default build",
+        "timeupdated": "1754488745",
+        "timebuildupdated": "1747742438"
+      },
+      "openbeta": {
+        "buildid": "19430010",
+        "description": "Open beta test branch",
+        "timeupdated": "1754488729",
+        "timebuildupdated": "1753969066"
+      }
+    }
+  }
+}

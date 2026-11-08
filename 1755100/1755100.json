@@ -1,0 +1,82 @@
+{
+  "name": "The Last Clockwinder",
+  "source": "spectre",
+  "changenumber": 39919319,
+  "updated": "2026-11-06T23:09:43.271Z",
+  "branches": {
+    "public": {
+      "buildid": "25995503",
+      "timeupdated": "1792182650",
+      "timebuildupdated": "1792177044"
+    },
+    "version_1.24": {
+      "buildid": "12427651",
+      "description": "Version 1.24 (includes Oculus XR loader)",
+      "timeupdated": "1709751821",
+      "timebuildupdated": "1697143573"
+    },
+    "version_1.6": {
+      "buildid": "8846335",
+      "description": "Version 1.6 of the game (for WMR players until WMR support is released)",
+      "timeupdated": "1655002461",
+      "timebuildupdated": "1654032900"
+    },
+    "beta": {
+      "buildid": "25995503",
+      "description": "The pre-release version of the game.",
+      "timeupdated": "1792178110",
+      "timebuildupdated": "1792177044"
+    }
+  },
+  "depot": {
+    "1755101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4425751686202094138",
+          "size": "4930860874",
+          "download": "1722926816"
+        }
+      }
+    },
+    "1755102": {
+      "config": {
+        "oslist": "android"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5563779025363055226",
+          "size": "1542420080",
+          "download": "1536381152"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25995503",
+        "timeupdated": "1792182650",
+        "timebuildupdated": "1792177044"
+      },
+      "version_1.24": {
+        "buildid": "12427651",
+        "description": "Version 1.24 (includes Oculus XR loader)",
+        "timeupdated": "1709751821",
+        "timebuildupdated": "1697143573"
+      },
+      "version_1.6": {
+        "buildid": "8846335",
+        "description": "Version 1.6 of the game (for WMR players until WMR support is released)",
+        "timeupdated": "1655002461",
+        "timebuildupdated": "1654032900"
+      },
+      "beta": {
+        "buildid": "25995503",
+        "description": "The pre-release version of the game.",
+        "timeupdated": "1792178110",
+        "timebuildupdated": "1792177044"
+      }
+    }
+  }
+}

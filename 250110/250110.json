@@ -1,0 +1,85 @@
+{
+  "name": "Assault Android Cactus",
+  "source": "spectre",
+  "changenumber": 37432709,
+  "updated": "2026-11-07T20:56:12.063Z",
+  "branches": {
+    "public": {
+      "buildid": "3789944",
+      "timeupdated": "1556851536",
+      "timebuildupdated": "1556848360"
+    },
+    "legacy": {
+      "buildid": "1408334",
+      "description": "older version of the game that supports DX9",
+      "timeupdated": "1528084761",
+      "timebuildupdated": "1477193600"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "250111": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "727777403035464657",
+          "size": "1518944248",
+          "download": "991302960"
+        }
+      }
+    },
+    "250112": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9189220540754605908",
+          "size": "1520020389",
+          "download": "988287008"
+        }
+      }
+    },
+    "250113": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8745121399730864045",
+          "size": "1559691437",
+          "download": "1004560592"
+        }
+      }
+    },
+    "403990": {
+      "manifests": {
+        "public": {
+          "gid": "8032892814813557039",
+          "size": "928664362",
+          "download": "806075488"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3789944",
+        "timeupdated": "1556851536",
+        "timebuildupdated": "1556848360"
+      },
+      "legacy": {
+        "buildid": "1408334",
+        "description": "older version of the game that supports DX9",
+        "timeupdated": "1528084761",
+        "timebuildupdated": "1477193600"
+      }
+    }
+  }
+}

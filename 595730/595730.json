@@ -1,0 +1,58 @@
+{
+  "name": "Ascendant Hearts",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:07.286Z",
+  "branches": {
+    "public": {
+      "buildid": "4615308",
+      "timeupdated": "1580213610",
+      "timebuildupdated": "1580211071"
+    },
+    "legacy": {
+      "buildid": "4615522",
+      "description": "Legacy Renpy Build For Windows",
+      "timeupdated": "1580214853",
+      "timebuildupdated": "1580214853"
+    }
+  },
+  "depot": {
+    "595731": {
+      "config": {
+        "oslist": "macos,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2413040258773839551",
+          "size": "499215806",
+          "download": "398267440"
+        }
+      }
+    },
+    "595732": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8820529767108646838",
+          "size": "385005909",
+          "download": "158279488"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4615308",
+        "timeupdated": "1580213610",
+        "timebuildupdated": "1580211071"
+      },
+      "legacy": {
+        "buildid": "4615522",
+        "description": "Legacy Renpy Build For Windows",
+        "timeupdated": "1580214853",
+        "timebuildupdated": "1580214853"
+      }
+    }
+  }
+}

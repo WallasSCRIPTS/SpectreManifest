@@ -1,0 +1,60 @@
+{
+  "name": "The Sun and Moon",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:40.271Z",
+  "branches": {
+    "public": {
+      "buildid": "451551",
+      "timebuildupdated": "1416706816"
+    },
+    "beta": {
+      "buildid": "448631",
+      "description": "Public beta branch",
+      "timebuildupdated": "1416444384"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "321561": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3170189019151397973",
+          "size": "36323840",
+          "download": "36668192"
+        }
+      }
+    },
+    "321562": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9133358506304074717",
+          "size": "43936565",
+          "download": "35155040"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "451551",
+        "timebuildupdated": "1416706816"
+      },
+      "beta": {
+        "buildid": "448631",
+        "description": "Public beta branch",
+        "timebuildupdated": "1416444384"
+      }
+    }
+  }
+}

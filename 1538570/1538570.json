@@ -1,0 +1,97 @@
+{
+  "name": "Patron",
+  "source": "spectre",
+  "changenumber": 37447702,
+  "updated": "2026-11-06T21:05:59.338Z",
+  "branches": {
+    "public": {
+      "buildid": "18595412",
+      "timeupdated": "1748158880",
+      "timebuildupdated": "1748102743"
+    },
+    "win7": {
+      "buildid": "10629915",
+      "description": "Public Win7 branch",
+      "timeupdated": "1682425857",
+      "timebuildupdated": "1677246440"
+    },
+    "open_beta": {
+      "buildid": "18595412",
+      "description": "Public beta branch that receives updates before they are released in general",
+      "timeupdated": "1748158904",
+      "timebuildupdated": "1748102743"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1538571": {
+      "manifests": {
+        "public": {
+          "gid": "7166593517440693805",
+          "size": "4797324410",
+          "download": "1911314064"
+        }
+      }
+    },
+    "1686030": {
+      "manifests": {
+        "public": {
+          "gid": "5316940126966993211",
+          "size": "122623663",
+          "download": "30881840"
+        }
+      },
+      "dlcappid": "1686030"
+    },
+    "1760000": {
+      "manifests": {
+        "public": {
+          "gid": "3384945400617025795",
+          "size": "454124511",
+          "download": "174538368"
+        }
+      },
+      "dlcappid": "1760000"
+    },
+    "2473520": {
+      "manifests": {
+        "public": {
+          "gid": "5401941456935809675",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "2473520"
+    },
+    "branches": {
+      "public": {
+        "buildid": "18595412",
+        "timeupdated": "1748158880",
+        "timebuildupdated": "1748102743"
+      },
+      "win7": {
+        "buildid": "10629915",
+        "description": "Public Win7 branch",
+        "timeupdated": "1682425857",
+        "timebuildupdated": "1677246440"
+      },
+      "open_beta": {
+        "buildid": "18595412",
+        "description": "Public beta branch that receives updates before they are released in general",
+        "timeupdated": "1748158904",
+        "timebuildupdated": "1748102743"
+      }
+    }
+  }
+}

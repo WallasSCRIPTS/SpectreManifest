@@ -1,0 +1,68 @@
+{
+  "name": "HEXTERMINATE",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T21:03:32.040Z",
+  "branches": {
+    "public": {
+      "buildid": "23503351",
+      "timeupdated": "1780301694",
+      "timebuildupdated": "1780301694"
+    },
+    "experimental": {
+      "buildid": "23218903",
+      "description": "Experimental branch",
+      "timeupdated": "1778687492",
+      "timebuildupdated": "1778687492"
+    }
+  },
+  "depot": {
+    "1123231": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2477617382735508024",
+          "size": "233351373",
+          "download": "208287200"
+        }
+      }
+    },
+    "1123232": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "1123233": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4571277038241283048",
+          "size": "240182181",
+          "download": "211448448"
+        }
+      }
+    },
+    "1123234": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23503351",
+        "timeupdated": "1780301694",
+        "timebuildupdated": "1780301694"
+      },
+      "experimental": {
+        "buildid": "23218903",
+        "description": "Experimental branch",
+        "timeupdated": "1778687492",
+        "timebuildupdated": "1778687492"
+      }
+    }
+  }
+}

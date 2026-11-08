@@ -1,0 +1,434 @@
+{
+  "name": "OpenTTD",
+  "source": "spectre",
+  "changenumber": 40629672,
+  "updated": "2026-11-06T21:05:58.674Z",
+  "branches": {
+    "public": {
+      "buildid": "22650649",
+      "timeupdated": "1775334921",
+      "timebuildupdated": "1775334921"
+    },
+    "1.11.0": {
+      "buildid": "6476156",
+      "description": "1.11.0 release",
+      "timeupdated": "1620068373",
+      "timebuildupdated": "1617281922"
+    },
+    "1.11.1": {
+      "buildid": "6561117",
+      "description": "1.11.1 release",
+      "timeupdated": "1620068337",
+      "timebuildupdated": "1618781416"
+    },
+    "1.11.2": {
+      "buildid": "6641581",
+      "description": "1.11.2 release",
+      "timeupdated": "1620068855",
+      "timebuildupdated": "1620068799"
+    },
+    "12.0": {
+      "buildid": "7548087",
+      "description": "12.0 release",
+      "timeupdated": "1634464982",
+      "timebuildupdated": "1634464864"
+    },
+    "12.1": {
+      "buildid": "7677846",
+      "description": "12.1 release",
+      "timeupdated": "1636485625",
+      "timebuildupdated": "1636403370"
+    },
+    "12.2": {
+      "buildid": "8486387",
+      "description": "12.2 release",
+      "timeupdated": "1648898482",
+      "timebuildupdated": "1648897883"
+    },
+    "13.0": {
+      "buildid": "10483048",
+      "description": "13.0 release",
+      "timeupdated": "1675625800",
+      "timebuildupdated": "1675619911"
+    },
+    "13.1": {
+      "buildid": "10971324",
+      "description": "13.1 release",
+      "timeupdated": "1681158942",
+      "timebuildupdated": "1681158790"
+    },
+    "13.2": {
+      "buildid": "11443359",
+      "description": "13.2 release",
+      "timeupdated": "1686487094",
+      "timebuildupdated": "1686486260"
+    },
+    "13.3": {
+      "buildid": "11444151",
+      "description": "13.3 release",
+      "timeupdated": "1686504994",
+      "timebuildupdated": "1686504821"
+    },
+    "13.4": {
+      "buildid": "11820635",
+      "description": "13.4 release",
+      "timeupdated": "1690702756",
+      "timebuildupdated": "1690673891"
+    },
+    "14.0": {
+      "buildid": "14044615",
+      "description": "14.0 release",
+      "timeupdated": "1713015543",
+      "timebuildupdated": "1713014040"
+    },
+    "14.1": {
+      "buildid": "17557675",
+      "description": "14.1 release",
+      "timeupdated": "1740818558",
+      "timebuildupdated": "1740818558"
+    },
+    "15.0": {
+      "buildid": "21359667",
+      "description": "15.0 release",
+      "timeupdated": "1767293820",
+      "timebuildupdated": "1767289497"
+    },
+    "15.1": {
+      "buildid": "22650836",
+      "description": "15.1 release",
+      "timeupdated": "1775336972",
+      "timebuildupdated": "1775336972"
+    },
+    "15.2": {
+      "buildid": "22650825",
+      "description": "15.2 release",
+      "timeupdated": "1775336876",
+      "timebuildupdated": "1775336876"
+    },
+    "15.3": {
+      "buildid": "22650608",
+      "description": "15.3 release",
+      "timeupdated": "1775336663",
+      "timebuildupdated": "1775334541"
+    },
+    "nightly": {
+      "buildid": "26458814",
+      "description": "Nightly versions",
+      "timeupdated": "1793884261",
+      "timebuildupdated": "1793884260"
+    },
+    "testing": {
+      "buildid": "26351826",
+      "description": "Beta and RC versions",
+      "timeupdated": "1793481693",
+      "timebuildupdated": "1793481693"
+    }
+  },
+  "depot": {
+    "1536611": {},
+    "1536612": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3239096563751067487",
+          "size": "33063071",
+          "download": "10574080"
+        }
+      }
+    },
+    "1536613": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5858594238384070222",
+          "size": "30205599",
+          "download": "9692992"
+        }
+      }
+    },
+    "1536614": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6454610799715045711",
+          "size": "47155299",
+          "download": "14540400"
+        }
+      }
+    },
+    "1536615": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6168435342100454890",
+          "size": "85228405",
+          "download": "28503584"
+        }
+      }
+    },
+    "1536616": {
+      "manifests": {
+        "public": {
+          "gid": "4322537408543986610",
+          "size": "16742400",
+          "download": "10383776"
+        }
+      }
+    },
+    "1536617": {
+      "manifests": {
+        "public": {
+          "gid": "7277431475623555860",
+          "size": "766576",
+          "download": "107904"
+        }
+      }
+    },
+    "1536618": {
+      "manifests": {
+        "public": {
+          "gid": "683622110957259269",
+          "size": "13279968",
+          "download": "10472512"
+        }
+      }
+    },
+    "1536619": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3130216549017672790",
+          "size": "148398306",
+          "download": "120524560"
+        }
+      }
+    },
+    "2822930": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6840404360960278562",
+          "size": "339317",
+          "download": "125360"
+        }
+      }
+    },
+    "2822931": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7346956666478074099",
+          "size": "383863",
+          "download": "137936"
+        }
+      }
+    },
+    "2822932": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9178715736237705419",
+          "size": "410916",
+          "download": "92336"
+        }
+      }
+    },
+    "2822933": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1314988745966208394",
+          "size": "796866",
+          "download": "102416"
+        }
+      }
+    },
+    "2822934": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4888982384962269390",
+          "size": "3171350",
+          "download": "1115360"
+        }
+      }
+    },
+    "2822935": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5129928704912118737",
+          "size": "3780118",
+          "download": "1172768"
+        }
+      }
+    },
+    "2822936": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4190047786734002336",
+          "size": "8575141",
+          "download": "1940704"
+        }
+      }
+    },
+    "2822937": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1124545134821393912",
+          "size": "8501128",
+          "download": "2240608"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22650649",
+        "timeupdated": "1775334921",
+        "timebuildupdated": "1775334921"
+      },
+      "1.11.0": {
+        "buildid": "6476156",
+        "description": "1.11.0 release",
+        "timeupdated": "1620068373",
+        "timebuildupdated": "1617281922"
+      },
+      "1.11.1": {
+        "buildid": "6561117",
+        "description": "1.11.1 release",
+        "timeupdated": "1620068337",
+        "timebuildupdated": "1618781416"
+      },
+      "1.11.2": {
+        "buildid": "6641581",
+        "description": "1.11.2 release",
+        "timeupdated": "1620068855",
+        "timebuildupdated": "1620068799"
+      },
+      "12.0": {
+        "buildid": "7548087",
+        "description": "12.0 release",
+        "timeupdated": "1634464982",
+        "timebuildupdated": "1634464864"
+      },
+      "12.1": {
+        "buildid": "7677846",
+        "description": "12.1 release",
+        "timeupdated": "1636485625",
+        "timebuildupdated": "1636403370"
+      },
+      "12.2": {
+        "buildid": "8486387",
+        "description": "12.2 release",
+        "timeupdated": "1648898482",
+        "timebuildupdated": "1648897883"
+      },
+      "13.0": {
+        "buildid": "10483048",
+        "description": "13.0 release",
+        "timeupdated": "1675625800",
+        "timebuildupdated": "1675619911"
+      },
+      "13.1": {
+        "buildid": "10971324",
+        "description": "13.1 release",
+        "timeupdated": "1681158942",
+        "timebuildupdated": "1681158790"
+      },
+      "13.2": {
+        "buildid": "11443359",
+        "description": "13.2 release",
+        "timeupdated": "1686487094",
+        "timebuildupdated": "1686486260"
+      },
+      "13.3": {
+        "buildid": "11444151",
+        "description": "13.3 release",
+        "timeupdated": "1686504994",
+        "timebuildupdated": "1686504821"
+      },
+      "13.4": {
+        "buildid": "11820635",
+        "description": "13.4 release",
+        "timeupdated": "1690702756",
+        "timebuildupdated": "1690673891"
+      },
+      "14.0": {
+        "buildid": "14044615",
+        "description": "14.0 release",
+        "timeupdated": "1713015543",
+        "timebuildupdated": "1713014040"
+      },
+      "14.1": {
+        "buildid": "17557675",
+        "description": "14.1 release",
+        "timeupdated": "1740818558",
+        "timebuildupdated": "1740818558"
+      },
+      "15.0": {
+        "buildid": "21359667",
+        "description": "15.0 release",
+        "timeupdated": "1767293820",
+        "timebuildupdated": "1767289497"
+      },
+      "15.1": {
+        "buildid": "22650836",
+        "description": "15.1 release",
+        "timeupdated": "1775336972",
+        "timebuildupdated": "1775336972"
+      },
+      "15.2": {
+        "buildid": "22650825",
+        "description": "15.2 release",
+        "timeupdated": "1775336876",
+        "timebuildupdated": "1775336876"
+      },
+      "15.3": {
+        "buildid": "22650608",
+        "description": "15.3 release",
+        "timeupdated": "1775336663",
+        "timebuildupdated": "1775334541"
+      },
+      "nightly": {
+        "buildid": "26458814",
+        "description": "Nightly versions",
+        "timeupdated": "1793884261",
+        "timebuildupdated": "1793884260"
+      },
+      "testing": {
+        "buildid": "26351826",
+        "description": "Beta and RC versions",
+        "timeupdated": "1793481693",
+        "timebuildupdated": "1793481693"
+      }
+    }
+  }
+}

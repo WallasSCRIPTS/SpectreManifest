@@ -1,0 +1,58 @@
+{
+  "name": "Destroy The Monoliths",
+  "source": "spectre",
+  "changenumber": 37458633,
+  "updated": "2026-11-06T23:23:18.249Z",
+  "branches": {
+    "public": {
+      "buildid": "14571143",
+      "timeupdated": "1722270792",
+      "timebuildupdated": "1717246413"
+    }
+  },
+  "depot": {
+    "2352001": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8094530701250780115",
+          "size": "106277877",
+          "download": "54289840"
+        }
+      }
+    },
+    "2352002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3971209221907482247",
+          "size": "101566392",
+          "download": "53049744"
+        }
+      }
+    },
+    "2352003": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9082680721084021572",
+          "size": "146510556",
+          "download": "65236976"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14571143",
+        "timeupdated": "1722270792",
+        "timebuildupdated": "1717246413"
+      }
+    }
+  }
+}

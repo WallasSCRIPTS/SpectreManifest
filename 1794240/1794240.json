@@ -1,0 +1,124 @@
+{
+  "name": "SysAdmin Odyssey. Back to the office",
+  "source": "spectre",
+  "changenumber": 40685863,
+  "updated": "2026-11-06T23:09:48.309Z",
+  "branches": {
+    "public": {
+      "buildid": "26495438",
+      "timeupdated": "1794001839",
+      "timebuildupdated": "1794001506"
+    },
+    "beta_test": {
+      "buildid": "26495438",
+      "description": "Early test",
+      "timeupdated": "1794001581",
+      "timebuildupdated": "1794001506"
+    },
+    "latest_0_24": {
+      "buildid": "23324042",
+      "description": "[OLD] latest version of release 0.24",
+      "timeupdated": "1779278239",
+      "timebuildupdated": "1779277573"
+    },
+    "latest_0_30": {
+      "buildid": "24231545",
+      "description": "[OLD] latest version of release 0.30",
+      "timeupdated": "1784169241",
+      "timebuildupdated": "1784168550"
+    },
+    "latest_0_40": {
+      "buildid": "26495438",
+      "description": "\tlatest version of release 0.40",
+      "timeupdated": "1794001795",
+      "timebuildupdated": "1794001506"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1794241": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1698503231212234537",
+          "size": "6497712916",
+          "download": "895718960"
+        }
+      }
+    },
+    "1794242": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1530899146949749144",
+          "size": "3181126172",
+          "download": "873356352"
+        }
+      }
+    },
+    "1794245": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4429361942418074907",
+          "size": "6473344149",
+          "download": "940750496"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26495438",
+        "timeupdated": "1794001839",
+        "timebuildupdated": "1794001506"
+      },
+      "beta_test": {
+        "buildid": "26495438",
+        "description": "Early test",
+        "timeupdated": "1794001581",
+        "timebuildupdated": "1794001506"
+      },
+      "latest_0_24": {
+        "buildid": "23324042",
+        "description": "[OLD] latest version of release 0.24",
+        "timeupdated": "1779278239",
+        "timebuildupdated": "1779277573"
+      },
+      "latest_0_30": {
+        "buildid": "24231545",
+        "description": "[OLD] latest version of release 0.30",
+        "timeupdated": "1784169241",
+        "timebuildupdated": "1784168550"
+      },
+      "latest_0_40": {
+        "buildid": "26495438",
+        "description": "\tlatest version of release 0.40",
+        "timeupdated": "1794001795",
+        "timebuildupdated": "1794001506"
+      }
+    }
+  }
+}

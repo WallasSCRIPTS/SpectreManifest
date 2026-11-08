@@ -1,0 +1,70 @@
+{
+  "name": "Mask Quest",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:34.287Z",
+  "branches": {
+    "public": {
+      "buildid": "16580850",
+      "timeupdated": "1732898315",
+      "timebuildupdated": "1732894286"
+    },
+    "beta": {
+      "buildid": "16580850",
+      "description": "testing",
+      "timeupdated": "1732894320",
+      "timebuildupdated": "1732894286"
+    },
+    "dtz_portuguese": {
+      "buildid": "15424077",
+      "description": "portuguese localization branch",
+      "timeupdated": "1724095185",
+      "timebuildupdated": "1724095094"
+    }
+  },
+  "depot": {
+    "1127662": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7446118396142667767",
+          "size": "122970632",
+          "download": "71019424"
+        }
+      }
+    },
+    "1127663": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2422255533989613055",
+          "size": "112472925",
+          "download": "70272128"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16580850",
+        "timeupdated": "1732898315",
+        "timebuildupdated": "1732894286"
+      },
+      "beta": {
+        "buildid": "16580850",
+        "description": "testing",
+        "timeupdated": "1732894320",
+        "timebuildupdated": "1732894286"
+      },
+      "dtz_portuguese": {
+        "buildid": "15424077",
+        "description": "portuguese localization branch",
+        "timeupdated": "1724095185",
+        "timebuildupdated": "1724095094"
+      }
+    }
+  }
+}

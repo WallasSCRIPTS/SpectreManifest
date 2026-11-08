@@ -1,0 +1,95 @@
+{
+  "name": "RutonyChat",
+  "source": "spectre",
+  "changenumber": 40710441,
+  "updated": "2026-11-07T20:58:30.402Z",
+  "branches": {
+    "public": {
+      "buildid": "24704809",
+      "timeupdated": "1786586917",
+      "timebuildupdated": "1786586818"
+    },
+    "1may": {
+      "buildid": "11130396",
+      "description": "Последняя версия с поддержкой Windows 7",
+      "timeupdated": "1694702141",
+      "timebuildupdated": "1682950242"
+    },
+    "stable_prev": {
+      "buildid": "18555450",
+      "description": "Прошлая стабильная версия (часть функционала уже сломано)",
+      "timeupdated": "1747857863",
+      "timebuildupdated": "1747857719"
+    },
+    "test": {
+      "buildid": "25088017",
+      "description": "Общая тестовая версия",
+      "timeupdated": "1788380052",
+      "timebuildupdated": "1788380036"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229005": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "524661": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1926192967119598460",
+          "size": "1181635863",
+          "download": "684530480"
+        }
+      }
+    },
+    "649390": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "89436204134636782",
+          "size": "12465365",
+          "download": "3770944"
+        }
+      },
+      "dlcappid": "649390"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24704809",
+        "timeupdated": "1786586917",
+        "timebuildupdated": "1786586818"
+      },
+      "1may": {
+        "buildid": "11130396",
+        "description": "Последняя версия с поддержкой Windows 7",
+        "timeupdated": "1694702141",
+        "timebuildupdated": "1682950242"
+      },
+      "stable_prev": {
+        "buildid": "18555450",
+        "description": "Прошлая стабильная версия (часть функционала уже сломано)",
+        "timeupdated": "1747857863",
+        "timebuildupdated": "1747857719"
+      },
+      "test": {
+        "buildid": "25088017",
+        "description": "Общая тестовая версия",
+        "timeupdated": "1788380052",
+        "timebuildupdated": "1788380036"
+      }
+    }
+  }
+}

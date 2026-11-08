@@ -1,0 +1,72 @@
+{
+  "name": "Legend of Grimrock 2",
+  "source": "spectre",
+  "changenumber": 37849650,
+  "updated": "2026-11-07T20:56:12.699Z",
+  "branches": {
+    "public": {
+      "buildid": "588981",
+      "timebuildupdated": "1429098667"
+    },
+    "beta": {
+      "buildid": "588981",
+      "timebuildupdated": "1429098667"
+    },
+    "mac_beta2": {
+      "buildid": "588981",
+      "timebuildupdated": "1429098667"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "251731": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7590261144661331237",
+          "size": "1064384504",
+          "download": "724470720"
+        }
+      }
+    },
+    "251732": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "439241199539704180",
+          "size": "1067224844",
+          "download": "645387840"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "588981",
+        "timebuildupdated": "1429098667"
+      },
+      "beta": {
+        "buildid": "588981",
+        "timebuildupdated": "1429098667"
+      },
+      "mac_beta2": {
+        "buildid": "588981",
+        "timebuildupdated": "1429098667"
+      }
+    }
+  }
+}

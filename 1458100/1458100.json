@@ -1,0 +1,51 @@
+{
+  "name": "Cozy Grove",
+  "source": "spectre",
+  "changenumber": 37702425,
+  "updated": "2026-11-06T21:05:25.621Z",
+  "branches": {
+    "public": {
+      "buildid": "20227803",
+      "timeupdated": "1784673581",
+      "timebuildupdated": "1759430639"
+    },
+    "beta": {
+      "buildid": "24322547",
+      "description": "For testing of new updates before they have been released to the broader public. Please back up your save file before downloading the beta branch, since we cannot guarantee that it will be stable or completely safe to use at all times.",
+      "timeupdated": "1784669087",
+      "timebuildupdated": "1784668929"
+    }
+  },
+  "depot": {
+    "1458101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5636876415718914360",
+          "size": "2199737837",
+          "download": "375098320"
+        }
+      }
+    },
+    "1458102": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20227803",
+        "timeupdated": "1784673581",
+        "timebuildupdated": "1759430639"
+      },
+      "beta": {
+        "buildid": "24322547",
+        "description": "For testing of new updates before they have been released to the broader public. Please back up your save file before downloading the beta branch, since we cannot guarantee that it will be stable or completely safe to use at all times.",
+        "timeupdated": "1784669087",
+        "timebuildupdated": "1784668929"
+      }
+    }
+  }
+}

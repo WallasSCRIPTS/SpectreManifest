@@ -1,0 +1,110 @@
+{
+  "name": "Nations At War Digital: Core Game",
+  "source": "spectre",
+  "changenumber": 39455620,
+  "updated": "2026-11-06T21:03:43.447Z",
+  "branches": {
+    "public": {
+      "buildid": "6668677",
+      "timeupdated": "1620465788",
+      "timebuildupdated": "1620465787"
+    },
+    "test": {
+      "buildid": "6668677",
+      "description": "Test branch",
+      "timeupdated": "1620466466",
+      "timebuildupdated": "1620465787"
+    }
+  },
+  "depot": {
+    "1226001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8621823811099238933",
+          "size": "377141335",
+          "download": "205430112"
+        }
+      }
+    },
+    "1226002": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1655964721747221821",
+          "size": "378011494",
+          "download": "206016832"
+        }
+      }
+    },
+    "1226003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5617533353655865437",
+          "size": "40",
+          "download": "96"
+        }
+      },
+      "dlcappid": "1243840"
+    },
+    "1226004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7568140991712545860",
+          "size": "45",
+          "download": "96"
+        }
+      },
+      "dlcappid": "1243841"
+    },
+    "1226005": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4855888964307569650",
+          "size": "40",
+          "download": "96"
+        }
+      },
+      "dlcappid": "1243840"
+    },
+    "1226006": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "445987615774649682",
+          "size": "45",
+          "download": "96"
+        }
+      },
+      "dlcappid": "1243841"
+    },
+    "branches": {
+      "public": {
+        "buildid": "6668677",
+        "timeupdated": "1620465788",
+        "timebuildupdated": "1620465787"
+      },
+      "test": {
+        "buildid": "6668677",
+        "description": "Test branch",
+        "timeupdated": "1620466466",
+        "timebuildupdated": "1620465787"
+      }
+    }
+  }
+}

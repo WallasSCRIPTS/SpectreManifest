@@ -1,0 +1,124 @@
+{
+  "name": "Open Brush",
+  "source": "spectre",
+  "changenumber": 40631399,
+  "updated": "2026-11-06T21:06:44.043Z",
+  "branches": {
+    "public": {
+      "buildid": "25444559",
+      "timeupdated": "1790020943",
+      "timebuildupdated": "1790020791"
+    },
+    "beta": {
+      "buildid": "26459901",
+      "description": "Pre-release build which contains features coming soon, but may also contain bugs!",
+      "timeupdated": "1793887444",
+      "timebuildupdated": "1793887444"
+    },
+    "debug": {
+      "buildid": "26257728",
+      "description": "Probably not what you want",
+      "timeupdated": "1793185771",
+      "timebuildupdated": "1793146210"
+    },
+    "previous": {
+      "buildid": "24990501",
+      "description": "The previous official release. Use this if you need to check for a regression in the latest official build",
+      "timeupdated": "1787914841",
+      "timebuildupdated": "1787913866"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1634871": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1703225645110147806",
+          "size": "793819033",
+          "download": "221855904"
+        }
+      }
+    },
+    "1634872": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6932475954359917960",
+          "size": "820131513",
+          "download": "232161472"
+        }
+      }
+    },
+    "1634873": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7328861053753293446",
+          "size": "749023731",
+          "download": "222967264"
+        }
+      }
+    },
+    "1634874": {
+      "config": {
+        "oslist": "android"
+      },
+      "manifests": {
+        "public": {
+          "gid": "157601331109021832",
+          "size": "319168563",
+          "download": "306146208"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25444559",
+        "timeupdated": "1790020943",
+        "timebuildupdated": "1790020791"
+      },
+      "beta": {
+        "buildid": "26459901",
+        "description": "Pre-release build which contains features coming soon, but may also contain bugs!",
+        "timeupdated": "1793887444",
+        "timebuildupdated": "1793887444"
+      },
+      "debug": {
+        "buildid": "26257728",
+        "description": "Probably not what you want",
+        "timeupdated": "1793185771",
+        "timebuildupdated": "1793146210"
+      },
+      "previous": {
+        "buildid": "24990501",
+        "description": "The previous official release. Use this if you need to check for a regression in the latest official build",
+        "timeupdated": "1787914841",
+        "timebuildupdated": "1787913866"
+      }
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Dead In Vinland",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:55.274Z",
+  "branches": {
+    "public": {
+      "buildid": "15341644",
+      "timeupdated": "1723464711",
+      "timebuildupdated": "1723464711"
+    },
+    "linux": {
+      "buildid": "3788222",
+      "description": "Public Linux test branch",
+      "timeupdated": "1556809110",
+      "timebuildupdated": "1556809110"
+    }
+  },
+  "depot": {
+    "573121": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5288488325482572625",
+          "size": "2039382656",
+          "download": "590611216"
+        }
+      }
+    },
+    "573122": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8771818178641889344",
+          "size": "2089947847",
+          "download": "601142432"
+        }
+      }
+    },
+    "573123": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "275271020447941201",
+          "size": "2089672173",
+          "download": "606641280"
+        }
+      }
+    },
+    "846100": {
+      "manifests": {
+        "public": {
+          "gid": "1817939218612096490",
+          "size": "478665350",
+          "download": "482905872"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15341644",
+        "timeupdated": "1723464711",
+        "timebuildupdated": "1723464711"
+      },
+      "linux": {
+        "buildid": "3788222",
+        "description": "Public Linux test branch",
+        "timeupdated": "1556809110",
+        "timebuildupdated": "1556809110"
+      }
+    }
+  }
+}

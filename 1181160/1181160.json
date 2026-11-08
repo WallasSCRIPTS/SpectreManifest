@@ -1,0 +1,70 @@
+{
+  "name": "Impossiball - Gamers Challenge",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:04:01.341Z",
+  "branches": {
+    "public": {
+      "buildid": "4508064",
+      "timeupdated": "1576697907",
+      "timebuildupdated": "1576697880"
+    },
+    "beta": {
+      "buildid": "4483071",
+      "description": "Experimental builds",
+      "timeupdated": "1576098479",
+      "timebuildupdated": "1576098427"
+    }
+  },
+  "depot": {
+    "1181161": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "89062122788024825",
+          "size": "180028327",
+          "download": "29489872"
+        }
+      }
+    },
+    "1181162": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "308145801284296952",
+          "size": "183573862",
+          "download": "30382720"
+        }
+      }
+    },
+    "1181163": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7695453972993241905",
+          "size": "290921681",
+          "download": "98722256"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4508064",
+        "timeupdated": "1576697907",
+        "timebuildupdated": "1576697880"
+      },
+      "beta": {
+        "buildid": "4483071",
+        "description": "Experimental builds",
+        "timeupdated": "1576098479",
+        "timebuildupdated": "1576098427"
+      }
+    }
+  }
+}

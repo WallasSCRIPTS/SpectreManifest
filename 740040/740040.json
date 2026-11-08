@@ -1,0 +1,95 @@
+{
+  "name": "Play With Gilbert - Remake",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:18.493Z",
+  "branches": {
+    "public": {
+      "buildid": "8582357",
+      "timeupdated": "1650371421",
+      "timebuildupdated": "1650371421"
+    },
+    "pwg_2019": {
+      "buildid": "3798033",
+      "description": "Play With Gilbert - 2019",
+      "timeupdated": "1608483835",
+      "timebuildupdated": "1557159156"
+    },
+    "pwg_2020": {
+      "buildid": "8582357",
+      "description": "Play With Gilbert - Remake",
+      "timeupdated": "1650371601",
+      "timebuildupdated": "1650371421"
+    },
+    "pwg_classic": {
+      "buildid": "2316264",
+      "description": "Play With Gilbert - Original Release",
+      "timeupdated": "1621770188",
+      "timebuildupdated": "1511646261"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "740041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7420935437672384887",
+          "size": "9439394480",
+          "download": "9148046464"
+        }
+      }
+    },
+    "1634400": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4280799846174221580",
+          "size": "301970",
+          "download": "279248"
+        }
+      },
+      "dlcappid": "1634400"
+    },
+    "branches": {
+      "public": {
+        "buildid": "8582357",
+        "timeupdated": "1650371421",
+        "timebuildupdated": "1650371421"
+      },
+      "pwg_2019": {
+        "buildid": "3798033",
+        "description": "Play With Gilbert - 2019",
+        "timeupdated": "1608483835",
+        "timebuildupdated": "1557159156"
+      },
+      "pwg_2020": {
+        "buildid": "8582357",
+        "description": "Play With Gilbert - Remake",
+        "timeupdated": "1650371601",
+        "timebuildupdated": "1650371421"
+      },
+      "pwg_classic": {
+        "buildid": "2316264",
+        "description": "Play With Gilbert - Original Release",
+        "timeupdated": "1621770188",
+        "timebuildupdated": "1511646261"
+      }
+    }
+  }
+}

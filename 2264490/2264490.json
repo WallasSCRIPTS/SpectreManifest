@@ -1,0 +1,82 @@
+{
+  "name": "Bozalleth's Curse",
+  "source": "spectre",
+  "changenumber": 34892823,
+  "updated": "2026-11-06T23:21:22.818Z",
+  "branches": {
+    "public": {
+      "buildid": "14696472",
+      "timeupdated": "1718259368",
+      "timebuildupdated": "1718221716"
+    },
+    "bozallethscurse_linux": {
+      "buildid": "12365458",
+      "description": "Linux",
+      "timeupdated": "1696517147",
+      "timebuildupdated": "1696516828"
+    },
+    "bozallethscurse_mac": {
+      "buildid": "12365458",
+      "description": "mac os",
+      "timeupdated": "1696517133",
+      "timebuildupdated": "1696516828"
+    }
+  },
+  "depot": {
+    "2264491": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6469089632845155048",
+          "size": "7938247289",
+          "download": "3228968368"
+        }
+      }
+    },
+    "2264492": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4890859815569658327",
+          "size": "7968562746",
+          "download": "3247810304"
+        }
+      }
+    },
+    "2264493": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4236658450030749566",
+          "size": "7955203376",
+          "download": "3237758160"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14696472",
+        "timeupdated": "1718259368",
+        "timebuildupdated": "1718221716"
+      },
+      "bozallethscurse_linux": {
+        "buildid": "12365458",
+        "description": "Linux",
+        "timeupdated": "1696517147",
+        "timebuildupdated": "1696516828"
+      },
+      "bozallethscurse_mac": {
+        "buildid": "12365458",
+        "description": "mac os",
+        "timeupdated": "1696517133",
+        "timebuildupdated": "1696516828"
+      }
+    }
+  }
+}

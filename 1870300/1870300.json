@@ -1,0 +1,58 @@
+{
+  "name": "SOVL",
+  "source": "spectre",
+  "changenumber": 40671249,
+  "updated": "2026-11-06T23:11:41.160Z",
+  "branches": {
+    "public": {
+      "buildid": "26026287",
+      "timeupdated": "1792336000",
+      "timebuildupdated": "1792330545"
+    },
+    "test": {
+      "buildid": "26486241",
+      "description": "public test branch",
+      "timeupdated": "1793973736",
+      "timebuildupdated": "1793973736"
+    }
+  },
+  "depot": {
+    "1870301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2711459337239362308",
+          "size": "4422586830",
+          "download": "1555458192"
+        }
+      }
+    },
+    "1870302": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2858253944312255159",
+          "size": "4475990787",
+          "download": "1575996832"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26026287",
+        "timeupdated": "1792336000",
+        "timebuildupdated": "1792330545"
+      },
+      "test": {
+        "buildid": "26486241",
+        "description": "public test branch",
+        "timeupdated": "1793973736",
+        "timebuildupdated": "1793973736"
+      }
+    }
+  }
+}

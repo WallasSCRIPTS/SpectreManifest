@@ -1,0 +1,63 @@
+{
+  "name": "Sudeki",
+  "source": "spectre",
+  "changenumber": 40686842,
+  "updated": "2026-11-07T20:56:07.984Z",
+  "branches": {
+    "public": {
+      "buildid": "215104",
+      "timebuildupdated": "1395149433"
+    },
+    "beta": {
+      "buildid": "215104",
+      "description": "Beta branch",
+      "timebuildupdated": "1395149433"
+    },
+    "local": {
+      "buildid": "91328",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1373899817"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "233351": {
+      "manifests": {
+        "public": {
+          "gid": "3897312411523250771",
+          "size": "5875940845",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "215104",
+        "timebuildupdated": "1395149433"
+      },
+      "beta": {
+        "buildid": "215104",
+        "description": "Beta branch",
+        "timebuildupdated": "1395149433"
+      },
+      "local": {
+        "buildid": "91328",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1373899817"
+      }
+    }
+  }
+}

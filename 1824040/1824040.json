@@ -1,0 +1,94 @@
+{
+  "name": "Star Shift Rebellion",
+  "source": "spectre",
+  "changenumber": 39554034,
+  "updated": "2026-11-06T21:07:08.669Z",
+  "branches": {
+    "public": {
+      "buildid": "20163196",
+      "timeupdated": "1759080487",
+      "timebuildupdated": "1759080304"
+    },
+    "reintegrationofoldgraphicsprecompressiontest": {
+      "buildid": "13834502",
+      "description": "test object",
+      "timeupdated": "1711241476",
+      "timebuildupdated": "1711241357"
+    },
+    "windows7_compatible": {
+      "buildid": "14046577",
+      "description": "Windows 7 Compatibile",
+      "timeupdated": "1713045529",
+      "timebuildupdated": "1713045509"
+    },
+    "pre_qol_2025": {
+      "buildid": "16941370",
+      "description": "Pre Quality Of Life Update",
+      "timeupdated": "1759080461",
+      "timebuildupdated": "1736351780"
+    }
+  },
+  "depot": {
+    "1824041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6847169487265779777",
+          "size": "2116435679",
+          "download": "1606593456"
+        }
+      }
+    },
+    "1824042": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5449948526070199662",
+          "size": "2024703828",
+          "download": "1577371488"
+        }
+      }
+    },
+    "1824043": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2769875205379857053",
+          "size": "2264575143",
+          "download": "1629382352"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20163196",
+        "timeupdated": "1759080487",
+        "timebuildupdated": "1759080304"
+      },
+      "reintegrationofoldgraphicsprecompressiontest": {
+        "buildid": "13834502",
+        "description": "test object",
+        "timeupdated": "1711241476",
+        "timebuildupdated": "1711241357"
+      },
+      "windows7_compatible": {
+        "buildid": "14046577",
+        "description": "Windows 7 Compatibile",
+        "timeupdated": "1713045529",
+        "timebuildupdated": "1713045509"
+      },
+      "pre_qol_2025": {
+        "buildid": "16941370",
+        "description": "Pre Quality Of Life Update",
+        "timeupdated": "1759080461",
+        "timebuildupdated": "1736351780"
+      }
+    }
+  }
+}

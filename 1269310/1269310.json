@@ -1,0 +1,70 @@
+{
+  "name": "MasterPlan",
+  "source": "spectre",
+  "changenumber": 40613984,
+  "updated": "2026-11-05T14:51:32.026Z",
+  "branches": {
+    "public": {
+      "buildid": "22853779",
+      "timeupdated": "1776586120",
+      "timebuildupdated": "1776584615"
+    },
+    "alpha_0.7": {
+      "buildid": "6524875",
+      "description": "The old 0.7 alpha",
+      "timeupdated": "1645093347",
+      "timebuildupdated": "1618205841"
+    }
+  },
+  "depot": {
+    "1269311": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7152144633422093084",
+          "size": "20709526",
+          "download": "9243824"
+        }
+      }
+    },
+    "1269312": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6419921082110106655",
+          "size": "39169761",
+          "download": "16610768"
+        }
+      }
+    },
+    "1269313": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4444050200214665273",
+          "size": "16907133",
+          "download": "7531360"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22853779",
+        "timeupdated": "1776586120",
+        "timebuildupdated": "1776584615"
+      },
+      "alpha_0.7": {
+        "buildid": "6524875",
+        "description": "The old 0.7 alpha",
+        "timeupdated": "1645093347",
+        "timebuildupdated": "1618205841"
+      }
+    }
+  }
+}

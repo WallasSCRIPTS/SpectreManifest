@@ -1,0 +1,73 @@
+{
+  "name": "Reality Mixer - Mixed Reality for VR headsets",
+  "source": "spectre",
+  "changenumber": 40634123,
+  "updated": "2026-11-06T23:11:38.103Z",
+  "branches": {
+    "public": {
+      "buildid": "15464612",
+      "timeupdated": "1724363266",
+      "timebuildupdated": "1724361080"
+    },
+    "beta": {
+      "buildid": "15464612",
+      "description": "v.1.3.1.0 - Fixed Camera Support",
+      "timeupdated": "1724361138",
+      "timebuildupdated": "1724361080"
+    },
+    "previous_beta": {
+      "buildid": "15098506",
+      "description": "v.1.2.1.0 - RGB24 Support for External (USB) Cameras",
+      "timeupdated": "1724361092",
+      "timebuildupdated": "1721473313"
+    },
+    "previous_version": {
+      "buildid": "14876614",
+      "description": "v.1.2.0.3 - UI for External (USB) Camera Setup + bug fixes",
+      "timeupdated": "1724363144",
+      "timebuildupdated": "1719608134"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1844611": {
+      "manifests": {
+        "public": {
+          "gid": "3608380586299849501",
+          "size": "9634978",
+          "download": "5837536"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15464612",
+        "timeupdated": "1724363266",
+        "timebuildupdated": "1724361080"
+      },
+      "beta": {
+        "buildid": "15464612",
+        "description": "v.1.3.1.0 - Fixed Camera Support",
+        "timeupdated": "1724361138",
+        "timebuildupdated": "1724361080"
+      },
+      "previous_beta": {
+        "buildid": "15098506",
+        "description": "v.1.2.1.0 - RGB24 Support for External (USB) Cameras",
+        "timeupdated": "1724361092",
+        "timebuildupdated": "1721473313"
+      },
+      "previous_version": {
+        "buildid": "14876614",
+        "description": "v.1.2.0.3 - UI for External (USB) Camera Setup + bug fixes",
+        "timeupdated": "1724363144",
+        "timebuildupdated": "1719608134"
+      }
+    }
+  }
+}

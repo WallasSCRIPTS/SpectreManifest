@@ -1,0 +1,102 @@
+{
+  "name": "REMEDIUM: Sentinels",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:21:20.411Z",
+  "branches": {
+    "public": {
+      "buildid": "17881550",
+      "timeupdated": "1743075591",
+      "timebuildupdated": "1743073676"
+    },
+    "1.20.03": {
+      "buildid": "11948856",
+      "description": "1.20.03 version",
+      "timeupdated": "1695616040",
+      "timebuildupdated": "1692129619"
+    },
+    "local": {
+      "buildid": "10157359",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1671137405",
+      "timebuildupdated": "1671137405"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2244481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2409183856378008188",
+          "size": "2569635952",
+          "download": "885524176"
+        }
+      }
+    },
+    "2244482": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2682773941754296560",
+          "size": "3164718013",
+          "download": "809619440"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17881550",
+        "timeupdated": "1743075591",
+        "timebuildupdated": "1743073676"
+      },
+      "1.20.03": {
+        "buildid": "11948856",
+        "description": "1.20.03 version",
+        "timeupdated": "1695616040",
+        "timebuildupdated": "1692129619"
+      },
+      "local": {
+        "buildid": "10157359",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1671137405",
+        "timebuildupdated": "1671137405"
+      }
+    }
+  }
+}

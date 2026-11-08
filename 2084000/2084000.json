@@ -1,0 +1,70 @@
+{
+  "name": "Shogun Showdown",
+  "source": "spectre",
+  "changenumber": 39533390,
+  "updated": "2026-11-06T23:17:29.686Z",
+  "branches": {
+    "public": {
+      "buildid": "20620547",
+      "timeupdated": "1761908763",
+      "timebuildupdated": "1761908763"
+    },
+    "open-beta": {
+      "buildid": "15758464",
+      "description": "Last builds in testing - Might contain bugs!",
+      "timeupdated": "1726758603",
+      "timebuildupdated": "1726758551"
+    }
+  },
+  "depot": {
+    "2084001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4923084417728162651",
+          "size": "432660065",
+          "download": "98080816"
+        }
+      }
+    },
+    "2084002": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5092188064288801929",
+          "size": "476872992",
+          "download": "98765696"
+        }
+      }
+    },
+    "2084003": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1684918381538092626",
+          "size": "425764680",
+          "download": "95825168"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20620547",
+        "timeupdated": "1761908763",
+        "timebuildupdated": "1761908763"
+      },
+      "open-beta": {
+        "buildid": "15758464",
+        "description": "Last builds in testing - Might contain bugs!",
+        "timeupdated": "1726758603",
+        "timebuildupdated": "1726758551"
+      }
+    }
+  }
+}

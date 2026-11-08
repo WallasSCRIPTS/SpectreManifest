@@ -1,0 +1,79 @@
+{
+  "name": "Rise Again",
+  "source": "spectre",
+  "changenumber": 40619953,
+  "updated": "2026-11-06T23:23:17.453Z",
+  "branches": {
+    "public": {
+      "buildid": "23927533",
+      "timeupdated": "1782473786",
+      "timebuildupdated": "1782462130"
+    },
+    "unstable": {
+      "buildid": "26451931",
+      "description": "Public development branch (Unstable) [Backup your Saves]",
+      "timeupdated": "1793864464",
+      "timebuildupdated": "1793862509"
+    },
+    "legacy:v0.11.x": {
+      "buildid": "23927533",
+      "description": "Public legacy branch (Early Access Major Update 1 - v0.11.x) [Backup your Saves]",
+      "timeupdated": "1782473786",
+      "timebuildupdated": "1782462130"
+    },
+    "legacy:v0.10.x": {
+      "buildid": "20980098",
+      "description": "Public legacy branch (First Early Access Release - v0.10.x) [Backup your Saves]",
+      "timeupdated": "1764335927",
+      "timebuildupdated": "1764335839"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2345171": {
+      "manifests": {
+        "public": {
+          "gid": "7217500076973685659",
+          "size": "2701971164",
+          "download": "2495400176"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23927533",
+        "timeupdated": "1782473786",
+        "timebuildupdated": "1782462130"
+      },
+      "unstable": {
+        "buildid": "26451931",
+        "description": "Public development branch (Unstable) [Backup your Saves]",
+        "timeupdated": "1793864464",
+        "timebuildupdated": "1793862509"
+      },
+      "legacy:v0.11.x": {
+        "buildid": "23927533",
+        "description": "Public legacy branch (Early Access Major Update 1 - v0.11.x) [Backup your Saves]",
+        "timeupdated": "1782473786",
+        "timebuildupdated": "1782462130"
+      },
+      "legacy:v0.10.x": {
+        "buildid": "20980098",
+        "description": "Public legacy branch (First Early Access Release - v0.10.x) [Backup your Saves]",
+        "timeupdated": "1764335927",
+        "timebuildupdated": "1764335839"
+      }
+    }
+  }
+}

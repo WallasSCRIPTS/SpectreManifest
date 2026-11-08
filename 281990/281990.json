@@ -1,0 +1,1033 @@
+{
+  "name": "Stellaris",
+  "source": "spectre",
+  "changenumber": 40630181,
+  "updated": "2026-11-07T20:56:22.158Z",
+  "branches": {
+    "public": {
+      "buildid": "26325427",
+      "timeupdated": "1793786395",
+      "timebuildupdated": "1793369842"
+    },
+    "stellaris_test": {
+      "buildid": "26456105",
+      "description": "Open Beta",
+      "timeupdated": "1793883582",
+      "timebuildupdated": "1793876556"
+    },
+    "2.1.3": {
+      "buildid": "3117422",
+      "description": "Niven version",
+      "timeupdated": "1544115279",
+      "timebuildupdated": "1536823081"
+    },
+    "2.2.7": {
+      "buildid": "3702453",
+      "description": "Le Guin version",
+      "timeupdated": "1559663212",
+      "timebuildupdated": "1554222623"
+    },
+    "2.3.3": {
+      "buildid": "3996163",
+      "description": "Wolfe version",
+      "timeupdated": "1570633041",
+      "timebuildupdated": "1562694072"
+    },
+    "2.4.1": {
+      "buildid": "4274787",
+      "description": "Lee version",
+      "timeupdated": "1571932092",
+      "timebuildupdated": "1570710454"
+    },
+    "2.5.1": {
+      "buildid": "4786539",
+      "description": "Shelley Version",
+      "timeupdated": "1584437757",
+      "timebuildupdated": "1584437756"
+    },
+    "2.6.3": {
+      "buildid": "4878808",
+      "description": "Verne Version",
+      "timeupdated": "1589269733",
+      "timebuildupdated": "1586436587"
+    },
+    "2.7.2": {
+      "buildid": "5047322",
+      "description": "Wells Version",
+      "timeupdated": "1603986692",
+      "timebuildupdated": "1589869975"
+    },
+    "2.8.1": {
+      "buildid": "5827747",
+      "description": "Butler Version",
+      "timeupdated": "1618477993",
+      "timebuildupdated": "1605286760"
+    },
+    "3.0.2": {
+      "buildid": "6563896",
+      "description": "Dick Version rollback",
+      "timeupdated": "1621517846",
+      "timebuildupdated": "1618833080"
+    },
+    "3.0.4": {
+      "buildid": "7167181",
+      "description": "Dick Version (Nakama) rollback",
+      "timeupdated": "1631631465",
+      "timebuildupdated": "1628604776"
+    },
+    "3.1.2": {
+      "buildid": "7756277",
+      "description": "Lem Version rollback",
+      "timeupdated": "1637596964",
+      "timebuildupdated": "1637596964"
+    },
+    "3.2.2": {
+      "buildid": "7783125",
+      "description": "Herbert Version rollback",
+      "timeupdated": "1645610641",
+      "timebuildupdated": "1637928504"
+    },
+    "3.3.4": {
+      "buildid": "8381018",
+      "description": "Libra Version rollback",
+      "timeupdated": "1652369048",
+      "timebuildupdated": "1647420917"
+    },
+    "3.4.5": {
+      "buildid": "9012152",
+      "description": "Cepheus Version rollback",
+      "timeupdated": "1663659719",
+      "timebuildupdated": "1656313766"
+    },
+    "3.5.3": {
+      "buildid": "9675975",
+      "description": "Fornax Version rollback",
+      "timeupdated": "1669723351",
+      "timebuildupdated": "1665150834"
+    },
+    "3.6.1": {
+      "buildid": "10063376",
+      "description": "Orion Version rollback",
+      "timeupdated": "1678789074",
+      "timebuildupdated": "1669970889"
+    },
+    "3.7.4": {
+      "buildid": "10881049",
+      "description": "Canis Minor rollback",
+      "timeupdated": "1683128278",
+      "timebuildupdated": "1680076396"
+    },
+    "3.8.4": {
+      "buildid": "11447203",
+      "description": "Gemini Version rollback",
+      "timeupdated": "1693487618",
+      "timebuildupdated": "1686558586"
+    },
+    "3.9.3": {
+      "buildid": "12401104",
+      "description": "Caelum Version rollback",
+      "timeupdated": "1699976465",
+      "timebuildupdated": "1696925613"
+    },
+    "3.10.4": {
+      "buildid": "12931226",
+      "description": "Pyxis Version rollback",
+      "timeupdated": "1708952633",
+      "timebuildupdated": "1702312204"
+    },
+    "3.11.3": {
+      "buildid": "13985673",
+      "description": " Eridanus Version Rollback",
+      "timeupdated": "1715080476",
+      "timebuildupdated": "1712579351"
+    },
+    "3.12.5": {
+      "buildid": "14708161",
+      "description": " Andromeda Version Rollback",
+      "timeupdated": "1725870313",
+      "timebuildupdated": "1718296566"
+    },
+    "3.13.2": {
+      "buildid": "15832831",
+      "description": "Vela Version Rollback",
+      "timeupdated": "1730197896",
+      "timebuildupdated": "1727333581"
+    },
+    "3.14.1592653": {
+      "buildid": "18343742",
+      "description": " Circinus Version Rollback",
+      "timeupdated": "1746432539",
+      "timebuildupdated": "1746432538"
+    },
+    "4.0.23": {
+      "buildid": "20077492",
+      "description": "Phoenix Version Rollback",
+      "timeupdated": "1758550260",
+      "timebuildupdated": "1758550260"
+    },
+    "4.1.7": {
+      "buildid": "20936600",
+      "description": "Lyra Version Rollback",
+      "timeupdated": "1764085751",
+      "timebuildupdated": "1764085751"
+    },
+    "4.2.4": {
+      "buildid": "21132326",
+      "description": "Corvus Version Rollback",
+      "timeupdated": "1773746773",
+      "timebuildupdated": "1765376194"
+    },
+    "4.3.0": {
+      "buildid": "22314366",
+      "description": "Cetus Version Rollback",
+      "timeupdated": "1773918442",
+      "timebuildupdated": "1773325797"
+    },
+    "4.3.1": {
+      "buildid": "22414833",
+      "description": "Cetus Version Rollback",
+      "timeupdated": "1774420768",
+      "timebuildupdated": "1773922606"
+    },
+    "4.3.2": {
+      "buildid": "22429175",
+      "description": " Cetus Version Rollback",
+      "timeupdated": "1774346409",
+      "timebuildupdated": "1773993945"
+    },
+    "4.3.3": {
+      "buildid": "22531203",
+      "description": "Cetus Version Rollback",
+      "timeupdated": "1774947581",
+      "timebuildupdated": "1774605094"
+    },
+    "4.3.4": {
+      "buildid": "23177398",
+      "description": "Cetus Version Rollback",
+      "timeupdated": "1778494105",
+      "timebuildupdated": "1778494105"
+    },
+    "4.3.5": {
+      "buildid": "22897798",
+      "description": "Cetus Version Rollback",
+      "timeupdated": "1777468052",
+      "timebuildupdated": "1776830238"
+    },
+    "4.3.6": {
+      "buildid": "23087052",
+      "description": "Cetus Version Rollback",
+      "timeupdated": "1778486000",
+      "timebuildupdated": "1777950314"
+    },
+    "4.3.7": {
+      "buildid": "23179015",
+      "description": "Cetus Version Rollback",
+      "timeupdated": "1778506238",
+      "timebuildupdated": "1778501192"
+    },
+    "4.4.1": {
+      "buildid": "23765542",
+      "description": "Pegasus Version Rollback",
+      "timeupdated": "1781623910",
+      "timebuildupdated": "1781623909"
+    },
+    "4.4.3": {
+      "buildid": "23782348",
+      "description": "Pegasus Version Rollback",
+      "timeupdated": "1781708781",
+      "timebuildupdated": "1781698338"
+    },
+    "4.4.4": {
+      "buildid": "23859066",
+      "description": "Pegasus Version Rollback",
+      "timeupdated": "1782295198",
+      "timebuildupdated": "1782144249"
+    },
+    "4.4.5": {
+      "buildid": "24020510",
+      "description": " Pegasus Version Rollback",
+      "timeupdated": "1783414757",
+      "timebuildupdated": "1782996177"
+    },
+    "4.4.6": {
+      "buildid": "24109497",
+      "description": " Pegasus Version Rollback",
+      "timeupdated": "1783591181",
+      "timebuildupdated": "1783515641"
+    },
+    "4.5.2": {
+      "buildid": "25664273",
+      "description": "Cygnus Version Rollback",
+      "timeupdated": "1791277234",
+      "timebuildupdated": "1790894566"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "281991": {
+      "manifests": {
+        "public": {
+          "gid": "8497093903498207413",
+          "size": "29748229517",
+          "download": "14561458560"
+        }
+      }
+    },
+    "281992": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6977028325186503332",
+          "size": "227491834",
+          "download": "180438752"
+        }
+      }
+    },
+    "281993": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5826401885413961788",
+          "size": "602398551",
+          "download": "381337280"
+        }
+      }
+    },
+    "281994": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2095397877082630946",
+          "size": "304987628",
+          "download": "200148240"
+        }
+      }
+    },
+    "447680": {
+      "manifests": {
+        "public": {
+          "gid": "3796462871416536945",
+          "size": "77011",
+          "download": "77872"
+        }
+      },
+      "dlcappid": "447680"
+    },
+    "447681": {
+      "manifests": {
+        "public": {
+          "gid": "4635516424234970299",
+          "size": "77001",
+          "download": "77872"
+        }
+      },
+      "dlcappid": "447681"
+    },
+    "447682": {
+      "manifests": {
+        "public": {
+          "gid": "8126759959369925319",
+          "size": "119359244",
+          "download": "105718688"
+        }
+      },
+      "dlcappid": "447682"
+    },
+    "447683": {
+      "manifests": {
+        "public": {
+          "gid": "6115058309987442461",
+          "size": "77003",
+          "download": "77872"
+        }
+      },
+      "dlcappid": "447683"
+    },
+    "447684": {
+      "manifests": {
+        "public": {
+          "gid": "4984318181401498898",
+          "size": "1161285479",
+          "download": "1143479312"
+        }
+      },
+      "dlcappid": "447684"
+    },
+    "447685": {
+      "manifests": {
+        "public": {
+          "gid": "5616497098841117414",
+          "size": "5084430",
+          "download": "4683728"
+        }
+      },
+      "dlcappid": "447685"
+    },
+    "447686": {
+      "manifests": {
+        "public": {
+          "gid": "380104706699965241",
+          "size": "2398034",
+          "download": "2147392"
+        }
+      },
+      "dlcappid": "447686"
+    },
+    "447687": {
+      "manifests": {
+        "public": {
+          "gid": "8750895669882452148",
+          "size": "1302880",
+          "download": "1257056"
+        }
+      },
+      "dlcappid": "447687"
+    },
+    "447688": {
+      "dlcappid": "447688"
+    },
+    "447750": {
+      "manifests": {
+        "public": {
+          "gid": "5298150507268136665",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "447750"
+    },
+    "462720": {
+      "manifests": {
+        "public": {
+          "gid": "5938010814972666580",
+          "size": "77025",
+          "download": "77872"
+        }
+      },
+      "dlcappid": "462720"
+    },
+    "497660": {
+      "manifests": {
+        "public": {
+          "gid": "8675625826638210993",
+          "size": "2321437",
+          "download": "2069904"
+        }
+      },
+      "dlcappid": "497660"
+    },
+    "498870": {
+      "manifests": {
+        "public": {
+          "gid": "5289062830139194176",
+          "size": "97319",
+          "download": "98064"
+        }
+      },
+      "dlcappid": "498870"
+    },
+    "518910": {
+      "manifests": {
+        "public": {
+          "gid": "2771826165032019499",
+          "size": "59068563",
+          "download": "59824816"
+        }
+      },
+      "dlcappid": "518910"
+    },
+    "553280": {
+      "manifests": {
+        "public": {
+          "gid": "94231584423973538",
+          "size": "76047634",
+          "download": "77042480"
+        }
+      },
+      "dlcappid": "553280"
+    },
+    "554350": {
+      "manifests": {
+        "public": {
+          "gid": "6329361971126473517",
+          "size": "76984",
+          "download": "77856"
+        }
+      },
+      "dlcappid": "554350"
+    },
+    "633310": {
+      "manifests": {
+        "public": {
+          "gid": "3345875144006097969",
+          "size": "104543",
+          "download": "105632"
+        }
+      },
+      "dlcappid": "633310"
+    },
+    "642750": {
+      "manifests": {
+        "public": {
+          "gid": "8487770189849309225",
+          "size": "48642898",
+          "download": "49267408"
+        }
+      },
+      "dlcappid": "642750"
+    },
+    "716670": {
+      "manifests": {
+        "public": {
+          "gid": "2874777228579213431",
+          "size": "38026555",
+          "download": "38416464"
+        }
+      },
+      "dlcappid": "716670"
+    },
+    "756010": {
+      "manifests": {
+        "public": {
+          "gid": "3890735863625954154",
+          "size": "84743185",
+          "download": "85183424"
+        }
+      },
+      "dlcappid": "756010"
+    },
+    "844810": {
+      "manifests": {
+        "public": {
+          "gid": "265938213461916546",
+          "size": "20572316",
+          "download": "20828912"
+        }
+      },
+      "dlcappid": "844810"
+    },
+    "944290": {
+      "manifests": {
+        "public": {
+          "gid": "5222887027375310786",
+          "size": "90168198",
+          "download": "90539008"
+        }
+      },
+      "dlcappid": "944290"
+    },
+    "1045980": {
+      "manifests": {
+        "public": {
+          "gid": "6196140321844137812",
+          "size": "32765539",
+          "download": "33179920"
+        }
+      },
+      "dlcappid": "1045980"
+    },
+    "1140000": {
+      "manifests": {
+        "public": {
+          "gid": "4439512390676489865",
+          "size": "24626880",
+          "download": "24621520"
+        }
+      },
+      "dlcappid": "1140000"
+    },
+    "1140001": {
+      "manifests": {
+        "public": {
+          "gid": "6552287492865536968",
+          "size": "14019696",
+          "download": "14199280"
+        }
+      },
+      "dlcappid": "1140001"
+    },
+    "1341520": {
+      "manifests": {
+        "public": {
+          "gid": "4192641839961579584",
+          "size": "24037132",
+          "download": "24037696"
+        }
+      },
+      "dlcappid": "1341520"
+    },
+    "1522090": {
+      "manifests": {
+        "public": {
+          "gid": "1464825983963181123",
+          "size": "38704237",
+          "download": "39142144"
+        }
+      },
+      "dlcappid": "1522090"
+    },
+    "1749080": {
+      "manifests": {
+        "public": {
+          "gid": "6183249967729970080",
+          "size": "29273074",
+          "download": "29267584"
+        }
+      },
+      "dlcappid": "1749080"
+    },
+    "1889490": {
+      "manifests": {
+        "public": {
+          "gid": "1949988533210430480",
+          "size": "101497613",
+          "download": "102807936"
+        }
+      },
+      "dlcappid": "1889490"
+    },
+    "2115770": {
+      "manifests": {
+        "public": {
+          "gid": "5122427575866011480",
+          "size": "21518696",
+          "download": "21508688"
+        }
+      },
+      "dlcappid": "2115770"
+    },
+    "2277860": {
+      "manifests": {
+        "public": {
+          "gid": "4930317276946265521",
+          "size": "92233",
+          "download": "93040"
+        }
+      },
+      "dlcappid": "2277860"
+    },
+    "2380030": {
+      "manifests": {
+        "public": {
+          "gid": "6939619431392031129",
+          "size": "92043",
+          "download": "92720"
+        }
+      },
+      "dlcappid": "2380030"
+    },
+    "2534090": {
+      "manifests": {
+        "public": {
+          "gid": "3656631936342514829",
+          "size": "47152449",
+          "download": "47667824"
+        }
+      },
+      "dlcappid": "2534090"
+    },
+    "2840100": {
+      "manifests": {
+        "public": {
+          "gid": "8979615555578102134",
+          "size": "202532438",
+          "download": "117612368"
+        }
+      },
+      "dlcappid": "2840100"
+    },
+    "2863060": {
+      "manifests": {
+        "public": {
+          "gid": "8797712741214948916",
+          "size": "89148",
+          "download": "89552"
+        }
+      },
+      "dlcappid": "2863060"
+    },
+    "2863080": {
+      "manifests": {
+        "public": {
+          "gid": "8947542081300706521",
+          "size": "32768318",
+          "download": "33094400"
+        }
+      },
+      "dlcappid": "2863080"
+    },
+    "2863180": {
+      "manifests": {
+        "public": {
+          "gid": "9052823765448867156",
+          "size": "78011",
+          "download": "78656"
+        }
+      },
+      "dlcappid": "2863180"
+    },
+    "3283220": {
+      "manifests": {
+        "public": {
+          "gid": "8041524973031863599",
+          "size": "33843864",
+          "download": "33846480"
+        }
+      },
+      "dlcappid": "3283220"
+    },
+    "3417840": {
+      "manifests": {
+        "public": {
+          "gid": "7081683298429638352",
+          "size": "90554894",
+          "download": "91357600"
+        }
+      },
+      "dlcappid": "3417840"
+    },
+    "3417850": {
+      "manifests": {
+        "public": {
+          "gid": "3101765429910774633",
+          "size": "74256505",
+          "download": "74258000"
+        }
+      },
+      "dlcappid": "3417850"
+    },
+    "3417860": {
+      "manifests": {
+        "public": {
+          "gid": "3240748767659651608",
+          "size": "54472",
+          "download": "52080"
+        }
+      },
+      "dlcappid": "3417860"
+    },
+    "4241410": {
+      "manifests": {
+        "public": {
+          "gid": "8704462531518179024",
+          "size": "85917",
+          "download": "85952"
+        }
+      },
+      "dlcappid": "4241410"
+    },
+    "4241420": {
+      "manifests": {
+        "public": {
+          "gid": "5251410910842664956",
+          "size": "110802509",
+          "download": "110808240"
+        }
+      },
+      "dlcappid": "4241420"
+    },
+    "4241440": {
+      "dlcappid": "4241440"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26325427",
+        "timeupdated": "1793786395",
+        "timebuildupdated": "1793369842"
+      },
+      "stellaris_test": {
+        "buildid": "26456105",
+        "description": "Open Beta",
+        "timeupdated": "1793883582",
+        "timebuildupdated": "1793876556"
+      },
+      "2.1.3": {
+        "buildid": "3117422",
+        "description": "Niven version",
+        "timeupdated": "1544115279",
+        "timebuildupdated": "1536823081"
+      },
+      "2.2.7": {
+        "buildid": "3702453",
+        "description": "Le Guin version",
+        "timeupdated": "1559663212",
+        "timebuildupdated": "1554222623"
+      },
+      "2.3.3": {
+        "buildid": "3996163",
+        "description": "Wolfe version",
+        "timeupdated": "1570633041",
+        "timebuildupdated": "1562694072"
+      },
+      "2.4.1": {
+        "buildid": "4274787",
+        "description": "Lee version",
+        "timeupdated": "1571932092",
+        "timebuildupdated": "1570710454"
+      },
+      "2.5.1": {
+        "buildid": "4786539",
+        "description": "Shelley Version",
+        "timeupdated": "1584437757",
+        "timebuildupdated": "1584437756"
+      },
+      "2.6.3": {
+        "buildid": "4878808",
+        "description": "Verne Version",
+        "timeupdated": "1589269733",
+        "timebuildupdated": "1586436587"
+      },
+      "2.7.2": {
+        "buildid": "5047322",
+        "description": "Wells Version",
+        "timeupdated": "1603986692",
+        "timebuildupdated": "1589869975"
+      },
+      "2.8.1": {
+        "buildid": "5827747",
+        "description": "Butler Version",
+        "timeupdated": "1618477993",
+        "timebuildupdated": "1605286760"
+      },
+      "3.0.2": {
+        "buildid": "6563896",
+        "description": "Dick Version rollback",
+        "timeupdated": "1621517846",
+        "timebuildupdated": "1618833080"
+      },
+      "3.0.4": {
+        "buildid": "7167181",
+        "description": "Dick Version (Nakama) rollback",
+        "timeupdated": "1631631465",
+        "timebuildupdated": "1628604776"
+      },
+      "3.1.2": {
+        "buildid": "7756277",
+        "description": "Lem Version rollback",
+        "timeupdated": "1637596964",
+        "timebuildupdated": "1637596964"
+      },
+      "3.2.2": {
+        "buildid": "7783125",
+        "description": "Herbert Version rollback",
+        "timeupdated": "1645610641",
+        "timebuildupdated": "1637928504"
+      },
+      "3.3.4": {
+        "buildid": "8381018",
+        "description": "Libra Version rollback",
+        "timeupdated": "1652369048",
+        "timebuildupdated": "1647420917"
+      },
+      "3.4.5": {
+        "buildid": "9012152",
+        "description": "Cepheus Version rollback",
+        "timeupdated": "1663659719",
+        "timebuildupdated": "1656313766"
+      },
+      "3.5.3": {
+        "buildid": "9675975",
+        "description": "Fornax Version rollback",
+        "timeupdated": "1669723351",
+        "timebuildupdated": "1665150834"
+      },
+      "3.6.1": {
+        "buildid": "10063376",
+        "description": "Orion Version rollback",
+        "timeupdated": "1678789074",
+        "timebuildupdated": "1669970889"
+      },
+      "3.7.4": {
+        "buildid": "10881049",
+        "description": "Canis Minor rollback",
+        "timeupdated": "1683128278",
+        "timebuildupdated": "1680076396"
+      },
+      "3.8.4": {
+        "buildid": "11447203",
+        "description": "Gemini Version rollback",
+        "timeupdated": "1693487618",
+        "timebuildupdated": "1686558586"
+      },
+      "3.9.3": {
+        "buildid": "12401104",
+        "description": "Caelum Version rollback",
+        "timeupdated": "1699976465",
+        "timebuildupdated": "1696925613"
+      },
+      "3.10.4": {
+        "buildid": "12931226",
+        "description": "Pyxis Version rollback",
+        "timeupdated": "1708952633",
+        "timebuildupdated": "1702312204"
+      },
+      "3.11.3": {
+        "buildid": "13985673",
+        "description": " Eridanus Version Rollback",
+        "timeupdated": "1715080476",
+        "timebuildupdated": "1712579351"
+      },
+      "3.12.5": {
+        "buildid": "14708161",
+        "description": " Andromeda Version Rollback",
+        "timeupdated": "1725870313",
+        "timebuildupdated": "1718296566"
+      },
+      "3.13.2": {
+        "buildid": "15832831",
+        "description": "Vela Version Rollback",
+        "timeupdated": "1730197896",
+        "timebuildupdated": "1727333581"
+      },
+      "3.14.1592653": {
+        "buildid": "18343742",
+        "description": " Circinus Version Rollback",
+        "timeupdated": "1746432539",
+        "timebuildupdated": "1746432538"
+      },
+      "4.0.23": {
+        "buildid": "20077492",
+        "description": "Phoenix Version Rollback",
+        "timeupdated": "1758550260",
+        "timebuildupdated": "1758550260"
+      },
+      "4.1.7": {
+        "buildid": "20936600",
+        "description": "Lyra Version Rollback",
+        "timeupdated": "1764085751",
+        "timebuildupdated": "1764085751"
+      },
+      "4.2.4": {
+        "buildid": "21132326",
+        "description": "Corvus Version Rollback",
+        "timeupdated": "1773746773",
+        "timebuildupdated": "1765376194"
+      },
+      "4.3.0": {
+        "buildid": "22314366",
+        "description": "Cetus Version Rollback",
+        "timeupdated": "1773918442",
+        "timebuildupdated": "1773325797"
+      },
+      "4.3.1": {
+        "buildid": "22414833",
+        "description": "Cetus Version Rollback",
+        "timeupdated": "1774420768",
+        "timebuildupdated": "1773922606"
+      },
+      "4.3.2": {
+        "buildid": "22429175",
+        "description": " Cetus Version Rollback",
+        "timeupdated": "1774346409",
+        "timebuildupdated": "1773993945"
+      },
+      "4.3.3": {
+        "buildid": "22531203",
+        "description": "Cetus Version Rollback",
+        "timeupdated": "1774947581",
+        "timebuildupdated": "1774605094"
+      },
+      "4.3.4": {
+        "buildid": "23177398",
+        "description": "Cetus Version Rollback",
+        "timeupdated": "1778494105",
+        "timebuildupdated": "1778494105"
+      },
+      "4.3.5": {
+        "buildid": "22897798",
+        "description": "Cetus Version Rollback",
+        "timeupdated": "1777468052",
+        "timebuildupdated": "1776830238"
+      },
+      "4.3.6": {
+        "buildid": "23087052",
+        "description": "Cetus Version Rollback",
+        "timeupdated": "1778486000",
+        "timebuildupdated": "1777950314"
+      },
+      "4.3.7": {
+        "buildid": "23179015",
+        "description": "Cetus Version Rollback",
+        "timeupdated": "1778506238",
+        "timebuildupdated": "1778501192"
+      },
+      "4.4.1": {
+        "buildid": "23765542",
+        "description": "Pegasus Version Rollback",
+        "timeupdated": "1781623910",
+        "timebuildupdated": "1781623909"
+      },
+      "4.4.3": {
+        "buildid": "23782348",
+        "description": "Pegasus Version Rollback",
+        "timeupdated": "1781708781",
+        "timebuildupdated": "1781698338"
+      },
+      "4.4.4": {
+        "buildid": "23859066",
+        "description": "Pegasus Version Rollback",
+        "timeupdated": "1782295198",
+        "timebuildupdated": "1782144249"
+      },
+      "4.4.5": {
+        "buildid": "24020510",
+        "description": " Pegasus Version Rollback",
+        "timeupdated": "1783414757",
+        "timebuildupdated": "1782996177"
+      },
+      "4.4.6": {
+        "buildid": "24109497",
+        "description": " Pegasus Version Rollback",
+        "timeupdated": "1783591181",
+        "timebuildupdated": "1783515641"
+      },
+      "4.5.2": {
+        "buildid": "25664273",
+        "description": "Cygnus Version Rollback",
+        "timeupdated": "1791277234",
+        "timebuildupdated": "1790894566"
+      }
+    }
+  }
+}

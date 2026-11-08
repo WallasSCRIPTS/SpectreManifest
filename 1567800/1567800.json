@@ -1,0 +1,52 @@
+{
+  "name": "星空列车与白的旅行",
+  "source": "spectre",
+  "changenumber": 37447702,
+  "updated": "2026-11-06T21:06:12.928Z",
+  "branches": {
+    "public": {
+      "buildid": "8331503",
+      "timeupdated": "1646720490",
+      "timebuildupdated": "1646720386"
+    },
+    "win732-test": {
+      "buildid": "6698579",
+      "description": "win7-test",
+      "timeupdated": "1646720482",
+      "timebuildupdated": "1620976228"
+    }
+  },
+  "depot": {
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1567801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2804954319430949746",
+          "size": "5088220328",
+          "download": "1063870800"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8331503",
+        "timeupdated": "1646720490",
+        "timebuildupdated": "1646720386"
+      },
+      "win732-test": {
+        "buildid": "6698579",
+        "description": "win7-test",
+        "timeupdated": "1646720482",
+        "timebuildupdated": "1620976228"
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "DLC Quest",
+  "source": "spectre",
+  "changenumber": 39672779,
+  "updated": "2026-11-07T20:56:07.321Z",
+  "branches": {
+    "public": {
+      "buildid": "56519",
+      "timebuildupdated": "1364935100"
+    }
+  },
+  "depot": {
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "230051": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "881450551068591326",
+          "size": "20674919",
+          "download": "0"
+        }
+      }
+    },
+    "230052": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "613672415094796256",
+          "size": "67763155",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "56519",
+        "timebuildupdated": "1364935100"
+      }
+    }
+  }
+}

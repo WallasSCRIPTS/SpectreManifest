@@ -1,0 +1,58 @@
+{
+  "name": "Robot Anomaly",
+  "source": "spectre",
+  "changenumber": 40438608,
+  "updated": "2026-11-06T21:07:40.978Z",
+  "branches": {
+    "public": {
+      "buildid": "26333785",
+      "timeupdated": "1793393033",
+      "timebuildupdated": "1793392751"
+    }
+  },
+  "depot": {
+    "3583332": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5331493262647993414",
+          "size": "1217849056",
+          "download": "476880144"
+        }
+      }
+    },
+    "3583333": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "435277922164030173",
+          "size": "1252882744",
+          "download": "485425680"
+        }
+      }
+    },
+    "3583334": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3486018510931250142",
+          "size": "1317472788",
+          "download": "505338960"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26333785",
+        "timeupdated": "1793393033",
+        "timebuildupdated": "1793392751"
+      }
+    }
+  }
+}

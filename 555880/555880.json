@@ -1,0 +1,68 @@
+{
+  "name": "Sairento VR",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:45.235Z",
+  "branches": {
+    "public": {
+      "buildid": "10924975",
+      "timeupdated": "1680602819",
+      "timebuildupdated": "1680591563"
+    },
+    "index-controller": {
+      "buildid": "4082097",
+      "timeupdated": "1565163770",
+      "timebuildupdated": "1565162880"
+    },
+    "oculus-sdk": {
+      "buildid": "10925460",
+      "description": "Oculus SDK version, no DLC/Achievement support.",
+      "timeupdated": "1680602866",
+      "timebuildupdated": "1680596755"
+    },
+    "public-test": {
+      "buildid": "10924975",
+      "description": "Public test branch (v1.5)",
+      "timeupdated": "1680602807",
+      "timebuildupdated": "1680591563"
+    }
+  },
+  "depot": {
+    "555881": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5986815526274552263",
+          "size": "23386997161",
+          "download": "6175703104"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10924975",
+        "timeupdated": "1680602819",
+        "timebuildupdated": "1680591563"
+      },
+      "index-controller": {
+        "buildid": "4082097",
+        "timeupdated": "1565163770",
+        "timebuildupdated": "1565162880"
+      },
+      "oculus-sdk": {
+        "buildid": "10925460",
+        "description": "Oculus SDK version, no DLC/Achievement support.",
+        "timeupdated": "1680602866",
+        "timebuildupdated": "1680596755"
+      },
+      "public-test": {
+        "buildid": "10924975",
+        "description": "Public test branch (v1.5)",
+        "timeupdated": "1680602807",
+        "timebuildupdated": "1680591563"
+      }
+    }
+  }
+}

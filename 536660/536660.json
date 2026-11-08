@@ -1,0 +1,55 @@
+{
+  "name": "JCB Pioneer: Mars",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:35.513Z",
+  "branches": {
+    "public": {
+      "buildid": "3358331",
+      "timeupdated": "1544189800",
+      "timebuildupdated": "1543703793"
+    },
+    "beta_test_v2": {
+      "buildid": "3358331",
+      "description": "V2 Beta Test",
+      "timeupdated": "1543712893",
+      "timebuildupdated": "1543703793"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "536661": {
+      "manifests": {
+        "public": {
+          "gid": "6133084110594470283",
+          "size": "3973126112",
+          "download": "3910213488"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3358331",
+        "timeupdated": "1544189800",
+        "timebuildupdated": "1543703793"
+      },
+      "beta_test_v2": {
+        "buildid": "3358331",
+        "description": "V2 Beta Test",
+        "timeupdated": "1543712893",
+        "timebuildupdated": "1543703793"
+      }
+    }
+  }
+}

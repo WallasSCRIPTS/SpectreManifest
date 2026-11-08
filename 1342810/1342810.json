@@ -1,0 +1,100 @@
+{
+  "name": "United Assault - Normandy '44",
+  "source": "spectre",
+  "changenumber": 39638730,
+  "updated": "2026-11-06T21:04:33.526Z",
+  "branches": {
+    "public": {
+      "buildid": "16797686",
+      "timeupdated": "1734597265",
+      "timebuildupdated": "1734597226"
+    },
+    "debug_build": {
+      "buildid": "9500081",
+      "description": "debug_build",
+      "timeupdated": "1663001543",
+      "timebuildupdated": "1663001543"
+    },
+    "legacy": {
+      "buildid": "9198276",
+      "description": "legacy",
+      "timeupdated": "1668253348",
+      "timebuildupdated": "1658906005"
+    },
+    "development_preview": {
+      "buildid": "16797686",
+      "description": "Public Development Preview",
+      "timeupdated": "1734597236",
+      "timebuildupdated": "1734597226"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1342811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3014221675564723132",
+          "size": "6370876416",
+          "download": "6102338736"
+        }
+      }
+    },
+    "1342812": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2321750225439365552",
+          "size": "8966014480",
+          "download": "7476270720"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16797686",
+        "timeupdated": "1734597265",
+        "timebuildupdated": "1734597226"
+      },
+      "debug_build": {
+        "buildid": "9500081",
+        "description": "debug_build",
+        "timeupdated": "1663001543",
+        "timebuildupdated": "1663001543"
+      },
+      "legacy": {
+        "buildid": "9198276",
+        "description": "legacy",
+        "timeupdated": "1668253348",
+        "timebuildupdated": "1658906005"
+      },
+      "development_preview": {
+        "buildid": "16797686",
+        "description": "Public Development Preview",
+        "timeupdated": "1734597236",
+        "timebuildupdated": "1734597226"
+      }
+    }
+  }
+}

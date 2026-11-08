@@ -1,0 +1,58 @@
+{
+  "name": "HA/CK",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:22.467Z",
+  "branches": {
+    "public": {
+      "buildid": "3698573",
+      "timeupdated": "1554132973",
+      "timebuildupdated": "1554129510"
+    }
+  },
+  "depot": {
+    "1002542": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4434283695441925611",
+          "size": "1114198206",
+          "download": "276028336"
+        }
+      }
+    },
+    "1002543": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5593208755690663001",
+          "size": "1125780182",
+          "download": "282421344"
+        }
+      }
+    },
+    "1002544": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5469969155825720765",
+          "size": "1135778542",
+          "download": "288995488"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3698573",
+        "timeupdated": "1554132973",
+        "timebuildupdated": "1554129510"
+      }
+    }
+  }
+}

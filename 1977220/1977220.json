@@ -1,0 +1,58 @@
+{
+  "name": "DELETE AFTER READING",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:15:25.681Z",
+  "branches": {
+    "public": {
+      "buildid": "10811899",
+      "timeupdated": "1679324834",
+      "timebuildupdated": "1679324573"
+    },
+    "test_hotfix": {
+      "buildid": "10811899",
+      "description": "Hotfix",
+      "timeupdated": "1679324898",
+      "timebuildupdated": "1679324573"
+    }
+  },
+  "depot": {
+    "1977222": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4282541057137509674",
+          "size": "507137713",
+          "download": "387638656"
+        }
+      }
+    },
+    "1977223": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2663127798879329511",
+          "size": "531769538",
+          "download": "396348704"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10811899",
+        "timeupdated": "1679324834",
+        "timebuildupdated": "1679324573"
+      },
+      "test_hotfix": {
+        "buildid": "10811899",
+        "description": "Hotfix",
+        "timeupdated": "1679324898",
+        "timebuildupdated": "1679324573"
+      }
+    }
+  }
+}

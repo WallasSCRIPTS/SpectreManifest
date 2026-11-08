@@ -1,0 +1,55 @@
+{
+  "name": "Perfect Heist",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:41.728Z",
+  "branches": {
+    "public": {
+      "buildid": "6534080",
+      "timeupdated": "1618327868",
+      "timebuildupdated": "1618327635"
+    },
+    "test-branch": {
+      "buildid": "6784282",
+      "description": "Test Branch for the latest changes",
+      "timeupdated": "1622420177",
+      "timebuildupdated": "1622420159"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "787041": {
+      "manifests": {
+        "public": {
+          "gid": "221241433871930607",
+          "size": "697158562",
+          "download": "494955696"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6534080",
+        "timeupdated": "1618327868",
+        "timebuildupdated": "1618327635"
+      },
+      "test-branch": {
+        "buildid": "6784282",
+        "description": "Test Branch for the latest changes",
+        "timeupdated": "1622420177",
+        "timebuildupdated": "1622420159"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Hot Plates",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:58:48.274Z",
+  "branches": {
+    "public": {
+      "buildid": "2323236",
+      "timeupdated": "1511903390",
+      "timebuildupdated": "1511903365"
+    },
+    "beta": {
+      "buildid": "2307329",
+      "description": "Beta branch. For Tests and Semi-Stable Builds",
+      "timeupdated": "1511357858",
+      "timebuildupdated": "1511357675"
+    }
+  },
+  "depot": {
+    "561421": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7771940447204200091",
+          "size": "331014707",
+          "download": "47726624"
+        }
+      }
+    },
+    "561422": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3829098929988097316",
+          "size": "366447317",
+          "download": "59101280"
+        }
+      }
+    },
+    "561423": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3005082999293156375",
+          "size": "326933003",
+          "download": "46536720"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2323236",
+        "timeupdated": "1511903390",
+        "timebuildupdated": "1511903365"
+      },
+      "beta": {
+        "buildid": "2307329",
+        "description": "Beta branch. For Tests and Semi-Stable Builds",
+        "timeupdated": "1511357858",
+        "timebuildupdated": "1511357675"
+      }
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Microsoft Allegiance",
+  "source": "spectre",
+  "changenumber": 39554034,
+  "updated": "2026-11-07T20:59:55.814Z",
+  "branches": {
+    "public": {
+      "buildid": "22287059",
+      "timeupdated": "1773186504",
+      "timebuildupdated": "1773186463"
+    },
+    "2018-april": {
+      "buildid": "2791731",
+      "description": "The april 2018 version",
+      "timeupdated": "1531030489",
+      "timebuildupdated": "1526871931"
+    },
+    "lanserver": {
+      "buildid": "3703130",
+      "description": "Testing out integrating the lan server into the standard client release",
+      "timeupdated": "1554238674",
+      "timebuildupdated": "1554238609"
+    },
+    "r4-oldschool": {
+      "buildid": "4096050",
+      "description": "The no-frills old school Allegiance",
+      "timeupdated": "1565579273",
+      "timebuildupdated": "1565579273"
+    },
+    "next-release": {
+      "buildid": "25278655",
+      "description": "Get a preview of the next patch release!",
+      "timeupdated": "1789268767",
+      "timebuildupdated": "1789268767"
+    }
+  },
+  "depot": {
+    "228982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "700481": {
+      "manifests": {
+        "public": {
+          "gid": "7158022260938619168",
+          "size": "1753790301",
+          "download": "448213152"
+        }
+      }
+    },
+    "700482": {
+      "manifests": {
+        "public": {
+          "gid": "6858857192986461801",
+          "size": "154894665",
+          "download": "30213072"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22287059",
+        "timeupdated": "1773186504",
+        "timebuildupdated": "1773186463"
+      },
+      "2018-april": {
+        "buildid": "2791731",
+        "description": "The april 2018 version",
+        "timeupdated": "1531030489",
+        "timebuildupdated": "1526871931"
+      },
+      "lanserver": {
+        "buildid": "3703130",
+        "description": "Testing out integrating the lan server into the standard client release",
+        "timeupdated": "1554238674",
+        "timebuildupdated": "1554238609"
+      },
+      "r4-oldschool": {
+        "buildid": "4096050",
+        "description": "The no-frills old school Allegiance",
+        "timeupdated": "1565579273",
+        "timebuildupdated": "1565579273"
+      },
+      "next-release": {
+        "buildid": "25278655",
+        "description": "Get a preview of the next patch release!",
+        "timeupdated": "1789268767",
+        "timebuildupdated": "1789268767"
+      }
+    }
+  }
+}

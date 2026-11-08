@@ -1,0 +1,61 @@
+{
+  "name": "Aardvark",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-06T21:05:29.461Z",
+  "branches": {
+    "public": {
+      "buildid": "6095342",
+      "timeupdated": "1610908154",
+      "timebuildupdated": "1610907333"
+    },
+    "test": {
+      "buildid": "6429576",
+      "description": "Gets builds a bit before they go out to everyone",
+      "timeupdated": "1616554829",
+      "timebuildupdated": "1616554829"
+    },
+    "updatetest": {
+      "buildid": "6429576",
+      "description": "Testing an update-related bug",
+      "timeupdated": "1621460427",
+      "timebuildupdated": "1616554829"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1466431": {
+      "manifests": {
+        "public": {
+          "gid": "3685144133495500960",
+          "size": "372292382",
+          "download": "108321888"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6095342",
+        "timeupdated": "1610908154",
+        "timebuildupdated": "1610907333"
+      },
+      "test": {
+        "buildid": "6429576",
+        "description": "Gets builds a bit before they go out to everyone",
+        "timeupdated": "1616554829",
+        "timebuildupdated": "1616554829"
+      },
+      "updatetest": {
+        "buildid": "6429576",
+        "description": "Testing an update-related bug",
+        "timeupdated": "1621460427",
+        "timebuildupdated": "1616554829"
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Space Fighters",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:00:48.243Z",
+  "branches": {
+    "public": {
+      "buildid": "3654199",
+      "timeupdated": "1552836799",
+      "timebuildupdated": "1552836773"
+    },
+    "oldspacefighters": {
+      "buildid": "2712159",
+      "description": "the old, v0.5 space fighters game",
+      "timeupdated": "1530891615",
+      "timebuildupdated": "1524456183"
+    },
+    "testing": {
+      "buildid": "3654199",
+      "description": "used mainly just for playtesting",
+      "timeupdated": "1552836813",
+      "timebuildupdated": "1552836773"
+    }
+  },
+  "depot": {
+    "229000": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "800721": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3911780499089126777",
+          "size": "150980272",
+          "download": "109054240"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3654199",
+        "timeupdated": "1552836799",
+        "timebuildupdated": "1552836773"
+      },
+      "oldspacefighters": {
+        "buildid": "2712159",
+        "description": "the old, v0.5 space fighters game",
+        "timeupdated": "1530891615",
+        "timebuildupdated": "1524456183"
+      },
+      "testing": {
+        "buildid": "3654199",
+        "description": "used mainly just for playtesting",
+        "timeupdated": "1552836813",
+        "timebuildupdated": "1552836773"
+      }
+    }
+  }
+}

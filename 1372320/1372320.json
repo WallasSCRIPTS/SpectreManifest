@@ -1,0 +1,82 @@
+{
+  "name": "Cloud Gardens",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:45.085Z",
+  "branches": {
+    "public": {
+      "buildid": "20267330",
+      "timeupdated": "1759850527",
+      "timebuildupdated": "1759740861"
+    },
+    "exhibitions": {
+      "buildid": "9618662",
+      "description": "resets game after 5 minutes of inactivity",
+      "timeupdated": "1664462507",
+      "timebuildupdated": "1664462498"
+    },
+    "legacy": {
+      "buildid": "7513668",
+      "description": "version 1.0.8",
+      "timeupdated": "1636367183",
+      "timebuildupdated": "1633961044"
+    },
+    "beta": {
+      "buildid": "20267330",
+      "description": "beta of patch 1.2.6",
+      "timeupdated": "1759740898",
+      "timebuildupdated": "1759740861"
+    }
+  },
+  "depot": {
+    "1372321": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8338177975486494320",
+          "size": "667477526",
+          "download": "138824064"
+        }
+      }
+    },
+    "1372322": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4176734135631037017",
+          "size": "693673267",
+          "download": "144021424"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20267330",
+        "timeupdated": "1759850527",
+        "timebuildupdated": "1759740861"
+      },
+      "exhibitions": {
+        "buildid": "9618662",
+        "description": "resets game after 5 minutes of inactivity",
+        "timeupdated": "1664462507",
+        "timebuildupdated": "1664462498"
+      },
+      "legacy": {
+        "buildid": "7513668",
+        "description": "version 1.0.8",
+        "timeupdated": "1636367183",
+        "timebuildupdated": "1633961044"
+      },
+      "beta": {
+        "buildid": "20267330",
+        "description": "beta of patch 1.2.6",
+        "timeupdated": "1759740898",
+        "timebuildupdated": "1759740861"
+      }
+    }
+  }
+}

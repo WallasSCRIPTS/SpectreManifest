@@ -1,0 +1,44 @@
+{
+  "name": "Break Bounds: Exile",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:07:51.147Z",
+  "branches": {
+    "public": {
+      "buildid": "20025957",
+      "timeupdated": "1758169067",
+      "timebuildupdated": "1758168984"
+    }
+  },
+  "depot": {
+    "1700801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8371980703080081436",
+          "size": "4885236452",
+          "download": "754264496"
+        }
+      }
+    },
+    "2010831": {
+      "manifests": {
+        "public": {
+          "gid": "8061319189358108146",
+          "size": "1021379671",
+          "download": "449477136"
+        }
+      },
+      "depotfromapp": "2010830"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20025957",
+        "timeupdated": "1758169067",
+        "timebuildupdated": "1758168984"
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Project Highrise",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:42.772Z",
+  "branches": {
+    "public": {
+      "buildid": "3468047",
+      "timeupdated": "1547570871",
+      "timebuildupdated": "1547495347"
+    },
+    "staging": {
+      "buildid": "3108190",
+      "description": "Next upcoming build (may be unstable)",
+      "timeupdated": "1536600693",
+      "timebuildupdated": "1536600640"
+    }
+  },
+  "depot": {
+    "423581": {},
+    "423582": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6255565661869212958",
+          "size": "603359504",
+          "download": "84816848"
+        }
+      }
+    },
+    "423583": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2343082080947518598",
+          "size": "618563116",
+          "download": "89025904"
+        }
+      }
+    },
+    "423584": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7476901965857888300",
+          "size": "654549211",
+          "download": "102131712"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3468047",
+        "timeupdated": "1547570871",
+        "timebuildupdated": "1547495347"
+      },
+      "staging": {
+        "buildid": "3108190",
+        "description": "Next upcoming build (may be unstable)",
+        "timeupdated": "1536600693",
+        "timebuildupdated": "1536600640"
+      }
+    }
+  }
+}

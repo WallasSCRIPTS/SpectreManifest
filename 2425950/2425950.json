@@ -1,0 +1,58 @@
+{
+  "name": "A Car That Turns",
+  "source": "spectre",
+  "changenumber": 38781307,
+  "updated": "2026-11-06T23:25:09.300Z",
+  "branches": {
+    "public": {
+      "buildid": "25245180",
+      "timeupdated": "1789098050",
+      "timebuildupdated": "1789097795"
+    }
+  },
+  "depot": {
+    "2425952": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4416913670723853000",
+          "size": "39902114",
+          "download": "31772784"
+        }
+      }
+    },
+    "2425953": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4615972464906418387",
+          "size": "39351778",
+          "download": "31560016"
+        }
+      }
+    },
+    "2425954": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8452115760247652519",
+          "size": "43889003",
+          "download": "33259392"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25245180",
+        "timeupdated": "1789098050",
+        "timebuildupdated": "1789097795"
+      }
+    }
+  }
+}

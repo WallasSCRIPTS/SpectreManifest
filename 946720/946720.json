@@ -1,0 +1,58 @@
+{
+  "name": "To The Rescue!",
+  "source": "spectre",
+  "changenumber": 40685907,
+  "updated": "2026-11-07T21:01:53.537Z",
+  "branches": {
+    "public": {
+      "buildid": "26493524",
+      "timeupdated": "1794001969",
+      "timebuildupdated": "1793994963"
+    },
+    "experimental": {
+      "buildid": "10198065",
+      "description": "This branch is for testing upcoming release candidates. It may be unstable or damage existing save files, so proceed with caution and make a backup of your savefiles.",
+      "timeupdated": "1671696557",
+      "timebuildupdated": "1671696557"
+    }
+  },
+  "depot": {
+    "946721": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2820229620198165701",
+          "size": "1217815343",
+          "download": "194132416"
+        }
+      }
+    },
+    "946722": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "438201221972178187",
+          "size": "5804798680",
+          "download": "215470384"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26493524",
+        "timeupdated": "1794001969",
+        "timebuildupdated": "1793994963"
+      },
+      "experimental": {
+        "buildid": "10198065",
+        "description": "This branch is for testing upcoming release candidates. It may be unstable or damage existing save files, so proceed with caution and make a backup of your savefiles.",
+        "timeupdated": "1671696557",
+        "timebuildupdated": "1671696557"
+      }
+    }
+  }
+}

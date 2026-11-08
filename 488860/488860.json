@@ -1,0 +1,70 @@
+{
+  "name": "MADNESS: Project Nexus",
+  "source": "spectre",
+  "changenumber": 40521928,
+  "updated": "2026-11-07T20:58:12.983Z",
+  "branches": {
+    "public": {
+      "buildid": "25615280",
+      "timeupdated": "1790726118",
+      "timebuildupdated": "1790725722"
+    },
+    "releasebeta": {
+      "buildid": "25615196",
+      "description": "For testing features before going live.",
+      "timeupdated": "1790726158",
+      "timebuildupdated": "1790725334"
+    }
+  },
+  "depot": {
+    "488861": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3868311332972129937",
+          "size": "5726164268",
+          "download": "2261973840"
+        }
+      }
+    },
+    "488862": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7463424499279771874",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "488863": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4751841892303076864",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25615280",
+        "timeupdated": "1790726118",
+        "timebuildupdated": "1790725722"
+      },
+      "releasebeta": {
+        "buildid": "25615196",
+        "description": "For testing features before going live.",
+        "timeupdated": "1790726158",
+        "timebuildupdated": "1790725334"
+      }
+    }
+  }
+}

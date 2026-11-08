@@ -1,0 +1,59 @@
+{
+  "name": "Rise of the Triad: Dark War",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:07.661Z",
+  "branches": {
+    "public": {
+      "buildid": "621765",
+      "timebuildupdated": "1431548901"
+    }
+  },
+  "depot": {
+    "358282": {
+      "depotfromapp": "358280"
+    },
+    "358411": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8019207980647617437",
+          "size": "55710344",
+          "download": "26664352"
+        }
+      }
+    },
+    "358412": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5104201047822653652",
+          "size": "40464943",
+          "download": "16517648"
+        }
+      }
+    },
+    "358413": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8700773400980963118",
+          "size": "35441518",
+          "download": "18675392"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "621765",
+        "timebuildupdated": "1431548901"
+      }
+    }
+  }
+}

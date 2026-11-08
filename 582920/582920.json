@@ -1,0 +1,94 @@
+{
+  "name": "From Shadows",
+  "source": "spectre",
+  "changenumber": 39758051,
+  "updated": "2026-11-07T20:59:01.157Z",
+  "branches": {
+    "public": {
+      "buildid": "2064049",
+      "timeupdated": "1504094597",
+      "timebuildupdated": "1503556726"
+    },
+    "testowaniebranchy": {
+      "buildid": "2064049",
+      "description": "testowaniebranchy",
+      "timeupdated": "1639495192",
+      "timebuildupdated": "1503556726"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "582922": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5539859483008338241",
+          "size": "1714124096",
+          "download": "229863248"
+        }
+      }
+    },
+    "582923": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2131203320799864142",
+          "size": "1742451998",
+          "download": "238633680"
+        }
+      }
+    },
+    "582924": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "37011836588742362",
+          "size": "1702925483",
+          "download": "236705936"
+        }
+      }
+    },
+    "805860": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "dlcappid": "805860"
+    },
+    "805861": {
+      "config": {
+        "oslist": "macos"
+      },
+      "dlcappid": "805860"
+    },
+    "branches": {
+      "public": {
+        "buildid": "2064049",
+        "timeupdated": "1504094597",
+        "timebuildupdated": "1503556726"
+      },
+      "testowaniebranchy": {
+        "buildid": "2064049",
+        "description": "testowaniebranchy",
+        "timeupdated": "1639495192",
+        "timebuildupdated": "1503556726"
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Dreii",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:29.693Z",
+  "branches": {
+    "public": {
+      "buildid": "911363",
+      "timebuildupdated": "1450874491"
+    },
+    "beta": {
+      "buildid": "911363",
+      "timebuildupdated": "1450874491"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "298421": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7331374000086725775",
+          "size": "126313399",
+          "download": "50107584"
+        }
+      }
+    },
+    "298422": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5849223431653844680",
+          "size": "182283610",
+          "download": "60038576"
+        }
+      }
+    },
+    "298423": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8983323751521432416",
+          "size": "180785850",
+          "download": "60968816"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "911363",
+        "timebuildupdated": "1450874491"
+      },
+      "beta": {
+        "buildid": "911363",
+        "timebuildupdated": "1450874491"
+      }
+    }
+  }
+}

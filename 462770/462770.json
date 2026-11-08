@@ -1,0 +1,106 @@
+{
+  "name": "Pyre",
+  "source": "spectre",
+  "changenumber": 37435436,
+  "updated": "2026-11-07T20:58:04.312Z",
+  "branches": {
+    "public": {
+      "buildid": "21823591",
+      "timeupdated": "1770678831",
+      "timebuildupdated": "1770416300"
+    },
+    "macos-fix": {
+      "buildid": "6185959",
+      "description": "Experimental macOS fixes",
+      "timeupdated": "1612401627",
+      "timebuildupdated": "1612401155"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "462771": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5151914609788138111",
+          "size": "8176674978",
+          "download": "6741731472"
+        }
+      }
+    },
+    "462772": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7439213925365257857",
+          "size": "38706658",
+          "download": "9906752"
+        }
+      }
+    },
+    "462773": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7411144863977852131",
+          "size": "35931106",
+          "download": "9186960"
+        }
+      }
+    },
+    "462774": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2474931359274078325",
+          "size": "8281118383",
+          "download": "6768567872"
+        }
+      }
+    },
+    "462775": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6031868325818542787",
+          "size": "5852228203",
+          "download": "4908498864"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21823591",
+        "timeupdated": "1770678831",
+        "timebuildupdated": "1770416300"
+      },
+      "macos-fix": {
+        "buildid": "6185959",
+        "description": "Experimental macOS fixes",
+        "timeupdated": "1612401627",
+        "timebuildupdated": "1612401155"
+      }
+    }
+  }
+}

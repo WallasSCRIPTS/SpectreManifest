@@ -1,0 +1,46 @@
+{
+  "name": "SUBNET",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:21:24.267Z",
+  "branches": {
+    "public": {
+      "buildid": "15404622",
+      "timeupdated": "1723891527",
+      "timebuildupdated": "1723891527"
+    }
+  },
+  "depot": {
+    "2278921": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7489458292848945200",
+          "size": "3995722473",
+          "download": "1421954784"
+        }
+      }
+    },
+    "2278922": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8321671504158176154",
+          "size": "4620866914",
+          "download": "1631250768"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15404622",
+        "timeupdated": "1723891527",
+        "timebuildupdated": "1723891527"
+      }
+    }
+  }
+}

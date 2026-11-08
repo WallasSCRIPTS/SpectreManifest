@@ -1,0 +1,79 @@
+{
+  "name": "Calling Home",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:23:20.027Z",
+  "branches": {
+    "public": {
+      "buildid": "15549431",
+      "timeupdated": "1725052838",
+      "timebuildupdated": "1725052813"
+    },
+    "animalupdate-v0.2.x": {
+      "buildid": "13681230",
+      "description": "Update that introduced creatures",
+      "timeupdated": "1715955117",
+      "timebuildupdated": "1709902677"
+    },
+    "survivalupdate-v0.3.x": {
+      "buildid": "14562762",
+      "description": "Update that introduced hazards",
+      "timeupdated": "1724069080",
+      "timebuildupdated": "1717169098"
+    }
+  },
+  "depot": {
+    "2367881": {
+      "manifests": {
+        "public": {
+          "gid": "1063133812431315695",
+          "size": "1171303458",
+          "download": "137510864"
+        }
+      }
+    },
+    "2367882": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1866610836315155363",
+          "size": "1171303458",
+          "download": "137510864"
+        }
+      }
+    },
+    "2367883": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "661043969717416135",
+          "size": "1171303458",
+          "download": "137505904"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15549431",
+        "timeupdated": "1725052838",
+        "timebuildupdated": "1725052813"
+      },
+      "animalupdate-v0.2.x": {
+        "buildid": "13681230",
+        "description": "Update that introduced creatures",
+        "timeupdated": "1715955117",
+        "timebuildupdated": "1709902677"
+      },
+      "survivalupdate-v0.3.x": {
+        "buildid": "14562762",
+        "description": "Update that introduced hazards",
+        "timeupdated": "1724069080",
+        "timebuildupdated": "1717169098"
+      }
+    }
+  }
+}

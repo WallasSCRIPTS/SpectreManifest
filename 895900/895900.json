@@ -1,0 +1,88 @@
+{
+  "name": "The Chaotic Workshop",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:01:31.275Z",
+  "branches": {
+    "public": {
+      "buildid": "11092420",
+      "timeupdated": "1682488942",
+      "timebuildupdated": "1682488892"
+    },
+    "beta": {
+      "buildid": "15854530",
+      "description": "Upcoming and Testing Features.",
+      "timeupdated": "1727462885",
+      "timebuildupdated": "1727462885"
+    },
+    "experimental": {
+      "buildid": "17472167",
+      "description": "cutting edge stream",
+      "timeupdated": "1740297897",
+      "timebuildupdated": "1740297897"
+    }
+  },
+  "depot": {
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "895901": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "290261623028827355",
+          "size": "265210453",
+          "download": "78215616"
+        }
+      }
+    },
+    "895902": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4501846305871549332",
+          "size": "440027071",
+          "download": "78459168"
+        }
+      }
+    },
+    "895903": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4087658496965559706",
+          "size": "266216644",
+          "download": "77747152"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11092420",
+        "timeupdated": "1682488942",
+        "timebuildupdated": "1682488892"
+      },
+      "beta": {
+        "buildid": "15854530",
+        "description": "Upcoming and Testing Features.",
+        "timeupdated": "1727462885",
+        "timebuildupdated": "1727462885"
+      },
+      "experimental": {
+        "buildid": "17472167",
+        "description": "cutting edge stream",
+        "timeupdated": "1740297897",
+        "timebuildupdated": "1740297897"
+      }
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Retrocycles",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-06T21:04:19.481Z",
+  "branches": {
+    "public": {
+      "buildid": "25809625",
+      "timeupdated": "1791487522",
+      "timebuildupdated": "1791478615"
+    },
+    "alpha": {
+      "buildid": "26136739",
+      "description": "Builds directly from current development",
+      "timeupdated": "1792681426",
+      "timebuildupdated": "1792681426"
+    },
+    "beta": {
+      "buildid": "25799499",
+      "description": "Builds on the way to release",
+      "timeupdated": "1791450113",
+      "timebuildupdated": "1791450113"
+    },
+    "experimental": {
+      "buildid": "25970877",
+      "description": "Builds too strange for alpha",
+      "timeupdated": "1792098897",
+      "timebuildupdated": "1792098897"
+    },
+    "staging": {
+      "buildid": "25809625",
+      "description": "Builds about to be released",
+      "timeupdated": "1791478615",
+      "timebuildupdated": "1791478615"
+    }
+  },
+  "depot": {
+    "1306181": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1609565447602589122",
+          "size": "10785172",
+          "download": "4299392"
+        }
+      }
+    },
+    "1306182": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2814063198336157115",
+          "size": "8242879",
+          "download": "2786784"
+        }
+      }
+    },
+    "1306183": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5196475204142025326",
+          "size": "9389474",
+          "download": "3610416"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25809625",
+        "timeupdated": "1791487522",
+        "timebuildupdated": "1791478615"
+      },
+      "alpha": {
+        "buildid": "26136739",
+        "description": "Builds directly from current development",
+        "timeupdated": "1792681426",
+        "timebuildupdated": "1792681426"
+      },
+      "beta": {
+        "buildid": "25799499",
+        "description": "Builds on the way to release",
+        "timeupdated": "1791450113",
+        "timebuildupdated": "1791450113"
+      },
+      "experimental": {
+        "buildid": "25970877",
+        "description": "Builds too strange for alpha",
+        "timeupdated": "1792098897",
+        "timebuildupdated": "1792098897"
+      },
+      "staging": {
+        "buildid": "25809625",
+        "description": "Builds about to be released",
+        "timeupdated": "1791478615",
+        "timebuildupdated": "1791478615"
+      }
+    }
+  }
+}

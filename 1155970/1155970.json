@@ -1,0 +1,70 @@
+{
+  "name": "Roadwarden",
+  "source": "spectre",
+  "changenumber": 39954006,
+  "updated": "2026-11-07T21:03:48.551Z",
+  "branches": {
+    "public": {
+      "buildid": "15638588",
+      "timeupdated": "1726145852",
+      "timebuildupdated": "1725886917"
+    },
+    "public-pv": {
+      "buildid": "10892761",
+      "description": "Public branch previous version",
+      "timeupdated": "1694445333",
+      "timebuildupdated": "1680181384"
+    }
+  },
+  "depot": {
+    "1155971": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4706951742331366950",
+          "size": "894362447",
+          "download": "811112304"
+        }
+      }
+    },
+    "1155972": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8850619671669546234",
+          "size": "849675510",
+          "download": "797659376"
+        }
+      }
+    },
+    "1155973": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8567919545954821771",
+          "size": "877056610",
+          "download": "805277744"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15638588",
+        "timeupdated": "1726145852",
+        "timebuildupdated": "1725886917"
+      },
+      "public-pv": {
+        "buildid": "10892761",
+        "description": "Public branch previous version",
+        "timeupdated": "1694445333",
+        "timebuildupdated": "1680181384"
+      }
+    }
+  }
+}

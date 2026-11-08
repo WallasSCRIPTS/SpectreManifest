@@ -1,0 +1,83 @@
+{
+  "name": "Bloody Rally Show: Prologue",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-06T21:05:14.845Z",
+  "branches": {
+    "public": {
+      "buildid": "20204511",
+      "timeupdated": "1759315903",
+      "timebuildupdated": "1759315137"
+    },
+    "previous": {
+      "buildid": "6048385",
+      "description": "Older version, if latest one has problems",
+      "timeupdated": "1681234256",
+      "timebuildupdated": "1609992353"
+    }
+  },
+  "depot": {
+    "1435091": {},
+    "1435092": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "30450134347646948",
+          "size": "228985745",
+          "download": "133932928"
+        }
+      }
+    },
+    "1435093": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7175471938412610540",
+          "size": "222880648",
+          "download": "132179376"
+        }
+      }
+    },
+    "1435094": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2115128865957196803",
+          "size": "268421799",
+          "download": "133043280"
+        }
+      }
+    },
+    "1435095": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "891462073506475524",
+          "size": "257080993",
+          "download": "140628160"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20204511",
+        "timeupdated": "1759315903",
+        "timebuildupdated": "1759315137"
+      },
+      "previous": {
+        "buildid": "6048385",
+        "description": "Older version, if latest one has problems",
+        "timeupdated": "1681234256",
+        "timebuildupdated": "1609992353"
+      }
+    }
+  }
+}

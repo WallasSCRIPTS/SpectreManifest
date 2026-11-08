@@ -1,0 +1,68 @@
+{
+  "name": "Bullseye",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T21:00:06.349Z",
+  "branches": {
+    "public": {
+      "buildid": "2302412",
+      "timeupdated": "1511226240",
+      "timebuildupdated": "1511225174"
+    },
+    "beta": {
+      "buildid": "2302412",
+      "timeupdated": "1511225224",
+      "timebuildupdated": "1511225174"
+    }
+  },
+  "depot": {
+    "719281": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7060648053628713216",
+          "size": "195502417",
+          "download": "100219280"
+        }
+      }
+    },
+    "719282": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7015624899239511941",
+          "size": "148475688",
+          "download": "87775616"
+        }
+      }
+    },
+    "719283": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3820360616707456071",
+          "size": "143128872",
+          "download": "86146864"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2302412",
+        "timeupdated": "1511226240",
+        "timebuildupdated": "1511225174"
+      },
+      "beta": {
+        "buildid": "2302412",
+        "timeupdated": "1511225224",
+        "timebuildupdated": "1511225174"
+      }
+    }
+  }
+}

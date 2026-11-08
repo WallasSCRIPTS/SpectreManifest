@@ -1,0 +1,94 @@
+{
+  "name": "GeneWars",
+  "source": "spectre",
+  "changenumber": 34884131,
+  "updated": "2026-11-06T23:17:31.042Z",
+  "branches": {
+    "public": {
+      "buildid": "12868931",
+      "timeupdated": "1701693871",
+      "timebuildupdated": "1701693308"
+    },
+    "next_version": {
+      "buildid": "12868931",
+      "description": "debug for next",
+      "timeupdated": "1701693322",
+      "timebuildupdated": "1701693308"
+    },
+    "gpu_test": {
+      "buildid": "12868931",
+      "description": "gpu",
+      "timeupdated": "1718726549",
+      "timebuildupdated": "1701693308"
+    }
+  },
+  "depot": {
+    "2093981": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1842027171886740571",
+          "size": "653318110",
+          "download": "386324032"
+        }
+      }
+    },
+    "2093982": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8837348614246394402",
+          "size": "622560134",
+          "download": "386039120"
+        }
+      }
+    },
+    "2093983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6272234113393662554",
+          "size": "620433822",
+          "download": "380979232"
+        }
+      }
+    },
+    "2093984": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9075586802908223847",
+          "size": "750391140",
+          "download": "394205648"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12868931",
+        "timeupdated": "1701693871",
+        "timebuildupdated": "1701693308"
+      },
+      "next_version": {
+        "buildid": "12868931",
+        "description": "debug for next",
+        "timeupdated": "1701693322",
+        "timebuildupdated": "1701693308"
+      },
+      "gpu_test": {
+        "buildid": "12868931",
+        "description": "gpu",
+        "timeupdated": "1718726549",
+        "timebuildupdated": "1701693308"
+      }
+    }
+  }
+}

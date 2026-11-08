@@ -1,0 +1,68 @@
+{
+  "name": "Deep Blue",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:11.082Z",
+  "branches": {
+    "public": {
+      "buildid": "4365644",
+      "timeupdated": "1573644866",
+      "timebuildupdated": "1573125553"
+    },
+    "betatesting": {
+      "buildid": "2204600",
+      "timeupdated": "1508226607",
+      "timebuildupdated": "1508226297"
+    }
+  },
+  "depot": {
+    "484831": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5507675621260520925",
+          "size": "551503250",
+          "download": "148280848"
+        }
+      }
+    },
+    "484832": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6012495783915283079",
+          "size": "578699336",
+          "download": "157889744"
+        }
+      }
+    },
+    "484833": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5710143479908216590",
+          "size": "580738509",
+          "download": "159613088"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4365644",
+        "timeupdated": "1573644866",
+        "timebuildupdated": "1573125553"
+      },
+      "betatesting": {
+        "buildid": "2204600",
+        "timeupdated": "1508226607",
+        "timebuildupdated": "1508226297"
+      }
+    }
+  }
+}

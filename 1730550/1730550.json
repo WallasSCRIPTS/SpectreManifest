@@ -1,0 +1,70 @@
+{
+  "name": "Panta Rhei",
+  "source": "spectre",
+  "changenumber": 39991443,
+  "updated": "2026-11-06T23:09:40.059Z",
+  "branches": {
+    "public": {
+      "buildid": "20944789",
+      "timeupdated": "1764132397",
+      "timebuildupdated": "1764131997"
+    },
+    "experimental": {
+      "buildid": "20929615",
+      "description": "experimental automated build for all platforms",
+      "timeupdated": "1764049151",
+      "timebuildupdated": "1764048238"
+    }
+  },
+  "depot": {
+    "1730551": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4629167689455792761",
+          "size": "3021777774",
+          "download": "1624774960"
+        }
+      }
+    },
+    "1730557": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1118227817087887373",
+          "size": "3118721168",
+          "download": "1654749136"
+        }
+      }
+    },
+    "1730558": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4590048359565393289",
+          "size": "3013515229",
+          "download": "1610437488"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20944789",
+        "timeupdated": "1764132397",
+        "timebuildupdated": "1764131997"
+      },
+      "experimental": {
+        "buildid": "20929615",
+        "description": "experimental automated build for all platforms",
+        "timeupdated": "1764049151",
+        "timebuildupdated": "1764048238"
+      }
+    }
+  }
+}

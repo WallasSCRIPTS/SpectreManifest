@@ -1,0 +1,55 @@
+{
+  "name": "BLACKSHARD",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:07:33.767Z",
+  "branches": {
+    "public": {
+      "buildid": "21022840",
+      "timeupdated": "1764685016",
+      "timebuildupdated": "1764684975"
+    },
+    "beta": {
+      "buildid": "21000307",
+      "description": "Testing before public",
+      "timeupdated": "1764550749",
+      "timebuildupdated": "1764550665"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "3223391": {
+      "manifests": {
+        "public": {
+          "gid": "3979545098292045233",
+          "size": "14078081141",
+          "download": "13581648880"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21022840",
+        "timeupdated": "1764685016",
+        "timebuildupdated": "1764684975"
+      },
+      "beta": {
+        "buildid": "21000307",
+        "description": "Testing before public",
+        "timeupdated": "1764550749",
+        "timebuildupdated": "1764550665"
+      }
+    }
+  }
+}

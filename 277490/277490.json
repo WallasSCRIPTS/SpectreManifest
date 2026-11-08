@@ -1,0 +1,81 @@
+{
+  "name": "Battle Group 2",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:20.733Z",
+  "branches": {
+    "public": {
+      "buildid": "3538963",
+      "timeupdated": "1549515614",
+      "timebuildupdated": "1549512637"
+    },
+    "beta": {
+      "buildid": "3640927",
+      "description": "beta testing branch",
+      "timeupdated": "1552469047",
+      "timebuildupdated": "1552469047"
+    }
+  },
+  "depot": {
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "277491": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6379420802130164367",
+          "size": "391066948",
+          "download": "0"
+        }
+      }
+    },
+    "277492": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6186875222446165749",
+          "size": "175412711",
+          "download": "43905408"
+        }
+      }
+    },
+    "277493": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3846794791633264446",
+          "size": "415414406",
+          "download": "0"
+        }
+      }
+    },
+    "277494": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3538963",
+        "timeupdated": "1549515614",
+        "timebuildupdated": "1549512637"
+      },
+      "beta": {
+        "buildid": "3640927",
+        "description": "beta testing branch",
+        "timeupdated": "1552469047",
+        "timebuildupdated": "1552469047"
+      }
+    }
+  }
+}

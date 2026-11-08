@@ -1,0 +1,82 @@
+{
+  "name": "Twin Edge",
+  "source": "spectre",
+  "changenumber": 34877947,
+  "updated": "2026-11-06T23:13:34.344Z",
+  "branches": {
+    "public": {
+      "buildid": "19032829",
+      "timeupdated": "1751066149",
+      "timebuildupdated": "1751066106"
+    },
+    "beta": {
+      "buildid": "19032829",
+      "description": "Used for testing stuff",
+      "timeupdated": "1751066167",
+      "timebuildupdated": "1751066106"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1926441": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2725926529966220973",
+          "size": "328551308",
+          "download": "195503168"
+        }
+      }
+    },
+    "1926442": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8943545489818831655",
+          "size": "348478829",
+          "download": "201910912"
+        }
+      }
+    },
+    "1926443": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3940735229098297409",
+          "size": "380742395",
+          "download": "200695456"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19032829",
+        "timeupdated": "1751066149",
+        "timebuildupdated": "1751066106"
+      },
+      "beta": {
+        "buildid": "19032829",
+        "description": "Used for testing stuff",
+        "timeupdated": "1751066167",
+        "timebuildupdated": "1751066106"
+      }
+    }
+  }
+}

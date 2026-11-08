@@ -1,0 +1,58 @@
+{
+  "name": "Anomaly Agent",
+  "source": "spectre",
+  "changenumber": 39764142,
+  "updated": "2026-11-06T23:23:21.428Z",
+  "branches": {
+    "public": {
+      "buildid": "15689795",
+      "timeupdated": "1726225562",
+      "timebuildupdated": "1726225562"
+    }
+  },
+  "depot": {
+    "2378621": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1605639499054239244",
+          "size": "423160425",
+          "download": "272461232"
+        }
+      }
+    },
+    "2378622": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3345057993987601863",
+          "size": "448093836",
+          "download": "281928112"
+        }
+      }
+    },
+    "2378623": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5460276286608717267",
+          "size": "438857927",
+          "download": "258725328"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15689795",
+        "timeupdated": "1726225562",
+        "timebuildupdated": "1726225562"
+      }
+    }
+  }
+}

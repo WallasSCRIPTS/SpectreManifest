@@ -1,0 +1,64 @@
+{
+  "name": "Baldur's Gate: Dark Alliance",
+  "source": "spectre",
+  "changenumber": 40348306,
+  "updated": "2026-11-06T23:07:50.553Z",
+  "branches": {
+    "public": {
+      "buildid": "7953766",
+      "timeupdated": "1640853530",
+      "timebuildupdated": "1640853530"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1695831": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "416485436300961382",
+          "size": "4147326172",
+          "download": "2466220416"
+        }
+      }
+    },
+    "1695832": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7209713130131730277",
+          "size": "4157904164",
+          "download": "2470861280"
+        }
+      }
+    },
+    "1695833": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5546799118317339112",
+          "size": "4149407881",
+          "download": "2469515824"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7953766",
+        "timeupdated": "1640853530",
+        "timebuildupdated": "1640853530"
+      }
+    }
+  }
+}

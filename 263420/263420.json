@@ -1,0 +1,68 @@
+{
+  "name": "Probably Archery",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:16.310Z",
+  "branches": {
+    "public": {
+      "buildid": "686972",
+      "timebuildupdated": "1436317628"
+    },
+    "local": {
+      "buildid": "686958",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1436316587"
+    }
+  },
+  "depot": {
+    "263421": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4071265477160681497",
+          "size": "752469478",
+          "download": "221508320"
+        }
+      }
+    },
+    "263422": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8562270411145017735",
+          "size": "758697596",
+          "download": "224295072"
+        }
+      }
+    },
+    "263423": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1728697814228350111",
+          "size": "734057177",
+          "download": "217748736"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "686972",
+        "timebuildupdated": "1436317628"
+      },
+      "local": {
+        "buildid": "686958",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1436316587"
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "name": "140",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:10.056Z",
+  "branches": {
+    "public": {
+      "buildid": "4183311",
+      "timeupdated": "1568627663",
+      "timebuildupdated": "1568128430"
+    },
+    "legacy": {
+      "buildid": "1914053",
+      "description": "2015 version",
+      "timeupdated": "1498300875",
+      "timebuildupdated": "1498300875"
+    },
+    "local": {
+      "buildid": "101278",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1376249336"
+    }
+  },
+  "depot": {
+    "242822": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7957190820807887385",
+          "size": "87429644",
+          "download": "51333920"
+        }
+      }
+    },
+    "242823": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7657556678256796626",
+          "size": "100216980",
+          "download": "55021168"
+        }
+      }
+    },
+    "242824": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7291867874929495131",
+          "size": "124871641",
+          "download": "64048800"
+        }
+      }
+    },
+    "662290": {
+      "manifests": {
+        "public": {
+          "gid": "2796270282193369964",
+          "size": "553282508",
+          "download": "558464624"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4183311",
+        "timeupdated": "1568627663",
+        "timebuildupdated": "1568128430"
+      },
+      "legacy": {
+        "buildid": "1914053",
+        "description": "2015 version",
+        "timeupdated": "1498300875",
+        "timebuildupdated": "1498300875"
+      },
+      "local": {
+        "buildid": "101278",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1376249336"
+      }
+    }
+  }
+}

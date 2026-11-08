@@ -1,0 +1,76 @@
+{
+  "name": "Silicon City",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:29.900Z",
+  "branches": {
+    "public": {
+      "buildid": "12378737",
+      "timeupdated": "1696685901",
+      "timebuildupdated": "1696627164"
+    },
+    "beta": {
+      "buildid": "12262005",
+      "description": "latest but not stable updates",
+      "timeupdated": "1695433520",
+      "timebuildupdated": "1695433520"
+    }
+  },
+  "depot": {
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1121201": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2361239804010522894",
+          "size": "1566907343",
+          "download": "368398432"
+        }
+      }
+    },
+    "1121202": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8863821212703172889",
+          "size": "1635055049",
+          "download": "387278272"
+        }
+      }
+    },
+    "1121203": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6764793207065529667",
+          "size": "1574755686",
+          "download": "370917792"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12378737",
+        "timeupdated": "1696685901",
+        "timebuildupdated": "1696627164"
+      },
+      "beta": {
+        "buildid": "12262005",
+        "description": "latest but not stable updates",
+        "timeupdated": "1695433520",
+        "timebuildupdated": "1695433520"
+      }
+    }
+  }
+}

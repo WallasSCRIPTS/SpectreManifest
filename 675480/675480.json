@@ -1,0 +1,88 @@
+{
+  "name": "Witch Thief",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:43.124Z",
+  "branches": {
+    "public": {
+      "buildid": "3500597",
+      "timeupdated": "1548393578",
+      "timebuildupdated": "1548393084"
+    },
+    "beta": {
+      "buildid": "3500597",
+      "description": "Public test builds",
+      "timeupdated": "1548393084",
+      "timebuildupdated": "1548393084"
+    },
+    "nightly": {
+      "buildid": "3500525",
+      "description": "Unstable, automatic builds",
+      "timeupdated": "1548391355",
+      "timebuildupdated": "1548391167"
+    }
+  },
+  "depot": {
+    "229005": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "675481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3870572154105620389",
+          "size": "1575352919",
+          "download": "475718960"
+        }
+      }
+    },
+    "675482": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2698012546724880270",
+          "size": "1435816355",
+          "download": "459019216"
+        }
+      }
+    },
+    "675483": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8555275435041044978",
+          "size": "1443408006",
+          "download": "464637824"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3500597",
+        "timeupdated": "1548393578",
+        "timebuildupdated": "1548393084"
+      },
+      "beta": {
+        "buildid": "3500597",
+        "description": "Public test builds",
+        "timeupdated": "1548393084",
+        "timebuildupdated": "1548393084"
+      },
+      "nightly": {
+        "buildid": "3500525",
+        "description": "Unstable, automatic builds",
+        "timeupdated": "1548391355",
+        "timebuildupdated": "1548391167"
+      }
+    }
+  }
+}

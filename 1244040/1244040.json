@@ -1,0 +1,94 @@
+{
+  "name": "Crocotile 3D",
+  "source": "spectre",
+  "changenumber": 40613984,
+  "updated": "2026-11-06T21:03:51.537Z",
+  "branches": {
+    "public": {
+      "buildid": "25713533",
+      "timeupdated": "1791138075",
+      "timebuildupdated": "1791138075"
+    },
+    "linuxold": {
+      "buildid": "25713329",
+      "description": "support for older linux",
+      "timeupdated": "1791137155",
+      "timebuildupdated": "1791137155"
+    },
+    "windows7": {
+      "buildid": "25713288",
+      "description": "windows 7",
+      "timeupdated": "1791136960",
+      "timebuildupdated": "1791136960"
+    }
+  },
+  "depot": {
+    "1244041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7242251247772912909",
+          "size": "443772813",
+          "download": "160038096"
+        }
+      }
+    },
+    "1244042": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5257500009736898781",
+          "size": "578845725",
+          "download": "175097824"
+        }
+      }
+    },
+    "1244043": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5076983619146560773",
+          "size": "423014260",
+          "download": "158816608"
+        }
+      }
+    },
+    "1244044": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5470099941112758655",
+          "size": "490804759",
+          "download": "170336400"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25713533",
+        "timeupdated": "1791138075",
+        "timebuildupdated": "1791138075"
+      },
+      "linuxold": {
+        "buildid": "25713329",
+        "description": "support for older linux",
+        "timeupdated": "1791137155",
+        "timebuildupdated": "1791137155"
+      },
+      "windows7": {
+        "buildid": "25713288",
+        "description": "windows 7",
+        "timeupdated": "1791136960",
+        "timebuildupdated": "1791136960"
+      }
+    }
+  }
+}

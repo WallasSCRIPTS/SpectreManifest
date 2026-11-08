@@ -1,0 +1,86 @@
+{
+  "name": "Streets of Rage 4",
+  "source": "spectre",
+  "changenumber": 39780584,
+  "updated": "2026-11-07T21:02:14.802Z",
+  "branches": {
+    "public": {
+      "buildid": "10813006",
+      "timeupdated": "1679407260",
+      "timebuildupdated": "1679333737"
+    },
+    "backup": {
+      "buildid": "5116965",
+      "timeupdated": "1595004017",
+      "timebuildupdated": "1591216144"
+    },
+    "sdl3": {
+      "buildid": "25516565",
+      "description": " for sdl3 linux builds",
+      "timeupdated": "1790290678",
+      "timebuildupdated": "1790290678"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "985891": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3273645082641574196",
+          "size": "6548041619",
+          "download": "6218883600"
+        }
+      }
+    },
+    "985892": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3854442273198102502",
+          "size": "6559153521",
+          "download": "6223411248"
+        }
+      }
+    },
+    "985893": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7379902906825171084",
+          "size": "6568740619",
+          "download": "6225916384"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10813006",
+        "timeupdated": "1679407260",
+        "timebuildupdated": "1679333737"
+      },
+      "backup": {
+        "buildid": "5116965",
+        "timeupdated": "1595004017",
+        "timebuildupdated": "1591216144"
+      },
+      "sdl3": {
+        "buildid": "25516565",
+        "description": " for sdl3 linux builds",
+        "timeupdated": "1790290678",
+        "timebuildupdated": "1790290678"
+      }
+    }
+  }
+}

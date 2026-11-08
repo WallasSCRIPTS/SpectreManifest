@@ -1,0 +1,99 @@
+{
+  "name": "Blockshock",
+  "source": "spectre",
+  "changenumber": 39676921,
+  "updated": "2026-11-07T21:00:40.224Z",
+  "branches": {
+    "public": {
+      "buildid": "25474435",
+      "timeupdated": "1790140830",
+      "timebuildupdated": "1790140232"
+    },
+    "legacy-2018": {
+      "buildid": "2533126",
+      "description": "Original 2018 release",
+      "timeupdated": "1518812432",
+      "timebuildupdated": "1518812432"
+    },
+    "rebuild-testing": {
+      "buildid": "25474435",
+      "description": "Blockshock rebuild preview - Windows",
+      "timeupdated": "1790140302",
+      "timebuildupdated": "1790140232"
+    }
+  },
+  "depot": {
+    "783221": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2805599155234713309",
+          "size": "124",
+          "download": "160"
+        }
+      }
+    },
+    "783223": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "783224": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5611158342009361313",
+          "size": "145318566",
+          "download": "70662848"
+        }
+      }
+    },
+    "783225": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "644384347697475955",
+          "size": "229406477",
+          "download": "94093824"
+        }
+      }
+    },
+    "783226": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5136007400142907404",
+          "size": "112463694",
+          "download": "62599328"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25474435",
+        "timeupdated": "1790140830",
+        "timebuildupdated": "1790140232"
+      },
+      "legacy-2018": {
+        "buildid": "2533126",
+        "description": "Original 2018 release",
+        "timeupdated": "1518812432",
+        "timebuildupdated": "1518812432"
+      },
+      "rebuild-testing": {
+        "buildid": "25474435",
+        "description": "Blockshock rebuild preview - Windows",
+        "timeupdated": "1790140302",
+        "timebuildupdated": "1790140232"
+      }
+    }
+  }
+}

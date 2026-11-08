@@ -1,0 +1,92 @@
+{
+  "name": "FORTIFY",
+  "source": "spectre",
+  "changenumber": 38193398,
+  "updated": "2026-11-07T20:58:21.915Z",
+  "branches": {
+    "public": {
+      "buildid": "24845064",
+      "timeupdated": "1787245169",
+      "timebuildupdated": "1787245060"
+    },
+    "testing": {
+      "buildid": "24845064",
+      "timeupdated": "1787245169",
+      "timebuildupdated": "1787245060"
+    },
+    "update134": {
+      "buildid": "17641950",
+      "description": "legacy version, macOS 10.12-3",
+      "timeupdated": "1743618099",
+      "timebuildupdated": "1741387280"
+    },
+    "update138_old_ui": {
+      "buildid": "21499425",
+      "description": "UI before 139 change",
+      "timeupdated": "1768419640",
+      "timebuildupdated": "1768419543"
+    }
+  },
+  "depot": {
+    "505041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9168162288720890826",
+          "size": "122011709",
+          "download": "36516992"
+        }
+      }
+    },
+    "505042": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3644447867142489671",
+          "size": "125781054",
+          "download": "37772464"
+        }
+      }
+    },
+    "505043": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2790124416963200739",
+          "size": "141686832",
+          "download": "44480240"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24845064",
+        "timeupdated": "1787245169",
+        "timebuildupdated": "1787245060"
+      },
+      "testing": {
+        "buildid": "24845064",
+        "timeupdated": "1787245169",
+        "timebuildupdated": "1787245060"
+      },
+      "update134": {
+        "buildid": "17641950",
+        "description": "legacy version, macOS 10.12-3",
+        "timeupdated": "1743618099",
+        "timebuildupdated": "1741387280"
+      },
+      "update138_old_ui": {
+        "buildid": "21499425",
+        "description": "UI before 139 change",
+        "timeupdated": "1768419640",
+        "timebuildupdated": "1768419543"
+      }
+    }
+  }
+}

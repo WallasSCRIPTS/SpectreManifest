@@ -1,0 +1,74 @@
+{
+  "name": "Jump Gunners",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:54.227Z",
+  "branches": {
+    "public": {
+      "buildid": "2929665",
+      "timeupdated": "1531124152",
+      "timebuildupdated": "1531124086"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "697661": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2939093831668888563",
+          "size": "446786573",
+          "download": "116829552"
+        }
+      }
+    },
+    "697662": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4704215298779493851",
+          "size": "461927789",
+          "download": "120566064"
+        }
+      }
+    },
+    "697663": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8982143681446836689",
+          "size": "462623843",
+          "download": "122651792"
+        }
+      }
+    },
+    "775210": {
+      "manifests": {
+        "public": {
+          "gid": "2078455367761003545",
+          "size": "52272678",
+          "download": "40413888"
+        }
+      },
+      "dlcappid": "775210"
+    },
+    "branches": {
+      "public": {
+        "buildid": "2929665",
+        "timeupdated": "1531124152",
+        "timebuildupdated": "1531124086"
+      }
+    }
+  }
+}

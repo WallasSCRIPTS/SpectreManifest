@@ -1,0 +1,71 @@
+{
+  "name": "Grapple Hoops",
+  "source": "spectre",
+  "changenumber": 39915759,
+  "updated": "2026-11-06T21:06:02.256Z",
+  "branches": {
+    "public": {
+      "buildid": "9180910",
+      "timeupdated": "1658688182",
+      "timebuildupdated": "1658688182"
+    },
+    "beta": {
+      "buildid": "7901202",
+      "description": "beta testing",
+      "timeupdated": "1639737774",
+      "timebuildupdated": "1639737774"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1545601": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8445722776103917764",
+          "size": "6161468693",
+          "download": "6004355904"
+        }
+      }
+    },
+    "1545602": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7028635114640495671",
+          "size": "271306794",
+          "download": "271224816"
+        }
+      },
+      "dlcappid": "1742090"
+    },
+    "branches": {
+      "public": {
+        "buildid": "9180910",
+        "timeupdated": "1658688182",
+        "timebuildupdated": "1658688182"
+      },
+      "beta": {
+        "buildid": "7901202",
+        "description": "beta testing",
+        "timeupdated": "1639737774",
+        "timebuildupdated": "1639737774"
+      }
+    }
+  }
+}

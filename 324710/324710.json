@@ -1,0 +1,70 @@
+{
+  "name": "To Be or Not To Be",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:41.717Z",
+  "branches": {
+    "public": {
+      "buildid": "520429",
+      "timebuildupdated": "1423534633"
+    },
+    "beta": {
+      "buildid": "538042",
+      "timebuildupdated": "1424931118"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "324711": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7369837047235862182",
+          "size": "1356869158",
+          "download": "741818944"
+        }
+      }
+    },
+    "324712": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9068994574519125471",
+          "size": "1336104189",
+          "download": "708747744"
+        }
+      }
+    },
+    "324713": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7774348502450849194",
+          "size": "1326418185",
+          "download": "706537840"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "520429",
+        "timebuildupdated": "1423534633"
+      },
+      "beta": {
+        "buildid": "538042",
+        "timebuildupdated": "1424931118"
+      }
+    }
+  }
+}

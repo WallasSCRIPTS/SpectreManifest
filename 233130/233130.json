@@ -1,0 +1,118 @@
+{
+  "name": "Shadow Warrior",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:07.889Z",
+  "branches": {
+    "public": {
+      "buildid": "660323",
+      "timebuildupdated": "1434385889"
+    },
+    "local": {
+      "buildid": "246581",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1398701420"
+    }
+  },
+  "depot": {
+    "228982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "233131": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7524503039981382511",
+          "size": "14090854078",
+          "download": "13395544752"
+        }
+      }
+    },
+    "233132": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6445195049350112249",
+          "size": "76445632",
+          "download": "74863392"
+        }
+      }
+    },
+    "254673": {
+      "manifests": {
+        "public": {
+          "gid": "6941547528264440065",
+          "size": "473086301",
+          "download": "454547648"
+        }
+      },
+      "dlcappid": "254673"
+    },
+    "254674": {
+      "manifests": {
+        "public": {
+          "gid": "193857510522357753",
+          "size": "82995780",
+          "download": "82582080"
+        }
+      },
+      "dlcappid": "254674"
+    },
+    "254675": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1019797616527443974",
+          "size": "6464169430",
+          "download": "6096609472"
+        }
+      }
+    },
+    "254676": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8136379092540298181",
+          "size": "6463153496",
+          "download": "6095542544"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "660323",
+        "timebuildupdated": "1434385889"
+      },
+      "local": {
+        "buildid": "246581",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1398701420"
+      }
+    }
+  }
+}

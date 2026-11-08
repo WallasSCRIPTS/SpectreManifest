@@ -1,0 +1,76 @@
+{
+  "name": "MewnBase",
+  "source": "spectre",
+  "changenumber": 37437721,
+  "updated": "2026-11-07T21:00:19.726Z",
+  "branches": {
+    "public": {
+      "buildid": "20723532",
+      "timeupdated": "1762625129",
+      "timebuildupdated": "1762624461"
+    },
+    "1.0-rc": {
+      "buildid": "12578946",
+      "description": "v1.0 Release Candidate!",
+      "timeupdated": "1698729639",
+      "timebuildupdated": "1698729639"
+    },
+    "testing": {
+      "buildid": "20723532",
+      "description": "For testing out upcoming versions of MewnBase. Will have more bugs.",
+      "timeupdated": "1762624462",
+      "timebuildupdated": "1762624461"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "743131": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6624437036803906542",
+          "size": "105608988",
+          "download": "82732432"
+        }
+      }
+    },
+    "743132": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7070633315444463315",
+          "size": "114273220",
+          "download": "84948096"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20723532",
+        "timeupdated": "1762625129",
+        "timebuildupdated": "1762624461"
+      },
+      "1.0-rc": {
+        "buildid": "12578946",
+        "description": "v1.0 Release Candidate!",
+        "timeupdated": "1698729639",
+        "timebuildupdated": "1698729639"
+      },
+      "testing": {
+        "buildid": "20723532",
+        "description": "For testing out upcoming versions of MewnBase. Will have more bugs.",
+        "timeupdated": "1762624462",
+        "timebuildupdated": "1762624461"
+      }
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Rejoinder",
+  "source": "spectre",
+  "changenumber": 37452352,
+  "updated": "2026-11-06T23:11:35.440Z",
+  "branches": {
+    "public": {
+      "buildid": "8425382",
+      "timeupdated": "1648056134",
+      "timebuildupdated": "1648056049"
+    },
+    "test": {
+      "buildid": "8425382",
+      "description": "Public test branch",
+      "timeupdated": "1648056049",
+      "timebuildupdated": "1648056049"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1824071": {
+      "manifests": {
+        "public": {
+          "gid": "2837497890795183897",
+          "size": "7",
+          "download": "64"
+        }
+      }
+    },
+    "1824072": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "276867745255789038",
+          "size": "348861055",
+          "download": "122968672"
+        }
+      }
+    },
+    "1824073": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "362702589867906226",
+          "size": "344173334",
+          "download": "122350368"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8425382",
+        "timeupdated": "1648056134",
+        "timebuildupdated": "1648056049"
+      },
+      "test": {
+        "buildid": "8425382",
+        "description": "Public test branch",
+        "timeupdated": "1648056049",
+        "timebuildupdated": "1648056049"
+      }
+    }
+  }
+}

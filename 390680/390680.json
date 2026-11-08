@@ -1,0 +1,74 @@
+{
+  "name": "Spacejacked",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:28.164Z",
+  "branches": {
+    "public": {
+      "buildid": "4267032",
+      "timeupdated": "1570614860",
+      "timebuildupdated": "1570530408"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "390681": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3009964746946418340",
+          "size": "46269302",
+          "download": "23187024"
+        }
+      }
+    },
+    "390682": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4434554836509921156",
+          "size": "50501002",
+          "download": "24016352"
+        }
+      }
+    },
+    "390683": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8160351207127129756",
+          "size": "54969384",
+          "download": "24943184"
+        }
+      }
+    },
+    "461060": {
+      "manifests": {
+        "public": {
+          "gid": "2985736364870141316",
+          "size": "96418846",
+          "download": "94978240"
+        }
+      },
+      "dlcappid": "461060"
+    },
+    "branches": {
+      "public": {
+        "buildid": "4267032",
+        "timeupdated": "1570614860",
+        "timebuildupdated": "1570530408"
+      }
+    }
+  }
+}

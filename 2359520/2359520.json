@@ -1,0 +1,76 @@
+{
+  "name": "Crop Rotation Demo",
+  "source": "spectre",
+  "changenumber": 34897440,
+  "updated": "2026-11-06T23:23:19.005Z",
+  "branches": {
+    "public": {
+      "buildid": "15057443",
+      "timeupdated": "1721189743",
+      "timebuildupdated": "1721189620"
+    },
+    "nextfest": {
+      "buildid": "11495966",
+      "description": "Old version during Nextfest June 2023",
+      "timeupdated": "1692586242",
+      "timebuildupdated": "1687010734"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2359522": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7155316725077155142",
+          "size": "105201905",
+          "download": "87700912"
+        }
+      }
+    },
+    "2359523": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4392534335591396497",
+          "size": "94140872",
+          "download": "85623856"
+        }
+      }
+    },
+    "2359524": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7298796324298289343",
+          "size": "93574500",
+          "download": "85555136"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15057443",
+        "timeupdated": "1721189743",
+        "timebuildupdated": "1721189620"
+      },
+      "nextfest": {
+        "buildid": "11495966",
+        "description": "Old version during Nextfest June 2023",
+        "timeupdated": "1692586242",
+        "timebuildupdated": "1687010734"
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Tank Brawl",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:50.756Z",
+  "branches": {
+    "public": {
+      "buildid": "1187848",
+      "timeupdated": "1466334622",
+      "timebuildupdated": "1466334622"
+    },
+    "beta": {
+      "buildid": "1187687",
+      "timeupdated": "1466313150",
+      "timebuildupdated": "1466313150"
+    },
+    "local": {
+      "buildid": "1053058",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1459527856",
+      "timebuildupdated": "1459527856"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "436871": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1414642928078423419",
+          "size": "514942918",
+          "download": "338808672"
+        }
+      }
+    },
+    "436872": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8148273872044575619",
+          "size": "402009117",
+          "download": "277232448"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1187848",
+        "timeupdated": "1466334622",
+        "timebuildupdated": "1466334622"
+      },
+      "beta": {
+        "buildid": "1187687",
+        "timeupdated": "1466313150",
+        "timebuildupdated": "1466313150"
+      },
+      "local": {
+        "buildid": "1053058",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1459527856",
+        "timebuildupdated": "1459527856"
+      }
+    }
+  }
+}

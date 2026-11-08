@@ -1,0 +1,70 @@
+{
+  "name": "Memento Infernum",
+  "source": "spectre",
+  "changenumber": 40622593,
+  "updated": "2026-11-06T21:06:19.488Z",
+  "branches": {
+    "public": {
+      "buildid": "6602295",
+      "timeupdated": "1619453874",
+      "timebuildupdated": "1619453069"
+    },
+    "beta": {
+      "buildid": "6602345",
+      "description": "Beta branch",
+      "timeupdated": "1619453720",
+      "timebuildupdated": "1619453720"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1581051": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2702034055410754222",
+          "size": "77374192",
+          "download": "38336800"
+        }
+      }
+    },
+    "1581052": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8422181972274021952",
+          "size": "101797707",
+          "download": "45116624"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6602295",
+        "timeupdated": "1619453874",
+        "timebuildupdated": "1619453069"
+      },
+      "beta": {
+        "buildid": "6602345",
+        "description": "Beta branch",
+        "timeupdated": "1619453720",
+        "timebuildupdated": "1619453720"
+      }
+    }
+  }
+}

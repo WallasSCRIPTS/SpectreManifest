@@ -1,0 +1,61 @@
+{
+  "name": "Raft",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:29.645Z",
+  "branches": {
+    "public": {
+      "buildid": "22312909",
+      "timeupdated": "1773328401",
+      "timebuildupdated": "1773319839"
+    },
+    "1.09_precrossplayupdate": {
+      "buildid": "10199006",
+      "description": "Stable version before updating the game to support crossplay",
+      "timeupdated": "1773136985",
+      "timebuildupdated": "1671706495"
+    },
+    "beta": {
+      "buildid": "22312909",
+      "description": "beta",
+      "timeupdated": "1773328419",
+      "timebuildupdated": "1773319839"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "648801": {
+      "manifests": {
+        "public": {
+          "gid": "4830832075480360897",
+          "size": "7773455514",
+          "download": "2241578592"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22312909",
+        "timeupdated": "1773328401",
+        "timebuildupdated": "1773319839"
+      },
+      "1.09_precrossplayupdate": {
+        "buildid": "10199006",
+        "description": "Stable version before updating the game to support crossplay",
+        "timeupdated": "1773136985",
+        "timebuildupdated": "1671706495"
+      },
+      "beta": {
+        "buildid": "22312909",
+        "description": "beta",
+        "timeupdated": "1773328419",
+        "timebuildupdated": "1773319839"
+      }
+    }
+  }
+}

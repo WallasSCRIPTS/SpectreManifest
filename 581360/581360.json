@@ -1,0 +1,68 @@
+{
+  "name": "FoxTail",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:00.389Z",
+  "branches": {
+    "public": {
+      "buildid": "19628172",
+      "timeupdated": "1755420913",
+      "timebuildupdated": "1755420711"
+    },
+    "beta": {
+      "buildid": "19627923",
+      "timeupdated": "1755417167",
+      "timebuildupdated": "1755417167"
+    }
+  },
+  "depot": {
+    "581361": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8073368507274632004",
+          "size": "163675247",
+          "download": "138814752"
+        }
+      }
+    },
+    "581362": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2097525496276761605",
+          "size": "202795578",
+          "download": "148730336"
+        }
+      }
+    },
+    "581363": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5869619885869489527",
+          "size": "169640557",
+          "download": "141639856"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19628172",
+        "timeupdated": "1755420913",
+        "timebuildupdated": "1755420711"
+      },
+      "beta": {
+        "buildid": "19627923",
+        "timeupdated": "1755417167",
+        "timebuildupdated": "1755417167"
+      }
+    }
+  }
+}

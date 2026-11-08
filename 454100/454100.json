@@ -1,0 +1,82 @@
+{
+  "name": "Dungeon Escape",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:58.541Z",
+  "branches": {
+    "public": {
+      "buildid": "25364110",
+      "timeupdated": "1789633649",
+      "timebuildupdated": "1789633587"
+    },
+    "beta": {
+      "buildid": "25364110",
+      "description": "public test build",
+      "timeupdated": "1789633589",
+      "timebuildupdated": "1789633587"
+    },
+    "unity_2020_old_ver": {
+      "buildid": "15752177",
+      "description": "Unity 2020",
+      "timeupdated": "1759565118",
+      "timebuildupdated": "1726725344"
+    }
+  },
+  "depot": {
+    "454101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5997666999473401221",
+          "size": "193438246",
+          "download": "76667440"
+        }
+      }
+    },
+    "454102": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "583159706369787379",
+          "size": "186407394",
+          "download": "73120256"
+        }
+      }
+    },
+    "454103": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6002617099796729562",
+          "size": "207349555",
+          "download": "83593168"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25364110",
+        "timeupdated": "1789633649",
+        "timebuildupdated": "1789633587"
+      },
+      "beta": {
+        "buildid": "25364110",
+        "description": "public test build",
+        "timeupdated": "1789633589",
+        "timebuildupdated": "1789633587"
+      },
+      "unity_2020_old_ver": {
+        "buildid": "15752177",
+        "description": "Unity 2020",
+        "timeupdated": "1759565118",
+        "timebuildupdated": "1726725344"
+      }
+    }
+  }
+}

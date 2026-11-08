@@ -1,0 +1,82 @@
+{
+  "name": "Dark Bestiary",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:31.815Z",
+  "branches": {
+    "public": {
+      "buildid": "8117989",
+      "timeupdated": "1643637931",
+      "timebuildupdated": "1643637273"
+    },
+    "test": {
+      "buildid": "8117989",
+      "description": "Don't forget to backup your save files.",
+      "timeupdated": "1643637308",
+      "timebuildupdated": "1643637273"
+    },
+    "legacy": {
+      "buildid": "8117989",
+      "description": "Old version of the game.",
+      "timeupdated": "1643637931",
+      "timebuildupdated": "1643637273"
+    }
+  },
+  "depot": {
+    "1020731": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5730507442843506176",
+          "size": "492934655",
+          "download": "105026272"
+        }
+      }
+    },
+    "1020732": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "572333083558790812",
+          "size": "498438612",
+          "download": "106260272"
+        }
+      }
+    },
+    "1020733": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5470008189957558774",
+          "size": "506377077",
+          "download": "107030688"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8117989",
+        "timeupdated": "1643637931",
+        "timebuildupdated": "1643637273"
+      },
+      "test": {
+        "buildid": "8117989",
+        "description": "Don't forget to backup your save files.",
+        "timeupdated": "1643637308",
+        "timebuildupdated": "1643637273"
+      },
+      "legacy": {
+        "buildid": "8117989",
+        "description": "Old version of the game.",
+        "timeupdated": "1643637931",
+        "timebuildupdated": "1643637273"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "The Necromancer's Tale",
+  "source": "spectre",
+  "changenumber": 39965134,
+  "updated": "2026-11-06T21:04:23.030Z",
+  "branches": {
+    "public": {
+      "buildid": "26027072",
+      "timeupdated": "1792333993",
+      "timebuildupdated": "1792333993"
+    },
+    "legacy": {
+      "buildid": "24403059",
+      "description": "Win7 and OSX compatible",
+      "timeupdated": "1785105470",
+      "timebuildupdated": "1785105470"
+    }
+  },
+  "depot": {
+    "1315321": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4110322170617150818",
+          "size": "4286143733",
+          "download": "2298222304"
+        }
+      }
+    },
+    "1315322": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8995064449326175297",
+          "size": "4322164224",
+          "download": "2314321984"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26027072",
+        "timeupdated": "1792333993",
+        "timebuildupdated": "1792333993"
+      },
+      "legacy": {
+        "buildid": "24403059",
+        "description": "Win7 and OSX compatible",
+        "timeupdated": "1785105470",
+        "timebuildupdated": "1785105470"
+      }
+    }
+  }
+}

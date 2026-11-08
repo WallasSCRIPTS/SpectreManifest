@@ -1,0 +1,80 @@
+{
+  "name": "Penumbra: Requiem",
+  "source": "spectre",
+  "changenumber": 40563703,
+  "updated": "2026-11-07T20:55:48.320Z",
+  "branches": {
+    "public": {
+      "buildid": "436499",
+      "timebuildupdated": "1415657807"
+    }
+  },
+  "depot": {
+    "22121": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "22120"
+    },
+    "22124": {
+      "config": {
+        "oslist": "macos"
+      },
+      "depotfromapp": "22120"
+    },
+    "22125": {
+      "config": {
+        "oslist": "linux"
+      },
+      "depotfromapp": "22120"
+    },
+    "22141": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7852474613245949135",
+          "size": "107",
+          "download": "0"
+        }
+      }
+    },
+    "22142": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1131806381774624711",
+          "size": "389768714",
+          "download": "68212688712"
+        }
+      }
+    },
+    "22143": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4178871024686600062",
+          "size": "356858557",
+          "download": "69401821335"
+        }
+      }
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "436499",
+        "timebuildupdated": "1415657807"
+      }
+    }
+  }
+}

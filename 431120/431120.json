@@ -1,0 +1,66 @@
+{
+  "name": "Tethered",
+  "source": "spectre",
+  "changenumber": 37513691,
+  "updated": "2026-11-07T20:57:47.008Z",
+  "branches": {
+    "public": {
+      "buildid": "1746797",
+      "timeupdated": "1491847846",
+      "timebuildupdated": "1491846436"
+    },
+    "local": {
+      "buildid": "1450694",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1478782696",
+      "timebuildupdated": "1478782696"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "431121": {},
+    "431122": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "431123": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6788573952619116873",
+          "size": "3288374086",
+          "download": "1415067936"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1746797",
+        "timeupdated": "1491847846",
+        "timebuildupdated": "1491846436"
+      },
+      "local": {
+        "buildid": "1450694",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1478782696",
+        "timebuildupdated": "1478782696"
+      }
+    }
+  }
+}

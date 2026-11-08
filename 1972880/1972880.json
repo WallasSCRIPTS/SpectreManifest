@@ -1,0 +1,70 @@
+{
+  "name": "Lamoneo",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:15:25.217Z",
+  "branches": {
+    "public": {
+      "buildid": "9652365",
+      "timeupdated": "1664908248",
+      "timebuildupdated": "1664902581"
+    },
+    "testbranch": {
+      "buildid": "9652365",
+      "description": "mac version",
+      "timeupdated": "1664902581",
+      "timebuildupdated": "1664902581"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1972881": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1193759603680617841",
+          "size": "4167244970",
+          "download": "4087376976"
+        }
+      }
+    },
+    "1972882": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6862376471000572974",
+          "size": "4577710935",
+          "download": "4365312688"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9652365",
+        "timeupdated": "1664908248",
+        "timebuildupdated": "1664902581"
+      },
+      "testbranch": {
+        "buildid": "9652365",
+        "description": "mac version",
+        "timeupdated": "1664902581",
+        "timebuildupdated": "1664902581"
+      }
+    }
+  }
+}

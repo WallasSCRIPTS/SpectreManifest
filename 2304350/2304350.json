@@ -1,0 +1,76 @@
+{
+  "name": "PsychWorld",
+  "source": "spectre",
+  "changenumber": 34894701,
+  "updated": "2026-11-06T23:21:27.273Z",
+  "branches": {
+    "public": {
+      "buildid": "14503738",
+      "timeupdated": "1716791010",
+      "timebuildupdated": "1716790112"
+    },
+    "unstable": {
+      "buildid": "13003319",
+      "description": "For testing, more frequently updated but less stable.",
+      "timeupdated": "1703011436",
+      "timebuildupdated": "1703011436"
+    },
+    "development": {
+      "buildid": "20449606",
+      "description": "For testing very experimental features.",
+      "timeupdated": "1760815634",
+      "timebuildupdated": "1760815634"
+    }
+  },
+  "depot": {
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2304351": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4707305951707478430",
+          "size": "528400776",
+          "download": "336172192"
+        }
+      }
+    },
+    "2304352": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "653318798434968221",
+          "size": "528664768",
+          "download": "334941664"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14503738",
+        "timeupdated": "1716791010",
+        "timebuildupdated": "1716790112"
+      },
+      "unstable": {
+        "buildid": "13003319",
+        "description": "For testing, more frequently updated but less stable.",
+        "timeupdated": "1703011436",
+        "timebuildupdated": "1703011436"
+      },
+      "development": {
+        "buildid": "20449606",
+        "description": "For testing very experimental features.",
+        "timeupdated": "1760815634",
+        "timebuildupdated": "1760815634"
+      }
+    }
+  }
+}

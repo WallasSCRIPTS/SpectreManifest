@@ -1,0 +1,64 @@
+{
+  "name": "Borderless Gaming",
+  "source": "spectre",
+  "changenumber": 40608928,
+  "updated": "2026-11-07T20:57:26.817Z",
+  "branches": {
+    "public": {
+      "buildid": "26131338",
+      "timeupdated": "1792666365",
+      "timebuildupdated": "1792666365"
+    },
+    "legacy": {
+      "buildid": "25820562",
+      "description": "The legacy version of Borderless Gaming (9.6.0)",
+      "timeupdated": "1791518497",
+      "timebuildupdated": "1791518497"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "388081": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2104913685264343196",
+          "size": "162756955",
+          "download": "64016576"
+        }
+      }
+    },
+    "388082": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8924578232832920757",
+          "size": "127247273",
+          "download": "52839984"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26131338",
+        "timeupdated": "1792666365",
+        "timebuildupdated": "1792666365"
+      },
+      "legacy": {
+        "buildid": "25820562",
+        "description": "The legacy version of Borderless Gaming (9.6.0)",
+        "timeupdated": "1791518497",
+        "timebuildupdated": "1791518497"
+      }
+    }
+  }
+}

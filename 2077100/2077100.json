@@ -1,0 +1,51 @@
+{
+  "name": "Energy Tail",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:17:28.864Z",
+  "branches": {
+    "public": {
+      "buildid": "16319776",
+      "timeupdated": "1731001068",
+      "timebuildupdated": "1730930660"
+    },
+    "linuxtest": {
+      "buildid": "18084068",
+      "description": "Branch for internal tests",
+      "timeupdated": "1744469363",
+      "timebuildupdated": "1744469363"
+    }
+  },
+  "depot": {
+    "2077101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6535755072608831945",
+          "size": "274559057",
+          "download": "125385168"
+        }
+      }
+    },
+    "2077102": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16319776",
+        "timeupdated": "1731001068",
+        "timebuildupdated": "1730930660"
+      },
+      "linuxtest": {
+        "buildid": "18084068",
+        "description": "Branch for internal tests",
+        "timeupdated": "1744469363",
+        "timebuildupdated": "1744469363"
+      }
+    }
+  }
+}

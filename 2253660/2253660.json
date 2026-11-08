@@ -1,0 +1,70 @@
+{
+  "name": "Hotloop",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:21:21.491Z",
+  "branches": {
+    "public": {
+      "buildid": "20675638",
+      "timeupdated": "1762363208",
+      "timebuildupdated": "1762328818"
+    },
+    "testing": {
+      "buildid": "20675638",
+      "description": "for testing",
+      "timeupdated": "1762328818",
+      "timebuildupdated": "1762328818"
+    }
+  },
+  "depot": {
+    "2253661": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2459526384785844592",
+          "size": "514095814",
+          "download": "212924656"
+        }
+      }
+    },
+    "2253662": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7294455778286584212",
+          "size": "576294660",
+          "download": "233223456"
+        }
+      }
+    },
+    "2253663": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5407989992882065041",
+          "size": "513484331",
+          "download": "239692704"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20675638",
+        "timeupdated": "1762363208",
+        "timebuildupdated": "1762328818"
+      },
+      "testing": {
+        "buildid": "20675638",
+        "description": "for testing",
+        "timeupdated": "1762328818",
+        "timebuildupdated": "1762328818"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Catacombs of the Undercity",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:04.637Z",
+  "branches": {
+    "public": {
+      "buildid": "932419",
+      "timebuildupdated": "1452821552"
+    },
+    "beta": {
+      "buildid": "932419",
+      "timebuildupdated": "1452821552"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "352441": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1287979866294180837",
+          "size": "198802858",
+          "download": "53997984"
+        }
+      }
+    },
+    "352442": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5945534305673412244",
+          "size": "177764994",
+          "download": "47262256"
+        }
+      }
+    },
+    "352443": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1922354171897162395",
+          "size": "168439611",
+          "download": "45109344"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "932419",
+        "timebuildupdated": "1452821552"
+      },
+      "beta": {
+        "buildid": "932419",
+        "timebuildupdated": "1452821552"
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "name": "Shadows of Doubt",
+  "source": "spectre",
+  "changenumber": 40667640,
+  "updated": "2026-11-07T21:02:14.975Z",
+  "branches": {
+    "public": {
+      "buildid": "24616330",
+      "timeupdated": "1787223472",
+      "timebuildupdated": "1786116636"
+    },
+    "experimental": {
+      "buildid": "25201630",
+      "description": "For testing the latest public builds",
+      "timeupdated": "1788931457",
+      "timebuildupdated": "1788931457"
+    },
+    "legacypublic": {
+      "buildid": "14314304",
+      "description": "For older builds of the game",
+      "timeupdated": "1721308051",
+      "timebuildupdated": "1715251609"
+    },
+    "mono": {
+      "buildid": "20920036",
+      "description": "A branch of the game that is built with the mono backend",
+      "timeupdated": "1768233567",
+      "timebuildupdated": "1763995048"
+    }
+  },
+  "depot": {
+    "986131": {
+      "manifests": {
+        "public": {
+          "gid": "1732121106107934301",
+          "size": "1367647301",
+          "download": "578202864"
+        }
+      }
+    },
+    "3229880": {
+      "manifests": {
+        "public": {
+          "gid": "1787066928091052239",
+          "size": "44799140",
+          "download": "22610208"
+        }
+      },
+      "dlcappid": "3229880"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24616330",
+        "timeupdated": "1787223472",
+        "timebuildupdated": "1786116636"
+      },
+      "experimental": {
+        "buildid": "25201630",
+        "description": "For testing the latest public builds",
+        "timeupdated": "1788931457",
+        "timebuildupdated": "1788931457"
+      },
+      "legacypublic": {
+        "buildid": "14314304",
+        "description": "For older builds of the game",
+        "timeupdated": "1721308051",
+        "timebuildupdated": "1715251609"
+      },
+      "mono": {
+        "buildid": "20920036",
+        "description": "A branch of the game that is built with the mono backend",
+        "timeupdated": "1768233567",
+        "timebuildupdated": "1763995048"
+      }
+    }
+  }
+}

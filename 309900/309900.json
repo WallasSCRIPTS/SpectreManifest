@@ -1,0 +1,80 @@
+{
+  "name": "Super Sky Arena",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:34.425Z",
+  "branches": {
+    "public": {
+      "buildid": "8531490",
+      "timeupdated": "1649601463",
+      "timebuildupdated": "1649600748"
+    },
+    "preview": {
+      "buildid": "1286327",
+      "description": "Preview branch used during live streams",
+      "timeupdated": "1471518320",
+      "timebuildupdated": "1471517277"
+    }
+  },
+  "depot": {
+    "309901": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5969084542427579531",
+          "size": "548884049",
+          "download": "139094848"
+        }
+      }
+    },
+    "309902": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3891470629639253721",
+          "size": "571921720",
+          "download": "145773120"
+        }
+      }
+    },
+    "309903": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5304306008851362129",
+          "size": "595053293",
+          "download": "140897760"
+        }
+      }
+    },
+    "408210": {
+      "manifests": {
+        "public": {
+          "gid": "2879491877598487947",
+          "size": "53949372",
+          "download": "53235040"
+        }
+      },
+      "dlcappid": "408210"
+    },
+    "branches": {
+      "public": {
+        "buildid": "8531490",
+        "timeupdated": "1649601463",
+        "timebuildupdated": "1649600748"
+      },
+      "preview": {
+        "buildid": "1286327",
+        "description": "Preview branch used during live streams",
+        "timeupdated": "1471518320",
+        "timebuildupdated": "1471517277"
+      }
+    }
+  }
+}

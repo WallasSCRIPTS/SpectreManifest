@@ -1,0 +1,102 @@
+{
+  "name": "SWORDHAVEN",
+  "source": "spectre",
+  "changenumber": 40463928,
+  "updated": "2026-11-06T23:17:32.817Z",
+  "branches": {
+    "public": {
+      "buildid": "23681427",
+      "timeupdated": "1781287478",
+      "timebuildupdated": "1781182289"
+    },
+    "beta": {
+      "buildid": "26345926",
+      "description": "Beta builds",
+      "timeupdated": "1793475758",
+      "timebuildupdated": "1793453454"
+    },
+    "ver060": {
+      "buildid": "19134813",
+      "description": "Version 0.6.0",
+      "timeupdated": "1755538022",
+      "timebuildupdated": "1751907790"
+    }
+  },
+  "depot": {
+    "2108181": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "561427525160550163",
+          "size": "17761189554",
+          "download": "8439885248"
+        }
+      }
+    },
+    "2108182": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "333712526764664045",
+          "size": "17837867623",
+          "download": "8512859904"
+        }
+      }
+    },
+    "2108183": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7489574418834713446",
+          "size": "18193934275",
+          "download": "8650495184"
+        }
+      }
+    },
+    "4205670": {
+      "manifests": {
+        "public": {
+          "gid": "1019984696826885589",
+          "size": "82137493",
+          "download": "77694384"
+        }
+      },
+      "dlcappid": "4205670"
+    },
+    "4205680": {
+      "manifests": {
+        "public": {
+          "gid": "3525134905092723428",
+          "size": "109217777",
+          "download": "103863152"
+        }
+      },
+      "dlcappid": "4205680"
+    },
+    "branches": {
+      "public": {
+        "buildid": "23681427",
+        "timeupdated": "1781287478",
+        "timebuildupdated": "1781182289"
+      },
+      "beta": {
+        "buildid": "26345926",
+        "description": "Beta builds",
+        "timeupdated": "1793475758",
+        "timebuildupdated": "1793453454"
+      },
+      "ver060": {
+        "buildid": "19134813",
+        "description": "Version 0.6.0",
+        "timeupdated": "1755538022",
+        "timebuildupdated": "1751907790"
+      }
+    }
+  }
+}

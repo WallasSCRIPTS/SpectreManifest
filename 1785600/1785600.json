@@ -1,0 +1,58 @@
+{
+  "name": "Saboteur",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:09:47.238Z",
+  "branches": {
+    "public": {
+      "buildid": "10240702",
+      "timeupdated": "1672616423",
+      "timebuildupdated": "1672614708"
+    },
+    "beta": {
+      "buildid": "11518122",
+      "description": "Beta Test",
+      "timeupdated": "1688019749",
+      "timebuildupdated": "1687288931"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1785601": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2848620851894244027",
+          "size": "2124968655",
+          "download": "2011950688"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10240702",
+        "timeupdated": "1672616423",
+        "timebuildupdated": "1672614708"
+      },
+      "beta": {
+        "buildid": "11518122",
+        "description": "Beta Test",
+        "timeupdated": "1688019749",
+        "timebuildupdated": "1687288931"
+      }
+    }
+  }
+}

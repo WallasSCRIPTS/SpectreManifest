@@ -1,0 +1,103 @@
+{
+  "name": "VPet",
+  "source": "spectre",
+  "changenumber": 40616047,
+  "updated": "2026-11-06T23:13:31.274Z",
+  "branches": {
+    "public": {
+      "buildid": "26397581",
+      "timeupdated": "1793680135",
+      "timebuildupdated": "1793679876"
+    },
+    "test_branch": {
+      "buildid": "26397581",
+      "description": "test branch for laterst update",
+      "timeupdated": "1793679876",
+      "timebuildupdated": "1793679876"
+    },
+    "without_environment": {
+      "buildid": "26397588",
+      "description": "Excluding .Net8 environment, requires self installation. For players with system errors",
+      "timeupdated": "1793679891",
+      "timebuildupdated": "1793679891"
+    }
+  },
+  "depot": {
+    "1920961": {
+      "manifests": {
+        "public": {
+          "gid": "4826256624974153564",
+          "size": "1071610917",
+          "download": "682876784"
+        }
+      }
+    },
+    "1920962": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6085392044377457607",
+          "size": "230829191",
+          "download": "103567392"
+        }
+      }
+    },
+    "1920963": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "502718649522596578",
+          "size": "245132381",
+          "download": "109387184"
+        }
+      }
+    },
+    "1920964": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3267761994269004130",
+          "size": "141547603",
+          "download": "62352480"
+        }
+      }
+    },
+    "1920965": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6060036618949290112",
+          "size": "131199051",
+          "download": "62490016"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26397581",
+        "timeupdated": "1793680135",
+        "timebuildupdated": "1793679876"
+      },
+      "test_branch": {
+        "buildid": "26397581",
+        "description": "test branch for laterst update",
+        "timeupdated": "1793679876",
+        "timebuildupdated": "1793679876"
+      },
+      "without_environment": {
+        "buildid": "26397588",
+        "description": "Excluding .Net8 environment, requires self installation. For players with system errors",
+        "timeupdated": "1793679891",
+        "timebuildupdated": "1793679891"
+      }
+    }
+  }
+}

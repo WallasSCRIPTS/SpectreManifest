@@ -1,0 +1,145 @@
+{
+  "name": "Screeps: World",
+  "source": "spectre",
+  "changenumber": 40423656,
+  "updated": "2026-11-07T20:58:05.328Z",
+  "branches": {
+    "public": {
+      "buildid": "26324481",
+      "timeupdated": "1793367192",
+      "timebuildupdated": "1793367192"
+    },
+    "debug": {
+      "buildid": "22605690",
+      "description": "Temporary branch for testing",
+      "timeupdated": "1775060836",
+      "timebuildupdated": "1775060836"
+    },
+    "public-test-realm": {
+      "buildid": "22407327",
+      "description": "PTR client build",
+      "timeupdated": "1773883383",
+      "timebuildupdated": "1773883383"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "464353": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4539192383557922915",
+          "size": "1070491599",
+          "download": "321352560"
+        }
+      }
+    },
+    "464354": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5943644787535443431",
+          "size": "2429088900",
+          "download": "518122768"
+        }
+      }
+    },
+    "464355": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6973148700981198041",
+          "size": "455906606",
+          "download": "128006768"
+        }
+      }
+    },
+    "464356": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6029018323819421906",
+          "size": "288479283",
+          "download": "45100000"
+        }
+      }
+    },
+    "464357": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "784033537753559575",
+          "size": "455906606",
+          "download": "127879056"
+        }
+      }
+    },
+    "464358": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5898515103567897384",
+          "size": "455906606",
+          "download": "127881376"
+        }
+      }
+    },
+    "464359": {
+      "manifests": {
+        "public": {
+          "gid": "6900655988880532402",
+          "size": "24576275",
+          "download": "22355888"
+        }
+      }
+    },
+    "491761": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7377911841792828943",
+          "size": "952932811",
+          "download": "323280048"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26324481",
+        "timeupdated": "1793367192",
+        "timebuildupdated": "1793367192"
+      },
+      "debug": {
+        "buildid": "22605690",
+        "description": "Temporary branch for testing",
+        "timeupdated": "1775060836",
+        "timebuildupdated": "1775060836"
+      },
+      "public-test-realm": {
+        "buildid": "22407327",
+        "description": "PTR client build",
+        "timeupdated": "1773883383",
+        "timebuildupdated": "1773883383"
+      }
+    }
+  }
+}

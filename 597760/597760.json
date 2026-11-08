@@ -1,0 +1,124 @@
+{
+  "name": "Yuppie Psycho",
+  "source": "spectre",
+  "changenumber": 40686895,
+  "updated": "2026-11-07T20:59:08.341Z",
+  "branches": {
+    "public": {
+      "buildid": "25831831",
+      "timeupdated": "1791557410",
+      "timebuildupdated": "1791556900"
+    },
+    "beta": {
+      "buildid": "26409099",
+      "description": "feeling adventurous ?",
+      "timeupdated": "1793719686",
+      "timebuildupdated": "1793719461"
+    },
+    "previous": {
+      "buildid": "23678765",
+      "description": "Previous version of the game",
+      "timeupdated": "1782465946",
+      "timebuildupdated": "1781172636"
+    },
+    "previous_2_x": {
+      "buildid": "18070623",
+      "description": "Last 2.5+ version",
+      "timeupdated": "1744369425",
+      "timebuildupdated": "1744369285"
+    },
+    "legacy": {
+      "buildid": "8185684",
+      "description": "Branch that contains the game using the old engine",
+      "timeupdated": "1647018190",
+      "timebuildupdated": "1644572714"
+    },
+    "pre_dlc": {
+      "buildid": "4731626",
+      "description": "Branch that contains the game before the dlc update using the old engine",
+      "timeupdated": "1604047836",
+      "timebuildupdated": "1583081573"
+    }
+  },
+  "depot": {
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "597767": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8005192845043844813",
+          "size": "1462364973",
+          "download": "1294662160"
+        }
+      }
+    },
+    "597768": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6224688457672869886",
+          "size": "1438722867",
+          "download": "1287774224"
+        }
+      }
+    },
+    "597769": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4691114836217654113",
+          "size": "1437680921",
+          "download": "1287395648"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25831831",
+        "timeupdated": "1791557410",
+        "timebuildupdated": "1791556900"
+      },
+      "beta": {
+        "buildid": "26409099",
+        "description": "feeling adventurous ?",
+        "timeupdated": "1793719686",
+        "timebuildupdated": "1793719461"
+      },
+      "previous": {
+        "buildid": "23678765",
+        "description": "Previous version of the game",
+        "timeupdated": "1782465946",
+        "timebuildupdated": "1781172636"
+      },
+      "previous_2_x": {
+        "buildid": "18070623",
+        "description": "Last 2.5+ version",
+        "timeupdated": "1744369425",
+        "timebuildupdated": "1744369285"
+      },
+      "legacy": {
+        "buildid": "8185684",
+        "description": "Branch that contains the game using the old engine",
+        "timeupdated": "1647018190",
+        "timebuildupdated": "1644572714"
+      },
+      "pre_dlc": {
+        "buildid": "4731626",
+        "description": "Branch that contains the game before the dlc update using the old engine",
+        "timeupdated": "1604047836",
+        "timebuildupdated": "1583081573"
+      }
+    }
+  }
+}

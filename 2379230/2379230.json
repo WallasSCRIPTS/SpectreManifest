@@ -1,0 +1,70 @@
+{
+  "name": "Blessed Burden",
+  "source": "spectre",
+  "changenumber": 39457922,
+  "updated": "2026-11-06T21:07:17.356Z",
+  "branches": {
+    "public": {
+      "buildid": "19855649",
+      "timeupdated": "1757335266",
+      "timebuildupdated": "1756987743"
+    },
+    "test_public": {
+      "buildid": "19855649",
+      "description": "Public test branch",
+      "timeupdated": "1756988205",
+      "timebuildupdated": "1756987743"
+    }
+  },
+  "depot": {
+    "2379231": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8433166492801052905",
+          "size": "3333305916",
+          "download": "1612700272"
+        }
+      }
+    },
+    "2379232": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5200634817478827133",
+          "size": "3882708561",
+          "download": "2189598976"
+        }
+      }
+    },
+    "2379233": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5851866642866967723",
+          "size": "3360948550",
+          "download": "1670009392"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19855649",
+        "timeupdated": "1757335266",
+        "timebuildupdated": "1756987743"
+      },
+      "test_public": {
+        "buildid": "19855649",
+        "description": "Public test branch",
+        "timeupdated": "1756988205",
+        "timebuildupdated": "1756987743"
+      }
+    }
+  }
+}

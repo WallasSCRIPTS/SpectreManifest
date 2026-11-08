@@ -1,0 +1,83 @@
+{
+  "name": "ΔV: Rings of Saturn",
+  "source": "spectre",
+  "changenumber": 40620026,
+  "updated": "2026-11-07T21:01:08.239Z",
+  "branches": {
+    "public": {
+      "buildid": "25268847",
+      "timeupdated": "1790767757",
+      "timebuildupdated": "1789201661"
+    },
+    "beta": {
+      "buildid": "25268847",
+      "description": "ironing out any remaining bugs from experimental",
+      "timeupdated": "1790767734",
+      "timebuildupdated": "1789201661"
+    },
+    "experimental": {
+      "buildid": "26452410",
+      "description": "bleeding edge - latest features",
+      "timeupdated": "1793864677",
+      "timebuildupdated": "1793864677"
+    }
+  },
+  "depot": {
+    "846031": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3356498266732850294",
+          "size": "1568459248",
+          "download": "822471024"
+        }
+      }
+    },
+    "846032": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1656568965579604361",
+          "size": "1577677704",
+          "download": "825397664"
+        }
+      }
+    },
+    "846033": {},
+    "846034": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5119292874998711546",
+          "size": "1596724698",
+          "download": "829589568"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25268847",
+        "timeupdated": "1790767757",
+        "timebuildupdated": "1789201661"
+      },
+      "beta": {
+        "buildid": "25268847",
+        "description": "ironing out any remaining bugs from experimental",
+        "timeupdated": "1790767734",
+        "timebuildupdated": "1789201661"
+      },
+      "experimental": {
+        "buildid": "26452410",
+        "description": "bleeding edge - latest features",
+        "timeupdated": "1793864677",
+        "timebuildupdated": "1793864677"
+      }
+    }
+  }
+}

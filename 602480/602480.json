@@ -1,0 +1,78 @@
+{
+  "name": "Kartong",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:10.688Z",
+  "branches": {
+    "public": {
+      "buildid": "3080595",
+      "timeupdated": "1537268596",
+      "timebuildupdated": "1535700080"
+    },
+    "4.19": {
+      "buildid": "2659506",
+      "description": "Old flatscreen build for incompatible monitor setups",
+      "timeupdated": "1522854029",
+      "timebuildupdated": "1522854006"
+    },
+    "beta": {
+      "buildid": "2937629",
+      "timeupdated": "1531335175",
+      "timebuildupdated": "1531335155"
+    },
+    "kartongmr": {
+      "buildid": "3080595",
+      "description": "New LIV compatible VR branch with post processing",
+      "timeupdated": "1535700094",
+      "timebuildupdated": "1535700080"
+    },
+    "oldkartong": {
+      "buildid": "2209245",
+      "timeupdated": "1566467160",
+      "timebuildupdated": "1508338481"
+    }
+  },
+  "depot": {
+    "602481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4718746415617919921",
+          "size": "6673936424",
+          "download": "3428911680"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3080595",
+        "timeupdated": "1537268596",
+        "timebuildupdated": "1535700080"
+      },
+      "4.19": {
+        "buildid": "2659506",
+        "description": "Old flatscreen build for incompatible monitor setups",
+        "timeupdated": "1522854029",
+        "timebuildupdated": "1522854006"
+      },
+      "beta": {
+        "buildid": "2937629",
+        "timeupdated": "1531335175",
+        "timebuildupdated": "1531335155"
+      },
+      "kartongmr": {
+        "buildid": "3080595",
+        "description": "New LIV compatible VR branch with post processing",
+        "timeupdated": "1535700094",
+        "timebuildupdated": "1535700080"
+      },
+      "oldkartong": {
+        "buildid": "2209245",
+        "timeupdated": "1566467160",
+        "timebuildupdated": "1508338481"
+      }
+    }
+  }
+}

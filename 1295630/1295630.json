@@ -1,0 +1,80 @@
+{
+  "name": "Helskate",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:14.492Z",
+  "branches": {
+    "public": {
+      "buildid": "17841248",
+      "timeupdated": "1742909694",
+      "timebuildupdated": "1742848404"
+    },
+    "beta": {
+      "buildid": "17809266",
+      "description": "Work in progress features",
+      "timeupdated": "1742563541",
+      "timebuildupdated": "1742562611"
+    },
+    "experimental": {
+      "buildid": "17063903",
+      "description": "Experimental changes to the game",
+      "timeupdated": "1737376481",
+      "timebuildupdated": "1737372430"
+    }
+  },
+  "depot": {
+    "1295631": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "988564252264814042",
+          "size": "21926332285",
+          "download": "7287898912"
+        }
+      }
+    },
+    "1295632": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7156760548472608958",
+          "size": "21565151441",
+          "download": "7085138464"
+        }
+      }
+    },
+    "2843120": {
+      "manifests": {
+        "public": {
+          "gid": "3589312539417040019",
+          "size": "57201260",
+          "download": "52397920"
+        }
+      },
+      "dlcappid": "2843120"
+    },
+    "branches": {
+      "public": {
+        "buildid": "17841248",
+        "timeupdated": "1742909694",
+        "timebuildupdated": "1742848404"
+      },
+      "beta": {
+        "buildid": "17809266",
+        "description": "Work in progress features",
+        "timeupdated": "1742563541",
+        "timebuildupdated": "1742562611"
+      },
+      "experimental": {
+        "buildid": "17063903",
+        "description": "Experimental changes to the game",
+        "timeupdated": "1737376481",
+        "timebuildupdated": "1737372430"
+      }
+    }
+  }
+}

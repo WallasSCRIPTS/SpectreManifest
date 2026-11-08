@@ -1,0 +1,106 @@
+{
+  "name": "Rem Survival",
+  "source": "spectre",
+  "changenumber": 39473108,
+  "updated": "2026-11-07T20:58:56.043Z",
+  "branches": {
+    "public": {
+      "buildid": "21400514",
+      "timeupdated": "1767882356",
+      "timebuildupdated": "1767727268"
+    },
+    "last-update-branch": {
+      "buildid": "21343136",
+      "description": "0.25.12.28",
+      "timeupdated": "1767882283",
+      "timebuildupdated": "1767083927"
+    },
+    "public-test-branch": {
+      "buildid": "21400514",
+      "description": "Public testing on upcoming features and updates",
+      "timeupdated": "1767727268",
+      "timebuildupdated": "1767727268"
+    },
+    "rollback-branch": {
+      "buildid": "20753079",
+      "description": "0.25.11.09",
+      "timeupdated": "1766163043",
+      "timebuildupdated": "1762863483"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "574181": {},
+    "574183": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3432533844317735361",
+          "size": "49133976918",
+          "download": "44163409488"
+        }
+      }
+    },
+    "574184": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "222716297080518870",
+          "size": "38893380722",
+          "download": "38003909136"
+        }
+      }
+    },
+    "574185": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21400514",
+        "timeupdated": "1767882356",
+        "timebuildupdated": "1767727268"
+      },
+      "last-update-branch": {
+        "buildid": "21343136",
+        "description": "0.25.12.28",
+        "timeupdated": "1767882283",
+        "timebuildupdated": "1767083927"
+      },
+      "public-test-branch": {
+        "buildid": "21400514",
+        "description": "Public testing on upcoming features and updates",
+        "timeupdated": "1767727268",
+        "timebuildupdated": "1767727268"
+      },
+      "rollback-branch": {
+        "buildid": "20753079",
+        "description": "0.25.11.09",
+        "timeupdated": "1766163043",
+        "timebuildupdated": "1762863483"
+      }
+    }
+  }
+}

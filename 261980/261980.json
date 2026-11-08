@@ -1,0 +1,57 @@
+{
+  "name": "Half-Life: Before",
+  "source": "spectre",
+  "changenumber": 40675844,
+  "updated": "2026-11-07T20:56:15.736Z",
+  "branches": {
+    "public": {
+      "buildid": "154705",
+      "timebuildupdated": "1386419973"
+    },
+    "beta": {
+      "buildid": "154425",
+      "timebuildupdated": "1386355757"
+    },
+    "local": {
+      "buildid": "140499",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1383919531"
+    }
+  },
+  "depot": {
+    "261981": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1038141297028284413",
+          "size": "72993631",
+          "download": "0"
+        }
+      }
+    },
+    "261982": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "154705",
+        "timebuildupdated": "1386419973"
+      },
+      "beta": {
+        "buildid": "154425",
+        "timebuildupdated": "1386355757"
+      },
+      "local": {
+        "buildid": "140499",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1383919531"
+      }
+    }
+  }
+}

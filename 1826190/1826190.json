@@ -1,0 +1,70 @@
+{
+  "name": "Intruder In Antiquonia Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-06T23:11:35.711Z",
+  "branches": {
+    "public": {
+      "buildid": "8838643",
+      "timeupdated": "1653950709",
+      "timebuildupdated": "1653950325"
+    },
+    "beta": {
+      "buildid": "8838643",
+      "description": "Testing changes to the demo before making them official.",
+      "timeupdated": "1653950374",
+      "timebuildupdated": "1653950325"
+    }
+  },
+  "depot": {
+    "1826191": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5856938695943299403",
+          "size": "533283590",
+          "download": "307607840"
+        }
+      }
+    },
+    "1826192": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "817800708134411698",
+          "size": "540066807",
+          "download": "304607696"
+        }
+      }
+    },
+    "1826193": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "936935871674331722",
+          "size": "536949516",
+          "download": "305301760"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8838643",
+        "timeupdated": "1653950709",
+        "timebuildupdated": "1653950325"
+      },
+      "beta": {
+        "buildid": "8838643",
+        "description": "Testing changes to the demo before making them official.",
+        "timeupdated": "1653950374",
+        "timebuildupdated": "1653950325"
+      }
+    }
+  }
+}

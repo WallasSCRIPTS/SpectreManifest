@@ -1,0 +1,70 @@
+{
+  "name": "Into Evil",
+  "source": "spectre",
+  "changenumber": 40458132,
+  "updated": "2026-11-06T23:13:27.799Z",
+  "branches": {
+    "public": {
+      "buildid": "26346925",
+      "timeupdated": "1793458792",
+      "timebuildupdated": "1793458357"
+    },
+    "qa_stable": {
+      "buildid": "26346925",
+      "description": "As beta, but not automatically updated so that more durable QA candidates can be tested without churn",
+      "timeupdated": "1793458754",
+      "timebuildupdated": "1793458357"
+    }
+  },
+  "depot": {
+    "1893441": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4400014762147366372",
+          "size": "1587810709",
+          "download": "498412992"
+        }
+      }
+    },
+    "1893442": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6151615413066717962",
+          "size": "1618205945",
+          "download": "483992768"
+        }
+      }
+    },
+    "1893443": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2110407159636643766",
+          "size": "1755351138",
+          "download": "511890688"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26346925",
+        "timeupdated": "1793458792",
+        "timebuildupdated": "1793458357"
+      },
+      "qa_stable": {
+        "buildid": "26346925",
+        "description": "As beta, but not automatically updated so that more durable QA candidates can be tested without churn",
+        "timeupdated": "1793458754",
+        "timebuildupdated": "1793458357"
+      }
+    }
+  }
+}

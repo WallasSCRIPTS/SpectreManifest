@@ -1,0 +1,70 @@
+{
+  "name": "ISLANDERS: New Shores",
+  "source": "spectre",
+  "changenumber": 37459553,
+  "updated": "2026-11-06T23:23:20.160Z",
+  "branches": {
+    "public": {
+      "buildid": "20970575",
+      "timeupdated": "1764271814",
+      "timebuildupdated": "1764271290"
+    },
+    "macos_develop": {
+      "buildid": "18774993",
+      "description": "MacOS develop branch",
+      "timeupdated": "1749269317",
+      "timebuildupdated": "1749269317"
+    },
+    "macos_qa_developer": {
+      "buildid": "19072959",
+      "description": "MacOS build with developer capabilities",
+      "timeupdated": "1751420124",
+      "timebuildupdated": "1751420124"
+    }
+  },
+  "depot": {
+    "2368931": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4937792267950773150",
+          "size": "758664048",
+          "download": "295117904"
+        }
+      }
+    },
+    "2368932": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8768980881530099977",
+          "size": "844233651",
+          "download": "318617584"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20970575",
+        "timeupdated": "1764271814",
+        "timebuildupdated": "1764271290"
+      },
+      "macos_develop": {
+        "buildid": "18774993",
+        "description": "MacOS develop branch",
+        "timeupdated": "1749269317",
+        "timebuildupdated": "1749269317"
+      },
+      "macos_qa_developer": {
+        "buildid": "19072959",
+        "description": "MacOS build with developer capabilities",
+        "timeupdated": "1751420124",
+        "timebuildupdated": "1751420124"
+      }
+    }
+  }
+}

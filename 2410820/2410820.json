@@ -1,0 +1,70 @@
+{
+  "name": "Too Many Sheep",
+  "source": "spectre",
+  "changenumber": 35945210,
+  "updated": "2026-11-06T23:23:25.269Z",
+  "branches": {
+    "public": {
+      "buildid": "11924851",
+      "timeupdated": "1691789859",
+      "timebuildupdated": "1691787902"
+    },
+    "beta": {
+      "buildid": "13692344",
+      "description": "Beta build of the game",
+      "timeupdated": "1710023826",
+      "timebuildupdated": "1710023826"
+    }
+  },
+  "depot": {
+    "2410821": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2945755121895757073",
+          "size": "170889760",
+          "download": "34535632"
+        }
+      }
+    },
+    "2410822": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1385661019867240728",
+          "size": "245196879",
+          "download": "51786544"
+        }
+      }
+    },
+    "2410823": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7624906330696386913",
+          "size": "172521352",
+          "download": "34689760"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11924851",
+        "timeupdated": "1691789859",
+        "timebuildupdated": "1691787902"
+      },
+      "beta": {
+        "buildid": "13692344",
+        "description": "Beta build of the game",
+        "timeupdated": "1710023826",
+        "timebuildupdated": "1710023826"
+      }
+    }
+  }
+}

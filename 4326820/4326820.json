@@ -1,0 +1,58 @@
+{
+  "name": "Rolling Stock",
+  "source": "spectre",
+  "changenumber": 40443344,
+  "updated": "2026-11-04T23:25:41.320Z",
+  "branches": {
+    "public": {
+      "buildid": "26336901",
+      "timeupdated": "1793404265",
+      "timebuildupdated": "1793403776"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "4326821": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9017628993188528168",
+          "size": "907066996",
+          "download": "342094992"
+        }
+      }
+    },
+    "4326822": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3112477645648657666",
+          "size": "874123740",
+          "download": "334090272"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26336901",
+        "timeupdated": "1793404265",
+        "timebuildupdated": "1793403776"
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Quest for Infamy",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:16.830Z",
+  "branches": {
+    "public": {
+      "buildid": "565146",
+      "timebuildupdated": "1427218874"
+    },
+    "v2beta": {
+      "buildid": "5040927",
+      "description": "v2.0 Beta",
+      "timeupdated": "1589734865",
+      "timebuildupdated": "1589734865"
+    }
+  },
+  "depot": {
+    "264561": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7104308779157321234",
+          "size": "1875117948",
+          "download": "1611605280"
+        }
+      }
+    },
+    "264562": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8843654611311174621",
+          "size": "1881377555",
+          "download": "1609190480"
+        }
+      }
+    },
+    "264563": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2544907862397009981",
+          "size": "1725454708",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "565146",
+        "timebuildupdated": "1427218874"
+      },
+      "v2beta": {
+        "buildid": "5040927",
+        "description": "v2.0 Beta",
+        "timeupdated": "1589734865",
+        "timebuildupdated": "1589734865"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "The Grave Digger",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:56.264Z",
+  "branches": {
+    "public": {
+      "buildid": "15090084",
+      "timeupdated": "1721655057",
+      "timebuildupdated": "1721398761"
+    },
+    "publicbeta": {
+      "buildid": "16921018",
+      "description": "Public Beta",
+      "timeupdated": "1736266133",
+      "timebuildupdated": "1736197067"
+    }
+  },
+  "depot": {
+    "345341": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6133826704431738159",
+          "size": "351470817",
+          "download": "108014272"
+        }
+      }
+    },
+    "345342": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5761898661497172485",
+          "size": "348608124",
+          "download": "107217088"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15090084",
+        "timeupdated": "1721655057",
+        "timebuildupdated": "1721398761"
+      },
+      "publicbeta": {
+        "buildid": "16921018",
+        "description": "Public Beta",
+        "timeupdated": "1736266133",
+        "timebuildupdated": "1736197067"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Panic Mode",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:55.799Z",
+  "branches": {
+    "public": {
+      "buildid": "10155499",
+      "timeupdated": "1671644043",
+      "timebuildupdated": "1671120435"
+    }
+  },
+  "depot": {
+    "1529431": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3611046478292227711",
+          "size": "913936859",
+          "download": "255571920"
+        }
+      }
+    },
+    "1529432": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5829146527756848219",
+          "size": "916181745",
+          "download": "256628000"
+        }
+      }
+    },
+    "1529433": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5471574525875562927",
+          "size": "931220094",
+          "download": "262544096"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10155499",
+        "timeupdated": "1671644043",
+        "timebuildupdated": "1671120435"
+      }
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "name": "Lost Ember",
+  "source": "spectre",
+  "changenumber": 39041043,
+  "updated": "2026-11-07T20:58:49.644Z",
+  "branches": {
+    "public": {
+      "buildid": "9763108",
+      "timeupdated": "1666352254",
+      "timebuildupdated": "1666276351"
+    },
+    "preview": {
+      "buildid": "9763108",
+      "description": "Preview version of work-in-progress changes and fixes. Might be unstable!",
+      "timeupdated": "1666350496",
+      "timebuildupdated": "1666276351"
+    },
+    "windows7": {
+      "buildid": "4734011",
+      "description": "If your game isn't starting and you're running Windows 7 or 8, try switching to this branch.",
+      "timeupdated": "1593599192",
+      "timebuildupdated": "1583157552"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229000": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "563841": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6116416378256840996",
+          "size": "7546046049",
+          "download": "7301864528"
+        }
+      }
+    },
+    "563842": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9763108",
+        "timeupdated": "1666352254",
+        "timebuildupdated": "1666276351"
+      },
+      "preview": {
+        "buildid": "9763108",
+        "description": "Preview version of work-in-progress changes and fixes. Might be unstable!",
+        "timeupdated": "1666350496",
+        "timebuildupdated": "1666276351"
+      },
+      "windows7": {
+        "buildid": "4734011",
+        "description": "If your game isn't starting and you're running Windows 7 or 8, try switching to this branch.",
+        "timeupdated": "1593599192",
+        "timebuildupdated": "1583157552"
+      }
+    }
+  }
+}

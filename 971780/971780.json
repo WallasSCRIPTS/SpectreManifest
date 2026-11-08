@@ -1,0 +1,78 @@
+{
+  "name": "Elemental Connection",
+  "source": "spectre",
+  "changenumber": 34842656,
+  "updated": "2026-11-07T21:02:07.227Z",
+  "branches": {
+    "public": {
+      "buildid": "9073164",
+      "timeupdated": "1657131771",
+      "timebuildupdated": "1657131723"
+    },
+    "cheevo_test": {
+      "buildid": "9009969",
+      "timeupdated": "1656265497",
+      "timebuildupdated": "1656265451"
+    },
+    "linux_test": {
+      "buildid": "3398569",
+      "description": "Linux + Steam OS",
+      "timeupdated": "1544803809",
+      "timebuildupdated": "1544803763"
+    }
+  },
+  "depot": {
+    "971781": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2407237653696335222",
+          "size": "241724276",
+          "download": "127003728"
+        }
+      }
+    },
+    "971782": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3682168420789017351",
+          "size": "385444715",
+          "download": "152627024"
+        }
+      }
+    },
+    "977750": {
+      "manifests": {
+        "public": {
+          "gid": "3268115004324470045",
+          "size": "38870552",
+          "download": "32586368"
+        }
+      },
+      "dlcappid": "977750"
+    },
+    "branches": {
+      "public": {
+        "buildid": "9073164",
+        "timeupdated": "1657131771",
+        "timebuildupdated": "1657131723"
+      },
+      "cheevo_test": {
+        "buildid": "9009969",
+        "timeupdated": "1656265497",
+        "timebuildupdated": "1656265451"
+      },
+      "linux_test": {
+        "buildid": "3398569",
+        "description": "Linux + Steam OS",
+        "timeupdated": "1544803809",
+        "timebuildupdated": "1544803763"
+      }
+    }
+  }
+}

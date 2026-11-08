@@ -1,0 +1,58 @@
+{
+  "name": "Creatures of Energy",
+  "source": "spectre",
+  "changenumber": 40640920,
+  "updated": "2026-11-06T23:15:40.152Z",
+  "branches": {
+    "public": {
+      "buildid": "10385778",
+      "timeupdated": "1674511227",
+      "timebuildupdated": "1674511073"
+    },
+    "beta": {
+      "buildid": "10385778",
+      "description": "For testing",
+      "timeupdated": "1674511073",
+      "timebuildupdated": "1674511073"
+    }
+  },
+  "depot": {
+    "2066691": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7142790431197627213",
+          "size": "104382025",
+          "download": "25462496"
+        }
+      }
+    },
+    "2066692": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7502985776532456329",
+          "size": "152393000",
+          "download": "28532896"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10385778",
+        "timeupdated": "1674511227",
+        "timebuildupdated": "1674511073"
+      },
+      "beta": {
+        "buildid": "10385778",
+        "description": "For testing",
+        "timeupdated": "1674511073",
+        "timebuildupdated": "1674511073"
+      }
+    }
+  }
+}

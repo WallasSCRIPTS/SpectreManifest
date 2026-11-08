@@ -1,0 +1,70 @@
+{
+  "name": "Flipon",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:10.025Z",
+  "branches": {
+    "public": {
+      "buildid": "20797491",
+      "timeupdated": "1763367308",
+      "timebuildupdated": "1763116095"
+    },
+    "stage": {
+      "buildid": "20797491",
+      "description": "Staging",
+      "timeupdated": "1763116095",
+      "timebuildupdated": "1763116095"
+    }
+  },
+  "depot": {
+    "1285021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8765810365575433607",
+          "size": "187884210",
+          "download": "133307648"
+        }
+      }
+    },
+    "1285022": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1431112169146287247",
+          "size": "191570976",
+          "download": "135072112"
+        }
+      }
+    },
+    "1285023": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6924717668688659168",
+          "size": "239845973",
+          "download": "138761472"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20797491",
+        "timeupdated": "1763367308",
+        "timebuildupdated": "1763116095"
+      },
+      "stage": {
+        "buildid": "20797491",
+        "description": "Staging",
+        "timeupdated": "1763116095",
+        "timebuildupdated": "1763116095"
+      }
+    }
+  }
+}

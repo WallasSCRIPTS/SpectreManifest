@@ -1,0 +1,64 @@
+{
+  "name": "Sharded World Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-06T23:19:25.454Z",
+  "branches": {
+    "public": {
+      "buildid": "13247878",
+      "timeupdated": "1706088352",
+      "timebuildupdated": "1706009524"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2158201": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8036125339513704956",
+          "size": "3049448950",
+          "download": "2447775680"
+        }
+      }
+    },
+    "2158202": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4547050886489551982",
+          "size": "3055519141",
+          "download": "2448220752"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13247878",
+        "timeupdated": "1706088352",
+        "timebuildupdated": "1706009524"
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "name": "Bierzerkers",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:01.148Z",
+  "branches": {
+    "public": {
+      "buildid": "1759490",
+      "timeupdated": "1492219190",
+      "timebuildupdated": "1492219184"
+    },
+    "local": {
+      "buildid": "1662100",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1488319612",
+      "timebuildupdated": "1488319612"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "348461": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7243159530122116668",
+          "size": "6442311514",
+          "download": "825466128"
+        }
+      }
+    },
+    "348462": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2308169507307775246",
+          "size": "2944435378",
+          "download": "701442800"
+        }
+      }
+    },
+    "348463": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "404120": {
+      "dlcappid": "404120"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1759490",
+        "timeupdated": "1492219190",
+        "timebuildupdated": "1492219184"
+      },
+      "local": {
+        "buildid": "1662100",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1488319612",
+        "timebuildupdated": "1488319612"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Abacus",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:58.251Z",
+  "branches": {
+    "public": {
+      "buildid": "16802558",
+      "timeupdated": "1734622156",
+      "timebuildupdated": "1734621788"
+    },
+    "test": {
+      "buildid": "16802558",
+      "description": "Testing branch",
+      "timeupdated": "1734621788",
+      "timebuildupdated": "1734621788"
+    }
+  },
+  "depot": {
+    "822661": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "32141671249102372",
+          "size": "161308287",
+          "download": "107031936"
+        }
+      }
+    },
+    "822662": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1631788856907350566",
+          "size": "164762139",
+          "download": "107082992"
+        }
+      }
+    },
+    "822663": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2164876197684091217",
+          "size": "171357741",
+          "download": "108473344"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16802558",
+        "timeupdated": "1734622156",
+        "timebuildupdated": "1734621788"
+      },
+      "test": {
+        "buildid": "16802558",
+        "description": "Testing branch",
+        "timeupdated": "1734621788",
+        "timebuildupdated": "1734621788"
+      }
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "name": "King Oddball",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:30.662Z",
+  "branches": {
+    "public": {
+      "buildid": "6182284",
+      "timeupdated": "1612356703",
+      "timebuildupdated": "1612356703"
+    },
+    "macos_old": {
+      "buildid": "1802248",
+      "description": "Old macOS build",
+      "timeupdated": "1611841266",
+      "timebuildupdated": "1493983969"
+    },
+    "test_branch": {
+      "buildid": "6182217",
+      "timeupdated": "1612355967",
+      "timebuildupdated": "1612355967"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "525451": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3694513432494125471",
+          "size": "77866555",
+          "download": "34835072"
+        }
+      }
+    },
+    "525452": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8152777429277097301",
+          "size": "99345280",
+          "download": "90363680"
+        }
+      }
+    },
+    "525453": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2845372715238182793",
+          "size": "98627499",
+          "download": "77993696"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6182284",
+        "timeupdated": "1612356703",
+        "timebuildupdated": "1612356703"
+      },
+      "macos_old": {
+        "buildid": "1802248",
+        "description": "Old macOS build",
+        "timeupdated": "1611841266",
+        "timebuildupdated": "1493983969"
+      },
+      "test_branch": {
+        "buildid": "6182217",
+        "timeupdated": "1612355967",
+        "timebuildupdated": "1612355967"
+      }
+    }
+  }
+}

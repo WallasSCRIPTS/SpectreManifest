@@ -1,0 +1,232 @@
+{
+  "name": "Ultimate ADOM - Caverns of Chaos",
+  "source": "spectre",
+  "changenumber": 39971716,
+  "updated": "2026-11-06T21:04:01.757Z",
+  "branches": {
+    "public": {
+      "buildid": "20304420",
+      "timeupdated": "1759932264",
+      "timebuildupdated": "1759932161"
+    },
+    "0.7.0": {
+      "buildid": "6255296",
+      "description": "Version 0.7.0",
+      "timeupdated": "1613673421",
+      "timebuildupdated": "1613602016"
+    },
+    "0.7.1": {
+      "buildid": "6260359",
+      "description": "Version 0.7.1",
+      "timeupdated": "1613997271",
+      "timebuildupdated": "1613673521"
+    },
+    "0.7.2": {
+      "buildid": "6276210",
+      "description": "Version 0.7.2",
+      "timeupdated": "1614325043",
+      "timebuildupdated": "1614006984"
+    },
+    "0.7.3": {
+      "buildid": "6299740",
+      "description": "Version 0.7.3",
+      "timeupdated": "1615216354",
+      "timebuildupdated": "1614345073"
+    },
+    "0.7.4": {
+      "buildid": "6348263",
+      "description": "Version 0.7.4",
+      "timeupdated": "1617196015",
+      "timebuildupdated": "1615225565"
+    },
+    "0.7.5": {
+      "buildid": "6470448",
+      "description": "Version 0.7.5",
+      "timeupdated": "1618979766",
+      "timebuildupdated": "1617205808"
+    },
+    "0.8.0": {
+      "buildid": "6585896",
+      "description": "Version 0.8.0",
+      "timeupdated": "1619644768",
+      "timebuildupdated": "1619127179"
+    },
+    "0.8.1": {
+      "buildid": "6633077",
+      "description": "Version 0.8.1",
+      "timeupdated": "1620314378",
+      "timebuildupdated": "1619854365"
+    },
+    "0.8.2": {
+      "buildid": "6665893",
+      "description": "Version 0.8.2",
+      "timeupdated": "1621936436",
+      "timebuildupdated": "1620407914"
+    },
+    "0.8.3": {
+      "buildid": "6754622",
+      "description": "Version 0.8.3",
+      "timeupdated": "1621973223",
+      "timebuildupdated": "1621946459"
+    },
+    "0.8.3.1": {
+      "buildid": "6787059",
+      "description": "Version 0.8.3.1",
+      "timeupdated": "1624521684",
+      "timebuildupdated": "1622465788"
+    },
+    "0.9.0": {
+      "buildid": "6945095",
+      "description": "Version 0.9.0",
+      "timeupdated": "1626986010",
+      "timebuildupdated": "1624890793"
+    },
+    "0.9.1": {
+      "buildid": "7078227",
+      "description": "Version 0.9.1",
+      "timeupdated": "1629831828",
+      "timebuildupdated": "1627058888"
+    },
+    "1.0.0": {
+      "buildid": "7294329",
+      "description": "Version 1.0.0",
+      "timeupdated": "1633856503",
+      "timebuildupdated": "1630598238"
+    }
+  },
+  "depot": {
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1266821": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4148054745859831831",
+          "size": "1717892583",
+          "download": "1025206912"
+        }
+      }
+    },
+    "1266822": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2836910218831262952",
+          "size": "1714233595",
+          "download": "1024010944"
+        }
+      }
+    },
+    "1266823": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2415024116189963336",
+          "size": "1762285082",
+          "download": "1026637264"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20304420",
+        "timeupdated": "1759932264",
+        "timebuildupdated": "1759932161"
+      },
+      "0.7.0": {
+        "buildid": "6255296",
+        "description": "Version 0.7.0",
+        "timeupdated": "1613673421",
+        "timebuildupdated": "1613602016"
+      },
+      "0.7.1": {
+        "buildid": "6260359",
+        "description": "Version 0.7.1",
+        "timeupdated": "1613997271",
+        "timebuildupdated": "1613673521"
+      },
+      "0.7.2": {
+        "buildid": "6276210",
+        "description": "Version 0.7.2",
+        "timeupdated": "1614325043",
+        "timebuildupdated": "1614006984"
+      },
+      "0.7.3": {
+        "buildid": "6299740",
+        "description": "Version 0.7.3",
+        "timeupdated": "1615216354",
+        "timebuildupdated": "1614345073"
+      },
+      "0.7.4": {
+        "buildid": "6348263",
+        "description": "Version 0.7.4",
+        "timeupdated": "1617196015",
+        "timebuildupdated": "1615225565"
+      },
+      "0.7.5": {
+        "buildid": "6470448",
+        "description": "Version 0.7.5",
+        "timeupdated": "1618979766",
+        "timebuildupdated": "1617205808"
+      },
+      "0.8.0": {
+        "buildid": "6585896",
+        "description": "Version 0.8.0",
+        "timeupdated": "1619644768",
+        "timebuildupdated": "1619127179"
+      },
+      "0.8.1": {
+        "buildid": "6633077",
+        "description": "Version 0.8.1",
+        "timeupdated": "1620314378",
+        "timebuildupdated": "1619854365"
+      },
+      "0.8.2": {
+        "buildid": "6665893",
+        "description": "Version 0.8.2",
+        "timeupdated": "1621936436",
+        "timebuildupdated": "1620407914"
+      },
+      "0.8.3": {
+        "buildid": "6754622",
+        "description": "Version 0.8.3",
+        "timeupdated": "1621973223",
+        "timebuildupdated": "1621946459"
+      },
+      "0.8.3.1": {
+        "buildid": "6787059",
+        "description": "Version 0.8.3.1",
+        "timeupdated": "1624521684",
+        "timebuildupdated": "1622465788"
+      },
+      "0.9.0": {
+        "buildid": "6945095",
+        "description": "Version 0.9.0",
+        "timeupdated": "1626986010",
+        "timebuildupdated": "1624890793"
+      },
+      "0.9.1": {
+        "buildid": "7078227",
+        "description": "Version 0.9.1",
+        "timeupdated": "1629831828",
+        "timebuildupdated": "1627058888"
+      },
+      "1.0.0": {
+        "buildid": "7294329",
+        "description": "Version 1.0.0",
+        "timeupdated": "1633856503",
+        "timebuildupdated": "1630598238"
+      }
+    }
+  }
+}

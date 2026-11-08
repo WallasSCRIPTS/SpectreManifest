@@ -1,0 +1,82 @@
+{
+  "name": "Legend of Grimrock",
+  "source": "spectre",
+  "changenumber": 37432492,
+  "updated": "2026-11-07T20:56:01.939Z",
+  "branches": {
+    "public": {
+      "buildid": "687244",
+      "timebuildupdated": "1436339760"
+    },
+    "beta": {
+      "buildid": "687244",
+      "description": "Public Beta",
+      "timebuildupdated": "1436339760"
+    },
+    "linux_beta": {
+      "buildid": "687244",
+      "timebuildupdated": "1436339760"
+    },
+    "mac_beta": {
+      "buildid": "687244",
+      "timebuildupdated": "1436339760"
+    }
+  },
+  "depot": {
+    "207171": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5152770129304629740",
+          "size": "755087112",
+          "download": "0"
+        }
+      }
+    },
+    "207172": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1651808683534870682",
+          "size": "708770991",
+          "download": "0"
+        }
+      }
+    },
+    "207173": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "624953888229434405",
+          "size": "688798852",
+          "download": "401875552"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "687244",
+        "timebuildupdated": "1436339760"
+      },
+      "beta": {
+        "buildid": "687244",
+        "description": "Public Beta",
+        "timebuildupdated": "1436339760"
+      },
+      "linux_beta": {
+        "buildid": "687244",
+        "timebuildupdated": "1436339760"
+      },
+      "mac_beta": {
+        "buildid": "687244",
+        "timebuildupdated": "1436339760"
+      }
+    }
+  }
+}

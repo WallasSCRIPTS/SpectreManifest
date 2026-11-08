@@ -1,0 +1,67 @@
+{
+  "name": "Facing",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:24.587Z",
+  "branches": {
+    "public": {
+      "buildid": "10188347",
+      "timeupdated": "1671582982",
+      "timebuildupdated": "1671582982"
+    },
+    "purchase": {
+      "buildid": "8826467",
+      "description": "Purchase",
+      "timeupdated": "1657864158",
+      "timebuildupdated": "1653708230"
+    },
+    "test": {
+      "buildid": "9269212",
+      "description": "Test",
+      "timeupdated": "1665684806",
+      "timebuildupdated": "1659871707"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1455651": {
+      "manifests": {
+        "public": {
+          "gid": "8684033086793803596",
+          "size": "659187684",
+          "download": "526481792"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10188347",
+        "timeupdated": "1671582982",
+        "timebuildupdated": "1671582982"
+      },
+      "purchase": {
+        "buildid": "8826467",
+        "description": "Purchase",
+        "timeupdated": "1657864158",
+        "timebuildupdated": "1653708230"
+      },
+      "test": {
+        "buildid": "9269212",
+        "description": "Test",
+        "timeupdated": "1665684806",
+        "timebuildupdated": "1659871707"
+      }
+    }
+  }
+}

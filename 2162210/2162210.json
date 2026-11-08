@@ -1,0 +1,84 @@
+{
+  "name": "Road Trip USA 2: West",
+  "source": "spectre",
+  "changenumber": 35945418,
+  "updated": "2026-11-04T23:24:34.275Z",
+  "branches": {
+    "public": {
+      "buildid": "10073071",
+      "timeupdated": "1670111682",
+      "timebuildupdated": "1670111682"
+    },
+    "local": {
+      "buildid": "10552692",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1676415557",
+      "timebuildupdated": "1676415557"
+    }
+  },
+  "depot": {
+    "2162211": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8380078199059020575",
+          "size": "932645113",
+          "download": "346789936"
+        }
+      }
+    },
+    "2162212": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4910005752936268196",
+          "size": "941001465",
+          "download": "349318480"
+        }
+      }
+    },
+    "2162213": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3797238676569900308",
+          "size": "943984239",
+          "download": "349427360"
+        }
+      }
+    },
+    "2162214": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2563762765385411005",
+          "size": "965479222",
+          "download": "356727616"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10073071",
+        "timeupdated": "1670111682",
+        "timebuildupdated": "1670111682"
+      },
+      "local": {
+        "buildid": "10552692",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1676415557",
+        "timebuildupdated": "1676415557"
+      }
+    }
+  }
+}

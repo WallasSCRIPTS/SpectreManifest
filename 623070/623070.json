@@ -1,0 +1,68 @@
+{
+  "name": "Delicious - Emily's Miracle of Life",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:19.982Z",
+  "branches": {
+    "public": {
+      "buildid": "2299095",
+      "timeupdated": "1513592406",
+      "timebuildupdated": "1511170509"
+    },
+    "beta": {
+      "buildid": "2299095",
+      "description": "Branch to test updates",
+      "timeupdated": "1511170640",
+      "timebuildupdated": "1511170509"
+    }
+  },
+  "depot": {
+    "623071": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4033302652495429459",
+          "size": "238275052",
+          "download": "193687792"
+        }
+      }
+    },
+    "623072": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "128595478781992613",
+          "size": "242033137",
+          "download": "196035088"
+        }
+      }
+    },
+    "703640": {
+      "manifests": {
+        "public": {
+          "gid": "1940510319849326",
+          "size": "25240756",
+          "download": "24778096"
+        }
+      },
+      "dlcappid": "703640"
+    },
+    "branches": {
+      "public": {
+        "buildid": "2299095",
+        "timeupdated": "1513592406",
+        "timebuildupdated": "1511170509"
+      },
+      "beta": {
+        "buildid": "2299095",
+        "description": "Branch to test updates",
+        "timeupdated": "1511170640",
+        "timebuildupdated": "1511170509"
+      }
+    }
+  }
+}

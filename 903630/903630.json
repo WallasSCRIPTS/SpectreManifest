@@ -1,0 +1,70 @@
+{
+  "name": "The Last Cube",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:34.248Z",
+  "branches": {
+    "public": {
+      "buildid": "20261249",
+      "timeupdated": "1759686578",
+      "timebuildupdated": "1759685908"
+    },
+    "staging": {
+      "buildid": "20261249",
+      "description": "Test game here first before making build live in default branch.",
+      "timeupdated": "1759685908",
+      "timebuildupdated": "1759685908"
+    }
+  },
+  "depot": {
+    "903631": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1088921548100706028",
+          "size": "1980750190",
+          "download": "1621883856"
+        }
+      }
+    },
+    "903632": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8012526610644736928",
+          "size": "2274631690",
+          "download": "1779389616"
+        }
+      }
+    },
+    "903633": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "258226334094286320",
+          "size": "2160834727",
+          "download": "1683322288"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20261249",
+        "timeupdated": "1759686578",
+        "timebuildupdated": "1759685908"
+      },
+      "staging": {
+        "buildid": "20261249",
+        "description": "Test game here first before making build live in default branch.",
+        "timeupdated": "1759685908",
+        "timebuildupdated": "1759685908"
+      }
+    }
+  }
+}

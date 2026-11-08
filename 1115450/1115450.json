@@ -1,0 +1,70 @@
+{
+  "name": "Bastide",
+  "source": "spectre",
+  "changenumber": 40309238,
+  "updated": "2026-11-07T21:03:26.674Z",
+  "branches": {
+    "public": {
+      "buildid": "26251301",
+      "timeupdated": "1793125869",
+      "timebuildupdated": "1793125838"
+    },
+    "ue4version": {
+      "buildid": "8390465",
+      "description": "To play old saves or due to issues with the new version.",
+      "timeupdated": "1659009672",
+      "timebuildupdated": "1647528647"
+    },
+    "bugtest": {
+      "buildid": "21318293",
+      "description": "For testing specific issues.",
+      "timeupdated": "1766773913",
+      "timebuildupdated": "1766752767"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1115451": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7474120117247872760",
+          "size": "5607730276",
+          "download": "5079978336"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26251301",
+        "timeupdated": "1793125869",
+        "timebuildupdated": "1793125838"
+      },
+      "ue4version": {
+        "buildid": "8390465",
+        "description": "To play old saves or due to issues with the new version.",
+        "timeupdated": "1659009672",
+        "timebuildupdated": "1647528647"
+      },
+      "bugtest": {
+        "buildid": "21318293",
+        "description": "For testing specific issues.",
+        "timeupdated": "1766773913",
+        "timebuildupdated": "1766752767"
+      }
+    }
+  }
+}

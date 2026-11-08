@@ -1,0 +1,59 @@
+{
+  "name": "Cosmo's Cosmic Adventure",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:07.519Z",
+  "branches": {
+    "public": {
+      "buildid": "606100",
+      "timebuildupdated": "1430314505"
+    }
+  },
+  "depot": {
+    "358251": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3764557773460086923",
+          "size": "33854963",
+          "download": "11817504"
+        }
+      }
+    },
+    "358252": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5758087788353451646",
+          "size": "12288356",
+          "download": "3236416"
+        }
+      }
+    },
+    "358253": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8455420468500800292",
+          "size": "13878051",
+          "download": "3909648"
+        }
+      }
+    },
+    "358282": {
+      "depotfromapp": "358280"
+    },
+    "branches": {
+      "public": {
+        "buildid": "606100",
+        "timebuildupdated": "1430314505"
+      }
+    }
+  }
+}

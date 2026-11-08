@@ -1,0 +1,70 @@
+{
+  "name": "Monsters' Den: Godfall",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:08.165Z",
+  "branches": {
+    "public": {
+      "buildid": "10706776",
+      "timeupdated": "1678162779",
+      "timebuildupdated": "1678162779"
+    },
+    "stable": {
+      "buildid": "4001440",
+      "description": "Older versions - Use if you have problems with an update.",
+      "timeupdated": "1596177041",
+      "timebuildupdated": "1562823677"
+    },
+    "testing": {
+      "buildid": "6916721",
+      "description": "Help test upcoming changes to the game.",
+      "timeupdated": "1624427110",
+      "timebuildupdated": "1624427110"
+    }
+  },
+  "depot": {
+    "469721": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3150638534257183137",
+          "size": "147014666",
+          "download": "117466096"
+        }
+      }
+    },
+    "469722": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1075720181293755103",
+          "size": "137893740",
+          "download": "110749664"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10706776",
+        "timeupdated": "1678162779",
+        "timebuildupdated": "1678162779"
+      },
+      "stable": {
+        "buildid": "4001440",
+        "description": "Older versions - Use if you have problems with an update.",
+        "timeupdated": "1596177041",
+        "timebuildupdated": "1562823677"
+      },
+      "testing": {
+        "buildid": "6916721",
+        "description": "Help test upcoming changes to the game.",
+        "timeupdated": "1624427110",
+        "timebuildupdated": "1624427110"
+      }
+    }
+  }
+}

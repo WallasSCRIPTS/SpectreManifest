@@ -1,0 +1,115 @@
+{
+  "name": "Iron Harvest",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:59.783Z",
+  "branches": {
+    "public": {
+      "buildid": "20206856",
+      "timeupdated": "1759736958",
+      "timebuildupdated": "1759325223"
+    },
+    "local": {
+      "buildid": "5352762",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1596135675",
+      "timebuildupdated": "1596135675"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "826631": {
+      "manifests": {
+        "public": {
+          "gid": "7139336776038494655",
+          "size": "23429390277",
+          "download": "7880101760"
+        }
+      }
+    },
+    "826632": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6085011661260874995",
+          "size": "2445520845",
+          "download": "1951023168"
+        }
+      }
+    },
+    "826633": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "826634": {},
+    "1341700": {
+      "manifests": {
+        "public": {
+          "gid": "2934246979974376637",
+          "size": "169728563",
+          "download": "132433872"
+        }
+      },
+      "dlcappid": "1341700"
+    },
+    "1341701": {
+      "manifests": {
+        "public": {
+          "gid": "2169359315516559275",
+          "size": "1183880587",
+          "download": "390841776"
+        }
+      },
+      "dlcappid": "1341701"
+    },
+    "1341702": {
+      "manifests": {
+        "public": {
+          "gid": "3256842357118763492",
+          "size": "3126026930",
+          "download": "2554303104"
+        }
+      },
+      "dlcappid": "1341702"
+    },
+    "1628070": {
+      "manifests": {
+        "public": {
+          "gid": "2889397040427345476",
+          "size": "5684981315",
+          "download": "4342254208"
+        }
+      },
+      "dlcappid": "1628070"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20206856",
+        "timeupdated": "1759736958",
+        "timebuildupdated": "1759325223"
+      },
+      "local": {
+        "buildid": "5352762",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1596135675",
+        "timebuildupdated": "1596135675"
+      }
+    }
+  }
+}

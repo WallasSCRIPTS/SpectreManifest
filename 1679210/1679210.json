@@ -1,0 +1,58 @@
+{
+  "name": "The Spirit and the Mouse",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:07:02.206Z",
+  "branches": {
+    "public": {
+      "buildid": "22103096",
+      "timeupdated": "1772144176",
+      "timebuildupdated": "1772078218"
+    },
+    "ultrawide": {
+      "buildid": "12567254",
+      "description": "Experimental Ultrawide Version",
+      "timeupdated": "1698621203",
+      "timebuildupdated": "1698621203"
+    }
+  },
+  "depot": {
+    "1679211": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6210722346163646604",
+          "size": "925957153",
+          "download": "247341408"
+        }
+      }
+    },
+    "1679212": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2515522207965555784",
+          "size": "1625599372",
+          "download": "600460064"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22103096",
+        "timeupdated": "1772144176",
+        "timebuildupdated": "1772078218"
+      },
+      "ultrawide": {
+        "buildid": "12567254",
+        "description": "Experimental Ultrawide Version",
+        "timeupdated": "1698621203",
+        "timebuildupdated": "1698621203"
+      }
+    }
+  }
+}

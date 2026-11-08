@@ -1,0 +1,70 @@
+{
+  "name": "The Farmer Was Replaced",
+  "source": "spectre",
+  "changenumber": 40634927,
+  "updated": "2026-11-06T23:15:39.375Z",
+  "branches": {
+    "public": {
+      "buildid": "26462009",
+      "timeupdated": "1793892989",
+      "timebuildupdated": "1793892925"
+    },
+    "beta": {
+      "buildid": "26462009",
+      "description": "beta branch",
+      "timeupdated": "1793892950",
+      "timebuildupdated": "1793892925"
+    },
+    "jul-2024": {
+      "buildid": "14934045",
+      "description": "Old version! This is not the beta branch!",
+      "timeupdated": "1734000823",
+      "timebuildupdated": "1720111733"
+    }
+  },
+  "depot": {
+    "2060162": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5823844028681987454",
+          "size": "301479948",
+          "download": "116902864"
+        }
+      }
+    },
+    "2060163": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5127492606644686243",
+          "size": "318477078",
+          "download": "132581696"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26462009",
+        "timeupdated": "1793892989",
+        "timebuildupdated": "1793892925"
+      },
+      "beta": {
+        "buildid": "26462009",
+        "description": "beta branch",
+        "timeupdated": "1793892950",
+        "timebuildupdated": "1793892925"
+      },
+      "jul-2024": {
+        "buildid": "14934045",
+        "description": "Old version! This is not the beta branch!",
+        "timeupdated": "1734000823",
+        "timebuildupdated": "1720111733"
+      }
+    }
+  }
+}

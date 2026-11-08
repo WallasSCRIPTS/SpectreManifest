@@ -1,0 +1,74 @@
+{
+  "name": "Mover",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:15.042Z",
+  "branches": {
+    "public": {
+      "buildid": "4011128",
+      "timeupdated": "1563154421",
+      "timebuildupdated": "1563154146"
+    },
+    "test": {
+      "buildid": "4011128",
+      "timeupdated": "1563154146",
+      "timebuildupdated": "1563154146"
+    }
+  },
+  "depot": {
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "733251": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6623968876046072911",
+          "size": "75095456",
+          "download": "19874048"
+        }
+      }
+    },
+    "733252": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6973852413296556820",
+          "size": "76687589",
+          "download": "18342352"
+        }
+      }
+    },
+    "733253": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3000499570958282635",
+          "size": "66332830",
+          "download": "17180352"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4011128",
+        "timeupdated": "1563154421",
+        "timebuildupdated": "1563154146"
+      },
+      "test": {
+        "buildid": "4011128",
+        "timeupdated": "1563154146",
+        "timebuildupdated": "1563154146"
+      }
+    }
+  }
+}

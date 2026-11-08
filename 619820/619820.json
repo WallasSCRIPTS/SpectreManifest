@@ -1,0 +1,73 @@
+{
+  "name": "Heroes of Hammerwatch II",
+  "source": "spectre",
+  "changenumber": 40538112,
+  "updated": "2026-11-07T20:59:18.642Z",
+  "branches": {
+    "public": {
+      "buildid": "25932569",
+      "timeupdated": "1792404274",
+      "timebuildupdated": "1791978398"
+    },
+    "net_testing": {
+      "buildid": "17876776",
+      "description": "Public testing of network errors",
+      "timeupdated": "1743083962",
+      "timebuildupdated": "1743045238"
+    },
+    "public_testing": {
+      "buildid": "18781661",
+      "description": "Testing for future patch",
+      "timeupdated": "1749349051",
+      "timebuildupdated": "1749348267"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "619821": {
+      "manifests": {
+        "public": {
+          "gid": "5079014180413252793",
+          "size": "295991079",
+          "download": "254101856"
+        }
+      }
+    },
+    "619822": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "305382600849899619",
+          "size": "39866600",
+          "download": "15569744"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25932569",
+        "timeupdated": "1792404274",
+        "timebuildupdated": "1791978398"
+      },
+      "net_testing": {
+        "buildid": "17876776",
+        "description": "Public testing of network errors",
+        "timeupdated": "1743083962",
+        "timebuildupdated": "1743045238"
+      },
+      "public_testing": {
+        "buildid": "18781661",
+        "description": "Testing for future patch",
+        "timeupdated": "1749349051",
+        "timebuildupdated": "1749348267"
+      }
+    }
+  }
+}

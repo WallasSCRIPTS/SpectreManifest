@@ -1,0 +1,73 @@
+{
+  "name": "Tears of Metal",
+  "source": "spectre",
+  "changenumber": 40661276,
+  "updated": "2026-11-06T23:13:30.227Z",
+  "branches": {
+    "public": {
+      "buildid": "26434695",
+      "timeupdated": "1793808494",
+      "timebuildupdated": "1793804899"
+    },
+    "experimental": {
+      "buildid": "26439637",
+      "description": "Experimental features and Beta testing",
+      "timeupdated": "1793820668",
+      "timebuildupdated": "1793818341"
+    },
+    "crossplay": {
+      "buildid": "26434695",
+      "description": "Version that keeps crossplay compatibility at all times",
+      "timeupdated": "1793808494",
+      "timebuildupdated": "1793804899"
+    },
+    "previouspatch": {
+      "buildid": "26434695",
+      "description": "Version that will always be on the previous patch",
+      "timeupdated": "1793808494",
+      "timebuildupdated": "1793804899"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1913121": {
+      "manifests": {
+        "public": {
+          "gid": "583539374444780199",
+          "size": "3915131957",
+          "download": "2882671792"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26434695",
+        "timeupdated": "1793808494",
+        "timebuildupdated": "1793804899"
+      },
+      "experimental": {
+        "buildid": "26439637",
+        "description": "Experimental features and Beta testing",
+        "timeupdated": "1793820668",
+        "timebuildupdated": "1793818341"
+      },
+      "crossplay": {
+        "buildid": "26434695",
+        "description": "Version that keeps crossplay compatibility at all times",
+        "timeupdated": "1793808494",
+        "timebuildupdated": "1793804899"
+      },
+      "previouspatch": {
+        "buildid": "26434695",
+        "description": "Version that will always be on the previous patch",
+        "timeupdated": "1793808494",
+        "timebuildupdated": "1793804899"
+      }
+    }
+  }
+}

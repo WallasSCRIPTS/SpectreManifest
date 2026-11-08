@@ -1,0 +1,68 @@
+{
+  "name": "Titan Attacks",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:00.905Z",
+  "branches": {
+    "public": {
+      "buildid": "3972233",
+      "timeupdated": "1562020816",
+      "timebuildupdated": "1562020793"
+    },
+    "beta": {
+      "buildid": "1786634",
+      "timeupdated": "1493342733",
+      "timebuildupdated": "1493342704"
+    }
+  },
+  "depot": {
+    "203211": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2707292176993453309",
+          "size": "214722680",
+          "download": "38842576"
+        }
+      }
+    },
+    "203212": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "693952388868113467",
+          "size": "245010365",
+          "download": "49350016"
+        }
+      }
+    },
+    "203213": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2517546257251293380",
+          "size": "246722823",
+          "download": "51922176"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3972233",
+        "timeupdated": "1562020816",
+        "timebuildupdated": "1562020793"
+      },
+      "beta": {
+        "buildid": "1786634",
+        "timeupdated": "1493342733",
+        "timebuildupdated": "1493342704"
+      }
+    }
+  }
+}

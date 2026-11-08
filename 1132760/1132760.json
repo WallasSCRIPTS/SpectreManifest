@@ -1,0 +1,82 @@
+{
+  "name": "Dwerve",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:36.617Z",
+  "branches": {
+    "public": {
+      "buildid": "19517124",
+      "timeupdated": "1754588723",
+      "timebuildupdated": "1754588505"
+    },
+    "beta": {
+      "buildid": "19517124",
+      "description": "Beta testing branch",
+      "timeupdated": "1754588516",
+      "timebuildupdated": "1754588505"
+    }
+  },
+  "depot": {
+    "1132761": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6507549529755101680",
+          "size": "1049765208",
+          "download": "513494688"
+        }
+      }
+    },
+    "1132762": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7228377354299591187",
+          "size": "1072570576",
+          "download": "522211056"
+        }
+      }
+    },
+    "1132763": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "426649630025111377",
+          "size": "1093027513",
+          "download": "514651056"
+        }
+      }
+    },
+    "1132764": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8737350197268493989",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19517124",
+        "timeupdated": "1754588723",
+        "timebuildupdated": "1754588505"
+      },
+      "beta": {
+        "buildid": "19517124",
+        "description": "Beta testing branch",
+        "timeupdated": "1754588516",
+        "timebuildupdated": "1754588505"
+      }
+    }
+  }
+}

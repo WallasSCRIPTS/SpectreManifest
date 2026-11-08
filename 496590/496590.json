@@ -1,0 +1,70 @@
+{
+  "name": "Crystal Cosmos",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:16.751Z",
+  "branches": {
+    "public": {
+      "buildid": "1622214",
+      "timeupdated": "1486716640",
+      "timebuildupdated": "1486716600"
+    },
+    "beta": {
+      "buildid": "2037695",
+      "description": "Beta Test branch",
+      "timeupdated": "1502748929",
+      "timebuildupdated": "1502748929"
+    }
+  },
+  "depot": {
+    "496591": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5359665747521296444",
+          "size": "3782023265",
+          "download": "296811792"
+        }
+      }
+    },
+    "496592": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2941395409992153850",
+          "size": "3793005974",
+          "download": "299366880"
+        }
+      }
+    },
+    "496593": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3090939447756629383",
+          "size": "3791477388",
+          "download": "299058640"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1622214",
+        "timeupdated": "1486716640",
+        "timebuildupdated": "1486716600"
+      },
+      "beta": {
+        "buildid": "2037695",
+        "description": "Beta Test branch",
+        "timeupdated": "1502748929",
+        "timebuildupdated": "1502748929"
+      }
+    }
+  }
+}

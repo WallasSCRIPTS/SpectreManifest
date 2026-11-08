@@ -1,0 +1,70 @@
+{
+  "name": "Bugaboo Pocket",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:15:26.777Z",
+  "branches": {
+    "public": {
+      "buildid": "20992809",
+      "timeupdated": "1767643766",
+      "timebuildupdated": "1764455129"
+    },
+    "public-beta": {
+      "buildid": "20992809",
+      "description": "Public branch for testing new updates",
+      "timeupdated": "1765931174",
+      "timebuildupdated": "1764455129"
+    },
+    "save-data-hotfix": {
+      "buildid": "18461236",
+      "description": "Branch for players experiencing save file corruption issues",
+      "timeupdated": "1747230988",
+      "timebuildupdated": "1747230734"
+    }
+  },
+  "depot": {
+    "1985741": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6281014900095781921",
+          "size": "616494324",
+          "download": "201807792"
+        }
+      }
+    },
+    "1985742": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6202689480937231192",
+          "size": "639751715",
+          "download": "210186208"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20992809",
+        "timeupdated": "1767643766",
+        "timebuildupdated": "1764455129"
+      },
+      "public-beta": {
+        "buildid": "20992809",
+        "description": "Public branch for testing new updates",
+        "timeupdated": "1765931174",
+        "timebuildupdated": "1764455129"
+      },
+      "save-data-hotfix": {
+        "buildid": "18461236",
+        "description": "Branch for players experiencing save file corruption issues",
+        "timeupdated": "1747230988",
+        "timebuildupdated": "1747230734"
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Champions Online",
+  "source": "spectre",
+  "changenumber": 40675827,
+  "updated": "2026-11-07T20:55:44.458Z",
+  "branches": {
+    "public": {
+      "buildid": "11833645",
+      "timeupdated": "1690850911",
+      "timebuildupdated": "1690850853"
+    }
+  },
+  "depot": {
+    "9881": {
+      "manifests": {
+        "public": {
+          "gid": "5772283621922725974",
+          "size": "442784269",
+          "download": "100567360"
+        }
+      }
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1829726630299308803",
+          "size": "102931551",
+          "download": "100658080"
+        }
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "11833645",
+        "timeupdated": "1690850911",
+        "timebuildupdated": "1690850853"
+      }
+    }
+  }
+}

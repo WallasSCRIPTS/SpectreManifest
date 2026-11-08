@@ -1,0 +1,73 @@
+{
+  "name": "REANIMAL",
+  "source": "spectre",
+  "changenumber": 40677371,
+  "updated": "2026-11-06T23:17:35.433Z",
+  "branches": {
+    "public": {
+      "buildid": "24819707",
+      "timeupdated": "1787908925",
+      "timebuildupdated": "1787148802"
+    },
+    "local": {
+      "buildid": "26490083",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1793984365",
+      "timebuildupdated": "1793984365"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2129531": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4146659007008728705",
+          "size": "17112911440",
+          "download": "14375976016"
+        }
+      }
+    },
+    "4351720": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6551131955355540364",
+          "size": "17112452967",
+          "download": "14380518912"
+        }
+      },
+      "dlcappid": "4351720"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24819707",
+        "timeupdated": "1787908925",
+        "timebuildupdated": "1787148802"
+      },
+      "local": {
+        "buildid": "26490083",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1793984365",
+        "timebuildupdated": "1793984365"
+      }
+    }
+  }
+}

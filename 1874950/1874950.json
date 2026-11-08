@@ -1,0 +1,70 @@
+{
+  "name": "Runner Party",
+  "source": "spectre",
+  "changenumber": 40550472,
+  "updated": "2026-11-06T23:11:41.737Z",
+  "branches": {
+    "public": {
+      "buildid": "25319448",
+      "timeupdated": "1789479270",
+      "timebuildupdated": "1789464904"
+    },
+    "public-test": {
+      "buildid": "25319448",
+      "description": "Public Test Branch",
+      "timeupdated": "1789464904",
+      "timebuildupdated": "1789464904"
+    }
+  },
+  "depot": {
+    "1874951": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2617821739090734776",
+          "size": "3177664561",
+          "download": "392775344"
+        }
+      }
+    },
+    "1874953": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "405117218095991999",
+          "size": "3217225518",
+          "download": "442817744"
+        }
+      }
+    },
+    "1874954": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4930817171803944491",
+          "size": "3170696558",
+          "download": "440184368"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25319448",
+        "timeupdated": "1789479270",
+        "timebuildupdated": "1789464904"
+      },
+      "public-test": {
+        "buildid": "25319448",
+        "description": "Public Test Branch",
+        "timeupdated": "1789464904",
+        "timebuildupdated": "1789464904"
+      }
+    }
+  }
+}

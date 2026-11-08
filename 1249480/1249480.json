@@ -1,0 +1,70 @@
+{
+  "name": "Ex-Zodiac",
+  "source": "spectre",
+  "changenumber": 37443736,
+  "updated": "2026-11-06T21:03:53.883Z",
+  "branches": {
+    "public": {
+      "buildid": "21370972",
+      "timeupdated": "1767443296",
+      "timebuildupdated": "1767439692"
+    },
+    "beta": {
+      "buildid": "21370972",
+      "description": "Beta test branch",
+      "timeupdated": "1767439692",
+      "timebuildupdated": "1767439692"
+    }
+  },
+  "depot": {
+    "1249481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8619959007827054857",
+          "size": "381846312",
+          "download": "223445168"
+        }
+      }
+    },
+    "1249482": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4339461572352122294",
+          "size": "476973371",
+          "download": "249305936"
+        }
+      }
+    },
+    "1249483": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8635910560702508438",
+          "size": "353987060",
+          "download": "216146112"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21370972",
+        "timeupdated": "1767443296",
+        "timebuildupdated": "1767439692"
+      },
+      "beta": {
+        "buildid": "21370972",
+        "description": "Beta test branch",
+        "timeupdated": "1767439692",
+        "timebuildupdated": "1767439692"
+      }
+    }
+  }
+}

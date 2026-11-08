@@ -1,0 +1,58 @@
+{
+  "name": "Haunted: Attack of the Dead Men",
+  "source": "spectre",
+  "changenumber": 39399287,
+  "updated": "2026-11-06T23:17:38.770Z",
+  "branches": {
+    "public": {
+      "buildid": "20129097",
+      "timeupdated": "1758818458",
+      "timebuildupdated": "1758817750"
+    },
+    "public_beta": {
+      "buildid": "20129097",
+      "description": "Public beta testing",
+      "timeupdated": "1758818471",
+      "timebuildupdated": "1758817750"
+    }
+  },
+  "depot": {
+    "2157921": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8940220804636121425",
+          "size": "463668719",
+          "download": "255669968"
+        }
+      }
+    },
+    "2157922": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "740538773736806602",
+          "size": "436422975",
+          "download": "250238032"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20129097",
+        "timeupdated": "1758818458",
+        "timebuildupdated": "1758817750"
+      },
+      "public_beta": {
+        "buildid": "20129097",
+        "description": "Public beta testing",
+        "timeupdated": "1758818471",
+        "timebuildupdated": "1758817750"
+      }
+    }
+  }
+}

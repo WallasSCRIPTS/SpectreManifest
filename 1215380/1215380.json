@@ -1,0 +1,67 @@
+{
+  "name": "Economica",
+  "source": "spectre",
+  "changenumber": 34850533,
+  "updated": "2026-11-07T21:04:20.001Z",
+  "branches": {
+    "public": {
+      "buildid": "7216110",
+      "timeupdated": "1629378048",
+      "timebuildupdated": "1629378048"
+    },
+    "step_to_4x": {
+      "buildid": "6323010",
+      "description": "Step To 4x",
+      "timeupdated": "1614772696",
+      "timebuildupdated": "1614772696"
+    }
+  },
+  "depot": {
+    "1215381": {
+      "manifests": {
+        "public": {
+          "gid": "3004431001002636849",
+          "size": "81340507",
+          "download": "28015584"
+        }
+      }
+    },
+    "1215382": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6253985714473625900",
+          "size": "86835733",
+          "download": "29082608"
+        }
+      }
+    },
+    "1215383": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2646828553330833587",
+          "size": "84367642",
+          "download": "28851920"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7216110",
+        "timeupdated": "1629378048",
+        "timebuildupdated": "1629378048"
+      },
+      "step_to_4x": {
+        "buildid": "6323010",
+        "description": "Step To 4x",
+        "timeupdated": "1614772696",
+        "timebuildupdated": "1614772696"
+      }
+    }
+  }
+}

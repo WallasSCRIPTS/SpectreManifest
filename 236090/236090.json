@@ -1,0 +1,122 @@
+{
+  "name": "Dust: An Elysian Tail",
+  "source": "spectre",
+  "changenumber": 39906927,
+  "updated": "2026-11-07T20:56:08.612Z",
+  "branches": {
+    "public": {
+      "buildid": "6029182",
+      "timeupdated": "1609453593",
+      "timebuildupdated": "1609453593"
+    },
+    "fna-win32": {
+      "buildid": "10920922",
+      "description": "Win32 FNA - Unsupported!",
+      "timeupdated": "1680547456",
+      "timebuildupdated": "1680547456"
+    },
+    "linux32": {
+      "buildid": "4896504",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609453582",
+      "timebuildupdated": "1586877930"
+    },
+    "linux_sdl3": {
+      "buildid": "24973332",
+      "description": "SDL 3.0 Testing, UNSTABLE",
+      "timeupdated": "1787842318",
+      "timebuildupdated": "1787842318"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "236091": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3453858318896867494",
+          "size": "1445250056",
+          "download": "0"
+        }
+      }
+    },
+    "236092": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3643140810355546394",
+          "size": "1471319737",
+          "download": "1270161296"
+        }
+      }
+    },
+    "236093": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5351902967923787795",
+          "size": "1481534882",
+          "download": "1272316560"
+        }
+      }
+    },
+    "326860": {
+      "manifests": {
+        "public": {
+          "gid": "1923481502402109913",
+          "size": "264016992",
+          "download": "262790544"
+        }
+      },
+      "dlcappid": "326860"
+    },
+    "branches": {
+      "public": {
+        "buildid": "6029182",
+        "timeupdated": "1609453593",
+        "timebuildupdated": "1609453593"
+      },
+      "fna-win32": {
+        "buildid": "10920922",
+        "description": "Win32 FNA - Unsupported!",
+        "timeupdated": "1680547456",
+        "timebuildupdated": "1680547456"
+      },
+      "linux32": {
+        "buildid": "4896504",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609453582",
+        "timebuildupdated": "1586877930"
+      },
+      "linux_sdl3": {
+        "buildid": "24973332",
+        "description": "SDL 3.0 Testing, UNSTABLE",
+        "timeupdated": "1787842318",
+        "timebuildupdated": "1787842318"
+      }
+    }
+  }
+}

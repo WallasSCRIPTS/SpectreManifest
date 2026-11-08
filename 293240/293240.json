@@ -1,0 +1,120 @@
+{
+  "name": "Cosmochoria",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:27.083Z",
+  "branches": {
+    "public": {
+      "buildid": "1296285",
+      "timeupdated": "1472019791",
+      "timebuildupdated": "1472017982"
+    },
+    "beta": {
+      "buildid": "1949955",
+      "description": "Beta Testing",
+      "timeupdated": "1499703911",
+      "timebuildupdated": "1499703498"
+    },
+    "halloween2015": {
+      "buildid": "820065",
+      "description": "Halloween 2015",
+      "timebuildupdated": "1445106976"
+    },
+    "legacy": {
+      "buildid": "859328",
+      "timeupdated": "1461954015",
+      "timebuildupdated": "1447622395"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "293241": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5349531724489844560",
+          "size": "337036943",
+          "download": "270513712"
+        }
+      }
+    },
+    "293242": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3075354398973599039",
+          "size": "410181381",
+          "download": "277351456"
+        }
+      }
+    },
+    "293243": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8709913932451822907",
+          "size": "381470167",
+          "download": "274742528"
+        }
+      }
+    },
+    "293244": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2021195735613273019",
+          "size": "371109451",
+          "download": "274079536"
+        }
+      }
+    },
+    "293245": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6143967063269287910",
+          "size": "363854348",
+          "download": "277068080"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1296285",
+        "timeupdated": "1472019791",
+        "timebuildupdated": "1472017982"
+      },
+      "beta": {
+        "buildid": "1949955",
+        "description": "Beta Testing",
+        "timeupdated": "1499703911",
+        "timebuildupdated": "1499703498"
+      },
+      "halloween2015": {
+        "buildid": "820065",
+        "description": "Halloween 2015",
+        "timebuildupdated": "1445106976"
+      },
+      "legacy": {
+        "buildid": "859328",
+        "timeupdated": "1461954015",
+        "timebuildupdated": "1447622395"
+      }
+    }
+  }
+}

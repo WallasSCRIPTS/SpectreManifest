@@ -1,0 +1,66 @@
+{
+  "name": "BIT.TRIP FATE",
+  "source": "spectre",
+  "changenumber": 39943212,
+  "updated": "2026-11-07T20:56:01.410Z",
+  "branches": {
+    "public": {
+      "buildid": "1155771",
+      "timeupdated": "1464736391",
+      "timebuildupdated": "1464687471"
+    },
+    "patch_beta": {
+      "buildid": "1155771",
+      "timeupdated": "1464687471",
+      "timebuildupdated": "1464687471"
+    }
+  },
+  "depot": {
+    "205081": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2362729233149638633",
+          "size": "95879706",
+          "download": "0"
+        }
+      }
+    },
+    "205082": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2383317715254957974",
+          "size": "140590880",
+          "download": "90352768"
+        }
+      }
+    },
+    "205083": {
+      "manifests": {
+        "public": {
+          "gid": "1888584663003330427",
+          "size": "31024840",
+          "download": "0"
+        }
+      },
+      "dlcappid": "205083"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1155771",
+        "timeupdated": "1464736391",
+        "timebuildupdated": "1464687471"
+      },
+      "patch_beta": {
+        "buildid": "1155771",
+        "timeupdated": "1464687471",
+        "timebuildupdated": "1464687471"
+      }
+    }
+  }
+}

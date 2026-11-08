@@ -1,0 +1,70 @@
+{
+  "name": "lost bits",
+  "source": "spectre",
+  "changenumber": 39554034,
+  "updated": "2026-11-06T23:23:24.593Z",
+  "branches": {
+    "public": {
+      "buildid": "11389169",
+      "timeupdated": "1685853076",
+      "timebuildupdated": "1685852602"
+    },
+    "testing": {
+      "buildid": "11389169",
+      "description": "test",
+      "timeupdated": "1685852661",
+      "timebuildupdated": "1685852602"
+    }
+  },
+  "depot": {
+    "2405831": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5144131018500387766",
+          "size": "227066624",
+          "download": "86668032"
+        }
+      }
+    },
+    "2405832": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6132881151244116304",
+          "size": "228871360",
+          "download": "86910320"
+        }
+      }
+    },
+    "2405833": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1742382066821916359",
+          "size": "298542860",
+          "download": "103423584"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11389169",
+        "timeupdated": "1685853076",
+        "timebuildupdated": "1685852602"
+      },
+      "testing": {
+        "buildid": "11389169",
+        "description": "test",
+        "timeupdated": "1685852661",
+        "timebuildupdated": "1685852602"
+      }
+    }
+  }
+}

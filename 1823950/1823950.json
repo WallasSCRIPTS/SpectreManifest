@@ -1,0 +1,82 @@
+{
+  "name": "Laysara: Summit Kingdom",
+  "source": "spectre",
+  "changenumber": 39288637,
+  "updated": "2026-11-06T23:11:35.428Z",
+  "branches": {
+    "public": {
+      "buildid": "24453371",
+      "timeupdated": "1785334221",
+      "timebuildupdated": "1785333399"
+    },
+    "gamepad": {
+      "buildid": "23777956",
+      "description": "Version of the game with gamepad controls",
+      "timeupdated": "1781681365",
+      "timebuildupdated": "1781681365"
+    },
+    "keyboard_and_mouse": {
+      "buildid": "24453356",
+      "description": " Version of the game with keyboard and mouse controls",
+      "timeupdated": "1785333366",
+      "timebuildupdated": "1785333366"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1823951": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7862992788118122382",
+          "size": "4104565190",
+          "download": "3936703456"
+        }
+      }
+    },
+    "1823952": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "906583079878048419",
+          "size": "2859542526",
+          "download": "2718532912"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24453371",
+        "timeupdated": "1785334221",
+        "timebuildupdated": "1785333399"
+      },
+      "gamepad": {
+        "buildid": "23777956",
+        "description": "Version of the game with gamepad controls",
+        "timeupdated": "1781681365",
+        "timebuildupdated": "1781681365"
+      },
+      "keyboard_and_mouse": {
+        "buildid": "24453356",
+        "description": " Version of the game with keyboard and mouse controls",
+        "timeupdated": "1785333366",
+        "timebuildupdated": "1785333366"
+      }
+    }
+  }
+}

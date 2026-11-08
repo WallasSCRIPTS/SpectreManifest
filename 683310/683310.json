@@ -1,0 +1,63 @@
+{
+  "name": "Cecconoid",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:46.902Z",
+  "branches": {
+    "public": {
+      "buildid": "5351653",
+      "timeupdated": "1596120660",
+      "timebuildupdated": "1596120347"
+    },
+    "test-drive": {
+      "buildid": "5351653",
+      "description": "Test Branch",
+      "timeupdated": "1596120652",
+      "timebuildupdated": "1596120347"
+    }
+  },
+  "depot": {
+    "683311": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8103167060339790854",
+          "size": "98646177",
+          "download": "49786928"
+        }
+      }
+    },
+    "683312": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "683313": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6527403170514794756",
+          "size": "108223228",
+          "download": "51172016"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5351653",
+        "timeupdated": "1596120660",
+        "timebuildupdated": "1596120347"
+      },
+      "test-drive": {
+        "buildid": "5351653",
+        "description": "Test Branch",
+        "timeupdated": "1596120652",
+        "timebuildupdated": "1596120347"
+      }
+    }
+  }
+}

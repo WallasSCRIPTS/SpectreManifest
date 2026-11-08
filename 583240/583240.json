@@ -1,0 +1,90 @@
+{
+  "name": "Coffence",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:01.350Z",
+  "branches": {
+    "public": {
+      "buildid": "3327539",
+      "timeupdated": "1542831347",
+      "timebuildupdated": "1542807775"
+    },
+    "candidate": {
+      "buildid": "3327539",
+      "timeupdated": "1542807775",
+      "timebuildupdated": "1542807775"
+    },
+    "evobuild": {
+      "buildid": "3066055",
+      "description": "Build used for EVO 2017",
+      "timeupdated": "1535467616",
+      "timebuildupdated": "1535338785"
+    },
+    "gcpaxbuild": {
+      "buildid": "2035488",
+      "description": "Build for Gamescom & PAX",
+      "timeupdated": "1502685505",
+      "timebuildupdated": "1502682618"
+    },
+    "pax2018": {
+      "buildid": "3068508",
+      "timeupdated": "1535467572",
+      "timebuildupdated": "1535406392"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "583241": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2176411465830023759",
+          "size": "2707862401",
+          "download": "2454362304"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3327539",
+        "timeupdated": "1542831347",
+        "timebuildupdated": "1542807775"
+      },
+      "candidate": {
+        "buildid": "3327539",
+        "timeupdated": "1542807775",
+        "timebuildupdated": "1542807775"
+      },
+      "evobuild": {
+        "buildid": "3066055",
+        "description": "Build used for EVO 2017",
+        "timeupdated": "1535467616",
+        "timebuildupdated": "1535338785"
+      },
+      "gcpaxbuild": {
+        "buildid": "2035488",
+        "description": "Build for Gamescom & PAX",
+        "timeupdated": "1502685505",
+        "timebuildupdated": "1502682618"
+      },
+      "pax2018": {
+        "buildid": "3068508",
+        "timeupdated": "1535467572",
+        "timebuildupdated": "1535406392"
+      }
+    }
+  }
+}

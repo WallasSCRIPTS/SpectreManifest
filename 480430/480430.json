@@ -1,0 +1,63 @@
+{
+  "name": "Hide and Shriek",
+  "source": "spectre",
+  "changenumber": 40624566,
+  "updated": "2026-11-07T20:58:10.509Z",
+  "branches": {
+    "public": {
+      "buildid": "2184419",
+      "timeupdated": "1508447587",
+      "timebuildupdated": "1507579763"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "480431": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "157918491008137054",
+          "size": "3243174568",
+          "download": "813897648"
+        }
+      }
+    },
+    "480432": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "480433": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7151512805313370686",
+          "size": "3108814355",
+          "download": "630570864"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2184419",
+        "timeupdated": "1508447587",
+        "timebuildupdated": "1507579763"
+      }
+    }
+  }
+}

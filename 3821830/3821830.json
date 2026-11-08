@@ -1,0 +1,94 @@
+{
+  "name": "3Dマーダーミステリー 黒焦げのあなた",
+  "source": "spectre",
+  "changenumber": 40540343,
+  "updated": "2026-11-04T23:24:43.585Z",
+  "branches": {
+    "public": {
+      "buildid": "25796932",
+      "timeupdated": "1791441082",
+      "timebuildupdated": "1791441015"
+    },
+    "beta_gallery": {
+      "buildid": "25771380",
+      "description": "Branch for verifying the Gallery feature",
+      "timeupdated": "1791357675",
+      "timebuildupdated": "1791357337"
+    },
+    "beta_suicide": {
+      "buildid": "23878964",
+      "description": "Branch for reviewing the depiction of suicide",
+      "timeupdated": "1782233899",
+      "timebuildupdated": "1782233638"
+    }
+  },
+  "depot": {
+    "3821831": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "67704416551332888",
+          "size": "3741083076",
+          "download": "1690696912"
+        }
+      }
+    },
+    "3821832": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1170205061395522899",
+          "size": "3741083076",
+          "download": "1692762736"
+        }
+      }
+    },
+    "3821833": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3164624091731209569",
+          "size": "3915926597",
+          "download": "1733810544"
+        }
+      }
+    },
+    "3821834": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2712805983168940296",
+          "size": "3915926597",
+          "download": "1733810544"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25796932",
+        "timeupdated": "1791441082",
+        "timebuildupdated": "1791441015"
+      },
+      "beta_gallery": {
+        "buildid": "25771380",
+        "description": "Branch for verifying the Gallery feature",
+        "timeupdated": "1791357675",
+        "timebuildupdated": "1791357337"
+      },
+      "beta_suicide": {
+        "buildid": "23878964",
+        "description": "Branch for reviewing the depiction of suicide",
+        "timeupdated": "1782233899",
+        "timebuildupdated": "1782233638"
+      }
+    }
+  }
+}

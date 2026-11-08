@@ -1,0 +1,76 @@
+{
+  "name": "Wings Of Bluestar",
+  "source": "spectre",
+  "changenumber": 39424178,
+  "updated": "2026-11-07T21:03:07.817Z",
+  "branches": {
+    "public": {
+      "buildid": "15409241",
+      "timeupdated": "1727968006",
+      "timebuildupdated": "1723960016"
+    },
+    "windows07_build": {
+      "buildid": "6375353",
+      "description": "Windows 7 compatible",
+      "timeupdated": "1615623952",
+      "timebuildupdated": "1615605720"
+    },
+    "steam_os": {
+      "buildid": "10478955",
+      "description": "STEAM DECK",
+      "timeupdated": "1727966928",
+      "timebuildupdated": "1675528693"
+    },
+    "windows10_build": {
+      "buildid": "15409241",
+      "description": "Windows 10 compatible",
+      "timeupdated": "1724065737",
+      "timebuildupdated": "1723960016"
+    }
+  },
+  "depot": {
+    "1088421": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1803622178775308939",
+          "size": "977784889",
+          "download": "822262304"
+        }
+      }
+    },
+    "1088422": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "1088423": {},
+    "branches": {
+      "public": {
+        "buildid": "15409241",
+        "timeupdated": "1727968006",
+        "timebuildupdated": "1723960016"
+      },
+      "windows07_build": {
+        "buildid": "6375353",
+        "description": "Windows 7 compatible",
+        "timeupdated": "1615623952",
+        "timebuildupdated": "1615605720"
+      },
+      "steam_os": {
+        "buildid": "10478955",
+        "description": "STEAM DECK",
+        "timeupdated": "1727966928",
+        "timebuildupdated": "1675528693"
+      },
+      "windows10_build": {
+        "buildid": "15409241",
+        "description": "Windows 10 compatible",
+        "timeupdated": "1724065737",
+        "timebuildupdated": "1723960016"
+      }
+    }
+  }
+}

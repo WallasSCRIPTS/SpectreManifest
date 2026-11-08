@@ -1,0 +1,94 @@
+{
+  "name": "Crawl Tactics",
+  "source": "spectre",
+  "changenumber": 40506079,
+  "updated": "2026-11-06T21:04:12.370Z",
+  "branches": {
+    "public": {
+      "buildid": "26378364",
+      "timeupdated": "1793619722",
+      "timebuildupdated": "1793619525"
+    },
+    "legacy": {
+      "buildid": "20093658",
+      "description": "v2 version",
+      "timeupdated": "1765720482",
+      "timebuildupdated": "1758633667"
+    },
+    "memory_leak_check": {
+      "buildid": "24519414",
+      "description": "Branch to get a heap memory dump",
+      "timeupdated": "1785681380",
+      "timebuildupdated": "1785681316"
+    },
+    "test": {
+      "buildid": "22446803",
+      "description": "for testing before release",
+      "timeupdated": "1774110073",
+      "timebuildupdated": "1774109920"
+    }
+  },
+  "depot": {
+    "1290751": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3138143821506108962",
+          "size": "488638546",
+          "download": "345233792"
+        }
+      }
+    },
+    "1290752": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3291349371724798495",
+          "size": "504014646",
+          "download": "350949680"
+        }
+      }
+    },
+    "1290753": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4968362235929555257",
+          "size": "495639491",
+          "download": "348456400"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26378364",
+        "timeupdated": "1793619722",
+        "timebuildupdated": "1793619525"
+      },
+      "legacy": {
+        "buildid": "20093658",
+        "description": "v2 version",
+        "timeupdated": "1765720482",
+        "timebuildupdated": "1758633667"
+      },
+      "memory_leak_check": {
+        "buildid": "24519414",
+        "description": "Branch to get a heap memory dump",
+        "timeupdated": "1785681380",
+        "timebuildupdated": "1785681316"
+      },
+      "test": {
+        "buildid": "22446803",
+        "description": "for testing before release",
+        "timeupdated": "1774110073",
+        "timebuildupdated": "1774109920"
+      }
+    }
+  }
+}

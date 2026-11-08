@@ -1,0 +1,58 @@
+{
+  "name": "ZAP Master",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:45.223Z",
+  "branches": {
+    "public": {
+      "buildid": "2085917",
+      "timeupdated": "1598077812",
+      "timebuildupdated": "1504282764"
+    }
+  },
+  "depot": {
+    "679861": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8700244247474051673",
+          "size": "61380282",
+          "download": "37853744"
+        }
+      }
+    },
+    "679862": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8479328166295704296",
+          "size": "75378668",
+          "download": "41138592"
+        }
+      }
+    },
+    "679863": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6846468516892248182",
+          "size": "111197031",
+          "download": "52829168"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2085917",
+        "timeupdated": "1598077812",
+        "timebuildupdated": "1504282764"
+      }
+    }
+  }
+}

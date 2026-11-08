@@ -1,0 +1,60 @@
+{
+  "name": "Skyworld",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:51.746Z",
+  "branches": {
+    "public": {
+      "buildid": "4896667",
+      "timeupdated": "1586939562",
+      "timebuildupdated": "1586880313"
+    },
+    "local": {
+      "buildid": "1731732",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1491214452",
+      "timebuildupdated": "1491214452"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "342191": {
+      "manifests": {
+        "public": {
+          "gid": "5592385139104903345",
+          "size": "4433232529",
+          "download": "1028824512"
+        }
+      }
+    },
+    "734500": {
+      "dlcappid": "734500"
+    },
+    "branches": {
+      "public": {
+        "buildid": "4896667",
+        "timeupdated": "1586939562",
+        "timebuildupdated": "1586880313"
+      },
+      "local": {
+        "buildid": "1731732",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1491214452",
+        "timebuildupdated": "1491214452"
+      }
+    }
+  }
+}

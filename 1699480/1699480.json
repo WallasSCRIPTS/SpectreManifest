@@ -1,0 +1,82 @@
+{
+  "name": "KLETKA",
+  "source": "spectre",
+  "changenumber": 40620041,
+  "updated": "2026-11-06T23:07:50.999Z",
+  "branches": {
+    "public": {
+      "buildid": "23466752",
+      "timeupdated": "1780041279",
+      "timebuildupdated": "1780041142"
+    },
+    "beta-test": {
+      "buildid": "23466752",
+      "description": "For beta testers",
+      "timeupdated": "1780041279",
+      "timebuildupdated": "1780041142"
+    },
+    "crossplay-stable": {
+      "buildid": "22956327",
+      "description": "This branch contains a stable crossplay build for playing between different platforms. Content may differ from the default branch, but we’ll update this branch as often as possible.",
+      "timeupdated": "1777451516",
+      "timebuildupdated": "1777136916"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1699481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3106790748044782561",
+          "size": "2880518405",
+          "download": "2266903088"
+        }
+      }
+    },
+    "1699482": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "38292940894618278",
+          "size": "4912406972",
+          "download": "2557660448"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23466752",
+        "timeupdated": "1780041279",
+        "timebuildupdated": "1780041142"
+      },
+      "beta-test": {
+        "buildid": "23466752",
+        "description": "For beta testers",
+        "timeupdated": "1780041279",
+        "timebuildupdated": "1780041142"
+      },
+      "crossplay-stable": {
+        "buildid": "22956327",
+        "description": "This branch contains a stable crossplay build for playing between different platforms. Content may differ from the default branch, but we’ll update this branch as often as possible.",
+        "timeupdated": "1777451516",
+        "timebuildupdated": "1777136916"
+      }
+    }
+  }
+}

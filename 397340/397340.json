@@ -1,0 +1,258 @@
+{
+  "name": "SimplePlanes",
+  "source": "spectre",
+  "changenumber": 37434570,
+  "updated": "2026-11-07T20:57:31.376Z",
+  "branches": {
+    "public": {
+      "buildid": "21013546",
+      "timeupdated": "1765398819",
+      "timebuildupdated": "1764630409"
+    },
+    "experimental": {
+      "buildid": "8192523",
+      "description": "Experimental",
+      "timeupdated": "1644681922",
+      "timebuildupdated": "1644681873"
+    },
+    "public-test": {
+      "buildid": "21013546",
+      "description": "Public Test",
+      "timeupdated": "1764690006",
+      "timebuildupdated": "1764630409"
+    },
+    "steamdeck": {
+      "buildid": "8247379",
+      "description": "A branch for testing on the Steam Deck",
+      "timeupdated": "1645479124",
+      "timebuildupdated": "1645479016"
+    },
+    "v1.12.128.0": {
+      "buildid": "8444332",
+      "description": "Version 1.12.128.0",
+      "timeupdated": "1696112045",
+      "timebuildupdated": "1648311568"
+    },
+    "v1.11.106.2": {
+      "buildid": "7560900",
+      "description": "Version 1.11.106.2",
+      "timeupdated": "1640189831",
+      "timebuildupdated": "1634657084"
+    },
+    "v1.10.106.0": {
+      "buildid": "5816372",
+      "description": "Version 1.10.106.0",
+      "timeupdated": "1634312846",
+      "timebuildupdated": "1605114681"
+    },
+    "v1.9.205.0": {
+      "buildid": "4791644",
+      "description": "Version 1.9.100.0",
+      "timeupdated": "1584718191",
+      "timebuildupdated": "1584538169"
+    },
+    "v1.9.100.0": {
+      "buildid": "4502809",
+      "description": "Version 1.9.100.0",
+      "timeupdated": "1582914045",
+      "timebuildupdated": "1576595353"
+    },
+    "v1.8.305.0": {
+      "buildid": "3668352",
+      "description": "Version 1.8.305.0",
+      "timeupdated": "1582913872",
+      "timebuildupdated": "1553187294"
+    },
+    "v1.7.1.0": {
+      "buildid": "2797106",
+      "description": "Version 1.7.1.0",
+      "timeupdated": "1552663415",
+      "timebuildupdated": "1527014650"
+    },
+    "v1.6.1.1": {
+      "buildid": "1904199",
+      "description": "Version 1.6.1.1",
+      "timeupdated": "1552663495",
+      "timebuildupdated": "1497996248"
+    },
+    "v1.5.3.3": {
+      "buildid": "1338103",
+      "description": "Version 1.5.3.3",
+      "timeupdated": "1552663575",
+      "timebuildupdated": "1473967047"
+    },
+    "v1.4.1.1": {
+      "buildid": "1126354",
+      "description": "Version 1.4.1.1",
+      "timeupdated": "1552663655",
+      "timebuildupdated": "1463148586"
+    },
+    "v1.3.4.0": {
+      "buildid": "901983",
+      "description": "Version 1.3.4.0",
+      "timeupdated": "1552663881",
+      "timebuildupdated": "1450292268"
+    },
+    "v1.3.21.2": {
+      "buildid": "1020185",
+      "description": "Version 1.3.21.2",
+      "timeupdated": "1552663789",
+      "timebuildupdated": "1457709551"
+    },
+    "customer-support-1": {
+      "buildid": "16708766",
+      "description": "Customer Support 1",
+      "timeupdated": "1733927901",
+      "timebuildupdated": "1733927812"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "397341": {
+      "manifests": {
+        "public": {
+          "gid": "1377676462806013237",
+          "size": "31456593",
+          "download": "31167792"
+        }
+      }
+    },
+    "397342": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8710786491616702016",
+          "size": "809790642",
+          "download": "247134624"
+        }
+      }
+    },
+    "397343": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4501798904897573639",
+          "size": "842937929",
+          "download": "254928912"
+        }
+      }
+    },
+    "397344": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21013546",
+        "timeupdated": "1765398819",
+        "timebuildupdated": "1764630409"
+      },
+      "experimental": {
+        "buildid": "8192523",
+        "description": "Experimental",
+        "timeupdated": "1644681922",
+        "timebuildupdated": "1644681873"
+      },
+      "public-test": {
+        "buildid": "21013546",
+        "description": "Public Test",
+        "timeupdated": "1764690006",
+        "timebuildupdated": "1764630409"
+      },
+      "steamdeck": {
+        "buildid": "8247379",
+        "description": "A branch for testing on the Steam Deck",
+        "timeupdated": "1645479124",
+        "timebuildupdated": "1645479016"
+      },
+      "v1.12.128.0": {
+        "buildid": "8444332",
+        "description": "Version 1.12.128.0",
+        "timeupdated": "1696112045",
+        "timebuildupdated": "1648311568"
+      },
+      "v1.11.106.2": {
+        "buildid": "7560900",
+        "description": "Version 1.11.106.2",
+        "timeupdated": "1640189831",
+        "timebuildupdated": "1634657084"
+      },
+      "v1.10.106.0": {
+        "buildid": "5816372",
+        "description": "Version 1.10.106.0",
+        "timeupdated": "1634312846",
+        "timebuildupdated": "1605114681"
+      },
+      "v1.9.205.0": {
+        "buildid": "4791644",
+        "description": "Version 1.9.100.0",
+        "timeupdated": "1584718191",
+        "timebuildupdated": "1584538169"
+      },
+      "v1.9.100.0": {
+        "buildid": "4502809",
+        "description": "Version 1.9.100.0",
+        "timeupdated": "1582914045",
+        "timebuildupdated": "1576595353"
+      },
+      "v1.8.305.0": {
+        "buildid": "3668352",
+        "description": "Version 1.8.305.0",
+        "timeupdated": "1582913872",
+        "timebuildupdated": "1553187294"
+      },
+      "v1.7.1.0": {
+        "buildid": "2797106",
+        "description": "Version 1.7.1.0",
+        "timeupdated": "1552663415",
+        "timebuildupdated": "1527014650"
+      },
+      "v1.6.1.1": {
+        "buildid": "1904199",
+        "description": "Version 1.6.1.1",
+        "timeupdated": "1552663495",
+        "timebuildupdated": "1497996248"
+      },
+      "v1.5.3.3": {
+        "buildid": "1338103",
+        "description": "Version 1.5.3.3",
+        "timeupdated": "1552663575",
+        "timebuildupdated": "1473967047"
+      },
+      "v1.4.1.1": {
+        "buildid": "1126354",
+        "description": "Version 1.4.1.1",
+        "timeupdated": "1552663655",
+        "timebuildupdated": "1463148586"
+      },
+      "v1.3.4.0": {
+        "buildid": "901983",
+        "description": "Version 1.3.4.0",
+        "timeupdated": "1552663881",
+        "timebuildupdated": "1450292268"
+      },
+      "v1.3.21.2": {
+        "buildid": "1020185",
+        "description": "Version 1.3.21.2",
+        "timeupdated": "1552663789",
+        "timebuildupdated": "1457709551"
+      },
+      "customer-support-1": {
+        "buildid": "16708766",
+        "description": "Customer Support 1",
+        "timeupdated": "1733927901",
+        "timebuildupdated": "1733927812"
+      }
+    }
+  }
+}

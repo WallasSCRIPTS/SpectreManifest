@@ -1,0 +1,63 @@
+{
+  "name": "Woodsalt",
+  "source": "spectre",
+  "changenumber": 35946306,
+  "updated": "2026-11-05T14:51:33.529Z",
+  "branches": {
+    "public": {
+      "buildid": "6116212",
+      "timeupdated": "1611248250",
+      "timebuildupdated": "1611224204"
+    },
+    "experimental": {
+      "buildid": "5997729",
+      "description": "testing stuff",
+      "timeupdated": "1608559819",
+      "timebuildupdated": "1608559794"
+    }
+  },
+  "depot": {
+    "1282701": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4032596160200994283",
+          "size": "3834120156",
+          "download": "1937428720"
+        }
+      }
+    },
+    "1282702": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7143920226311479680",
+          "size": "4010949175",
+          "download": "1964116464"
+        }
+      }
+    },
+    "1282703": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6116212",
+        "timeupdated": "1611248250",
+        "timebuildupdated": "1611224204"
+      },
+      "experimental": {
+        "buildid": "5997729",
+        "description": "testing stuff",
+        "timeupdated": "1608559819",
+        "timebuildupdated": "1608559794"
+      }
+    }
+  }
+}

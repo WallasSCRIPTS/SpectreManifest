@@ -1,0 +1,68 @@
+{
+  "name": "Coffee Talk",
+  "source": "spectre",
+  "changenumber": 39038469,
+  "updated": "2026-11-07T21:01:39.298Z",
+  "branches": {
+    "public": {
+      "buildid": "12284838",
+      "timeupdated": "1699936760",
+      "timebuildupdated": "1695724646"
+    },
+    "public_beta_testing": {
+      "buildid": "6157469",
+      "description": "Public Beta-testing Purpose",
+      "timeupdated": "1611918349",
+      "timebuildupdated": "1611918349"
+    }
+  },
+  "depot": {
+    "914801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4233783059501447175",
+          "size": "561809397",
+          "download": "218508976"
+        }
+      }
+    },
+    "914802": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6784535904638719557",
+          "size": "584049458",
+          "download": "222601440"
+        }
+      }
+    },
+    "1231690": {
+      "manifests": {
+        "public": {
+          "gid": "8464362679332492366",
+          "size": "57611454",
+          "download": "43115120"
+        }
+      },
+      "dlcappid": "1231690"
+    },
+    "branches": {
+      "public": {
+        "buildid": "12284838",
+        "timeupdated": "1699936760",
+        "timebuildupdated": "1695724646"
+      },
+      "public_beta_testing": {
+        "buildid": "6157469",
+        "description": "Public Beta-testing Purpose",
+        "timeupdated": "1611918349",
+        "timebuildupdated": "1611918349"
+      }
+    }
+  }
+}

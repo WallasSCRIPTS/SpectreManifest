@@ -1,0 +1,70 @@
+{
+  "name": "Basketball Classics",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:56.740Z",
+  "branches": {
+    "public": {
+      "buildid": "7635290",
+      "timeupdated": "1635752749",
+      "timebuildupdated": "1635750086"
+    },
+    "beta": {
+      "buildid": "7635290",
+      "description": "Public beta branch",
+      "timeupdated": "1635752704",
+      "timebuildupdated": "1635750086"
+    }
+  },
+  "depot": {
+    "819631": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4682464199071877200",
+          "size": "502455670",
+          "download": "55897344"
+        }
+      }
+    },
+    "819632": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6504444888971996194",
+          "size": "502132135",
+          "download": "55432352"
+        }
+      }
+    },
+    "819633": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "779976744424983172",
+          "size": "511733240",
+          "download": "56967680"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7635290",
+        "timeupdated": "1635752749",
+        "timebuildupdated": "1635750086"
+      },
+      "beta": {
+        "buildid": "7635290",
+        "description": "Public beta branch",
+        "timeupdated": "1635752704",
+        "timebuildupdated": "1635750086"
+      }
+    }
+  }
+}

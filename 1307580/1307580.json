@@ -1,0 +1,82 @@
+{
+  "name": "TOEM",
+  "source": "spectre",
+  "changenumber": 39916786,
+  "updated": "2026-11-06T21:04:20.000Z",
+  "branches": {
+    "public": {
+      "buildid": "20270110",
+      "timeupdated": "1759820335",
+      "timebuildupdated": "1759753550"
+    },
+    "1.05-patch": {
+      "buildid": "10317337",
+      "description": "Just here for speedrunners!",
+      "timeupdated": "1673627210",
+      "timebuildupdated": "1673627210"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1307581": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4301889594281062572",
+          "size": "427948069",
+          "download": "238606640"
+        }
+      }
+    },
+    "1307582": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2201720540574109937",
+          "size": "439188087",
+          "download": "238779504"
+        }
+      }
+    },
+    "1307583": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1200517309769379446",
+          "size": "441233691",
+          "download": "239243744"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20270110",
+        "timeupdated": "1759820335",
+        "timebuildupdated": "1759753550"
+      },
+      "1.05-patch": {
+        "buildid": "10317337",
+        "description": "Just here for speedrunners!",
+        "timeupdated": "1673627210",
+        "timebuildupdated": "1673627210"
+      }
+    }
+  }
+}

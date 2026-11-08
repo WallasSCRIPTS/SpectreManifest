@@ -1,0 +1,61 @@
+{
+  "name": "Blood Bar Tycoon",
+  "source": "spectre",
+  "changenumber": 40088070,
+  "updated": "2026-11-06T21:07:24.272Z",
+  "branches": {
+    "public": {
+      "buildid": "25838505",
+      "timeupdated": "1791709258",
+      "timebuildupdated": "1791577426"
+    },
+    "beta": {
+      "buildid": "26107460",
+      "description": "Public testing branch",
+      "timeupdated": "1792588831",
+      "timebuildupdated": "1792588831"
+    }
+  },
+  "depot": {
+    "2776781": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8000441001315236402",
+          "size": "6618035182",
+          "download": "4012744240"
+        }
+      }
+    },
+    "2776782": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6889153193104926506",
+          "size": "6631495207",
+          "download": "4039789216"
+        }
+      }
+    },
+    "3372940": {
+      "dlcappid": "3372940"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25838505",
+        "timeupdated": "1791709258",
+        "timebuildupdated": "1791577426"
+      },
+      "beta": {
+        "buildid": "26107460",
+        "description": "Public testing branch",
+        "timeupdated": "1792588831",
+        "timebuildupdated": "1792588831"
+      }
+    }
+  }
+}

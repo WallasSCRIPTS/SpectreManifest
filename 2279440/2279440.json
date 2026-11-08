@@ -1,0 +1,70 @@
+{
+  "name": "Soul Mates",
+  "source": "spectre",
+  "changenumber": 40686842,
+  "updated": "2026-11-06T23:21:24.321Z",
+  "branches": {
+    "public": {
+      "buildid": "26282358",
+      "timeupdated": "1793311423",
+      "timebuildupdated": "1793222934"
+    },
+    "publicbeta": {
+      "buildid": "26304578",
+      "description": "Public Beta",
+      "timeupdated": "1793979127",
+      "timebuildupdated": "1793297465"
+    }
+  },
+  "depot": {
+    "2279441": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1357522186912637346",
+          "size": "862679228",
+          "download": "500215216"
+        }
+      }
+    },
+    "2279442": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8663450602626241840",
+          "size": "887069709",
+          "download": "508872080"
+        }
+      }
+    },
+    "2279443": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2467410798173555335",
+          "size": "861757781",
+          "download": "498137296"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26282358",
+        "timeupdated": "1793311423",
+        "timebuildupdated": "1793222934"
+      },
+      "publicbeta": {
+        "buildid": "26304578",
+        "description": "Public Beta",
+        "timeupdated": "1793979127",
+        "timebuildupdated": "1793297465"
+      }
+    }
+  }
+}

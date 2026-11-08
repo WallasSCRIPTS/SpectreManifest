@@ -1,0 +1,67 @@
+{
+  "name": "Wrecked",
+  "source": "spectre",
+  "changenumber": 40630016,
+  "updated": "2026-11-07T21:00:50.550Z",
+  "branches": {
+    "public": {
+      "buildid": "2960428",
+      "timeupdated": "1532030440",
+      "timebuildupdated": "1532029225"
+    },
+    "beta": {
+      "buildid": "2911930",
+      "description": "testing bug fixes",
+      "timeupdated": "1532030448",
+      "timebuildupdated": "1530538546"
+    }
+  },
+  "depot": {
+    "805851": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1189943659748107156",
+          "size": "439175032",
+          "download": "128213984"
+        }
+      }
+    },
+    "805852": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5297701881554134310",
+          "size": "487478800",
+          "download": "152981776"
+        }
+      }
+    },
+    "805853": {
+      "manifests": {
+        "public": {
+          "gid": "3203844675730114404",
+          "size": "566563647",
+          "download": "192684912"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2960428",
+        "timeupdated": "1532030440",
+        "timebuildupdated": "1532029225"
+      },
+      "beta": {
+        "buildid": "2911930",
+        "description": "testing bug fixes",
+        "timeupdated": "1532030448",
+        "timebuildupdated": "1530538546"
+      }
+    }
+  }
+}

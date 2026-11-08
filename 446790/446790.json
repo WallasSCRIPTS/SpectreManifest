@@ -1,0 +1,281 @@
+{
+  "name": "Diluvion",
+  "source": "spectre",
+  "changenumber": 37434570,
+  "updated": "2026-11-07T20:57:54.777Z",
+  "branches": {
+    "public": {
+      "buildid": "10967144",
+      "timeupdated": "1710647476",
+      "timebuildupdated": "1681102322"
+    },
+    "beta": {
+      "buildid": "10967144",
+      "description": "For public beta tests of features/patches",
+      "timeupdated": "1681102323",
+      "timebuildupdated": "1681102322"
+    },
+    "staging": {
+      "buildid": "2568065",
+      "description": "Old Diluvion Build",
+      "timeupdated": "1538153503",
+      "timebuildupdated": "1519924225"
+    }
+  },
+  "depot": {
+    "446791": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7859097571218929207",
+          "size": "4436819793",
+          "download": "2128029376"
+        }
+      }
+    },
+    "446792": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4326280095446196109",
+          "size": "5133220318",
+          "download": "2481038896"
+        }
+      }
+    },
+    "446793": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "524042452140627073",
+          "size": "4457225531",
+          "download": "2133584048"
+        }
+      }
+    },
+    "446794": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7961089206848855282",
+          "size": "1633",
+          "download": "1600"
+        }
+      },
+      "dlcappid": "543820"
+    },
+    "446795": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3619647010450716174",
+          "size": "1620",
+          "download": "1584"
+        }
+      },
+      "dlcappid": "543821"
+    },
+    "446796": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1248839499760459644",
+          "size": "1616",
+          "download": "1584"
+        }
+      },
+      "dlcappid": "543822"
+    },
+    "446797": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8329626389120612396",
+          "size": "2878",
+          "download": "2544"
+        }
+      },
+      "dlcappid": "543823"
+    },
+    "446798": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2558740368808474169",
+          "size": "1616",
+          "download": "1568"
+        }
+      },
+      "dlcappid": "578020"
+    },
+    "446799": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4912911237637040588",
+          "size": "1639",
+          "download": "1600"
+        }
+      },
+      "dlcappid": "578030"
+    },
+    "543824": {
+      "manifests": {
+        "public": {
+          "gid": "2060797051614766432",
+          "size": "1396035981",
+          "download": "1401746176"
+        }
+      },
+      "dlcappid": "577600"
+    },
+    "543825": {
+      "manifests": {
+        "public": {
+          "gid": "9040778952237937338",
+          "size": "121935105",
+          "download": "110185664"
+        }
+      },
+      "dlcappid": "577610"
+    },
+    "543826": {
+      "manifests": {
+        "public": {
+          "gid": "6048785021851079054",
+          "size": "75370546",
+          "download": "74406208"
+        }
+      },
+      "dlcappid": "578380"
+    },
+    "543827": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "315821407173811052",
+          "size": "1633",
+          "download": "1600"
+        }
+      },
+      "dlcappid": "543820"
+    },
+    "543828": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4753599705501770073",
+          "size": "1620",
+          "download": "1584"
+        }
+      },
+      "dlcappid": "543821"
+    },
+    "543829": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3428298924091405683",
+          "size": "1616",
+          "download": "1584"
+        }
+      },
+      "dlcappid": "543822"
+    },
+    "576511": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8875867980930023737",
+          "size": "2878",
+          "download": "2544"
+        }
+      },
+      "dlcappid": "543823"
+    },
+    "576512": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2843681742955111051",
+          "size": "1616",
+          "download": "1568"
+        }
+      },
+      "dlcappid": "578020"
+    },
+    "576513": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8694668638114903194",
+          "size": "1639",
+          "download": "1600"
+        }
+      },
+      "dlcappid": "578030"
+    },
+    "576514": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2290253590010884445",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "820330"
+    },
+    "branches": {
+      "public": {
+        "buildid": "10967144",
+        "timeupdated": "1710647476",
+        "timebuildupdated": "1681102322"
+      },
+      "beta": {
+        "buildid": "10967144",
+        "description": "For public beta tests of features/patches",
+        "timeupdated": "1681102323",
+        "timebuildupdated": "1681102322"
+      },
+      "staging": {
+        "buildid": "2568065",
+        "description": "Old Diluvion Build",
+        "timeupdated": "1538153503",
+        "timebuildupdated": "1519924225"
+      }
+    }
+  }
+}

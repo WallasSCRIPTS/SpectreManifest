@@ -1,0 +1,66 @@
+{
+  "name": "Rival Stars Horse Racing",
+  "source": "spectre",
+  "changenumber": 40355676,
+  "updated": "2026-11-07T21:03:53.652Z",
+  "branches": {
+    "public": {
+      "buildid": "25639107",
+      "timeupdated": "1790806268",
+      "timebuildupdated": "1790806268"
+    },
+    "local": {
+      "buildid": "6890468",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1623981683",
+      "timebuildupdated": "1623981683"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1166861": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "323047516020031557",
+          "size": "7114346248",
+          "download": "4057484448"
+        }
+      }
+    },
+    "1166862": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1997440134141793324",
+          "size": "7453931526",
+          "download": "4160855200"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25639107",
+        "timeupdated": "1790806268",
+        "timebuildupdated": "1790806268"
+      },
+      "local": {
+        "buildid": "6890468",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1623981683",
+        "timebuildupdated": "1623981683"
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Tunnel B1",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:54.163Z",
+  "branches": {
+    "public": {
+      "buildid": "5216500",
+      "timeupdated": "1593125196",
+      "timebuildupdated": "1593124846"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "814601": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3569972764572735992",
+          "size": "955839927",
+          "download": "430032160"
+        }
+      }
+    },
+    "814602": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "770565660665628103",
+          "size": "451867517",
+          "download": "345399552"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5216500",
+        "timeupdated": "1593125196",
+        "timebuildupdated": "1593124846"
+      }
+    }
+  }
+}

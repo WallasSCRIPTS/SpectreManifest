@@ -1,0 +1,68 @@
+{
+  "name": "Kubifaktorium Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:03:34.521Z",
+  "branches": {
+    "public": {
+      "buildid": "8253002",
+      "timeupdated": "1645548269",
+      "timebuildupdated": "1645548247"
+    },
+    "beta": {
+      "buildid": "8458542",
+      "timeupdated": "1648557498",
+      "timebuildupdated": "1648557498"
+    }
+  },
+  "depot": {
+    "1128031": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2183200130449684623",
+          "size": "466803286",
+          "download": "226598624"
+        }
+      }
+    },
+    "1128032": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5243384699374197654",
+          "size": "475978450",
+          "download": "227453328"
+        }
+      }
+    },
+    "1128033": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6955376339564754877",
+          "size": "386521047",
+          "download": "180039600"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8253002",
+        "timeupdated": "1645548269",
+        "timebuildupdated": "1645548247"
+      },
+      "beta": {
+        "buildid": "8458542",
+        "timeupdated": "1648557498",
+        "timebuildupdated": "1648557498"
+      }
+    }
+  }
+}

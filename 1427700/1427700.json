@@ -1,0 +1,75 @@
+{
+  "name": "Realm Engine | Virtual Tabletop",
+  "source": "spectre",
+  "changenumber": 39795199,
+  "updated": "2026-11-06T21:05:11.252Z",
+  "branches": {
+    "public": {
+      "buildid": "7009105",
+      "timeupdated": "1626192153",
+      "timebuildupdated": "1625902404"
+    },
+    "030prealpha": {
+      "buildid": "15896538",
+      "description": "pre alpha",
+      "timeupdated": "1727833197",
+      "timebuildupdated": "1727833197"
+    },
+    "experimental": {
+      "buildid": "16545216",
+      "description": "2.0 Experimental",
+      "timeupdated": "1732665224",
+      "timebuildupdated": "1732665224"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1427701": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8104364324610676207",
+          "size": "19027388367",
+          "download": "18231145216"
+        }
+      }
+    },
+    "1427702": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7009105",
+        "timeupdated": "1626192153",
+        "timebuildupdated": "1625902404"
+      },
+      "030prealpha": {
+        "buildid": "15896538",
+        "description": "pre alpha",
+        "timeupdated": "1727833197",
+        "timebuildupdated": "1727833197"
+      },
+      "experimental": {
+        "buildid": "16545216",
+        "description": "2.0 Experimental",
+        "timeupdated": "1732665224",
+        "timebuildupdated": "1732665224"
+      }
+    }
+  }
+}

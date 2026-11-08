@@ -1,0 +1,70 @@
+{
+  "name": "Critical Annihilation",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-07T20:56:49.783Z",
+  "branches": {
+    "public": {
+      "buildid": "11175200",
+      "timeupdated": "1683471387",
+      "timebuildupdated": "1683470758"
+    },
+    "patchtest": {
+      "buildid": "11175200",
+      "description": "Patch test version",
+      "timeupdated": "1683470773",
+      "timebuildupdated": "1683470758"
+    }
+  },
+  "depot": {
+    "339441": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4330727864258968975",
+          "size": "488106718",
+          "download": "206338944"
+        }
+      }
+    },
+    "339442": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8605733527595216836",
+          "size": "499244753",
+          "download": "209006512"
+        }
+      }
+    },
+    "339443": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4780538819639713750",
+          "size": "496578997",
+          "download": "208022848"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11175200",
+        "timeupdated": "1683471387",
+        "timebuildupdated": "1683470758"
+      },
+      "patchtest": {
+        "buildid": "11175200",
+        "description": "Patch test version",
+        "timeupdated": "1683470773",
+        "timebuildupdated": "1683470758"
+      }
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "name": "Scrap Mechanic",
+  "source": "spectre",
+  "changenumber": 40671998,
+  "updated": "2026-11-07T20:57:26.740Z",
+  "branches": {
+    "public": {
+      "buildid": "25442087",
+      "timeupdated": "1790012367",
+      "timebuildupdated": "1790011837"
+    },
+    "0.3.5": {
+      "buildid": "3583132",
+      "description": "Last version before survival release",
+      "timeupdated": "1588804816",
+      "timebuildupdated": "1550782129"
+    },
+    "0.7.4": {
+      "buildid": "22163681",
+      "description": "Last version before Drilling Thunder",
+      "timeupdated": "1772474346",
+      "timebuildupdated": "1772468674"
+    },
+    "1.0.5": {
+      "buildid": "24529696",
+      "description": "Previous version",
+      "timeupdated": "1789056779",
+      "timebuildupdated": "1785750377"
+    },
+    "local": {
+      "buildid": "23696169",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1781247483",
+      "timebuildupdated": "1781247483"
+    },
+    "test": {
+      "buildid": "26486039",
+      "description": "Public test",
+      "timeupdated": "1793975038",
+      "timebuildupdated": "1793973125"
+    }
+  },
+  "depot": {
+    "387992": {
+      "manifests": {
+        "public": {
+          "gid": "2865301295292098517",
+          "size": "15211077666",
+          "download": "6093957648"
+        }
+      }
+    },
+    "387993": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3806278790118948976",
+          "size": "5385778578",
+          "download": "4710280544"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25442087",
+        "timeupdated": "1790012367",
+        "timebuildupdated": "1790011837"
+      },
+      "0.3.5": {
+        "buildid": "3583132",
+        "description": "Last version before survival release",
+        "timeupdated": "1588804816",
+        "timebuildupdated": "1550782129"
+      },
+      "0.7.4": {
+        "buildid": "22163681",
+        "description": "Last version before Drilling Thunder",
+        "timeupdated": "1772474346",
+        "timebuildupdated": "1772468674"
+      },
+      "1.0.5": {
+        "buildid": "24529696",
+        "description": "Previous version",
+        "timeupdated": "1789056779",
+        "timebuildupdated": "1785750377"
+      },
+      "local": {
+        "buildid": "23696169",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1781247483",
+        "timebuildupdated": "1781247483"
+      },
+      "test": {
+        "buildid": "26486039",
+        "description": "Public test",
+        "timeupdated": "1793975038",
+        "timebuildupdated": "1793973125"
+      }
+    }
+  }
+}

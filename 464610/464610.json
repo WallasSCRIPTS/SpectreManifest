@@ -1,0 +1,70 @@
+{
+  "name": "Led It Rain",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:05.472Z",
+  "branches": {
+    "public": {
+      "buildid": "16723949",
+      "timeupdated": "1734026562",
+      "timebuildupdated": "1734020620"
+    },
+    "linux": {
+      "buildid": "4516165",
+      "description": "Linux version",
+      "timeupdated": "1576861496",
+      "timebuildupdated": "1576861462"
+    },
+    "beta": {
+      "buildid": "16723949",
+      "description": "Public beta branch",
+      "timeupdated": "1734020706",
+      "timebuildupdated": "1734020620"
+    }
+  },
+  "depot": {
+    "464611": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1913773817753046614",
+          "size": "8290117577",
+          "download": "3163200224"
+        }
+      }
+    },
+    "464612": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "208998234750781124",
+          "size": "4248918600",
+          "download": "1758812288"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16723949",
+        "timeupdated": "1734026562",
+        "timebuildupdated": "1734020620"
+      },
+      "linux": {
+        "buildid": "4516165",
+        "description": "Linux version",
+        "timeupdated": "1576861496",
+        "timebuildupdated": "1576861462"
+      },
+      "beta": {
+        "buildid": "16723949",
+        "description": "Public beta branch",
+        "timeupdated": "1734020706",
+        "timebuildupdated": "1734020620"
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Beat Hazard",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:56.055Z",
+  "branches": {
+    "public": {
+      "buildid": "24072552",
+      "timeupdated": "1783413028",
+      "timebuildupdated": "1783340282"
+    }
+  },
+  "depot": {
+    "49601": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5974119478911626873",
+          "size": "634302520",
+          "download": "635373392"
+        }
+      }
+    },
+    "49607": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4754973685290758832",
+          "size": "210189580",
+          "download": "206421056"
+        }
+      }
+    },
+    "49608": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7162368572552600817",
+          "size": "201624897",
+          "download": "186074960"
+        }
+      }
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24072552",
+        "timeupdated": "1783413028",
+        "timebuildupdated": "1783340282"
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "name": "YIIK: A Postmodern RPG",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:01.904Z",
+  "branches": {
+    "public": {
+      "buildid": "16762414",
+      "timeupdated": "1734373196",
+      "timebuildupdated": "1734373023"
+    },
+    "alternate_launcher": {
+      "buildid": "16618179",
+      "description": "For users experiencing launcher issues",
+      "timeupdated": "1733248644",
+      "timebuildupdated": "1733248252"
+    },
+    "experimental_builds": {
+      "buildid": "17312773",
+      "description": "The most recent builds of YIIK. Bug fixes are being worked on and tested here",
+      "timeupdated": "1739223498",
+      "timebuildupdated": "1739223375"
+    },
+    "legacybranch": {
+      "buildid": "6529784",
+      "description": "legacy branch",
+      "timeupdated": "1681257032",
+      "timebuildupdated": "1618269574"
+    }
+  },
+  "depot": {
+    "459081": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6371337978980658450",
+          "size": "7241273739",
+          "download": "2388648512"
+        }
+      }
+    },
+    "459082": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2147783073012233284",
+          "size": "7206605588",
+          "download": "2372959808"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16762414",
+        "timeupdated": "1734373196",
+        "timebuildupdated": "1734373023"
+      },
+      "alternate_launcher": {
+        "buildid": "16618179",
+        "description": "For users experiencing launcher issues",
+        "timeupdated": "1733248644",
+        "timebuildupdated": "1733248252"
+      },
+      "experimental_builds": {
+        "buildid": "17312773",
+        "description": "The most recent builds of YIIK. Bug fixes are being worked on and tested here",
+        "timeupdated": "1739223498",
+        "timebuildupdated": "1739223375"
+      },
+      "legacybranch": {
+        "buildid": "6529784",
+        "description": "legacy branch",
+        "timeupdated": "1681257032",
+        "timebuildupdated": "1618269574"
+      }
+    }
+  }
+}

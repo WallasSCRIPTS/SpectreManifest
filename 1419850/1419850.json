@@ -1,0 +1,82 @@
+{
+  "name": "Saleblazers",
+  "source": "spectre",
+  "changenumber": 40613810,
+  "updated": "2026-11-06T21:05:07.824Z",
+  "branches": {
+    "public": {
+      "buildid": "25943362",
+      "timeupdated": "1792025815",
+      "timebuildupdated": "1792009119"
+    },
+    "experimental": {
+      "buildid": "26448107",
+      "description": "For early testing of upcoming patches when available.",
+      "timeupdated": "1793846549",
+      "timebuildupdated": "1793846054"
+    },
+    "legacy": {
+      "buildid": "22325331",
+      "description": "Saleblazers Legacy, before The Immersion Update. Warning: not supported, so back up your saves.",
+      "timeupdated": "1779267031",
+      "timebuildupdated": "1773383698"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1419851": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4466987245624541312",
+          "size": "5245218338",
+          "download": "2312785552"
+        }
+      }
+    },
+    "1419852": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5439340228475265502",
+          "size": "5364623586",
+          "download": "2351725184"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25943362",
+        "timeupdated": "1792025815",
+        "timebuildupdated": "1792009119"
+      },
+      "experimental": {
+        "buildid": "26448107",
+        "description": "For early testing of upcoming patches when available.",
+        "timeupdated": "1793846549",
+        "timebuildupdated": "1793846054"
+      },
+      "legacy": {
+        "buildid": "22325331",
+        "description": "Saleblazers Legacy, before The Immersion Update. Warning: not supported, so back up your saves.",
+        "timeupdated": "1779267031",
+        "timebuildupdated": "1773383698"
+      }
+    }
+  }
+}

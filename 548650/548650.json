@@ -1,0 +1,64 @@
+{
+  "name": "Lightspeed Frontier",
+  "source": "spectre",
+  "changenumber": 37831026,
+  "updated": "2026-11-07T20:58:41.297Z",
+  "branches": {
+    "public": {
+      "buildid": "3336497",
+      "timeupdated": "1543073953",
+      "timebuildupdated": "1543069373"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "548651": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4444594872600255841",
+          "size": "708411070",
+          "download": "501846512"
+        }
+      }
+    },
+    "548652": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8768064790113426520",
+          "size": "730577942",
+          "download": "505056816"
+        }
+      }
+    },
+    "548653": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3610498288507588781",
+          "size": "709492216",
+          "download": "496399264"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3336497",
+        "timeupdated": "1543073953",
+        "timebuildupdated": "1543069373"
+      }
+    }
+  }
+}

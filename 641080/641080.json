@@ -1,0 +1,56 @@
+{
+  "name": "Trials Rising",
+  "source": "spectre",
+  "changenumber": 40629389,
+  "updated": "2026-11-07T20:59:26.864Z",
+  "branches": {
+    "public": {
+      "buildid": "10831717",
+      "timeupdated": "1679511467",
+      "timebuildupdated": "1679510936"
+    },
+    "local": {
+      "buildid": "4968034",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1588287108",
+      "timebuildupdated": "1588287108"
+    }
+  },
+  "depot": {
+    "641081": {
+      "manifests": {
+        "public": {
+          "gid": "4179058829212694930",
+          "size": "28782433532",
+          "download": "28510818320"
+        }
+      }
+    },
+    "641082": {},
+    "1716751": {
+      "manifests": {
+        "public": {
+          "gid": "6945505966615327303",
+          "size": "263096496",
+          "download": "262989248"
+        }
+      },
+      "depotfromapp": "1716750"
+    },
+    "branches": {
+      "public": {
+        "buildid": "10831717",
+        "timeupdated": "1679511467",
+        "timebuildupdated": "1679510936"
+      },
+      "local": {
+        "buildid": "4968034",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1588287108",
+        "timebuildupdated": "1588287108"
+      }
+    }
+  }
+}

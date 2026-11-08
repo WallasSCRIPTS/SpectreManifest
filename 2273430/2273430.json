@@ -1,0 +1,76 @@
+{
+  "name": "BlazBlue Entropy Effect",
+  "source": "spectre",
+  "changenumber": 40578297,
+  "updated": "2026-11-06T21:07:15.962Z",
+  "branches": {
+    "public": {
+      "buildid": "26424974",
+      "timeupdated": "1793776396",
+      "timebuildupdated": "1793774099"
+    },
+    "bbee-ea": {
+      "sc_schinese": "Early Access",
+      "buildid": "12847799",
+      "description": "Early Access",
+      "timeupdated": "1706080711",
+      "timebuildupdated": "1701420164"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2273431": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1346876851261135232",
+          "size": "16327598152",
+          "download": "14308297808"
+        }
+      }
+    },
+    "2273432": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7438471330554516672",
+          "size": "16375112839",
+          "download": "14434029952"
+        }
+      }
+    },
+    "2771130": {
+      "manifests": {
+        "public": {
+          "gid": "3519795565238480803",
+          "size": "998060164",
+          "download": "959557664"
+        }
+      },
+      "dlcappid": "2771130"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26424974",
+        "timeupdated": "1793776396",
+        "timebuildupdated": "1793774099"
+      },
+      "bbee-ea": {
+        "sc_schinese": "Early Access",
+        "buildid": "12847799",
+        "description": "Early Access",
+        "timeupdated": "1706080711",
+        "timebuildupdated": "1701420164"
+      }
+    }
+  }
+}

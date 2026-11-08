@@ -1,0 +1,72 @@
+{
+  "name": "Koboomballs Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:02:13.609Z",
+  "branches": {
+    "public": {
+      "buildid": "3396097",
+      "timeupdated": "1544750635",
+      "timebuildupdated": "1544750572"
+    },
+    "local": {
+      "buildid": "3396095",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1544750551",
+      "timebuildupdated": "1544750551"
+    }
+  },
+  "depot": {
+    "984011": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5336541376915980334",
+          "size": "48496885",
+          "download": "21264080"
+        }
+      }
+    },
+    "984012": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "117490177658987680",
+          "size": "159773992",
+          "download": "39967664"
+        }
+      }
+    },
+    "984013": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3980769696548781964",
+          "size": "100293400",
+          "download": "39082128"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3396097",
+        "timeupdated": "1544750635",
+        "timebuildupdated": "1544750572"
+      },
+      "local": {
+        "buildid": "3396095",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1544750551",
+        "timebuildupdated": "1544750551"
+      }
+    }
+  }
+}

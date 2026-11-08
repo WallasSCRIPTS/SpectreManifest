@@ -1,0 +1,62 @@
+{
+  "name": "The Body Changer",
+  "source": "spectre",
+  "changenumber": 39933561,
+  "updated": "2026-11-07T20:56:41.553Z",
+  "branches": {
+    "public": {
+      "buildid": "901660",
+      "timebuildupdated": "1450282289"
+    },
+    "local": {
+      "buildid": "386624",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1411085234"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "324391": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2573567568910584817",
+          "size": "493826933",
+          "download": "207754880"
+        }
+      }
+    },
+    "324392": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8269594728515701727",
+          "size": "717508903",
+          "download": "229409856"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "901660",
+        "timebuildupdated": "1450282289"
+      },
+      "local": {
+        "buildid": "386624",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1411085234"
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "name": "BOMB",
+  "source": "spectre",
+  "changenumber": 40121883,
+  "updated": "2026-11-07T20:56:31.010Z",
+  "branches": {
+    "public": {
+      "buildid": "980357",
+      "timebuildupdated": "1455686906"
+    }
+  },
+  "depot": {
+    "228982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "301501": {
+      "manifests": {
+        "public": {
+          "gid": "7933890805211204447",
+          "size": "1402168509",
+          "download": "524337536"
+        }
+      }
+    },
+    "301502": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8890826458379022069",
+          "size": "46472874",
+          "download": "11893424"
+        }
+      }
+    },
+    "301503": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4979167295101040098",
+          "size": "55571152",
+          "download": "13110000"
+        }
+      }
+    },
+    "301504": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6914882632603474007",
+          "size": "28029311",
+          "download": "6445184"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "980357",
+        "timebuildupdated": "1455686906"
+      }
+    }
+  }
+}

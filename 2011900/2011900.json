@@ -1,0 +1,64 @@
+{
+  "name": "Zero Wing",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:15:36.305Z",
+  "branches": {
+    "public": {
+      "buildid": "14082564",
+      "timeupdated": "1713356884",
+      "timebuildupdated": "1713355924"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2011901": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5899531807788862839",
+          "size": "3100681",
+          "download": "2472848"
+        }
+      }
+    },
+    "2011902": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6111200666016789651",
+          "size": "5025174",
+          "download": "1876688"
+        }
+      }
+    },
+    "2011903": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1273476773868645350",
+          "size": "3602224",
+          "download": "1568192"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14082564",
+        "timeupdated": "1713356884",
+        "timebuildupdated": "1713355924"
+      }
+    }
+  }
+}

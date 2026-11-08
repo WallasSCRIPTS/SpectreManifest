@@ -1,0 +1,124 @@
+{
+  "name": "WazHack",
+  "source": "spectre",
+  "changenumber": 37128005,
+  "updated": "2026-11-07T20:56:16.612Z",
+  "branches": {
+    "2014": {
+      "buildid": "249772",
+      "description": "Old version from 2014",
+      "timeupdated": "1624579955",
+      "timebuildupdated": "1398898353"
+    },
+    "2016": {
+      "buildid": "927538",
+      "description": "Old version from 2016",
+      "timeupdated": "1624579855",
+      "timebuildupdated": "1452571737"
+    },
+    "2017": {
+      "buildid": "2397028",
+      "description": "The old modding-beta build from 2017-2020",
+      "timeupdated": "1624580017",
+      "timebuildupdated": "1514168231"
+    },
+    "public": {
+      "buildid": "9044149",
+      "timeupdated": "1656676267",
+      "timebuildupdated": "1656676247"
+    },
+    "beta": {
+      "buildid": "9585520",
+      "description": "Beta of next 1.4.x release",
+      "timeupdated": "1664066577",
+      "timebuildupdated": "1664066541"
+    },
+    "previous": {
+      "buildid": "8646849",
+      "description": "Previous beta release",
+      "timeupdated": "1656205111",
+      "timebuildupdated": "1651208734"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "264161": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4716738664447498691",
+          "size": "121961217",
+          "download": "38982208"
+        }
+      }
+    },
+    "264162": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3306037234848478854",
+          "size": "117426878",
+          "download": "36221712"
+        }
+      }
+    },
+    "264163": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3900264261566742029",
+          "size": "173725635",
+          "download": "52675424"
+        }
+      }
+    },
+    "branches": {
+      "2014": {
+        "buildid": "249772",
+        "description": "Old version from 2014",
+        "timeupdated": "1624579955",
+        "timebuildupdated": "1398898353"
+      },
+      "2016": {
+        "buildid": "927538",
+        "description": "Old version from 2016",
+        "timeupdated": "1624579855",
+        "timebuildupdated": "1452571737"
+      },
+      "2017": {
+        "buildid": "2397028",
+        "description": "The old modding-beta build from 2017-2020",
+        "timeupdated": "1624580017",
+        "timebuildupdated": "1514168231"
+      },
+      "public": {
+        "buildid": "9044149",
+        "timeupdated": "1656676267",
+        "timebuildupdated": "1656676247"
+      },
+      "beta": {
+        "buildid": "9585520",
+        "description": "Beta of next 1.4.x release",
+        "timeupdated": "1664066577",
+        "timebuildupdated": "1664066541"
+      },
+      "previous": {
+        "buildid": "8646849",
+        "description": "Previous beta release",
+        "timeupdated": "1656205111",
+        "timebuildupdated": "1651208734"
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "name": "The Handler of Dragons",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:56.986Z",
+  "branches": {
+    "public": {
+      "buildid": "25525122",
+      "timeupdated": "1790338814",
+      "timebuildupdated": "1790328814"
+    },
+    "local": {
+      "buildid": "7150264",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1628261534",
+      "timebuildupdated": "1628260078"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1172731": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7846334707044361282",
+          "size": "14309036734",
+          "download": "6305827920"
+        }
+      }
+    },
+    "1172732": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25525122",
+        "timeupdated": "1790338814",
+        "timebuildupdated": "1790328814"
+      },
+      "local": {
+        "buildid": "7150264",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1628261534",
+        "timebuildupdated": "1628260078"
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "name": "ADRPAN",
+  "source": "spectre",
+  "changenumber": 34859697,
+  "updated": "2026-11-06T21:05:23.380Z",
+  "branches": {
+    "public": {
+      "buildid": "10226982",
+      "timeupdated": "1672288380",
+      "timebuildupdated": "1672288380"
+    },
+    "minigame": {
+      "buildid": "10237853",
+      "description": "decoded ORB files",
+      "timeupdated": "1672521141",
+      "timebuildupdated": "1672521141"
+    },
+    "xmas": {
+      "buildid": "6010311",
+      "description": "XMAS update of 1.4.5",
+      "timeupdated": "1608789178",
+      "timebuildupdated": "1608789178"
+    }
+  },
+  "depot": {
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1453001": {
+      "manifests": {
+        "public": {
+          "gid": "6986639390127121649",
+          "size": "574946373",
+          "download": "214278704"
+        }
+      }
+    },
+    "1453002": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "1453003": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10226982",
+        "timeupdated": "1672288380",
+        "timebuildupdated": "1672288380"
+      },
+      "minigame": {
+        "buildid": "10237853",
+        "description": "decoded ORB files",
+        "timeupdated": "1672521141",
+        "timebuildupdated": "1672521141"
+      },
+      "xmas": {
+        "buildid": "6010311",
+        "description": "XMAS update of 1.4.5",
+        "timeupdated": "1608789178",
+        "timebuildupdated": "1608789178"
+      }
+    }
+  }
+}

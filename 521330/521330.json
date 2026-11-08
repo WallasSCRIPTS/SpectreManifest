@@ -1,0 +1,88 @@
+{
+  "name": "Skull Ball Heroes",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-07T20:58:28.833Z",
+  "branches": {
+    "public": {
+      "buildid": "6035158",
+      "timeupdated": "1609727247",
+      "timebuildupdated": "1609727247"
+    },
+    "tuebortestbuild": {
+      "buildid": "5864141",
+      "description": "Test Server",
+      "timeupdated": "1605985372",
+      "timebuildupdated": "1605985372"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "521332": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2071281858284336114",
+          "size": "10796823558",
+          "download": "2960602960"
+        }
+      }
+    },
+    "521333": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5828144169658246391",
+          "size": "360422730",
+          "download": "142586288"
+        }
+      }
+    },
+    "521334": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6567931962592845982",
+          "size": "14620546427",
+          "download": "3550561472"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6035158",
+        "timeupdated": "1609727247",
+        "timebuildupdated": "1609727247"
+      },
+      "tuebortestbuild": {
+        "buildid": "5864141",
+        "description": "Test Server",
+        "timeupdated": "1605985372",
+        "timebuildupdated": "1605985372"
+      }
+    }
+  }
+}

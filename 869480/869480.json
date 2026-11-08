@@ -1,0 +1,112 @@
+{
+  "name": "Jabroni Brawl: Episode 3",
+  "source": "spectre",
+  "changenumber": 40678600,
+  "updated": "2026-11-07T21:01:18.399Z",
+  "branches": {
+    "public": {
+      "buildid": "26483678",
+      "timeupdated": "1793986258",
+      "timebuildupdated": "1793966339"
+    },
+    "upcoming": {
+      "buildid": "26483678",
+      "description": "Upcoming changes",
+      "timeupdated": "1793967054",
+      "timebuildupdated": "1793966339"
+    },
+    "revert": {
+      "buildid": "24708438",
+      "description": "Previous patch",
+      "timeupdated": "1786639400",
+      "timebuildupdated": "1786606059"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "869481": {
+      "manifests": {
+        "public": {
+          "gid": "9168772532980472346",
+          "size": "23966646284",
+          "download": "10443002752"
+        }
+      }
+    },
+    "869482": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6194160101124071210",
+          "size": "233659749",
+          "download": "65031408"
+        }
+      }
+    },
+    "869483": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6540680096706711842",
+          "size": "154818477",
+          "download": "54715376"
+        }
+      }
+    },
+    "869484": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6019417292801297715",
+          "size": "109306885",
+          "download": "39347680"
+        }
+      }
+    },
+    "869486": {
+      "manifests": {
+        "public": {
+          "gid": "7268382403134151529",
+          "size": "116",
+          "download": "128"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26483678",
+        "timeupdated": "1793986258",
+        "timebuildupdated": "1793966339"
+      },
+      "upcoming": {
+        "buildid": "26483678",
+        "description": "Upcoming changes",
+        "timeupdated": "1793967054",
+        "timebuildupdated": "1793966339"
+      },
+      "revert": {
+        "buildid": "24708438",
+        "description": "Previous patch",
+        "timeupdated": "1786639400",
+        "timebuildupdated": "1786606059"
+      }
+    }
+  }
+}

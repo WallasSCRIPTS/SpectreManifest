@@ -1,0 +1,68 @@
+{
+  "name": "American Patriots: Boston Tea Party",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:58.849Z",
+  "branches": {
+    "public": {
+      "buildid": "2111865",
+      "timeupdated": "1505211019",
+      "timebuildupdated": "1505210869"
+    },
+    "linux_experimental": {
+      "buildid": "2449169",
+      "timeupdated": "1516302817",
+      "timebuildupdated": "1516302440"
+    }
+  },
+  "depot": {
+    "705751": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1733867682581545355",
+          "size": "251954311",
+          "download": "49171056"
+        }
+      }
+    },
+    "705752": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6636732847354763435",
+          "size": "303673549",
+          "download": "64712608"
+        }
+      }
+    },
+    "705753": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "581050861614168048",
+          "size": "266747089",
+          "download": "52913904"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2111865",
+        "timeupdated": "1505211019",
+        "timebuildupdated": "1505210869"
+      },
+      "linux_experimental": {
+        "buildid": "2449169",
+        "timeupdated": "1516302817",
+        "timebuildupdated": "1516302440"
+      }
+    }
+  }
+}

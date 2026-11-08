@@ -1,0 +1,136 @@
+{
+  "name": "Toribash",
+  "source": "spectre",
+  "changenumber": 40622824,
+  "updated": "2026-11-07T20:56:11.671Z",
+  "branches": {
+    "public": {
+      "buildid": "20840792",
+      "timeupdated": "1764244439",
+      "timebuildupdated": "1763455184"
+    },
+    "alpha": {
+      "buildid": "26345557",
+      "description": "Alpha Builds (newest features, unstable performance)",
+      "timeupdated": "1793453345",
+      "timebuildupdated": "1793451583"
+    },
+    "beta": {
+      "buildid": "20840792",
+      "description": "Beta Builds",
+      "timeupdated": "1763455479",
+      "timebuildupdated": "1763455184"
+    },
+    "fallback": {
+      "buildid": "19608237",
+      "description": "Previous stable release",
+      "timeupdated": "1759142981",
+      "timebuildupdated": "1755238341"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "248571": {
+      "manifests": {
+        "public": {
+          "gid": "6986708910553071898",
+          "size": "388521209",
+          "download": "141731824"
+        }
+      }
+    },
+    "248572": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8350451452280911377",
+          "size": "75901857",
+          "download": "21153040"
+        }
+      }
+    },
+    "248573": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3178556471427557652",
+          "size": "19312080",
+          "download": "7966080"
+        }
+      }
+    },
+    "248574": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3766893786744795415",
+          "size": "20912483",
+          "download": "8965936"
+        }
+      }
+    },
+    "248575": {
+      "manifests": {
+        "public": {
+          "gid": "3607358884738217895",
+          "size": "66",
+          "download": "112"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20840792",
+        "timeupdated": "1764244439",
+        "timebuildupdated": "1763455184"
+      },
+      "alpha": {
+        "buildid": "26345557",
+        "description": "Alpha Builds (newest features, unstable performance)",
+        "timeupdated": "1793453345",
+        "timebuildupdated": "1793451583"
+      },
+      "beta": {
+        "buildid": "20840792",
+        "description": "Beta Builds",
+        "timeupdated": "1763455479",
+        "timebuildupdated": "1763455184"
+      },
+      "fallback": {
+        "buildid": "19608237",
+        "description": "Previous stable release",
+        "timeupdated": "1759142981",
+        "timebuildupdated": "1755238341"
+      }
+    }
+  }
+}

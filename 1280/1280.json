@@ -1,0 +1,82 @@
+{
+  "name": "Darkest Hour: Europe '44-'45",
+  "source": "spectre",
+  "changenumber": 40701136,
+  "updated": "2026-11-07T20:55:40.907Z",
+  "branches": {
+    "public": {
+      "buildid": "26505176",
+      "timeupdated": "1794052851",
+      "timebuildupdated": "1794052508"
+    },
+    "legacy-v6.0.0": {
+      "buildid": "1026292",
+      "description": "v6.0.0",
+      "timeupdated": "1677240308",
+      "timebuildupdated": "1458090397"
+    },
+    "public-playtest": {
+      "buildid": "20992439",
+      "description": "Public playtesting branch",
+      "timeupdated": "1764453343",
+      "timebuildupdated": "1764450070"
+    },
+    "rollback": {
+      "buildid": "25418978",
+      "description": "Rollback to the previous version",
+      "timeupdated": "1789898381",
+      "timebuildupdated": "1789898119"
+    }
+  },
+  "depot": {
+    "1201": {
+      "depotfromapp": "1200"
+    },
+    "1202": {
+      "depotfromapp": "1200"
+    },
+    "1281": {
+      "manifests": {
+        "public": {
+          "gid": "8001712237378545607",
+          "size": "11937250369",
+          "download": "3742230848"
+        }
+      }
+    },
+    "1282": {
+      "manifests": {
+        "public": {
+          "gid": "7135754401348318145",
+          "size": "2769979107",
+          "download": "1256596048"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26505176",
+        "timeupdated": "1794052851",
+        "timebuildupdated": "1794052508"
+      },
+      "legacy-v6.0.0": {
+        "buildid": "1026292",
+        "description": "v6.0.0",
+        "timeupdated": "1677240308",
+        "timebuildupdated": "1458090397"
+      },
+      "public-playtest": {
+        "buildid": "20992439",
+        "description": "Public playtesting branch",
+        "timeupdated": "1764453343",
+        "timebuildupdated": "1764450070"
+      },
+      "rollback": {
+        "buildid": "25418978",
+        "description": "Rollback to the previous version",
+        "timeupdated": "1789898381",
+        "timebuildupdated": "1789898119"
+      }
+    }
+  }
+}

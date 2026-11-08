@@ -1,0 +1,118 @@
+{
+  "name": "Gas Guzzlers Extreme",
+  "source": "spectre",
+  "changenumber": 38817690,
+  "updated": "2026-11-07T20:56:10.325Z",
+  "branches": {
+    "public": {
+      "buildid": "1627864",
+      "timeupdated": "1487001712",
+      "timebuildupdated": "1487000545"
+    },
+    "beta": {
+      "buildid": "1221635",
+      "description": "Beta test (DX11)",
+      "timeupdated": "1468233428",
+      "timebuildupdated": "1468233042"
+    },
+    "directx9": {
+      "buildid": "1161863",
+      "timeupdated": "1468233550",
+      "timebuildupdated": "1464943299"
+    },
+    "local": {
+      "buildid": "905097",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1450437258"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "243801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8199267746417323187",
+          "size": "14768053048",
+          "download": "7683350800"
+        }
+      }
+    },
+    "277820": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4889882006105713347",
+          "size": "858112",
+          "download": "209600"
+        }
+      },
+      "dlcappid": "277820"
+    },
+    "277821": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2939094770709454632",
+          "size": "858112",
+          "download": "209600"
+        }
+      },
+      "dlcappid": "277821"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1627864",
+        "timeupdated": "1487001712",
+        "timebuildupdated": "1487000545"
+      },
+      "beta": {
+        "buildid": "1221635",
+        "description": "Beta test (DX11)",
+        "timeupdated": "1468233428",
+        "timebuildupdated": "1468233042"
+      },
+      "directx9": {
+        "buildid": "1161863",
+        "timeupdated": "1468233550",
+        "timebuildupdated": "1464943299"
+      },
+      "local": {
+        "buildid": "905097",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1450437258"
+      }
+    }
+  }
+}

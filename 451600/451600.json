@@ -1,0 +1,82 @@
+{
+  "name": "CounterAttack: Uprising",
+  "source": "spectre",
+  "changenumber": 40535429,
+  "updated": "2026-11-07T20:57:57.179Z",
+  "branches": {
+    "public": {
+      "buildid": "26262499",
+      "timeupdated": "1793680799",
+      "timebuildupdated": "1793163971"
+    },
+    "beta": {
+      "buildid": "26262499",
+      "description": "Prerelease of next update (when available)",
+      "timeupdated": "1793168496",
+      "timebuildupdated": "1793163971"
+    },
+    "v114": {
+      "buildid": "13418687",
+      "description": "Version 1.1.4",
+      "timeupdated": "1725087106",
+      "timebuildupdated": "1707511688"
+    }
+  },
+  "depot": {
+    "451601": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2889103883854250343",
+          "size": "2476907316",
+          "download": "1068715360"
+        }
+      }
+    },
+    "451602": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2304033638497601033",
+          "size": "2528806278",
+          "download": "1083062960"
+        }
+      }
+    },
+    "451603": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3216872274097068716",
+          "size": "3741157802",
+          "download": "1291775152"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26262499",
+        "timeupdated": "1793680799",
+        "timebuildupdated": "1793163971"
+      },
+      "beta": {
+        "buildid": "26262499",
+        "description": "Prerelease of next update (when available)",
+        "timeupdated": "1793168496",
+        "timebuildupdated": "1793163971"
+      },
+      "v114": {
+        "buildid": "13418687",
+        "description": "Version 1.1.4",
+        "timeupdated": "1725087106",
+        "timebuildupdated": "1707511688"
+      }
+    }
+  }
+}

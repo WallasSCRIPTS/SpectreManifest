@@ -1,0 +1,113 @@
+{
+  "name": "Darwinia",
+  "source": "spectre",
+  "changenumber": 39954008,
+  "updated": "2026-11-07T20:55:40.941Z",
+  "branches": {
+    "public": {
+      "buildid": "24935044",
+      "timeupdated": "1787685149",
+      "timebuildupdated": "1787684915"
+    },
+    "legacy": {
+      "buildid": "4316058",
+      "description": "Legacy OpenGL 2.x and Direct3D 9 version",
+      "timeupdated": "1623656172",
+      "timebuildupdated": "1571842749"
+    },
+    "beta": {
+      "buildid": "25265926",
+      "description": "Prerelease Open Beta",
+      "timeupdated": "1789179225",
+      "timebuildupdated": "1789179020"
+    },
+    "previous": {
+      "buildid": "14033910",
+      "description": "Previous release version",
+      "timeupdated": "1726578657",
+      "timebuildupdated": "1712920294"
+    }
+  },
+  "depot": {
+    "1004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3578600867548439549",
+          "size": "9662208",
+          "download": "0"
+        }
+      },
+      "depotfromapp": "310"
+    },
+    "1501": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8896993598887459176",
+          "size": "62316722",
+          "download": "44573312"
+        }
+      }
+    },
+    "1503": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4014571401701584544",
+          "size": "68745038",
+          "download": "46002880"
+        }
+      }
+    },
+    "1505": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3366065440198573563",
+          "size": "89833808",
+          "download": "51373152"
+        }
+      }
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24935044",
+        "timeupdated": "1787685149",
+        "timebuildupdated": "1787684915"
+      },
+      "legacy": {
+        "buildid": "4316058",
+        "description": "Legacy OpenGL 2.x and Direct3D 9 version",
+        "timeupdated": "1623656172",
+        "timebuildupdated": "1571842749"
+      },
+      "beta": {
+        "buildid": "25265926",
+        "description": "Prerelease Open Beta",
+        "timeupdated": "1789179225",
+        "timebuildupdated": "1789179020"
+      },
+      "previous": {
+        "buildid": "14033910",
+        "description": "Previous release version",
+        "timeupdated": "1726578657",
+        "timebuildupdated": "1712920294"
+      }
+    }
+  }
+}

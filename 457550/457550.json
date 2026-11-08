@@ -1,0 +1,70 @@
+{
+  "name": "Bigscreen Beta",
+  "source": "spectre",
+  "changenumber": 40648051,
+  "updated": "2026-11-07T20:58:00.572Z",
+  "branches": {
+    "public": {
+      "buildid": "22720499",
+      "timeupdated": "1776760621",
+      "timebuildupdated": "1775772482"
+    },
+    "alpha": {
+      "buildid": "25643786",
+      "description": "Bigscreen alpha build",
+      "timeupdated": "1790825217",
+      "timebuildupdated": "1790825217"
+    },
+    "nightly": {
+      "buildid": "16823106",
+      "description": "Bigscreen nightly builds",
+      "timeupdated": "1734776273",
+      "timebuildupdated": "1734776273"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "457551": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7078258186300012608",
+          "size": "5032950417",
+          "download": "1960541936"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22720499",
+        "timeupdated": "1776760621",
+        "timebuildupdated": "1775772482"
+      },
+      "alpha": {
+        "buildid": "25643786",
+        "description": "Bigscreen alpha build",
+        "timeupdated": "1790825217",
+        "timebuildupdated": "1790825217"
+      },
+      "nightly": {
+        "buildid": "16823106",
+        "description": "Bigscreen nightly builds",
+        "timeupdated": "1734776273",
+        "timebuildupdated": "1734776273"
+      }
+    }
+  }
+}

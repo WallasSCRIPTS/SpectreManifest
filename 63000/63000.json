@@ -1,0 +1,70 @@
+{
+  "name": "HOARD",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:57.050Z",
+  "branches": {
+    "public": {
+      "buildid": "4597280",
+      "timeupdated": "1579718911",
+      "timebuildupdated": "1579718910"
+    }
+  },
+  "depot": {
+    "63001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4982884460640924287",
+          "size": "278499985",
+          "download": "112460144"
+        }
+      }
+    },
+    "63002": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6390640202799866373",
+          "size": "590923785",
+          "download": "0"
+        }
+      }
+    },
+    "63006": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6827921613511116226",
+          "size": "265074165",
+          "download": "0"
+        }
+      }
+    },
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "4597280",
+        "timeupdated": "1579718911",
+        "timebuildupdated": "1579718910"
+      }
+    }
+  }
+}

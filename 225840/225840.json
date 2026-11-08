@@ -1,0 +1,97 @@
+{
+  "name": "Sven Co-op",
+  "source": "spectre",
+  "changenumber": 38882346,
+  "updated": "2026-11-07T20:56:06.531Z",
+  "branches": {
+    "public": {
+      "buildid": "16648734",
+      "timeupdated": "1733563415",
+      "timebuildupdated": "1733432500"
+    },
+    "release_candidate_public": {
+      "buildid": "16648734",
+      "description": "Release candidate (public)",
+      "timeupdated": "1733432540",
+      "timebuildupdated": "1733432500"
+    }
+  },
+  "depot": {
+    "225841": {
+      "manifests": {
+        "public": {
+          "gid": "7100405834093858048",
+          "size": "2572858404",
+          "download": "1351900912"
+        }
+      }
+    },
+    "225842": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7714419150192498919",
+          "size": "60554926",
+          "download": "22574112"
+        }
+      }
+    },
+    "225843": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6320191083261921291",
+          "size": "105035841",
+          "download": "28346080"
+        }
+      }
+    },
+    "225844": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2982461435576021352",
+          "size": "8590180",
+          "download": "2618144"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "16648734",
+        "timeupdated": "1733563415",
+        "timebuildupdated": "1733432500"
+      },
+      "release_candidate_public": {
+        "buildid": "16648734",
+        "description": "Release candidate (public)",
+        "timeupdated": "1733432540",
+        "timebuildupdated": "1733432500"
+      }
+    }
+  }
+}

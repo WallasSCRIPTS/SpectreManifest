@@ -1,0 +1,64 @@
+{
+  "name": "Astra: Fading Stars Demo",
+  "source": "spectre",
+  "changenumber": 38350527,
+  "updated": "2026-11-05T14:59:18.250Z",
+  "branches": {
+    "public": {
+      "buildid": "24917354",
+      "timeupdated": "1787615553",
+      "timebuildupdated": "1787615230"
+    },
+    "beta": {
+      "buildid": "24951803",
+      "description": "Bleeding Edge Builds",
+      "timeupdated": "1787755637",
+      "timebuildupdated": "1787755637"
+    }
+  },
+  "depot": {
+    "1666491": {},
+    "1666492": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1048529691076294698",
+          "size": "3246471775",
+          "download": "1481840752"
+        }
+      }
+    },
+    "1666493": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8662689652422127492",
+          "size": "3237832912",
+          "download": "1479886192"
+        }
+      }
+    },
+    "1666494": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24917354",
+        "timeupdated": "1787615553",
+        "timebuildupdated": "1787615230"
+      },
+      "beta": {
+        "buildid": "24951803",
+        "description": "Bleeding Edge Builds",
+        "timeupdated": "1787755637",
+        "timebuildupdated": "1787755637"
+      }
+    }
+  }
+}

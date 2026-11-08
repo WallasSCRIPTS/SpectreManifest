@@ -1,0 +1,75 @@
+{
+  "name": "SCHAR: Blue Shield Alliance",
+  "source": "spectre",
+  "changenumber": 40708068,
+  "updated": "2026-11-07T20:56:51.822Z",
+  "branches": {
+    "public": {
+      "buildid": "597346",
+      "timebuildupdated": "1429658630"
+    },
+    "beta-test": {
+      "buildid": "596096",
+      "timebuildupdated": "1429578063"
+    },
+    "deck-test": {
+      "buildid": "26509410",
+      "description": "Steam Deck Test",
+      "timeupdated": "1794074322",
+      "timebuildupdated": "1794074322"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "342241": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1604804284283994041",
+          "size": "1035474153",
+          "download": "99717824"
+        }
+      }
+    },
+    "342245": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "597346",
+        "timebuildupdated": "1429658630"
+      },
+      "beta-test": {
+        "buildid": "596096",
+        "timebuildupdated": "1429578063"
+      },
+      "deck-test": {
+        "buildid": "26509410",
+        "description": "Steam Deck Test",
+        "timeupdated": "1794074322",
+        "timebuildupdated": "1794074322"
+      }
+    }
+  }
+}

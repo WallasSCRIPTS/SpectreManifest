@@ -1,0 +1,50 @@
+{
+  "name": "B-12",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T20:59:17.073Z",
+  "branches": {
+    "public": {
+      "buildid": "4033897",
+      "timeupdated": "1563818272",
+      "timebuildupdated": "1563818247"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "616641": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5337518893910720909",
+          "size": "248025546",
+          "download": "75982080"
+        }
+      }
+    },
+    "616642": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "616643": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4033897",
+        "timeupdated": "1563818272",
+        "timebuildupdated": "1563818247"
+      }
+    }
+  }
+}

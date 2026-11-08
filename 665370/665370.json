@@ -1,0 +1,55 @@
+{
+  "name": "Mutilate-a-Doll 2",
+  "source": "spectre",
+  "changenumber": 37436921,
+  "updated": "2026-11-07T20:59:37.853Z",
+  "branches": {
+    "public": {
+      "buildid": "11589912",
+      "timeupdated": "1688054234",
+      "timebuildupdated": "1688053883"
+    },
+    "experimental": {
+      "buildid": "11589912",
+      "description": "Opt-in to access experimental things",
+      "timeupdated": "1688054226",
+      "timebuildupdated": "1688053883"
+    },
+    "rollback": {
+      "buildid": "8486458",
+      "description": "Opt-in to play last major version.",
+      "timeupdated": "1656073811",
+      "timebuildupdated": "1648899840"
+    }
+  },
+  "depot": {
+    "665371": {
+      "manifests": {
+        "public": {
+          "gid": "1230995715379645857",
+          "size": "35426777",
+          "download": "16966032"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11589912",
+        "timeupdated": "1688054234",
+        "timebuildupdated": "1688053883"
+      },
+      "experimental": {
+        "buildid": "11589912",
+        "description": "Opt-in to access experimental things",
+        "timeupdated": "1688054226",
+        "timebuildupdated": "1688053883"
+      },
+      "rollback": {
+        "buildid": "8486458",
+        "description": "Opt-in to play last major version.",
+        "timeupdated": "1656073811",
+        "timebuildupdated": "1648899840"
+      }
+    }
+  }
+}

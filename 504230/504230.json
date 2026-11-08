@@ -1,0 +1,180 @@
+{
+  "name": "Celeste",
+  "source": "spectre",
+  "changenumber": 39965794,
+  "updated": "2026-11-07T20:58:21.494Z",
+  "branches": {
+    "public": {
+      "buildid": "17282758",
+      "timeupdated": "1738947606",
+      "timebuildupdated": "1738947606"
+    },
+    "beta-1.3.3.0": {
+      "buildid": "6458970",
+      "description": "v1.4.0.0 (FNA)",
+      "timeupdated": "1617052855",
+      "timebuildupdated": "1617052855"
+    },
+    "beta-1.3.3.0-xna": {
+      "buildid": "6458966",
+      "description": "v1.4.0.0 (XNA)",
+      "timeupdated": "1617052801",
+      "timebuildupdated": "1617052801"
+    },
+    "opengl": {
+      "buildid": "6458970",
+      "timeupdated": "1617053775",
+      "timebuildupdated": "1617052855"
+    },
+    "outdated-1.2.3.0": {
+      "buildid": "2784233",
+      "timeupdated": "1540598015",
+      "timebuildupdated": "1526606844"
+    },
+    "outdated-1.2.3.0-opengl": {
+      "buildid": "2784236",
+      "timeupdated": "1540597523",
+      "timebuildupdated": "1526606933"
+    },
+    "outdated-1.2.5.0": {
+      "buildid": "3363769",
+      "timeupdated": "1543907186",
+      "timebuildupdated": "1543899795"
+    },
+    "outdated-1.2.5.0-opengl": {
+      "buildid": "3363770",
+      "timeupdated": "1543907169",
+      "timebuildupdated": "1543899830"
+    },
+    "outdated-1.3.1.2": {
+      "buildid": "4208361",
+      "description": "v1.3.1.2",
+      "timeupdated": "1617053183",
+      "timebuildupdated": "1568836779"
+    },
+    "outdated-1.3.1.2-opengl": {
+      "buildid": "4208363",
+      "description": "v1.3.1.2 - opengl",
+      "timeupdated": "1617053210",
+      "timebuildupdated": "1568836884"
+    },
+    "sdl3": {
+      "buildid": "17426700",
+      "description": "Linux SDL 3.0 Testing, UNSTABLE",
+      "timeupdated": "1739989200",
+      "timebuildupdated": "1739989200"
+    }
+  },
+  "depot": {
+    "229005": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "504231": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "708531128774243067",
+          "size": "1164449173",
+          "download": "746053600"
+        }
+      }
+    },
+    "504232": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3271492884622616896",
+          "size": "1204558574",
+          "download": "755533680"
+        }
+      }
+    },
+    "504233": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5880027853585448535",
+          "size": "1201840326",
+          "download": "763373248"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17282758",
+        "timeupdated": "1738947606",
+        "timebuildupdated": "1738947606"
+      },
+      "beta-1.3.3.0": {
+        "buildid": "6458970",
+        "description": "v1.4.0.0 (FNA)",
+        "timeupdated": "1617052855",
+        "timebuildupdated": "1617052855"
+      },
+      "beta-1.3.3.0-xna": {
+        "buildid": "6458966",
+        "description": "v1.4.0.0 (XNA)",
+        "timeupdated": "1617052801",
+        "timebuildupdated": "1617052801"
+      },
+      "opengl": {
+        "buildid": "6458970",
+        "timeupdated": "1617053775",
+        "timebuildupdated": "1617052855"
+      },
+      "outdated-1.2.3.0": {
+        "buildid": "2784233",
+        "timeupdated": "1540598015",
+        "timebuildupdated": "1526606844"
+      },
+      "outdated-1.2.3.0-opengl": {
+        "buildid": "2784236",
+        "timeupdated": "1540597523",
+        "timebuildupdated": "1526606933"
+      },
+      "outdated-1.2.5.0": {
+        "buildid": "3363769",
+        "timeupdated": "1543907186",
+        "timebuildupdated": "1543899795"
+      },
+      "outdated-1.2.5.0-opengl": {
+        "buildid": "3363770",
+        "timeupdated": "1543907169",
+        "timebuildupdated": "1543899830"
+      },
+      "outdated-1.3.1.2": {
+        "buildid": "4208361",
+        "description": "v1.3.1.2",
+        "timeupdated": "1617053183",
+        "timebuildupdated": "1568836779"
+      },
+      "outdated-1.3.1.2-opengl": {
+        "buildid": "4208363",
+        "description": "v1.3.1.2 - opengl",
+        "timeupdated": "1617053210",
+        "timebuildupdated": "1568836884"
+      },
+      "sdl3": {
+        "buildid": "17426700",
+        "description": "Linux SDL 3.0 Testing, UNSTABLE",
+        "timeupdated": "1739989200",
+        "timebuildupdated": "1739989200"
+      }
+    }
+  }
+}

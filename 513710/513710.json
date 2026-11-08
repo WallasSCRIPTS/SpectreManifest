@@ -1,0 +1,109 @@
+{
+  "name": "SCUM",
+  "source": "spectre",
+  "changenumber": 40700332,
+  "updated": "2026-11-07T20:58:25.730Z",
+  "branches": {
+    "public": {
+      "buildid": "26320533",
+      "timeupdated": "1793361555",
+      "timebuildupdated": "1793355410"
+    },
+    "pterelease": {
+      "buildid": "21284195",
+      "description": "PTE release branch",
+      "timeupdated": "1766424722",
+      "timebuildupdated": "1766412030"
+    },
+    "public_alpha": {
+      "buildid": "23913967",
+      "description": "Public alpha branch",
+      "timeupdated": "1782398614",
+      "timebuildupdated": "1782397487"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "513711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3243370104981647038",
+          "size": "81065094125",
+          "download": "33188822112"
+        }
+      }
+    },
+    "919680": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6252294094855435400",
+          "size": "37896840",
+          "download": "25373104"
+        }
+      },
+      "dlcappid": "919680"
+    },
+    "1643210": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8526987047835682522",
+          "size": "96504739",
+          "download": "94680896"
+        }
+      },
+      "dlcappid": "1643210"
+    },
+    "3596770": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4482977239842637557",
+          "size": "66059451",
+          "download": "59134144"
+        }
+      },
+      "dlcappid": "3596770"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26320533",
+        "timeupdated": "1793361555",
+        "timebuildupdated": "1793355410"
+      },
+      "pterelease": {
+        "buildid": "21284195",
+        "description": "PTE release branch",
+        "timeupdated": "1766424722",
+        "timebuildupdated": "1766412030"
+      },
+      "public_alpha": {
+        "buildid": "23913967",
+        "description": "Public alpha branch",
+        "timeupdated": "1782398614",
+        "timebuildupdated": "1782397487"
+      }
+    }
+  }
+}

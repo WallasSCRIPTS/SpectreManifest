@@ -1,0 +1,58 @@
+{
+  "name": "Super Sanctum TD",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:08.414Z",
+  "branches": {
+    "public": {
+      "buildid": "381328",
+      "timebuildupdated": "1410554192"
+    },
+    "betabranch": {
+      "buildid": "484724",
+      "timebuildupdated": "1420317323"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "235251": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2638154239108355204",
+          "size": "98181935",
+          "download": "315620751459"
+        }
+      }
+    },
+    "235252": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6208448510500832339",
+          "size": "96288442",
+          "download": "148750257683"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "381328",
+        "timebuildupdated": "1410554192"
+      },
+      "betabranch": {
+        "buildid": "484724",
+        "timebuildupdated": "1420317323"
+      }
+    }
+  }
+}

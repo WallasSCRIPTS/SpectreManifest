@@ -1,0 +1,64 @@
+{
+  "name": "Cranes",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:01:06.348Z",
+  "branches": {
+    "public": {
+      "buildid": "3226099",
+      "timeupdated": "1539887330",
+      "timebuildupdated": "1539887268"
+    }
+  },
+  "depot": {
+    "229005": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "842471": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1437924174020272857",
+          "size": "83920567",
+          "download": "27773808"
+        }
+      }
+    },
+    "842472": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4864495229539519192",
+          "size": "89147508",
+          "download": "30711152"
+        }
+      }
+    },
+    "842473": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1185399265398766968",
+          "size": "102974759",
+          "download": "32463008"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3226099",
+        "timeupdated": "1539887330",
+        "timebuildupdated": "1539887268"
+      }
+    }
+  }
+}

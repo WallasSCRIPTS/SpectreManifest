@@ -1,0 +1,58 @@
+{
+  "name": "Tunnet",
+  "source": "spectre",
+  "changenumber": 37458633,
+  "updated": "2026-11-06T23:21:25.172Z",
+  "branches": {
+    "public": {
+      "buildid": "19510641",
+      "timeupdated": "1754562463",
+      "timebuildupdated": "1754556447"
+    },
+    "beta": {
+      "buildid": "19510641",
+      "description": "Public Beta branch",
+      "timeupdated": "1754562437",
+      "timebuildupdated": "1754556447"
+    }
+  },
+  "depot": {
+    "2286392": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "610256461748187695",
+          "size": "84209381",
+          "download": "32650176"
+        }
+      }
+    },
+    "2286393": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1207456062115626519",
+          "size": "91647320",
+          "download": "35199216"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19510641",
+        "timeupdated": "1754562463",
+        "timebuildupdated": "1754556447"
+      },
+      "beta": {
+        "buildid": "19510641",
+        "description": "Public Beta branch",
+        "timeupdated": "1754562437",
+        "timebuildupdated": "1754556447"
+      }
+    }
+  }
+}

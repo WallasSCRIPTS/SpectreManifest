@@ -1,0 +1,70 @@
+{
+  "name": "Super Duper Multitasking",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:26.608Z",
+  "branches": {
+    "public": {
+      "buildid": "20402012",
+      "timeupdated": "1760531660",
+      "timebuildupdated": "1760530368"
+    },
+    "beta": {
+      "buildid": "20402012",
+      "description": "Beta/testing",
+      "timeupdated": "1760531756",
+      "timebuildupdated": "1760530368"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229005": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "640291": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3365345412059867894",
+          "size": "229846051",
+          "download": "100895408"
+        }
+      }
+    },
+    "640292": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1305664951310015195",
+          "size": "90204187",
+          "download": "16354240"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20402012",
+        "timeupdated": "1760531660",
+        "timebuildupdated": "1760530368"
+      },
+      "beta": {
+        "buildid": "20402012",
+        "description": "Beta/testing",
+        "timeupdated": "1760531756",
+        "timebuildupdated": "1760530368"
+      }
+    }
+  }
+}

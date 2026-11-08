@@ -1,0 +1,58 @@
+{
+  "name": "Rocks In Space",
+  "source": "spectre",
+  "changenumber": 34992476,
+  "updated": "2026-11-04T23:24:44.696Z",
+  "branches": {
+    "public": {
+      "buildid": "21263641",
+      "timeupdated": "1766178653",
+      "timebuildupdated": "1766178162"
+    },
+    "apple": {
+      "buildid": "21263857",
+      "description": "Mac Only",
+      "timeupdated": "1766179301",
+      "timebuildupdated": "1766179301"
+    }
+  },
+  "depot": {
+    "4037591": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3795204199935811458",
+          "size": "66736118",
+          "download": "58259312"
+        }
+      }
+    },
+    "4037593": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7338537226985284451",
+          "size": "93669347",
+          "download": "65054096"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21263641",
+        "timeupdated": "1766178653",
+        "timebuildupdated": "1766178162"
+      },
+      "apple": {
+        "buildid": "21263857",
+        "description": "Mac Only",
+        "timeupdated": "1766179301",
+        "timebuildupdated": "1766179301"
+      }
+    }
+  }
+}

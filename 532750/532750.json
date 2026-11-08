@@ -1,0 +1,80 @@
+{
+  "name": "Dwarrows",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:33.921Z",
+  "branches": {
+    "public": {
+      "buildid": "6686422",
+      "timeupdated": "1620869926",
+      "timebuildupdated": "1620804162"
+    },
+    "legacy_prerelease_v1_beta25": {
+      "buildid": "4151675",
+      "timeupdated": "1578558577",
+      "timebuildupdated": "1567124795"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "532751": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4732996327168591993",
+          "size": "2208907461",
+          "download": "620067728"
+        }
+      }
+    },
+    "532752": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5648552440658818772",
+          "size": "2565299675",
+          "download": "769330736"
+        }
+      }
+    },
+    "532753": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5734438746082184094",
+          "size": "2521762029",
+          "download": "693031072"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6686422",
+        "timeupdated": "1620869926",
+        "timebuildupdated": "1620804162"
+      },
+      "legacy_prerelease_v1_beta25": {
+        "buildid": "4151675",
+        "timeupdated": "1578558577",
+        "timebuildupdated": "1567124795"
+      }
+    }
+  }
+}

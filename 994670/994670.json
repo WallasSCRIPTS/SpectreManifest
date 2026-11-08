@@ -1,0 +1,58 @@
+{
+  "name": "ThreatGEN: Red vs. Blue",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:18.812Z",
+  "branches": {
+    "public": {
+      "buildid": "9706527",
+      "timeupdated": "1668701055",
+      "timebuildupdated": "1665587224"
+    }
+  },
+  "depot": {
+    "994671": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7991964775788172307",
+          "size": "206979674",
+          "download": "81202064"
+        }
+      }
+    },
+    "994672": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2063837172776546752",
+          "size": "251230885",
+          "download": "82550176"
+        }
+      }
+    },
+    "994673": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1593255047289571126",
+          "size": "229882787",
+          "download": "87834896"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9706527",
+        "timeupdated": "1668701055",
+        "timebuildupdated": "1665587224"
+      }
+    }
+  }
+}

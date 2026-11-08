@@ -1,0 +1,67 @@
+{
+  "name": "NewCity",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:56.700Z",
+  "branches": {
+    "public": {
+      "buildid": "7422467",
+      "timeupdated": "1632542036",
+      "timebuildupdated": "1632541598"
+    },
+    "pre-art-update": {
+      "buildid": "7422467",
+      "description": "Locked to v58.14",
+      "timeupdated": "1645848714",
+      "timebuildupdated": "1632541598"
+    },
+    "test": {
+      "buildid": "8795286",
+      "description": "Testing branch",
+      "timeupdated": "1653346112",
+      "timebuildupdated": "1653345635"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1067861": {
+      "manifests": {
+        "public": {
+          "gid": "6731851703686541399",
+          "size": "1429303277",
+          "download": "775667744"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7422467",
+        "timeupdated": "1632542036",
+        "timebuildupdated": "1632541598"
+      },
+      "pre-art-update": {
+        "buildid": "7422467",
+        "description": "Locked to v58.14",
+        "timeupdated": "1645848714",
+        "timebuildupdated": "1632541598"
+      },
+      "test": {
+        "buildid": "8795286",
+        "description": "Testing branch",
+        "timeupdated": "1653346112",
+        "timebuildupdated": "1653345635"
+      }
+    }
+  }
+}

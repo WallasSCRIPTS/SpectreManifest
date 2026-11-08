@@ -1,0 +1,99 @@
+{
+  "name": "The Aquatic Adventure of the Last Human",
+  "source": "spectre",
+  "changenumber": 39981901,
+  "updated": "2026-11-07T20:57:33.405Z",
+  "branches": {
+    "public": {
+      "buildid": "1379671",
+      "timeupdated": "1485279006",
+      "timebuildupdated": "1475838418"
+    },
+    "beta": {
+      "buildid": "1651403",
+      "description": "beta build",
+      "timeupdated": "1487857879",
+      "timebuildupdated": "1487857772"
+    }
+  },
+  "depot": {
+    "401361": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7928233775349250041",
+          "size": "109780917",
+          "download": "110939760"
+        }
+      }
+    },
+    "401362": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5599651639747120801",
+          "size": "169546162",
+          "download": "110830864"
+        }
+      }
+    },
+    "401363": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6724134986294115977",
+          "size": "376477278",
+          "download": "263941680"
+        }
+      }
+    },
+    "401364": {
+      "manifests": {
+        "public": {
+          "gid": "2132159988446466600",
+          "size": "1002319473",
+          "download": "739629312"
+        }
+      }
+    },
+    "401365": {
+      "manifests": {
+        "public": {
+          "gid": "787027613242240126",
+          "size": "1002319473",
+          "download": "739629312"
+        }
+      },
+      "dlcappid": "441710"
+    },
+    "441710": {
+      "manifests": {
+        "public": {
+          "gid": "4722178840562245792",
+          "size": "1002319473",
+          "download": "739629312"
+        }
+      },
+      "dlcappid": "441710"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1379671",
+        "timeupdated": "1485279006",
+        "timebuildupdated": "1475838418"
+      },
+      "beta": {
+        "buildid": "1651403",
+        "description": "beta build",
+        "timeupdated": "1487857879",
+        "timebuildupdated": "1487857772"
+      }
+    }
+  }
+}

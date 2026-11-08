@@ -1,0 +1,82 @@
+{
+  "name": "Gunsmith",
+  "source": "spectre",
+  "changenumber": 40235294,
+  "updated": "2026-11-07T20:59:18.796Z",
+  "branches": {
+    "public": {
+      "buildid": "18387723",
+      "timeupdated": "1746703404",
+      "timebuildupdated": "1746702352"
+    },
+    "betatest": {
+      "buildid": "10107651",
+      "description": "gunsmithbetatest",
+      "timeupdated": "1670520122",
+      "timebuildupdated": "1670520077"
+    },
+    "gunsmithtestbranch": {
+      "buildid": "9150234",
+      "description": "latest test build",
+      "timeupdated": "1658249055",
+      "timebuildupdated": "1658248898"
+    },
+    "gunsmithopentest": {
+      "buildid": "21296541",
+      "description": "Try the next update for Gunsmith early!",
+      "timeupdated": "1766508034",
+      "timebuildupdated": "1766507288"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "620192": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7441716192586235722",
+          "size": "4703728841",
+          "download": "4317898096"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18387723",
+        "timeupdated": "1746703404",
+        "timebuildupdated": "1746702352"
+      },
+      "betatest": {
+        "buildid": "10107651",
+        "description": "gunsmithbetatest",
+        "timeupdated": "1670520122",
+        "timebuildupdated": "1670520077"
+      },
+      "gunsmithtestbranch": {
+        "buildid": "9150234",
+        "description": "latest test build",
+        "timeupdated": "1658249055",
+        "timebuildupdated": "1658248898"
+      },
+      "gunsmithopentest": {
+        "buildid": "21296541",
+        "description": "Try the next update for Gunsmith early!",
+        "timeupdated": "1766508034",
+        "timebuildupdated": "1766507288"
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Tribe XR | DJ Academy",
+  "source": "spectre",
+  "changenumber": 40693131,
+  "updated": "2026-11-07T21:01:22.657Z",
+  "branches": {
+    "public": {
+      "buildid": "26498627",
+      "timeupdated": "1794021515",
+      "timebuildupdated": "1794014004"
+    },
+    "legacy": {
+      "buildid": "15961235",
+      "description": "Revert to v0.11.5 UE4 build for VR compatibility with older headsets (back up SaveGame data before using)",
+      "timeupdated": "1753815000",
+      "timebuildupdated": "1728353440"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "877851": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9183718457606713251",
+          "size": "2802461589",
+          "download": "2467233792"
+        }
+      }
+    },
+    "877852": {},
+    "branches": {
+      "public": {
+        "buildid": "26498627",
+        "timeupdated": "1794021515",
+        "timebuildupdated": "1794014004"
+      },
+      "legacy": {
+        "buildid": "15961235",
+        "description": "Revert to v0.11.5 UE4 build for VR compatibility with older headsets (back up SaveGame data before using)",
+        "timeupdated": "1753815000",
+        "timebuildupdated": "1728353440"
+      }
+    }
+  }
+}

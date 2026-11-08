@@ -1,0 +1,82 @@
+{
+  "name": "Synth Riders",
+  "source": "spectre",
+  "changenumber": 40634604,
+  "updated": "2026-11-07T21:01:26.259Z",
+  "branches": {
+    "public": {
+      "buildid": "26148229",
+      "timeupdated": "1793888771",
+      "timebuildupdated": "1792716665"
+    },
+    "open-beta": {
+      "buildid": "26148229",
+      "description": "OPEN BETA (Opt-in for early access to patches!)",
+      "timeupdated": "1793888743",
+      "timebuildupdated": "1792716665"
+    },
+    "previous": {
+      "buildid": "26143318",
+      "description": "PREVIOUS V3.X (Previous Stable v3 Release)",
+      "timeupdated": "1793888816",
+      "timebuildupdated": "1792699826"
+    },
+    "legacy": {
+      "buildid": "14144154",
+      "description": "LEGACY V2.3.32 (Last Stable v2 Release, No new content available here)",
+      "timeupdated": "1751588682",
+      "timebuildupdated": "1713867646"
+    }
+  },
+  "depot": {
+    "885001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4292440779286413691",
+          "size": "11022747600",
+          "download": "4341233072"
+        }
+      }
+    },
+    "885002": {
+      "config": {
+        "oslist": "android"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6502614537766977752",
+          "size": "3555564345",
+          "download": "3300857008"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26148229",
+        "timeupdated": "1793888771",
+        "timebuildupdated": "1792716665"
+      },
+      "open-beta": {
+        "buildid": "26148229",
+        "description": "OPEN BETA (Opt-in for early access to patches!)",
+        "timeupdated": "1793888743",
+        "timebuildupdated": "1792716665"
+      },
+      "previous": {
+        "buildid": "26143318",
+        "description": "PREVIOUS V3.X (Previous Stable v3 Release)",
+        "timeupdated": "1793888816",
+        "timebuildupdated": "1792699826"
+      },
+      "legacy": {
+        "buildid": "14144154",
+        "description": "LEGACY V2.3.32 (Last Stable v2 Release, No new content available here)",
+        "timeupdated": "1751588682",
+        "timebuildupdated": "1713867646"
+      }
+    }
+  }
+}

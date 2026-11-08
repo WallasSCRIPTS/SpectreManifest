@@ -1,0 +1,67 @@
+{
+  "name": "Gothic 1 Remake",
+  "source": "spectre",
+  "changenumber": 40631351,
+  "updated": "2026-11-06T21:04:15.503Z",
+  "branches": {
+    "public": {
+      "buildid": "26394867",
+      "timeupdated": "1793812839",
+      "timebuildupdated": "1793669931"
+    },
+    "previousrelease": {
+      "buildid": "25414091",
+      "description": "Previous released build",
+      "timeupdated": "1790355825",
+      "timebuildupdated": "1789858053"
+    },
+    "publictesting": {
+      "buildid": "24169431",
+      "description": "This branch is for public test versions",
+      "timeupdated": "1783877565",
+      "timebuildupdated": "1783852599"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1297901": {
+      "manifests": {
+        "public": {
+          "gid": "3846456581258251483",
+          "size": "38445892181",
+          "download": "32995601600"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26394867",
+        "timeupdated": "1793812839",
+        "timebuildupdated": "1793669931"
+      },
+      "previousrelease": {
+        "buildid": "25414091",
+        "description": "Previous released build",
+        "timeupdated": "1790355825",
+        "timebuildupdated": "1789858053"
+      },
+      "publictesting": {
+        "buildid": "24169431",
+        "description": "This branch is for public test versions",
+        "timeupdated": "1783877565",
+        "timebuildupdated": "1783852599"
+      }
+    }
+  }
+}

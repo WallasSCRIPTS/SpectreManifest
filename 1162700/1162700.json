@@ -1,0 +1,124 @@
+{
+  "name": "Midnight Protocol",
+  "source": "spectre",
+  "changenumber": 40429622,
+  "updated": "2026-11-07T21:03:51.636Z",
+  "branches": {
+    "public": {
+      "buildid": "9221770",
+      "timeupdated": "1659196876",
+      "timebuildupdated": "1659196822"
+    },
+    "demo": {
+      "buildid": "6533849",
+      "description": "Demo",
+      "timeupdated": "1618325426",
+      "timebuildupdated": "1618325265"
+    },
+    "development": {
+      "buildid": "9221770",
+      "description": "Unstable test branch",
+      "timeupdated": "1659196940",
+      "timebuildupdated": "1659196822"
+    },
+    "localization": {
+      "buildid": "7469775",
+      "description": "Beta branch for the localized versions of the game",
+      "timeupdated": "1633266012",
+      "timebuildupdated": "1633260210"
+    },
+    "press": {
+      "buildid": "6621725",
+      "description": "press preview build up until Kraken",
+      "timeupdated": "1619718575",
+      "timebuildupdated": "1619707524"
+    },
+    "quality_assurance": {
+      "buildid": "6548239",
+      "description": "QA branch",
+      "timeupdated": "1618515013",
+      "timebuildupdated": "1618514979"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1162701": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8171640546115605812",
+          "size": "2006314415",
+          "download": "525324960"
+        }
+      }
+    },
+    "1162702": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1233891005384921189",
+          "size": "2012439050",
+          "download": "524475552"
+        }
+      }
+    },
+    "1162703": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4086848220941119140",
+          "size": "2003881940",
+          "download": "523769568"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9221770",
+        "timeupdated": "1659196876",
+        "timebuildupdated": "1659196822"
+      },
+      "demo": {
+        "buildid": "6533849",
+        "description": "Demo",
+        "timeupdated": "1618325426",
+        "timebuildupdated": "1618325265"
+      },
+      "development": {
+        "buildid": "9221770",
+        "description": "Unstable test branch",
+        "timeupdated": "1659196940",
+        "timebuildupdated": "1659196822"
+      },
+      "localization": {
+        "buildid": "7469775",
+        "description": "Beta branch for the localized versions of the game",
+        "timeupdated": "1633266012",
+        "timebuildupdated": "1633260210"
+      },
+      "press": {
+        "buildid": "6621725",
+        "description": "press preview build up until Kraken",
+        "timeupdated": "1619718575",
+        "timebuildupdated": "1619707524"
+      },
+      "quality_assurance": {
+        "buildid": "6548239",
+        "description": "QA branch",
+        "timeupdated": "1618515013",
+        "timebuildupdated": "1618514979"
+      }
+    }
+  }
+}

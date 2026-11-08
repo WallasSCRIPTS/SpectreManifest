@@ -1,0 +1,115 @@
+{
+  "name": "Zombie Grinder",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:16.512Z",
+  "branches": {
+    "public": {
+      "buildid": "1092294",
+      "timeupdated": "1461609612",
+      "timebuildupdated": "1461542344"
+    },
+    "nightly": {
+      "buildid": "1092294",
+      "description": "Nightly builds. May be very unstable.",
+      "timeupdated": "1461542344",
+      "timebuildupdated": "1461542344"
+    },
+    "rcbuild": {
+      "buildid": "1092294",
+      "description": "Release candidate build for testing.",
+      "timeupdated": "1461609604",
+      "timebuildupdated": "1461542344"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "263921": {
+      "manifests": {
+        "public": {
+          "gid": "5646535957498302557",
+          "size": "121943067",
+          "download": "106571840"
+        }
+      }
+    },
+    "263922": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7350893580321409961",
+          "size": "12890790",
+          "download": "4184000"
+        }
+      }
+    },
+    "263923": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "657723082104661401",
+          "size": "27671260",
+          "download": "7243264"
+        }
+      }
+    },
+    "263924": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8218826743017002704",
+          "size": "20164401",
+          "download": "5432272"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1092294",
+        "timeupdated": "1461609612",
+        "timebuildupdated": "1461542344"
+      },
+      "nightly": {
+        "buildid": "1092294",
+        "description": "Nightly builds. May be very unstable.",
+        "timeupdated": "1461542344",
+        "timebuildupdated": "1461542344"
+      },
+      "rcbuild": {
+        "buildid": "1092294",
+        "description": "Release candidate build for testing.",
+        "timeupdated": "1461609604",
+        "timebuildupdated": "1461542344"
+      }
+    }
+  }
+}

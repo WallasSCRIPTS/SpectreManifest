@@ -1,0 +1,112 @@
+{
+  "name": "Core Keeper",
+  "source": "spectre",
+  "changenumber": 40587520,
+  "updated": "2026-11-06T21:06:38.837Z",
+  "branches": {
+    "public": {
+      "buildid": "26332184",
+      "timeupdated": "1793630406",
+      "timebuildupdated": "1793387739"
+    },
+    "1.2.1.5": {
+      "buildid": "23543556",
+      "description": "Legacy build - 1.2.1.5",
+      "timeupdated": "1780908378",
+      "timebuildupdated": "1780480861"
+    },
+    "1.2.0.7": {
+      "buildid": "22516528",
+      "description": "Legacy build - 1.2.0.7",
+      "timeupdated": "1775041444",
+      "timebuildupdated": "1774531608"
+    },
+    "1.1.2.10": {
+      "buildid": "21036902",
+      "description": "Legacy build - 1.1.2.10",
+      "timeupdated": "1772012911",
+      "timebuildupdated": "1764763946"
+    },
+    "1.1.2.0": {
+      "buildid": "21055748",
+      "description": "Legacy build - 1.1.2.0 with security patch",
+      "timeupdated": "1764862529",
+      "timebuildupdated": "1764861953"
+    },
+    "moddebug": {
+      "buildid": "26332299",
+      "description": "For mod debugging",
+      "timeupdated": "1793630375",
+      "timebuildupdated": "1793388064"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1621691": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3570833277932407216",
+          "size": "871472227",
+          "download": "573214192"
+        }
+      }
+    },
+    "1621692": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3923948663884389200",
+          "size": "998115401",
+          "download": "580137952"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26332184",
+        "timeupdated": "1793630406",
+        "timebuildupdated": "1793387739"
+      },
+      "1.2.1.5": {
+        "buildid": "23543556",
+        "description": "Legacy build - 1.2.1.5",
+        "timeupdated": "1780908378",
+        "timebuildupdated": "1780480861"
+      },
+      "1.2.0.7": {
+        "buildid": "22516528",
+        "description": "Legacy build - 1.2.0.7",
+        "timeupdated": "1775041444",
+        "timebuildupdated": "1774531608"
+      },
+      "1.1.2.10": {
+        "buildid": "21036902",
+        "description": "Legacy build - 1.1.2.10",
+        "timeupdated": "1772012911",
+        "timebuildupdated": "1764763946"
+      },
+      "1.1.2.0": {
+        "buildid": "21055748",
+        "description": "Legacy build - 1.1.2.0 with security patch",
+        "timeupdated": "1764862529",
+        "timebuildupdated": "1764861953"
+      },
+      "moddebug": {
+        "buildid": "26332299",
+        "description": "For mod debugging",
+        "timeupdated": "1793630375",
+        "timebuildupdated": "1793388064"
+      }
+    }
+  }
+}

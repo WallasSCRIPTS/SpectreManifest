@@ -1,0 +1,63 @@
+{
+  "name": "Classic Sport Driving",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:02.045Z",
+  "branches": {
+    "public": {
+      "buildid": "22964789",
+      "timeupdated": "1777226303",
+      "timebuildupdated": "1777226303"
+    },
+    "nightly": {
+      "buildid": "22964785",
+      "description": "adventurers only: non tested builds!",
+      "timeupdated": "1777226266",
+      "timebuildupdated": "1777226266"
+    }
+  },
+  "depot": {
+    "1267581": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6838159106747737989",
+          "size": "1007911936",
+          "download": "924011936"
+        }
+      }
+    },
+    "1267582": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "1267583": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3593378984988801856",
+          "size": "1015938500",
+          "download": "924682128"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22964789",
+        "timeupdated": "1777226303",
+        "timebuildupdated": "1777226303"
+      },
+      "nightly": {
+        "buildid": "22964785",
+        "description": "adventurers only: non tested builds!",
+        "timeupdated": "1777226266",
+        "timebuildupdated": "1777226266"
+      }
+    }
+  }
+}

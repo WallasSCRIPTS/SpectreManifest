@@ -1,0 +1,126 @@
+{
+  "name": "Wonder Boy: The Dragon's Trap",
+  "source": "spectre",
+  "changenumber": 39721071,
+  "updated": "2026-11-07T20:58:38.371Z",
+  "branches": {
+    "public": {
+      "buildid": "4612784",
+      "timeupdated": "1580150125",
+      "timebuildupdated": "1580150125"
+    },
+    "beta": {
+      "buildid": "3437763",
+      "description": "Beta branch",
+      "timeupdated": "1546426176",
+      "timebuildupdated": "1546426159"
+    },
+    "beta_opengl": {
+      "buildid": "3440255",
+      "timeupdated": "1546517381",
+      "timebuildupdated": "1546517381"
+    },
+    "beta_save_to_appdata": {
+      "buildid": "2493874",
+      "timeupdated": "1517615502",
+      "timebuildupdated": "1517615502"
+    },
+    "linux32": {
+      "buildid": "4612784",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1703711515",
+      "timebuildupdated": "1580150125"
+    },
+    "beta_linux": {
+      "buildid": "24617876",
+      "description": "Linux Maintenance Testing",
+      "timeupdated": "1786122633",
+      "timebuildupdated": "1786122633"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "543261": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3274044032442995862",
+          "size": "1080394705",
+          "download": "947968896"
+        }
+      }
+    },
+    "543262": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5905071087488895056",
+          "size": "1034985480",
+          "download": "942756880"
+        }
+      }
+    },
+    "543263": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3684180650374126441",
+          "size": "1032390009",
+          "download": "943558992"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4612784",
+        "timeupdated": "1580150125",
+        "timebuildupdated": "1580150125"
+      },
+      "beta": {
+        "buildid": "3437763",
+        "description": "Beta branch",
+        "timeupdated": "1546426176",
+        "timebuildupdated": "1546426159"
+      },
+      "beta_opengl": {
+        "buildid": "3440255",
+        "timeupdated": "1546517381",
+        "timebuildupdated": "1546517381"
+      },
+      "beta_save_to_appdata": {
+        "buildid": "2493874",
+        "timeupdated": "1517615502",
+        "timebuildupdated": "1517615502"
+      },
+      "linux32": {
+        "buildid": "4612784",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1703711515",
+        "timebuildupdated": "1580150125"
+      },
+      "beta_linux": {
+        "buildid": "24617876",
+        "description": "Linux Maintenance Testing",
+        "timeupdated": "1786122633",
+        "timebuildupdated": "1786122633"
+      }
+    }
+  }
+}

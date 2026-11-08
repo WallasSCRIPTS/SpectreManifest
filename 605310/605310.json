@@ -1,0 +1,60 @@
+{
+  "name": "Unearthing Mars VR",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:12.304Z",
+  "branches": {
+    "public": {
+      "buildid": "2372507",
+      "timeupdated": "1513662831",
+      "timebuildupdated": "1513353623"
+    },
+    "local": {
+      "buildid": "2372713",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1513357038",
+      "timebuildupdated": "1513357038"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "605311": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3991494550549204159",
+          "size": "12642557774",
+          "download": "11938520656"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2372507",
+        "timeupdated": "1513662831",
+        "timebuildupdated": "1513353623"
+      },
+      "local": {
+        "buildid": "2372713",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1513357038",
+        "timebuildupdated": "1513357038"
+      }
+    }
+  }
+}

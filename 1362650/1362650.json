@@ -1,0 +1,68 @@
+{
+  "name": "Rolling Adventure",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:40.908Z",
+  "branches": {
+    "public": {
+      "buildid": "7960693",
+      "timeupdated": "1641073251",
+      "timebuildupdated": "1641073251"
+    },
+    "beta": {
+      "buildid": "5600330",
+      "timeupdated": "1601149364",
+      "timebuildupdated": "1601149364"
+    }
+  },
+  "depot": {
+    "1362651": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4415502915940729207",
+          "size": "243882331",
+          "download": "90813840"
+        }
+      }
+    },
+    "1362652": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "164380908210639309",
+          "size": "300049451",
+          "download": "97742112"
+        }
+      }
+    },
+    "1362653": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8883531394178143632",
+          "size": "266017382",
+          "download": "98141264"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7960693",
+        "timeupdated": "1641073251",
+        "timebuildupdated": "1641073251"
+      },
+      "beta": {
+        "buildid": "5600330",
+        "timeupdated": "1601149364",
+        "timebuildupdated": "1601149364"
+      }
+    }
+  }
+}

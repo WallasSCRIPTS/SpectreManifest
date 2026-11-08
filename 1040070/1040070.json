@@ -1,0 +1,82 @@
+{
+  "name": "Merchant of the Skies",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:42.297Z",
+  "branches": {
+    "public": {
+      "buildid": "6189049",
+      "timeupdated": "1612446220",
+      "timebuildupdated": "1612446220"
+    },
+    "beta": {
+      "buildid": "5687512",
+      "description": "latest builds for patch testing and translations",
+      "timeupdated": "1602770409",
+      "timebuildupdated": "1602770354"
+    }
+  },
+  "depot": {
+    "1040071": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3742108844535816689",
+          "size": "403677709",
+          "download": "61921424"
+        }
+      }
+    },
+    "1040072": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "53489488401318790",
+          "size": "444737233",
+          "download": "64170480"
+        }
+      }
+    },
+    "1040073": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3900295369986075510",
+          "size": "423764107",
+          "download": "65057632"
+        }
+      }
+    },
+    "1040075": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "113138988696770694",
+          "size": "328548519",
+          "download": "60908368"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6189049",
+        "timeupdated": "1612446220",
+        "timebuildupdated": "1612446220"
+      },
+      "beta": {
+        "buildid": "5687512",
+        "description": "latest builds for patch testing and translations",
+        "timeupdated": "1602770409",
+        "timebuildupdated": "1602770354"
+      }
+    }
+  }
+}

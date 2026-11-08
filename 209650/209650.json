@@ -1,0 +1,100 @@
+{
+  "name": "Call of Duty: Advanced Warfare",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:02.622Z",
+  "branches": {
+    "public": {
+      "buildid": "24781812",
+      "timeupdated": "1787846407",
+      "timebuildupdated": "1786991106"
+    },
+    "local": {
+      "buildid": "473722",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1418686268"
+    }
+  },
+  "depot": {
+    "209651": {
+      "manifests": {
+        "public": {
+          "gid": "8713282188965249259",
+          "size": "13878341",
+          "download": "12605792"
+        }
+      }
+    },
+    "209652": {
+      "manifests": {
+        "public": {
+          "gid": "7142964521353882823",
+          "size": "9591323676",
+          "download": "7639595888"
+        }
+      }
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "310342": {
+      "depotfromapp": "209660"
+    },
+    "310343": {
+      "depotfromapp": "209660"
+    },
+    "310344": {
+      "depotfromapp": "209660"
+    },
+    "310345": {
+      "depotfromapp": "209660"
+    },
+    "310346": {
+      "depotfromapp": "209660"
+    },
+    "310347": {
+      "depotfromapp": "209660"
+    },
+    "310348": {
+      "depotfromapp": "209660"
+    },
+    "310349": {
+      "depotfromapp": "209660"
+    },
+    "310350": {
+      "depotfromapp": "209660"
+    },
+    "310351": {
+      "depotfromapp": "209660"
+    },
+    "310352": {
+      "depotfromapp": "209660"
+    },
+    "310353": {
+      "depotfromapp": "209660"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24781812",
+        "timeupdated": "1787846407",
+        "timebuildupdated": "1786991106"
+      },
+      "local": {
+        "buildid": "473722",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1418686268"
+      }
+    }
+  }
+}

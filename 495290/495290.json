@@ -1,0 +1,88 @@
+{
+  "name": "AccuRC 2",
+  "source": "spectre",
+  "changenumber": 37435436,
+  "updated": "2026-11-07T20:58:16.052Z",
+  "branches": {
+    "public": {
+      "buildid": "8910798",
+      "timeupdated": "1654856596",
+      "timebuildupdated": "1654856596"
+    },
+    "alpha": {
+      "buildid": "8910794",
+      "description": "bleeding edge development",
+      "timeupdated": "1654856576",
+      "timebuildupdated": "1654856576"
+    },
+    "beta": {
+      "buildid": "8910797",
+      "description": "beta testing",
+      "timeupdated": "1654856585",
+      "timebuildupdated": "1654856585"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "495291": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3586512384221506633",
+          "size": "12136681213",
+          "download": "9591628176"
+        }
+      }
+    },
+    "495292": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1334539878232718334",
+          "size": "13595340791",
+          "download": "10769341872"
+        }
+      }
+    },
+    "495293": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4473042842627349138",
+          "size": "12542664288",
+          "download": "9873846208"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8910798",
+        "timeupdated": "1654856596",
+        "timebuildupdated": "1654856596"
+      },
+      "alpha": {
+        "buildid": "8910794",
+        "description": "bleeding edge development",
+        "timeupdated": "1654856576",
+        "timebuildupdated": "1654856576"
+      },
+      "beta": {
+        "buildid": "8910797",
+        "description": "beta testing",
+        "timeupdated": "1654856585",
+        "timebuildupdated": "1654856585"
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Brick Building",
+  "source": "spectre",
+  "changenumber": 39795199,
+  "updated": "2026-11-06T21:04:37.127Z",
+  "branches": {
+    "2021": {
+      "buildid": "6256277",
+      "description": "Actualizaciones de 2021",
+      "timeupdated": "1613617600",
+      "timebuildupdated": "1613617600"
+    },
+    "public": {
+      "buildid": "6256277",
+      "timeupdated": "1613617635",
+      "timebuildupdated": "1613617600"
+    },
+    "ramaoficial": {
+      "buildid": "5513672",
+      "description": "Ultimas actualizaciones",
+      "timeupdated": "1599518535",
+      "timebuildupdated": "1599518535"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1352441": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5217252769268939511",
+          "size": "815120326",
+          "download": "645493072"
+        }
+      }
+    },
+    "1352442": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8158928920366012566",
+          "size": "946043775",
+          "download": "709115600"
+        }
+      }
+    },
+    "branches": {
+      "2021": {
+        "buildid": "6256277",
+        "description": "Actualizaciones de 2021",
+        "timeupdated": "1613617600",
+        "timebuildupdated": "1613617600"
+      },
+      "public": {
+        "buildid": "6256277",
+        "timeupdated": "1613617635",
+        "timebuildupdated": "1613617600"
+      },
+      "ramaoficial": {
+        "buildid": "5513672",
+        "description": "Ultimas actualizaciones",
+        "timeupdated": "1599518535",
+        "timebuildupdated": "1599518535"
+      }
+    }
+  }
+}

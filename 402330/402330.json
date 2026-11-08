@@ -1,0 +1,136 @@
+{
+  "name": "Press X to Not Die",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:33.793Z",
+  "branches": {
+    "public": {
+      "buildid": "8285607",
+      "timeupdated": "1646040879",
+      "timebuildupdated": "1646040545"
+    },
+    "oldfna": {
+      "buildid": "2477130",
+      "description": "Last FNA XNA version (2018)",
+      "timeupdated": "1644470188",
+      "timebuildupdated": "1517204945"
+    },
+    "test": {
+      "buildid": "8285607",
+      "timeupdated": "1646040600",
+      "timebuildupdated": "1646040545"
+    },
+    "xnabranch": {
+      "buildid": "1617185",
+      "description": "Last XNA Framework Version (2017)",
+      "timeupdated": "1498446108",
+      "timebuildupdated": "1486539501"
+    }
+  },
+  "depot": {
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "402331": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4886596980662042953",
+          "size": "2745568869",
+          "download": "2496580576"
+        }
+      }
+    },
+    "402332": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8360890588352332073",
+          "size": "2745568869",
+          "download": "2496580576"
+        }
+      }
+    },
+    "402333": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3680372861503071828",
+          "size": "832055689",
+          "download": "830073456"
+        }
+      },
+      "dlcappid": "497970"
+    },
+    "402334": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3803913106580524192",
+          "size": "42375092",
+          "download": "11392336"
+        }
+      }
+    },
+    "402335": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "24381460324297802",
+          "size": "70056363",
+          "download": "17507488"
+        }
+      }
+    },
+    "497970": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7873729758020295281",
+          "size": "832055689",
+          "download": "830073456"
+        }
+      },
+      "dlcappid": "497970"
+    },
+    "branches": {
+      "public": {
+        "buildid": "8285607",
+        "timeupdated": "1646040879",
+        "timebuildupdated": "1646040545"
+      },
+      "oldfna": {
+        "buildid": "2477130",
+        "description": "Last FNA XNA version (2018)",
+        "timeupdated": "1644470188",
+        "timebuildupdated": "1517204945"
+      },
+      "test": {
+        "buildid": "8285607",
+        "timeupdated": "1646040600",
+        "timebuildupdated": "1646040545"
+      },
+      "xnabranch": {
+        "buildid": "1617185",
+        "description": "Last XNA Framework Version (2017)",
+        "timeupdated": "1498446108",
+        "timebuildupdated": "1486539501"
+      }
+    }
+  }
+}

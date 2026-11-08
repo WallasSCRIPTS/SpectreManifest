@@ -1,0 +1,57 @@
+{
+  "name": "Vespa's Test",
+  "source": "spectre",
+  "changenumber": 40641322,
+  "updated": "2026-11-06T23:17:28.910Z",
+  "branches": {
+    "public": {
+      "buildid": "10221426",
+      "timeupdated": "1672174777",
+      "timebuildupdated": "1672173737"
+    }
+  },
+  "depot": {
+    "2077431": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2450367060616366501",
+          "size": "29270927",
+          "download": "13685232"
+        }
+      }
+    },
+    "2077433": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "2077434": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "2077480": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5226721285228767990",
+          "size": "995663",
+          "download": "979760"
+        }
+      },
+      "dlcappid": "2077480"
+    },
+    "branches": {
+      "public": {
+        "buildid": "10221426",
+        "timeupdated": "1672174777",
+        "timebuildupdated": "1672173737"
+      }
+    }
+  }
+}

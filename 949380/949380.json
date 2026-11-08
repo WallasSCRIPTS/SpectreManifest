@@ -1,0 +1,46 @@
+{
+  "name": "AV-17",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T21:01:54.670Z",
+  "branches": {
+    "public": {
+      "buildid": "4978446",
+      "timeupdated": "1588560443",
+      "timebuildupdated": "1588560367"
+    }
+  },
+  "depot": {
+    "949381": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5501457122122195631",
+          "size": "96320195",
+          "download": "55348240"
+        }
+      }
+    },
+    "949382": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "998883997323488477",
+          "size": "96921686",
+          "download": "55358800"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4978446",
+        "timeupdated": "1588560443",
+        "timebuildupdated": "1588560367"
+      }
+    }
+  }
+}

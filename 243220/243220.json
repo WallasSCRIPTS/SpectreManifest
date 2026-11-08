@@ -1,0 +1,62 @@
+{
+  "name": "FRACT OSC",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:10.232Z",
+  "branches": {
+    "public": {
+      "buildid": "238939",
+      "timebuildupdated": "1397833617"
+    },
+    "local": {
+      "buildid": "195444",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1392925345"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "243221": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1735124729668281456",
+          "size": "1519997249",
+          "download": "0"
+        }
+      }
+    },
+    "243222": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4344025603594694714",
+          "size": "1515056775",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "238939",
+        "timebuildupdated": "1397833617"
+      },
+      "local": {
+        "buildid": "195444",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1392925345"
+      }
+    }
+  }
+}

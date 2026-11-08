@@ -1,0 +1,80 @@
+{
+  "name": "Desktop Dungeons",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:06.616Z",
+  "branches": {
+    "public": {
+      "buildid": "11119841",
+      "timeupdated": "1682732205",
+      "timebuildupdated": "1682732205"
+    },
+    "legacy": {
+      "buildid": "9252666",
+      "description": "Legacy version of Desktop Dungeons for fan mod compatibility",
+      "timeupdated": "1659617561",
+      "timebuildupdated": "1659617561"
+    }
+  },
+  "depot": {
+    "226621": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2147511589869182564",
+          "size": "389659132",
+          "download": "260361648"
+        }
+      }
+    },
+    "226622": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7660013186770846262",
+          "size": "397071169",
+          "download": "261608512"
+        }
+      }
+    },
+    "226623": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7570645180738867892",
+          "size": "395605718",
+          "download": "261988080"
+        }
+      }
+    },
+    "261420": {
+      "manifests": {
+        "public": {
+          "gid": "2428260342073033529",
+          "size": "269804816",
+          "download": "0"
+        }
+      },
+      "dlcappid": "261420"
+    },
+    "branches": {
+      "public": {
+        "buildid": "11119841",
+        "timeupdated": "1682732205",
+        "timebuildupdated": "1682732205"
+      },
+      "legacy": {
+        "buildid": "9252666",
+        "description": "Legacy version of Desktop Dungeons for fan mod compatibility",
+        "timeupdated": "1659617561",
+        "timebuildupdated": "1659617561"
+      }
+    }
+  }
+}

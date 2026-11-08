@@ -1,0 +1,63 @@
+{
+  "name": "Extra Coin",
+  "source": "spectre",
+  "changenumber": 40041535,
+  "updated": "2026-11-06T21:04:12.491Z",
+  "branches": {
+    "public": {
+      "buildid": "24637066",
+      "timeupdated": "1786263028",
+      "timebuildupdated": "1786263001"
+    },
+    "demo": {
+      "buildid": "15677967",
+      "description": "Demo branch",
+      "timeupdated": "1726148350",
+      "timebuildupdated": "1726148350"
+    },
+    "dlc_playtest": {
+      "buildid": "20798732",
+      "description": "Public Playtest for the upcoming free DLC",
+      "timeupdated": "1763122155",
+      "timebuildupdated": "1763122151"
+    }
+  },
+  "depot": {
+    "1290981": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2091027738011939152",
+          "size": "4618435506",
+          "download": "1080224288"
+        }
+      }
+    },
+    "1290982": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24637066",
+        "timeupdated": "1786263028",
+        "timebuildupdated": "1786263001"
+      },
+      "demo": {
+        "buildid": "15677967",
+        "description": "Demo branch",
+        "timeupdated": "1726148350",
+        "timebuildupdated": "1726148350"
+      },
+      "dlc_playtest": {
+        "buildid": "20798732",
+        "description": "Public Playtest for the upcoming free DLC",
+        "timeupdated": "1763122155",
+        "timebuildupdated": "1763122151"
+      }
+    }
+  }
+}

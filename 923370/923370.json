@@ -1,0 +1,97 @@
+{
+  "name": "Cat Warfare",
+  "source": "spectre",
+  "changenumber": 40648055,
+  "updated": "2026-11-07T21:01:43.024Z",
+  "branches": {
+    "public": {
+      "buildid": "24509183",
+      "timeupdated": "1785593650",
+      "timebuildupdated": "1785592272"
+    },
+    "pre-5thyear": {
+      "buildid": "7502241",
+      "description": "Pre-5th year build.",
+      "timeupdated": "1694930436",
+      "timebuildupdated": "1633705617"
+    },
+    "previous-build": {
+      "buildid": "17203917",
+      "description": "One version behind the latest build.",
+      "timeupdated": "1745235298",
+      "timebuildupdated": "1738353580"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "923371": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1472647681187997139",
+          "size": "2453742264",
+          "download": "2175494640"
+        }
+      }
+    },
+    "923372": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2056528901160707214",
+          "size": "2486237163",
+          "download": "2193147616"
+        }
+      }
+    },
+    "923373": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6358075360496951096",
+          "size": "2465500361",
+          "download": "2184756768"
+        }
+      }
+    },
+    "1757220": {
+      "dlcappid": "1757220"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24509183",
+        "timeupdated": "1785593650",
+        "timebuildupdated": "1785592272"
+      },
+      "pre-5thyear": {
+        "buildid": "7502241",
+        "description": "Pre-5th year build.",
+        "timeupdated": "1694930436",
+        "timebuildupdated": "1633705617"
+      },
+      "previous-build": {
+        "buildid": "17203917",
+        "description": "One version behind the latest build.",
+        "timeupdated": "1745235298",
+        "timebuildupdated": "1738353580"
+      }
+    }
+  }
+}

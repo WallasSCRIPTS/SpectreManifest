@@ -1,0 +1,74 @@
+{
+  "name": "The Witness",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:03.084Z",
+  "branches": {
+    "public": {
+      "buildid": "11370412",
+      "timeupdated": "1685646498",
+      "timebuildupdated": "1685626218"
+    },
+    "future": {
+      "buildid": "11266061",
+      "timeupdated": "1684441310",
+      "timebuildupdated": "1684439700"
+    },
+    "macos_old": {
+      "buildid": "3801772",
+      "description": "Version before the 2023 changes",
+      "timeupdated": "1684473509",
+      "timebuildupdated": "1557252831"
+    }
+  },
+  "depot": {
+    "210971": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8672314139535162042",
+          "size": "4152670256",
+          "download": "3607530400"
+        }
+      }
+    },
+    "210972": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "640006414617329475",
+          "size": "4149306276",
+          "download": "3590587440"
+        }
+      }
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "11370412",
+        "timeupdated": "1685646498",
+        "timebuildupdated": "1685626218"
+      },
+      "future": {
+        "buildid": "11266061",
+        "timeupdated": "1684441310",
+        "timebuildupdated": "1684439700"
+      },
+      "macos_old": {
+        "buildid": "3801772",
+        "description": "Version before the 2023 changes",
+        "timeupdated": "1684473509",
+        "timebuildupdated": "1557252831"
+      }
+    }
+  }
+}

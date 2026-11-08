@@ -1,0 +1,68 @@
+{
+  "name": "Evergarden",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:57.875Z",
+  "branches": {
+    "public": {
+      "buildid": "4397023",
+      "timeupdated": "1573930608",
+      "timebuildupdated": "1573930135"
+    },
+    "beta": {
+      "buildid": "4397023",
+      "timeupdated": "1573930580",
+      "timebuildupdated": "1573930135"
+    }
+  },
+  "depot": {
+    "576501": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3023976210428640359",
+          "size": "170356751",
+          "download": "52116064"
+        }
+      }
+    },
+    "576502": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3968851220661058774",
+          "size": "191195910",
+          "download": "57183984"
+        }
+      }
+    },
+    "576503": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7772298360952794493",
+          "size": "216895660",
+          "download": "68116048"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4397023",
+        "timeupdated": "1573930608",
+        "timebuildupdated": "1573930135"
+      },
+      "beta": {
+        "buildid": "4397023",
+        "timeupdated": "1573930580",
+        "timebuildupdated": "1573930135"
+      }
+    }
+  }
+}

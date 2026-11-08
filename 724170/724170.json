@@ -1,0 +1,63 @@
+{
+  "name": "Solar Lander",
+  "source": "spectre",
+  "changenumber": 34837420,
+  "updated": "2026-11-07T21:00:08.922Z",
+  "branches": {
+    "public": {
+      "buildid": "21313455",
+      "timeupdated": "1766689019",
+      "timebuildupdated": "1766688592"
+    },
+    "beta-build": {
+      "buildid": "21313455",
+      "description": "Builds here may be very buggy.",
+      "timeupdated": "1766688934",
+      "timebuildupdated": "1766688592"
+    }
+  },
+  "depot": {
+    "724171": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "724172": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9124197226601190543",
+          "size": "206127288",
+          "download": "41220592"
+        }
+      }
+    },
+    "724173": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5862254878635059172",
+          "size": "216259586",
+          "download": "41208176"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21313455",
+        "timeupdated": "1766689019",
+        "timebuildupdated": "1766688592"
+      },
+      "beta-build": {
+        "buildid": "21313455",
+        "description": "Builds here may be very buggy.",
+        "timeupdated": "1766688934",
+        "timebuildupdated": "1766688592"
+      }
+    }
+  }
+}

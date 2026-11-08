@@ -1,0 +1,70 @@
+{
+  "name": "Blood Dungeon",
+  "source": "spectre",
+  "changenumber": 40604046,
+  "updated": "2026-11-04T23:24:35.828Z",
+  "branches": {
+    "public": {
+      "buildid": "25644478",
+      "timeupdated": "1790873758",
+      "timebuildupdated": "1790828290"
+    },
+    "older": {
+      "buildid": "24959823",
+      "description": "older build to compare",
+      "timeupdated": "1787788012",
+      "timebuildupdated": "1787787810"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2431081": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2656082391540550948",
+          "size": "176209815",
+          "download": "133133648"
+        }
+      }
+    },
+    "2431082": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6293933602089744407",
+          "size": "221471887",
+          "download": "147299328"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25644478",
+        "timeupdated": "1790873758",
+        "timebuildupdated": "1790828290"
+      },
+      "older": {
+        "buildid": "24959823",
+        "description": "older build to compare",
+        "timeupdated": "1787788012",
+        "timebuildupdated": "1787787810"
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "SPACECOM Demo",
+  "source": "spectre",
+  "changenumber": 40621061,
+  "updated": "2026-11-07T20:56:44.009Z",
+  "branches": {
+    "public": {
+      "buildid": "425171",
+      "timebuildupdated": "1414596281"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "329501": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7827168043723128507",
+          "size": "223716358",
+          "download": "244342306449"
+        }
+      }
+    },
+    "329503": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7403535190545696507",
+          "size": "228118235",
+          "download": "261637705966"
+        }
+      }
+    },
+    "329504": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6558150095778004959",
+          "size": "230851078",
+          "download": "135020704"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "425171",
+        "timebuildupdated": "1414596281"
+      }
+    }
+  }
+}

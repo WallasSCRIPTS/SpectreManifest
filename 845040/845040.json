@@ -1,0 +1,58 @@
+{
+  "name": "Aegis Legends",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:07.705Z",
+  "branches": {
+    "public": {
+      "buildid": "22746119",
+      "timeupdated": "1785333248",
+      "timebuildupdated": "1775935687"
+    },
+    "beta": {
+      "buildid": "22746119",
+      "description": "Beta branch",
+      "timeupdated": "1775935696",
+      "timebuildupdated": "1775935687"
+    }
+  },
+  "depot": {
+    "845041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9129998278529842285",
+          "size": "1960145779",
+          "download": "538713680"
+        }
+      }
+    },
+    "845042": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2167867541383085288",
+          "size": "2035769924",
+          "download": "480729360"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22746119",
+        "timeupdated": "1785333248",
+        "timebuildupdated": "1775935687"
+      },
+      "beta": {
+        "buildid": "22746119",
+        "description": "Beta branch",
+        "timeupdated": "1775935696",
+        "timebuildupdated": "1775935687"
+      }
+    }
+  }
+}

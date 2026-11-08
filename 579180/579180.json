@@ -1,0 +1,110 @@
+{
+  "name": "Ys VIII: Lacrimosa of Dana",
+  "source": "spectre",
+  "changenumber": 40412340,
+  "updated": "2026-11-07T20:58:59.485Z",
+  "branches": {
+    "public": {
+      "buildid": "9885278",
+      "timeupdated": "1667834782",
+      "timebuildupdated": "1667833078"
+    },
+    "ph3_1.0": {
+      "buildid": "4584483",
+      "description": "Initial PH3 patch release",
+      "timeupdated": "1667727045",
+      "timebuildupdated": "1579381057"
+    },
+    "previous_version": {
+      "buildid": "4582843",
+      "timeupdated": "1579308306",
+      "timebuildupdated": "1579308306"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "579181": {
+      "manifests": {
+        "public": {
+          "gid": "854622410832629482",
+          "size": "22593990017",
+          "download": "11906520368"
+        }
+      }
+    },
+    "579182": {
+      "manifests": {
+        "public": {
+          "gid": "5946258577333185190",
+          "size": "7279996276",
+          "download": "5218650784"
+        }
+      },
+      "dlcappid": "707189"
+    },
+    "677691": {
+      "manifests": {
+        "public": {
+          "gid": "152208443005290560",
+          "size": "126708845",
+          "download": "123554720"
+        }
+      },
+      "dlcappid": "677691"
+    },
+    "677692": {
+      "manifests": {
+        "public": {
+          "gid": "1885907665976373275",
+          "size": "19380892",
+          "download": "18597632"
+        }
+      },
+      "dlcappid": "677692"
+    },
+    "707189": {
+      "dlcappid": "707189"
+    },
+    "branches": {
+      "public": {
+        "buildid": "9885278",
+        "timeupdated": "1667834782",
+        "timebuildupdated": "1667833078"
+      },
+      "ph3_1.0": {
+        "buildid": "4584483",
+        "description": "Initial PH3 patch release",
+        "timeupdated": "1667727045",
+        "timebuildupdated": "1579381057"
+      },
+      "previous_version": {
+        "buildid": "4582843",
+        "timeupdated": "1579308306",
+        "timebuildupdated": "1579308306"
+      }
+    }
+  }
+}

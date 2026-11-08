@@ -1,0 +1,58 @@
+{
+  "name": "Mission Ammunition",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:10.258Z",
+  "branches": {
+    "public": {
+      "buildid": "8439565",
+      "timeupdated": "1648221941",
+      "timebuildupdated": "1648221941"
+    }
+  },
+  "depot": {
+    "726021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4843064004077877657",
+          "size": "212359090",
+          "download": "53526864"
+        }
+      }
+    },
+    "726022": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8868621624530632490",
+          "size": "188030528",
+          "download": "59329264"
+        }
+      }
+    },
+    "726023": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8280125165279874353",
+          "size": "193711972",
+          "download": "59502640"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8439565",
+        "timeupdated": "1648221941",
+        "timebuildupdated": "1648221941"
+      }
+    }
+  }
+}

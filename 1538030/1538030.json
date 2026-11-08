@@ -1,0 +1,70 @@
+{
+  "name": "Steinstern: Spacewar",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:59.135Z",
+  "branches": {
+    "public": {
+      "buildid": "25510713",
+      "timeupdated": "1790269163",
+      "timebuildupdated": "1790269085"
+    },
+    "beta": {
+      "buildid": "25510713",
+      "description": "Testing of new versions",
+      "timeupdated": "1790269086",
+      "timebuildupdated": "1790269085"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1538031": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7657061402874133379",
+          "size": "331455455",
+          "download": "193169344"
+        }
+      }
+    },
+    "1538032": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "98235833255151764",
+          "size": "342407878",
+          "download": "190284752"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25510713",
+        "timeupdated": "1790269163",
+        "timebuildupdated": "1790269085"
+      },
+      "beta": {
+        "buildid": "25510713",
+        "description": "Testing of new versions",
+        "timeupdated": "1790269086",
+        "timebuildupdated": "1790269085"
+      }
+    }
+  }
+}

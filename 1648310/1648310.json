@@ -1,0 +1,58 @@
+{
+  "name": "Pillars Of Protection",
+  "source": "spectre",
+  "changenumber": 34867449,
+  "updated": "2026-11-05T14:59:16.385Z",
+  "branches": {
+    "public": {
+      "buildid": "9872630",
+      "timeupdated": "1667588359",
+      "timebuildupdated": "1667586559"
+    },
+    "beta_testing": {
+      "buildid": "9865969",
+      "description": "This is a testing branch that likely contains major bugs.",
+      "timeupdated": "1667518711",
+      "timebuildupdated": "1667518698"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1648311": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6741828946602177345",
+          "size": "3481921293",
+          "download": "3087355872"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9872630",
+        "timeupdated": "1667588359",
+        "timebuildupdated": "1667586559"
+      },
+      "beta_testing": {
+        "buildid": "9865969",
+        "description": "This is a testing branch that likely contains major bugs.",
+        "timeupdated": "1667518711",
+        "timebuildupdated": "1667518698"
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Backrooms: Escape Together",
+  "source": "spectre",
+  "changenumber": 40686415,
+  "updated": "2026-11-06T23:17:36.814Z",
+  "branches": {
+    "public": {
+      "buildid": "25287569",
+      "timeupdated": "1789344656",
+      "timebuildupdated": "1789330507"
+    },
+    "experimental": {
+      "buildid": "24574442",
+      "description": "May be full of bugs and crashes. Meant to test our latest improvements. Multiplayer will not work with consoles or users not on the experimental branch.",
+      "timeupdated": "1785965999",
+      "timebuildupdated": "1785940621"
+    },
+    "beta": {
+      "buildid": "25889613",
+      "description": "Beta builds for testing",
+      "timeupdated": "1791835448",
+      "timebuildupdated": "1791830168"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2141731": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2210991160432316982",
+          "size": "15213748219",
+          "download": "13463821888"
+        }
+      }
+    },
+    "2141732": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6866044377255604924",
+          "size": "20151449702",
+          "download": "7801338224"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25287569",
+        "timeupdated": "1789344656",
+        "timebuildupdated": "1789330507"
+      },
+      "experimental": {
+        "buildid": "24574442",
+        "description": "May be full of bugs and crashes. Meant to test our latest improvements. Multiplayer will not work with consoles or users not on the experimental branch.",
+        "timeupdated": "1785965999",
+        "timebuildupdated": "1785940621"
+      },
+      "beta": {
+        "buildid": "25889613",
+        "description": "Beta builds for testing",
+        "timeupdated": "1791835448",
+        "timebuildupdated": "1791830168"
+      }
+    }
+  }
+}

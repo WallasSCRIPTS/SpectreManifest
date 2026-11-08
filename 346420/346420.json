@@ -1,0 +1,70 @@
+{
+  "name": "The Spatials",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:57.414Z",
+  "branches": {
+    "public": {
+      "buildid": "727082",
+      "timebuildupdated": "1439212447"
+    },
+    "beta": {
+      "buildid": "601130",
+      "timebuildupdated": "1429889783"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "346421": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2410876310157970738",
+          "size": "160686710",
+          "download": "121905312"
+        }
+      }
+    },
+    "346422": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2805569368502213160",
+          "size": "182403771",
+          "download": "126272096"
+        }
+      }
+    },
+    "346423": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4519010147812535087",
+          "size": "165862724",
+          "download": "122667408"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "727082",
+        "timebuildupdated": "1439212447"
+      },
+      "beta": {
+        "buildid": "601130",
+        "timebuildupdated": "1429889783"
+      }
+    }
+  }
+}

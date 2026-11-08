@@ -1,0 +1,60 @@
+{
+  "name": "Goblin Stone",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:53.046Z",
+  "branches": {
+    "public": {
+      "buildid": "14384644",
+      "timeupdated": "1715834396",
+      "timebuildupdated": "1715834396"
+    },
+    "local": {
+      "buildid": "10992489",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1681371806",
+      "timebuildupdated": "1681371806"
+    }
+  },
+  "depot": {
+    "1521971": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "603759753299246919",
+          "size": "4131882871",
+          "download": "3249078816"
+        }
+      }
+    },
+    "1521972": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "880015298638295562",
+          "size": "4159143884",
+          "download": "3257026944"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14384644",
+        "timeupdated": "1715834396",
+        "timebuildupdated": "1715834396"
+      },
+      "local": {
+        "buildid": "10992489",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1681371806",
+        "timebuildupdated": "1681371806"
+      }
+    }
+  }
+}

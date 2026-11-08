@@ -1,0 +1,82 @@
+{
+  "name": "Dreadful River",
+  "source": "spectre",
+  "changenumber": 39533559,
+  "updated": "2026-11-06T23:11:33.265Z",
+  "branches": {
+    "public": {
+      "buildid": "25420425",
+      "timeupdated": "1789908355",
+      "timebuildupdated": "1789908355"
+    },
+    "dr-build-test": {
+      "buildid": "25420425",
+      "description": "for testing",
+      "timeupdated": "1789908355",
+      "timebuildupdated": "1789908355"
+    },
+    "snapshot": {
+      "buildid": "25420425",
+      "description": "dr current snapshot version",
+      "timeupdated": "1789908355",
+      "timebuildupdated": "1789908355"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1807361": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1522350636780267456",
+          "size": "11595134222",
+          "download": "10765998960"
+        }
+      }
+    },
+    "1807362": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2549881347289765493",
+          "size": "8035645899",
+          "download": "7466641264"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25420425",
+        "timeupdated": "1789908355",
+        "timebuildupdated": "1789908355"
+      },
+      "dr-build-test": {
+        "buildid": "25420425",
+        "description": "for testing",
+        "timeupdated": "1789908355",
+        "timebuildupdated": "1789908355"
+      },
+      "snapshot": {
+        "buildid": "25420425",
+        "description": "dr current snapshot version",
+        "timeupdated": "1789908355",
+        "timebuildupdated": "1789908355"
+      }
+    }
+  }
+}

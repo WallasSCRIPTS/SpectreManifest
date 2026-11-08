@@ -1,0 +1,64 @@
+{
+  "name": "Blackwood Division",
+  "source": "spectre",
+  "changenumber": 34988548,
+  "updated": "2026-11-04T23:24:44.300Z",
+  "branches": {
+    "public": {
+      "buildid": "21056919",
+      "timeupdated": "1764867200",
+      "timebuildupdated": "1764867118"
+    },
+    "preview": {
+      "buildid": "21009863",
+      "description": "Public preview branch, expect bugs",
+      "timeupdated": "1764609331",
+      "timebuildupdated": "1764609329"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "3967041": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7017594485176893661",
+          "size": "84947538",
+          "download": "34798992"
+        }
+      }
+    },
+    "3967042": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3108228845848225584",
+          "size": "109920522",
+          "download": "41291408"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21056919",
+        "timeupdated": "1764867200",
+        "timebuildupdated": "1764867118"
+      },
+      "preview": {
+        "buildid": "21009863",
+        "description": "Public preview branch, expect bugs",
+        "timeupdated": "1764609331",
+        "timebuildupdated": "1764609329"
+      }
+    }
+  }
+}

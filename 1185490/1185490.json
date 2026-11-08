@@ -1,0 +1,58 @@
+{
+  "name": "Dark Quest 3",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:04:03.325Z",
+  "branches": {
+    "public": {
+      "buildid": "13577619",
+      "timeupdated": "1709048637",
+      "timebuildupdated": "1709048538"
+    },
+    "beta": {
+      "buildid": "10530976",
+      "description": "Latest Beta",
+      "timeupdated": "1676122241",
+      "timebuildupdated": "1676122143"
+    }
+  },
+  "depot": {
+    "1185491": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2567286349299372529",
+          "size": "2100026020",
+          "download": "481187472"
+        }
+      }
+    },
+    "1185492": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1466010282821751505",
+          "size": "1403947508",
+          "download": "124872080"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13577619",
+        "timeupdated": "1709048637",
+        "timebuildupdated": "1709048538"
+      },
+      "beta": {
+        "buildid": "10530976",
+        "description": "Latest Beta",
+        "timeupdated": "1676122241",
+        "timebuildupdated": "1676122143"
+      }
+    }
+  }
+}

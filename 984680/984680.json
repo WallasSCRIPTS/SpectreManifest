@@ -1,0 +1,104 @@
+{
+  "name": "Interstellar Space: Genesis",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:13.967Z",
+  "branches": {
+    "public": {
+      "buildid": "20237499",
+      "timeupdated": "1759488932",
+      "timebuildupdated": "1759488629"
+    },
+    "linuxtest": {
+      "buildid": "4355759",
+      "description": "Test build for Linux",
+      "timeupdated": "1572903105",
+      "timebuildupdated": "1572902880"
+    },
+    "old_version": {
+      "buildid": "18569415",
+      "description": "Holds the previous version",
+      "timeupdated": "1759181893",
+      "timebuildupdated": "1747933241"
+    },
+    "old_version_2": {
+      "buildid": "13313262",
+      "description": "Holds a much older version of the game. The one before the previous one.",
+      "timeupdated": "1759181908",
+      "timebuildupdated": "1706621136"
+    },
+    "old_version_3": {
+      "buildid": "10193499",
+      "description": "A very old version.",
+      "timeupdated": "1759181921",
+      "timebuildupdated": "1671640221"
+    },
+    "unstable": {
+      "buildid": "20237499",
+      "description": "Unstable Beta branch for Testing",
+      "timeupdated": "1759488961",
+      "timebuildupdated": "1759488629"
+    }
+  },
+  "depot": {
+    "984681": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2771765219719603558",
+          "size": "6863345238",
+          "download": "2486995680"
+        }
+      }
+    },
+    "984682": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "984683": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20237499",
+        "timeupdated": "1759488932",
+        "timebuildupdated": "1759488629"
+      },
+      "linuxtest": {
+        "buildid": "4355759",
+        "description": "Test build for Linux",
+        "timeupdated": "1572903105",
+        "timebuildupdated": "1572902880"
+      },
+      "old_version": {
+        "buildid": "18569415",
+        "description": "Holds the previous version",
+        "timeupdated": "1759181893",
+        "timebuildupdated": "1747933241"
+      },
+      "old_version_2": {
+        "buildid": "13313262",
+        "description": "Holds a much older version of the game. The one before the previous one.",
+        "timeupdated": "1759181908",
+        "timebuildupdated": "1706621136"
+      },
+      "old_version_3": {
+        "buildid": "10193499",
+        "description": "A very old version.",
+        "timeupdated": "1759181921",
+        "timebuildupdated": "1671640221"
+      },
+      "unstable": {
+        "buildid": "20237499",
+        "description": "Unstable Beta branch for Testing",
+        "timeupdated": "1759488961",
+        "timebuildupdated": "1759488629"
+      }
+    }
+  }
+}

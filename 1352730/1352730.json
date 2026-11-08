@@ -1,0 +1,94 @@
+{
+  "name": "Twin Horizons",
+  "source": "spectre",
+  "changenumber": 34855749,
+  "updated": "2026-11-06T21:04:37.251Z",
+  "branches": {
+    "public": {
+      "buildid": "8041339",
+      "timeupdated": "1642599578",
+      "timebuildupdated": "1642519217"
+    },
+    "public_beta": {
+      "buildid": "9592558",
+      "description": "Public Beta, receives updates earlier but with potential bugs",
+      "timeupdated": "1664204142",
+      "timebuildupdated": "1664203144"
+    }
+  },
+  "depot": {
+    "1352731": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "58180593566760103",
+          "size": "507982677",
+          "download": "105852272"
+        }
+      }
+    },
+    "1352732": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1765121829492087744",
+          "size": "505630919",
+          "download": "106731328"
+        }
+      }
+    },
+    "1352733": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7153162231462833868",
+          "size": "165628771",
+          "download": "88468096"
+        }
+      }
+    },
+    "1352734": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1504678199552807748",
+          "size": "655321191",
+          "download": "132955952"
+        }
+      }
+    },
+    "1352735": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1134005305495532622",
+          "size": "505655035",
+          "download": "106681968"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8041339",
+        "timeupdated": "1642599578",
+        "timebuildupdated": "1642519217"
+      },
+      "public_beta": {
+        "buildid": "9592558",
+        "description": "Public Beta, receives updates earlier but with potential bugs",
+        "timeupdated": "1664204142",
+        "timebuildupdated": "1664203144"
+      }
+    }
+  }
+}

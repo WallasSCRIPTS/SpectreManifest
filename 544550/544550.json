@@ -1,0 +1,130 @@
+{
+  "name": "Stationeers",
+  "source": "spectre",
+  "changenumber": 40148688,
+  "updated": "2026-11-07T20:58:39.030Z",
+  "branches": {
+    "public": {
+      "buildid": "24703804",
+      "timeupdated": "1786585112",
+      "timebuildupdated": "1786582071"
+    },
+    "prerocket": {
+      "buildid": "12001137",
+      "description": "Pre-rocket refactor update",
+      "timeupdated": "1702360900",
+      "timebuildupdated": "1692693856"
+    },
+    "beta": {
+      "buildid": "26146789",
+      "description": "beta branch",
+      "timeupdated": "1792711121",
+      "timebuildupdated": "1792711121"
+    },
+    "devbranch": {
+      "buildid": "20910791",
+      "description": "Password protected Test Branch.",
+      "timeupdated": "1773883048",
+      "timebuildupdated": "1763920522"
+    },
+    "gamescom": {
+      "buildid": "24703804",
+      "description": "Build for Gamescom 2026",
+      "timeupdated": "1786932710",
+      "timebuildupdated": "1786582071"
+    },
+    "multiplayersafe": {
+      "buildid": "21154813",
+      "description": "pre multiplayer update - safe for linux",
+      "timeupdated": "1769600957",
+      "timebuildupdated": "1765495517"
+    },
+    "preterrain": {
+      "buildid": "17747366",
+      "description": "Pre-terrain rework update",
+      "timeupdated": "1757913858",
+      "timebuildupdated": "1742186291"
+    },
+    "previous": {
+      "buildid": "24014594",
+      "description": "Manually set version when the previous(beta) version is needed to be available",
+      "timeupdated": "1782970593",
+      "timebuildupdated": "1782969326"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "544551": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5659097270152448076",
+          "size": "7406390285",
+          "download": "5458072448"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24703804",
+        "timeupdated": "1786585112",
+        "timebuildupdated": "1786582071"
+      },
+      "prerocket": {
+        "buildid": "12001137",
+        "description": "Pre-rocket refactor update",
+        "timeupdated": "1702360900",
+        "timebuildupdated": "1692693856"
+      },
+      "beta": {
+        "buildid": "26146789",
+        "description": "beta branch",
+        "timeupdated": "1792711121",
+        "timebuildupdated": "1792711121"
+      },
+      "devbranch": {
+        "buildid": "20910791",
+        "description": "Password protected Test Branch.",
+        "timeupdated": "1773883048",
+        "timebuildupdated": "1763920522"
+      },
+      "gamescom": {
+        "buildid": "24703804",
+        "description": "Build for Gamescom 2026",
+        "timeupdated": "1786932710",
+        "timebuildupdated": "1786582071"
+      },
+      "multiplayersafe": {
+        "buildid": "21154813",
+        "description": "pre multiplayer update - safe for linux",
+        "timeupdated": "1769600957",
+        "timebuildupdated": "1765495517"
+      },
+      "preterrain": {
+        "buildid": "17747366",
+        "description": "Pre-terrain rework update",
+        "timeupdated": "1757913858",
+        "timebuildupdated": "1742186291"
+      },
+      "previous": {
+        "buildid": "24014594",
+        "description": "Manually set version when the previous(beta) version is needed to be available",
+        "timeupdated": "1782970593",
+        "timebuildupdated": "1782969326"
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Riddle of the Sphinx™",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-05T14:57:13.939Z",
+  "branches": {
+    "public": {
+      "buildid": "6881962",
+      "timeupdated": "1623875350",
+      "timebuildupdated": "1623875350"
+    },
+    "beta": {
+      "buildid": "7685090",
+      "description": "Beta builds",
+      "timeupdated": "1636494117",
+      "timebuildupdated": "1636494117"
+    }
+  },
+  "depot": {
+    "1521871": {},
+    "1521872": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2933427586809788070",
+          "size": "5283618907",
+          "download": "4823764304"
+        }
+      }
+    },
+    "1521873": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1660794075836662358",
+          "size": "5283602143",
+          "download": "4823544992"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6881962",
+        "timeupdated": "1623875350",
+        "timebuildupdated": "1623875350"
+      },
+      "beta": {
+        "buildid": "7685090",
+        "description": "Beta builds",
+        "timeupdated": "1636494117",
+        "timebuildupdated": "1636494117"
+      }
+    }
+  }
+}

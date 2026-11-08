@@ -1,0 +1,64 @@
+{
+  "name": "LaserZone",
+  "source": "spectre",
+  "changenumber": 34846978,
+  "updated": "2026-11-07T21:03:33.408Z",
+  "branches": {
+    "public": {
+      "buildid": "7156348",
+      "timeupdated": "1628417017",
+      "timebuildupdated": "1628416849"
+    },
+    "beta": {
+      "buildid": "7156348",
+      "description": "베타 테스트",
+      "timeupdated": "1628416849",
+      "timebuildupdated": "1628416849"
+    },
+    "release": {
+      "buildid": "7156348",
+      "description": "서비스 브랜치",
+      "timeupdated": "1628417007",
+      "timebuildupdated": "1628416849"
+    }
+  },
+  "depot": {
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1125881": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4868484248068314776",
+          "size": "1855760233",
+          "download": "931113392"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7156348",
+        "timeupdated": "1628417017",
+        "timebuildupdated": "1628416849"
+      },
+      "beta": {
+        "buildid": "7156348",
+        "description": "베타 테스트",
+        "timeupdated": "1628416849",
+        "timebuildupdated": "1628416849"
+      },
+      "release": {
+        "buildid": "7156348",
+        "description": "서비스 브랜치",
+        "timeupdated": "1628417007",
+        "timebuildupdated": "1628416849"
+      }
+    }
+  }
+}

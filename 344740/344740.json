@@ -1,0 +1,134 @@
+{
+  "name": "CRYPTARK",
+  "source": "spectre",
+  "changenumber": 39385520,
+  "updated": "2026-11-07T20:56:55.113Z",
+  "branches": {
+    "public": {
+      "buildid": "12681216",
+      "timeupdated": "1699755812",
+      "timebuildupdated": "1699755762"
+    },
+    "dev": {
+      "buildid": "12681216",
+      "timeupdated": "1699755763",
+      "timebuildupdated": "1699755762"
+    },
+    "fna-unstable": {
+      "buildid": "10869876",
+      "description": "Untested FNA Builds",
+      "timeupdated": "1679966379",
+      "timebuildupdated": "1679966379"
+    },
+    "lastupdate_fix": {
+      "buildid": "931067",
+      "timebuildupdated": "1452762420"
+    },
+    "linux32": {
+      "buildid": "3986929",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609452140",
+      "timebuildupdated": "1562364195"
+    },
+    "sdl3": {
+      "buildid": "25395510",
+      "description": "Linux AArch64 Testing, UNSTABLE",
+      "timeupdated": "1789749089",
+      "timebuildupdated": "1789749089"
+    }
+  },
+  "depot": {
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "344741": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1266921875046283113",
+          "size": "558985393",
+          "download": "431617488"
+        }
+      }
+    },
+    "344742": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5321919712195029644",
+          "size": "674519801",
+          "download": "498812480"
+        }
+      }
+    },
+    "344743": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4899329792640234933",
+          "size": "688773581",
+          "download": "501852928"
+        }
+      }
+    },
+    "424120": {
+      "manifests": {
+        "public": {
+          "gid": "5511601928165627008",
+          "size": "638676277",
+          "download": "643990128"
+        }
+      },
+      "dlcappid": "424120"
+    },
+    "branches": {
+      "public": {
+        "buildid": "12681216",
+        "timeupdated": "1699755812",
+        "timebuildupdated": "1699755762"
+      },
+      "dev": {
+        "buildid": "12681216",
+        "timeupdated": "1699755763",
+        "timebuildupdated": "1699755762"
+      },
+      "fna-unstable": {
+        "buildid": "10869876",
+        "description": "Untested FNA Builds",
+        "timeupdated": "1679966379",
+        "timebuildupdated": "1679966379"
+      },
+      "lastupdate_fix": {
+        "buildid": "931067",
+        "timebuildupdated": "1452762420"
+      },
+      "linux32": {
+        "buildid": "3986929",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609452140",
+        "timebuildupdated": "1562364195"
+      },
+      "sdl3": {
+        "buildid": "25395510",
+        "description": "Linux AArch64 Testing, UNSTABLE",
+        "timeupdated": "1789749089",
+        "timebuildupdated": "1789749089"
+      }
+    }
+  }
+}

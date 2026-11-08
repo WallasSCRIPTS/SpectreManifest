@@ -1,0 +1,64 @@
+{
+  "name": "Eleven Prophecies",
+  "source": "spectre",
+  "changenumber": 34843642,
+  "updated": "2026-11-07T21:02:27.136Z",
+  "branches": {
+    "public": {
+      "buildid": "11453857",
+      "timeupdated": "1686802028",
+      "timebuildupdated": "1686618804"
+    },
+    "beta": {
+      "buildid": "11453857",
+      "description": "Beta version with experimental features, open to all",
+      "timeupdated": "1686618805",
+      "timebuildupdated": "1686618804"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1011721": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5464725338745193428",
+          "size": "998404086",
+          "download": "134002336"
+        }
+      }
+    },
+    "1011722": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4384113778285245193",
+          "size": "1000538354",
+          "download": "133713392"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11453857",
+        "timeupdated": "1686802028",
+        "timebuildupdated": "1686618804"
+      },
+      "beta": {
+        "buildid": "11453857",
+        "description": "Beta version with experimental features, open to all",
+        "timeupdated": "1686618805",
+        "timebuildupdated": "1686618804"
+      }
+    }
+  }
+}

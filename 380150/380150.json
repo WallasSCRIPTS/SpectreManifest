@@ -1,0 +1,121 @@
+{
+  "name": "STASIS",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:21.846Z",
+  "branches": {
+    "public": {
+      "buildid": "5616936",
+      "timeupdated": "1648005499",
+      "timebuildupdated": "1601476115"
+    },
+    "rollback_1099": {
+      "buildid": "8421149",
+      "description": "Role Back If needed due to save error",
+      "timeupdated": "1648007353",
+      "timebuildupdated": "1648007353"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "380151": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "58290729047949713",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "380152": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7643902079216435154",
+          "size": "3092025112",
+          "download": "2932206464"
+        }
+      }
+    },
+    "380153": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6244896779358669826",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "380154": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "215479719024967061",
+          "size": "3230288651",
+          "download": "2973163104"
+        }
+      }
+    },
+    "380155": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8863427451370227933",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "380156": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8161196573919795260",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "380157": {
+      "manifests": {
+        "public": {
+          "gid": "141810546578514108",
+          "size": "1134513838",
+          "download": "1123083424"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5616936",
+        "timeupdated": "1648005499",
+        "timebuildupdated": "1601476115"
+      },
+      "rollback_1099": {
+        "buildid": "8421149",
+        "description": "Role Back If needed due to save error",
+        "timeupdated": "1648007353",
+        "timebuildupdated": "1648007353"
+      }
+    }
+  }
+}

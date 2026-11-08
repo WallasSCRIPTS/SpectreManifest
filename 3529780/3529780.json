@@ -1,0 +1,57 @@
+{
+  "name": "StarHunter",
+  "source": "spectre",
+  "changenumber": 34962887,
+  "updated": "2026-11-04T23:24:42.092Z",
+  "branches": {
+    "public": {
+      "buildid": "18170430",
+      "timeupdated": "1745113383",
+      "timebuildupdated": "1745113238"
+    },
+    "local": {
+      "buildid": "17914849",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1743329205",
+      "timebuildupdated": "1743327878"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "3529781": {
+      "manifests": {
+        "public": {
+          "gid": "169055992327132622",
+          "size": "2827652557",
+          "download": "2615930432"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18170430",
+        "timeupdated": "1745113383",
+        "timebuildupdated": "1745113238"
+      },
+      "local": {
+        "buildid": "17914849",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1743329205",
+        "timebuildupdated": "1743327878"
+      }
+    }
+  }
+}

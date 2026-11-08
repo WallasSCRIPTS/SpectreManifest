@@ -1,0 +1,70 @@
+{
+  "name": "Len's Island",
+  "source": "spectre",
+  "changenumber": 40527493,
+  "updated": "2026-11-06T21:04:30.429Z",
+  "branches": {
+    "public": {
+      "buildid": "22592200",
+      "timeupdated": "1774994222",
+      "timebuildupdated": "1774993378"
+    },
+    "alphatest": {
+      "buildid": "26376767",
+      "description": "For public alpha testing",
+      "timeupdated": "1793614374",
+      "timebuildupdated": "1793614351"
+    },
+    "legacybranch": {
+      "buildid": "8992030",
+      "description": "Old Legacy Version of Len's Island",
+      "timeupdated": "1671208971",
+      "timebuildupdated": "1655971314"
+    }
+  },
+  "depot": {
+    "1335831": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8846286420741549762",
+          "size": "6477248381",
+          "download": "3607379504"
+        }
+      }
+    },
+    "1335832": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8995947386170440297",
+          "size": "6519663719",
+          "download": "3483194304"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22592200",
+        "timeupdated": "1774994222",
+        "timebuildupdated": "1774993378"
+      },
+      "alphatest": {
+        "buildid": "26376767",
+        "description": "For public alpha testing",
+        "timeupdated": "1793614374",
+        "timebuildupdated": "1793614351"
+      },
+      "legacybranch": {
+        "buildid": "8992030",
+        "description": "Old Legacy Version of Len's Island",
+        "timeupdated": "1671208971",
+        "timebuildupdated": "1655971314"
+      }
+    }
+  }
+}

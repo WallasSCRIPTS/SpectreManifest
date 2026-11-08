@@ -1,0 +1,86 @@
+{
+  "name": "Space Hulk Ascension (Classic)",
+  "source": "spectre",
+  "changenumber": 39607755,
+  "updated": "2026-11-07T20:56:38.401Z",
+  "branches": {
+    "public": {
+      "buildid": "22729165",
+      "timeupdated": "1776096755",
+      "timebuildupdated": "1775819308"
+    },
+    "public_test": {
+      "buildid": "1011392",
+      "description": "Public test builds",
+      "timebuildupdated": "1457287578"
+    },
+    "legacy": {
+      "buildid": "1011392",
+      "description": "Last pre-SNEG build",
+      "timeupdated": "1457784237",
+      "timebuildupdated": "1457287578"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "317621": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2604408384500274727",
+          "size": "17882429154",
+          "download": "4154162832"
+        }
+      }
+    },
+    "317622": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2878974164807974288",
+          "size": "17878691603",
+          "download": "4152286528"
+        }
+      }
+    },
+    "317623": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3108992160128896019",
+          "size": "17875005772",
+          "download": "4150607072"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22729165",
+        "timeupdated": "1776096755",
+        "timebuildupdated": "1775819308"
+      },
+      "public_test": {
+        "buildid": "1011392",
+        "description": "Public test builds",
+        "timebuildupdated": "1457287578"
+      },
+      "legacy": {
+        "buildid": "1011392",
+        "description": "Last pre-SNEG build",
+        "timeupdated": "1457784237",
+        "timebuildupdated": "1457287578"
+      }
+    }
+  }
+}

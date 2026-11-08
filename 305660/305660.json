@@ -1,0 +1,44 @@
+{
+  "name": "Infect and Destroy",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:33.050Z",
+  "branches": {
+    "public": {
+      "buildid": "685469",
+      "timebuildupdated": "1436226500"
+    }
+  },
+  "depot": {
+    "305661": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "868406410509108759",
+          "size": "607669833",
+          "download": "249295632"
+        }
+      }
+    },
+    "305662": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9211185130419996097",
+          "size": "606145377",
+          "download": "250793920"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "685469",
+        "timebuildupdated": "1436226500"
+      }
+    }
+  }
+}

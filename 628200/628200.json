@@ -1,0 +1,70 @@
+{
+  "name": "The Invisible Hand",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:21.857Z",
+  "branches": {
+    "public": {
+      "buildid": "20315951",
+      "timeupdated": "1759995165",
+      "timebuildupdated": "1759994768"
+    },
+    "linux-beta": {
+      "buildid": "6704977",
+      "description": "Linux beta build",
+      "timeupdated": "1621083844",
+      "timebuildupdated": "1621083843"
+    },
+    "unity-upgrade-test": {
+      "buildid": "8137433",
+      "description": "For players to test if unity upgrade fixes crash",
+      "timeupdated": "1643881124",
+      "timebuildupdated": "1643881124"
+    }
+  },
+  "depot": {
+    "628201": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2333834536917782704",
+          "size": "3545998016",
+          "download": "837111200"
+        }
+      }
+    },
+    "628202": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1690324533468972977",
+          "size": "2539256007",
+          "download": "786659232"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20315951",
+        "timeupdated": "1759995165",
+        "timebuildupdated": "1759994768"
+      },
+      "linux-beta": {
+        "buildid": "6704977",
+        "description": "Linux beta build",
+        "timeupdated": "1621083844",
+        "timebuildupdated": "1621083843"
+      },
+      "unity-upgrade-test": {
+        "buildid": "8137433",
+        "description": "For players to test if unity upgrade fixes crash",
+        "timeupdated": "1643881124",
+        "timebuildupdated": "1643881124"
+      }
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Birb Game",
+  "source": "spectre",
+  "changenumber": 37912828,
+  "updated": "2026-11-04T23:24:42.865Z",
+  "branches": {
+    "public": {
+      "buildid": "24632891",
+      "timeupdated": "1786223796",
+      "timebuildupdated": "1786223426"
+    },
+    "development": {
+      "buildid": "22793861",
+      "description": "Branch with builds automatically uploaded during development",
+      "timeupdated": "1776247218",
+      "timebuildupdated": "1776236159"
+    },
+    "staging": {
+      "buildid": "24632891",
+      "description": "staging branch for release",
+      "timeupdated": "1786223426",
+      "timebuildupdated": "1786223426"
+    },
+    "v0.7": {
+      "buildid": "19291428",
+      "description": "Version 0.7 (Most of the time, one update behind the main branch)",
+      "timeupdated": "1753375522",
+      "timebuildupdated": "1753020116"
+    },
+    "v0.8": {
+      "buildid": "20735175",
+      "description": "Version 0.8 (New version in development)",
+      "timeupdated": "1763471896",
+      "timebuildupdated": "1762759952"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "3682551": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3667804515515074720",
+          "size": "5548706827",
+          "download": "5306125904"
+        }
+      }
+    },
+    "3682552": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3055144395728671316",
+          "size": "7995470373",
+          "download": "5601280896"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24632891",
+        "timeupdated": "1786223796",
+        "timebuildupdated": "1786223426"
+      },
+      "development": {
+        "buildid": "22793861",
+        "description": "Branch with builds automatically uploaded during development",
+        "timeupdated": "1776247218",
+        "timebuildupdated": "1776236159"
+      },
+      "staging": {
+        "buildid": "24632891",
+        "description": "staging branch for release",
+        "timeupdated": "1786223426",
+        "timebuildupdated": "1786223426"
+      },
+      "v0.7": {
+        "buildid": "19291428",
+        "description": "Version 0.7 (Most of the time, one update behind the main branch)",
+        "timeupdated": "1753375522",
+        "timebuildupdated": "1753020116"
+      },
+      "v0.8": {
+        "buildid": "20735175",
+        "description": "Version 0.8 (New version in development)",
+        "timeupdated": "1763471896",
+        "timebuildupdated": "1762759952"
+      }
+    }
+  }
+}

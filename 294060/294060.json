@@ -1,0 +1,62 @@
+{
+  "name": "Aaru's Awakening",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:27.523Z",
+  "branches": {
+    "public": {
+      "buildid": "590454",
+      "timebuildupdated": "1429184833"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "294061": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3124424597378470199",
+          "size": "2004274912",
+          "download": "640094160"
+        }
+      }
+    },
+    "294062": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7067087533993584306",
+          "size": "2008261628",
+          "download": "637715696"
+        }
+      }
+    },
+    "294063": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "326336595062037618",
+          "size": "2011161033",
+          "download": "638265504"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "590454",
+        "timebuildupdated": "1429184833"
+      }
+    }
+  }
+}

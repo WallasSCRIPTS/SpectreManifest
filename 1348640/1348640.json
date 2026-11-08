@@ -1,0 +1,103 @@
+{
+  "name": "Frozen Flame - Dedicated Server",
+  "source": "spectre",
+  "changenumber": 38905983,
+  "updated": "2026-11-06T21:04:35.737Z",
+  "branches": {
+    "public": {
+      "buildid": "11289146",
+      "timeupdated": "1684773539",
+      "timebuildupdated": "1684773475"
+    },
+    "candidate": {
+      "buildid": "11289146",
+      "description": "Release Candidate",
+      "timeupdated": "1684773475",
+      "timebuildupdated": "1684773475"
+    }
+  },
+  "depot": {
+    "1004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7604377918839582995",
+          "size": "67863136",
+          "download": "24251776"
+        }
+      },
+      "depotfromapp": "1007"
+    },
+    "1005": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2135359612286175146",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "depotfromapp": "1007"
+    },
+    "1006": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4559160656493359681",
+          "size": "111284048",
+          "download": "36733840"
+        }
+      },
+      "depotfromapp": "1007"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1348641": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1468967274093039094",
+          "size": "2561590085",
+          "download": "1590922992"
+        }
+      }
+    },
+    "1348643": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7191089602495320945",
+          "size": "2551873788",
+          "download": "1633863456"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11289146",
+        "timeupdated": "1684773539",
+        "timebuildupdated": "1684773475"
+      },
+      "candidate": {
+        "buildid": "11289146",
+        "description": "Release Candidate",
+        "timeupdated": "1684773475",
+        "timebuildupdated": "1684773475"
+      }
+    }
+  }
+}

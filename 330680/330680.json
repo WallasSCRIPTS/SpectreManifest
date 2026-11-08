@@ -1,0 +1,66 @@
+{
+  "name": "Solar Struggle",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:44.459Z",
+  "branches": {
+    "public": {
+      "buildid": "445799",
+      "timebuildupdated": "1416248424"
+    },
+    "beta": {
+      "buildid": "449705",
+      "description": "Cutting edge beta",
+      "timebuildupdated": "1416521971"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229011": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "330681": {
+      "manifests": {
+        "public": {
+          "gid": "1576007014583771123",
+          "size": "388",
+          "download": "5"
+        }
+      }
+    },
+    "330682": {
+      "manifests": {
+        "public": {
+          "gid": "4209291685735674673",
+          "size": "296838465",
+          "download": "33382419072"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "445799",
+        "timebuildupdated": "1416248424"
+      },
+      "beta": {
+        "buildid": "449705",
+        "description": "Cutting edge beta",
+        "timebuildupdated": "1416521971"
+      }
+    }
+  }
+}

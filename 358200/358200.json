@@ -1,0 +1,59 @@
+{
+  "name": "Math Rescue",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:07.471Z",
+  "branches": {
+    "public": {
+      "buildid": "606132",
+      "timebuildupdated": "1430315577"
+    }
+  },
+  "depot": {
+    "358201": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7685886881372497585",
+          "size": "30154303",
+          "download": "11447712"
+        }
+      }
+    },
+    "358202": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3448828802497552472",
+          "size": "8482855",
+          "download": "2801824"
+        }
+      }
+    },
+    "358203": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1901534352255769356",
+          "size": "10177381",
+          "download": "3539872"
+        }
+      }
+    },
+    "358282": {
+      "depotfromapp": "358280"
+    },
+    "branches": {
+      "public": {
+        "buildid": "606132",
+        "timebuildupdated": "1430315577"
+      }
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "name": "Ikarus",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-07T21:02:41.967Z",
+  "branches": {
+    "public": {
+      "buildid": "4689580",
+      "timeupdated": "1582053722",
+      "timebuildupdated": "1582052490"
+    },
+    "bleeding": {
+      "buildid": "5461980",
+      "description": "unstable - create backups!",
+      "timeupdated": "1598451681",
+      "timebuildupdated": "1598451021"
+    },
+    "preview": {
+      "buildid": "5461980",
+      "description": "fairly stable - create backups!",
+      "timeupdated": "1598451536",
+      "timebuildupdated": "1598451021"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1039111": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6512674016627462087",
+          "size": "71855715",
+          "download": "24631616"
+        }
+      }
+    },
+    "1039112": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4099049311459155339",
+          "size": "28823753",
+          "download": "28772992"
+        }
+      }
+    },
+    "1039113": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2255721478557784157",
+          "size": "3585500",
+          "download": "1157536"
+        }
+      }
+    },
+    "1039114": {
+      "manifests": {
+        "public": {
+          "gid": "4910070644303251979",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4689580",
+        "timeupdated": "1582053722",
+        "timebuildupdated": "1582052490"
+      },
+      "bleeding": {
+        "buildid": "5461980",
+        "description": "unstable - create backups!",
+        "timeupdated": "1598451681",
+        "timebuildupdated": "1598451021"
+      },
+      "preview": {
+        "buildid": "5461980",
+        "description": "fairly stable - create backups!",
+        "timeupdated": "1598451536",
+        "timebuildupdated": "1598451021"
+      }
+    }
+  }
+}

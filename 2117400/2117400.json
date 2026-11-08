@@ -1,0 +1,58 @@
+{
+  "name": "Splittown",
+  "source": "spectre",
+  "changenumber": 40213541,
+  "updated": "2026-11-06T21:07:13.843Z",
+  "branches": {
+    "public": {
+      "buildid": "21246810",
+      "timeupdated": "1766088529",
+      "timebuildupdated": "1766087817"
+    }
+  },
+  "depot": {
+    "2117401": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1597324265998392806",
+          "size": "399575142",
+          "download": "318857776"
+        }
+      }
+    },
+    "2117402": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3316453309416260404",
+          "size": "347800188",
+          "download": "308067488"
+        }
+      }
+    },
+    "2117403": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6970990434267611907",
+          "size": "343363642",
+          "download": "308093360"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21246810",
+        "timeupdated": "1766088529",
+        "timebuildupdated": "1766087817"
+      }
+    }
+  }
+}

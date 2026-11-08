@@ -1,0 +1,323 @@
+{
+  "name": "Space Simulation Toolkit",
+  "source": "spectre",
+  "changenumber": 40604152,
+  "updated": "2026-11-07T21:04:08.361Z",
+  "branches": {
+    "public": {
+      "buildid": "26440513",
+      "timeupdated": "1793822660",
+      "timebuildupdated": "1793821172"
+    },
+    "v0.2.5.2_2020-09-27_old_ui": {
+      "buildid": "5601917",
+      "description": "last version with old UI",
+      "timeupdated": "1701803272",
+      "timebuildupdated": "1601212150"
+    },
+    "v0.4.3.1_2021-03-21": {
+      "buildid": "6412578",
+      "description": "backward version",
+      "timeupdated": "1624824283",
+      "timebuildupdated": "1616229747"
+    },
+    "v0.4.7.4_2021-09-01": {
+      "buildid": "6998650",
+      "description": "backward version",
+      "timeupdated": "1630527562",
+      "timebuildupdated": "1625743541"
+    },
+    "v0.5.1.0_beta_machines": {
+      "buildid": "7909662",
+      "description": "BETA - machines",
+      "timeupdated": "1639914866",
+      "timebuildupdated": "1639914846"
+    },
+    "v0.5.3.2_2023-06-05": {
+      "buildid": "8802389",
+      "description": "backward version",
+      "timeupdated": "1685913608",
+      "timebuildupdated": "1653428691"
+    },
+    "v0.7.0.2_2023-06-29": {
+      "buildid": "11391910",
+      "description": "backward version",
+      "timeupdated": "1687995535",
+      "timebuildupdated": "1685919594"
+    },
+    "v0.7.2.1_2023-02-08": {
+      "buildid": "12680519",
+      "description": "backward version",
+      "timeupdated": "1707353189",
+      "timebuildupdated": "1699741438"
+    },
+    "v0.7.3.2_2024-03-03": {
+      "buildid": "13469237",
+      "description": "backward before Asteroid release",
+      "timeupdated": "1709491380",
+      "timebuildupdated": "1708031441"
+    },
+    "v0.7.5.0_asteroid": {
+      "buildid": "13661447",
+      "description": "asteroid backward version",
+      "timeupdated": "1710106688",
+      "timebuildupdated": "1709756928"
+    },
+    "v0.10.0.8_star_fps_selection_fix": {
+      "buildid": "24509816",
+      "description": "backward version",
+      "timeupdated": "1785596868",
+      "timebuildupdated": "1785596854"
+    },
+    "v0.10.2.1_before_items_workshop": {
+      "buildid": "24620221",
+      "description": "backward version",
+      "timeupdated": "1786132969",
+      "timebuildupdated": "1786132940"
+    },
+    "v0.10.3.10_items_workshop": {
+      "buildid": "25195891",
+      "description": "backward version",
+      "timeupdated": "1788903089",
+      "timebuildupdated": "1788902944"
+    },
+    "v0.7.7.3_icebreaker_2024-06-09": {
+      "buildid": "14655642",
+      "description": "backward version",
+      "timeupdated": "1728857517",
+      "timebuildupdated": "1717934475"
+    },
+    "v0.7.7.7_star_2024-10-19": {
+      "buildid": "16109448",
+      "description": "backward version",
+      "timeupdated": "1734986216",
+      "timebuildupdated": "1729372152"
+    },
+    "v0.8.1.1_before_ui_update": {
+      "buildid": "18119664",
+      "description": "backward version",
+      "timeupdated": "1749158439",
+      "timebuildupdated": "1744752591"
+    },
+    "v0.8.2.0_ui_tags": {
+      "buildid": "18756416",
+      "description": "backward version",
+      "timeupdated": "1751753759",
+      "timebuildupdated": "1749155206"
+    },
+    "v0.8.3.0_planets": {
+      "buildid": "19119849",
+      "description": "backward version",
+      "timeupdated": "1758479555",
+      "timebuildupdated": "1751753624"
+    },
+    "v0.8.4.0_chassis": {
+      "buildid": "20067512",
+      "description": "backward version",
+      "timeupdated": "1761500304",
+      "timebuildupdated": "1758479511"
+    },
+    "v0.8.5.1_night_1": {
+      "buildid": "20549638",
+      "description": "backward version",
+      "timeupdated": "1761605986",
+      "timebuildupdated": "1761503496"
+    },
+    "v0.8.8.8_asteroid": {
+      "buildid": "20612149",
+      "description": "backward version",
+      "timeupdated": "1762562484",
+      "timebuildupdated": "1761857841"
+    },
+    "v0.9.0.0_custom_materials": {
+      "buildid": "20736543",
+      "description": "backward version",
+      "timeupdated": "1765059973",
+      "timebuildupdated": "1762768289"
+    },
+    "v0.9.1.0_custom_reactions": {
+      "buildid": "21091035",
+      "description": "backward version",
+      "timeupdated": "1766370285",
+      "timebuildupdated": "1765139799"
+    },
+    "v0.9.4.2_before_biome": {
+      "buildid": "22168545",
+      "description": "backward version",
+      "timeupdated": "1772491683",
+      "timebuildupdated": "1772491553"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1196081": {},
+    "1196084": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6236748297791023248",
+          "size": "236316744",
+          "download": "59253808"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26440513",
+        "timeupdated": "1793822660",
+        "timebuildupdated": "1793821172"
+      },
+      "v0.2.5.2_2020-09-27_old_ui": {
+        "buildid": "5601917",
+        "description": "last version with old UI",
+        "timeupdated": "1701803272",
+        "timebuildupdated": "1601212150"
+      },
+      "v0.4.3.1_2021-03-21": {
+        "buildid": "6412578",
+        "description": "backward version",
+        "timeupdated": "1624824283",
+        "timebuildupdated": "1616229747"
+      },
+      "v0.4.7.4_2021-09-01": {
+        "buildid": "6998650",
+        "description": "backward version",
+        "timeupdated": "1630527562",
+        "timebuildupdated": "1625743541"
+      },
+      "v0.5.1.0_beta_machines": {
+        "buildid": "7909662",
+        "description": "BETA - machines",
+        "timeupdated": "1639914866",
+        "timebuildupdated": "1639914846"
+      },
+      "v0.5.3.2_2023-06-05": {
+        "buildid": "8802389",
+        "description": "backward version",
+        "timeupdated": "1685913608",
+        "timebuildupdated": "1653428691"
+      },
+      "v0.7.0.2_2023-06-29": {
+        "buildid": "11391910",
+        "description": "backward version",
+        "timeupdated": "1687995535",
+        "timebuildupdated": "1685919594"
+      },
+      "v0.7.2.1_2023-02-08": {
+        "buildid": "12680519",
+        "description": "backward version",
+        "timeupdated": "1707353189",
+        "timebuildupdated": "1699741438"
+      },
+      "v0.7.3.2_2024-03-03": {
+        "buildid": "13469237",
+        "description": "backward before Asteroid release",
+        "timeupdated": "1709491380",
+        "timebuildupdated": "1708031441"
+      },
+      "v0.7.5.0_asteroid": {
+        "buildid": "13661447",
+        "description": "asteroid backward version",
+        "timeupdated": "1710106688",
+        "timebuildupdated": "1709756928"
+      },
+      "v0.10.0.8_star_fps_selection_fix": {
+        "buildid": "24509816",
+        "description": "backward version",
+        "timeupdated": "1785596868",
+        "timebuildupdated": "1785596854"
+      },
+      "v0.10.2.1_before_items_workshop": {
+        "buildid": "24620221",
+        "description": "backward version",
+        "timeupdated": "1786132969",
+        "timebuildupdated": "1786132940"
+      },
+      "v0.10.3.10_items_workshop": {
+        "buildid": "25195891",
+        "description": "backward version",
+        "timeupdated": "1788903089",
+        "timebuildupdated": "1788902944"
+      },
+      "v0.7.7.3_icebreaker_2024-06-09": {
+        "buildid": "14655642",
+        "description": "backward version",
+        "timeupdated": "1728857517",
+        "timebuildupdated": "1717934475"
+      },
+      "v0.7.7.7_star_2024-10-19": {
+        "buildid": "16109448",
+        "description": "backward version",
+        "timeupdated": "1734986216",
+        "timebuildupdated": "1729372152"
+      },
+      "v0.8.1.1_before_ui_update": {
+        "buildid": "18119664",
+        "description": "backward version",
+        "timeupdated": "1749158439",
+        "timebuildupdated": "1744752591"
+      },
+      "v0.8.2.0_ui_tags": {
+        "buildid": "18756416",
+        "description": "backward version",
+        "timeupdated": "1751753759",
+        "timebuildupdated": "1749155206"
+      },
+      "v0.8.3.0_planets": {
+        "buildid": "19119849",
+        "description": "backward version",
+        "timeupdated": "1758479555",
+        "timebuildupdated": "1751753624"
+      },
+      "v0.8.4.0_chassis": {
+        "buildid": "20067512",
+        "description": "backward version",
+        "timeupdated": "1761500304",
+        "timebuildupdated": "1758479511"
+      },
+      "v0.8.5.1_night_1": {
+        "buildid": "20549638",
+        "description": "backward version",
+        "timeupdated": "1761605986",
+        "timebuildupdated": "1761503496"
+      },
+      "v0.8.8.8_asteroid": {
+        "buildid": "20612149",
+        "description": "backward version",
+        "timeupdated": "1762562484",
+        "timebuildupdated": "1761857841"
+      },
+      "v0.9.0.0_custom_materials": {
+        "buildid": "20736543",
+        "description": "backward version",
+        "timeupdated": "1765059973",
+        "timebuildupdated": "1762768289"
+      },
+      "v0.9.1.0_custom_reactions": {
+        "buildid": "21091035",
+        "description": "backward version",
+        "timeupdated": "1766370285",
+        "timebuildupdated": "1765139799"
+      },
+      "v0.9.4.2_before_biome": {
+        "buildid": "22168545",
+        "description": "backward version",
+        "timeupdated": "1772491683",
+        "timebuildupdated": "1772491553"
+      }
+    }
+  }
+}

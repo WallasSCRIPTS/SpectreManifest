@@ -1,0 +1,80 @@
+{
+  "name": "Rogue Blight",
+  "source": "spectre",
+  "changenumber": 40352596,
+  "updated": "2026-11-04T23:22:45.121Z",
+  "branches": {
+    "public": {
+      "buildid": "26146829",
+      "timeupdated": "1792773783",
+      "timebuildupdated": "1792711211"
+    },
+    "public-beta": {
+      "buildid": "26170481",
+      "description": "Usually one patch ahead of the current release. May be less stable and could contain bugs or other issues.",
+      "timeupdated": "1792788766",
+      "timebuildupdated": "1792788741"
+    }
+  },
+  "depot": {
+    "1890311": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5940243954595422572",
+          "size": "6056765673",
+          "download": "1593380288"
+        }
+      }
+    },
+    "1890312": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1942951291224360041",
+          "size": "6047664442",
+          "download": "1593255664"
+        }
+      }
+    },
+    "1890313": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1716656412160788650",
+          "size": "6094550482",
+          "download": "1598589584"
+        }
+      }
+    },
+    "4970460": {
+      "manifests": {
+        "public": {
+          "gid": "5678122328357133642",
+          "size": "95873205",
+          "download": "87315408"
+        }
+      },
+      "dlcappid": "4970460"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26146829",
+        "timeupdated": "1792773783",
+        "timebuildupdated": "1792711211"
+      },
+      "public-beta": {
+        "buildid": "26170481",
+        "description": "Usually one patch ahead of the current release. May be less stable and could contain bugs or other issues.",
+        "timeupdated": "1792788766",
+        "timebuildupdated": "1792788741"
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Centauri Sector",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:06.240Z",
+  "branches": {
+    "public": {
+      "buildid": "873001",
+      "timebuildupdated": "1448459488"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "355811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3212047335968818841",
+          "size": "128780421",
+          "download": "88756144"
+        }
+      }
+    },
+    "355812": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1307430966943990318",
+          "size": "161951703",
+          "download": "96098880"
+        }
+      }
+    },
+    "355813": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "877709277712401897",
+          "size": "142217737",
+          "download": "89392080"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "873001",
+        "timebuildupdated": "1448459488"
+      }
+    }
+  }
+}

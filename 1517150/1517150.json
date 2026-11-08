@@ -1,0 +1,63 @@
+{
+  "name": "Vedelem: The Golden Horde",
+  "source": "spectre",
+  "changenumber": 40619423,
+  "updated": "2026-11-06T21:05:51.067Z",
+  "branches": {
+    "public": {
+      "buildid": "7015801",
+      "timeupdated": "1626091975",
+      "timebuildupdated": "1626091896"
+    },
+    "betabranch": {
+      "buildid": "7015801",
+      "description": "Beta Branch for project castle",
+      "timeupdated": "1626091896",
+      "timebuildupdated": "1626091896"
+    },
+    "linuxtest": {
+      "buildid": "6981646",
+      "description": "Linux tested",
+      "timeupdated": "1625497132",
+      "timebuildupdated": "1625497094"
+    }
+  },
+  "depot": {
+    "1517151": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6210427206085648562",
+          "size": "3936595655",
+          "download": "1173237920"
+        }
+      }
+    },
+    "1517152": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7015801",
+        "timeupdated": "1626091975",
+        "timebuildupdated": "1626091896"
+      },
+      "betabranch": {
+        "buildid": "7015801",
+        "description": "Beta Branch for project castle",
+        "timeupdated": "1626091896",
+        "timebuildupdated": "1626091896"
+      },
+      "linuxtest": {
+        "buildid": "6981646",
+        "description": "Linux tested",
+        "timeupdated": "1625497132",
+        "timebuildupdated": "1625497094"
+      }
+    }
+  }
+}

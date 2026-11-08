@@ -1,0 +1,58 @@
+{
+  "name": "Pulstario",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:04:04.571Z",
+  "branches": {
+    "public": {
+      "buildid": "11482872",
+      "timeupdated": "1686870425",
+      "timebuildupdated": "1686870425"
+    },
+    "testing": {
+      "buildid": "15413913",
+      "description": "Testing for new version of Pulstario",
+      "timeupdated": "1724025376",
+      "timebuildupdated": "1724025376"
+    }
+  },
+  "depot": {
+    "1188001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8539648272673309398",
+          "size": "156802738",
+          "download": "133079520"
+        }
+      }
+    },
+    "1188003": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4196714471993230548",
+          "size": "161633359",
+          "download": "137080064"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11482872",
+        "timeupdated": "1686870425",
+        "timebuildupdated": "1686870425"
+      },
+      "testing": {
+        "buildid": "15413913",
+        "description": "Testing for new version of Pulstario",
+        "timeupdated": "1724025376",
+        "timebuildupdated": "1724025376"
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Atlantic Fleet",
+  "source": "spectre",
+  "changenumber": 39929358,
+  "updated": "2026-11-07T20:57:41.370Z",
+  "branches": {
+    "public": {
+      "buildid": "1021616",
+      "timebuildupdated": "1457789308"
+    },
+    "beta": {
+      "buildid": "1021616",
+      "timebuildupdated": "1457789308"
+    }
+  },
+  "depot": {
+    "420441": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4624596513248547238",
+          "size": "400085811",
+          "download": "135495232"
+        }
+      }
+    },
+    "420442": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7806163879714121849",
+          "size": "399488657",
+          "download": "137675216"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1021616",
+        "timebuildupdated": "1457789308"
+      },
+      "beta": {
+        "buildid": "1021616",
+        "timebuildupdated": "1457789308"
+      }
+    }
+  }
+}

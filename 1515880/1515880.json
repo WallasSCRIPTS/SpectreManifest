@@ -1,0 +1,67 @@
+{
+  "name": "Fake Racing Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-05T14:57:12.761Z",
+  "branches": {
+    "public": {
+      "buildid": "8981193",
+      "timeupdated": "1655929252",
+      "timebuildupdated": "1655842227"
+    },
+    "beta": {
+      "buildid": "8981193",
+      "description": "Pre-release testing",
+      "timeupdated": "1655842361",
+      "timebuildupdated": "1655842227"
+    }
+  },
+  "depot": {
+    "1515881": {
+      "manifests": {
+        "public": {
+          "gid": "7187570451786766150",
+          "size": "31931265",
+          "download": "27325280"
+        }
+      }
+    },
+    "1515882": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1176495608434625420",
+          "size": "11909873",
+          "download": "3471856"
+        }
+      }
+    },
+    "1515883": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8329349513449463548",
+          "size": "4098556",
+          "download": "1099168"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8981193",
+        "timeupdated": "1655929252",
+        "timebuildupdated": "1655842227"
+      },
+      "beta": {
+        "buildid": "8981193",
+        "description": "Pre-release testing",
+        "timeupdated": "1655842361",
+        "timebuildupdated": "1655842227"
+      }
+    }
+  }
+}

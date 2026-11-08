@@ -1,0 +1,72 @@
+{
+  "name": "Cube Control",
+  "source": "spectre",
+  "changenumber": 35937428,
+  "updated": "2026-11-06T23:15:31.022Z",
+  "branches": {
+    "public": {
+      "buildid": "23145964",
+      "timeupdated": "1778262444",
+      "timebuildupdated": "1778242332"
+    },
+    "local": {
+      "buildid": "8742797",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1652621721",
+      "timebuildupdated": "1652621721"
+    }
+  },
+  "depot": {
+    "2002831": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "551153894500378436",
+          "size": "1324108482",
+          "download": "1203386400"
+        }
+      }
+    },
+    "2002832": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1851750126548868140",
+          "size": "1310247430",
+          "download": "1192533056"
+        }
+      }
+    },
+    "2002833": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "308927156501436715",
+          "size": "1314513293",
+          "download": "1188293392"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23145964",
+        "timeupdated": "1778262444",
+        "timebuildupdated": "1778242332"
+      },
+      "local": {
+        "buildid": "8742797",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1652621721",
+        "timebuildupdated": "1652621721"
+      }
+    }
+  }
+}

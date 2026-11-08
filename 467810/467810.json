@@ -1,0 +1,117 @@
+{
+  "name": "Splody",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:07.546Z",
+  "branches": {
+    "public": {
+      "buildid": "21470984",
+      "timeupdated": "1768259477",
+      "timebuildupdated": "1768259211"
+    },
+    "legacy": {
+      "buildid": "1869102",
+      "timeupdated": "1499431631",
+      "timebuildupdated": "1496704662"
+    },
+    "linux32": {
+      "buildid": "8112009",
+      "description": "32-bit Linux Binaries",
+      "timeupdated": "1651709198",
+      "timebuildupdated": "1643500672"
+    },
+    "rawinput": {
+      "buildid": "4257823",
+      "timeupdated": "1571691642",
+      "timebuildupdated": "1570199228"
+    },
+    "update5": {
+      "buildid": "2514281",
+      "timeupdated": "1528912120",
+      "timebuildupdated": "1518236499"
+    },
+    "update8": {
+      "buildid": "3635889",
+      "timeupdated": "1554614043",
+      "timebuildupdated": "1552338093"
+    },
+    "test": {
+      "buildid": "21470984",
+      "timeupdated": "1768259211",
+      "timebuildupdated": "1768259211"
+    }
+  },
+  "depot": {
+    "467811": {
+      "manifests": {
+        "public": {
+          "gid": "2030304270782947235",
+          "size": "147409042",
+          "download": "100053744"
+        }
+      }
+    },
+    "467812": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6887020507836373151",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "467813": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4080583804729707502",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21470984",
+        "timeupdated": "1768259477",
+        "timebuildupdated": "1768259211"
+      },
+      "legacy": {
+        "buildid": "1869102",
+        "timeupdated": "1499431631",
+        "timebuildupdated": "1496704662"
+      },
+      "linux32": {
+        "buildid": "8112009",
+        "description": "32-bit Linux Binaries",
+        "timeupdated": "1651709198",
+        "timebuildupdated": "1643500672"
+      },
+      "rawinput": {
+        "buildid": "4257823",
+        "timeupdated": "1571691642",
+        "timebuildupdated": "1570199228"
+      },
+      "update5": {
+        "buildid": "2514281",
+        "timeupdated": "1528912120",
+        "timebuildupdated": "1518236499"
+      },
+      "update8": {
+        "buildid": "3635889",
+        "timeupdated": "1554614043",
+        "timebuildupdated": "1552338093"
+      },
+      "test": {
+        "buildid": "21470984",
+        "timeupdated": "1768259211",
+        "timebuildupdated": "1768259211"
+      }
+    }
+  }
+}

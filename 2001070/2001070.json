@@ -1,0 +1,108 @@
+{
+  "name": "Heart of the Machine",
+  "source": "spectre",
+  "changenumber": 40321588,
+  "updated": "2026-11-06T23:15:30.860Z",
+  "branches": {
+    "public": {
+      "buildid": "26259162",
+      "timeupdated": "1793152372",
+      "timebuildupdated": "1793151159"
+    },
+    "public_beta": {
+      "buildid": "26259459",
+      "description": "Upcoming features that are still in testing. New content is only in English.",
+      "timeupdated": "1793152410",
+      "timebuildupdated": "1793152128"
+    },
+    "older_but_stable": {
+      "buildid": "25949315",
+      "description": "The most recent known-good build prior to the actual build",
+      "timeupdated": "1792030938",
+      "timebuildupdated": "1792030554"
+    }
+  },
+  "depot": {
+    "2001071": {
+      "manifests": {
+        "public": {
+          "gid": "4881183455473139761",
+          "size": "234544461",
+          "download": "115872192"
+        }
+      }
+    },
+    "2001072": {
+      "manifests": {
+        "public": {
+          "gid": "4965391434162692038",
+          "size": "529320",
+          "download": "182928"
+        }
+      }
+    },
+    "2001073": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7947552415652131173",
+          "size": "3523907869",
+          "download": "1832983760"
+        }
+      }
+    },
+    "2001074": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5828901339949923037",
+          "size": "3733932183",
+          "download": "1869747568"
+        }
+      }
+    },
+    "4565610": {
+      "manifests": {
+        "public": {
+          "gid": "5224230369820659566",
+          "size": "401666117",
+          "download": "105226912"
+        }
+      },
+      "dlcappid": "4565610"
+    },
+    "5236690": {
+      "manifests": {
+        "public": {
+          "gid": "2127676067737508153",
+          "size": "3342252406",
+          "download": "3124941472"
+        }
+      },
+      "dlcappid": "5236690"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26259162",
+        "timeupdated": "1793152372",
+        "timebuildupdated": "1793151159"
+      },
+      "public_beta": {
+        "buildid": "26259459",
+        "description": "Upcoming features that are still in testing. New content is only in English.",
+        "timeupdated": "1793152410",
+        "timebuildupdated": "1793152128"
+      },
+      "older_but_stable": {
+        "buildid": "25949315",
+        "description": "The most recent known-good build prior to the actual build",
+        "timeupdated": "1792030938",
+        "timebuildupdated": "1792030554"
+      }
+    }
+  }
+}

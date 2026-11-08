@@ -1,0 +1,193 @@
+{
+  "name": "DMT",
+  "source": "spectre",
+  "changenumber": 38944040,
+  "updated": "2026-11-07T20:59:29.714Z",
+  "branches": {
+    "public": {
+      "buildid": "4230566",
+      "timeupdated": "1569632956",
+      "timebuildupdated": "1569476770"
+    },
+    "development": {
+      "buildid": "11636638",
+      "description": "development branch",
+      "timeupdated": "1688616747",
+      "timebuildupdated": "1688616747"
+    },
+    "experimental": {
+      "buildid": "7517227",
+      "timeupdated": "1634011477",
+      "timebuildupdated": "1634011477"
+    },
+    "fordan": {
+      "buildid": "4222919",
+      "timeupdated": "1569288964",
+      "timebuildupdated": "1569288964"
+    },
+    "forneurocrash": {
+      "buildid": "10751543",
+      "description": "a beta tuned for user Neurocrash",
+      "timeupdated": "1678650467",
+      "timebuildupdated": "1678650467"
+    },
+    "latestbeta": {
+      "buildid": "11636631",
+      "timeupdated": "1688616713",
+      "timebuildupdated": "1688616713"
+    },
+    "latestexperimental": {
+      "buildid": "11636643",
+      "description": "latest and greatest and brokenest",
+      "timeupdated": "1688616777",
+      "timebuildupdated": "1688616777"
+    },
+    "latestreleased": {
+      "buildid": "7346759",
+      "description": "a copy of the latest build released",
+      "timeupdated": "1631491322",
+      "timebuildupdated": "1631491322"
+    },
+    "nonvr": {
+      "buildid": "5332546",
+      "timeupdated": "1595719856",
+      "timebuildupdated": "1595719856"
+    },
+    "testing": {
+      "buildid": "13764814",
+      "timeupdated": "1710636796",
+      "timebuildupdated": "1710636796"
+    },
+    "version1.0": {
+      "buildid": "3528739",
+      "timeupdated": "1569289465",
+      "timebuildupdated": "1549254662"
+    },
+    "version1.5": {
+      "buildid": "3724029",
+      "timeupdated": "1569289421",
+      "timebuildupdated": "1554865365"
+    },
+    "version2.0": {
+      "buildid": "4094091",
+      "timeupdated": "1569289241",
+      "timebuildupdated": "1565465350"
+    },
+    "version2.12": {
+      "buildid": "4168679",
+      "timeupdated": "1569289121",
+      "timebuildupdated": "1567669062"
+    },
+    "handsbeta": {
+      "buildid": "16925415",
+      "description": "first attempt to get hand tracking functional",
+      "timeupdated": "1736235929",
+      "timebuildupdated": "1736235929"
+    }
+  },
+  "depot": {
+    "648891": {
+      "manifests": {
+        "public": {
+          "gid": "7882320123077449909",
+          "size": "202654267",
+          "download": "50365456"
+        }
+      }
+    },
+    "648892": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7711185407360551267",
+          "size": "202654267",
+          "download": "50365456"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4230566",
+        "timeupdated": "1569632956",
+        "timebuildupdated": "1569476770"
+      },
+      "development": {
+        "buildid": "11636638",
+        "description": "development branch",
+        "timeupdated": "1688616747",
+        "timebuildupdated": "1688616747"
+      },
+      "experimental": {
+        "buildid": "7517227",
+        "timeupdated": "1634011477",
+        "timebuildupdated": "1634011477"
+      },
+      "fordan": {
+        "buildid": "4222919",
+        "timeupdated": "1569288964",
+        "timebuildupdated": "1569288964"
+      },
+      "forneurocrash": {
+        "buildid": "10751543",
+        "description": "a beta tuned for user Neurocrash",
+        "timeupdated": "1678650467",
+        "timebuildupdated": "1678650467"
+      },
+      "latestbeta": {
+        "buildid": "11636631",
+        "timeupdated": "1688616713",
+        "timebuildupdated": "1688616713"
+      },
+      "latestexperimental": {
+        "buildid": "11636643",
+        "description": "latest and greatest and brokenest",
+        "timeupdated": "1688616777",
+        "timebuildupdated": "1688616777"
+      },
+      "latestreleased": {
+        "buildid": "7346759",
+        "description": "a copy of the latest build released",
+        "timeupdated": "1631491322",
+        "timebuildupdated": "1631491322"
+      },
+      "nonvr": {
+        "buildid": "5332546",
+        "timeupdated": "1595719856",
+        "timebuildupdated": "1595719856"
+      },
+      "testing": {
+        "buildid": "13764814",
+        "timeupdated": "1710636796",
+        "timebuildupdated": "1710636796"
+      },
+      "version1.0": {
+        "buildid": "3528739",
+        "timeupdated": "1569289465",
+        "timebuildupdated": "1549254662"
+      },
+      "version1.5": {
+        "buildid": "3724029",
+        "timeupdated": "1569289421",
+        "timebuildupdated": "1554865365"
+      },
+      "version2.0": {
+        "buildid": "4094091",
+        "timeupdated": "1569289241",
+        "timebuildupdated": "1565465350"
+      },
+      "version2.12": {
+        "buildid": "4168679",
+        "timeupdated": "1569289121",
+        "timebuildupdated": "1567669062"
+      },
+      "handsbeta": {
+        "buildid": "16925415",
+        "description": "first attempt to get hand tracking functional",
+        "timeupdated": "1736235929",
+        "timebuildupdated": "1736235929"
+      }
+    }
+  }
+}

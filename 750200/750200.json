@@ -1,0 +1,59 @@
+{
+  "name": "AWAY: The Survival Series",
+  "source": "spectre",
+  "changenumber": 38722117,
+  "updated": "2026-11-07T21:00:23.674Z",
+  "branches": {
+    "public": {
+      "buildid": "12754235",
+      "timeupdated": "1700598142",
+      "timebuildupdated": "1700517856"
+    },
+    "handheld-tests": {
+      "buildid": "9283149",
+      "description": "WIP configuration changes to support handheld consoles",
+      "timeupdated": "1660071599",
+      "timebuildupdated": "1660071009"
+    }
+  },
+  "depot": {
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "750202": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3635868318833244941",
+          "size": "14238443806",
+          "download": "13137933904"
+        }
+      }
+    },
+    "750203": {},
+    "branches": {
+      "public": {
+        "buildid": "12754235",
+        "timeupdated": "1700598142",
+        "timebuildupdated": "1700517856"
+      },
+      "handheld-tests": {
+        "buildid": "9283149",
+        "description": "WIP configuration changes to support handheld consoles",
+        "timeupdated": "1660071599",
+        "timebuildupdated": "1660071009"
+      }
+    }
+  }
+}

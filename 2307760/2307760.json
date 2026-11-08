@@ -1,0 +1,58 @@
+{
+  "name": "Bedrock High",
+  "source": "spectre",
+  "changenumber": 34894826,
+  "updated": "2026-11-06T23:21:27.629Z",
+  "branches": {
+    "public": {
+      "buildid": "10688795",
+      "timeupdated": "1677890677",
+      "timebuildupdated": "1677890677"
+    },
+    "linux": {
+      "buildid": "10624026",
+      "description": "Linux",
+      "timeupdated": "1677188078",
+      "timebuildupdated": "1677188078"
+    }
+  },
+  "depot": {
+    "2307761": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5193199157502421186",
+          "size": "97346370",
+          "download": "44792000"
+        }
+      }
+    },
+    "2307762": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5518563335944626215",
+          "size": "124959971",
+          "download": "52445472"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10688795",
+        "timeupdated": "1677890677",
+        "timebuildupdated": "1677890677"
+      },
+      "linux": {
+        "buildid": "10624026",
+        "description": "Linux",
+        "timeupdated": "1677188078",
+        "timebuildupdated": "1677188078"
+      }
+    }
+  }
+}

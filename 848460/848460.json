@@ -1,0 +1,83 @@
+{
+  "name": "Aurum Kings",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:01:09.287Z",
+  "branches": {
+    "public": {
+      "buildid": "3125621",
+      "timeupdated": "1537054056",
+      "timebuildupdated": "1537053995"
+    },
+    "staging": {
+      "buildid": "2977490",
+      "description": "Staging branch for bleeding edge updates",
+      "timeupdated": "1532560161",
+      "timebuildupdated": "1532560161"
+    }
+  },
+  "depot": {
+    "848461": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1013620557493289535",
+          "size": "104345476",
+          "download": "31772352"
+        }
+      }
+    },
+    "848462": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4729472807407068603",
+          "size": "108498044",
+          "download": "33382832"
+        }
+      }
+    },
+    "848463": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8887625845849202115",
+          "size": "108231262",
+          "download": "32768336"
+        }
+      }
+    },
+    "850420": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4311067926791064858",
+          "size": "70651228",
+          "download": "64325024"
+        }
+      },
+      "dlcappid": "850420"
+    },
+    "branches": {
+      "public": {
+        "buildid": "3125621",
+        "timeupdated": "1537054056",
+        "timebuildupdated": "1537053995"
+      },
+      "staging": {
+        "buildid": "2977490",
+        "description": "Staging branch for bleeding edge updates",
+        "timeupdated": "1532560161",
+        "timebuildupdated": "1532560161"
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Starbase",
+  "source": "spectre",
+  "changenumber": 40223633,
+  "updated": "2026-11-07T20:57:58.567Z",
+  "branches": {
+    "public": {
+      "buildid": "11286725",
+      "timeupdated": "1684833584",
+      "timebuildupdated": "1684752588"
+    },
+    "public_test_universe": {
+      "buildid": "11286725",
+      "description": "Public Test Universe",
+      "timeupdated": "1684752839",
+      "timebuildupdated": "1684752588"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "454121": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8957868362596217292",
+          "size": "24181817626",
+          "download": "24213937600"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11286725",
+        "timeupdated": "1684833584",
+        "timebuildupdated": "1684752588"
+      },
+      "public_test_universe": {
+        "buildid": "11286725",
+        "description": "Public Test Universe",
+        "timeupdated": "1684752839",
+        "timebuildupdated": "1684752588"
+      }
+    }
+  }
+}

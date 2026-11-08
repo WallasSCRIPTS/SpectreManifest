@@ -1,0 +1,130 @@
+{
+  "name": "Estranged: The Departure",
+  "source": "spectre",
+  "changenumber": 39525718,
+  "updated": "2026-11-07T20:59:01.145Z",
+  "branches": {
+    "public": {
+      "buildid": "19625597",
+      "timeupdated": "1755383909",
+      "timebuildupdated": "1755382136"
+    },
+    "gi-tech-demo": {
+      "buildid": "6781523",
+      "description": "Tech demo with dynamic global illumination",
+      "timeupdated": "1622326745",
+      "timebuildupdated": "1622326745"
+    },
+    "development": {
+      "buildid": "21300054",
+      "description": "Frequent, possibly broken builds",
+      "timeupdated": "1766536876",
+      "timebuildupdated": "1766536876"
+    },
+    "previous": {
+      "buildid": "11972173",
+      "description": "Temporary branch for the previous live build",
+      "timeupdated": "1729119623",
+      "timebuildupdated": "1692338867"
+    },
+    "staging": {
+      "buildid": "19625597",
+      "description": "Infrequent, pre-release builds",
+      "timeupdated": "1755383847",
+      "timebuildupdated": "1755382136"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "582891": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8248945520108368800",
+          "size": "10226445495",
+          "download": "4594822352"
+        }
+      }
+    },
+    "582892": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4266980965869397158",
+          "size": "9289255762",
+          "download": "4576998896"
+        }
+      }
+    },
+    "582893": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6018211407268701245",
+          "size": "8501275922",
+          "download": "3998935456"
+        }
+      }
+    },
+    "582894": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3976992617460001867",
+          "size": "8467291617",
+          "download": "3984231216"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19625597",
+        "timeupdated": "1755383909",
+        "timebuildupdated": "1755382136"
+      },
+      "gi-tech-demo": {
+        "buildid": "6781523",
+        "description": "Tech demo with dynamic global illumination",
+        "timeupdated": "1622326745",
+        "timebuildupdated": "1622326745"
+      },
+      "development": {
+        "buildid": "21300054",
+        "description": "Frequent, possibly broken builds",
+        "timeupdated": "1766536876",
+        "timebuildupdated": "1766536876"
+      },
+      "previous": {
+        "buildid": "11972173",
+        "description": "Temporary branch for the previous live build",
+        "timeupdated": "1729119623",
+        "timebuildupdated": "1692338867"
+      },
+      "staging": {
+        "buildid": "19625597",
+        "description": "Infrequent, pre-release builds",
+        "timeupdated": "1755383847",
+        "timebuildupdated": "1755382136"
+      }
+    }
+  }
+}

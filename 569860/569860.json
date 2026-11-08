@@ -1,0 +1,74 @@
+{
+  "name": "Thimbleweed Park",
+  "source": "spectre",
+  "changenumber": 37436216,
+  "updated": "2026-11-07T20:58:53.143Z",
+  "branches": {
+    "public": {
+      "buildid": "2597230",
+      "timeupdated": "1520954509",
+      "timebuildupdated": "1520875016"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "569861": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6351933634633560370",
+          "size": "970544702",
+          "download": "967571248"
+        }
+      }
+    },
+    "569862": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3286938318124003407",
+          "size": "964488813",
+          "download": "962660784"
+        }
+      }
+    },
+    "569863": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4155453576839520249",
+          "size": "965642432",
+          "download": "963119120"
+        }
+      }
+    },
+    "638280": {
+      "manifests": {
+        "public": {
+          "gid": "1747977302322034371",
+          "size": "69935773",
+          "download": "70115648"
+        }
+      },
+      "dlcappid": "638280"
+    },
+    "branches": {
+      "public": {
+        "buildid": "2597230",
+        "timeupdated": "1520954509",
+        "timebuildupdated": "1520875016"
+      }
+    }
+  }
+}

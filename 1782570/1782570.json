@@ -1,0 +1,105 @@
+{
+  "name": "Beer Factory",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:09:46.874Z",
+  "branches": {
+    "public": {
+      "buildid": "15087773",
+      "timeupdated": "1721386062",
+      "timebuildupdated": "1721385882"
+    },
+    "windows_beta": {
+      "buildid": "19339695",
+      "description": "Windows - Get access to the updates before they are released on the main branch",
+      "timeupdated": "1753340019",
+      "timebuildupdated": "1753339690"
+    },
+    "linux": {
+      "buildid": "19338457",
+      "description": "Linux default branch",
+      "timeupdated": "1753329792",
+      "timebuildupdated": "1753329782"
+    },
+    "linux_beta": {
+      "buildid": "19339812",
+      "description": "Linux - Get access to the updates before they are released on the main branch",
+      "timeupdated": "1753340487",
+      "timebuildupdated": "1753340487"
+    },
+    "legacy": {
+      "buildid": "15087773",
+      "description": "Legacy build of Beer Factory",
+      "timeupdated": "1753305709",
+      "timebuildupdated": "1721385882"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1782571": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6543790568184172603",
+          "size": "2130027988",
+          "download": "1761900688"
+        }
+      }
+    },
+    "1782572": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15087773",
+        "timeupdated": "1721386062",
+        "timebuildupdated": "1721385882"
+      },
+      "windows_beta": {
+        "buildid": "19339695",
+        "description": "Windows - Get access to the updates before they are released on the main branch",
+        "timeupdated": "1753340019",
+        "timebuildupdated": "1753339690"
+      },
+      "linux": {
+        "buildid": "19338457",
+        "description": "Linux default branch",
+        "timeupdated": "1753329792",
+        "timebuildupdated": "1753329782"
+      },
+      "linux_beta": {
+        "buildid": "19339812",
+        "description": "Linux - Get access to the updates before they are released on the main branch",
+        "timeupdated": "1753340487",
+        "timebuildupdated": "1753340487"
+      },
+      "legacy": {
+        "buildid": "15087773",
+        "description": "Legacy build of Beer Factory",
+        "timeupdated": "1753305709",
+        "timebuildupdated": "1721385882"
+      }
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "name": "Little Big Adventure 2",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:31.866Z",
+  "branches": {
+    "public": {
+      "buildid": "10340707",
+      "timeupdated": "1673969471",
+      "timebuildupdated": "1673967790"
+    },
+    "classic3.1.x": {
+      "buildid": "8823181",
+      "description": "TLBA2 Classic Edition - beta",
+      "timeupdated": "1653664705",
+      "timebuildupdated": "1653664705"
+    },
+    "retro3.1.x": {
+      "buildid": "8823223",
+      "description": "TLBA2 Original Edition - beta",
+      "timeupdated": "1653664930",
+      "timebuildupdated": "1653664930"
+    },
+    "v3.2.x": {
+      "buildid": "10340707",
+      "description": "TLBA2 Classic - test",
+      "timeupdated": "1673967790",
+      "timebuildupdated": "1673967790"
+    }
+  },
+  "depot": {
+    "398002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8332551037740485910",
+          "size": "754335253",
+          "download": "660618128"
+        }
+      }
+    },
+    "398003": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4511096777313974704",
+          "size": "773550531",
+          "download": "667035776"
+        }
+      }
+    },
+    "398008": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6898977048178414927",
+          "size": "556600515",
+          "download": "498047120"
+        }
+      }
+    },
+    "1857710": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "50584976826119838",
+          "size": "554410598",
+          "download": "497576304"
+        }
+      },
+      "dlcappid": "1857710"
+    },
+    "branches": {
+      "public": {
+        "buildid": "10340707",
+        "timeupdated": "1673969471",
+        "timebuildupdated": "1673967790"
+      },
+      "classic3.1.x": {
+        "buildid": "8823181",
+        "description": "TLBA2 Classic Edition - beta",
+        "timeupdated": "1653664705",
+        "timebuildupdated": "1653664705"
+      },
+      "retro3.1.x": {
+        "buildid": "8823223",
+        "description": "TLBA2 Original Edition - beta",
+        "timeupdated": "1653664930",
+        "timebuildupdated": "1653664930"
+      },
+      "v3.2.x": {
+        "buildid": "10340707",
+        "description": "TLBA2 Classic - test",
+        "timeupdated": "1673967790",
+        "timebuildupdated": "1673967790"
+      }
+    }
+  }
+}

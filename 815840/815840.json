@@ -1,0 +1,72 @@
+{
+  "name": "Sword Mans",
+  "source": "spectre",
+  "changenumber": 34839349,
+  "updated": "2026-11-07T21:00:54.804Z",
+  "branches": {
+    "public": {
+      "buildid": "4847644",
+      "timeupdated": "1585774514",
+      "timebuildupdated": "1585774006"
+    },
+    "local": {
+      "buildid": "2581347",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1520368684",
+      "timebuildupdated": "1520368684"
+    }
+  },
+  "depot": {
+    "815842": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3872215648040804544",
+          "size": "368163738",
+          "download": "104144704"
+        }
+      }
+    },
+    "815843": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7005392854255723381",
+          "size": "419990229",
+          "download": "116562848"
+        }
+      }
+    },
+    "815844": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6810597167278687737",
+          "size": "369275019",
+          "download": "104742448"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4847644",
+        "timeupdated": "1585774514",
+        "timebuildupdated": "1585774006"
+      },
+      "local": {
+        "buildid": "2581347",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1520368684",
+        "timebuildupdated": "1520368684"
+      }
+    }
+  }
+}

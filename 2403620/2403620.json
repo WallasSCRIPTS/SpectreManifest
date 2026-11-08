@@ -1,0 +1,55 @@
+{
+  "name": "Air Twister",
+  "source": "spectre",
+  "changenumber": 39933633,
+  "updated": "2026-11-06T23:23:24.335Z",
+  "branches": {
+    "public": {
+      "buildid": "11637417",
+      "timeupdated": "1688625905",
+      "timebuildupdated": "1688625827"
+    },
+    "beta": {
+      "buildid": "11556504",
+      "description": "Debug and QA",
+      "timeupdated": "1687745320",
+      "timebuildupdated": "1687745256"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2403621": {
+      "manifests": {
+        "public": {
+          "gid": "3511115888226001546",
+          "size": "3231164260",
+          "download": "3102284976"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11637417",
+        "timeupdated": "1688625905",
+        "timebuildupdated": "1688625827"
+      },
+      "beta": {
+        "buildid": "11556504",
+        "description": "Debug and QA",
+        "timeupdated": "1687745320",
+        "timebuildupdated": "1687745256"
+      }
+    }
+  }
+}

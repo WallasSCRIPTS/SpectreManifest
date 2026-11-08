@@ -1,0 +1,70 @@
+{
+  "name": "Blueberry Garden",
+  "source": "spectre",
+  "changenumber": 40128459,
+  "updated": "2026-11-07T20:55:50.301Z",
+  "branches": {
+    "public": {
+      "buildid": "7350850",
+      "timeupdated": "1631549812",
+      "timebuildupdated": "1631549812"
+    },
+    "linux32": {
+      "buildid": "791174",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609453761",
+      "timebuildupdated": "1443304227"
+    }
+  },
+  "depot": {
+    "29161": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7722392261850589317",
+          "size": "96126189",
+          "download": "0"
+        }
+      }
+    },
+    "29162": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1282994646699691350",
+          "size": "85269694",
+          "download": "17816288"
+        }
+      }
+    },
+    "29163": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1897866451486879991",
+          "size": "97916880",
+          "download": "20624016"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7350850",
+        "timeupdated": "1631549812",
+        "timebuildupdated": "1631549812"
+      },
+      "linux32": {
+        "buildid": "791174",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609453761",
+        "timebuildupdated": "1443304227"
+      }
+    }
+  }
+}

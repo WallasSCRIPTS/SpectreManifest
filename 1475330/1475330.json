@@ -1,0 +1,55 @@
+{
+  "name": "Peak Darkness",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:32.799Z",
+  "branches": {
+    "public": {
+      "buildid": "14308010",
+      "timeupdated": "1715214167",
+      "timebuildupdated": "1715203279"
+    },
+    "igs_testing_build": {
+      "buildid": "14308010",
+      "description": "Used for testing new stuff",
+      "timeupdated": "1715203324",
+      "timebuildupdated": "1715203279"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1475331": {
+      "manifests": {
+        "public": {
+          "gid": "6474287558406503691",
+          "size": "6329291282",
+          "download": "6167100480"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14308010",
+        "timeupdated": "1715214167",
+        "timebuildupdated": "1715203279"
+      },
+      "igs_testing_build": {
+        "buildid": "14308010",
+        "description": "Used for testing new stuff",
+        "timeupdated": "1715203324",
+        "timebuildupdated": "1715203279"
+      }
+    }
+  }
+}

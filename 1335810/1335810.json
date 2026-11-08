@@ -1,0 +1,70 @@
+{
+  "name": "Bunny's Maze",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:30.409Z",
+  "branches": {
+    "public": {
+      "buildid": "5313755",
+      "timeupdated": "1595386565",
+      "timebuildupdated": "1595334795"
+    },
+    "beta": {
+      "buildid": "5313755",
+      "description": "Tests only",
+      "timeupdated": "1595334811",
+      "timebuildupdated": "1595334795"
+    }
+  },
+  "depot": {
+    "1335811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5722837823890674980",
+          "size": "205529042",
+          "download": "38004912"
+        }
+      }
+    },
+    "1335812": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4331799825468887523",
+          "size": "206411545",
+          "download": "37933904"
+        }
+      }
+    },
+    "1335813": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4608008751417051422",
+          "size": "196848250",
+          "download": "35188816"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5313755",
+        "timeupdated": "1595386565",
+        "timebuildupdated": "1595334795"
+      },
+      "beta": {
+        "buildid": "5313755",
+        "description": "Tests only",
+        "timeupdated": "1595334811",
+        "timebuildupdated": "1595334795"
+      }
+    }
+  }
+}

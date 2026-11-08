@@ -1,0 +1,94 @@
+{
+  "name": "XLarn",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:08.417Z",
+  "branches": {
+    "public": {
+      "buildid": "23028770",
+      "timeupdated": "1777558639",
+      "timebuildupdated": "1777549275"
+    },
+    "linux64-fix": {
+      "buildid": "15100363",
+      "description": "hotfix for linux 64 bit systems",
+      "timeupdated": "1734447353",
+      "timebuildupdated": "1721499813"
+    },
+    "mac-logs-enabled": {
+      "buildid": "20813129",
+      "description": "logs enabled to find mac error",
+      "timeupdated": "1763236796",
+      "timebuildupdated": "1763236770"
+    },
+    "mac-mojave-fix": {
+      "buildid": "20868124",
+      "description": "hotfix for mac mojave",
+      "timeupdated": "1763649885",
+      "timebuildupdated": "1763604038"
+    }
+  },
+  "depot": {
+    "360031": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2710098824482031842",
+          "size": "3625180",
+          "download": "3195424"
+        }
+      }
+    },
+    "360032": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8391115458319580222",
+          "size": "6410719",
+          "download": "4686896"
+        }
+      }
+    },
+    "360033": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4626288879652603652",
+          "size": "3942241",
+          "download": "3253728"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23028770",
+        "timeupdated": "1777558639",
+        "timebuildupdated": "1777549275"
+      },
+      "linux64-fix": {
+        "buildid": "15100363",
+        "description": "hotfix for linux 64 bit systems",
+        "timeupdated": "1734447353",
+        "timebuildupdated": "1721499813"
+      },
+      "mac-logs-enabled": {
+        "buildid": "20813129",
+        "description": "logs enabled to find mac error",
+        "timeupdated": "1763236796",
+        "timebuildupdated": "1763236770"
+      },
+      "mac-mojave-fix": {
+        "buildid": "20868124",
+        "description": "hotfix for mac mojave",
+        "timeupdated": "1763649885",
+        "timebuildupdated": "1763604038"
+      }
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Darksiders Warmastered Edition",
+  "source": "spectre",
+  "changenumber": 38166282,
+  "updated": "2026-11-07T20:58:04.329Z",
+  "branches": {
+    "public": {
+      "buildid": "23475386",
+      "timeupdated": "1780670570",
+      "timebuildupdated": "1780073852"
+    },
+    "publicbeta": {
+      "buildid": "2060954",
+      "timeupdated": "1503480075",
+      "timebuildupdated": "1503479713"
+    },
+    "experimental": {
+      "buildid": "23662793",
+      "description": "Problem investigation",
+      "timeupdated": "1781105189",
+      "timebuildupdated": "1781100881"
+    },
+    "warmastered2016": {
+      "buildid": "1938780",
+      "description": "The original Warmastered release from 2016",
+      "timeupdated": "1499731790",
+      "timebuildupdated": "1499272543"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "462781": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5349811679801842291",
+          "size": "23519009434",
+          "download": "22999102176"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23475386",
+        "timeupdated": "1780670570",
+        "timebuildupdated": "1780073852"
+      },
+      "publicbeta": {
+        "buildid": "2060954",
+        "timeupdated": "1503480075",
+        "timebuildupdated": "1503479713"
+      },
+      "experimental": {
+        "buildid": "23662793",
+        "description": "Problem investigation",
+        "timeupdated": "1781105189",
+        "timebuildupdated": "1781100881"
+      },
+      "warmastered2016": {
+        "buildid": "1938780",
+        "description": "The original Warmastered release from 2016",
+        "timeupdated": "1499731790",
+        "timebuildupdated": "1499272543"
+      }
+    }
+  }
+}

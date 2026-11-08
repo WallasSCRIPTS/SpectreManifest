@@ -1,0 +1,97 @@
+{
+  "name": "Pavilion",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:40.307Z",
+  "branches": {
+    "public": {
+      "buildid": "1709223",
+      "timeupdated": "1490306769",
+      "timebuildupdated": "1490243963"
+    },
+    "demo": {
+      "buildid": "1322537",
+      "description": "demo version",
+      "timeupdated": "1473261148",
+      "timebuildupdated": "1473261048"
+    },
+    "previous": {
+      "buildid": "1662309",
+      "description": "Previously working version",
+      "timeupdated": "1490306785",
+      "timebuildupdated": "1488325774"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "417152": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7598736277684196600",
+          "size": "2082122962",
+          "download": "711027600"
+        }
+      }
+    },
+    "417153": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "775879230008396640",
+          "size": "2063340237",
+          "download": "683898112"
+        }
+      }
+    },
+    "417154": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6371686995836398503",
+          "size": "2051085186",
+          "download": "681905696"
+        }
+      }
+    },
+    "434840": {
+      "manifests": {
+        "public": {
+          "gid": "7589049358011001081",
+          "size": "1587763706",
+          "download": "936096400"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1709223",
+        "timeupdated": "1490306769",
+        "timebuildupdated": "1490243963"
+      },
+      "demo": {
+        "buildid": "1322537",
+        "description": "demo version",
+        "timeupdated": "1473261148",
+        "timebuildupdated": "1473261048"
+      },
+      "previous": {
+        "buildid": "1662309",
+        "description": "Previously working version",
+        "timeupdated": "1490306785",
+        "timebuildupdated": "1488325774"
+      }
+    }
+  }
+}

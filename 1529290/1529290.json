@@ -1,0 +1,58 @@
+{
+  "name": "Prison Wars",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:55.754Z",
+  "branches": {
+    "public": {
+      "buildid": "12237052",
+      "timeupdated": "1695219747",
+      "timebuildupdated": "1695219747"
+    },
+    "macos": {
+      "buildid": "7969005",
+      "description": "Public macOs branch",
+      "timeupdated": "1641300848",
+      "timebuildupdated": "1641300848"
+    }
+  },
+  "depot": {
+    "1529291": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "340244013001875784",
+          "size": "196610592",
+          "download": "58387200"
+        }
+      }
+    },
+    "1529292": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9008721381245132666",
+          "size": "237707350",
+          "download": "77522800"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12237052",
+        "timeupdated": "1695219747",
+        "timebuildupdated": "1695219747"
+      },
+      "macos": {
+        "buildid": "7969005",
+        "description": "Public macOs branch",
+        "timeupdated": "1641300848",
+        "timebuildupdated": "1641300848"
+      }
+    }
+  }
+}

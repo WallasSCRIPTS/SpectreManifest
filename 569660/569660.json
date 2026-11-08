@@ -1,0 +1,82 @@
+{
+  "name": "Driftscape: Void",
+  "source": "spectre",
+  "changenumber": 40699342,
+  "updated": "2026-11-07T20:58:52.987Z",
+  "branches": {
+    "public": {
+      "buildid": "26504091",
+      "timeupdated": "1794046342",
+      "timebuildupdated": "1794046307"
+    },
+    "beta": {
+      "buildid": "26504091",
+      "description": "beta test new features",
+      "timeupdated": "1794046318",
+      "timebuildupdated": "1794046307"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "569661": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5713149483078267190",
+          "size": "817272386",
+          "download": "541989904"
+        }
+      }
+    },
+    "569662": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "302500229251433681",
+          "size": "791975847",
+          "download": "536207808"
+        }
+      }
+    },
+    "569663": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5889822684984779235",
+          "size": "949385302",
+          "download": "578444000"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26504091",
+        "timeupdated": "1794046342",
+        "timebuildupdated": "1794046307"
+      },
+      "beta": {
+        "buildid": "26504091",
+        "description": "beta test new features",
+        "timeupdated": "1794046318",
+        "timebuildupdated": "1794046307"
+      }
+    }
+  }
+}

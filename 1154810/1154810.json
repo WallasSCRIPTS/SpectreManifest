@@ -1,0 +1,58 @@
+{
+  "name": "Going Under",
+  "source": "spectre",
+  "changenumber": 39790792,
+  "updated": "2026-11-07T21:03:48.017Z",
+  "branches": {
+    "public": {
+      "buildid": "20206372",
+      "timeupdated": "1759487203",
+      "timebuildupdated": "1759323114"
+    },
+    "public_beta": {
+      "buildid": "6550927",
+      "description": "unreleased unstable content!",
+      "timeupdated": "1618557432",
+      "timebuildupdated": "1618557392"
+    }
+  },
+  "depot": {
+    "1154811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4248033443420680993",
+          "size": "1210353405",
+          "download": "477983664"
+        }
+      }
+    },
+    "1154813": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2565627626822152417",
+          "size": "1056677646",
+          "download": "447942048"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20206372",
+        "timeupdated": "1759487203",
+        "timebuildupdated": "1759323114"
+      },
+      "public_beta": {
+        "buildid": "6550927",
+        "description": "unreleased unstable content!",
+        "timeupdated": "1618557432",
+        "timebuildupdated": "1618557392"
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Crashlands 2",
+  "source": "spectre",
+  "changenumber": 38683731,
+  "updated": "2026-11-06T21:04:59.202Z",
+  "branches": {
+    "public": {
+      "buildid": "22730386",
+      "timeupdated": "1775851143",
+      "timebuildupdated": "1775824435"
+    },
+    "beta": {
+      "buildid": "23019322",
+      "description": "For testing upcoming patches. Saves played on this branch may not be played on older versions of the game.",
+      "timeupdated": "1777515070",
+      "timebuildupdated": "1777501130"
+    },
+    "debug_logging": {
+      "buildid": "21215213",
+      "description": "Can launch the game with debug logging",
+      "timeupdated": "1770312015",
+      "timebuildupdated": "1765924071"
+    }
+  },
+  "depot": {
+    "1401731": {
+      "manifests": {
+        "public": {
+          "gid": "6212194981627031861",
+          "size": "408428062",
+          "download": "281461664"
+        }
+      }
+    },
+    "3665381": {
+      "manifests": {
+        "public": {
+          "gid": "6792396351188340778",
+          "size": "120356350",
+          "download": "114968864"
+        }
+      },
+      "dlcappid": "3665380",
+      "depotfromapp": "3665380"
+    },
+    "branches": {
+      "public": {
+        "buildid": "22730386",
+        "timeupdated": "1775851143",
+        "timebuildupdated": "1775824435"
+      },
+      "beta": {
+        "buildid": "23019322",
+        "description": "For testing upcoming patches. Saves played on this branch may not be played on older versions of the game.",
+        "timeupdated": "1777515070",
+        "timebuildupdated": "1777501130"
+      },
+      "debug_logging": {
+        "buildid": "21215213",
+        "description": "Can launch the game with debug logging",
+        "timeupdated": "1770312015",
+        "timebuildupdated": "1765924071"
+      }
+    }
+  }
+}

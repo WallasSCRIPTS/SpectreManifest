@@ -1,0 +1,130 @@
+{
+  "name": "Blade Symphony",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T20:56:06.504Z",
+  "branches": {
+    "public": {
+      "buildid": "10384606",
+      "timeupdated": "1674594920",
+      "timebuildupdated": "1674499356"
+    },
+    "unharmonious": {
+      "buildid": "1536479",
+      "description": "The last public update before Harmonious Prelude.",
+      "timeupdated": "1537644560",
+      "timebuildupdated": "1482418600"
+    },
+    "release_candidate": {
+      "buildid": "24282915",
+      "description": "Main Release Candidate",
+      "timeupdated": "1784464153",
+      "timebuildupdated": "1784464152"
+    }
+  },
+  "depot": {
+    "225601": {
+      "manifests": {
+        "public": {
+          "gid": "1951215961180917827",
+          "size": "6567691637",
+          "download": "3222082176"
+        }
+      }
+    },
+    "225602": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3032454856834549659",
+          "size": "159230777",
+          "download": "53005424"
+        }
+      }
+    },
+    "225603": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3159712814312842534",
+          "size": "143087998",
+          "download": "35038544"
+        }
+      }
+    },
+    "225604": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1540842928134486588",
+          "size": "165226708",
+          "download": "42040512"
+        }
+      }
+    },
+    "225605": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2249006979991190096",
+          "size": "120981220",
+          "download": "34117392"
+        }
+      }
+    },
+    "225619": {
+      "manifests": {
+        "public": {
+          "gid": "7083914682582020929",
+          "size": "311214571",
+          "download": "306856416"
+        }
+      }
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "10384606",
+        "timeupdated": "1674594920",
+        "timebuildupdated": "1674499356"
+      },
+      "unharmonious": {
+        "buildid": "1536479",
+        "description": "The last public update before Harmonious Prelude.",
+        "timeupdated": "1537644560",
+        "timebuildupdated": "1482418600"
+      },
+      "release_candidate": {
+        "buildid": "24282915",
+        "description": "Main Release Candidate",
+        "timeupdated": "1784464153",
+        "timebuildupdated": "1784464152"
+      }
+    }
+  }
+}

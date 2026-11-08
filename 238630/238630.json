@@ -1,0 +1,118 @@
+{
+  "name": "Fist Puncher",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:09.190Z",
+  "branches": {
+    "public": {
+      "buildid": "6029191",
+      "timeupdated": "1609453803",
+      "timebuildupdated": "1609453803"
+    },
+    "linux32": {
+      "buildid": "4154027",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609453795",
+      "timebuildupdated": "1567181378"
+    }
+  },
+  "depot": {
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "238631": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8944825334383827846",
+          "size": "463627925",
+          "download": "161251200"
+        }
+      }
+    },
+    "238632": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6801463049679937952",
+          "size": "463627925",
+          "download": "161251584"
+        }
+      }
+    },
+    "238633": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5936393924446657992",
+          "size": "448401166",
+          "download": "154321408"
+        }
+      }
+    },
+    "238634": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2604822372521923005",
+          "size": "448401166",
+          "download": "154321408"
+        }
+      }
+    },
+    "238635": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2740356938255417484",
+          "size": "436296727",
+          "download": "151485328"
+        }
+      }
+    },
+    "238636": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1214585452783287140",
+          "size": "436296727",
+          "download": "151485088"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6029191",
+        "timeupdated": "1609453803",
+        "timebuildupdated": "1609453803"
+      },
+      "linux32": {
+        "buildid": "4154027",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609453795",
+        "timebuildupdated": "1567181378"
+      }
+    }
+  }
+}

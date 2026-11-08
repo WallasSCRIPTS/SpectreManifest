@@ -1,0 +1,60 @@
+{
+  "name": "100 Rogues Demo",
+  "source": "spectre",
+  "changenumber": 37239362,
+  "updated": "2026-11-04T23:25:41.081Z",
+  "branches": {
+    "public": {
+      "buildid": "24192620",
+      "timeupdated": "1783988816",
+      "timebuildupdated": "1783988593"
+    },
+    "local": {
+      "buildid": "21341497",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1767066024",
+      "timebuildupdated": "1767066024"
+    }
+  },
+  "depot": {
+    "4292871": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8468030931601369281",
+          "size": "351007613",
+          "download": "81238112"
+        }
+      }
+    },
+    "4292872": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "969442773965107750",
+          "size": "418098441",
+          "download": "91268528"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24192620",
+        "timeupdated": "1783988816",
+        "timebuildupdated": "1783988593"
+      },
+      "local": {
+        "buildid": "21341497",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1767066024",
+        "timebuildupdated": "1767066024"
+      }
+    }
+  }
+}

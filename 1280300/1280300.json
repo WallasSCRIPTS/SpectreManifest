@@ -1,0 +1,70 @@
+{
+  "name": "Steel Assault",
+  "source": "spectre",
+  "changenumber": 39506484,
+  "updated": "2026-11-06T21:04:07.967Z",
+  "branches": {
+    "public": {
+      "buildid": "8426092",
+      "timeupdated": "1648065711",
+      "timebuildupdated": "1648063503"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1280301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3909464818468631574",
+          "size": "237757310",
+          "download": "208702192"
+        }
+      }
+    },
+    "1280302": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6127614423964380735",
+          "size": "260622885",
+          "download": "215226912"
+        }
+      }
+    },
+    "1280303": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4363292713965160926",
+          "size": "273954901",
+          "download": "218194000"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8426092",
+        "timeupdated": "1648065711",
+        "timebuildupdated": "1648063503"
+      }
+    }
+  }
+}

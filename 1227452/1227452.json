@@ -1,0 +1,73 @@
+{
+  "name": "BlastEm",
+  "source": "spectre",
+  "changenumber": 40627016,
+  "updated": "2026-11-06T21:03:44.154Z",
+  "branches": {
+    "public": {
+      "buildid": "20833873",
+      "timeupdated": "1763418670",
+      "timebuildupdated": "1763416391"
+    },
+    "nightly": {
+      "buildid": "26456926",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793879080",
+      "timebuildupdated": "1793879080"
+    }
+  },
+  "depot": {
+    "1227452": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8389353845395210660",
+          "size": "685457",
+          "download": "298544"
+        }
+      },
+      "dlcappid": "1227452"
+    },
+    "1790020": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6964455970003915964",
+          "size": "722686",
+          "download": "248640"
+        }
+      },
+      "dlcappid": "1227452"
+    },
+    "1790021": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7766135985823886554",
+          "size": "1005094",
+          "download": "292176"
+        }
+      },
+      "dlcappid": "1227452"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833873",
+        "timeupdated": "1763418670",
+        "timebuildupdated": "1763416391"
+      },
+      "nightly": {
+        "buildid": "26456926",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793879080",
+        "timebuildupdated": "1793879080"
+      }
+    }
+  }
+}

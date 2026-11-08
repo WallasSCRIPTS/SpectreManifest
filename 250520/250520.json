@@ -1,0 +1,105 @@
+{
+  "name": "Underrail",
+  "source": "spectre",
+  "changenumber": 37432709,
+  "updated": "2026-11-07T20:56:12.213Z",
+  "branches": {
+    "public": {
+      "buildid": "21973456",
+      "timeupdated": "1771361486",
+      "timebuildupdated": "1771357331"
+    },
+    "legacy": {
+      "buildid": "4619198",
+      "description": "Version 1.1.1.6",
+      "timeupdated": "1598912605",
+      "timebuildupdated": "1580294156"
+    },
+    "experimental": {
+      "buildid": "21973456",
+      "description": "Here we upload upcoming version that still require some testing. Proceed accordingly.",
+      "timeupdated": "1771361457",
+      "timebuildupdated": "1771357331"
+    },
+    "v1.2.0.23": {
+      "buildid": "18718203",
+      "description": "Version 1.2.0.23",
+      "timeupdated": "1748962807",
+      "timebuildupdated": "1748956765"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "250521": {
+      "manifests": {
+        "public": {
+          "gid": "4890214019635908219",
+          "size": "5220398081",
+          "download": "4984067280"
+        }
+      }
+    },
+    "694330": {
+      "manifests": {
+        "public": {
+          "gid": "4124603338204506182",
+          "size": "7957099312",
+          "download": "7821247568"
+        }
+      },
+      "dlcappid": "694330"
+    },
+    "2604510": {
+      "manifests": {
+        "public": {
+          "gid": "3423946495058629444",
+          "size": "3185729730",
+          "download": "3160176528"
+        }
+      },
+      "dlcappid": "2604510"
+    },
+    "branches": {
+      "public": {
+        "buildid": "21973456",
+        "timeupdated": "1771361486",
+        "timebuildupdated": "1771357331"
+      },
+      "legacy": {
+        "buildid": "4619198",
+        "description": "Version 1.1.1.6",
+        "timeupdated": "1598912605",
+        "timebuildupdated": "1580294156"
+      },
+      "experimental": {
+        "buildid": "21973456",
+        "description": "Here we upload upcoming version that still require some testing. Proceed accordingly.",
+        "timeupdated": "1771361457",
+        "timebuildupdated": "1771357331"
+      },
+      "v1.2.0.23": {
+        "buildid": "18718203",
+        "description": "Version 1.2.0.23",
+        "timeupdated": "1748962807",
+        "timebuildupdated": "1748956765"
+      }
+    }
+  }
+}

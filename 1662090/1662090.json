@@ -1,0 +1,54 @@
+{
+  "name": "Hyper-5",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:06:54.692Z",
+  "branches": {
+    "public": {
+      "buildid": "9180116",
+      "timeupdated": "1659163890",
+      "timebuildupdated": "1658666084"
+    }
+  },
+  "depot": {
+    "1662091": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6132236534680904084",
+          "size": "4132962119",
+          "download": "1954755504"
+        }
+      }
+    },
+    "1830011": {
+      "manifests": {
+        "public": {
+          "gid": "2476283921435165936",
+          "size": "99598030",
+          "download": "97954320"
+        }
+      },
+      "depotfromapp": "1830010"
+    },
+    "1830012": {
+      "manifests": {
+        "public": {
+          "gid": "4266869800367471759",
+          "size": "281177797",
+          "download": "284032592"
+        }
+      },
+      "depotfromapp": "1830010"
+    },
+    "branches": {
+      "public": {
+        "buildid": "9180116",
+        "timeupdated": "1659163890",
+        "timebuildupdated": "1658666084"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Magnus Imago",
+  "source": "spectre",
+  "changenumber": 37531025,
+  "updated": "2026-11-06T23:11:39.481Z",
+  "branches": {
+    "public": {
+      "buildid": "8030750",
+      "timeupdated": "1642367285",
+      "timebuildupdated": "1642367108"
+    },
+    "nowylinux_16012022": {
+      "buildid": "8030715",
+      "description": "najnowszy Linux",
+      "timeupdated": "1642366242",
+      "timebuildupdated": "1642366242"
+    },
+    "windows_160122022": {
+      "buildid": "8030750",
+      "description": "styczen 2022",
+      "timeupdated": "1642367108",
+      "timebuildupdated": "1642367108"
+    }
+  },
+  "depot": {
+    "1856551": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7929725858583573327",
+          "size": "293102062",
+          "download": "140926896"
+        }
+      }
+    },
+    "1856558": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7171441298756911282",
+          "size": "302679814",
+          "download": "142314496"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8030750",
+        "timeupdated": "1642367285",
+        "timebuildupdated": "1642367108"
+      },
+      "nowylinux_16012022": {
+        "buildid": "8030715",
+        "description": "najnowszy Linux",
+        "timeupdated": "1642366242",
+        "timebuildupdated": "1642366242"
+      },
+      "windows_160122022": {
+        "buildid": "8030750",
+        "description": "styczen 2022",
+        "timeupdated": "1642367108",
+        "timebuildupdated": "1642367108"
+      }
+    }
+  }
+}

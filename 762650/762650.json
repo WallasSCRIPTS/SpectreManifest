@@ -1,0 +1,92 @@
+{
+  "name": "Depraved",
+  "source": "spectre",
+  "changenumber": 37437721,
+  "updated": "2026-11-07T21:00:29.851Z",
+  "branches": {
+    "public": {
+      "buildid": "4702760",
+      "timeupdated": "1582305796",
+      "timebuildupdated": "1582305332"
+    },
+    "alpha": {
+      "buildid": "2804330",
+      "description": "alpha1.014(29)",
+      "timeupdated": "1530786882",
+      "timebuildupdated": "1527193925"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229000": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "762651": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8985889884673452463",
+          "size": "2986885428",
+          "download": "893621344"
+        }
+      }
+    },
+    "762652": {
+      "manifests": {
+        "public": {
+          "gid": "51038831327634861",
+          "size": "48112835",
+          "download": "48247888"
+        }
+      },
+      "dlcappid": "777080"
+    },
+    "762653": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5150772900288349142",
+          "size": "3024862593",
+          "download": "900771648"
+        }
+      }
+    },
+    "762654": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8413709592453541176",
+          "size": "3029439436",
+          "download": "904756800"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4702760",
+        "timeupdated": "1582305796",
+        "timebuildupdated": "1582305332"
+      },
+      "alpha": {
+        "buildid": "2804330",
+        "description": "alpha1.014(29)",
+        "timeupdated": "1530786882",
+        "timebuildupdated": "1527193925"
+      }
+    }
+  }
+}

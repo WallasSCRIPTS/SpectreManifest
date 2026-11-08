@@ -1,0 +1,55 @@
+{
+  "name": "Viscera Cleanup Detail: Santa's Rampage",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:17.063Z",
+  "branches": {
+    "public": {
+      "buildid": "4286391",
+      "timeupdated": "1571471366",
+      "timebuildupdated": "1571079972"
+    },
+    "local": {
+      "buildid": "155392",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1386599698"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "265211": {
+      "manifests": {
+        "public": {
+          "gid": "4234834144283603425",
+          "size": "1062005501",
+          "download": "724608288"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4286391",
+        "timeupdated": "1571471366",
+        "timebuildupdated": "1571079972"
+      },
+      "local": {
+        "buildid": "155392",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1386599698"
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Galimulator",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:51.468Z",
+  "branches": {
+    "public": {
+      "buildid": "12113468",
+      "timeupdated": "1693938218",
+      "timebuildupdated": "1693921832"
+    },
+    "beta": {
+      "buildid": "11986273",
+      "description": "Public Beta",
+      "timeupdated": "1692539295",
+      "timebuildupdated": "1692539279"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "808101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2314339607671645623",
+          "size": "180077291",
+          "download": "145989136"
+        }
+      }
+    },
+    "808102": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6304076599660483252",
+          "size": "181047144",
+          "download": "143977984"
+        }
+      }
+    },
+    "808103": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8650334481768200597",
+          "size": "3173",
+          "download": "2080"
+        }
+      }
+    },
+    "808104": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1859450770273172237",
+          "size": "115998976",
+          "download": "80593920"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12113468",
+        "timeupdated": "1693938218",
+        "timebuildupdated": "1693921832"
+      },
+      "beta": {
+        "buildid": "11986273",
+        "description": "Public Beta",
+        "timeupdated": "1692539295",
+        "timebuildupdated": "1692539279"
+      }
+    }
+  }
+}

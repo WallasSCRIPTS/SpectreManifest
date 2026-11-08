@@ -1,0 +1,118 @@
+{
+  "name": "Open Sorcery",
+  "source": "spectre",
+  "changenumber": 37719665,
+  "updated": "2026-11-07T20:59:02.068Z",
+  "branches": {
+    "public": {
+      "buildid": "8744148",
+      "timeupdated": "1652655720",
+      "timebuildupdated": "1652655418"
+    },
+    "beta": {
+      "buildid": "8744148",
+      "description": "Testing for Open Sorcery.",
+      "timeupdated": "1652655450",
+      "timebuildupdated": "1652655418"
+    },
+    "no_overlay": {
+      "buildid": "2047442",
+      "description": "Normal OS, but without Steam Overlay",
+      "timeupdated": "1502991304",
+      "timebuildupdated": "1502991304"
+    }
+  },
+  "depot": {
+    "585181": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3956246407227689857",
+          "size": "213896281",
+          "download": "74043232"
+        }
+      }
+    },
+    "585182": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5486172059118439041",
+          "size": "338971676",
+          "download": "104717232"
+        }
+      }
+    },
+    "585183": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4083209286501282859",
+          "size": "212549229",
+          "download": "73829776"
+        }
+      }
+    },
+    "585184": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3352835542996656069",
+          "size": "213896281",
+          "download": "74046800"
+        }
+      }
+    },
+    "585185": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8512281380057836359",
+          "size": "188980731",
+          "download": "61142368"
+        }
+      }
+    },
+    "585186": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7022628417970959474",
+          "size": "95331865",
+          "download": "37728928"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8744148",
+        "timeupdated": "1652655720",
+        "timebuildupdated": "1652655418"
+      },
+      "beta": {
+        "buildid": "8744148",
+        "description": "Testing for Open Sorcery.",
+        "timeupdated": "1652655450",
+        "timebuildupdated": "1652655418"
+      },
+      "no_overlay": {
+        "buildid": "2047442",
+        "description": "Normal OS, but without Steam Overlay",
+        "timeupdated": "1502991304",
+        "timebuildupdated": "1502991304"
+      }
+    }
+  }
+}

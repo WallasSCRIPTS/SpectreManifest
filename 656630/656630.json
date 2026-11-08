@@ -1,0 +1,49 @@
+{
+  "name": "Dead of Night",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:33.509Z",
+  "branches": {
+    "public": {
+      "buildid": "20760042",
+      "timeupdated": "1762902979",
+      "timebuildupdated": "1762902843"
+    },
+    "deadofnightbeta": {
+      "buildid": "14798528",
+      "description": "The beta for the new update",
+      "timeupdated": "1718998842",
+      "timebuildupdated": "1718998842"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "656631": {
+      "manifests": {
+        "public": {
+          "gid": "2485584338753372268",
+          "size": "100448678",
+          "download": "87561136"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20760042",
+        "timeupdated": "1762902979",
+        "timebuildupdated": "1762902843"
+      },
+      "deadofnightbeta": {
+        "buildid": "14798528",
+        "description": "The beta for the new update",
+        "timeupdated": "1718998842",
+        "timebuildupdated": "1718998842"
+      }
+    }
+  }
+}

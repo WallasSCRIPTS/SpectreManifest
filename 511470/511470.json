@@ -1,0 +1,58 @@
+{
+  "name": "Glass Masquerade",
+  "source": "spectre",
+  "changenumber": 37435436,
+  "updated": "2026-11-07T20:58:24.521Z",
+  "branches": {
+    "public": {
+      "buildid": "5304545",
+      "timeupdated": "1595087883",
+      "timebuildupdated": "1595072249"
+    },
+    "beta": {
+      "buildid": "5304545",
+      "description": "patch tests",
+      "timeupdated": "1595072976",
+      "timebuildupdated": "1595072249"
+    }
+  },
+  "depot": {
+    "511471": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4196561777056996829",
+          "size": "988585551",
+          "download": "170775216"
+        }
+      }
+    },
+    "511472": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7056521271966616563",
+          "size": "1004907912",
+          "download": "176192496"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5304545",
+        "timeupdated": "1595087883",
+        "timebuildupdated": "1595072249"
+      },
+      "beta": {
+        "buildid": "5304545",
+        "description": "patch tests",
+        "timeupdated": "1595072976",
+        "timebuildupdated": "1595072249"
+      }
+    }
+  }
+}

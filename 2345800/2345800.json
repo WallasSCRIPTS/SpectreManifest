@@ -1,0 +1,73 @@
+{
+  "name": "RetroArch - ScummVM",
+  "source": "spectre",
+  "changenumber": 40667371,
+  "updated": "2026-11-06T23:23:17.515Z",
+  "branches": {
+    "public": {
+      "buildid": "20833941",
+      "timeupdated": "1763418471",
+      "timebuildupdated": "1763416678"
+    },
+    "nightly": {
+      "buildid": "26483781",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793966608",
+      "timebuildupdated": "1793966608"
+    }
+  },
+  "depot": {
+    "2345800": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1593223747667240722",
+          "size": "198131913",
+          "download": "116017152"
+        }
+      },
+      "dlcappid": "2345800"
+    },
+    "2345801": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6862684040900099336",
+          "size": "205508433",
+          "download": "117347984"
+        }
+      },
+      "dlcappid": "2345800"
+    },
+    "2345802": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8034928440577968882",
+          "size": "306166972",
+          "download": "141745664"
+        }
+      },
+      "dlcappid": "2345800"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833941",
+        "timeupdated": "1763418471",
+        "timebuildupdated": "1763416678"
+      },
+      "nightly": {
+        "buildid": "26483781",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793966608",
+        "timebuildupdated": "1793966608"
+      }
+    }
+  }
+}

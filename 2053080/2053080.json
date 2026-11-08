@@ -1,0 +1,58 @@
+{
+  "name": "Opaloid Kingdom",
+  "source": "spectre",
+  "changenumber": 34882093,
+  "updated": "2026-11-06T23:15:38.581Z",
+  "branches": {
+    "public": {
+      "buildid": "11227053",
+      "timeupdated": "1684021611",
+      "timebuildupdated": "1684021611"
+    }
+  },
+  "depot": {
+    "2053081": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6498963931617645049",
+          "size": "114518062",
+          "download": "68157584"
+        }
+      }
+    },
+    "2053082": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7316227696873207323",
+          "size": "115435976",
+          "download": "68775408"
+        }
+      }
+    },
+    "2053083": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4798556309962781711",
+          "size": "87989425",
+          "download": "50233552"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11227053",
+        "timeupdated": "1684021611",
+        "timebuildupdated": "1684021611"
+      }
+    }
+  }
+}

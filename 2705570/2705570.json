@@ -1,0 +1,69 @@
+{
+  "name": "Road Place",
+  "source": "spectre",
+  "changenumber": 40527205,
+  "updated": "2026-11-04T23:24:37.224Z",
+  "branches": {
+    "public": {
+      "buildid": "15616375",
+      "timeupdated": "1725626904",
+      "timebuildupdated": "1725626904"
+    },
+    "beta": {
+      "buildid": "26391459",
+      "description": "New engine, testing",
+      "timeupdated": "1793658391",
+      "timebuildupdated": "1793658391"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2705571": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "2705572": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6430706915834380262",
+          "size": "344198592",
+          "download": "67875920"
+        }
+      }
+    },
+    "2705573": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8049209748405247495",
+          "size": "327300359",
+          "download": "61103536"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15616375",
+        "timeupdated": "1725626904",
+        "timebuildupdated": "1725626904"
+      },
+      "beta": {
+        "buildid": "26391459",
+        "description": "New engine, testing",
+        "timeupdated": "1793658391",
+        "timebuildupdated": "1793658391"
+      }
+    }
+  }
+}

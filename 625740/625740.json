@@ -1,0 +1,69 @@
+{
+  "name": "Rifter",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:21.012Z",
+  "branches": {
+    "public": {
+      "buildid": "3021760",
+      "timeupdated": "1533890246",
+      "timebuildupdated": "1533889415"
+    },
+    "experimental": {
+      "buildid": "3022893",
+      "timeupdated": "1533912540",
+      "timebuildupdated": "1533912448"
+    }
+  },
+  "depot": {
+    "625741": {},
+    "625742": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1686981211304930360",
+          "size": "239801386",
+          "download": "217054192"
+        }
+      }
+    },
+    "625743": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3598055240001128026",
+          "size": "237602330",
+          "download": "206341568"
+        }
+      }
+    },
+    "625744": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7927548580173264594",
+          "size": "242447290",
+          "download": "212587168"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3021760",
+        "timeupdated": "1533890246",
+        "timebuildupdated": "1533889415"
+      },
+      "experimental": {
+        "buildid": "3022893",
+        "timeupdated": "1533912540",
+        "timebuildupdated": "1533912448"
+      }
+    }
+  }
+}

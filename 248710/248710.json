@@ -1,0 +1,83 @@
+{
+  "name": "Iesabel",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:11.705Z",
+  "branches": {
+    "public": {
+      "buildid": "260192",
+      "timebuildupdated": "1399545182"
+    },
+    "local": {
+      "buildid": "114265",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1379056685"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "248711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3877253058318917774",
+          "size": "2543761650",
+          "download": "0"
+        }
+      }
+    },
+    "248712": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6393257655333035383",
+          "size": "2546359973",
+          "download": "0"
+        }
+      }
+    },
+    "248713": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6958128003100246150",
+          "size": "2597665896",
+          "download": "0"
+        }
+      }
+    },
+    "248714": {
+      "manifests": {
+        "public": {
+          "gid": "7863171547658164928",
+          "size": "46820801",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "260192",
+        "timebuildupdated": "1399545182"
+      },
+      "local": {
+        "buildid": "114265",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1379056685"
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Hero's Hour",
+  "source": "spectre",
+  "changenumber": 39230492,
+  "updated": "2026-11-06T21:06:52.612Z",
+  "branches": {
+    "public": {
+      "buildid": "21161460",
+      "timeupdated": "1765534910",
+      "timebuildupdated": "1765534910"
+    },
+    "previous-update-v2.6.3": {
+      "buildid": "15507918",
+      "description": "This branch holds the previous update for use in case of compatibility issues",
+      "timeupdated": "1724776227",
+      "timebuildupdated": "1724776227"
+    },
+    "previous-update-v2.7.2": {
+      "buildid": "17811201",
+      "description": "This branch holds the previous update for use in case of compatibility issues",
+      "timeupdated": "1742571628",
+      "timebuildupdated": "1742571628"
+    },
+    "public_beta": {
+      "buildid": "19654797",
+      "description": "Early bug fixes",
+      "timeupdated": "1755610793",
+      "timebuildupdated": "1755610793"
+    }
+  },
+  "depot": {
+    "1656781": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7053866949315247971",
+          "size": "399030504",
+          "download": "311074096"
+        }
+      }
+    },
+    "1656783": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "1783690": {
+      "manifests": {
+        "public": {
+          "gid": "3512273515017943855",
+          "size": "1500076451",
+          "download": "1287498896"
+        }
+      },
+      "dlcappid": "1783690"
+    },
+    "branches": {
+      "public": {
+        "buildid": "21161460",
+        "timeupdated": "1765534910",
+        "timebuildupdated": "1765534910"
+      },
+      "previous-update-v2.6.3": {
+        "buildid": "15507918",
+        "description": "This branch holds the previous update for use in case of compatibility issues",
+        "timeupdated": "1724776227",
+        "timebuildupdated": "1724776227"
+      },
+      "previous-update-v2.7.2": {
+        "buildid": "17811201",
+        "description": "This branch holds the previous update for use in case of compatibility issues",
+        "timeupdated": "1742571628",
+        "timebuildupdated": "1742571628"
+      },
+      "public_beta": {
+        "buildid": "19654797",
+        "description": "Early bug fixes",
+        "timeupdated": "1755610793",
+        "timebuildupdated": "1755610793"
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "SpaceFoes",
+  "source": "spectre",
+  "changenumber": 34852473,
+  "updated": "2026-11-06T21:04:00.949Z",
+  "branches": {
+    "public": {
+      "buildid": "4926251",
+      "timeupdated": "1587491005",
+      "timebuildupdated": "1587490411"
+    },
+    "test": {
+      "buildid": "4926251",
+      "description": "testing version branch",
+      "timeupdated": "1587490600",
+      "timebuildupdated": "1587490411"
+    }
+  },
+  "depot": {
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1265261": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8576701480786618297",
+          "size": "296863474",
+          "download": "105060256"
+        }
+      }
+    },
+    "1265262": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1497928032795871361",
+          "size": "315927340",
+          "download": "109644368"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4926251",
+        "timeupdated": "1587491005",
+        "timebuildupdated": "1587490411"
+      },
+      "test": {
+        "buildid": "4926251",
+        "description": "testing version branch",
+        "timeupdated": "1587490600",
+        "timebuildupdated": "1587490411"
+      }
+    }
+  }
+}

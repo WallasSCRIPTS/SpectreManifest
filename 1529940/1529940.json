@@ -1,0 +1,64 @@
+{
+  "name": "The Cyclist: Tactics Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-05T14:57:15.233Z",
+  "branches": {
+    "public": {
+      "buildid": "14738506",
+      "timeupdated": "1718602538",
+      "timebuildupdated": "1718602220"
+    },
+    "open_beta": {
+      "buildid": "9818424",
+      "description": "Open Beta 1.2",
+      "timeupdated": "1667168585",
+      "timebuildupdated": "1666931325"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1529941": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1453681049189292884",
+          "size": "553921667",
+          "download": "528218288"
+        }
+      }
+    },
+    "1529942": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5254986358433247865",
+          "size": "451197371",
+          "download": "389065744"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14738506",
+        "timeupdated": "1718602538",
+        "timebuildupdated": "1718602220"
+      },
+      "open_beta": {
+        "buildid": "9818424",
+        "description": "Open Beta 1.2",
+        "timeupdated": "1667168585",
+        "timebuildupdated": "1666931325"
+      }
+    }
+  }
+}

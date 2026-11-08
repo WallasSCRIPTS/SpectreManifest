@@ -1,0 +1,309 @@
+{
+  "name": "Counter-Strike 2",
+  "source": "spectre",
+  "changenumber": 40689447,
+  "updated": "2026-11-07T20:55:40.833Z",
+  "branches": {
+    "public": {
+      "buildid": "26445667",
+      "timeupdated": "1793839972",
+      "timebuildupdated": "1793837422"
+    },
+    "csgo_legacy": {
+      "buildid": "12426195",
+      "description": "Legacy Version of CS:GO",
+      "timeupdated": "1697161396",
+      "timebuildupdated": "1697130801"
+    },
+    "demo_viewer": {
+      "buildid": "35423",
+      "description": "for pre 2013/1/9 demos",
+      "timebuildupdated": "1357785958"
+    },
+    "1.40.8.8": {
+      "buildid": "19251152",
+      "description": "Game version 1.40.8.8 (16-Jul-2025)",
+      "timeupdated": "1759176255",
+      "timebuildupdated": "1752701950"
+    },
+    "1.41.2.9": {
+      "buildid": "21529689",
+      "description": " Game version 1.41.2.9 (19-Jan-2026)",
+      "timeupdated": "1768867249",
+      "timebuildupdated": "1768586957"
+    },
+    "1.41.4.1": {
+      "buildid": "22627914",
+      "description": "Game version 1.41.4.1 (19-Apr-2026)",
+      "timeupdated": "1775168731",
+      "timebuildupdated": "1775168393"
+    },
+    "1.41.6.7": {
+      "buildid": "24074625",
+      "description": "Game version 1.41.6.7 (06-Jul-2026)",
+      "timeupdated": "1783369212",
+      "timebuildupdated": "1783348877"
+    },
+    "1.41.8.1": {
+      "buildid": "25218825",
+      "description": "Game version 1.41.8.1 (21-Sep-2026)",
+      "timeupdated": "1788994172",
+      "timebuildupdated": "1788993120"
+    },
+    "1.41.9.1": {
+      "buildid": "25947352",
+      "description": "1.41.9.1",
+      "timeupdated": "1792024017",
+      "timebuildupdated": "1792022839"
+    },
+    "1.41.9.2": {
+      "buildid": "26144732",
+      "description": "1.41.9.2",
+      "timeupdated": "1792709693",
+      "timebuildupdated": "1792704303"
+    },
+    "csgo": {
+      "buildid": "12426195",
+      "description": "Counter-Strike: Global Offensive",
+      "timeupdated": "1755201816",
+      "timebuildupdated": "1697130801"
+    }
+  },
+  "depot": {
+    "731": {
+      "manifests": {
+        "public": {
+          "gid": "4368490491959295332",
+          "size": "8",
+          "download": "64"
+        }
+      }
+    },
+    "732": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2657142932244703230",
+          "size": "8",
+          "download": "64"
+        }
+      }
+    },
+    "733": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8439362531565969601",
+          "size": "8",
+          "download": "64"
+        }
+      }
+    },
+    "734": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4866394379921971128",
+          "size": "8",
+          "download": "64"
+        }
+      }
+    },
+    "735": {
+      "manifests": {
+        "public": {
+          "gid": "7820664911512609889",
+          "size": "8",
+          "download": "64"
+        }
+      }
+    },
+    "736": {
+      "manifests": {
+        "public": {
+          "gid": "7801091497795923758",
+          "size": "8",
+          "download": "64"
+        }
+      }
+    },
+    "737": {
+      "manifests": {
+        "public": {
+          "gid": "8759233938655908177",
+          "size": "8",
+          "download": "64"
+        }
+      }
+    },
+    "738": {
+      "manifests": {
+        "public": {
+          "gid": "6411256041630441626",
+          "size": "8",
+          "download": "64"
+        }
+      }
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2347770": {
+      "manifests": {
+        "public": {
+          "gid": "6679288287140932208",
+          "size": "65068271825",
+          "download": "55570003984"
+        }
+      }
+    },
+    "2347771": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3019944380727688040",
+          "size": "7753523710",
+          "download": "5011490592"
+        }
+      }
+    },
+    "2347772": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4427303554736365309",
+          "size": "9276",
+          "download": "1696"
+        }
+      }
+    },
+    "2347773": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8513165868182791792",
+          "size": "7224511782",
+          "download": "4605734992"
+        }
+      }
+    },
+    "2347774": {
+      "manifests": {
+        "public": {
+          "gid": "6845003340509320862",
+          "size": "1142065743",
+          "download": "950016288"
+        }
+      }
+    },
+    "2347775": {},
+    "2347776": {},
+    "2347777": {
+      "manifests": {
+        "public": {
+          "gid": "7382918720673911565",
+          "size": "89120880",
+          "download": "27324784"
+        }
+      }
+    },
+    "2347778": {},
+    "2347779": {
+      "manifests": {
+        "public": {
+          "gid": "5209724922577403770",
+          "size": "2108141791",
+          "download": "576286224"
+        }
+      },
+      "dlcappid": "2279721"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26445667",
+        "timeupdated": "1793839972",
+        "timebuildupdated": "1793837422"
+      },
+      "csgo_legacy": {
+        "buildid": "12426195",
+        "description": "Legacy Version of CS:GO",
+        "timeupdated": "1697161396",
+        "timebuildupdated": "1697130801"
+      },
+      "demo_viewer": {
+        "buildid": "35423",
+        "description": "for pre 2013/1/9 demos",
+        "timebuildupdated": "1357785958"
+      },
+      "1.40.8.8": {
+        "buildid": "19251152",
+        "description": "Game version 1.40.8.8 (16-Jul-2025)",
+        "timeupdated": "1759176255",
+        "timebuildupdated": "1752701950"
+      },
+      "1.41.2.9": {
+        "buildid": "21529689",
+        "description": " Game version 1.41.2.9 (19-Jan-2026)",
+        "timeupdated": "1768867249",
+        "timebuildupdated": "1768586957"
+      },
+      "1.41.4.1": {
+        "buildid": "22627914",
+        "description": "Game version 1.41.4.1 (19-Apr-2026)",
+        "timeupdated": "1775168731",
+        "timebuildupdated": "1775168393"
+      },
+      "1.41.6.7": {
+        "buildid": "24074625",
+        "description": "Game version 1.41.6.7 (06-Jul-2026)",
+        "timeupdated": "1783369212",
+        "timebuildupdated": "1783348877"
+      },
+      "1.41.8.1": {
+        "buildid": "25218825",
+        "description": "Game version 1.41.8.1 (21-Sep-2026)",
+        "timeupdated": "1788994172",
+        "timebuildupdated": "1788993120"
+      },
+      "1.41.9.1": {
+        "buildid": "25947352",
+        "description": "1.41.9.1",
+        "timeupdated": "1792024017",
+        "timebuildupdated": "1792022839"
+      },
+      "1.41.9.2": {
+        "buildid": "26144732",
+        "description": "1.41.9.2",
+        "timeupdated": "1792709693",
+        "timebuildupdated": "1792704303"
+      },
+      "csgo": {
+        "buildid": "12426195",
+        "description": "Counter-Strike: Global Offensive",
+        "timeupdated": "1755201816",
+        "timebuildupdated": "1697130801"
+      }
+    }
+  }
+}

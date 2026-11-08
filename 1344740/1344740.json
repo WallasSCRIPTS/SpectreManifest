@@ -1,0 +1,70 @@
+{
+  "name": "FOOTSIES",
+  "source": "spectre",
+  "changenumber": 34855450,
+  "updated": "2026-11-06T21:04:34.156Z",
+  "branches": {
+    "public": {
+      "buildid": "21080193",
+      "timeupdated": "1766110365",
+      "timebuildupdated": "1765005484"
+    },
+    "publictest": {
+      "buildid": "21080193",
+      "description": "Early Update Test",
+      "timeupdated": "1765005484",
+      "timebuildupdated": "1765005484"
+    }
+  },
+  "depot": {
+    "1344741": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8885488336867460295",
+          "size": "154218365",
+          "download": "51199360"
+        }
+      }
+    },
+    "1344742": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8260416908616865069",
+          "size": "152499079",
+          "download": "44639184"
+        }
+      }
+    },
+    "1344743": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "967413800321413765",
+          "size": "151127282",
+          "download": "47076272"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21080193",
+        "timeupdated": "1766110365",
+        "timebuildupdated": "1765005484"
+      },
+      "publictest": {
+        "buildid": "21080193",
+        "description": "Early Update Test",
+        "timeupdated": "1765005484",
+        "timebuildupdated": "1765005484"
+      }
+    }
+  }
+}

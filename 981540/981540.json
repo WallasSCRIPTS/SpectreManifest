@@ -1,0 +1,58 @@
+{
+  "name": "Stellar Sphere",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:02:12.468Z",
+  "branches": {
+    "public": {
+      "buildid": "3858305",
+      "timeupdated": "1558804817",
+      "timebuildupdated": "1558804674"
+    },
+    "mactest": {
+      "buildid": "3858305",
+      "description": "Mac version",
+      "timeupdated": "1558854541",
+      "timebuildupdated": "1558804674"
+    }
+  },
+  "depot": {
+    "981541": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "44829187205165041",
+          "size": "1289574824",
+          "download": "1079096048"
+        }
+      }
+    },
+    "981542": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3598904270086219730",
+          "size": "1277721229",
+          "download": "1082801216"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3858305",
+        "timeupdated": "1558804817",
+        "timebuildupdated": "1558804674"
+      },
+      "mactest": {
+        "buildid": "3858305",
+        "description": "Mac version",
+        "timeupdated": "1558854541",
+        "timebuildupdated": "1558804674"
+      }
+    }
+  }
+}

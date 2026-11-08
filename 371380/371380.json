@@ -1,0 +1,70 @@
+{
+  "name": "Dr. Spacezoo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:57:15.580Z",
+  "branches": {
+    "public": {
+      "buildid": "2138591",
+      "timeupdated": "1506049064",
+      "timebuildupdated": "1506046638"
+    },
+    "beta": {
+      "buildid": "2138591",
+      "description": "Beta Testing",
+      "timeupdated": "1506046840",
+      "timebuildupdated": "1506046638"
+    }
+  },
+  "depot": {
+    "371381": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2838134833621242042",
+          "size": "86903155",
+          "download": "38195072"
+        }
+      }
+    },
+    "371382": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4549069938117126657",
+          "size": "102441792",
+          "download": "41060960"
+        }
+      }
+    },
+    "371383": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8221013773446636456",
+          "size": "136036847",
+          "download": "53095104"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2138591",
+        "timeupdated": "1506049064",
+        "timebuildupdated": "1506046638"
+      },
+      "beta": {
+        "buildid": "2138591",
+        "description": "Beta Testing",
+        "timeupdated": "1506046840",
+        "timebuildupdated": "1506046638"
+      }
+    }
+  }
+}

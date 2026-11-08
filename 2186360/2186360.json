@@ -1,0 +1,70 @@
+{
+  "name": "IDUN - Frontline Survival",
+  "source": "spectre",
+  "changenumber": 39436828,
+  "updated": "2026-11-06T23:19:28.809Z",
+  "branches": {
+    "public": {
+      "buildid": "18825262",
+      "timeupdated": "1749797070",
+      "timebuildupdated": "1749646862"
+    },
+    "beta": {
+      "buildid": "18825262",
+      "description": "Public beta branch",
+      "timeupdated": "1749646862",
+      "timebuildupdated": "1749646862"
+    }
+  },
+  "depot": {
+    "2186361": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "92312980910691955",
+          "size": "1213508748",
+          "download": "618878544"
+        }
+      }
+    },
+    "2186362": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4953184975136382634",
+          "size": "1243586477",
+          "download": "628746480"
+        }
+      }
+    },
+    "2186363": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9155048642202789097",
+          "size": "1273787403",
+          "download": "628250048"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18825262",
+        "timeupdated": "1749797070",
+        "timebuildupdated": "1749646862"
+      },
+      "beta": {
+        "buildid": "18825262",
+        "description": "Public beta branch",
+        "timeupdated": "1749646862",
+        "timebuildupdated": "1749646862"
+      }
+    }
+  }
+}

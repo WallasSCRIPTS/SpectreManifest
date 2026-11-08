@@ -1,0 +1,70 @@
+{
+  "name": "Snail Trek - Chapter 1: Intershellar",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T21:00:24.104Z",
+  "branches": {
+    "public": {
+      "buildid": "3555301",
+      "timeupdated": "1550009813",
+      "timebuildupdated": "1550007664"
+    },
+    "beta": {
+      "buildid": "3555301",
+      "description": "beta test",
+      "timeupdated": "1550007664",
+      "timebuildupdated": "1550007664"
+    }
+  },
+  "depot": {
+    "751281": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2654853643016966548",
+          "size": "60848580",
+          "download": "30636880"
+        }
+      }
+    },
+    "751282": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5097801752802466508",
+          "size": "105036937",
+          "download": "43697504"
+        }
+      }
+    },
+    "751283": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8617638881472985883",
+          "size": "73965764",
+          "download": "35264896"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3555301",
+        "timeupdated": "1550009813",
+        "timebuildupdated": "1550007664"
+      },
+      "beta": {
+        "buildid": "3555301",
+        "description": "beta test",
+        "timeupdated": "1550007664",
+        "timebuildupdated": "1550007664"
+      }
+    }
+  }
+}

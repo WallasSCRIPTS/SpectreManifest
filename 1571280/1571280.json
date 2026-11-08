@@ -1,0 +1,66 @@
+{
+  "name": "Street Legal 1: REVision",
+  "source": "spectre",
+  "changenumber": 39484864,
+  "updated": "2026-11-06T21:06:14.689Z",
+  "branches": {
+    "public": {
+      "buildid": "23893659",
+      "timeupdated": "1782305536",
+      "timebuildupdated": "1782305466"
+    },
+    "local": {
+      "buildid": "6338694",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1614981198",
+      "timebuildupdated": "1614981197"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1571281": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4286405143718786490",
+          "size": "522420920",
+          "download": "294185104"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23893659",
+        "timeupdated": "1782305536",
+        "timebuildupdated": "1782305466"
+      },
+      "local": {
+        "buildid": "6338694",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1614981198",
+        "timebuildupdated": "1614981197"
+      }
+    }
+  }
+}

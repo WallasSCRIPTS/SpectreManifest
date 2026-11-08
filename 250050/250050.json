@@ -1,0 +1,70 @@
+{
+  "name": "Life Goes On",
+  "source": "spectre",
+  "changenumber": 37432709,
+  "updated": "2026-11-07T20:56:12.035Z",
+  "branches": {
+    "public": {
+      "buildid": "2411426",
+      "timeupdated": "1515046664",
+      "timebuildupdated": "1515043035"
+    },
+    "local": {
+      "buildid": "199663",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1393401207"
+    }
+  },
+  "depot": {
+    "250051": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4611905621912990897",
+          "size": "1041006032",
+          "download": "298236592"
+        }
+      }
+    },
+    "250052": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1803971077985757908",
+          "size": "1083922018",
+          "download": "307772096"
+        }
+      }
+    },
+    "250053": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3277608353369580985",
+          "size": "1109495737",
+          "download": "309436048"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2411426",
+        "timeupdated": "1515046664",
+        "timebuildupdated": "1515043035"
+      },
+      "local": {
+        "buildid": "199663",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1393401207"
+      }
+    }
+  }
+}

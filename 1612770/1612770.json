@@ -1,0 +1,124 @@
+{
+  "name": "Sweet Transit",
+  "source": "spectre",
+  "changenumber": 40565695,
+  "updated": "2026-11-06T21:06:36.245Z",
+  "branches": {
+    "public": {
+      "buildid": "15431212",
+      "timeupdated": "1725972973",
+      "timebuildupdated": "1724141531"
+    },
+    "v.0.2": {
+      "buildid": "9618185",
+      "description": "Sweet Transit v.0.2",
+      "timeupdated": "1666772350",
+      "timebuildupdated": "1664459151"
+    },
+    "v.0.3": {
+      "buildid": "10036444",
+      "description": "Sweet Transit v.0.3",
+      "timeupdated": "1675846785",
+      "timebuildupdated": "1669707127"
+    },
+    "v.0.4": {
+      "buildid": "11061974",
+      "description": "Sweet Transit v.0.4",
+      "timeupdated": "1689018324",
+      "timebuildupdated": "1682098420"
+    },
+    "v.0.5": {
+      "buildid": "11794952",
+      "description": "Sweet Transit v.0.5",
+      "timeupdated": "1700635649",
+      "timebuildupdated": "1690396802"
+    },
+    "experimental": {
+      "buildid": "15431211",
+      "description": "Experimental branch.",
+      "timeupdated": "1724141671",
+      "timebuildupdated": "1724141531"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1612771": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1198254544507021577",
+          "size": "3615380294",
+          "download": "2287458960"
+        }
+      }
+    },
+    "1612772": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "3104710": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7772445208761719845",
+          "size": "687715749",
+          "download": "487518992"
+        }
+      },
+      "dlcappid": "3104710"
+    },
+    "branches": {
+      "public": {
+        "buildid": "15431212",
+        "timeupdated": "1725972973",
+        "timebuildupdated": "1724141531"
+      },
+      "v.0.2": {
+        "buildid": "9618185",
+        "description": "Sweet Transit v.0.2",
+        "timeupdated": "1666772350",
+        "timebuildupdated": "1664459151"
+      },
+      "v.0.3": {
+        "buildid": "10036444",
+        "description": "Sweet Transit v.0.3",
+        "timeupdated": "1675846785",
+        "timebuildupdated": "1669707127"
+      },
+      "v.0.4": {
+        "buildid": "11061974",
+        "description": "Sweet Transit v.0.4",
+        "timeupdated": "1689018324",
+        "timebuildupdated": "1682098420"
+      },
+      "v.0.5": {
+        "buildid": "11794952",
+        "description": "Sweet Transit v.0.5",
+        "timeupdated": "1700635649",
+        "timebuildupdated": "1690396802"
+      },
+      "experimental": {
+        "buildid": "15431211",
+        "description": "Experimental branch.",
+        "timeupdated": "1724141671",
+        "timebuildupdated": "1724141531"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "D'LIRIUM",
+  "source": "spectre",
+  "changenumber": 39636470,
+  "updated": "2026-11-07T20:59:40.283Z",
+  "branches": {
+    "public": {
+      "buildid": "25736489",
+      "timeupdated": "1791234608",
+      "timebuildupdated": "1791232197"
+    },
+    "dev_vm": {
+      "buildid": "25731306",
+      "description": "Unstable builds that still in development (verbose error output).",
+      "timeupdated": "1791215960",
+      "timebuildupdated": "1791215960"
+    },
+    "vm_stable": {
+      "buildid": "25736470",
+      "description": "More demanding on hardware! Same as Default but with verbose error output.",
+      "timeupdated": "1791234533",
+      "timebuildupdated": "1791232124"
+    }
+  },
+  "depot": {
+    "670161": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4062339512347232812",
+          "size": "536045642",
+          "download": "241225728"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25736489",
+        "timeupdated": "1791234608",
+        "timebuildupdated": "1791232197"
+      },
+      "dev_vm": {
+        "buildid": "25731306",
+        "description": "Unstable builds that still in development (verbose error output).",
+        "timeupdated": "1791215960",
+        "timebuildupdated": "1791215960"
+      },
+      "vm_stable": {
+        "buildid": "25736470",
+        "description": "More demanding on hardware! Same as Default but with verbose error output.",
+        "timeupdated": "1791234533",
+        "timebuildupdated": "1791232124"
+      }
+    }
+  }
+}

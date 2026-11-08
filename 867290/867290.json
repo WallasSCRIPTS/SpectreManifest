@@ -1,0 +1,146 @@
+{
+  "name": "Crossroads Inn Anniversary Edition",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:17.275Z",
+  "branches": {
+    "public": {
+      "buildid": "11134918",
+      "timeupdated": "1683805985",
+      "timebuildupdated": "1683007158"
+    },
+    "4.0.7": {
+      "buildid": "8348202",
+      "description": "Build 4.0.7",
+      "timeupdated": "1648719659",
+      "timebuildupdated": "1646925936"
+    },
+    "old_windows": {
+      "buildid": "6177423",
+      "description": "win 7 and 8 branch",
+      "timeupdated": "1617266352",
+      "timebuildupdated": "1612288370"
+    },
+    "open_beta": {
+      "buildid": "11072367",
+      "description": "Open Beta branch\t",
+      "timeupdated": "1682432772",
+      "timebuildupdated": "1682288923"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "867291": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3161187241140154236",
+          "size": "14475564909",
+          "download": "7231982544"
+        }
+      }
+    },
+    "867292": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1665093136548035540",
+          "size": "90732031",
+          "download": "90460784"
+        }
+      }
+    },
+    "867293": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3034861251425879051",
+          "size": "14475564909",
+          "download": "7234614320"
+        }
+      }
+    },
+    "867294": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1701793088738827517",
+          "size": "9862677948",
+          "download": "4986061312"
+        }
+      }
+    },
+    "867295": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9180769123478672413",
+          "size": "10525847033",
+          "download": "5585327680"
+        }
+      }
+    },
+    "1150370": {
+      "manifests": {
+        "public": {
+          "gid": "496722458291125592",
+          "size": "2578887327",
+          "download": "2578643312"
+        }
+      },
+      "dlcappid": "1150370"
+    },
+    "1150380": {
+      "dlcappid": "1150380"
+    },
+    "1154630": {
+      "dlcappid": "1154630"
+    },
+    "branches": {
+      "public": {
+        "buildid": "11134918",
+        "timeupdated": "1683805985",
+        "timebuildupdated": "1683007158"
+      },
+      "4.0.7": {
+        "buildid": "8348202",
+        "description": "Build 4.0.7",
+        "timeupdated": "1648719659",
+        "timebuildupdated": "1646925936"
+      },
+      "old_windows": {
+        "buildid": "6177423",
+        "description": "win 7 and 8 branch",
+        "timeupdated": "1617266352",
+        "timebuildupdated": "1612288370"
+      },
+      "open_beta": {
+        "buildid": "11072367",
+        "description": "Open Beta branch\t",
+        "timeupdated": "1682432772",
+        "timebuildupdated": "1682288923"
+      }
+    }
+  }
+}

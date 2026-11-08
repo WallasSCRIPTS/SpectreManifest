@@ -1,0 +1,72 @@
+{
+  "name": "Sentinel",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T20:56:27.052Z",
+  "branches": {
+    "public": {
+      "buildid": "280662",
+      "timebuildupdated": "1401183359"
+    },
+    "test": {
+      "buildid": "280662",
+      "description": "Build Test",
+      "timebuildupdated": "1401183359"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "293201": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4717962966104519389",
+          "size": "757946017",
+          "download": "0"
+        }
+      }
+    },
+    "293202": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6278682014152364329",
+          "size": "777234918",
+          "download": "0"
+        }
+      }
+    },
+    "293203": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6378471193816700533",
+          "size": "789197088",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "280662",
+        "timebuildupdated": "1401183359"
+      },
+      "test": {
+        "buildid": "280662",
+        "description": "Build Test",
+        "timebuildupdated": "1401183359"
+      }
+    }
+  }
+}

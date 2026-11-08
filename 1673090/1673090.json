@@ -1,0 +1,58 @@
+{
+  "name": "Vagabond",
+  "source": "spectre",
+  "changenumber": 40610568,
+  "updated": "2026-11-06T21:06:59.409Z",
+  "branches": {
+    "public": {
+      "buildid": "25009685",
+      "timeupdated": "1788007870",
+      "timebuildupdated": "1788007839"
+    },
+    "beta": {
+      "buildid": "25009685",
+      "description": "Beta branch",
+      "timeupdated": "1788007870",
+      "timebuildupdated": "1788007839"
+    }
+  },
+  "depot": {
+    "1673091": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7393522000351430820",
+          "size": "91422541",
+          "download": "58672896"
+        }
+      }
+    },
+    "1673092": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5679947677227941187",
+          "size": "91010118",
+          "download": "56228528"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25009685",
+        "timeupdated": "1788007870",
+        "timebuildupdated": "1788007839"
+      },
+      "beta": {
+        "buildid": "25009685",
+        "description": "Beta branch",
+        "timeupdated": "1788007870",
+        "timebuildupdated": "1788007839"
+      }
+    }
+  }
+}

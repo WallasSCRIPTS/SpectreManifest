@@ -1,0 +1,70 @@
+{
+  "name": "Cyrano",
+  "source": "spectre",
+  "changenumber": 40473450,
+  "updated": "2026-11-06T23:09:42.610Z",
+  "branches": {
+    "public": {
+      "buildid": "20338852",
+      "timeupdated": "1760109650",
+      "timebuildupdated": "1760107034"
+    },
+    "development": {
+      "buildid": "17511097",
+      "description": "Development",
+      "timeupdated": "1740555324",
+      "timebuildupdated": "1740555193"
+    }
+  },
+  "depot": {
+    "1750471": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8694006491864477431",
+          "size": "508347201",
+          "download": "174492848"
+        }
+      }
+    },
+    "1750472": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7319327884866846477",
+          "size": "523699227",
+          "download": "182376320"
+        }
+      }
+    },
+    "1750473": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3595198184080814370",
+          "size": "551292976",
+          "download": "174203888"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20338852",
+        "timeupdated": "1760109650",
+        "timebuildupdated": "1760107034"
+      },
+      "development": {
+        "buildid": "17511097",
+        "description": "Development",
+        "timeupdated": "1740555324",
+        "timebuildupdated": "1740555193"
+      }
+    }
+  }
+}

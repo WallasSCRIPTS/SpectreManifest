@@ -1,0 +1,82 @@
+{
+  "name": "Wally and the FANTASTIC PREDATORS",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:02.054Z",
+  "branches": {
+    "public": {
+      "buildid": "10074807",
+      "timeupdated": "1670160289",
+      "timebuildupdated": "1670159783"
+    },
+    "legacy": {
+      "buildid": "8992813",
+      "description": "32-Bit Windows build",
+      "timeupdated": "1661971335",
+      "timebuildupdated": "1655979103"
+    },
+    "secret": {
+      "buildid": "10074807",
+      "description": "Experimental Branch!",
+      "timeupdated": "1670159783",
+      "timebuildupdated": "1670159783"
+    }
+  },
+  "depot": {
+    "1077451": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3445137232701666764",
+          "size": "839629546",
+          "download": "598626944"
+        }
+      }
+    },
+    "1077452": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5618795246175053993",
+          "size": "824234218",
+          "download": "599830688"
+        }
+      }
+    },
+    "1077453": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2164238996477949480",
+          "size": "870910295",
+          "download": "610286784"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10074807",
+        "timeupdated": "1670160289",
+        "timebuildupdated": "1670159783"
+      },
+      "legacy": {
+        "buildid": "8992813",
+        "description": "32-Bit Windows build",
+        "timeupdated": "1661971335",
+        "timebuildupdated": "1655979103"
+      },
+      "secret": {
+        "buildid": "10074807",
+        "description": "Experimental Branch!",
+        "timeupdated": "1670159783",
+        "timebuildupdated": "1670159783"
+      }
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "name": "Pax Nova",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:49.964Z",
+  "branches": {
+    "public": {
+      "buildid": "8912486",
+      "timeupdated": "1674133621",
+      "timebuildupdated": "1654871757"
+    },
+    "fix-text": {
+      "buildid": "4314081",
+      "description": "Public branch for releasing fixes to selected groups",
+      "timeupdated": "1571812876",
+      "timebuildupdated": "1571801452"
+    },
+    "public-beta": {
+      "buildid": "8912486",
+      "description": "Public beta branch for releasing work in progress builds",
+      "timeupdated": "1674133632",
+      "timebuildupdated": "1654871757"
+    },
+    "save-compatability-build": {
+      "buildid": "4011661",
+      "description": "This build is compatible with older saves, 0.6.05 and older.",
+      "timeupdated": "1565947318",
+      "timebuildupdated": "1563177179"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "804851": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7300243963906863574",
+          "size": "5317011734",
+          "download": "1800415968"
+        }
+      }
+    },
+    "1688990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5081208721541629734",
+          "size": "1472",
+          "download": "1072"
+        }
+      },
+      "dlcappid": "1688990"
+    },
+    "1796420": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3766412807762026699",
+          "size": "3072",
+          "download": "2112"
+        }
+      },
+      "dlcappid": "1796420"
+    },
+    "branches": {
+      "public": {
+        "buildid": "8912486",
+        "timeupdated": "1674133621",
+        "timebuildupdated": "1654871757"
+      },
+      "fix-text": {
+        "buildid": "4314081",
+        "description": "Public branch for releasing fixes to selected groups",
+        "timeupdated": "1571812876",
+        "timebuildupdated": "1571801452"
+      },
+      "public-beta": {
+        "buildid": "8912486",
+        "description": "Public beta branch for releasing work in progress builds",
+        "timeupdated": "1674133632",
+        "timebuildupdated": "1654871757"
+      },
+      "save-compatability-build": {
+        "buildid": "4011661",
+        "description": "This build is compatible with older saves, 0.6.05 and older.",
+        "timeupdated": "1565947318",
+        "timebuildupdated": "1563177179"
+      }
+    }
+  }
+}

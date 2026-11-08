@@ -1,0 +1,70 @@
+{
+  "name": "Marble Skies",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:19.506Z",
+  "branches": {
+    "public": {
+      "buildid": "3950463",
+      "timeupdated": "1561481965",
+      "timebuildupdated": "1561417167"
+    },
+    "legacy": {
+      "buildid": "9793831",
+      "description": "Old version",
+      "timeupdated": "1666693738",
+      "timebuildupdated": "1666693738"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "742461": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6226956602714008067",
+          "size": "2963688907",
+          "download": "2742510896"
+        }
+      }
+    },
+    "742463": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "813568822221813444",
+          "size": "6888810832",
+          "download": "2623045264"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3950463",
+        "timeupdated": "1561481965",
+        "timebuildupdated": "1561417167"
+      },
+      "legacy": {
+        "buildid": "9793831",
+        "description": "Old version",
+        "timeupdated": "1666693738",
+        "timebuildupdated": "1666693738"
+      }
+    }
+  }
+}

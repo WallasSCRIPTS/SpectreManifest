@@ -1,0 +1,72 @@
+{
+  "name": "FastRogue",
+  "source": "spectre",
+  "changenumber": 34885420,
+  "updated": "2026-11-06T23:17:34.099Z",
+  "branches": {
+    "public": {
+      "buildid": "11027634",
+      "timeupdated": "1682069502",
+      "timebuildupdated": "1681807142"
+    },
+    "local": {
+      "buildid": "9884578",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1667826434",
+      "timebuildupdated": "1667826434"
+    }
+  },
+  "depot": {
+    "2118551": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1532598371609114892",
+          "size": "108082497",
+          "download": "37125216"
+        }
+      }
+    },
+    "2118552": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2357080015512799185",
+          "size": "273095375",
+          "download": "68494608"
+        }
+      }
+    },
+    "2118553": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8528600159096370227",
+          "size": "125632764",
+          "download": "37818912"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11027634",
+        "timeupdated": "1682069502",
+        "timebuildupdated": "1681807142"
+      },
+      "local": {
+        "buildid": "9884578",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1667826434",
+        "timebuildupdated": "1667826434"
+      }
+    }
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "name": "The Doors of Trithius",
+  "source": "spectre",
+  "changenumber": 40525065,
+  "updated": "2026-11-06T21:05:52.019Z",
+  "branches": {
+    "public": {
+      "buildid": "26061710",
+      "timeupdated": "1792485138",
+      "timebuildupdated": "1792443485"
+    },
+    "beta": {
+      "buildid": "26061710",
+      "description": "latest beta build",
+      "timeupdated": "1792443485",
+      "timebuildupdated": "1792443485"
+    },
+    "v0.6.3": {
+      "buildid": "25513945",
+      "description": "Death & Taxes",
+      "timeupdated": "1790280490",
+      "timebuildupdated": "1790280133"
+    },
+    "v0.6.2": {
+      "buildid": "25401522",
+      "description": "The Weapons Update",
+      "timeupdated": "1789774395",
+      "timebuildupdated": "1789773236"
+    },
+    "v0.6.0": {
+      "buildid": "22564810",
+      "description": "Staffs",
+      "timeupdated": "1774863514",
+      "timebuildupdated": "1774863225"
+    },
+    "v0.5.20": {
+      "buildid": "21163379",
+      "description": "Bludgeons & Maces",
+      "timeupdated": "1774048721",
+      "timebuildupdated": "1765544211"
+    },
+    "v0.5.19": {
+      "buildid": "20466803",
+      "description": "Cave of Dreams",
+      "timeupdated": "1764748620",
+      "timebuildupdated": "1760977751"
+    },
+    "v0.5.18": {
+      "buildid": "19633918",
+      "description": "Language Support",
+      "timeupdated": "1755487982",
+      "timebuildupdated": "1755487972"
+    },
+    "v0.5.17": {
+      "buildid": "19504347",
+      "description": "Pyromancy & Fulmination",
+      "timeupdated": "1755383997",
+      "timebuildupdated": "1754514330"
+    },
+    "v0.5.16": {
+      "buildid": "17957510",
+      "description": "Character Customization",
+      "timeupdated": "1751327599",
+      "timebuildupdated": "1743610611"
+    },
+    "v0.5.15": {
+      "buildid": "17612921",
+      "description": "The Hunter's Eye",
+      "timeupdated": "1743418249",
+      "timebuildupdated": "1741227387"
+    },
+    "v0.5.14": {
+      "buildid": "17361088",
+      "description": "Axes & Daggers",
+      "timeupdated": "1741069094",
+      "timebuildupdated": "1739502783"
+    },
+    "v0.5.13": {
+      "buildid": "17246106",
+      "description": "Blades & Swords",
+      "timeupdated": "1738817023",
+      "timebuildupdated": "1738723635"
+    },
+    "v0.5.12": {
+      "buildid": "16696154",
+      "description": "Blooming Dread",
+      "timeupdated": "1737146799",
+      "timebuildupdated": "1733846354"
+    },
+    "v0.5.11": {
+      "buildid": "16123846",
+      "description": "Athletics",
+      "timeupdated": "1732739863",
+      "timebuildupdated": "1729522378"
+    },
+    "v0.5.10": {
+      "buildid": "15862478",
+      "description": "Desert Crypts",
+      "timeupdated": "1729517501",
+      "timebuildupdated": "1727549900"
+    },
+    "v0.5.8": {
+      "buildid": "15106884",
+      "description": "Skill Trees",
+      "timeupdated": "1727553448",
+      "timebuildupdated": "1721605819"
+    },
+    "v0.5.7": {
+      "buildid": "14419184",
+      "description": " Duranki Temple",
+      "timeupdated": "1719297027",
+      "timebuildupdated": "1716118418"
+    },
+    "v0.5.6": {
+      "buildid": "14171137",
+      "description": "Towns: Part 1",
+      "timeupdated": "1715604613",
+      "timebuildupdated": "1714040265"
+    },
+    "v0.5.5": {
+      "buildid": "14078574",
+      "description": "Keyboard Controls",
+      "timeupdated": "1715604677",
+      "timebuildupdated": "1713331355"
+    },
+    "v0.5.4": {
+      "buildid": "13623442",
+      "description": "Faction Warfare",
+      "timeupdated": "1713314579",
+      "timebuildupdated": "1709416184"
+    },
+    "v0.5.3": {
+      "buildid": "12562632",
+      "description": "XP Rebalance",
+      "timeupdated": "1707474096",
+      "timebuildupdated": "1698523105"
+    },
+    "v0.5.2": {
+      "buildid": "12448163",
+      "description": "Performance & Pathfinding",
+      "timeupdated": "1698262046",
+      "timebuildupdated": "1697425389"
+    },
+    "v0.5.1": {
+      "buildid": "12350212",
+      "description": "Desert Biome",
+      "timeupdated": "1696450488",
+      "timebuildupdated": "1696392587"
+    },
+    "deploy-test": {
+      "buildid": "25365363",
+      "description": "For testing deployments",
+      "timeupdated": "1789637713",
+      "timebuildupdated": "1789637713"
+    }
+  },
+  "depot": {
+    "1519491": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5046279292864373329",
+          "size": "489784447",
+          "download": "374692320"
+        }
+      }
+    },
+    "1519492": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "540921684643771512",
+          "size": "523668302",
+          "download": "382172944"
+        }
+      }
+    },
+    "1519493": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4908782179820036808",
+          "size": "499415732",
+          "download": "376013872"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26061710",
+        "timeupdated": "1792485138",
+        "timebuildupdated": "1792443485"
+      },
+      "beta": {
+        "buildid": "26061710",
+        "description": "latest beta build",
+        "timeupdated": "1792443485",
+        "timebuildupdated": "1792443485"
+      },
+      "v0.6.3": {
+        "buildid": "25513945",
+        "description": "Death & Taxes",
+        "timeupdated": "1790280490",
+        "timebuildupdated": "1790280133"
+      },
+      "v0.6.2": {
+        "buildid": "25401522",
+        "description": "The Weapons Update",
+        "timeupdated": "1789774395",
+        "timebuildupdated": "1789773236"
+      },
+      "v0.6.0": {
+        "buildid": "22564810",
+        "description": "Staffs",
+        "timeupdated": "1774863514",
+        "timebuildupdated": "1774863225"
+      },
+      "v0.5.20": {
+        "buildid": "21163379",
+        "description": "Bludgeons & Maces",
+        "timeupdated": "1774048721",
+        "timebuildupdated": "1765544211"
+      },
+      "v0.5.19": {
+        "buildid": "20466803",
+        "description": "Cave of Dreams",
+        "timeupdated": "1764748620",
+        "timebuildupdated": "1760977751"
+      },
+      "v0.5.18": {
+        "buildid": "19633918",
+        "description": "Language Support",
+        "timeupdated": "1755487982",
+        "timebuildupdated": "1755487972"
+      },
+      "v0.5.17": {
+        "buildid": "19504347",
+        "description": "Pyromancy & Fulmination",
+        "timeupdated": "1755383997",
+        "timebuildupdated": "1754514330"
+      },
+      "v0.5.16": {
+        "buildid": "17957510",
+        "description": "Character Customization",
+        "timeupdated": "1751327599",
+        "timebuildupdated": "1743610611"
+      },
+      "v0.5.15": {
+        "buildid": "17612921",
+        "description": "The Hunter's Eye",
+        "timeupdated": "1743418249",
+        "timebuildupdated": "1741227387"
+      },
+      "v0.5.14": {
+        "buildid": "17361088",
+        "description": "Axes & Daggers",
+        "timeupdated": "1741069094",
+        "timebuildupdated": "1739502783"
+      },
+      "v0.5.13": {
+        "buildid": "17246106",
+        "description": "Blades & Swords",
+        "timeupdated": "1738817023",
+        "timebuildupdated": "1738723635"
+      },
+      "v0.5.12": {
+        "buildid": "16696154",
+        "description": "Blooming Dread",
+        "timeupdated": "1737146799",
+        "timebuildupdated": "1733846354"
+      },
+      "v0.5.11": {
+        "buildid": "16123846",
+        "description": "Athletics",
+        "timeupdated": "1732739863",
+        "timebuildupdated": "1729522378"
+      },
+      "v0.5.10": {
+        "buildid": "15862478",
+        "description": "Desert Crypts",
+        "timeupdated": "1729517501",
+        "timebuildupdated": "1727549900"
+      },
+      "v0.5.8": {
+        "buildid": "15106884",
+        "description": "Skill Trees",
+        "timeupdated": "1727553448",
+        "timebuildupdated": "1721605819"
+      },
+      "v0.5.7": {
+        "buildid": "14419184",
+        "description": " Duranki Temple",
+        "timeupdated": "1719297027",
+        "timebuildupdated": "1716118418"
+      },
+      "v0.5.6": {
+        "buildid": "14171137",
+        "description": "Towns: Part 1",
+        "timeupdated": "1715604613",
+        "timebuildupdated": "1714040265"
+      },
+      "v0.5.5": {
+        "buildid": "14078574",
+        "description": "Keyboard Controls",
+        "timeupdated": "1715604677",
+        "timebuildupdated": "1713331355"
+      },
+      "v0.5.4": {
+        "buildid": "13623442",
+        "description": "Faction Warfare",
+        "timeupdated": "1713314579",
+        "timebuildupdated": "1709416184"
+      },
+      "v0.5.3": {
+        "buildid": "12562632",
+        "description": "XP Rebalance",
+        "timeupdated": "1707474096",
+        "timebuildupdated": "1698523105"
+      },
+      "v0.5.2": {
+        "buildid": "12448163",
+        "description": "Performance & Pathfinding",
+        "timeupdated": "1698262046",
+        "timebuildupdated": "1697425389"
+      },
+      "v0.5.1": {
+        "buildid": "12350212",
+        "description": "Desert Biome",
+        "timeupdated": "1696450488",
+        "timebuildupdated": "1696392587"
+      },
+      "deploy-test": {
+        "buildid": "25365363",
+        "description": "For testing deployments",
+        "timeupdated": "1789637713",
+        "timebuildupdated": "1789637713"
+      }
+    }
+  }
+}

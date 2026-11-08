@@ -1,0 +1,58 @@
+{
+  "name": "Ring of Pain",
+  "source": "spectre",
+  "changenumber": 37439940,
+  "updated": "2026-11-07T21:02:20.484Z",
+  "branches": {
+    "public": {
+      "buildid": "20263728",
+      "timeupdated": "1759709995",
+      "timebuildupdated": "1759709995"
+    },
+    "beta": {
+      "buildid": "13625441",
+      "description": "Public beta branch",
+      "timeupdated": "1709457269",
+      "timebuildupdated": "1709457269"
+    }
+  },
+  "depot": {
+    "998741": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3504494944452819192",
+          "size": "889049902",
+          "download": "583812576"
+        }
+      }
+    },
+    "998742": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7590080676274527613",
+          "size": "907011122",
+          "download": "567444448"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20263728",
+        "timeupdated": "1759709995",
+        "timebuildupdated": "1759709995"
+      },
+      "beta": {
+        "buildid": "13625441",
+        "description": "Public beta branch",
+        "timeupdated": "1709457269",
+        "timebuildupdated": "1709457269"
+      }
+    }
+  }
+}

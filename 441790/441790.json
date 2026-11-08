@@ -1,0 +1,80 @@
+{
+  "name": "Fragmented",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:52.583Z",
+  "branches": {
+    "public": {
+      "buildid": "9732214",
+      "timeupdated": "1667141205",
+      "timebuildupdated": "1665941118"
+    },
+    "beta": {
+      "buildid": "9732214",
+      "description": "Private Test Branch",
+      "timeupdated": "1667141180",
+      "timebuildupdated": "1665941118"
+    },
+    "server": {
+      "buildid": "9732214",
+      "timeupdated": "1667141196",
+      "timebuildupdated": "1665941118"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "441791": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6579948522732530664",
+          "size": "7016792363",
+          "download": "2954855216"
+        }
+      }
+    },
+    "441792": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7416347117003782658",
+          "size": "9304152772",
+          "download": "3134531632"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9732214",
+        "timeupdated": "1667141205",
+        "timebuildupdated": "1665941118"
+      },
+      "beta": {
+        "buildid": "9732214",
+        "description": "Private Test Branch",
+        "timeupdated": "1667141180",
+        "timebuildupdated": "1665941118"
+      },
+      "server": {
+        "buildid": "9732214",
+        "timeupdated": "1667141196",
+        "timebuildupdated": "1665941118"
+      }
+    }
+  }
+}

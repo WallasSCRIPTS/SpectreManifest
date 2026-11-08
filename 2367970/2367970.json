@@ -1,0 +1,64 @@
+{
+  "name": "Crosshair Genie",
+  "source": "spectre",
+  "changenumber": 39350652,
+  "updated": "2026-11-06T23:23:20.036Z",
+  "branches": {
+    "public": {
+      "buildid": "12674575",
+      "timeupdated": "1699646546",
+      "timebuildupdated": "1699646393"
+    },
+    "dispatcher-test": {
+      "buildid": "13190646",
+      "description": "Tests for fixing the dispatcher randomly terminating client window",
+      "timeupdated": "1705453038",
+      "timebuildupdated": "1705453017"
+    },
+    "experimental": {
+      "buildid": "12674579",
+      "description": "Public experimental branch",
+      "timeupdated": "1699646562",
+      "timebuildupdated": "1699646423"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2367971": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8803546907316476395",
+          "size": "4847931",
+          "download": "1804912"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12674575",
+        "timeupdated": "1699646546",
+        "timebuildupdated": "1699646393"
+      },
+      "dispatcher-test": {
+        "buildid": "13190646",
+        "description": "Tests for fixing the dispatcher randomly terminating client window",
+        "timeupdated": "1705453038",
+        "timebuildupdated": "1705453017"
+      },
+      "experimental": {
+        "buildid": "12674579",
+        "description": "Public experimental branch",
+        "timeupdated": "1699646562",
+        "timebuildupdated": "1699646423"
+      }
+    }
+  }
+}

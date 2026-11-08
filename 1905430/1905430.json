@@ -1,0 +1,70 @@
+{
+  "name": "Gravitar: Recharged",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:13:29.207Z",
+  "branches": {
+    "public": {
+      "buildid": "8845599",
+      "timeupdated": "1654024797",
+      "timebuildupdated": "1654024797"
+    },
+    "test": {
+      "buildid": "8845599",
+      "description": "testing steamdeck",
+      "timeupdated": "1654024816",
+      "timebuildupdated": "1654024797"
+    }
+  },
+  "depot": {
+    "1905431": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5329367734198550552",
+          "size": "415646559",
+          "download": "129073952"
+        }
+      }
+    },
+    "1905432": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5284328050103524432",
+          "size": "487392029",
+          "download": "145173968"
+        }
+      }
+    },
+    "1905433": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1036474596984894847",
+          "size": "433411103",
+          "download": "128064080"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8845599",
+        "timeupdated": "1654024797",
+        "timebuildupdated": "1654024797"
+      },
+      "test": {
+        "buildid": "8845599",
+        "description": "testing steamdeck",
+        "timeupdated": "1654024816",
+        "timebuildupdated": "1654024797"
+      }
+    }
+  }
+}

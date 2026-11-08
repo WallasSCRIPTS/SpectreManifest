@@ -1,0 +1,142 @@
+{
+  "name": "Particle Fleet: Emergence",
+  "source": "spectre",
+  "changenumber": 37434570,
+  "updated": "2026-11-07T20:57:42.453Z",
+  "branches": {
+    "public": {
+      "buildid": "22656721",
+      "timeupdated": "1775412081",
+      "timebuildupdated": "1775411956"
+    },
+    "beta": {
+      "buildid": "2031271",
+      "timeupdated": "1502458417",
+      "timebuildupdated": "1502458247"
+    },
+    "prenotarized": {
+      "buildid": "1599829",
+      "timeupdated": "1570390550",
+      "timebuildupdated": "1485817426"
+    },
+    "ver1.0": {
+      "buildid": "1363447",
+      "timeupdated": "1475793384",
+      "timebuildupdated": "1475105516"
+    },
+    "ver1.0.1": {
+      "buildid": "1378775",
+      "timeupdated": "1477521215",
+      "timebuildupdated": "1475793133"
+    },
+    "ver1.0.2": {
+      "buildid": "1416394",
+      "timeupdated": "1485907065",
+      "timebuildupdated": "1477507660"
+    },
+    "httptest": {
+      "buildid": "22656721",
+      "description": "testing http",
+      "timeupdated": "1775411956",
+      "timebuildupdated": "1775411956"
+    },
+    "pre-http-patch": {
+      "buildid": "4260602",
+      "description": "Before http patch",
+      "timeupdated": "1570390589",
+      "timebuildupdated": "1570293611"
+    }
+  },
+  "depot": {
+    "422901": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7202478944263539268",
+          "size": "1256914121",
+          "download": "386285232"
+        }
+      }
+    },
+    "422902": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6709841325143600230",
+          "size": "1303868635",
+          "download": "399703136"
+        }
+      }
+    },
+    "422903": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2592174389507493796",
+          "size": "1295755780",
+          "download": "397808768"
+        }
+      }
+    },
+    "547070": {
+      "manifests": {
+        "public": {
+          "gid": "35381676776147256",
+          "size": "174638948",
+          "download": "174579648"
+        }
+      },
+      "dlcappid": "547070"
+    },
+    "branches": {
+      "public": {
+        "buildid": "22656721",
+        "timeupdated": "1775412081",
+        "timebuildupdated": "1775411956"
+      },
+      "beta": {
+        "buildid": "2031271",
+        "timeupdated": "1502458417",
+        "timebuildupdated": "1502458247"
+      },
+      "prenotarized": {
+        "buildid": "1599829",
+        "timeupdated": "1570390550",
+        "timebuildupdated": "1485817426"
+      },
+      "ver1.0": {
+        "buildid": "1363447",
+        "timeupdated": "1475793384",
+        "timebuildupdated": "1475105516"
+      },
+      "ver1.0.1": {
+        "buildid": "1378775",
+        "timeupdated": "1477521215",
+        "timebuildupdated": "1475793133"
+      },
+      "ver1.0.2": {
+        "buildid": "1416394",
+        "timeupdated": "1485907065",
+        "timebuildupdated": "1477507660"
+      },
+      "httptest": {
+        "buildid": "22656721",
+        "description": "testing http",
+        "timeupdated": "1775411956",
+        "timebuildupdated": "1775411956"
+      },
+      "pre-http-patch": {
+        "buildid": "4260602",
+        "description": "Before http patch",
+        "timeupdated": "1570390589",
+        "timebuildupdated": "1570293611"
+      }
+    }
+  }
+}

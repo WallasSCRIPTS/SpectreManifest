@@ -1,0 +1,67 @@
+{
+  "name": "Windlands 2",
+  "source": "spectre",
+  "changenumber": 40524798,
+  "updated": "2026-11-07T20:58:01.551Z",
+  "branches": {
+    "public": {
+      "buildid": "25582172",
+      "timeupdated": "1790611211",
+      "timebuildupdated": "1790610682"
+    },
+    "beta": {
+      "buildid": "25964608",
+      "description": "Beta Test Branch",
+      "timeupdated": "1792080773",
+      "timebuildupdated": "1792080365"
+    }
+  },
+  "depot": {
+    "458581": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2655552300237653124",
+          "size": "6962132804",
+          "download": "2392290672"
+        }
+      }
+    },
+    "458582": {
+      "config": {
+        "oslist": "android"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2550342037878226257",
+          "size": "2821838509",
+          "download": "2383612960"
+        }
+      }
+    },
+    "984090": {
+      "manifests": {
+        "public": {
+          "gid": "4111032354223588465",
+          "size": "120715296",
+          "download": "121056640"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25582172",
+        "timeupdated": "1790611211",
+        "timebuildupdated": "1790610682"
+      },
+      "beta": {
+        "buildid": "25964608",
+        "description": "Beta Test Branch",
+        "timeupdated": "1792080773",
+        "timebuildupdated": "1792080365"
+      }
+    }
+  }
+}

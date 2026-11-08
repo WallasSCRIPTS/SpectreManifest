@@ -1,0 +1,70 @@
+{
+  "name": "Attentat 1942",
+  "source": "spectre",
+  "changenumber": 35946306,
+  "updated": "2026-11-07T20:59:43.785Z",
+  "branches": {
+    "public": {
+      "buildid": "6208856",
+      "timeupdated": "1612817962",
+      "timebuildupdated": "1612817962"
+    },
+    "legacy": {
+      "buildid": "3105460",
+      "description": "Legacy version",
+      "timeupdated": "1590585654",
+      "timebuildupdated": "1536506856"
+    }
+  },
+  "depot": {
+    "676631": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2522543718779170311",
+          "size": "2535187528",
+          "download": "2010852528"
+        }
+      }
+    },
+    "676632": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6347858211736935964",
+          "size": "2418823188",
+          "download": "1886872048"
+        }
+      }
+    },
+    "676633": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2722484050705731421",
+          "size": "2568358183",
+          "download": "1967591872"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6208856",
+        "timeupdated": "1612817962",
+        "timebuildupdated": "1612817962"
+      },
+      "legacy": {
+        "buildid": "3105460",
+        "description": "Legacy version",
+        "timeupdated": "1590585654",
+        "timebuildupdated": "1536506856"
+      }
+    }
+  }
+}

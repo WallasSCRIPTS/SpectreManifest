@@ -1,0 +1,70 @@
+{
+  "name": "Haunted Tower",
+  "source": "spectre",
+  "changenumber": 34891771,
+  "updated": "2026-11-06T23:19:35.366Z",
+  "branches": {
+    "public": {
+      "buildid": "14093825",
+      "timeupdated": "1713431226",
+      "timebuildupdated": "1713430920"
+    },
+    "beta": {
+      "buildid": "14093825",
+      "description": "Branch for testing new versions",
+      "timeupdated": "1713431669",
+      "timebuildupdated": "1713430920"
+    }
+  },
+  "depot": {
+    "2242932": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8496679275607095161",
+          "size": "1265972935",
+          "download": "263737936"
+        }
+      }
+    },
+    "2242933": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2992828604685946244",
+          "size": "759558744",
+          "download": "191086176"
+        }
+      }
+    },
+    "2242934": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8786312806719790139",
+          "size": "763056011",
+          "download": "186740080"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14093825",
+        "timeupdated": "1713431226",
+        "timebuildupdated": "1713430920"
+      },
+      "beta": {
+        "buildid": "14093825",
+        "description": "Branch for testing new versions",
+        "timeupdated": "1713431669",
+        "timebuildupdated": "1713430920"
+      }
+    }
+  }
+}

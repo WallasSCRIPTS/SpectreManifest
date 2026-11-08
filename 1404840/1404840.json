@@ -1,0 +1,72 @@
+{
+  "name": "Liberation Special Forces",
+  "source": "spectre",
+  "changenumber": 35945266,
+  "updated": "2026-11-05T14:53:31.562Z",
+  "branches": {
+    "public": {
+      "buildid": "15876937",
+      "timeupdated": "1727854306",
+      "timebuildupdated": "1727708860"
+    },
+    "local": {
+      "buildid": "10000489",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1669210013",
+      "timebuildupdated": "1669210013"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1404841": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3248297116536053879",
+          "size": "3920692880",
+          "download": "1716494368"
+        }
+      }
+    },
+    "1404842": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2223765777436495642",
+          "size": "4007151615",
+          "download": "1676951488"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15876937",
+        "timeupdated": "1727854306",
+        "timebuildupdated": "1727708860"
+      },
+      "local": {
+        "buildid": "10000489",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1669210013",
+        "timebuildupdated": "1669210013"
+      }
+    }
+  }
+}

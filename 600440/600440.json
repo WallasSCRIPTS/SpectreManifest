@@ -1,0 +1,76 @@
+{
+  "name": "Cyber Complex",
+  "source": "spectre",
+  "changenumber": 34834865,
+  "updated": "2026-11-07T20:59:09.638Z",
+  "branches": {
+    "public": {
+      "buildid": "5247527",
+      "timeupdated": "1593784258",
+      "timebuildupdated": "1593775654"
+    },
+    "beta": {
+      "buildid": "5247527",
+      "description": "Beta Testing",
+      "timeupdated": "1593775654",
+      "timebuildupdated": "1593775654"
+    },
+    "previousversion": {
+      "buildid": "2012290",
+      "description": "1.0.1 downgrade",
+      "timeupdated": "1593773322",
+      "timebuildupdated": "1501846923"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "600441": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3242222517802538723",
+          "size": "62894102",
+          "download": "41743088"
+        }
+      }
+    },
+    "600442": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9043763787141772271",
+          "size": "61585757",
+          "download": "41357808"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5247527",
+        "timeupdated": "1593784258",
+        "timebuildupdated": "1593775654"
+      },
+      "beta": {
+        "buildid": "5247527",
+        "description": "Beta Testing",
+        "timeupdated": "1593775654",
+        "timebuildupdated": "1593775654"
+      },
+      "previousversion": {
+        "buildid": "2012290",
+        "description": "1.0.1 downgrade",
+        "timeupdated": "1593773322",
+        "timebuildupdated": "1501846923"
+      }
+    }
+  }
+}

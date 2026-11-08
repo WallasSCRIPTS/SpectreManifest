@@ -1,0 +1,64 @@
+{
+  "name": "Hoggy 2",
+  "source": "spectre",
+  "changenumber": 39903286,
+  "updated": "2026-11-07T20:59:17.340Z",
+  "branches": {
+    "public": {
+      "buildid": "20939812",
+      "timeupdated": "1764241513",
+      "timebuildupdated": "1764101131"
+    },
+    "beta": {
+      "buildid": "20939812",
+      "description": "Pre-live builds",
+      "timeupdated": "1764101131",
+      "timebuildupdated": "1764101131"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "617271": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8371427868251844813",
+          "size": "45973163",
+          "download": "23649568"
+        }
+      }
+    },
+    "617272": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8115503674212262524",
+          "size": "49831979",
+          "download": "24502240"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20939812",
+        "timeupdated": "1764241513",
+        "timebuildupdated": "1764101131"
+      },
+      "beta": {
+        "buildid": "20939812",
+        "description": "Pre-live builds",
+        "timeupdated": "1764101131",
+        "timebuildupdated": "1764101131"
+      }
+    }
+  }
+}

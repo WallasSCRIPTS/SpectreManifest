@@ -1,0 +1,84 @@
+{
+  "name": "Mail Mole",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:05.014Z",
+  "branches": {
+    "public": {
+      "buildid": "7836196",
+      "timeupdated": "1640109775",
+      "timebuildupdated": "1638807218"
+    },
+    "speedrun-test": {
+      "buildid": "6445270",
+      "description": "Branch to test new speedrun features before making them public",
+      "timeupdated": "1616762916",
+      "timebuildupdated": "1616762916"
+    }
+  },
+  "depot": {
+    "1273541": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7790899100895540523",
+          "size": "3021331411",
+          "download": "2819228112"
+        }
+      }
+    },
+    "1273542": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4117920976453583116",
+          "size": "3004321771",
+          "download": "2737260912"
+        }
+      }
+    },
+    "1773880": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1151595018996234060",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "1773880"
+    },
+    "1823720": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "520994453214182245",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "1823720"
+    },
+    "branches": {
+      "public": {
+        "buildid": "7836196",
+        "timeupdated": "1640109775",
+        "timebuildupdated": "1638807218"
+      },
+      "speedrun-test": {
+        "buildid": "6445270",
+        "description": "Branch to test new speedrun features before making them public",
+        "timeupdated": "1616762916",
+        "timebuildupdated": "1616762916"
+      }
+    }
+  }
+}

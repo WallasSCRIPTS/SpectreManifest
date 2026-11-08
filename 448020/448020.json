@@ -1,0 +1,68 @@
+{
+  "name": "Share",
+  "source": "spectre",
+  "changenumber": 40559830,
+  "updated": "2026-11-07T20:57:55.315Z",
+  "branches": {
+    "public": {
+      "buildid": "1177966",
+      "timeupdated": "1465818057",
+      "timebuildupdated": "1465816706"
+    },
+    "beta": {
+      "buildid": "1177966",
+      "timeupdated": "1465816912",
+      "timebuildupdated": "1465816706"
+    }
+  },
+  "depot": {
+    "448021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3563310036459678869",
+          "size": "1669813054",
+          "download": "679008240"
+        }
+      }
+    },
+    "448022": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5465259942722566469",
+          "size": "1682989948",
+          "download": "684498608"
+        }
+      }
+    },
+    "448023": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7764165260471837283",
+          "size": "1675615486",
+          "download": "680242704"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1177966",
+        "timeupdated": "1465818057",
+        "timebuildupdated": "1465816706"
+      },
+      "beta": {
+        "buildid": "1177966",
+        "timeupdated": "1465816912",
+        "timebuildupdated": "1465816706"
+      }
+    }
+  }
+}

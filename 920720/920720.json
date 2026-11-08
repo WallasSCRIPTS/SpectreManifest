@@ -1,0 +1,109 @@
+{
+  "name": "Last Oasis - Dedicated Server",
+  "source": "spectre",
+  "changenumber": 38905983,
+  "updated": "2026-11-07T21:01:41.925Z",
+  "branches": {
+    "public": {
+      "buildid": "23146609",
+      "timeupdated": "1778245050",
+      "timebuildupdated": "1778245050"
+    },
+    "classic": {
+      "buildid": "9193201",
+      "description": "Classic S4",
+      "timeupdated": "1658846235",
+      "timebuildupdated": "1658846235"
+    }
+  },
+  "depot": {
+    "1004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7604377918839582995",
+          "size": "67863136",
+          "download": "24251776"
+        }
+      },
+      "depotfromapp": "1007"
+    },
+    "1005": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2135359612286175146",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "depotfromapp": "1007"
+    },
+    "1006": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4559160656493359681",
+          "size": "111284048",
+          "download": "36733840"
+        }
+      },
+      "depotfromapp": "1007"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "920721": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2191155962707100120",
+          "size": "7083374287",
+          "download": "1484297600"
+        }
+      }
+    },
+    "920722": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1986342223967362833",
+          "size": "7630393713",
+          "download": "1551178544"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23146609",
+        "timeupdated": "1778245050",
+        "timebuildupdated": "1778245050"
+      },
+      "classic": {
+        "buildid": "9193201",
+        "description": "Classic S4",
+        "timeupdated": "1658846235",
+        "timebuildupdated": "1658846235"
+      }
+    }
+  }
+}

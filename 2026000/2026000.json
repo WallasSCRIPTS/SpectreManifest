@@ -1,0 +1,70 @@
+{
+  "name": "Our Adventurer Guild",
+  "source": "spectre",
+  "changenumber": 39768422,
+  "updated": "2026-11-06T23:15:37.986Z",
+  "branches": {
+    "public": {
+      "buildid": "22403730",
+      "timeupdated": "1773884799",
+      "timebuildupdated": "1773864052"
+    },
+    "dlc_check_test": {
+      "buildid": "22554191",
+      "description": "Adjusted DLC check logic",
+      "timeupdated": "1774771791",
+      "timebuildupdated": "1774771596"
+    },
+    "p1-7b9": {
+      "buildid": "20736720",
+      "description": "Patch 1.7 bugfixes #9",
+      "timeupdated": "1764529302",
+      "timebuildupdated": "1762769139"
+    },
+    "pscontrollerdetection": {
+      "buildid": "22419042",
+      "description": "ps controller prompts only",
+      "timeupdated": "1773938739",
+      "timebuildupdated": "1773938591"
+    }
+  },
+  "depot": {
+    "2026001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8626444608106914728",
+          "size": "3833907522",
+          "download": "1338278528"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22403730",
+        "timeupdated": "1773884799",
+        "timebuildupdated": "1773864052"
+      },
+      "dlc_check_test": {
+        "buildid": "22554191",
+        "description": "Adjusted DLC check logic",
+        "timeupdated": "1774771791",
+        "timebuildupdated": "1774771596"
+      },
+      "p1-7b9": {
+        "buildid": "20736720",
+        "description": "Patch 1.7 bugfixes #9",
+        "timeupdated": "1764529302",
+        "timebuildupdated": "1762769139"
+      },
+      "pscontrollerdetection": {
+        "buildid": "22419042",
+        "description": "ps controller prompts only",
+        "timeupdated": "1773938739",
+        "timebuildupdated": "1773938591"
+      }
+    }
+  }
+}

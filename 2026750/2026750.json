@@ -1,0 +1,194 @@
+{
+  "name": "Astra Protocol 2",
+  "source": "spectre",
+  "changenumber": 39665017,
+  "updated": "2026-11-06T23:15:38.082Z",
+  "branches": {
+    "public": {
+      "buildid": "25827507",
+      "timeupdated": "1791545136",
+      "timebuildupdated": "1791545136"
+    },
+    "patch_1_1": {
+      "buildid": "10315627",
+      "description": "Patch 1.1",
+      "timeupdated": "1677788644",
+      "timebuildupdated": "1673613246"
+    },
+    "patch_1_2": {
+      "buildid": "10709786",
+      "description": "Patch 1.2",
+      "timeupdated": "1684355769",
+      "timebuildupdated": "1678192261"
+    },
+    "patch_1_3": {
+      "buildid": "11264674",
+      "description": "Patch 1.3",
+      "timeupdated": "1695152887",
+      "timebuildupdated": "1684427654"
+    },
+    "patch_1_4": {
+      "buildid": "12964859",
+      "description": "Patch 1.4",
+      "timeupdated": "1705759759",
+      "timebuildupdated": "1702578847"
+    },
+    "patch_1_4_3": {
+      "buildid": "13351276",
+      "description": "Patch 1.4.3",
+      "timeupdated": "1712603434",
+      "timebuildupdated": "1706903159"
+    },
+    "beta": {
+      "buildid": "25825517",
+      "description": "Pre-release Beta Builds",
+      "timeupdated": "1791538815",
+      "timebuildupdated": "1791538812"
+    },
+    "controller_beta": {
+      "buildid": "16489402",
+      "description": "Preview and testing of controller input",
+      "timeupdated": "1732208012",
+      "timebuildupdated": "1732208012"
+    },
+    "patch_1_5": {
+      "buildid": "14031023",
+      "description": "Patch 1.5",
+      "timeupdated": "1713941700",
+      "timebuildupdated": "1712902163"
+    },
+    "patch_1_6": {
+      "buildid": "15016119",
+      "description": "Patch 1.6",
+      "timeupdated": "1723734378",
+      "timebuildupdated": "1720801112"
+    },
+    "patch_1_7": {
+      "buildid": "16083839",
+      "description": "Patch 1.7",
+      "timeupdated": "1757670869",
+      "timebuildupdated": "1729181234"
+    },
+    "patch_1_8": {
+      "buildid": "19955930",
+      "description": "Patch 1.8",
+      "timeupdated": "1764015779",
+      "timebuildupdated": "1757673048"
+    },
+    "patch_2_0": {
+      "buildid": "21917563",
+      "description": "Patch 2.0",
+      "timeupdated": "1770976852",
+      "timebuildupdated": "1770976852"
+    }
+  },
+  "depot": {
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2026751": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3780462091801490539",
+          "size": "184368794",
+          "download": "74144704"
+        }
+      }
+    },
+    "2947680": {
+      "manifests": {
+        "public": {
+          "gid": "8573229841047817083",
+          "size": "765233064",
+          "download": "657063952"
+        }
+      },
+      "dlcappid": "2947680"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25827507",
+        "timeupdated": "1791545136",
+        "timebuildupdated": "1791545136"
+      },
+      "patch_1_1": {
+        "buildid": "10315627",
+        "description": "Patch 1.1",
+        "timeupdated": "1677788644",
+        "timebuildupdated": "1673613246"
+      },
+      "patch_1_2": {
+        "buildid": "10709786",
+        "description": "Patch 1.2",
+        "timeupdated": "1684355769",
+        "timebuildupdated": "1678192261"
+      },
+      "patch_1_3": {
+        "buildid": "11264674",
+        "description": "Patch 1.3",
+        "timeupdated": "1695152887",
+        "timebuildupdated": "1684427654"
+      },
+      "patch_1_4": {
+        "buildid": "12964859",
+        "description": "Patch 1.4",
+        "timeupdated": "1705759759",
+        "timebuildupdated": "1702578847"
+      },
+      "patch_1_4_3": {
+        "buildid": "13351276",
+        "description": "Patch 1.4.3",
+        "timeupdated": "1712603434",
+        "timebuildupdated": "1706903159"
+      },
+      "beta": {
+        "buildid": "25825517",
+        "description": "Pre-release Beta Builds",
+        "timeupdated": "1791538815",
+        "timebuildupdated": "1791538812"
+      },
+      "controller_beta": {
+        "buildid": "16489402",
+        "description": "Preview and testing of controller input",
+        "timeupdated": "1732208012",
+        "timebuildupdated": "1732208012"
+      },
+      "patch_1_5": {
+        "buildid": "14031023",
+        "description": "Patch 1.5",
+        "timeupdated": "1713941700",
+        "timebuildupdated": "1712902163"
+      },
+      "patch_1_6": {
+        "buildid": "15016119",
+        "description": "Patch 1.6",
+        "timeupdated": "1723734378",
+        "timebuildupdated": "1720801112"
+      },
+      "patch_1_7": {
+        "buildid": "16083839",
+        "description": "Patch 1.7",
+        "timeupdated": "1757670869",
+        "timebuildupdated": "1729181234"
+      },
+      "patch_1_8": {
+        "buildid": "19955930",
+        "description": "Patch 1.8",
+        "timeupdated": "1764015779",
+        "timebuildupdated": "1757673048"
+      },
+      "patch_2_0": {
+        "buildid": "21917563",
+        "description": "Patch 2.0",
+        "timeupdated": "1770976852",
+        "timebuildupdated": "1770976852"
+      }
+    }
+  }
+}

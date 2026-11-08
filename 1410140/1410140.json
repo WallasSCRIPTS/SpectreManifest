@@ -1,0 +1,70 @@
+{
+  "name": "Load Roll Die",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:03.002Z",
+  "branches": {
+    "public": {
+      "buildid": "21289764",
+      "timeupdated": "1766454179",
+      "timebuildupdated": "1766453834"
+    },
+    "beta": {
+      "buildid": "21289764",
+      "description": "Try out builds before they go live for everyone!",
+      "timeupdated": "1766453834",
+      "timebuildupdated": "1766453834"
+    }
+  },
+  "depot": {
+    "1410141": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3157587166338143988",
+          "size": "904055846",
+          "download": "301757200"
+        }
+      }
+    },
+    "1410142": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8609215098144340529",
+          "size": "906662590",
+          "download": "330770400"
+        }
+      }
+    },
+    "1410143": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8190191131327157257",
+          "size": "918840937",
+          "download": "334116592"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21289764",
+        "timeupdated": "1766454179",
+        "timebuildupdated": "1766453834"
+      },
+      "beta": {
+        "buildid": "21289764",
+        "description": "Try out builds before they go live for everyone!",
+        "timeupdated": "1766453834",
+        "timebuildupdated": "1766453834"
+      }
+    }
+  }
+}

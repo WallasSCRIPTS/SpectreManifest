@@ -1,0 +1,70 @@
+{
+  "name": "Liftoff: Micro Drones",
+  "source": "spectre",
+  "changenumber": 40063767,
+  "updated": "2026-11-06T21:05:13.416Z",
+  "branches": {
+    "public": {
+      "buildid": "26045637",
+      "timeupdated": "1792408092",
+      "timebuildupdated": "1792404746"
+    },
+    "liftoff_microdrones_physics5.0": {
+      "buildid": "23030323",
+      "description": "Legacy: Physics 5.0",
+      "timeupdated": "1777555677",
+      "timebuildupdated": "1777555314"
+    }
+  },
+  "depot": {
+    "1432321": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8168375061887431505",
+          "size": "19848960035",
+          "download": "17206155424"
+        }
+      }
+    },
+    "1432322": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1525423298460928032",
+          "size": "19612604143",
+          "download": "17042960144"
+        }
+      }
+    },
+    "1432323": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5223451428350003311",
+          "size": "19810745777",
+          "download": "17180981664"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26045637",
+        "timeupdated": "1792408092",
+        "timebuildupdated": "1792404746"
+      },
+      "liftoff_microdrones_physics5.0": {
+        "buildid": "23030323",
+        "description": "Legacy: Physics 5.0",
+        "timeupdated": "1777555677",
+        "timebuildupdated": "1777555314"
+      }
+    }
+  }
+}

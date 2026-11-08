@@ -1,0 +1,84 @@
+{
+  "name": "Mind the Vikings",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:31.388Z",
+  "branches": {
+    "public": {
+      "buildid": "5280097",
+      "timeupdated": "1594648980",
+      "timebuildupdated": "1594566865"
+    },
+    "experimental": {
+      "buildid": "5280097",
+      "description": "very unstable",
+      "timeupdated": "1594566865",
+      "timebuildupdated": "1594566865"
+    },
+    "legacy": {
+      "buildid": "2896117",
+      "timeupdated": "1594818735",
+      "timebuildupdated": "1530025407"
+    },
+    "stable": {
+      "buildid": "5280097",
+      "timeupdated": "1594573643",
+      "timebuildupdated": "1594566865"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "765251": {
+      "manifests": {
+        "public": {
+          "gid": "885882593131465890",
+          "size": "4691341503",
+          "download": "2028244176"
+        }
+      }
+    },
+    "765252": {
+      "manifests": {
+        "public": {
+          "gid": "5370551426814859768",
+          "size": "1192199049",
+          "download": "428424752"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5280097",
+        "timeupdated": "1594648980",
+        "timebuildupdated": "1594566865"
+      },
+      "experimental": {
+        "buildid": "5280097",
+        "description": "very unstable",
+        "timeupdated": "1594566865",
+        "timebuildupdated": "1594566865"
+      },
+      "legacy": {
+        "buildid": "2896117",
+        "timeupdated": "1594818735",
+        "timebuildupdated": "1530025407"
+      },
+      "stable": {
+        "buildid": "5280097",
+        "timeupdated": "1594573643",
+        "timebuildupdated": "1594566865"
+      }
+    }
+  }
+}

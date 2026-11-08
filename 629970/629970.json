@@ -1,0 +1,70 @@
+{
+  "name": "Beast Pets",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:22.806Z",
+  "branches": {
+    "public": {
+      "buildid": "6721593",
+      "timeupdated": "1621460648",
+      "timebuildupdated": "1621388348"
+    },
+    "beta": {
+      "buildid": "6721593",
+      "description": "help us test unreleased features",
+      "timeupdated": "1621460638",
+      "timebuildupdated": "1621388348"
+    },
+    "commercial": {
+      "buildid": "6721595",
+      "description": "Commercial version, slightly more stable and cannot be set to home version",
+      "timeupdated": "1621460669",
+      "timebuildupdated": "1621388375"
+    }
+  },
+  "depot": {
+    "629971": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8733836201590573622",
+          "size": "557395186",
+          "download": "154970400"
+        }
+      }
+    },
+    "629972": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1394436918398600947",
+          "size": "334",
+          "download": "304"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6721593",
+        "timeupdated": "1621460648",
+        "timebuildupdated": "1621388348"
+      },
+      "beta": {
+        "buildid": "6721593",
+        "description": "help us test unreleased features",
+        "timeupdated": "1621460638",
+        "timebuildupdated": "1621388348"
+      },
+      "commercial": {
+        "buildid": "6721595",
+        "description": "Commercial version, slightly more stable and cannot be set to home version",
+        "timeupdated": "1621460669",
+        "timebuildupdated": "1621388375"
+      }
+    }
+  }
+}

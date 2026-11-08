@@ -1,0 +1,130 @@
+{
+  "name": "SeaFeud",
+  "source": "spectre",
+  "changenumber": 40643189,
+  "updated": "2026-11-06T23:21:29.242Z",
+  "branches": {
+    "public": {
+      "buildid": "11190532",
+      "timeupdated": "1683652270",
+      "timebuildupdated": "1683646314"
+    },
+    "alpha": {
+      "buildid": "10939278",
+      "description": "alpha",
+      "timeupdated": "1680716952",
+      "timebuildupdated": "1680716103"
+    },
+    "beta": {
+      "buildid": "11100314",
+      "description": "beta",
+      "timeupdated": "1682557230",
+      "timebuildupdated": "1682556677"
+    },
+    "gold": {
+      "buildid": "11190532",
+      "description": "rtm",
+      "timeupdated": "1683652624",
+      "timebuildupdated": "1683646314"
+    },
+    "pocg": {
+      "buildid": "10667409",
+      "description": "Proof of Concept Gameplay",
+      "timeupdated": "1683042156",
+      "timebuildupdated": "1677695475"
+    },
+    "poct": {
+      "buildid": "10648466",
+      "description": "Proof of Concept Technology",
+      "timeupdated": "1683042107",
+      "timebuildupdated": "1677521617"
+    },
+    "release_candidate": {
+      "buildid": "11190532",
+      "description": "release candidate",
+      "timeupdated": "1683646314",
+      "timebuildupdated": "1683646314"
+    },
+    "vsfp": {
+      "buildid": "10830623",
+      "description": "verical slice, first playable",
+      "timeupdated": "1679502147",
+      "timebuildupdated": "1679502124"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2322021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6943733495269646366",
+          "size": "1769740746",
+          "download": "1499056400"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11190532",
+        "timeupdated": "1683652270",
+        "timebuildupdated": "1683646314"
+      },
+      "alpha": {
+        "buildid": "10939278",
+        "description": "alpha",
+        "timeupdated": "1680716952",
+        "timebuildupdated": "1680716103"
+      },
+      "beta": {
+        "buildid": "11100314",
+        "description": "beta",
+        "timeupdated": "1682557230",
+        "timebuildupdated": "1682556677"
+      },
+      "gold": {
+        "buildid": "11190532",
+        "description": "rtm",
+        "timeupdated": "1683652624",
+        "timebuildupdated": "1683646314"
+      },
+      "pocg": {
+        "buildid": "10667409",
+        "description": "Proof of Concept Gameplay",
+        "timeupdated": "1683042156",
+        "timebuildupdated": "1677695475"
+      },
+      "poct": {
+        "buildid": "10648466",
+        "description": "Proof of Concept Technology",
+        "timeupdated": "1683042107",
+        "timebuildupdated": "1677521617"
+      },
+      "release_candidate": {
+        "buildid": "11190532",
+        "description": "release candidate",
+        "timeupdated": "1683646314",
+        "timebuildupdated": "1683646314"
+      },
+      "vsfp": {
+        "buildid": "10830623",
+        "description": "verical slice, first playable",
+        "timeupdated": "1679502147",
+        "timebuildupdated": "1679502124"
+      }
+    }
+  }
+}

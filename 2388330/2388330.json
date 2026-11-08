@@ -1,0 +1,73 @@
+{
+  "name": "RetroArch - VirtualXT",
+  "source": "spectre",
+  "changenumber": 40666559,
+  "updated": "2026-11-06T23:23:22.498Z",
+  "branches": {
+    "public": {
+      "buildid": "20833712",
+      "timeupdated": "1763418521",
+      "timebuildupdated": "1763415565"
+    },
+    "nightly": {
+      "buildid": "26483152",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793964935",
+      "timebuildupdated": "1793964935"
+    }
+  },
+  "depot": {
+    "2388330": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2797756108840242661",
+          "size": "483693",
+          "download": "210704"
+        }
+      },
+      "dlcappid": "2388330"
+    },
+    "2388331": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2469952439104296100",
+          "size": "11063274",
+          "download": "4370304"
+        }
+      },
+      "dlcappid": "2388330"
+    },
+    "2388332": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8361694001987373183",
+          "size": "11107298",
+          "download": "4423728"
+        }
+      },
+      "dlcappid": "2388330"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833712",
+        "timeupdated": "1763418521",
+        "timebuildupdated": "1763415565"
+      },
+      "nightly": {
+        "buildid": "26483152",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793964935",
+        "timebuildupdated": "1793964935"
+      }
+    }
+  }
+}

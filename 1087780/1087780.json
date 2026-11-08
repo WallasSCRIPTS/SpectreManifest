@@ -1,0 +1,55 @@
+{
+  "name": "STURMWIND EX",
+  "source": "spectre",
+  "changenumber": 40555611,
+  "updated": "2026-11-07T21:03:07.423Z",
+  "branches": {
+    "public": {
+      "buildid": "4588845",
+      "timeupdated": "1579544838",
+      "timebuildupdated": "1579541704"
+    },
+    "beta": {
+      "buildid": "4588845",
+      "timeupdated": "1579541877",
+      "timebuildupdated": "1579541704"
+    }
+  },
+  "depot": {
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1087781": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1854383720535154098",
+          "size": "4599986221",
+          "download": "4297344032"
+        }
+      }
+    },
+    "1087782": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4588845",
+        "timeupdated": "1579544838",
+        "timebuildupdated": "1579541704"
+      },
+      "beta": {
+        "buildid": "4588845",
+        "timeupdated": "1579541877",
+        "timebuildupdated": "1579541704"
+      }
+    }
+  }
+}

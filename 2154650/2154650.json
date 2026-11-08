@@ -1,0 +1,82 @@
+{
+  "name": "Pawperty Damage",
+  "source": "spectre",
+  "changenumber": 39107674,
+  "updated": "2026-11-06T23:17:38.436Z",
+  "branches": {
+    "public": {
+      "buildid": "20295147",
+      "timeupdated": "1759884310",
+      "timebuildupdated": "1759883905"
+    },
+    "version-1.3": {
+      "buildid": "12891719",
+      "description": "Branch to play older Version 1.3.2 (2023), which is Windows 7 compatible.",
+      "timeupdated": "1717025741",
+      "timebuildupdated": "1701879562"
+    }
+  },
+  "depot": {
+    "2154651": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3704110968601897156",
+          "size": "1723821476",
+          "download": "623194320"
+        }
+      }
+    },
+    "2154652": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3486577336255715993",
+          "size": "1111872776",
+          "download": "528889840"
+        }
+      }
+    },
+    "2154653": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6908378401305509793",
+          "size": "2285124238",
+          "download": "918697440"
+        }
+      }
+    },
+    "2154654": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5029461716341267881",
+          "size": "1962422841",
+          "download": "690527200"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20295147",
+        "timeupdated": "1759884310",
+        "timebuildupdated": "1759883905"
+      },
+      "version-1.3": {
+        "buildid": "12891719",
+        "description": "Branch to play older Version 1.3.2 (2023), which is Windows 7 compatible.",
+        "timeupdated": "1717025741",
+        "timebuildupdated": "1701879562"
+      }
+    }
+  }
+}

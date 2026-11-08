@@ -1,0 +1,76 @@
+{
+  "name": "Unconventional Warfare",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:01.399Z",
+  "branches": {
+    "public": {
+      "buildid": "10374113",
+      "timeupdated": "1674351510",
+      "timebuildupdated": "1674313606"
+    },
+    "beta": {
+      "buildid": "10374113",
+      "description": "test branch",
+      "timeupdated": "1674313640",
+      "timebuildupdated": "1674313606"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "831111": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7009668143455090154",
+          "size": "4709865543",
+          "download": "1370720128"
+        }
+      }
+    },
+    "831112": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1650125001473177555",
+          "size": "4700642174",
+          "download": "1367713824"
+        }
+      }
+    },
+    "831113": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2329402962040350950",
+          "size": "4992124345",
+          "download": "1415849952"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10374113",
+        "timeupdated": "1674351510",
+        "timebuildupdated": "1674313606"
+      },
+      "beta": {
+        "buildid": "10374113",
+        "description": "test branch",
+        "timeupdated": "1674313640",
+        "timebuildupdated": "1674313606"
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "name": "Insurgency",
+  "source": "spectre",
+  "changenumber": 37432492,
+  "updated": "2026-11-07T20:56:05.736Z",
+  "branches": {
+    "public": {
+      "buildid": "19997404",
+      "timeupdated": "1765548280",
+      "timebuildupdated": "1758014745"
+    },
+    "beta": {
+      "buildid": "3125346",
+      "description": "Pre-release testing branch",
+      "timeupdated": "1537037169",
+      "timebuildupdated": "1537037073"
+    }
+  },
+  "depot": {
+    "222881": {
+      "manifests": {
+        "public": {
+          "gid": "2393120769446958101",
+          "size": "8940787283",
+          "download": "4783090224"
+        }
+      }
+    },
+    "222882": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3568747952263489628",
+          "size": "165629804",
+          "download": "60664224"
+        }
+      }
+    },
+    "222883": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6578994493221979917",
+          "size": "147759146",
+          "download": "34479648"
+        }
+      }
+    },
+    "222884": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5150337713245703070",
+          "size": "101508589",
+          "download": "29132112"
+        }
+      }
+    },
+    "222890": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3504951197862729126",
+          "size": "108778000",
+          "download": "17284048"
+        }
+      },
+      "dlcappid": "222890"
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "19997404",
+        "timeupdated": "1765548280",
+        "timebuildupdated": "1758014745"
+      },
+      "beta": {
+        "buildid": "3125346",
+        "description": "Pre-release testing branch",
+        "timeupdated": "1537037169",
+        "timebuildupdated": "1537037073"
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "MapleStory",
+  "source": "spectre",
+  "changenumber": 40650516,
+  "updated": "2026-11-07T20:56:04.295Z",
+  "branches": {
+    "public": {
+      "buildid": "26441414",
+      "timeupdated": "1793840072",
+      "timebuildupdated": "1793823889"
+    }
+  },
+  "depot": {
+    "216151": {
+      "config": {
+        "oslist": "windows,macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9164568599306248228",
+          "size": "72695626407",
+          "download": "67107941424"
+        }
+      }
+    },
+    "216152": {
+      "config": {
+        "oslist": "windows"
+      },
+      "dlcappid": "216152"
+    },
+    "216154": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7223517393647127846",
+          "size": "1155126019",
+          "download": "269492352"
+        }
+      }
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "745140": {
+      "config": {
+        "oslist": "windows"
+      },
+      "dlcappid": "745140"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26441414",
+        "timeupdated": "1793840072",
+        "timebuildupdated": "1793823889"
+      }
+    }
+  }
+}

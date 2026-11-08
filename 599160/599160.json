@@ -1,0 +1,83 @@
+{
+  "name": "Skeletal Dance Party",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:09.086Z",
+  "branches": {
+    "public": {
+      "buildid": "4470244",
+      "timeupdated": "1575825593",
+      "timebuildupdated": "1575737913"
+    },
+    "public_beta": {
+      "buildid": "6056251",
+      "timeupdated": "1610123153",
+      "timebuildupdated": "1610123152"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "599161": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7242610126142720466",
+          "size": "413389843",
+          "download": "164673248"
+        }
+      }
+    },
+    "599162": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6327575385026249529",
+          "size": "458035681",
+          "download": "181842048"
+        }
+      }
+    },
+    "599163": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4461210943634739939",
+          "size": "419694423",
+          "download": "168004304"
+        }
+      }
+    },
+    "972360": {
+      "manifests": {
+        "public": {
+          "gid": "6833875718567339126",
+          "size": "43389325",
+          "download": "41881712"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4470244",
+        "timeupdated": "1575825593",
+        "timebuildupdated": "1575737913"
+      },
+      "public_beta": {
+        "buildid": "6056251",
+        "timeupdated": "1610123153",
+        "timebuildupdated": "1610123152"
+      }
+    }
+  }
+}

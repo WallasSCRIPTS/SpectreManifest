@@ -1,0 +1,103 @@
+{
+  "name": "Project Hedra",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:26.222Z",
+  "branches": {
+    "public": {
+      "buildid": "10753106",
+      "timeupdated": "1678720791",
+      "timebuildupdated": "1678678331"
+    },
+    "beta": {
+      "buildid": "10753106",
+      "description": "beta branch",
+      "timeupdated": "1678720780",
+      "timebuildupdated": "1678678331"
+    },
+    "test": {
+      "buildid": "10753106",
+      "description": "branch that has builds directly from development",
+      "timeupdated": "1678678331",
+      "timebuildupdated": "1678678331"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1009962": {
+      "manifests": {
+        "public": {
+          "gid": "6511419836962964026",
+          "size": "98327323",
+          "download": "92361312"
+        }
+      }
+    },
+    "1009963": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3727592281917359466",
+          "size": "105927163",
+          "download": "33831712"
+        }
+      }
+    },
+    "1009964": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8341690636431630676",
+          "size": "111650757",
+          "download": "36340176"
+        }
+      }
+    },
+    "1009965": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8743429399333563208",
+          "size": "112555657",
+          "download": "35214608"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10753106",
+        "timeupdated": "1678720791",
+        "timebuildupdated": "1678678331"
+      },
+      "beta": {
+        "buildid": "10753106",
+        "description": "beta branch",
+        "timeupdated": "1678720780",
+        "timebuildupdated": "1678678331"
+      },
+      "test": {
+        "buildid": "10753106",
+        "description": "branch that has builds directly from development",
+        "timeupdated": "1678678331",
+        "timebuildupdated": "1678678331"
+      }
+    }
+  }
+}

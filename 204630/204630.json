@@ -1,0 +1,73 @@
+{
+  "name": "Retro City Rampage™ DX",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:01.307Z",
+  "branches": {
+    "public": {
+      "buildid": "16497184",
+      "timeupdated": "1732262667",
+      "timebuildupdated": "1732262514"
+    }
+  },
+  "depot": {
+    "204631": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7629976917538224808",
+          "size": "15108771",
+          "download": "11030960"
+        }
+      }
+    },
+    "204632": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8239889267708869378",
+          "size": "19866115",
+          "download": "13148864"
+        }
+      }
+    },
+    "204633": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3521630521952653561",
+          "size": "16502853",
+          "download": "9854208"
+        }
+      }
+    },
+    "204634": {
+      "manifests": {
+        "public": {
+          "gid": "2142738135466314851",
+          "size": "4912375",
+          "download": "4960528"
+        }
+      }
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "16497184",
+        "timeupdated": "1732262667",
+        "timebuildupdated": "1732262514"
+      }
+    }
+  }
+}

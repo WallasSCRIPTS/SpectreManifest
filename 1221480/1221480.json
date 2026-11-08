@@ -1,0 +1,70 @@
+{
+  "name": "Big Hops Together",
+  "source": "spectre",
+  "changenumber": 39768411,
+  "updated": "2026-11-06T21:03:41.324Z",
+  "branches": {
+    "public": {
+      "buildid": "25876713",
+      "timeupdated": "1791789121",
+      "timebuildupdated": "1791789078"
+    },
+    "classic": {
+      "buildid": "22490848",
+      "description": "last version before big hops together",
+      "timeupdated": "1774711327",
+      "timebuildupdated": "1774404451"
+    },
+    "crossplay": {
+      "buildid": "25875476",
+      "description": "for interop with other platforms",
+      "timeupdated": "1791782698",
+      "timebuildupdated": "1791782625"
+    }
+  },
+  "depot": {
+    "1221481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4426361503877346980",
+          "size": "3813954871",
+          "download": "1064298288"
+        }
+      }
+    },
+    "1221482": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1984754708434246774",
+          "size": "3937085135",
+          "download": "1098413168"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25876713",
+        "timeupdated": "1791789121",
+        "timebuildupdated": "1791789078"
+      },
+      "classic": {
+        "buildid": "22490848",
+        "description": "last version before big hops together",
+        "timeupdated": "1774711327",
+        "timebuildupdated": "1774404451"
+      },
+      "crossplay": {
+        "buildid": "25875476",
+        "description": "for interop with other platforms",
+        "timeupdated": "1791782698",
+        "timebuildupdated": "1791782625"
+      }
+    }
+  }
+}

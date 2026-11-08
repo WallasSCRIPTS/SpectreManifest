@@ -1,0 +1,70 @@
+{
+  "name": "Downslope",
+  "source": "spectre",
+  "changenumber": 40457988,
+  "updated": "2026-11-06T21:05:40.014Z",
+  "branches": {
+    "public": {
+      "buildid": "13038773",
+      "timeupdated": "1703394176",
+      "timebuildupdated": "1703394119"
+    },
+    "beta": {
+      "buildid": "26346915",
+      "description": "Beta",
+      "timeupdated": "1793458303",
+      "timebuildupdated": "1793458302"
+    }
+  },
+  "depot": {
+    "1491091": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4999364258933717622",
+          "size": "1146497231",
+          "download": "683791504"
+        }
+      }
+    },
+    "1491092": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "360136899478825118",
+          "size": "1145732066",
+          "download": "685345776"
+        }
+      }
+    },
+    "1491094": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8900120470944559421",
+          "size": "1177161198",
+          "download": "690818784"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13038773",
+        "timeupdated": "1703394176",
+        "timebuildupdated": "1703394119"
+      },
+      "beta": {
+        "buildid": "26346915",
+        "description": "Beta",
+        "timeupdated": "1793458303",
+        "timebuildupdated": "1793458302"
+      }
+    }
+  }
+}

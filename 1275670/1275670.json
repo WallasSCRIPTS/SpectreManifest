@@ -1,0 +1,79 @@
+{
+  "name": "Outcore",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-06T21:04:06.170Z",
+  "branches": {
+    "public": {
+      "buildid": "25774686",
+      "timeupdated": "1791367900",
+      "timebuildupdated": "1791367864"
+    },
+    "beta": {
+      "buildid": "25774686",
+      "description": "A branch for testing builds before they reach the public branch",
+      "timeupdated": "1791367864",
+      "timebuildupdated": "1791367864"
+    },
+    "test1": {
+      "buildid": "16051389",
+      "description": "Bug testing branch #1",
+      "timeupdated": "1728994707",
+      "timebuildupdated": "1728994707"
+    },
+    "italian_spiderman": {
+      "buildid": "14342034",
+      "description": "A branch for testing the Italian translations",
+      "timeupdated": "1715526841",
+      "timebuildupdated": "1715526498"
+    }
+  },
+  "depot": {
+    "1275671": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5077033578061136164",
+          "size": "1426580523",
+          "download": "488360736"
+        }
+      }
+    },
+    "2128470": {
+      "dlcappid": "2128470"
+    },
+    "2133260": {
+      "dlcappid": "2133260"
+    },
+    "2133270": {
+      "dlcappid": "2133270"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25774686",
+        "timeupdated": "1791367900",
+        "timebuildupdated": "1791367864"
+      },
+      "beta": {
+        "buildid": "25774686",
+        "description": "A branch for testing builds before they reach the public branch",
+        "timeupdated": "1791367864",
+        "timebuildupdated": "1791367864"
+      },
+      "test1": {
+        "buildid": "16051389",
+        "description": "Bug testing branch #1",
+        "timeupdated": "1728994707",
+        "timebuildupdated": "1728994707"
+      },
+      "italian_spiderman": {
+        "buildid": "14342034",
+        "description": "A branch for testing the Italian translations",
+        "timeupdated": "1715526841",
+        "timebuildupdated": "1715526498"
+      }
+    }
+  }
+}

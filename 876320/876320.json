@@ -1,0 +1,68 @@
+{
+  "name": "Hyperspace Delivery Service",
+  "source": "spectre",
+  "changenumber": 40615803,
+  "updated": "2026-11-07T21:01:21.932Z",
+  "branches": {
+    "public": {
+      "buildid": "5590448",
+      "timeupdated": "1600960470",
+      "timebuildupdated": "1600960412"
+    },
+    "testing": {
+      "buildid": "4793061",
+      "timeupdated": "1585058111",
+      "timebuildupdated": "1584560219"
+    }
+  },
+  "depot": {
+    "876321": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6345342768542198767",
+          "size": "293097859",
+          "download": "146468160"
+        }
+      }
+    },
+    "876322": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4740963586753114288",
+          "size": "234746938",
+          "download": "87420496"
+        }
+      }
+    },
+    "876323": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2183961973035193995",
+          "size": "236511019",
+          "download": "88427312"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5590448",
+        "timeupdated": "1600960470",
+        "timebuildupdated": "1600960412"
+      },
+      "testing": {
+        "buildid": "4793061",
+        "timeupdated": "1585058111",
+        "timebuildupdated": "1584560219"
+      }
+    }
+  }
+}

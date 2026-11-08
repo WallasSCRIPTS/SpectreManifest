@@ -1,0 +1,58 @@
+{
+  "name": "Spirit Swap",
+  "source": "spectre",
+  "changenumber": 38086700,
+  "updated": "2026-11-06T21:06:26.287Z",
+  "branches": {
+    "public": {
+      "buildid": "23048884",
+      "timeupdated": "1778032234",
+      "timebuildupdated": "1777653578"
+    },
+    "beta": {
+      "buildid": "18086576",
+      "description": "Beta",
+      "timeupdated": "1744501066",
+      "timebuildupdated": "1744501066"
+    }
+  },
+  "depot": {
+    "1592171": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6477560492677621965",
+          "size": "1471147088",
+          "download": "1124515152"
+        }
+      }
+    },
+    "1592172": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8523539407975665444",
+          "size": "1296685773",
+          "download": "1012360784"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23048884",
+        "timeupdated": "1778032234",
+        "timebuildupdated": "1777653578"
+      },
+      "beta": {
+        "buildid": "18086576",
+        "description": "Beta",
+        "timeupdated": "1744501066",
+        "timebuildupdated": "1744501066"
+      }
+    }
+  }
+}

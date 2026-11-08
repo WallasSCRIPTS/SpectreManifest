@@ -1,0 +1,86 @@
+{
+  "name": "Chef",
+  "source": "spectre",
+  "changenumber": 39775061,
+  "updated": "2026-11-07T21:01:27.061Z",
+  "branches": {
+    "public": {
+      "buildid": "25905281",
+      "timeupdated": "1791890544",
+      "timebuildupdated": "1791889175"
+    },
+    "stable": {
+      "buildid": "9273950",
+      "description": "Stable version",
+      "timeupdated": "1684308846",
+      "timebuildupdated": "1659963550"
+    },
+    "betapatch": {
+      "buildid": "25905281",
+      "timeupdated": "1791889219",
+      "timebuildupdated": "1791889175"
+    },
+    "oldstable": {
+      "buildid": "14583597",
+      "description": "Chef version 1.6",
+      "timeupdated": "1717410187",
+      "timebuildupdated": "1717409943"
+    }
+  },
+  "depot": {
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "886901": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7991041917374901357",
+          "size": "6530738160",
+          "download": "2443955888"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25905281",
+        "timeupdated": "1791890544",
+        "timebuildupdated": "1791889175"
+      },
+      "stable": {
+        "buildid": "9273950",
+        "description": "Stable version",
+        "timeupdated": "1684308846",
+        "timebuildupdated": "1659963550"
+      },
+      "betapatch": {
+        "buildid": "25905281",
+        "timeupdated": "1791889219",
+        "timebuildupdated": "1791889175"
+      },
+      "oldstable": {
+        "buildid": "14583597",
+        "description": "Chef version 1.6",
+        "timeupdated": "1717410187",
+        "timebuildupdated": "1717409943"
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Gravity Flux",
+  "source": "spectre",
+  "changenumber": 34882978,
+  "updated": "2026-11-06T23:15:40.901Z",
+  "branches": {
+    "public": {
+      "buildid": "10828118",
+      "timeupdated": "1679482753",
+      "timebuildupdated": "1679482737"
+    },
+    "secret_testing": {
+      "buildid": "10827997",
+      "description": "Leo testing stuff from Steam before it hits customers in case it doesn't work for some reason",
+      "timeupdated": "1679482487",
+      "timebuildupdated": "1679481843"
+    }
+  },
+  "depot": {
+    "2072521": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6116260165858229209",
+          "size": "80001097",
+          "download": "22734976"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10828118",
+        "timeupdated": "1679482753",
+        "timebuildupdated": "1679482737"
+      },
+      "secret_testing": {
+        "buildid": "10827997",
+        "description": "Leo testing stuff from Steam before it hits customers in case it doesn't work for some reason",
+        "timeupdated": "1679482487",
+        "timebuildupdated": "1679481843"
+      }
+    }
+  }
+}

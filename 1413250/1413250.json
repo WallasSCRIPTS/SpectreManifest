@@ -1,0 +1,76 @@
+{
+  "name": "Republic of Jungle",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:04.503Z",
+  "branches": {
+    "public": {
+      "buildid": "22965423",
+      "timeupdated": "1777584847",
+      "timebuildupdated": "1777231410"
+    },
+    "test": {
+      "buildid": "17913127",
+      "description": "For dev testing",
+      "timeupdated": "1743298567",
+      "timebuildupdated": "1743298547"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1413251": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2421758423094136112",
+          "size": "1060184572",
+          "download": "293115520"
+        }
+      }
+    },
+    "1413252": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2371108291773723288",
+          "size": "1080218706",
+          "download": "294061120"
+        }
+      }
+    },
+    "1413253": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4449595213093171815",
+          "size": "1068447616",
+          "download": "293601664"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22965423",
+        "timeupdated": "1777584847",
+        "timebuildupdated": "1777231410"
+      },
+      "test": {
+        "buildid": "17913127",
+        "description": "For dev testing",
+        "timeupdated": "1743298567",
+        "timebuildupdated": "1743298547"
+      }
+    }
+  }
+}

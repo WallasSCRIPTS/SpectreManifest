@@ -1,0 +1,58 @@
+{
+  "name": "Bloody Service",
+  "source": "spectre",
+  "changenumber": 35946306,
+  "updated": "2026-11-06T21:05:05.437Z",
+  "branches": {
+    "public": {
+      "buildid": "6020210",
+      "timeupdated": "1609187035",
+      "timebuildupdated": "1609186811"
+    }
+  },
+  "depot": {
+    "1415022": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7687670454384027441",
+          "size": "330783656",
+          "download": "265094704"
+        }
+      }
+    },
+    "1415023": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1414442729361979581",
+          "size": "592708024",
+          "download": "517370240"
+        }
+      }
+    },
+    "1415024": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9077542805516517361",
+          "size": "331590143",
+          "download": "265428528"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6020210",
+        "timeupdated": "1609187035",
+        "timebuildupdated": "1609186811"
+      }
+    }
+  }
+}

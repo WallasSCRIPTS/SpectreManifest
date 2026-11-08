@@ -1,0 +1,59 @@
+{
+  "name": "破镜恐惧",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-06T21:04:59.028Z",
+  "branches": {
+    "public": {
+      "buildid": "6213291",
+      "timeupdated": "1612883035",
+      "timebuildupdated": "1612882976"
+    },
+    "test": {
+      "buildid": "6202685",
+      "description": "测试DLC",
+      "timeupdated": "1612698083",
+      "timebuildupdated": "1612698054"
+    }
+  },
+  "depot": {
+    "1401321": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4390066226655369879",
+          "size": "448762324",
+          "download": "191443520"
+        }
+      }
+    },
+    "1530380": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4907687384751839013",
+          "size": "454732900",
+          "download": "191660112"
+        }
+      },
+      "dlcappid": "1530380"
+    },
+    "branches": {
+      "public": {
+        "buildid": "6213291",
+        "timeupdated": "1612883035",
+        "timebuildupdated": "1612882976"
+      },
+      "test": {
+        "buildid": "6202685",
+        "description": "测试DLC",
+        "timeupdated": "1612698083",
+        "timebuildupdated": "1612698054"
+      }
+    }
+  }
+}

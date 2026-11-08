@@ -1,0 +1,65 @@
+{
+  "name": "Wild Woods",
+  "source": "spectre",
+  "changenumber": 40629379,
+  "updated": "2026-11-06T23:15:25.543Z",
+  "branches": {
+    "public": {
+      "buildid": "26245954",
+      "timeupdated": "1793195511",
+      "timebuildupdated": "1793111730"
+    },
+    "fallback": {
+      "buildid": "23933031",
+      "description": "If an update causes errors, you can use this branch to revert to the previous version",
+      "timeupdated": "1784036778",
+      "timebuildupdated": "1782483849"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1975581": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5451461973469803759",
+          "size": "873875419",
+          "download": "570499440"
+        }
+      }
+    },
+    "3311820": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7336263642254190389",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "3311820"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26245954",
+        "timeupdated": "1793195511",
+        "timebuildupdated": "1793111730"
+      },
+      "fallback": {
+        "buildid": "23933031",
+        "description": "If an update causes errors, you can use this branch to revert to the previous version",
+        "timeupdated": "1784036778",
+        "timebuildupdated": "1782483849"
+      }
+    }
+  }
+}

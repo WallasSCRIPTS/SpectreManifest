@@ -1,0 +1,82 @@
+{
+  "name": "WarriOrb",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:43.433Z",
+  "branches": {
+    "public": {
+      "buildid": "6594490",
+      "timeupdated": "1619266200",
+      "timebuildupdated": "1619260286"
+    },
+    "testing": {
+      "buildid": "6594490",
+      "description": "Stuff is most likely broken",
+      "timeupdated": "1619260666",
+      "timebuildupdated": "1619260286"
+    },
+    "testing_linux": {
+      "buildid": "5248438",
+      "description": "Stuff is most likely broken (but linux only)",
+      "timeupdated": "1595758591",
+      "timebuildupdated": "1593788948"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "790361": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "931268922191108799",
+          "size": "8386618766",
+          "download": "2812787552"
+        }
+      }
+    },
+    "790363": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5319854803704428369",
+          "size": "9521493760",
+          "download": "3201561168"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6594490",
+        "timeupdated": "1619266200",
+        "timebuildupdated": "1619260286"
+      },
+      "testing": {
+        "buildid": "6594490",
+        "description": "Stuff is most likely broken",
+        "timeupdated": "1619260666",
+        "timebuildupdated": "1619260286"
+      },
+      "testing_linux": {
+        "buildid": "5248438",
+        "description": "Stuff is most likely broken (but linux only)",
+        "timeupdated": "1595758591",
+        "timebuildupdated": "1593788948"
+      }
+    }
+  }
+}

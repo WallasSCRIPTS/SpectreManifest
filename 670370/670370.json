@@ -1,0 +1,51 @@
+{
+  "name": "Fallen Cube",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:40.418Z",
+  "branches": {
+    "public": {
+      "buildid": "2354142",
+      "timeupdated": "1512810823",
+      "timebuildupdated": "1512810744"
+    }
+  },
+  "depot": {
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "670371": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4392955024090338633",
+          "size": "181784978",
+          "download": "128523808"
+        }
+      }
+    },
+    "670372": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2354142",
+        "timeupdated": "1512810823",
+        "timebuildupdated": "1512810744"
+      }
+    }
+  }
+}

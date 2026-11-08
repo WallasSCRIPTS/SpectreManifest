@@ -1,0 +1,70 @@
+{
+  "name": "Car Puzzler",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:35.464Z",
+  "branches": {
+    "public": {
+      "buildid": "6274204",
+      "timeupdated": "1613980636",
+      "timebuildupdated": "1613978557"
+    },
+    "beta": {
+      "buildid": "6274204",
+      "description": "test builds",
+      "timeupdated": "1613980628",
+      "timebuildupdated": "1613978557"
+    }
+  },
+  "depot": {
+    "774192": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5405001060013166422",
+          "size": "90954450",
+          "download": "24591008"
+        }
+      }
+    },
+    "774193": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2913973172163725828",
+          "size": "136444787",
+          "download": "37211296"
+        }
+      }
+    },
+    "774194": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1812732526948813177",
+          "size": "136142090",
+          "download": "38451280"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6274204",
+        "timeupdated": "1613980636",
+        "timebuildupdated": "1613978557"
+      },
+      "beta": {
+        "buildid": "6274204",
+        "description": "test builds",
+        "timeupdated": "1613980628",
+        "timebuildupdated": "1613978557"
+      }
+    }
+  }
+}

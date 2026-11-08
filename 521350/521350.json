@@ -1,0 +1,64 @@
+{
+  "name": "Use Your Words",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:28.859Z",
+  "branches": {
+    "public": {
+      "buildid": "5117646",
+      "timeupdated": "1591231632",
+      "timebuildupdated": "1591227789"
+    },
+    "beta": {
+      "buildid": "1919958",
+      "description": "Public beta branch",
+      "timeupdated": "1498578920",
+      "timebuildupdated": "1498578864"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "521351": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3736413792101947272",
+          "size": "1053900335",
+          "download": "657028640"
+        }
+      }
+    },
+    "521352": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "221034150468592256",
+          "size": "1061106157",
+          "download": "659857728"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5117646",
+        "timeupdated": "1591231632",
+        "timebuildupdated": "1591227789"
+      },
+      "beta": {
+        "buildid": "1919958",
+        "description": "Public beta branch",
+        "timeupdated": "1498578920",
+        "timebuildupdated": "1498578864"
+      }
+    }
+  }
+}

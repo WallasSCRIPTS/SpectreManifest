@@ -1,0 +1,73 @@
+{
+  "name": "Prosystem",
+  "source": "spectre",
+  "changenumber": 40627240,
+  "updated": "2026-11-06T21:03:44.297Z",
+  "branches": {
+    "public": {
+      "buildid": "20833956",
+      "timeupdated": "1763418579",
+      "timebuildupdated": "1763416732"
+    },
+    "nightly": {
+      "buildid": "26457103",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793879526",
+      "timebuildupdated": "1793879526"
+    }
+  },
+  "depot": {
+    "1227481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6999322955619853607",
+          "size": "261515",
+          "download": "96704"
+        }
+      },
+      "dlcappid": "1227481"
+    },
+    "1789820": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2259353573900827931",
+          "size": "193555",
+          "download": "51056"
+        }
+      },
+      "dlcappid": "1227481"
+    },
+    "1789821": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2888427728339164808",
+          "size": "443451",
+          "download": "96528"
+        }
+      },
+      "dlcappid": "1227481"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833956",
+        "timeupdated": "1763418579",
+        "timebuildupdated": "1763416732"
+      },
+      "nightly": {
+        "buildid": "26457103",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793879526",
+        "timebuildupdated": "1793879526"
+      }
+    }
+  }
+}

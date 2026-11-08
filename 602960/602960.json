@@ -1,0 +1,107 @@
+{
+  "name": "Barotrauma",
+  "source": "spectre",
+  "changenumber": 40664263,
+  "updated": "2026-11-07T20:59:10.909Z",
+  "branches": {
+    "public": {
+      "buildid": "26144264",
+      "timeupdated": "1793097461",
+      "timebuildupdated": "1792702649"
+    },
+    "macos-compatibility": {
+      "buildid": "9659897",
+      "description": "Last build that supported macOS systems older than 10.15.",
+      "timeupdated": "1664982730",
+      "timebuildupdated": "1664982730"
+    },
+    "previous-version": {
+      "buildid": "22833777",
+      "description": "Previous major version, provided for backwards compatibility purposes",
+      "timeupdated": "1776763009",
+      "timebuildupdated": "1776427595"
+    },
+    "unstable": {
+      "buildid": "26480020",
+      "description": "Public unstable version",
+      "timeupdated": "1793955569",
+      "timebuildupdated": "1793955334"
+    }
+  },
+  "depot": {
+    "602961": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6470209665914082687",
+          "size": "1208583612",
+          "download": "1066444336"
+        }
+      }
+    },
+    "602962": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7783119840653138165",
+          "size": "1253015691",
+          "download": "1073656752"
+        }
+      }
+    },
+    "602963": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4260479467904691069",
+          "size": "1242282515",
+          "download": "1075112064"
+        }
+      }
+    },
+    "1197650": {
+      "manifests": {
+        "public": {
+          "gid": "4582887644478638575",
+          "size": "437541952",
+          "download": "432726192"
+        }
+      },
+      "dlcappid": "1197650"
+    },
+    "3714451": {
+      "dlcappid": "3714450"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26144264",
+        "timeupdated": "1793097461",
+        "timebuildupdated": "1792702649"
+      },
+      "macos-compatibility": {
+        "buildid": "9659897",
+        "description": "Last build that supported macOS systems older than 10.15.",
+        "timeupdated": "1664982730",
+        "timebuildupdated": "1664982730"
+      },
+      "previous-version": {
+        "buildid": "22833777",
+        "description": "Previous major version, provided for backwards compatibility purposes",
+        "timeupdated": "1776763009",
+        "timebuildupdated": "1776427595"
+      },
+      "unstable": {
+        "buildid": "26480020",
+        "description": "Public unstable version",
+        "timeupdated": "1793955569",
+        "timebuildupdated": "1793955334"
+      }
+    }
+  }
+}

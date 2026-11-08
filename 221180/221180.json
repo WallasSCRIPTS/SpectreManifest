@@ -1,0 +1,89 @@
+{
+  "name": "Eufloria HD",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:05.391Z",
+  "branches": {
+    "public": {
+      "buildid": "5272442",
+      "timeupdated": "1594459751",
+      "timebuildupdated": "1594345978"
+    },
+    "feb2015": {
+      "buildid": "5170485",
+      "timeupdated": "1594347616",
+      "timebuildupdated": "1592289746"
+    }
+  },
+  "depot": {
+    "221181": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2101304207072225407",
+          "size": "403837686",
+          "download": "347200224"
+        }
+      }
+    },
+    "221182": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4417486980090893177",
+          "size": "405936771",
+          "download": "350050000"
+        }
+      }
+    },
+    "221183": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2920009337459606923",
+          "size": "387506539",
+          "download": "348031520"
+        }
+      }
+    },
+    "228982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "327040": {
+      "manifests": {
+        "public": {
+          "gid": "3430467182818181831",
+          "size": "1881052357",
+          "download": "1627953200"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5272442",
+        "timeupdated": "1594459751",
+        "timebuildupdated": "1594345978"
+      },
+      "feb2015": {
+        "buildid": "5170485",
+        "timeupdated": "1594347616",
+        "timebuildupdated": "1592289746"
+      }
+    }
+  }
+}

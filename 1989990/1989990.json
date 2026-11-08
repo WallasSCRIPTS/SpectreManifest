@@ -1,0 +1,84 @@
+{
+  "name": "Touhou Crisis",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-06T23:15:27.308Z",
+  "branches": {
+    "public": {
+      "buildid": "8892114",
+      "timeupdated": "1654655273",
+      "timebuildupdated": "1654654680"
+    },
+    "devbranch": {
+      "buildid": "8892114",
+      "description": "Developers only",
+      "timeupdated": "1654654832",
+      "timebuildupdated": "1654654680"
+    }
+  },
+  "depot": {
+    "1989991": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4337509645859270187",
+          "size": "359261370",
+          "download": "175491952"
+        }
+      }
+    },
+    "1989992": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3460293352264217279",
+          "size": "366377053",
+          "download": "175977232"
+        }
+      }
+    },
+    "1989993": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1163346091185547338",
+          "size": "683677982",
+          "download": "393528224"
+        }
+      },
+      "dlcappid": "1990000"
+    },
+    "1989994": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4341236422769958994",
+          "size": "578025706",
+          "download": "383614240"
+        }
+      },
+      "dlcappid": "1990000"
+    },
+    "branches": {
+      "public": {
+        "buildid": "8892114",
+        "timeupdated": "1654655273",
+        "timebuildupdated": "1654654680"
+      },
+      "devbranch": {
+        "buildid": "8892114",
+        "description": "Developers only",
+        "timeupdated": "1654654832",
+        "timebuildupdated": "1654654680"
+      }
+    }
+  }
+}

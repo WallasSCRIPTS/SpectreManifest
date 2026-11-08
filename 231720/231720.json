@@ -1,0 +1,76 @@
+{
+  "name": "Bad Hotel",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:07.665Z",
+  "branches": {
+    "public": {
+      "buildid": "177583",
+      "timebuildupdated": "1391011077"
+    },
+    "beta": {
+      "buildid": "177583",
+      "timebuildupdated": "1391011077"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "231721": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8377982293003343448",
+          "size": "109910630",
+          "download": "0"
+        }
+      }
+    },
+    "231722": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7874523172632942008",
+          "size": "97852488",
+          "download": "0"
+        }
+      }
+    },
+    "231723": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3179995574799329105",
+          "size": "104774139",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "177583",
+        "timebuildupdated": "1391011077"
+      },
+      "beta": {
+        "buildid": "177583",
+        "timebuildupdated": "1391011077"
+      }
+    }
+  }
+}

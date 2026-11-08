@@ -1,0 +1,70 @@
+{
+  "name": "Squash and Spell",
+  "source": "spectre",
+  "changenumber": 37427131,
+  "updated": "2026-11-04T23:24:41.335Z",
+  "branches": {
+    "public": {
+      "buildid": "18536664",
+      "timeupdated": "1747758600",
+      "timebuildupdated": "1747758577"
+    },
+    "decimalseparator": {
+      "buildid": "21883605",
+      "description": "Decimal separator bug fix",
+      "timeupdated": "1770815436",
+      "timebuildupdated": "1770815435"
+    },
+    "workshop": {
+      "buildid": "21985767",
+      "description": "beta workshop support",
+      "timeupdated": "1771425943",
+      "timebuildupdated": "1771425943"
+    }
+  },
+  "depot": {
+    "3387971": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "823149704247834094",
+          "size": "155728817",
+          "download": "66464960"
+        }
+      }
+    },
+    "3387972": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7913874306941206701",
+          "size": "175119713",
+          "download": "73970944"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18536664",
+        "timeupdated": "1747758600",
+        "timebuildupdated": "1747758577"
+      },
+      "decimalseparator": {
+        "buildid": "21883605",
+        "description": "Decimal separator bug fix",
+        "timeupdated": "1770815436",
+        "timebuildupdated": "1770815435"
+      },
+      "workshop": {
+        "buildid": "21985767",
+        "description": "beta workshop support",
+        "timeupdated": "1771425943",
+        "timebuildupdated": "1771425943"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Hollow Knight: Silksong",
+  "source": "spectre",
+  "changenumber": 37546882,
+  "updated": "2026-11-07T21:02:37.550Z",
+  "branches": {
+    "public": {
+      "buildid": "22479045",
+      "timeupdated": "1774417075",
+      "timebuildupdated": "1774349009"
+    },
+    "public-beta": {
+      "buildid": "22479045",
+      "description": "Public testing branch",
+      "timeupdated": "1774393009",
+      "timebuildupdated": "1774349009"
+    }
+  },
+  "depot": {
+    "1030301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4421626056705534276",
+          "size": "8207380004",
+          "download": "2252028704"
+        }
+      }
+    },
+    "1030302": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4136280015582261500",
+          "size": "8260628780",
+          "download": "2265968544"
+        }
+      }
+    },
+    "1030303": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7921642076658611197",
+          "size": "8225770198",
+          "download": "2274106352"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22479045",
+        "timeupdated": "1774417075",
+        "timebuildupdated": "1774349009"
+      },
+      "public-beta": {
+        "buildid": "22479045",
+        "description": "Public testing branch",
+        "timeupdated": "1774393009",
+        "timebuildupdated": "1774349009"
+      }
+    }
+  }
+}

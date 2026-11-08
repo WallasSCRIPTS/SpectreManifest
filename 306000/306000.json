@@ -1,0 +1,58 @@
+{
+  "name": "Super Dungeon Bros",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:33.235Z",
+  "branches": {
+    "public": {
+      "buildid": "2236571",
+      "timeupdated": "1509120960",
+      "timebuildupdated": "1509120960"
+    },
+    "hordebeta": {
+      "buildid": "2110341",
+      "description": "Horde Mode Beta",
+      "timeupdated": "1505493559",
+      "timebuildupdated": "1505160851"
+    }
+  },
+  "depot": {
+    "306001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5814114672476052327",
+          "size": "3215325784",
+          "download": "2098185776"
+        }
+      }
+    },
+    "306002": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3246739059830989446",
+          "size": "3254318855",
+          "download": "2110454928"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2236571",
+        "timeupdated": "1509120960",
+        "timebuildupdated": "1509120960"
+      },
+      "hordebeta": {
+        "buildid": "2110341",
+        "description": "Horde Mode Beta",
+        "timeupdated": "1505493559",
+        "timebuildupdated": "1505160851"
+      }
+    }
+  }
+}

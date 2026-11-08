@@ -1,0 +1,80 @@
+{
+  "name": "Even the Ocean",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:17.222Z",
+  "branches": {
+    "public": {
+      "buildid": "5008836",
+      "timeupdated": "1589177576",
+      "timebuildupdated": "1589177576"
+    },
+    "1.010": {
+      "buildid": "1444991",
+      "description": "old v. 1.010",
+      "timeupdated": "1483377549",
+      "timebuildupdated": "1478557156"
+    },
+    "loctest": {
+      "buildid": "5008829",
+      "timeupdated": "1589177364",
+      "timebuildupdated": "1589177364"
+    },
+    "zh-hans": {
+      "buildid": "1848697",
+      "description": "Simplified Chinese Beta Test",
+      "timeupdated": "1495827871",
+      "timebuildupdated": "1495827871"
+    }
+  },
+  "depot": {
+    "265471": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2024543574259566759",
+          "size": "451793708",
+          "download": "380766832"
+        }
+      }
+    },
+    "265472": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1524226764615059290",
+          "size": "468442666",
+          "download": "384421680"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5008836",
+        "timeupdated": "1589177576",
+        "timebuildupdated": "1589177576"
+      },
+      "1.010": {
+        "buildid": "1444991",
+        "description": "old v. 1.010",
+        "timeupdated": "1483377549",
+        "timebuildupdated": "1478557156"
+      },
+      "loctest": {
+        "buildid": "5008829",
+        "timeupdated": "1589177364",
+        "timebuildupdated": "1589177364"
+      },
+      "zh-hans": {
+        "buildid": "1848697",
+        "description": "Simplified Chinese Beta Test",
+        "timeupdated": "1495827871",
+        "timebuildupdated": "1495827871"
+      }
+    }
+  }
+}

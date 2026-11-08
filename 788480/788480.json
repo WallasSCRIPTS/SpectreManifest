@@ -1,0 +1,70 @@
+{
+  "name": "Changeover: Decisions",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:42.484Z",
+  "branches": {
+    "public": {
+      "buildid": "2908220",
+      "timeupdated": "1530355902",
+      "timebuildupdated": "1530355306"
+    },
+    "beta": {
+      "buildid": "2908220",
+      "description": "For beta testing",
+      "timeupdated": "1530355476",
+      "timebuildupdated": "1530355306"
+    }
+  },
+  "depot": {
+    "788481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8112069068586220394",
+          "size": "338666827",
+          "download": "200356576"
+        }
+      }
+    },
+    "788482": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1455804308796912307",
+          "size": "350302893",
+          "download": "203827184"
+        }
+      }
+    },
+    "788483": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5056764629213457374",
+          "size": "387354692",
+          "download": "217477312"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2908220",
+        "timeupdated": "1530355902",
+        "timebuildupdated": "1530355306"
+      },
+      "beta": {
+        "buildid": "2908220",
+        "description": "For beta testing",
+        "timeupdated": "1530355476",
+        "timebuildupdated": "1530355306"
+      }
+    }
+  }
+}

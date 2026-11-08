@@ -1,0 +1,59 @@
+{
+  "name": "Monster Bash",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:07.482Z",
+  "branches": {
+    "public": {
+      "buildid": "606135",
+      "timebuildupdated": "1430315628"
+    }
+  },
+  "depot": {
+    "358211": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "258060931222263148",
+          "size": "31288750",
+          "download": "13432544"
+        }
+      }
+    },
+    "358212": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4046569484279945540",
+          "size": "37843459",
+          "download": "14973904"
+        }
+      }
+    },
+    "358213": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1424195501421999553",
+          "size": "11311839",
+          "download": "5524704"
+        }
+      }
+    },
+    "358282": {
+      "depotfromapp": "358280"
+    },
+    "branches": {
+      "public": {
+        "buildid": "606135",
+        "timebuildupdated": "1430315628"
+      }
+    }
+  }
+}

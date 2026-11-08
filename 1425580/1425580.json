@@ -1,0 +1,82 @@
+{
+  "name": "Last Soul",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-06T21:05:10.292Z",
+  "branches": {
+    "public": {
+      "buildid": "7637585",
+      "timeupdated": "1635782957",
+      "timebuildupdated": "1635782957"
+    },
+    "defaultmac": {
+      "buildid": "6270471",
+      "description": "Mac version",
+      "timeupdated": "1631545870",
+      "timebuildupdated": "1613856167"
+    },
+    "defaultwin": {
+      "buildid": "7350602",
+      "description": "Windows Branch",
+      "timeupdated": "1631547150",
+      "timebuildupdated": "1631547150"
+    }
+  },
+  "depot": {
+    "1425581": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2656789547641150417",
+          "size": "552042834",
+          "download": "81133264"
+        }
+      }
+    },
+    "1425582": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6022527012662771149",
+          "size": "576161379",
+          "download": "89021968"
+        }
+      }
+    },
+    "1425583": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6200315260768543080",
+          "size": "598141210",
+          "download": "83285184"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7637585",
+        "timeupdated": "1635782957",
+        "timebuildupdated": "1635782957"
+      },
+      "defaultmac": {
+        "buildid": "6270471",
+        "description": "Mac version",
+        "timeupdated": "1631545870",
+        "timebuildupdated": "1613856167"
+      },
+      "defaultwin": {
+        "buildid": "7350602",
+        "description": "Windows Branch",
+        "timeupdated": "1631547150",
+        "timebuildupdated": "1631547150"
+      }
+    }
+  }
+}

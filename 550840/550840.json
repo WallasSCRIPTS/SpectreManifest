@@ -1,0 +1,133 @@
+{
+  "name": "Fresh Body",
+  "source": "spectre",
+  "changenumber": 37436216,
+  "updated": "2026-11-07T20:58:42.357Z",
+  "branches": {
+    "public": {
+      "buildid": "4368264",
+      "timeupdated": "1573451049",
+      "timebuildupdated": "1573180341"
+    },
+    "beta": {
+      "buildid": "4368264",
+      "timeupdated": "1573184373",
+      "timebuildupdated": "1573180341"
+    },
+    "local": {
+      "buildid": "1573869",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1484658211",
+      "timebuildupdated": "1484658211"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "550841": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1266908688764987774",
+          "size": "1343405019",
+          "download": "1115568096"
+        }
+      }
+    },
+    "550842": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3804960119320103014",
+          "size": "1341749821",
+          "download": "1111967808"
+        }
+      }
+    },
+    "764340": {
+      "manifests": {
+        "public": {
+          "gid": "840977619225626297",
+          "size": "10",
+          "download": "64"
+        }
+      },
+      "dlcappid": "764340"
+    },
+    "772400": {
+      "manifests": {
+        "public": {
+          "gid": "881657866890351692",
+          "size": "37069079",
+          "download": "33002720"
+        }
+      },
+      "dlcappid": "772400"
+    },
+    "777290": {
+      "manifests": {
+        "public": {
+          "gid": "502405953814499389",
+          "size": "10",
+          "download": "64"
+        }
+      },
+      "dlcappid": "777290"
+    },
+    "863320": {
+      "dlcappid": "863320"
+    },
+    "branches": {
+      "public": {
+        "buildid": "4368264",
+        "timeupdated": "1573451049",
+        "timebuildupdated": "1573180341"
+      },
+      "beta": {
+        "buildid": "4368264",
+        "timeupdated": "1573184373",
+        "timebuildupdated": "1573180341"
+      },
+      "local": {
+        "buildid": "1573869",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1484658211",
+        "timebuildupdated": "1484658211"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "40 Days",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:17.148Z",
+  "branches": {
+    "public": {
+      "buildid": "6096800",
+      "timeupdated": "1610945206",
+      "timebuildupdated": "1610944309"
+    },
+    "beta": {
+      "buildid": "6096800",
+      "description": "Beta version",
+      "timeupdated": "1610944404",
+      "timebuildupdated": "1610944309"
+    }
+  },
+  "depot": {
+    "737601": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4317352152653775976",
+          "size": "549849099",
+          "download": "191782992"
+        }
+      }
+    },
+    "737602": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3892764581468905071",
+          "size": "541926038",
+          "download": "189879328"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6096800",
+        "timeupdated": "1610945206",
+        "timebuildupdated": "1610944309"
+      },
+      "beta": {
+        "buildid": "6096800",
+        "description": "Beta version",
+        "timeupdated": "1610944404",
+        "timebuildupdated": "1610944309"
+      }
+    }
+  }
+}

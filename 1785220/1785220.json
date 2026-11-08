@@ -1,0 +1,64 @@
+{
+  "name": "マジカオス",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:09:47.194Z",
+  "branches": {
+    "public": {
+      "buildid": "13962221",
+      "timeupdated": "1712317330",
+      "timebuildupdated": "1712317330"
+    },
+    "open_beta": {
+      "buildid": "16892641",
+      "description": "オープンベータ",
+      "timeupdated": "1735833060",
+      "timebuildupdated": "1735833060"
+    }
+  },
+  "depot": {
+    "229005": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1785221": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9150018332938985740",
+          "size": "609829849",
+          "download": "446122880"
+        }
+      }
+    },
+    "1785222": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5461365300934124529",
+          "size": "4060145023",
+          "download": "928471600"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13962221",
+        "timeupdated": "1712317330",
+        "timebuildupdated": "1712317330"
+      },
+      "open_beta": {
+        "buildid": "16892641",
+        "description": "オープンベータ",
+        "timeupdated": "1735833060",
+        "timebuildupdated": "1735833060"
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Yuligans: Christmas is Coming!",
+  "source": "spectre",
+  "changenumber": 40618081,
+  "updated": "2026-11-06T21:05:25.575Z",
+  "branches": {
+    "public": {
+      "buildid": "9975881",
+      "timeupdated": "1669171529",
+      "timebuildupdated": "1668886399"
+    },
+    "compatibility": {
+      "buildid": "7945204",
+      "description": "Uses older version of Unreal Engine for compatibility issues.",
+      "timeupdated": "1640633116",
+      "timebuildupdated": "1640633116"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1457991": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5575295279767412241",
+          "size": "293829168",
+          "download": "191140704"
+        }
+      }
+    },
+    "1457992": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7535851305300616287",
+          "size": "258703315",
+          "download": "147260768"
+        }
+      }
+    },
+    "1457993": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6527509282216172787",
+          "size": "393498723",
+          "download": "168349184"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9975881",
+        "timeupdated": "1669171529",
+        "timebuildupdated": "1668886399"
+      },
+      "compatibility": {
+        "buildid": "7945204",
+        "description": "Uses older version of Unreal Engine for compatibility issues.",
+        "timeupdated": "1640633116",
+        "timebuildupdated": "1640633116"
+      }
+    }
+  }
+}

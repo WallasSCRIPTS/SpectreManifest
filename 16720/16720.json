@@ -1,0 +1,50 @@
+{
+  "name": "Velvet Assassin",
+  "source": "spectre",
+  "changenumber": 37669313,
+  "updated": "2026-11-07T20:55:46.681Z",
+  "branches": {
+    "public": {
+      "buildid": "47832",
+      "timebuildupdated": "1362062203"
+    }
+  },
+  "depot": {
+    "16721": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8614141129041293592",
+          "size": "4668854098",
+          "download": "0"
+        }
+      }
+    },
+    "16722": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8100128957694132055",
+          "size": "4599273036",
+          "download": "0"
+        }
+      }
+    },
+    "229031": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "47832",
+        "timebuildupdated": "1362062203"
+      }
+    }
+  }
+}

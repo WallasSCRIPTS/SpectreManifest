@@ -1,0 +1,59 @@
+{
+  "name": "Contain",
+  "source": "spectre",
+  "changenumber": 40506051,
+  "updated": "2026-11-06T23:19:28.857Z",
+  "branches": {
+    "public": {
+      "buildid": "24292651",
+      "timeupdated": "1785228364",
+      "timebuildupdated": "1784537388"
+    },
+    "player-test-brach": {
+      "buildid": "21515381",
+      "description": "Test Branch for Players",
+      "timeupdated": "1768512122",
+      "timebuildupdated": "1768509112"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2186701": {
+      "manifests": {
+        "public": {
+          "gid": "478783511670249889",
+          "size": "25914684785",
+          "download": "25361002640"
+        }
+      }
+    },
+    "2186702": {},
+    "2871230": {
+      "dlcappid": "2871230"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24292651",
+        "timeupdated": "1785228364",
+        "timebuildupdated": "1784537388"
+      },
+      "player-test-brach": {
+        "buildid": "21515381",
+        "description": "Test Branch for Players",
+        "timeupdated": "1768512122",
+        "timebuildupdated": "1768509112"
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Offroad Truck Racing",
+  "source": "spectre",
+  "changenumber": 34865670,
+  "updated": "2026-11-06T21:06:30.500Z",
+  "branches": {
+    "public": {
+      "buildid": "10819958",
+      "timeupdated": "1679405042",
+      "timebuildupdated": "1679404727"
+    },
+    "defaultlinux": {
+      "buildid": "10820001",
+      "description": "linux",
+      "timeupdated": "1679405060",
+      "timebuildupdated": "1679405060"
+    },
+    "defaultmac": {
+      "buildid": "10820010",
+      "description": "macos",
+      "timeupdated": "1679405094",
+      "timebuildupdated": "1679405094"
+    }
+  },
+  "depot": {
+    "1599671": {
+      "manifests": {
+        "public": {
+          "gid": "6322573235893191053",
+          "size": "117982287",
+          "download": "39795712"
+        }
+      }
+    },
+    "1599672": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "1599673": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10819958",
+        "timeupdated": "1679405042",
+        "timebuildupdated": "1679404727"
+      },
+      "defaultlinux": {
+        "buildid": "10820001",
+        "description": "linux",
+        "timeupdated": "1679405060",
+        "timebuildupdated": "1679405060"
+      },
+      "defaultmac": {
+        "buildid": "10820010",
+        "description": "macos",
+        "timeupdated": "1679405094",
+        "timebuildupdated": "1679405094"
+      }
+    }
+  }
+}

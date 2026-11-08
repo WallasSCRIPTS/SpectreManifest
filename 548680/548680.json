@@ -1,0 +1,70 @@
+{
+  "name": "Iron Crypticle",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:41.308Z",
+  "branches": {
+    "public": {
+      "buildid": "10099430",
+      "timeupdated": "1670438052",
+      "timebuildupdated": "1670437558"
+    },
+    "compatibility": {
+      "buildid": "2046538",
+      "description": "Previous stable build",
+      "timeupdated": "1656407329",
+      "timebuildupdated": "1502972400"
+    },
+    "steamdecktest": {
+      "buildid": "9019941",
+      "description": "Test for Steam Deck",
+      "timeupdated": "1656407348",
+      "timebuildupdated": "1656407046"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "548681": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5649686886660732872",
+          "size": "97859770",
+          "download": "59160784"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10099430",
+        "timeupdated": "1670438052",
+        "timebuildupdated": "1670437558"
+      },
+      "compatibility": {
+        "buildid": "2046538",
+        "description": "Previous stable build",
+        "timeupdated": "1656407329",
+        "timebuildupdated": "1502972400"
+      },
+      "steamdecktest": {
+        "buildid": "9019941",
+        "description": "Test for Steam Deck",
+        "timeupdated": "1656407348",
+        "timebuildupdated": "1656407046"
+      }
+    }
+  }
+}

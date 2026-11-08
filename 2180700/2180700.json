@@ -1,0 +1,52 @@
+{
+  "name": "ABI-DOS",
+  "source": "spectre",
+  "changenumber": 40642006,
+  "updated": "2026-11-06T23:19:28.153Z",
+  "branches": {
+    "public": {
+      "buildid": "17769329",
+      "timeupdated": "1742320378",
+      "timebuildupdated": "1742320304"
+    },
+    "beta": {
+      "buildid": "17002686",
+      "description": "beta-testing new features",
+      "timeupdated": "1738528856",
+      "timebuildupdated": "1736874888"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2180701": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3269240194076402282",
+          "size": "539995965",
+          "download": "427039856"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17769329",
+        "timeupdated": "1742320378",
+        "timebuildupdated": "1742320304"
+      },
+      "beta": {
+        "buildid": "17002686",
+        "description": "beta-testing new features",
+        "timeupdated": "1738528856",
+        "timebuildupdated": "1736874888"
+      }
+    }
+  }
+}

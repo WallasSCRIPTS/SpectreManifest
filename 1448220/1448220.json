@@ -1,0 +1,82 @@
+{
+  "name": "KONSAIRI",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:20.826Z",
+  "branches": {
+    "public": {
+      "buildid": "6858601",
+      "timeupdated": "1623513959",
+      "timebuildupdated": "1623513712"
+    },
+    "pro1.1": {
+      "buildid": "6016743",
+      "description": "professional 1.1x",
+      "timeupdated": "1609064210",
+      "timebuildupdated": "1609064210"
+    },
+    "pro1.2": {
+      "buildid": "6858601",
+      "description": "professional 1.2x",
+      "timeupdated": "1623513712",
+      "timebuildupdated": "1623513712"
+    }
+  },
+  "depot": {
+    "1448221": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7172136671192711000",
+          "size": "3152299",
+          "download": "999232"
+        }
+      }
+    },
+    "1448223": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2156743348967091836",
+          "size": "11029186",
+          "download": "1337904"
+        }
+      }
+    },
+    "1448224": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2560386548451375627",
+          "size": "1674153",
+          "download": "674384"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6858601",
+        "timeupdated": "1623513959",
+        "timebuildupdated": "1623513712"
+      },
+      "pro1.1": {
+        "buildid": "6016743",
+        "description": "professional 1.1x",
+        "timeupdated": "1609064210",
+        "timebuildupdated": "1609064210"
+      },
+      "pro1.2": {
+        "buildid": "6858601",
+        "description": "professional 1.2x",
+        "timeupdated": "1623513712",
+        "timebuildupdated": "1623513712"
+      }
+    }
+  }
+}

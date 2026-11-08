@@ -1,0 +1,80 @@
+{
+  "name": "EDGE",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:53.469Z",
+  "branches": {
+    "public": {
+      "buildid": "5360250",
+      "timeupdated": "1596297132",
+      "timebuildupdated": "1596297131"
+    }
+  },
+  "depot": {
+    "38741": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5391298578565460953",
+          "size": "120038388",
+          "download": "0"
+        }
+      }
+    },
+    "38742": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2765061051598399048",
+          "size": "124728688",
+          "download": "85886384"
+        }
+      }
+    },
+    "38743": {
+      "manifests": {
+        "public": {
+          "gid": "1459470264691022410",
+          "size": "776165",
+          "download": "0"
+        }
+      },
+      "dlcappid": "38743"
+    },
+    "38744": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3810736947388024555",
+          "size": "129567732",
+          "download": "87048176"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "5360250",
+        "timeupdated": "1596297132",
+        "timebuildupdated": "1596297131"
+      }
+    }
+  }
+}

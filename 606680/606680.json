@@ -1,0 +1,84 @@
+{
+  "name": "Silver",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:12.768Z",
+  "branches": {
+    "public": {
+      "buildid": "1938831",
+      "timeupdated": "1499274483",
+      "timebuildupdated": "1499274483"
+    },
+    "publicbeta": {
+      "buildid": "1934152",
+      "timeupdated": "1499115668",
+      "timebuildupdated": "1499115667"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "606681": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1882163069931705787",
+          "size": "1889540215",
+          "download": "1797028832"
+        }
+      }
+    },
+    "606682": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "599764493295164108",
+          "size": "1901498029",
+          "download": "1799114640"
+        }
+      }
+    },
+    "606683": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7666148832679668817",
+          "size": "1899472198",
+          "download": "1800146288"
+        }
+      }
+    },
+    "647970": {
+      "manifests": {
+        "public": {
+          "gid": "367635720201267362",
+          "size": "136773062",
+          "download": "105283104"
+        }
+      },
+      "dlcappid": "647970"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1938831",
+        "timeupdated": "1499274483",
+        "timebuildupdated": "1499274483"
+      },
+      "publicbeta": {
+        "buildid": "1934152",
+        "timeupdated": "1499115668",
+        "timebuildupdated": "1499115667"
+      }
+    }
+  }
+}

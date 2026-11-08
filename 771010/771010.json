@@ -1,0 +1,68 @@
+{
+  "name": "Containment",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:33.943Z",
+  "branches": {
+    "public": {
+      "buildid": "2938414",
+      "timeupdated": "1531368315",
+      "timebuildupdated": "1531357552"
+    },
+    "test": {
+      "buildid": "2938414",
+      "timeupdated": "1531357634",
+      "timebuildupdated": "1531357552"
+    }
+  },
+  "depot": {
+    "771011": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1647264363353928351",
+          "size": "118980562",
+          "download": "42520448"
+        }
+      }
+    },
+    "771012": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7058251614214120389",
+          "size": "172702863",
+          "download": "57415184"
+        }
+      }
+    },
+    "771013": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8027677339953815241",
+          "size": "134298442",
+          "download": "48007776"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2938414",
+        "timeupdated": "1531368315",
+        "timebuildupdated": "1531357552"
+      },
+      "test": {
+        "buildid": "2938414",
+        "timeupdated": "1531357634",
+        "timebuildupdated": "1531357552"
+      }
+    }
+  }
+}

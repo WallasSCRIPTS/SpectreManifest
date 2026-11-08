@@ -1,0 +1,471 @@
+{
+  "name": "Total War: EMPIRE - Definitive Edition",
+  "source": "spectre",
+  "changenumber": 40488708,
+  "updated": "2026-11-07T20:55:44.724Z",
+  "branches": {
+    "public": {
+      "buildid": "11084729",
+      "timeupdated": "1682416873",
+      "timebuildupdated": "1682416873"
+    },
+    "mac_linux_1_3": {
+      "buildid": "11589369",
+      "description": "Mac 1.3 - Use for legacy OS X 10.10 or older systems",
+      "timeupdated": "1688050282",
+      "timebuildupdated": "1688050282"
+    },
+    "mac_linux_mp_beta": {
+      "buildid": "11589404",
+      "description": "Mac v.s. Linux MP Support",
+      "timeupdated": "1688050472",
+      "timebuildupdated": "1688050472"
+    },
+    "mac_retail_1.4": {
+      "buildid": "11589424",
+      "description": "macOS 10.14.6 or older only",
+      "timeupdated": "1688050561",
+      "timebuildupdated": "1688050561"
+    }
+  },
+  "depot": {
+    "10501": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5930767782103031309",
+          "size": "16851855311",
+          "download": "10138281648"
+        }
+      }
+    },
+    "10502": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7387163615798417690",
+          "size": "95987790",
+          "download": "0"
+        }
+      }
+    },
+    "10503": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3340278366264336227",
+          "size": "348360962",
+          "download": "0"
+        }
+      }
+    },
+    "10504": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7679347335513467097",
+          "size": "16711680",
+          "download": "5733024"
+        }
+      }
+    },
+    "10505": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4472620594849327700",
+          "size": "369227821",
+          "download": "0"
+        }
+      }
+    },
+    "10506": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "844048769843957788",
+          "size": "378029361",
+          "download": "0"
+        }
+      }
+    },
+    "10507": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3091858230632820503",
+          "size": "373974991",
+          "download": "0"
+        }
+      }
+    },
+    "10508": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3582190458296267411",
+          "size": "359892781",
+          "download": "0"
+        }
+      }
+    },
+    "10509": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8655872423351573191",
+          "size": "343815870",
+          "download": "0"
+        }
+      }
+    },
+    "10512": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5404307395914481767",
+          "size": "359064506",
+          "download": "0"
+        }
+      }
+    },
+    "10513": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4873417533857752448",
+          "size": "368798603",
+          "download": "0"
+        }
+      }
+    },
+    "10514": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "215010700741799083",
+          "size": "512869707",
+          "download": "0"
+        }
+      }
+    },
+    "287000": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3675256394348031686",
+          "size": "89182734",
+          "download": "42815888"
+        }
+      }
+    },
+    "287001": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9129385144369935451",
+          "size": "17540127331",
+          "download": "10526096112"
+        }
+      }
+    },
+    "287002": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5086661385401387004",
+          "size": "348360962",
+          "download": "293857696"
+        }
+      }
+    },
+    "287003": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6615080417230566975",
+          "size": "369227821",
+          "download": "311256128"
+        }
+      }
+    },
+    "287004": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1266559152315548401",
+          "size": "378029361",
+          "download": "310917936"
+        }
+      }
+    },
+    "287005": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6847397441116828552",
+          "size": "373974991",
+          "download": "318029040"
+        }
+      }
+    },
+    "287006": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5099188227823528906",
+          "size": "359892781",
+          "download": "305033088"
+        }
+      }
+    },
+    "287007": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6572401452298451010",
+          "size": "343815870",
+          "download": "315070432"
+        }
+      }
+    },
+    "287008": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "16948503789720973",
+          "size": "359064506",
+          "download": "305192576"
+        }
+      }
+    },
+    "287009": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4147755542519171031",
+          "size": "368798603",
+          "download": "309472656"
+        }
+      }
+    },
+    "287010": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9176010192332082625",
+          "size": "512869707",
+          "download": "340213376"
+        }
+      }
+    },
+    "287011": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5703142825583010873",
+          "size": "105535201",
+          "download": "867293136"
+        }
+      }
+    },
+    "287012": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2823813785999075028",
+          "size": "17120162196",
+          "download": "4732918192592"
+        }
+      }
+    },
+    "287013": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1903850603256320684",
+          "size": "348360964",
+          "download": "2084908072"
+        }
+      }
+    },
+    "287014": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2672423716426540951",
+          "size": "378029363",
+          "download": "2280823848"
+        }
+      }
+    },
+    "287015": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5780882482562071283",
+          "size": "369227823",
+          "download": "122996247760"
+        }
+      }
+    },
+    "287016": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2765081268623667819",
+          "size": "359892783",
+          "download": "76304513440"
+        }
+      }
+    },
+    "287017": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1412708803271992521",
+          "size": "373974993",
+          "download": "125459721336"
+        }
+      }
+    },
+    "287018": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3601366911083826077",
+          "size": "343815872",
+          "download": "74183311160"
+        }
+      }
+    },
+    "287019": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6374581539151805695",
+          "size": "359064508",
+          "download": "75855883264"
+        }
+      }
+    },
+    "319590": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "819716869219366270",
+          "size": "368798605",
+          "download": "78099862976"
+        }
+      }
+    },
+    "319591": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "237234264858706107",
+          "size": "512869709",
+          "download": "18189845064"
+        }
+      }
+    },
+    "319592": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11084729",
+        "timeupdated": "1682416873",
+        "timebuildupdated": "1682416873"
+      },
+      "mac_linux_1_3": {
+        "buildid": "11589369",
+        "description": "Mac 1.3 - Use for legacy OS X 10.10 or older systems",
+        "timeupdated": "1688050282",
+        "timebuildupdated": "1688050282"
+      },
+      "mac_linux_mp_beta": {
+        "buildid": "11589404",
+        "description": "Mac v.s. Linux MP Support",
+        "timeupdated": "1688050472",
+        "timebuildupdated": "1688050472"
+      },
+      "mac_retail_1.4": {
+        "buildid": "11589424",
+        "description": "macOS 10.14.6 or older only",
+        "timeupdated": "1688050561",
+        "timebuildupdated": "1688050561"
+      }
+    }
+  }
+}

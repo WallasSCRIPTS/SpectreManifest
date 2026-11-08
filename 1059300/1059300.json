@@ -1,0 +1,76 @@
+{
+  "name": "Gravitura",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:02:51.418Z",
+  "branches": {
+    "public": {
+      "buildid": "4429962",
+      "timeupdated": "1574826103",
+      "timebuildupdated": "1574825773"
+    },
+    "beta": {
+      "buildid": "4429962",
+      "description": "Beta Branch",
+      "timeupdated": "1574826118",
+      "timebuildupdated": "1574825773"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1059301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6310053249795685916",
+          "size": "335622626",
+          "download": "202741392"
+        }
+      }
+    },
+    "1059302": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8866729738282419610",
+          "size": "357532155",
+          "download": "201576960"
+        }
+      }
+    },
+    "1059303": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6568131821638357221",
+          "size": "368355506",
+          "download": "212704048"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4429962",
+        "timeupdated": "1574826103",
+        "timebuildupdated": "1574825773"
+      },
+      "beta": {
+        "buildid": "4429962",
+        "description": "Beta Branch",
+        "timeupdated": "1574826118",
+        "timebuildupdated": "1574825773"
+      }
+    }
+  }
+}

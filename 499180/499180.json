@@ -1,0 +1,58 @@
+{
+  "name": "Braid, Anniversary Edition",
+  "source": "spectre",
+  "changenumber": 37435436,
+  "updated": "2026-11-07T20:58:18.311Z",
+  "branches": {
+    "public": {
+      "buildid": "17018253",
+      "timeupdated": "1736976917",
+      "timebuildupdated": "1736976868"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "499181": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7776317088776998856",
+          "size": "3070711959",
+          "download": "3030815056"
+        }
+      }
+    },
+    "499182": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6016545461369022897",
+          "size": "4306575411",
+          "download": "4135635760"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17018253",
+        "timeupdated": "1736976917",
+        "timebuildupdated": "1736976868"
+      }
+    }
+  }
+}

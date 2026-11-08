@@ -1,0 +1,67 @@
+{
+  "name": "Child of Lothian",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-06T23:09:43.998Z",
+  "branches": {
+    "public": {
+      "buildid": "9094127",
+      "timeupdated": "1657457443",
+      "timebuildupdated": "1657455566"
+    },
+    "debug": {
+      "buildid": "9076752",
+      "description": "debug",
+      "timeupdated": "1657179685",
+      "timebuildupdated": "1657179685"
+    },
+    "shipping": {
+      "buildid": "9094127",
+      "description": "shipping",
+      "timeupdated": "1657455566",
+      "timebuildupdated": "1657455566"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1761261": {
+      "manifests": {
+        "public": {
+          "gid": "454547477018284057",
+          "size": "4314296972",
+          "download": "4079683936"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9094127",
+        "timeupdated": "1657457443",
+        "timebuildupdated": "1657455566"
+      },
+      "debug": {
+        "buildid": "9076752",
+        "description": "debug",
+        "timeupdated": "1657179685",
+        "timebuildupdated": "1657179685"
+      },
+      "shipping": {
+        "buildid": "9094127",
+        "description": "shipping",
+        "timeupdated": "1657455566",
+        "timebuildupdated": "1657455566"
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Rumpus",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:58:37.655Z",
+  "branches": {
+    "public": {
+      "buildid": "1771120",
+      "timeupdated": "1492813780",
+      "timebuildupdated": "1492720176"
+    },
+    "beta": {
+      "buildid": "1771120",
+      "description": "Last update test before it goes live",
+      "timeupdated": "1492720340",
+      "timebuildupdated": "1492720176"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "542221": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2726659572987799072",
+          "size": "1626462198",
+          "download": "64653104"
+        }
+      }
+    },
+    "542222": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6842081016783278978",
+          "size": "1664768313",
+          "download": "75623632"
+        }
+      }
+    },
+    "542223": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3510212289589024001",
+          "size": "1649718915",
+          "download": "73778368"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1771120",
+        "timeupdated": "1492813780",
+        "timebuildupdated": "1492720176"
+      },
+      "beta": {
+        "buildid": "1771120",
+        "description": "Last update test before it goes live",
+        "timeupdated": "1492720340",
+        "timebuildupdated": "1492720176"
+      }
+    }
+  }
+}

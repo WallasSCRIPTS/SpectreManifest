@@ -1,0 +1,72 @@
+{
+  "name": "Omega Crafter",
+  "source": "spectre",
+  "changenumber": 39454639,
+  "updated": "2026-11-06T23:21:22.494Z",
+  "branches": {
+    "public": {
+      "buildid": "20489804",
+      "timeupdated": "1761102547",
+      "timebuildupdated": "1761098684"
+    },
+    "api-experimental": {
+      "buildid": "20490892",
+      "description": "Experimental build of the Omega Crfter API",
+      "timeupdated": "1761107217",
+      "timebuildupdated": "1761106232"
+    },
+    "local": {
+      "buildid": "10773117",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1678869149",
+      "timebuildupdated": "1678869149"
+    }
+  },
+  "depot": {
+    "2262083": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4656320161239073929",
+          "size": "3188801857",
+          "download": "2411937232"
+        }
+      }
+    },
+    "2262084": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4357881619898559999",
+          "size": "3339489310",
+          "download": "2453845488"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20489804",
+        "timeupdated": "1761102547",
+        "timebuildupdated": "1761098684"
+      },
+      "api-experimental": {
+        "buildid": "20490892",
+        "description": "Experimental build of the Omega Crfter API",
+        "timeupdated": "1761107217",
+        "timebuildupdated": "1761106232"
+      },
+      "local": {
+        "buildid": "10773117",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1678869149",
+        "timebuildupdated": "1678869149"
+      }
+    }
+  }
+}

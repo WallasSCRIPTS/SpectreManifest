@@ -1,0 +1,52 @@
+{
+  "name": "BAFL - Brakes Are For Losers",
+  "source": "spectre",
+  "changenumber": 39657116,
+  "updated": "2026-11-07T20:58:55.215Z",
+  "branches": {
+    "public": {
+      "buildid": "2697774",
+      "timeupdated": "1524137451",
+      "timebuildupdated": "1524010315"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "573071": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5354541591109266975",
+          "size": "605321201",
+          "download": "236881712"
+        }
+      }
+    },
+    "573072": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5233212171508883767",
+          "size": "631955496",
+          "download": "243246880"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2697774",
+        "timeupdated": "1524137451",
+        "timebuildupdated": "1524010315"
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "name": "Hypatia",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:33.599Z",
+  "branches": {
+    "public": {
+      "buildid": "5824009",
+      "timeupdated": "1605236427",
+      "timebuildupdated": "1605232507"
+    },
+    "local": {
+      "buildid": "1878017",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1496964029",
+      "timebuildupdated": "1496951485"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "401971": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3410384932121685477",
+          "size": "7443914415",
+          "download": "6528145456"
+        }
+      }
+    },
+    "401972": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1486538539776772953",
+          "size": "8603964595",
+          "download": "6928515968"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5824009",
+        "timeupdated": "1605236427",
+        "timebuildupdated": "1605232507"
+      },
+      "local": {
+        "buildid": "1878017",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1496964029",
+        "timebuildupdated": "1496951485"
+      }
+    }
+  }
+}

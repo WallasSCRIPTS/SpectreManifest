@@ -1,0 +1,57 @@
+{
+  "name": "Home Domes",
+  "source": "spectre",
+  "changenumber": 34862068,
+  "updated": "2026-11-05T14:57:12.480Z",
+  "branches": {
+    "public": {
+      "buildid": "16457748",
+      "timeupdated": "1732016096",
+      "timebuildupdated": "1732015991"
+    },
+    "local": {
+      "buildid": "8135973",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1643859358",
+      "timebuildupdated": "1643859358"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1513161": {
+      "manifests": {
+        "public": {
+          "gid": "5375029470895898499",
+          "size": "21611549908",
+          "download": "20606617648"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16457748",
+        "timeupdated": "1732016096",
+        "timebuildupdated": "1732015991"
+      },
+      "local": {
+        "buildid": "8135973",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1643859358",
+        "timebuildupdated": "1643859358"
+      }
+    }
+  }
+}

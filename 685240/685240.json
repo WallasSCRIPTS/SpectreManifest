@@ -1,0 +1,100 @@
+{
+  "name": "Paradiddle",
+  "source": "spectre",
+  "changenumber": 39905849,
+  "updated": "2026-11-07T20:59:47.771Z",
+  "branches": {
+    "public": {
+      "buildid": "23237248",
+      "timeupdated": "1779124415",
+      "timebuildupdated": "1778774389"
+    },
+    "pre-v1": {
+      "buildid": "8594234",
+      "description": "Reverts the app back to the 2 year old version before V1. For testing purposes.",
+      "timeupdated": "1668137727",
+      "timebuildupdated": "1650507685"
+    },
+    "prev_version": {
+      "buildid": "17231324",
+      "description": "Roll back to the previous version.",
+      "timeupdated": "1772658869",
+      "timebuildupdated": "1738629351"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "685241": {
+      "manifests": {
+        "public": {
+          "gid": "6190900245663346445",
+          "size": "2714373970",
+          "download": "2346798912"
+        }
+      }
+    },
+    "2854960": {
+      "manifests": {
+        "public": {
+          "gid": "662983641413958302",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "2854960"
+    },
+    "3134110": {
+      "manifests": {
+        "public": {
+          "gid": "3203373432753875011",
+          "size": "482704699",
+          "download": "478874176"
+        }
+      },
+      "dlcappid": "3134110"
+    },
+    "3373930": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4848815721096754874",
+          "size": "430925917",
+          "download": "429072816"
+        }
+      },
+      "dlcappid": "3373930"
+    },
+    "branches": {
+      "public": {
+        "buildid": "23237248",
+        "timeupdated": "1779124415",
+        "timebuildupdated": "1778774389"
+      },
+      "pre-v1": {
+        "buildid": "8594234",
+        "description": "Reverts the app back to the 2 year old version before V1. For testing purposes.",
+        "timeupdated": "1668137727",
+        "timebuildupdated": "1650507685"
+      },
+      "prev_version": {
+        "buildid": "17231324",
+        "description": "Roll back to the previous version.",
+        "timeupdated": "1772658869",
+        "timebuildupdated": "1738629351"
+      }
+    }
+  }
+}

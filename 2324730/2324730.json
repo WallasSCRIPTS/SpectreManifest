@@ -1,0 +1,58 @@
+{
+  "name": "Necogram",
+  "source": "spectre",
+  "changenumber": 40093747,
+  "updated": "2026-11-06T23:21:29.577Z",
+  "branches": {
+    "public": {
+      "buildid": "26111020",
+      "timeupdated": "1792598251",
+      "timebuildupdated": "1792598177"
+    },
+    "linux": {
+      "buildid": "10863752",
+      "description": "linux",
+      "timeupdated": "1679918993",
+      "timebuildupdated": "1679918992"
+    }
+  },
+  "depot": {
+    "2324731": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1230621518246563121",
+          "size": "50957904",
+          "download": "21493536"
+        }
+      }
+    },
+    "2324732": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8949635900088410678",
+          "size": "59908072",
+          "download": "24560048"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26111020",
+        "timeupdated": "1792598251",
+        "timebuildupdated": "1792598177"
+      },
+      "linux": {
+        "buildid": "10863752",
+        "description": "linux",
+        "timeupdated": "1679918993",
+        "timebuildupdated": "1679918992"
+      }
+    }
+  }
+}

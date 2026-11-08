@@ -1,0 +1,58 @@
+{
+  "name": "Bunny's Trail",
+  "source": "spectre",
+  "changenumber": 35946306,
+  "updated": "2026-11-06T21:05:12.819Z",
+  "branches": {
+    "public": {
+      "buildid": "5797871",
+      "timeupdated": "1604761224",
+      "timebuildupdated": "1604761194"
+    },
+    "beta": {
+      "buildid": "5797871",
+      "description": "Tests only",
+      "timeupdated": "1604761251",
+      "timebuildupdated": "1604761194"
+    }
+  },
+  "depot": {
+    "1431191": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "29247809525622641",
+          "size": "373630280",
+          "download": "91522416"
+        }
+      }
+    },
+    "1431192": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "199681170188878793",
+          "size": "387616179",
+          "download": "96575344"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5797871",
+        "timeupdated": "1604761224",
+        "timebuildupdated": "1604761194"
+      },
+      "beta": {
+        "buildid": "5797871",
+        "description": "Tests only",
+        "timeupdated": "1604761251",
+        "timebuildupdated": "1604761194"
+      }
+    }
+  }
+}

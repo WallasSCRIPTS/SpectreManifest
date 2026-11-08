@@ -1,0 +1,82 @@
+{
+  "name": "Space Pirates and Zombies",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:59.378Z",
+  "branches": {
+    "public": {
+      "buildid": "8591595",
+      "timeupdated": "1650476017",
+      "timebuildupdated": "1650475699"
+    },
+    "spaz_2011": {
+      "buildid": "150446",
+      "description": "2011 Open GL default SPAZ",
+      "timeupdated": "1600967062",
+      "timebuildupdated": "1385750280"
+    },
+    "win10beta": {
+      "buildid": "8591595",
+      "description": "Windows 10 Black Screen Fix?",
+      "timeupdated": "1650475699",
+      "timebuildupdated": "1650475699"
+    }
+  },
+  "depot": {
+    "107202": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2583687843857908812",
+          "size": "164705482",
+          "download": "155943392"
+        }
+      }
+    },
+    "107203": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7497967792110660350",
+          "size": "167900799",
+          "download": "0"
+        }
+      }
+    },
+    "107204": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8971915222579962322",
+          "size": "166954011",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8591595",
+        "timeupdated": "1650476017",
+        "timebuildupdated": "1650475699"
+      },
+      "spaz_2011": {
+        "buildid": "150446",
+        "description": "2011 Open GL default SPAZ",
+        "timeupdated": "1600967062",
+        "timebuildupdated": "1385750280"
+      },
+      "win10beta": {
+        "buildid": "8591595",
+        "description": "Windows 10 Black Screen Fix?",
+        "timeupdated": "1650475699",
+        "timebuildupdated": "1650475699"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Super Virus Defense",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:15:38.019Z",
+  "branches": {
+    "public": {
+      "buildid": "11328433",
+      "timeupdated": "1685121421",
+      "timebuildupdated": "1685121421"
+    },
+    "local": {
+      "buildid": "11123612",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1682806955",
+      "timebuildupdated": "1682806955"
+    }
+  },
+  "depot": {
+    "2026271": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8771089103768643427",
+          "size": "168114389",
+          "download": "104764464"
+        }
+      }
+    },
+    "2026272": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7731278958580861515",
+          "size": "192267466",
+          "download": "113836016"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11328433",
+        "timeupdated": "1685121421",
+        "timebuildupdated": "1685121421"
+      },
+      "local": {
+        "buildid": "11123612",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1682806955",
+        "timebuildupdated": "1682806955"
+      }
+    }
+  }
+}

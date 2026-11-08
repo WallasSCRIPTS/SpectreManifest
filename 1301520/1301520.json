@@ -1,0 +1,71 @@
+{
+  "name": "Wrestledunk Sports",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:17.320Z",
+  "branches": {
+    "public": {
+      "buildid": "8708713",
+      "timeupdated": "1652156356",
+      "timebuildupdated": "1652156313"
+    },
+    "beta": {
+      "buildid": "7325884",
+      "description": "WIP and Testing versions",
+      "timeupdated": "1631129109",
+      "timebuildupdated": "1631128902"
+    }
+  },
+  "depot": {
+    "1301521": {},
+    "1301522": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7047198952956045803",
+          "size": "441199705",
+          "download": "154389104"
+        }
+      }
+    },
+    "1301523": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8566868959992765653",
+          "size": "442659360",
+          "download": "155090576"
+        }
+      }
+    },
+    "1301524": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4515269995707351113",
+          "size": "450546130",
+          "download": "155261408"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8708713",
+        "timeupdated": "1652156356",
+        "timebuildupdated": "1652156313"
+      },
+      "beta": {
+        "buildid": "7325884",
+        "description": "WIP and Testing versions",
+        "timeupdated": "1631129109",
+        "timebuildupdated": "1631128902"
+      }
+    }
+  }
+}

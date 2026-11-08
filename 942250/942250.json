@@ -1,0 +1,76 @@
+{
+  "name": "Smith and Winston",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:51.686Z",
+  "branches": {
+    "public": {
+      "buildid": "4527440",
+      "timeupdated": "1577377404",
+      "timebuildupdated": "1577377403"
+    },
+    "beta-test": {
+      "buildid": "4173555",
+      "description": "TestBranch",
+      "timeupdated": "1567783743",
+      "timebuildupdated": "1567783405"
+    }
+  },
+  "depot": {
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "942251": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5879533671702069104",
+          "size": "311838254",
+          "download": "180328768"
+        }
+      }
+    },
+    "942252": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "167373722662729341",
+          "size": "320586003",
+          "download": "182260912"
+        }
+      }
+    },
+    "942253": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6093541439123766091",
+          "size": "315689679",
+          "download": "181055936"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4527440",
+        "timeupdated": "1577377404",
+        "timebuildupdated": "1577377403"
+      },
+      "beta-test": {
+        "buildid": "4173555",
+        "description": "TestBranch",
+        "timeupdated": "1567783743",
+        "timebuildupdated": "1567783405"
+      }
+    }
+  }
+}

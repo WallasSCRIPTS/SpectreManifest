@@ -1,0 +1,68 @@
+{
+  "name": "Eets Munchies",
+  "source": "spectre",
+  "changenumber": 40184907,
+  "updated": "2026-11-07T20:56:03.823Z",
+  "branches": {
+    "public": {
+      "buildid": "2741193",
+      "timeupdated": "1525371261",
+      "timebuildupdated": "1525308974"
+    },
+    "local": {
+      "buildid": "102102",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1376431969"
+    },
+    "prev_default": {
+      "buildid": "208390",
+      "timeupdated": "1525371244",
+      "timebuildupdated": "1394238864"
+    }
+  },
+  "depot": {
+    "214551": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "884645662378184964",
+          "size": "721160334",
+          "download": "75775184"
+        }
+      }
+    },
+    "214553": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7747983839827961501",
+          "size": "749563747",
+          "download": "84879152"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2741193",
+        "timeupdated": "1525371261",
+        "timebuildupdated": "1525308974"
+      },
+      "local": {
+        "buildid": "102102",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1376431969"
+      },
+      "prev_default": {
+        "buildid": "208390",
+        "timeupdated": "1525371244",
+        "timebuildupdated": "1394238864"
+      }
+    }
+  }
+}

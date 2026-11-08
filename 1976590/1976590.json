@@ -1,0 +1,68 @@
+{
+  "name": "Eternal Space",
+  "source": "spectre",
+  "changenumber": 37453606,
+  "updated": "2026-11-06T23:15:25.621Z",
+  "branches": {
+    "public": {
+      "buildid": "9015918",
+      "timeupdated": "1697361812",
+      "timebuildupdated": "1656354365"
+    },
+    "eternal-space-mac": {
+      "buildid": "9006887",
+      "description": "Eternal Space for Mac",
+      "timeupdated": "1656174137",
+      "timebuildupdated": "1656174137"
+    },
+    "eternal-space-vnr": {
+      "buildid": "8987193",
+      "description": "Branch",
+      "timeupdated": "1655913080",
+      "timebuildupdated": "1655913080"
+    }
+  },
+  "depot": {
+    "1976591": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4705752811129680906",
+          "size": "426897520",
+          "download": "92591216"
+        }
+      }
+    },
+    "1976592": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "1976599": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9015918",
+        "timeupdated": "1697361812",
+        "timebuildupdated": "1656354365"
+      },
+      "eternal-space-mac": {
+        "buildid": "9006887",
+        "description": "Eternal Space for Mac",
+        "timeupdated": "1656174137",
+        "timebuildupdated": "1656174137"
+      },
+      "eternal-space-vnr": {
+        "buildid": "8987193",
+        "description": "Branch",
+        "timeupdated": "1655913080",
+        "timebuildupdated": "1655913080"
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "ORR",
+  "source": "spectre",
+  "changenumber": 34845721,
+  "updated": "2026-11-07T21:03:05.237Z",
+  "branches": {
+    "public": {
+      "buildid": "6115288",
+      "timeupdated": "1611208439",
+      "timebuildupdated": "1611208171"
+    },
+    "healthupdate": {
+      "buildid": "22066980",
+      "description": "test for new damage effect.",
+      "timeupdated": "1771984790",
+      "timebuildupdated": "1771905045"
+    },
+    "test": {
+      "buildid": "22066980",
+      "description": "Test branch",
+      "timeupdated": "1771907203",
+      "timebuildupdated": "1771905045"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1083581": {
+      "manifests": {
+        "public": {
+          "gid": "8284647663586572810",
+          "size": "14058443935",
+          "download": "5954264256"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6115288",
+        "timeupdated": "1611208439",
+        "timebuildupdated": "1611208171"
+      },
+      "healthupdate": {
+        "buildid": "22066980",
+        "description": "test for new damage effect.",
+        "timeupdated": "1771984790",
+        "timebuildupdated": "1771905045"
+      },
+      "test": {
+        "buildid": "22066980",
+        "description": "Test branch",
+        "timeupdated": "1771907203",
+        "timebuildupdated": "1771905045"
+      }
+    }
+  }
+}

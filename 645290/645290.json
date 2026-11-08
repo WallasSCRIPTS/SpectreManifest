@@ -1,0 +1,44 @@
+{
+  "name": "Mechanism",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:28.087Z",
+  "branches": {
+    "public": {
+      "buildid": "4305570",
+      "timeupdated": "1571577837",
+      "timebuildupdated": "1571577659"
+    }
+  },
+  "depot": {
+    "645291": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5989733927344073413",
+          "size": "1257197764",
+          "download": "508579424"
+        }
+      }
+    },
+    "645292": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "645293": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4305570",
+        "timeupdated": "1571577837",
+        "timebuildupdated": "1571577659"
+      }
+    }
+  }
+}

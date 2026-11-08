@@ -1,0 +1,74 @@
+{
+  "name": "BRAWL",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:11.701Z",
+  "branches": {
+    "public": {
+      "buildid": "878723",
+      "timebuildupdated": "1448890993"
+    },
+    "local": {
+      "buildid": "671383",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1435216018"
+    }
+  },
+  "depot": {
+    "229000": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "365681": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4780405861497574349",
+          "size": "4542372720",
+          "download": "2164325120"
+        }
+      }
+    },
+    "365682": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1867166249432863074",
+          "size": "4554210229",
+          "download": "2166052240"
+        }
+      }
+    },
+    "365683": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2767252320061112388",
+          "size": "4815166739",
+          "download": "2229119920"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "878723",
+        "timebuildupdated": "1448890993"
+      },
+      "local": {
+        "buildid": "671383",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1435216018"
+      }
+    }
+  }
+}

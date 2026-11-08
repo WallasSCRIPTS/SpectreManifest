@@ -1,0 +1,87 @@
+{
+  "name": "They Are Hundreds",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:51.124Z",
+  "branches": {
+    "public": {
+      "buildid": "2904610",
+      "timeupdated": "1608776306",
+      "timebuildupdated": "1530246004"
+    },
+    "game": {
+      "buildid": "2904610",
+      "timeupdated": "1608776326",
+      "timebuildupdated": "1530246004"
+    },
+    "local": {
+      "buildid": "2734266",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1525108252",
+      "timebuildupdated": "1525108252"
+    }
+  },
+  "depot": {
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229033": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "806861": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "806862": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7849752415914607875",
+          "size": "2709663293",
+          "download": "1181278304"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2904610",
+        "timeupdated": "1608776306",
+        "timebuildupdated": "1530246004"
+      },
+      "game": {
+        "buildid": "2904610",
+        "timeupdated": "1608776326",
+        "timebuildupdated": "1530246004"
+      },
+      "local": {
+        "buildid": "2734266",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1525108252",
+        "timebuildupdated": "1525108252"
+      }
+    }
+  }
+}

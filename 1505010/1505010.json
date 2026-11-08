@@ -1,0 +1,58 @@
+{
+  "name": "Blockdown",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:46.246Z",
+  "branches": {
+    "public": {
+      "buildid": "7563643",
+      "timeupdated": "1634692588",
+      "timebuildupdated": "1634691585"
+    },
+    "beta": {
+      "buildid": "7563643",
+      "description": "for testing only",
+      "timeupdated": "1634691629",
+      "timebuildupdated": "1634691585"
+    }
+  },
+  "depot": {
+    "1505011": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4769022583860132764",
+          "size": "396856408",
+          "download": "147517264"
+        }
+      }
+    },
+    "1505012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4886447725595918412",
+          "size": "392031192",
+          "download": "146006752"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7563643",
+        "timeupdated": "1634692588",
+        "timebuildupdated": "1634691585"
+      },
+      "beta": {
+        "buildid": "7563643",
+        "description": "for testing only",
+        "timeupdated": "1634691629",
+        "timebuildupdated": "1634691585"
+      }
+    }
+  }
+}

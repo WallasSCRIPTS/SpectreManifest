@@ -1,0 +1,86 @@
+{
+  "name": "Space Haven",
+  "source": "spectre",
+  "changenumber": 40625916,
+  "updated": "2026-11-07T21:02:11.375Z",
+  "branches": {
+    "public": {
+      "buildid": "23680735",
+      "timeupdated": "1781510051",
+      "timebuildupdated": "1781179949"
+    },
+    "experimental": {
+      "buildid": "23680735",
+      "timeupdated": "1781180147",
+      "timebuildupdated": "1781179949"
+    },
+    "play_with_mods": {
+      "buildid": "23680735",
+      "description": "Play with mods",
+      "timeupdated": "1781180154",
+      "timebuildupdated": "1781179949"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "979111": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7551217362783778422",
+          "size": "304681376",
+          "download": "234435040"
+        }
+      }
+    },
+    "979112": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6925405398430912279",
+          "size": "305423348",
+          "download": "233023120"
+        }
+      }
+    },
+    "979113": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2158568474790973863",
+          "size": "509727512",
+          "download": "365210240"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23680735",
+        "timeupdated": "1781510051",
+        "timebuildupdated": "1781179949"
+      },
+      "experimental": {
+        "buildid": "23680735",
+        "timeupdated": "1781180147",
+        "timebuildupdated": "1781179949"
+      },
+      "play_with_mods": {
+        "buildid": "23680735",
+        "description": "Play with mods",
+        "timeupdated": "1781180154",
+        "timebuildupdated": "1781179949"
+      }
+    }
+  }
+}

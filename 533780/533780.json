@@ -1,0 +1,76 @@
+{
+  "name": "Zombie Defense",
+  "source": "spectre",
+  "changenumber": 40649548,
+  "updated": "2026-11-07T20:58:34.295Z",
+  "branches": {
+    "public": {
+      "buildid": "20367894",
+      "timeupdated": "1760446080",
+      "timebuildupdated": "1760354083"
+    },
+    "ver12.7": {
+      "buildid": "5080761",
+      "description": "compability version 12.7",
+      "timeupdated": "1631700130",
+      "timebuildupdated": "1590524625"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "533781": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2496968745121904687",
+          "size": "423933737",
+          "download": "123185760"
+        }
+      }
+    },
+    "533782": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6541706326864969977",
+          "size": "442104847",
+          "download": "133295648"
+        }
+      }
+    },
+    "533783": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1557995647759020360",
+          "size": "419599856",
+          "download": "121128752"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20367894",
+        "timeupdated": "1760446080",
+        "timebuildupdated": "1760354083"
+      },
+      "ver12.7": {
+        "buildid": "5080761",
+        "description": "compability version 12.7",
+        "timeupdated": "1631700130",
+        "timebuildupdated": "1590524625"
+      }
+    }
+  }
+}

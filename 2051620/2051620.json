@@ -1,0 +1,63 @@
+{
+  "name": "Enlisted",
+  "source": "spectre",
+  "changenumber": 40616047,
+  "updated": "2026-11-06T23:15:38.424Z",
+  "branches": {
+    "public": {
+      "buildid": "26401816",
+      "timeupdated": "1793697741",
+      "timebuildupdated": "1793697741"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2051621": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6515804175643083967",
+          "size": "64037389305",
+          "download": "58808455152"
+        }
+      }
+    },
+    "2051622": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "2051623": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2398293971143784929",
+          "size": "328585693",
+          "download": "96842544"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26401816",
+        "timeupdated": "1793697741",
+        "timebuildupdated": "1793697741"
+      }
+    }
+  }
+}

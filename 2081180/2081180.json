@@ -1,0 +1,75 @@
+{
+  "name": "SquishCraft",
+  "source": "spectre",
+  "changenumber": 37864428,
+  "updated": "2026-11-06T21:07:13.180Z",
+  "branches": {
+    "public": {
+      "buildid": "15160359",
+      "timeupdated": "1721981576",
+      "timebuildupdated": "1721981576"
+    },
+    "beta": {
+      "buildid": "13598772",
+      "description": "beta",
+      "timeupdated": "1709195064",
+      "timebuildupdated": "1709194961"
+    },
+    "beta-linux": {
+      "buildid": "15159980",
+      "description": "linux beta",
+      "timeupdated": "1721979229",
+      "timebuildupdated": "1721979229"
+    }
+  },
+  "depot": {
+    "2081181": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4511416045279529061",
+          "size": "141365892",
+          "download": "44962928"
+        }
+      }
+    },
+    "2081182": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8987218985046795320",
+          "size": "151134487",
+          "download": "47174640"
+        }
+      }
+    },
+    "2081183": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15160359",
+        "timeupdated": "1721981576",
+        "timebuildupdated": "1721981576"
+      },
+      "beta": {
+        "buildid": "13598772",
+        "description": "beta",
+        "timeupdated": "1709195064",
+        "timebuildupdated": "1709194961"
+      },
+      "beta-linux": {
+        "buildid": "15159980",
+        "description": "linux beta",
+        "timeupdated": "1721979229",
+        "timebuildupdated": "1721979229"
+      }
+    }
+  }
+}

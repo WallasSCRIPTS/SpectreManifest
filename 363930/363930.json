@@ -1,0 +1,86 @@
+{
+  "name": "Dead Age",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:10.332Z",
+  "branches": {
+    "public": {
+      "buildid": "20287486",
+      "timeupdated": "1759846223",
+      "timebuildupdated": "1759845294"
+    },
+    "legacy": {
+      "buildid": "2882976",
+      "description": "Game version from before the update to Unity 2018",
+      "timeupdated": "1579184497",
+      "timebuildupdated": "1529589300"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "363931": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "172115206875066979",
+          "size": "1803887238",
+          "download": "605449296"
+        }
+      }
+    },
+    "363932": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1768730159690722355",
+          "size": "1814367461",
+          "download": "610224880"
+        }
+      }
+    },
+    "363933": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1716354565909143925",
+          "size": "1851117408",
+          "download": "622548112"
+        }
+      }
+    },
+    "1330410": {
+      "manifests": {
+        "public": {
+          "gid": "4360136788088364314",
+          "size": "36927927",
+          "download": "36018192"
+        }
+      },
+      "dlcappid": "1330410"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20287486",
+        "timeupdated": "1759846223",
+        "timebuildupdated": "1759845294"
+      },
+      "legacy": {
+        "buildid": "2882976",
+        "description": "Game version from before the update to Unity 2018",
+        "timeupdated": "1579184497",
+        "timebuildupdated": "1529589300"
+      }
+    }
+  }
+}

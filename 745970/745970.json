@@ -1,0 +1,100 @@
+{
+  "name": "Terminal Conflict",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:21.342Z",
+  "branches": {
+    "public": {
+      "buildid": "22720966",
+      "timeupdated": "1775775304",
+      "timebuildupdated": "1775775168"
+    },
+    "beta": {
+      "buildid": "8308826",
+      "description": "beta version",
+      "timeupdated": "1646326049",
+      "timebuildupdated": "1646325538"
+    }
+  },
+  "depot": {
+    "745971": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7849595853305734193",
+          "size": "978832042",
+          "download": "385722192"
+        }
+      }
+    },
+    "745972": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7804289938774121014",
+          "size": "1012532082",
+          "download": "398682064"
+        }
+      }
+    },
+    "745973": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3637743349653843332",
+          "size": "1030807400",
+          "download": "400919408"
+        }
+      }
+    },
+    "976370": {
+      "manifests": {
+        "public": {
+          "gid": "5121891703545204002",
+          "size": "32",
+          "download": "64"
+        }
+      },
+      "dlcappid": "976370"
+    },
+    "976371": {
+      "manifests": {
+        "public": {
+          "gid": "7120937921722834134",
+          "size": "32",
+          "download": "64"
+        }
+      },
+      "dlcappid": "976371"
+    },
+    "1188360": {
+      "manifests": {
+        "public": {
+          "gid": "7670376113045976814",
+          "size": "32",
+          "download": "64"
+        }
+      },
+      "dlcappid": "1188360"
+    },
+    "branches": {
+      "public": {
+        "buildid": "22720966",
+        "timeupdated": "1775775304",
+        "timebuildupdated": "1775775168"
+      },
+      "beta": {
+        "buildid": "8308826",
+        "description": "beta version",
+        "timeupdated": "1646326049",
+        "timebuildupdated": "1646325538"
+      }
+    }
+  }
+}

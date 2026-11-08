@@ -1,0 +1,70 @@
+{
+  "name": "Backpack Hero",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:15:24.959Z",
+  "branches": {
+    "public": {
+      "buildid": "15631088",
+      "timeupdated": "1725815169",
+      "timebuildupdated": "1725810387"
+    },
+    "testingbranch": {
+      "buildid": "16788980",
+      "description": "Testing Branch",
+      "timeupdated": "1734711186",
+      "timebuildupdated": "1734537036"
+    }
+  },
+  "depot": {
+    "1970581": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3178627114856544901",
+          "size": "644939191",
+          "download": "183321008"
+        }
+      }
+    },
+    "1970582": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "176513439720981009",
+          "size": "1302766470",
+          "download": "195898864"
+        }
+      }
+    },
+    "1970583": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8957818974901801959",
+          "size": "646251679",
+          "download": "180242784"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15631088",
+        "timeupdated": "1725815169",
+        "timebuildupdated": "1725810387"
+      },
+      "testingbranch": {
+        "buildid": "16788980",
+        "description": "Testing Branch",
+        "timeupdated": "1734711186",
+        "timebuildupdated": "1734537036"
+      }
+    }
+  }
+}

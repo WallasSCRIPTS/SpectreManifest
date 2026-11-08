@@ -1,0 +1,65 @@
+{
+  "name": "Move My Moc",
+  "source": "spectre",
+  "changenumber": 40267825,
+  "updated": "2026-11-06T23:19:29.328Z",
+  "branches": {
+    "public": {
+      "buildid": "25887710",
+      "timeupdated": "1791824356",
+      "timebuildupdated": "1791824356"
+    },
+    "local": {
+      "buildid": "19401934",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1753807689",
+      "timebuildupdated": "1753807689"
+    }
+  },
+  "depot": {
+    "2190981": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1814185193246820001",
+          "size": "521819598",
+          "download": "413423824"
+        }
+      }
+    },
+    "2190982": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8671854785335463157",
+          "size": "543564048",
+          "download": "422887760"
+        }
+      }
+    },
+    "2190983": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25887710",
+        "timeupdated": "1791824356",
+        "timebuildupdated": "1791824356"
+      },
+      "local": {
+        "buildid": "19401934",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1753807689",
+        "timebuildupdated": "1753807689"
+      }
+    }
+  }
+}

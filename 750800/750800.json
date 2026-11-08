@@ -1,0 +1,63 @@
+{
+  "name": "Egress",
+  "source": "spectre",
+  "changenumber": 39096603,
+  "updated": "2026-11-07T21:00:23.944Z",
+  "branches": {
+    "public": {
+      "buildid": "4591659",
+      "timeupdated": "1579621623",
+      "timebuildupdated": "1579610918"
+    },
+    "egressbeta": {
+      "buildid": "4344275",
+      "timeupdated": "1573635289",
+      "timebuildupdated": "1572530748"
+    },
+    "netsystem": {
+      "buildid": "4087431",
+      "timeupdated": "1565279442",
+      "timebuildupdated": "1565279442"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "750801": {
+      "manifests": {
+        "public": {
+          "gid": "1004864549319602094",
+          "size": "3614927728",
+          "download": "3392036000"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4591659",
+        "timeupdated": "1579621623",
+        "timebuildupdated": "1579610918"
+      },
+      "egressbeta": {
+        "buildid": "4344275",
+        "timeupdated": "1573635289",
+        "timebuildupdated": "1572530748"
+      },
+      "netsystem": {
+        "buildid": "4087431",
+        "timeupdated": "1565279442",
+        "timebuildupdated": "1565279442"
+      }
+    }
+  }
+}

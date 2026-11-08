@@ -1,0 +1,60 @@
+{
+  "name": "Night Stones",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:21:26.817Z",
+  "branches": {
+    "public": {
+      "buildid": "16660946",
+      "timeupdated": "1733513713",
+      "timebuildupdated": "1733513672"
+    },
+    "local": {
+      "buildid": "11050953",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1682003021",
+      "timebuildupdated": "1682003021"
+    }
+  },
+  "depot": {
+    "2300341": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7641620237205286115",
+          "size": "2057574135",
+          "download": "489676064"
+        }
+      }
+    },
+    "2300343": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "971506223749772659",
+          "size": "2057301417",
+          "download": "484949952"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16660946",
+        "timeupdated": "1733513713",
+        "timebuildupdated": "1733513672"
+      },
+      "local": {
+        "buildid": "11050953",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1682003021",
+        "timebuildupdated": "1682003021"
+      }
+    }
+  }
+}

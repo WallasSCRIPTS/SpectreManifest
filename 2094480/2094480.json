@@ -1,0 +1,58 @@
+{
+  "name": "Senet",
+  "source": "spectre",
+  "changenumber": 34884175,
+  "updated": "2026-11-06T23:17:31.119Z",
+  "branches": {
+    "public": {
+      "buildid": "14910381",
+      "timeupdated": "1719951172",
+      "timebuildupdated": "1719948551"
+    },
+    "beta": {
+      "buildid": "14910381",
+      "description": "Public beta test",
+      "timeupdated": "1720191720",
+      "timebuildupdated": "1719948551"
+    }
+  },
+  "depot": {
+    "2094481": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4841619617446632447",
+          "size": "1589087073",
+          "download": "723772080"
+        }
+      }
+    },
+    "2094482": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8087461316646180953",
+          "size": "1567088540",
+          "download": "721019680"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14910381",
+        "timeupdated": "1719951172",
+        "timebuildupdated": "1719948551"
+      },
+      "beta": {
+        "buildid": "14910381",
+        "description": "Public beta test",
+        "timeupdated": "1720191720",
+        "timebuildupdated": "1719948551"
+      }
+    }
+  }
+}

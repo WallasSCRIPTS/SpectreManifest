@@ -1,0 +1,88 @@
+{
+  "name": "Command: Modern Operations",
+  "source": "spectre",
+  "changenumber": 40624462,
+  "updated": "2026-11-07T21:03:01.505Z",
+  "branches": {
+    "public": {
+      "buildid": "26429119",
+      "timeupdated": "1793873976",
+      "timebuildupdated": "1793788854"
+    },
+    "32-bitlegacy": {
+      "buildid": "11782180",
+      "description": "32-bit legacy",
+      "timeupdated": "1691504211",
+      "timebuildupdated": "1690284761"
+    },
+    "public_beta_multiplayer": {
+      "buildid": "25486428",
+      "description": "multiplayer testing",
+      "timeupdated": "1790327855",
+      "timebuildupdated": "1790181057"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1076161": {
+      "manifests": {
+        "public": {
+          "gid": "1232331998981099346",
+          "size": "45685873959",
+          "download": "29156418192"
+        }
+      }
+    },
+    "1076162": {
+      "manifests": {
+        "public": {
+          "gid": "2363720791766738855",
+          "size": "191941021",
+          "download": "191349504"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26429119",
+        "timeupdated": "1793873976",
+        "timebuildupdated": "1793788854"
+      },
+      "32-bitlegacy": {
+        "buildid": "11782180",
+        "description": "32-bit legacy",
+        "timeupdated": "1691504211",
+        "timebuildupdated": "1690284761"
+      },
+      "public_beta_multiplayer": {
+        "buildid": "25486428",
+        "description": "multiplayer testing",
+        "timeupdated": "1790327855",
+        "timebuildupdated": "1790181057"
+      }
+    }
+  }
+}

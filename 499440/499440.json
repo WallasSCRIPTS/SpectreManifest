@@ -1,0 +1,70 @@
+{
+  "name": "klocki",
+  "source": "spectre",
+  "changenumber": 37435436,
+  "updated": "2026-11-07T20:58:18.455Z",
+  "branches": {
+    "public": {
+      "buildid": "22812639",
+      "timeupdated": "1776328507",
+      "timebuildupdated": "1776328470"
+    },
+    "beta": {
+      "buildid": "8623898",
+      "description": "beta",
+      "timeupdated": "1650955698",
+      "timebuildupdated": "1650955698"
+    }
+  },
+  "depot": {
+    "499441": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1748267196703792584",
+          "size": "157739876",
+          "download": "52871120"
+        }
+      }
+    },
+    "499442": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "119877934394121345",
+          "size": "141402568",
+          "download": "44484480"
+        }
+      }
+    },
+    "499443": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6760512643052041547",
+          "size": "181592567",
+          "download": "43071296"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22812639",
+        "timeupdated": "1776328507",
+        "timebuildupdated": "1776328470"
+      },
+      "beta": {
+        "buildid": "8623898",
+        "description": "beta",
+        "timeupdated": "1650955698",
+        "timebuildupdated": "1650955698"
+      }
+    }
+  }
+}

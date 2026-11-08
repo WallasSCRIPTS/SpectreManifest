@@ -1,0 +1,70 @@
+{
+  "name": "Poly Bridge",
+  "source": "spectre",
+  "changenumber": 40650902,
+  "updated": "2026-11-07T20:57:12.899Z",
+  "branches": {
+    "public": {
+      "buildid": "26472280",
+      "timeupdated": "1793924699",
+      "timebuildupdated": "1793924699"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "367451": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8144064300287443619",
+          "size": "223248318",
+          "download": "115585344"
+        }
+      }
+    },
+    "367452": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5300884783176432417",
+          "size": "232849566",
+          "download": "116859680"
+        }
+      }
+    },
+    "367453": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1283089157963056478",
+          "size": "254062310",
+          "download": "124010256"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26472280",
+        "timeupdated": "1793924699",
+        "timebuildupdated": "1793924699"
+      }
+    }
+  }
+}

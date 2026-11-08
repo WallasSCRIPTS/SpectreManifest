@@ -1,0 +1,65 @@
+{
+  "name": "Darkout",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:14.325Z",
+  "branches": {
+    "public": {
+      "buildid": "477673",
+      "timebuildupdated": "1418931680"
+    },
+    "patch_open_beta": {
+      "buildid": "621092",
+      "description": "Test next patch before release",
+      "timebuildupdated": "1431515280"
+    },
+    "pre-release": {
+      "buildid": "477673",
+      "description": "Tester's Branch",
+      "timebuildupdated": "1418931680"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "257051": {
+      "manifests": {
+        "public": {
+          "gid": "7603611506695584964",
+          "size": "2444784844",
+          "download": "1045610384"
+        }
+      }
+    },
+    "257052": {},
+    "367830": {
+      "dlcappid": "367830"
+    },
+    "branches": {
+      "public": {
+        "buildid": "477673",
+        "timebuildupdated": "1418931680"
+      },
+      "patch_open_beta": {
+        "buildid": "621092",
+        "description": "Test next patch before release",
+        "timebuildupdated": "1431515280"
+      },
+      "pre-release": {
+        "buildid": "477673",
+        "description": "Tester's Branch",
+        "timebuildupdated": "1418931680"
+      }
+    }
+  }
+}

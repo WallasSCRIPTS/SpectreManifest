@@ -1,0 +1,82 @@
+{
+  "name": "Medieval Battlefields",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:01.881Z",
+  "branches": {
+    "public": {
+      "buildid": "22637946",
+      "timeupdated": "1775227420",
+      "timebuildupdated": "1775227388"
+    },
+    "previous_version": {
+      "buildid": "21113159",
+      "description": "Contains the previous version of the game, to be used in case the new update doesn't work well.",
+      "timeupdated": "1765277973",
+      "timebuildupdated": "1765277919"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "459042": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5556038861032258298",
+          "size": "103071084",
+          "download": "80428000"
+        }
+      }
+    },
+    "459043": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1075915524688266013",
+          "size": "89920110",
+          "download": "74165552"
+        }
+      }
+    },
+    "459045": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5843724939733995349",
+          "size": "95724238",
+          "download": "75696864"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22637946",
+        "timeupdated": "1775227420",
+        "timebuildupdated": "1775227388"
+      },
+      "previous_version": {
+        "buildid": "21113159",
+        "description": "Contains the previous version of the game, to be used in case the new update doesn't work well.",
+        "timeupdated": "1765277973",
+        "timebuildupdated": "1765277919"
+      }
+    }
+  }
+}

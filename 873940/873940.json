@@ -1,0 +1,84 @@
+{
+  "name": "Crying Suns",
+  "source": "spectre",
+  "changenumber": 40510776,
+  "updated": "2026-11-07T21:01:20.572Z",
+  "branches": {
+    "public": {
+      "buildid": "11466075",
+      "timeupdated": "1686817037",
+      "timebuildupdated": "1686733646"
+    },
+    "last_orders_closed_beta": {
+      "buildid": "10347155",
+      "description": "Last Orders Closed Beta",
+      "timeupdated": "1674033385",
+      "timebuildupdated": "1674033385"
+    },
+    "local": {
+      "buildid": "3908191",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1560263106",
+      "timebuildupdated": "1560263106"
+    }
+  },
+  "depot": {
+    "873945": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4558558984636725319",
+          "size": "1122858029",
+          "download": "420290448"
+        }
+      }
+    },
+    "873946": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6289632621503088174",
+          "size": "1111065154",
+          "download": "416861024"
+        }
+      }
+    },
+    "873947": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6609761517066381446",
+          "size": "1163386851",
+          "download": "427204736"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11466075",
+        "timeupdated": "1686817037",
+        "timebuildupdated": "1686733646"
+      },
+      "last_orders_closed_beta": {
+        "buildid": "10347155",
+        "description": "Last Orders Closed Beta",
+        "timeupdated": "1674033385",
+        "timebuildupdated": "1674033385"
+      },
+      "local": {
+        "buildid": "3908191",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1560263106",
+        "timebuildupdated": "1560263106"
+      }
+    }
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "name": "Avorion",
+  "source": "spectre",
+  "changenumber": 40243919,
+  "updated": "2026-11-07T20:57:54.037Z",
+  "branches": {
+    "public": {
+      "buildid": "22295350",
+      "timeupdated": "1773648394",
+      "timebuildupdated": "1773232712"
+    },
+    "0.28.1": {
+      "buildid": "4403720",
+      "description": "0.28.1 - Building UI",
+      "timeupdated": "1575976757",
+      "timebuildupdated": "1574155199"
+    },
+    "0.29.5": {
+      "buildid": "4485674",
+      "description": "0.29.5 - Economy and Difficulty",
+      "timeupdated": "1579608563",
+      "timebuildupdated": "1576157880"
+    },
+    "0.30.2": {
+      "buildid": "4593390",
+      "description": "0.30.2 - Missions, Bosses & Sound",
+      "timeupdated": "1580892820",
+      "timebuildupdated": "1579643778"
+    },
+    "0.31.2": {
+      "buildid": "4659156",
+      "description": "0.31.2 - Enemy Variations & Damage Types",
+      "timeupdated": "1582723229",
+      "timebuildupdated": "1581327194"
+    },
+    "0.32.2": {
+      "buildid": "4721842",
+      "description": "0.32.2 - Generator Rework",
+      "timeupdated": "1583315740",
+      "timebuildupdated": "1582804812"
+    },
+    "1.0.0": {
+      "buildid": "4995667",
+      "description": "1.0 - Full Release",
+      "timeupdated": "1592901137",
+      "timebuildupdated": "1588865749"
+    },
+    "1.1.4": {
+      "buildid": "5392899",
+      "description": "1.1.4 - Various Fixes & Improvements",
+      "timeupdated": "1600345135",
+      "timebuildupdated": "1597063383"
+    },
+    "1.2.0": {
+      "buildid": "5616726",
+      "description": "1.2 - Quality of Life",
+      "timeupdated": "1604336890",
+      "timebuildupdated": "1601473088"
+    },
+    "1.3.8": {
+      "buildid": "6870332",
+      "description": "1.3.8 - Docking",
+      "timeupdated": "1631015492",
+      "timebuildupdated": "1623748435"
+    },
+    "2.0.11": {
+      "buildid": "7755065",
+      "description": "2.0.11 - Update 2.0",
+      "timeupdated": "1659117144",
+      "timebuildupdated": "1637583483"
+    },
+    "2.1.0": {
+      "buildid": "8728244",
+      "description": "2.1.0 - Small Fixes",
+      "timeupdated": "1659617790",
+      "timebuildupdated": "1652375880"
+    },
+    "2.2.2": {
+      "buildid": "9477890",
+      "description": "2.2.2 - Into The Rift",
+      "timeupdated": "1674126616",
+      "timebuildupdated": "1662652448"
+    },
+    "2.3.2": {
+      "buildid": "12806377",
+      "description": "2.3.2 - New maintenance command & performance optimizations",
+      "timeupdated": "1701774459",
+      "timebuildupdated": "1701083343"
+    },
+    "2.4.3": {
+      "buildid": "13518572",
+      "description": "2.4.3 - Behemoth DLC, World Bosses, Ship Mgt, AMD crash fix",
+      "timeupdated": "1718287376",
+      "timebuildupdated": "1708514739"
+    },
+    "2.5.2": {
+      "buildid": "14719257",
+      "description": "2.5.2 - Secondary Block Colors and Photo Mode",
+      "timeupdated": "1733752527",
+      "timebuildupdated": "1718371250"
+    },
+    "beta": {
+      "buildid": "22295350",
+      "description": "Beta Branch - Newest Changes & Experimental Features",
+      "timeupdated": "1773233308",
+      "timebuildupdated": "1773232712"
+    },
+    "previous": {
+      "buildid": "21146553",
+      "description": "Previous Build 2.5.11 - Will be disabled soon",
+      "timeupdated": "1773648301",
+      "timebuildupdated": "1765454576"
+    }
+  },
+  "depot": {
+    "445221": {
+      "manifests": {
+        "public": {
+          "gid": "1677424389177723424",
+          "size": "856282975",
+          "download": "666401552"
+        }
+      }
+    },
+    "445222": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2845909138206750383",
+          "size": "57328558",
+          "download": "19971792"
+        }
+      }
+    },
+    "445223": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "371125720887622174",
+          "size": "60722383",
+          "download": "21026672"
+        }
+      }
+    },
+    "445224": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "540873663951846203",
+          "size": "88768527",
+          "download": "21434320"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22295350",
+        "timeupdated": "1773648394",
+        "timebuildupdated": "1773232712"
+      },
+      "0.28.1": {
+        "buildid": "4403720",
+        "description": "0.28.1 - Building UI",
+        "timeupdated": "1575976757",
+        "timebuildupdated": "1574155199"
+      },
+      "0.29.5": {
+        "buildid": "4485674",
+        "description": "0.29.5 - Economy and Difficulty",
+        "timeupdated": "1579608563",
+        "timebuildupdated": "1576157880"
+      },
+      "0.30.2": {
+        "buildid": "4593390",
+        "description": "0.30.2 - Missions, Bosses & Sound",
+        "timeupdated": "1580892820",
+        "timebuildupdated": "1579643778"
+      },
+      "0.31.2": {
+        "buildid": "4659156",
+        "description": "0.31.2 - Enemy Variations & Damage Types",
+        "timeupdated": "1582723229",
+        "timebuildupdated": "1581327194"
+      },
+      "0.32.2": {
+        "buildid": "4721842",
+        "description": "0.32.2 - Generator Rework",
+        "timeupdated": "1583315740",
+        "timebuildupdated": "1582804812"
+      },
+      "1.0.0": {
+        "buildid": "4995667",
+        "description": "1.0 - Full Release",
+        "timeupdated": "1592901137",
+        "timebuildupdated": "1588865749"
+      },
+      "1.1.4": {
+        "buildid": "5392899",
+        "description": "1.1.4 - Various Fixes & Improvements",
+        "timeupdated": "1600345135",
+        "timebuildupdated": "1597063383"
+      },
+      "1.2.0": {
+        "buildid": "5616726",
+        "description": "1.2 - Quality of Life",
+        "timeupdated": "1604336890",
+        "timebuildupdated": "1601473088"
+      },
+      "1.3.8": {
+        "buildid": "6870332",
+        "description": "1.3.8 - Docking",
+        "timeupdated": "1631015492",
+        "timebuildupdated": "1623748435"
+      },
+      "2.0.11": {
+        "buildid": "7755065",
+        "description": "2.0.11 - Update 2.0",
+        "timeupdated": "1659117144",
+        "timebuildupdated": "1637583483"
+      },
+      "2.1.0": {
+        "buildid": "8728244",
+        "description": "2.1.0 - Small Fixes",
+        "timeupdated": "1659617790",
+        "timebuildupdated": "1652375880"
+      },
+      "2.2.2": {
+        "buildid": "9477890",
+        "description": "2.2.2 - Into The Rift",
+        "timeupdated": "1674126616",
+        "timebuildupdated": "1662652448"
+      },
+      "2.3.2": {
+        "buildid": "12806377",
+        "description": "2.3.2 - New maintenance command & performance optimizations",
+        "timeupdated": "1701774459",
+        "timebuildupdated": "1701083343"
+      },
+      "2.4.3": {
+        "buildid": "13518572",
+        "description": "2.4.3 - Behemoth DLC, World Bosses, Ship Mgt, AMD crash fix",
+        "timeupdated": "1718287376",
+        "timebuildupdated": "1708514739"
+      },
+      "2.5.2": {
+        "buildid": "14719257",
+        "description": "2.5.2 - Secondary Block Colors and Photo Mode",
+        "timeupdated": "1733752527",
+        "timebuildupdated": "1718371250"
+      },
+      "beta": {
+        "buildid": "22295350",
+        "description": "Beta Branch - Newest Changes & Experimental Features",
+        "timeupdated": "1773233308",
+        "timebuildupdated": "1773232712"
+      },
+      "previous": {
+        "buildid": "21146553",
+        "description": "Previous Build 2.5.11 - Will be disabled soon",
+        "timeupdated": "1773648301",
+        "timebuildupdated": "1765454576"
+      }
+    }
+  }
+}

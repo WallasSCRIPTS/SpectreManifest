@@ -1,0 +1,65 @@
+{
+  "name": "Foxhole",
+  "source": "spectre",
+  "changenumber": 40660055,
+  "updated": "2026-11-07T20:58:22.072Z",
+  "branches": {
+    "public": {
+      "buildid": "26058282",
+      "timeupdated": "1792441086",
+      "timebuildupdated": "1792433952"
+    },
+    "devbranch": {
+      "buildid": "25532741",
+      "description": "Player testing environment",
+      "timeupdated": "1790354024",
+      "timebuildupdated": "1790352451"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "505461": {
+      "manifests": {
+        "public": {
+          "gid": "3236487273309367931",
+          "size": "26035003237",
+          "download": "10342448672"
+        }
+      }
+    },
+    "4217460": {
+      "manifests": {
+        "public": {
+          "gid": "8695551927057808039",
+          "size": "760186669",
+          "download": "708526976"
+        }
+      },
+      "dlcappid": "4217460"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26058282",
+        "timeupdated": "1792441086",
+        "timebuildupdated": "1792433952"
+      },
+      "devbranch": {
+        "buildid": "25532741",
+        "description": "Player testing environment",
+        "timeupdated": "1790354024",
+        "timebuildupdated": "1790352451"
+      }
+    }
+  }
+}

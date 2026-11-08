@@ -1,0 +1,115 @@
+{
+  "name": "Shadowrun Returns",
+  "source": "spectre",
+  "changenumber": 39637140,
+  "updated": "2026-11-07T20:56:08.326Z",
+  "branches": {
+    "public": {
+      "buildid": "340555",
+      "timebuildupdated": "1406659452"
+    },
+    "public_beta": {
+      "buildid": "340555",
+      "description": "Public Beta",
+      "timebuildupdated": "1406659452"
+    }
+  },
+  "depot": {
+    "234651": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7013467749258038040",
+          "size": "2967235926",
+          "download": "11426152903808"
+        }
+      }
+    },
+    "234652": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6693265660077724623",
+          "size": "2998590109",
+          "download": "14598540158355"
+        }
+      }
+    },
+    "234653": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8086027136069436104",
+          "size": "2975841067",
+          "download": "18508116126151"
+        }
+      }
+    },
+    "237810": {
+      "manifests": {
+        "public": {
+          "gid": "677463623947777199",
+          "size": "99575143",
+          "download": "143701979548"
+        }
+      },
+      "dlcappid": "237810"
+    },
+    "272030": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5582082566044732248",
+          "size": "811049214",
+          "download": "5257376876638"
+        }
+      },
+      "dlcappid": "272030"
+    },
+    "272031": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4975038112381834571",
+          "size": "811049214",
+          "download": "7481144749477"
+        }
+      },
+      "dlcappid": "272030"
+    },
+    "272032": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5391631455743469886",
+          "size": "811049214",
+          "download": "695253760528"
+        }
+      },
+      "dlcappid": "272030"
+    },
+    "branches": {
+      "public": {
+        "buildid": "340555",
+        "timebuildupdated": "1406659452"
+      },
+      "public_beta": {
+        "buildid": "340555",
+        "description": "Public Beta",
+        "timebuildupdated": "1406659452"
+      }
+    }
+  }
+}

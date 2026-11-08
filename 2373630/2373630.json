@@ -1,0 +1,58 @@
+{
+  "name": "Moonring",
+  "source": "spectre",
+  "changenumber": 40643467,
+  "updated": "2026-11-06T23:23:20.761Z",
+  "branches": {
+    "public": {
+      "buildid": "24843312",
+      "timeupdated": "1787250072",
+      "timebuildupdated": "1787239640"
+    },
+    "experimental": {
+      "buildid": "24843312",
+      "description": "test builds",
+      "timeupdated": "1787250072",
+      "timebuildupdated": "1787239640"
+    }
+  },
+  "depot": {
+    "2373631": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3409761486081548640",
+          "size": "184333997",
+          "download": "102329696"
+        }
+      }
+    },
+    "2373632": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1909243501399195285",
+          "size": "197833871",
+          "download": "106583200"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24843312",
+        "timeupdated": "1787250072",
+        "timebuildupdated": "1787239640"
+      },
+      "experimental": {
+        "buildid": "24843312",
+        "description": "test builds",
+        "timeupdated": "1787250072",
+        "timebuildupdated": "1787239640"
+      }
+    }
+  }
+}

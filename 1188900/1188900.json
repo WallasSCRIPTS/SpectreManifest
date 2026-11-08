@@ -1,0 +1,68 @@
+{
+  "name": "Fire Tonight",
+  "source": "spectre",
+  "changenumber": 34849440,
+  "updated": "2026-11-07T21:04:05.032Z",
+  "branches": {
+    "public": {
+      "buildid": "20247593",
+      "timeupdated": "1759624826",
+      "timebuildupdated": "1759537516"
+    },
+    "developer": {
+      "buildid": "7212273",
+      "timeupdated": "1629325689",
+      "timebuildupdated": "1629325689"
+    },
+    "unitypatch": {
+      "buildid": "20247593",
+      "description": "Unity Patch to address CVE-2025-59489",
+      "timeupdated": "1759537516",
+      "timebuildupdated": "1759537516"
+    }
+  },
+  "depot": {
+    "1188901": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9025317796846775065",
+          "size": "324297190",
+          "download": "163703984"
+        }
+      }
+    },
+    "1188902": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6530865147184920575",
+          "size": "330673102",
+          "download": "164599056"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20247593",
+        "timeupdated": "1759624826",
+        "timebuildupdated": "1759537516"
+      },
+      "developer": {
+        "buildid": "7212273",
+        "timeupdated": "1629325689",
+        "timebuildupdated": "1629325689"
+      },
+      "unitypatch": {
+        "buildid": "20247593",
+        "description": "Unity Patch to address CVE-2025-59489",
+        "timeupdated": "1759537516",
+        "timebuildupdated": "1759537516"
+      }
+    }
+  }
+}

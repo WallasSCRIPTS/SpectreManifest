@@ -1,0 +1,70 @@
+{
+  "name": "Portability",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:39.422Z",
+  "branches": {
+    "public": {
+      "buildid": "5885624",
+      "timeupdated": "1606390588",
+      "timebuildupdated": "1606390020"
+    },
+    "beta": {
+      "buildid": "5885624",
+      "description": "warning, could reset your game progress",
+      "timeupdated": "1606390020",
+      "timebuildupdated": "1606390020"
+    }
+  },
+  "depot": {
+    "1358761": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9149313838868713896",
+          "size": "73614480",
+          "download": "38624992"
+        }
+      }
+    },
+    "1358762": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2620329291443179416",
+          "size": "30184240",
+          "download": "30377856"
+        }
+      }
+    },
+    "1358763": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "889685793111652777",
+          "size": "57339482",
+          "download": "24259200"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5885624",
+        "timeupdated": "1606390588",
+        "timebuildupdated": "1606390020"
+      },
+      "beta": {
+        "buildid": "5885624",
+        "description": "warning, could reset your game progress",
+        "timeupdated": "1606390020",
+        "timebuildupdated": "1606390020"
+      }
+    }
+  }
+}

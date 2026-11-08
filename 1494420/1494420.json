@@ -1,0 +1,79 @@
+{
+  "name": "Silica",
+  "source": "spectre",
+  "changenumber": 40602357,
+  "updated": "2026-11-06T21:05:41.668Z",
+  "branches": {
+    "public": {
+      "buildid": "26334661",
+      "timeupdated": "1793716866",
+      "timebuildupdated": "1793395699"
+    },
+    "survival_legacy": {
+      "buildid": "18943170",
+      "description": "Branch for the legacy Survival mod",
+      "timeupdated": "1755271163",
+      "timebuildupdated": "1750440555"
+    },
+    "beta": {
+      "buildid": "26334661",
+      "description": "Branch for Beta playtesting",
+      "timeupdated": "1793716865",
+      "timebuildupdated": "1793395699"
+    },
+    "original": {
+      "buildid": "11140646",
+      "description": "Original EA v 0.7 build",
+      "timeupdated": "1687774152",
+      "timebuildupdated": "1683059929"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1494421": {
+      "manifests": {
+        "public": {
+          "gid": "7584756376709095253",
+          "size": "46350729182",
+          "download": "24934054064"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26334661",
+        "timeupdated": "1793716866",
+        "timebuildupdated": "1793395699"
+      },
+      "survival_legacy": {
+        "buildid": "18943170",
+        "description": "Branch for the legacy Survival mod",
+        "timeupdated": "1755271163",
+        "timebuildupdated": "1750440555"
+      },
+      "beta": {
+        "buildid": "26334661",
+        "description": "Branch for Beta playtesting",
+        "timeupdated": "1793716865",
+        "timebuildupdated": "1793395699"
+      },
+      "original": {
+        "buildid": "11140646",
+        "description": "Original EA v 0.7 build",
+        "timeupdated": "1687774152",
+        "timebuildupdated": "1683059929"
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Lost in Bardo Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:00:19.321Z",
+  "branches": {
+    "public": {
+      "buildid": "2245075",
+      "timeupdated": "1509451422",
+      "timebuildupdated": "1509450935"
+    },
+    "test_demo.2.1.12": {
+      "buildid": "2245075",
+      "timeupdated": "1509451006",
+      "timebuildupdated": "1509450935"
+    }
+  },
+  "depot": {
+    "742001": {},
+    "742002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8659472552571947243",
+          "size": "119249300",
+          "download": "67923616"
+        }
+      }
+    },
+    "742003": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1056152392676691173",
+          "size": "135502055",
+          "download": "71114176"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2245075",
+        "timeupdated": "1509451422",
+        "timebuildupdated": "1509450935"
+      },
+      "test_demo.2.1.12": {
+        "buildid": "2245075",
+        "timeupdated": "1509451006",
+        "timebuildupdated": "1509450935"
+      }
+    }
+  }
+}

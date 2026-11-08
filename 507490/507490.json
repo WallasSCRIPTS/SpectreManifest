@@ -1,0 +1,589 @@
+{
+  "name": "Ashes of the Singularity: Escalation",
+  "source": "spectre",
+  "changenumber": 40434078,
+  "updated": "2026-11-07T20:58:22.637Z",
+  "branches": {
+    "public": {
+      "buildid": "26330835",
+      "timeupdated": "1793383957",
+      "timebuildupdated": "1793383957"
+    },
+    "modding": {
+      "buildid": "26330531",
+      "description": "v3.10 Modder's Build",
+      "timeupdated": "1793383175",
+      "timebuildupdated": "1793383175"
+    },
+    "opt-in": {
+      "buildid": "26330546",
+      "description": "v3.3 Release",
+      "timeupdated": "1793383208",
+      "timebuildupdated": "1793383208"
+    },
+    "previous": {
+      "buildid": "26330538",
+      "description": "v3.10.191346",
+      "timeupdated": "1793383187",
+      "timebuildupdated": "1793383187"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "507491": {
+      "manifests": {
+        "public": {
+          "gid": "6268858447422842714",
+          "size": "32671037515",
+          "download": "19713957616"
+        }
+      }
+    },
+    "507492": {
+      "manifests": {
+        "public": {
+          "gid": "4994871261669623509",
+          "size": "2477081559",
+          "download": "1854659728"
+        }
+      }
+    },
+    "507493": {
+      "manifests": {
+        "public": {
+          "gid": "1046938233947784375",
+          "size": "10485",
+          "download": "4800"
+        }
+      },
+      "dlcappid": "520643"
+    },
+    "507494": {
+      "manifests": {
+        "public": {
+          "gid": "1448527888972616600",
+          "size": "2269",
+          "download": "1328"
+        }
+      },
+      "dlcappid": "520640"
+    },
+    "507495": {
+      "manifests": {
+        "public": {
+          "gid": "1927326709612010132",
+          "size": "3094",
+          "download": "1120"
+        }
+      },
+      "dlcappid": "520642"
+    },
+    "507496": {
+      "manifests": {
+        "public": {
+          "gid": "117809338873463430",
+          "size": "4428",
+          "download": "2032"
+        }
+      },
+      "dlcappid": "520644"
+    },
+    "507497": {
+      "manifests": {
+        "public": {
+          "gid": "174626429443377139",
+          "size": "3945",
+          "download": "1696"
+        }
+      },
+      "dlcappid": "520645"
+    },
+    "507498": {
+      "manifests": {
+        "public": {
+          "gid": "1155409306844136685",
+          "size": "1387584193",
+          "download": "1405531696"
+        }
+      }
+    },
+    "507499": {
+      "manifests": {
+        "public": {
+          "gid": "8513590552125567696",
+          "size": "1559631060",
+          "download": "1580074944"
+        }
+      }
+    },
+    "520640": {
+      "manifests": {
+        "public": {
+          "gid": "3174342828982317569",
+          "size": "35441",
+          "download": "10576"
+        }
+      },
+      "dlcappid": "520640"
+    },
+    "520642": {
+      "manifests": {
+        "public": {
+          "gid": "7754709435891111340",
+          "size": "67016",
+          "download": "11232"
+        }
+      },
+      "dlcappid": "520642"
+    },
+    "520643": {
+      "manifests": {
+        "public": {
+          "gid": "3532237564037731302",
+          "size": "142066542",
+          "download": "45560928"
+        }
+      },
+      "dlcappid": "520643"
+    },
+    "520644": {
+      "manifests": {
+        "public": {
+          "gid": "7811194545625682592",
+          "size": "72007212",
+          "download": "38970224"
+        }
+      },
+      "dlcappid": "520644"
+    },
+    "520645": {
+      "manifests": {
+        "public": {
+          "gid": "6286422377533045887",
+          "size": "44442",
+          "download": "12304"
+        }
+      },
+      "dlcappid": "520645"
+    },
+    "520646": {
+      "manifests": {
+        "public": {
+          "gid": "5938580773478787857",
+          "size": "1772150",
+          "download": "1652432"
+        }
+      },
+      "dlcappid": "520646"
+    },
+    "520648": {
+      "manifests": {
+        "public": {
+          "gid": "4672147022088996139",
+          "size": "1469095933",
+          "download": "1488289136"
+        }
+      }
+    },
+    "520649": {
+      "manifests": {
+        "public": {
+          "gid": "1661781670450418393",
+          "size": "2217",
+          "download": "1232"
+        }
+      },
+      "dlcappid": "520640"
+    },
+    "579270": {
+      "manifests": {
+        "public": {
+          "gid": "9133868690878612373",
+          "size": "152982",
+          "download": "36784"
+        }
+      },
+      "dlcappid": "579270"
+    },
+    "579271": {
+      "manifests": {
+        "public": {
+          "gid": "1174846909108705431",
+          "size": "2042",
+          "download": "1200"
+        }
+      },
+      "dlcappid": "520640"
+    },
+    "579272": {
+      "manifests": {
+        "public": {
+          "gid": "4529600967739102286",
+          "size": "2169",
+          "download": "1216"
+        }
+      },
+      "dlcappid": "520640"
+    },
+    "579273": {
+      "manifests": {
+        "public": {
+          "gid": "827532839096610",
+          "size": "2910",
+          "download": "1056"
+        }
+      },
+      "dlcappid": "520642"
+    },
+    "579274": {
+      "manifests": {
+        "public": {
+          "gid": "399666674649000346",
+          "size": "2856",
+          "download": "1056"
+        }
+      },
+      "dlcappid": "520642"
+    },
+    "579275": {
+      "manifests": {
+        "public": {
+          "gid": "624843683841728757",
+          "size": "9915",
+          "download": "4464"
+        }
+      },
+      "dlcappid": "520643"
+    },
+    "579276": {
+      "manifests": {
+        "public": {
+          "gid": "4821201422346754980",
+          "size": "9707",
+          "download": "4416"
+        }
+      },
+      "dlcappid": "520643"
+    },
+    "579277": {
+      "manifests": {
+        "public": {
+          "gid": "3645892058065408042",
+          "size": "10154",
+          "download": "4560"
+        }
+      },
+      "dlcappid": "520643"
+    },
+    "579278": {
+      "manifests": {
+        "public": {
+          "gid": "728233429832957066",
+          "size": "4060",
+          "download": "1904"
+        }
+      },
+      "dlcappid": "520644"
+    },
+    "579279": {
+      "manifests": {
+        "public": {
+          "gid": "753196305503276172",
+          "size": "3802",
+          "download": "1824"
+        }
+      },
+      "dlcappid": "520644"
+    },
+    "580370": {
+      "manifests": {
+        "public": {
+          "gid": "4825570668669413892",
+          "size": "4030",
+          "download": "1904"
+        }
+      },
+      "dlcappid": "520644"
+    },
+    "580371": {
+      "manifests": {
+        "public": {
+          "gid": "193582173415427705",
+          "size": "3661",
+          "download": "1552"
+        }
+      },
+      "dlcappid": "520645"
+    },
+    "580372": {
+      "manifests": {
+        "public": {
+          "gid": "118809430898470998",
+          "size": "3455",
+          "download": "1568"
+        }
+      },
+      "dlcappid": "520645"
+    },
+    "580373": {
+      "manifests": {
+        "public": {
+          "gid": "5926886358140333602",
+          "size": "3666",
+          "download": "1568"
+        }
+      },
+      "dlcappid": "520645"
+    },
+    "580374": {
+      "manifests": {
+        "public": {
+          "gid": "5534628993544544489",
+          "size": "95604173",
+          "download": "78887872"
+        }
+      }
+    },
+    "580375": {
+      "manifests": {
+        "public": {
+          "gid": "554029732042369343",
+          "size": "12133",
+          "download": "4992"
+        }
+      },
+      "dlcappid": "579270"
+    },
+    "580376": {
+      "manifests": {
+        "public": {
+          "gid": "2450849109643730217",
+          "size": "1378039895",
+          "download": "1395842032"
+        }
+      }
+    },
+    "580377": {
+      "manifests": {
+        "public": {
+          "gid": "617044828524450602",
+          "size": "2367",
+          "download": "1440"
+        }
+      },
+      "dlcappid": "520640"
+    },
+    "580378": {
+      "manifests": {
+        "public": {
+          "gid": "5631727520251377477",
+          "size": "3000",
+          "download": "1152"
+        }
+      },
+      "dlcappid": "520642"
+    },
+    "580379": {
+      "manifests": {
+        "public": {
+          "gid": "3235123821509726246",
+          "size": "11045",
+          "download": "5024"
+        }
+      },
+      "dlcappid": "520643"
+    },
+    "580380": {
+      "manifests": {
+        "public": {
+          "gid": "2796117856108996595",
+          "size": "4690",
+          "download": "2208"
+        }
+      },
+      "dlcappid": "520644"
+    },
+    "580381": {
+      "manifests": {
+        "public": {
+          "gid": "511910549620918691",
+          "size": "3851",
+          "download": "1696"
+        }
+      },
+      "dlcappid": "520645"
+    },
+    "580382": {
+      "manifests": {
+        "public": {
+          "gid": "150980227031015453",
+          "size": "11984",
+          "download": "4896"
+        }
+      },
+      "dlcappid": "579270"
+    },
+    "580383": {
+      "manifests": {
+        "public": {
+          "gid": "63083503560693794",
+          "size": "10986",
+          "download": "4512"
+        }
+      },
+      "dlcappid": "579270"
+    },
+    "580384": {
+      "manifests": {
+        "public": {
+          "gid": "90884986402498916",
+          "size": "11319",
+          "download": "4624"
+        }
+      },
+      "dlcappid": "579270"
+    },
+    "580385": {
+      "manifests": {
+        "public": {
+          "gid": "19646877200502771",
+          "size": "11419",
+          "download": "4640"
+        }
+      },
+      "dlcappid": "579270"
+    },
+    "580386": {
+      "manifests": {
+        "public": {
+          "gid": "768253702504830878",
+          "size": "2890",
+          "download": "1040"
+        }
+      },
+      "dlcappid": "520642"
+    },
+    "580387": {
+      "manifests": {
+        "public": {
+          "gid": "3527164690301836417",
+          "size": "25881",
+          "download": "9968"
+        }
+      },
+      "dlcappid": "757510"
+    },
+    "580388": {
+      "manifests": {
+        "public": {
+          "gid": "3090255344189746847",
+          "size": "24252",
+          "download": "9216"
+        }
+      },
+      "dlcappid": "757510"
+    },
+    "580389": {
+      "manifests": {
+        "public": {
+          "gid": "575909389762016934",
+          "size": "23109",
+          "download": "8896"
+        }
+      },
+      "dlcappid": "757510"
+    },
+    "580390": {
+      "manifests": {
+        "public": {
+          "gid": "5238848545950571795",
+          "size": "24594",
+          "download": "9216"
+        }
+      },
+      "dlcappid": "757510"
+    },
+    "580391": {
+      "manifests": {
+        "public": {
+          "gid": "611161205871090286",
+          "size": "25996",
+          "download": "10032"
+        }
+      },
+      "dlcappid": "757510"
+    },
+    "757510": {
+      "manifests": {
+        "public": {
+          "gid": "46070727461233723",
+          "size": "361754649",
+          "download": "131851472"
+        }
+      },
+      "dlcappid": "757510"
+    },
+    "1176130": {
+      "manifests": {
+        "public": {
+          "gid": "4345098928167756359",
+          "size": "318329542",
+          "download": "90927104"
+        }
+      },
+      "dlcappid": "1176130"
+    },
+    "1715480": {
+      "manifests": {
+        "public": {
+          "gid": "2278218190234007517",
+          "size": "15",
+          "download": "64"
+        }
+      },
+      "dlcappid": "1715480"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26330835",
+        "timeupdated": "1793383957",
+        "timebuildupdated": "1793383957"
+      },
+      "modding": {
+        "buildid": "26330531",
+        "description": "v3.10 Modder's Build",
+        "timeupdated": "1793383175",
+        "timebuildupdated": "1793383175"
+      },
+      "opt-in": {
+        "buildid": "26330546",
+        "description": "v3.3 Release",
+        "timeupdated": "1793383208",
+        "timebuildupdated": "1793383208"
+      },
+      "previous": {
+        "buildid": "26330538",
+        "description": "v3.10.191346",
+        "timeupdated": "1793383187",
+        "timebuildupdated": "1793383187"
+      }
+    }
+  }
+}

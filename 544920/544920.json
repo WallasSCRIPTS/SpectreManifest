@@ -1,0 +1,70 @@
+{
+  "name": "Darwin Project",
+  "source": "spectre",
+  "changenumber": 40700747,
+  "updated": "2026-11-07T20:58:39.287Z",
+  "branches": {
+    "public": {
+      "buildid": "26109149",
+      "timeupdated": "1792608091",
+      "timebuildupdated": "1792593292"
+    },
+    "unofficial": {
+      "buildid": "26109149",
+      "description": "Unsupported builds",
+      "timeupdated": "1792607876",
+      "timebuildupdated": "1792593292"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "544921": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4459353720524724463",
+          "size": "4577946130",
+          "download": "3632670592"
+        }
+      }
+    },
+    "544922": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8147051429259261890",
+          "size": "10967605009",
+          "download": "2743661376"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26109149",
+        "timeupdated": "1792608091",
+        "timebuildupdated": "1792593292"
+      },
+      "unofficial": {
+        "buildid": "26109149",
+        "description": "Unsupported builds",
+        "timeupdated": "1792607876",
+        "timebuildupdated": "1792593292"
+      }
+    }
+  }
+}

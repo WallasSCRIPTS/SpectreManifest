@@ -1,0 +1,130 @@
+{
+  "name": "APICO",
+  "source": "spectre",
+  "changenumber": 40490348,
+  "updated": "2026-11-06T21:04:54.237Z",
+  "branches": {
+    "public": {
+      "buildid": "24776032",
+      "timeupdated": "1786973753",
+      "timebuildupdated": "1786969049"
+    },
+    "crystallum_lts2022": {
+      "buildid": "18843635",
+      "description": "4.0 version of APICO before GameMaker LTS2026 update",
+      "timeupdated": "1749746987",
+      "timebuildupdated": "1749746115"
+    },
+    "last_patch": {
+      "buildid": "24599407",
+      "description": "This branch will always bee on the last version of the game relative to the current live version",
+      "timeupdated": "1786043284",
+      "timebuildupdated": "1786043007"
+    },
+    "apis": {
+      "buildid": "9333559",
+      "description": "Archived version of the old 1.0 version of APICO (Apis 1.4.3 HF1)",
+      "timeupdated": "1694439939",
+      "timebuildupdated": "1660755983"
+    },
+    "papilio": {
+      "buildid": "11079239",
+      "description": "Archived version of the old 2.0 version of APICO (Papilio 2.2.3)",
+      "timeupdated": "1694439867",
+      "timebuildupdated": "1682361633"
+    },
+    "nautilus": {
+      "buildid": "12596215",
+      "description": "Archived version of the old 3.0 version of APICO (Nautilus 3.2.2)",
+      "timeupdated": "1715181018",
+      "timebuildupdated": "1698878209"
+    }
+  },
+  "depot": {
+    "1390191": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3986703070102566916",
+          "size": "393406110",
+          "download": "346114144"
+        }
+      }
+    },
+    "1390192": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5844363121923482180",
+          "size": "422147564",
+          "download": "355307872"
+        }
+      }
+    },
+    "1390193": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8499461508613813612",
+          "size": "393406110",
+          "download": "346118352"
+        }
+      }
+    },
+    "1390194": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8747117724230321339",
+          "size": "387629856",
+          "download": "345248192"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24776032",
+        "timeupdated": "1786973753",
+        "timebuildupdated": "1786969049"
+      },
+      "crystallum_lts2022": {
+        "buildid": "18843635",
+        "description": "4.0 version of APICO before GameMaker LTS2026 update",
+        "timeupdated": "1749746987",
+        "timebuildupdated": "1749746115"
+      },
+      "last_patch": {
+        "buildid": "24599407",
+        "description": "This branch will always bee on the last version of the game relative to the current live version",
+        "timeupdated": "1786043284",
+        "timebuildupdated": "1786043007"
+      },
+      "apis": {
+        "buildid": "9333559",
+        "description": "Archived version of the old 1.0 version of APICO (Apis 1.4.3 HF1)",
+        "timeupdated": "1694439939",
+        "timebuildupdated": "1660755983"
+      },
+      "papilio": {
+        "buildid": "11079239",
+        "description": "Archived version of the old 2.0 version of APICO (Papilio 2.2.3)",
+        "timeupdated": "1694439867",
+        "timebuildupdated": "1682361633"
+      },
+      "nautilus": {
+        "buildid": "12596215",
+        "description": "Archived version of the old 3.0 version of APICO (Nautilus 3.2.2)",
+        "timeupdated": "1715181018",
+        "timebuildupdated": "1698878209"
+      }
+    }
+  }
+}

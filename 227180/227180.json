@@ -1,0 +1,72 @@
+{
+  "name": "Kingdom Wars",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T20:56:06.812Z",
+  "branches": {
+    "public": {
+      "buildid": "6198280",
+      "timeupdated": "1612571446",
+      "timebuildupdated": "1612571446"
+    }
+  },
+  "depot": {
+    "227181": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3823630835119290573",
+          "size": "4740531096",
+          "download": "2454941392"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "366330": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3177392472588520459",
+          "size": "18768",
+          "download": "16928"
+        }
+      },
+      "dlcappid": "366330"
+    },
+    "366331": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "240514202089314088",
+          "size": "18768",
+          "download": "16928"
+        }
+      },
+      "dlcappid": "366331"
+    },
+    "branches": {
+      "public": {
+        "buildid": "6198280",
+        "timeupdated": "1612571446",
+        "timebuildupdated": "1612571446"
+      }
+    }
+  }
+}

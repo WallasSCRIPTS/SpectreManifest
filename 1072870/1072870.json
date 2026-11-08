@@ -1,0 +1,82 @@
+{
+  "name": "Random War",
+  "source": "spectre",
+  "changenumber": 34845395,
+  "updated": "2026-11-07T21:02:59.909Z",
+  "branches": {
+    "public": {
+      "buildid": "5929434",
+      "timeupdated": "1607275543",
+      "timebuildupdated": "1607274232"
+    },
+    "test": {
+      "buildid": "5929434",
+      "description": "testing",
+      "timeupdated": "1607274361",
+      "timebuildupdated": "1607274232"
+    }
+  },
+  "depot": {
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1072871": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4520118104258733919",
+          "size": "127703470",
+          "download": "57444560"
+        }
+      }
+    },
+    "1072872": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3222643106945035701",
+          "size": "140222333",
+          "download": "59652432"
+        }
+      }
+    },
+    "1072873": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "925098772277439840",
+          "size": "120209990",
+          "download": "55089472"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5929434",
+        "timeupdated": "1607275543",
+        "timebuildupdated": "1607274232"
+      },
+      "test": {
+        "buildid": "5929434",
+        "description": "testing",
+        "timeupdated": "1607274361",
+        "timebuildupdated": "1607274232"
+      }
+    }
+  }
+}

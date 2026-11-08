@@ -1,0 +1,79 @@
+{
+  "name": "Grocket",
+  "source": "spectre",
+  "changenumber": 40062413,
+  "updated": "2026-11-06T23:11:37.487Z",
+  "branches": {
+    "public": {
+      "buildid": "11609023",
+      "timeupdated": "1688312662",
+      "timebuildupdated": "1688312545"
+    },
+    "beta": {
+      "buildid": "23891990",
+      "description": "Contains builds that are still in development",
+      "timeupdated": "1782299059",
+      "timebuildupdated": "1782299059"
+    }
+  },
+  "depot": {
+    "1839541": {
+      "manifests": {
+        "public": {
+          "gid": "3583949069911127223",
+          "size": "999636298",
+          "download": "373285168"
+        }
+      }
+    },
+    "1839542": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8914575691897069794",
+          "size": "482928925",
+          "download": "337328784"
+        }
+      }
+    },
+    "1839543": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2567554533298491579",
+          "size": "483412733",
+          "download": "336186400"
+        }
+      }
+    },
+    "1839544": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8781438887114248837",
+          "size": "475969601",
+          "download": "335255088"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11609023",
+        "timeupdated": "1688312662",
+        "timebuildupdated": "1688312545"
+      },
+      "beta": {
+        "buildid": "23891990",
+        "description": "Contains builds that are still in development",
+        "timeupdated": "1782299059",
+        "timebuildupdated": "1782299059"
+      }
+    }
+  }
+}

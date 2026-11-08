@@ -1,0 +1,97 @@
+{
+  "name": "The Banner Saga 2",
+  "source": "spectre",
+  "changenumber": 37432709,
+  "updated": "2026-11-07T20:56:22.079Z",
+  "branches": {
+    "public": {
+      "buildid": "3272559",
+      "timeupdated": "1543515386",
+      "timebuildupdated": "1541198163"
+    },
+    "beta": {
+      "buildid": "3272559",
+      "description": "Banner Saga 2 public beta branch",
+      "timeupdated": "1543280473",
+      "timebuildupdated": "1541198163"
+    },
+    "localization": {
+      "buildid": "3204247",
+      "description": "Public Banner Saga 2 localization review branch",
+      "timeupdated": "1539279603",
+      "timebuildupdated": "1539277055"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "281641": {
+      "manifests": {
+        "public": {
+          "gid": "8940571721663272952",
+          "size": "5334847983",
+          "download": "5053337344"
+        }
+      }
+    },
+    "281642": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2849496889067869211",
+          "size": "185068684",
+          "download": "73079664"
+        }
+      }
+    },
+    "281643": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6453209846679789386",
+          "size": "143331728",
+          "download": "91611664"
+        }
+      }
+    },
+    "4842931": {
+      "config": {
+        "oslist": "windows"
+      },
+      "dlcappid": "4842930"
+    },
+    "branches": {
+      "public": {
+        "buildid": "3272559",
+        "timeupdated": "1543515386",
+        "timebuildupdated": "1541198163"
+      },
+      "beta": {
+        "buildid": "3272559",
+        "description": "Banner Saga 2 public beta branch",
+        "timeupdated": "1543280473",
+        "timebuildupdated": "1541198163"
+      },
+      "localization": {
+        "buildid": "3204247",
+        "description": "Public Banner Saga 2 localization review branch",
+        "timeupdated": "1539279603",
+        "timebuildupdated": "1539277055"
+      }
+    }
+  }
+}

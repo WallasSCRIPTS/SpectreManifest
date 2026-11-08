@@ -1,0 +1,51 @@
+{
+  "name": "Bokube Demo",
+  "source": "spectre",
+  "changenumber": 34898749,
+  "updated": "2026-11-06T23:23:21.774Z",
+  "branches": {
+    "public": {
+      "buildid": "21636207",
+      "timeupdated": "1769315469",
+      "timebuildupdated": "1769315440"
+    },
+    "linuxbokubedemo": {
+      "buildid": "21659335",
+      "description": "Linux version of the Bokube Demo",
+      "timeupdated": "1769484969",
+      "timebuildupdated": "1769484969"
+    }
+  },
+  "depot": {
+    "2381831": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4472551242055142302",
+          "size": "885230804",
+          "download": "510639872"
+        }
+      }
+    },
+    "2381832": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21636207",
+        "timeupdated": "1769315469",
+        "timebuildupdated": "1769315440"
+      },
+      "linuxbokubedemo": {
+        "buildid": "21659335",
+        "description": "Linux version of the Bokube Demo",
+        "timeupdated": "1769484969",
+        "timebuildupdated": "1769484969"
+      }
+    }
+  }
+}

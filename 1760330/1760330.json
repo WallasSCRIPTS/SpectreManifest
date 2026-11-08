@@ -1,0 +1,94 @@
+{
+  "name": "Noreya: The Gold Project",
+  "source": "spectre",
+  "changenumber": 40472035,
+  "updated": "2026-11-06T23:09:43.886Z",
+  "branches": {
+    "public": {
+      "buildid": "16878051",
+      "timeupdated": "1735600726",
+      "timebuildupdated": "1735600114"
+    },
+    "demo": {
+      "buildid": "14709095",
+      "description": "This is the public demo in case you want to help us testing it",
+      "timeupdated": "1718302459",
+      "timebuildupdated": "1718302459"
+    },
+    "save_destruction": {
+      "buildid": "14805821",
+      "description": "Testing the new save system, can destroy yours",
+      "timeupdated": "1719081528",
+      "timebuildupdated": "1719081528"
+    },
+    "testing": {
+      "buildid": "16980207",
+      "description": "to test the beta build (default branch)",
+      "timeupdated": "1736694366",
+      "timebuildupdated": "1736694366"
+    }
+  },
+  "depot": {
+    "1760331": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "192193902112952256",
+          "size": "1341943270",
+          "download": "703316544"
+        }
+      }
+    },
+    "1760333": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8067976821309589806",
+          "size": "793212841",
+          "download": "411702512"
+        }
+      }
+    },
+    "1760334": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8677216000979263556",
+          "size": "750328359",
+          "download": "756289200"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16878051",
+        "timeupdated": "1735600726",
+        "timebuildupdated": "1735600114"
+      },
+      "demo": {
+        "buildid": "14709095",
+        "description": "This is the public demo in case you want to help us testing it",
+        "timeupdated": "1718302459",
+        "timebuildupdated": "1718302459"
+      },
+      "save_destruction": {
+        "buildid": "14805821",
+        "description": "Testing the new save system, can destroy yours",
+        "timeupdated": "1719081528",
+        "timebuildupdated": "1719081528"
+      },
+      "testing": {
+        "buildid": "16980207",
+        "description": "to test the beta build (default branch)",
+        "timeupdated": "1736694366",
+        "timebuildupdated": "1736694366"
+      }
+    }
+  }
+}

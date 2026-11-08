@@ -1,0 +1,55 @@
+{
+  "name": "Stormgate",
+  "source": "spectre",
+  "changenumber": 40640920,
+  "updated": "2026-11-06T23:15:36.382Z",
+  "branches": {
+    "public": {
+      "buildid": "23038835",
+      "timeupdated": "1777603371",
+      "timebuildupdated": "1777591999"
+    },
+    "community_patch_ptr": {
+      "buildid": "26011570",
+      "description": "community patch public test server",
+      "timeupdated": "1792253047",
+      "timebuildupdated": "1792251627"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2012511": {
+      "manifests": {
+        "public": {
+          "gid": "133129214034260577",
+          "size": "19066974484",
+          "download": "15376233360"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23038835",
+        "timeupdated": "1777603371",
+        "timebuildupdated": "1777591999"
+      },
+      "community_patch_ptr": {
+        "buildid": "26011570",
+        "description": "community patch public test server",
+        "timeupdated": "1792253047",
+        "timebuildupdated": "1792251627"
+      }
+    }
+  }
+}

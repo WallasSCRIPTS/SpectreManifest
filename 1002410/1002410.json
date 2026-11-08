@@ -1,0 +1,70 @@
+{
+  "name": "The Five Cores Remastered",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:22.333Z",
+  "branches": {
+    "public": {
+      "buildid": "9180764",
+      "timeupdated": "1658684355",
+      "timebuildupdated": "1658684355"
+    }
+  },
+  "depot": {
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1002413": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4870523160984422826",
+          "size": "6805704732",
+          "download": "1505977264"
+        }
+      }
+    },
+    "1002414": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8064636432089480091",
+          "size": "4786941547",
+          "download": "2244528192"
+        }
+      }
+    },
+    "1002415": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2479234749861565086",
+          "size": "5189066871",
+          "download": "2504227008"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9180764",
+        "timeupdated": "1658684355",
+        "timebuildupdated": "1658684355"
+      }
+    }
+  }
+}

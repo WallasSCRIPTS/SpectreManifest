@@ -1,0 +1,70 @@
+{
+  "name": "Super Nova Party",
+  "source": "spectre",
+  "changenumber": 37454840,
+  "updated": "2026-11-06T23:17:29.048Z",
+  "branches": {
+    "public": {
+      "buildid": "9847132",
+      "timeupdated": "1667329280",
+      "timebuildupdated": "1667328531"
+    },
+    "v0.1": {
+      "buildid": "9847132",
+      "description": "v0.1 Mac+PC Build",
+      "timeupdated": "1667328531",
+      "timebuildupdated": "1667328531"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2078611": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3612409671651078339",
+          "size": "452210541",
+          "download": "106620048"
+        }
+      }
+    },
+    "2078612": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7812148989455865198",
+          "size": "393118730",
+          "download": "132070544"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9847132",
+        "timeupdated": "1667329280",
+        "timebuildupdated": "1667328531"
+      },
+      "v0.1": {
+        "buildid": "9847132",
+        "description": "v0.1 Mac+PC Build",
+        "timeupdated": "1667328531",
+        "timebuildupdated": "1667328531"
+      }
+    }
+  }
+}

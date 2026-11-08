@@ -1,0 +1,75 @@
+{
+  "name": "Klepto",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:34.212Z",
+  "branches": {
+    "public": {
+      "buildid": "2088074",
+      "timeupdated": "1504389513",
+      "timebuildupdated": "1504383693"
+    },
+    "beta": {
+      "buildid": "2088074",
+      "description": "Beta dev/test builds",
+      "timeupdated": "1504383794",
+      "timebuildupdated": "1504383693"
+    },
+    "development": {
+      "buildid": "1358281",
+      "description": "Development builds for testing",
+      "timeupdated": "1474920047",
+      "timebuildupdated": "1474919861"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "403591": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5559232561229111307",
+          "size": "4502584126",
+          "download": "4226402784"
+        }
+      }
+    },
+    "403592": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2088074",
+        "timeupdated": "1504389513",
+        "timebuildupdated": "1504383693"
+      },
+      "beta": {
+        "buildid": "2088074",
+        "description": "Beta dev/test builds",
+        "timeupdated": "1504383794",
+        "timebuildupdated": "1504383693"
+      },
+      "development": {
+        "buildid": "1358281",
+        "description": "Development builds for testing",
+        "timeupdated": "1474920047",
+        "timebuildupdated": "1474919861"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Low Light Combat",
+  "source": "spectre",
+  "changenumber": 39631234,
+  "updated": "2026-11-06T23:07:50.655Z",
+  "branches": {
+    "public": {
+      "buildid": "7593744",
+      "timeupdated": "1635163367",
+      "timebuildupdated": "1635163367"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1696821": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2455845042711081244",
+          "size": "2666514639",
+          "download": "1804140928"
+        }
+      }
+    },
+    "1696822": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8048173416619242422",
+          "size": "3719065993",
+          "download": "1981326176"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7593744",
+        "timeupdated": "1635163367",
+        "timebuildupdated": "1635163367"
+      }
+    }
+  }
+}

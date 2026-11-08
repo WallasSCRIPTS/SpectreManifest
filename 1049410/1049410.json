@@ -1,0 +1,82 @@
+{
+  "name": "Superliminal",
+  "source": "spectre",
+  "changenumber": 38370030,
+  "updated": "2026-11-07T21:02:46.584Z",
+  "branches": {
+    "public": {
+      "buildid": "10651429",
+      "timeupdated": "1677611378",
+      "timebuildupdated": "1677549473"
+    },
+    "superliminal-launch-version": {
+      "buildid": "5785867",
+      "description": "Version 1.0",
+      "timeupdated": "1605828003",
+      "timebuildupdated": "1604550843"
+    },
+    "superliminal-previous-patch": {
+      "buildid": "5952707",
+      "description": "Branch for the last patch",
+      "timeupdated": "1619599982",
+      "timebuildupdated": "1607652471"
+    }
+  },
+  "depot": {
+    "1049411": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3646111955971398231",
+          "size": "16010744346",
+          "download": "3179274256"
+        }
+      }
+    },
+    "1049412": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3891342746257394329",
+          "size": "16032166647",
+          "download": "3185277472"
+        }
+      }
+    },
+    "1049413": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3065443301679919409",
+          "size": "16160081746",
+          "download": "3266972528"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10651429",
+        "timeupdated": "1677611378",
+        "timebuildupdated": "1677549473"
+      },
+      "superliminal-launch-version": {
+        "buildid": "5785867",
+        "description": "Version 1.0",
+        "timeupdated": "1605828003",
+        "timebuildupdated": "1604550843"
+      },
+      "superliminal-previous-patch": {
+        "buildid": "5952707",
+        "description": "Branch for the last patch",
+        "timeupdated": "1619599982",
+        "timebuildupdated": "1607652471"
+      }
+    }
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "name": "Starcom: Nexus",
+  "source": "spectre",
+  "changenumber": 39817408,
+  "updated": "2026-11-07T21:01:15.628Z",
+  "branches": {
+    "public": {
+      "buildid": "20239399",
+      "timeupdated": "1759497525",
+      "timebuildupdated": "1759497229"
+    },
+    "beta_0_10_stable": {
+      "buildid": "3485568",
+      "description": "Rollback build for playin 0.10.x save games",
+      "timeupdated": "1553770073",
+      "timebuildupdated": "1548012446"
+    },
+    "beta_0_12_stable": {
+      "buildid": "3677956",
+      "description": "Beta 0.12 Stable",
+      "timeupdated": "1559566941",
+      "timebuildupdated": "1553530168"
+    },
+    "beta_0_13_preview": {
+      "buildid": "3791506",
+      "description": "Preview build for Beta 0.13",
+      "timeupdated": "1556893271",
+      "timebuildupdated": "1556893092"
+    },
+    "beta_0_14_preview": {
+      "buildid": "3877473",
+      "description": "Preview build for Beta 0.14",
+      "timeupdated": "1559319581",
+      "timebuildupdated": "1559319452"
+    },
+    "beta_0_14_stable": {
+      "buildid": "3877473",
+      "description": "Rollback build for playing 0.14 saves",
+      "timeupdated": "1569415429",
+      "timebuildupdated": "1559319452"
+    },
+    "beta_0_15_preview": {
+      "buildid": "4137491",
+      "description": "Preview build for Beta 0.15",
+      "timeupdated": "1566761872",
+      "timebuildupdated": "1566761833"
+    },
+    "beta_0_16_preview": {
+      "buildid": "4203877",
+      "description": "Preview build for Beta 0.16",
+      "timeupdated": "1568732262",
+      "timebuildupdated": "1568732219"
+    },
+    "beta_0_16_stable": {
+      "buildid": "4203877",
+      "description": "Rollback build for playing 0.16 save games",
+      "timeupdated": "1572873702",
+      "timebuildupdated": "1568732219"
+    },
+    "beta_0_9_3": {
+      "buildid": "3352489",
+      "description": "Quality settings from in game patch",
+      "timeupdated": "1543531396",
+      "timebuildupdated": "1543531378"
+    },
+    "beta_0_9_4": {
+      "buildid": "3394465",
+      "description": "Fix for controller auto-detect",
+      "timeupdated": "1545404760",
+      "timebuildupdated": "1544714291"
+    },
+    "beta_0_9_stable": {
+      "buildid": "3394465",
+      "description": "Rollback build for playing 0.9.x save games",
+      "timeupdated": "1548612671",
+      "timebuildupdated": "1544714291"
+    },
+    "localization": {
+      "buildid": "4547985",
+      "description": "Build for localization testing",
+      "timeupdated": "1578407874",
+      "timebuildupdated": "1578407737"
+    },
+    "postrelease_patch_1": {
+      "buildid": "4515883",
+      "description": "Preview for first post-release build",
+      "timeupdated": "1576856157",
+      "timebuildupdated": "1576856028"
+    },
+    "release_1_0_10_preview": {
+      "buildid": "4537852",
+      "description": "Preview build for 1.0.10 (Windows and Linux)",
+      "timeupdated": "1577997401",
+      "timebuildupdated": "1577997401"
+    },
+    "release_1_0_11_preview": {
+      "buildid": "4738255",
+      "description": "Preview build for 1.0.11",
+      "timeupdated": "1583251937",
+      "timebuildupdated": "1583251937"
+    },
+    "release_1_0_3_linux_experimental": {
+      "buildid": "4354667",
+      "description": "Experimental Linux",
+      "timeupdated": "1572880654",
+      "timebuildupdated": "1572880654"
+    },
+    "release_1_0_preview": {
+      "buildid": "4337159",
+      "description": "Preview build for v 1.0 rc",
+      "timeupdated": "1572376916",
+      "timebuildupdated": "1572375981"
+    },
+    "release_1_0_12": {
+      "buildid": "20239399",
+      "description": "Build for 1.0.12",
+      "timeupdated": "1759497467",
+      "timebuildupdated": "1759497229"
+    }
+  },
+  "depot": {
+    "863591": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7834625224712668204",
+          "size": "1695208381",
+          "download": "758248400"
+        }
+      }
+    },
+    "863592": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1998458034144377253",
+          "size": "1752363636",
+          "download": "780106384"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20239399",
+        "timeupdated": "1759497525",
+        "timebuildupdated": "1759497229"
+      },
+      "beta_0_10_stable": {
+        "buildid": "3485568",
+        "description": "Rollback build for playin 0.10.x save games",
+        "timeupdated": "1553770073",
+        "timebuildupdated": "1548012446"
+      },
+      "beta_0_12_stable": {
+        "buildid": "3677956",
+        "description": "Beta 0.12 Stable",
+        "timeupdated": "1559566941",
+        "timebuildupdated": "1553530168"
+      },
+      "beta_0_13_preview": {
+        "buildid": "3791506",
+        "description": "Preview build for Beta 0.13",
+        "timeupdated": "1556893271",
+        "timebuildupdated": "1556893092"
+      },
+      "beta_0_14_preview": {
+        "buildid": "3877473",
+        "description": "Preview build for Beta 0.14",
+        "timeupdated": "1559319581",
+        "timebuildupdated": "1559319452"
+      },
+      "beta_0_14_stable": {
+        "buildid": "3877473",
+        "description": "Rollback build for playing 0.14 saves",
+        "timeupdated": "1569415429",
+        "timebuildupdated": "1559319452"
+      },
+      "beta_0_15_preview": {
+        "buildid": "4137491",
+        "description": "Preview build for Beta 0.15",
+        "timeupdated": "1566761872",
+        "timebuildupdated": "1566761833"
+      },
+      "beta_0_16_preview": {
+        "buildid": "4203877",
+        "description": "Preview build for Beta 0.16",
+        "timeupdated": "1568732262",
+        "timebuildupdated": "1568732219"
+      },
+      "beta_0_16_stable": {
+        "buildid": "4203877",
+        "description": "Rollback build for playing 0.16 save games",
+        "timeupdated": "1572873702",
+        "timebuildupdated": "1568732219"
+      },
+      "beta_0_9_3": {
+        "buildid": "3352489",
+        "description": "Quality settings from in game patch",
+        "timeupdated": "1543531396",
+        "timebuildupdated": "1543531378"
+      },
+      "beta_0_9_4": {
+        "buildid": "3394465",
+        "description": "Fix for controller auto-detect",
+        "timeupdated": "1545404760",
+        "timebuildupdated": "1544714291"
+      },
+      "beta_0_9_stable": {
+        "buildid": "3394465",
+        "description": "Rollback build for playing 0.9.x save games",
+        "timeupdated": "1548612671",
+        "timebuildupdated": "1544714291"
+      },
+      "localization": {
+        "buildid": "4547985",
+        "description": "Build for localization testing",
+        "timeupdated": "1578407874",
+        "timebuildupdated": "1578407737"
+      },
+      "postrelease_patch_1": {
+        "buildid": "4515883",
+        "description": "Preview for first post-release build",
+        "timeupdated": "1576856157",
+        "timebuildupdated": "1576856028"
+      },
+      "release_1_0_10_preview": {
+        "buildid": "4537852",
+        "description": "Preview build for 1.0.10 (Windows and Linux)",
+        "timeupdated": "1577997401",
+        "timebuildupdated": "1577997401"
+      },
+      "release_1_0_11_preview": {
+        "buildid": "4738255",
+        "description": "Preview build for 1.0.11",
+        "timeupdated": "1583251937",
+        "timebuildupdated": "1583251937"
+      },
+      "release_1_0_3_linux_experimental": {
+        "buildid": "4354667",
+        "description": "Experimental Linux",
+        "timeupdated": "1572880654",
+        "timebuildupdated": "1572880654"
+      },
+      "release_1_0_preview": {
+        "buildid": "4337159",
+        "description": "Preview build for v 1.0 rc",
+        "timeupdated": "1572376916",
+        "timebuildupdated": "1572375981"
+      },
+      "release_1_0_12": {
+        "buildid": "20239399",
+        "description": "Build for 1.0.12",
+        "timeupdated": "1759497467",
+        "timebuildupdated": "1759497229"
+      }
+    }
+  }
+}

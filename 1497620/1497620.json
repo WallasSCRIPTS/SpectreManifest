@@ -1,0 +1,82 @@
+{
+  "name": "DarkDIRE: The Starter Set",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-05T14:55:25.672Z",
+  "branches": {
+    "public": {
+      "buildid": "12895126",
+      "timeupdated": "1701907036",
+      "timebuildupdated": "1701906898"
+    },
+    "alpha": {
+      "buildid": "13039825",
+      "description": "Very Frequent Updates",
+      "timeupdated": "1703423748",
+      "timebuildupdated": "1703423748"
+    },
+    "beta": {
+      "buildid": "13039825",
+      "description": "Less Frequent Updates",
+      "timeupdated": "1703423759",
+      "timebuildupdated": "1703423748"
+    }
+  },
+  "depot": {
+    "1497621": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2888914819022961811",
+          "size": "182868390",
+          "download": "172677072"
+        }
+      }
+    },
+    "1497622": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7050811579722507018",
+          "size": "191797650",
+          "download": "175599936"
+        }
+      }
+    },
+    "1497623": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3816144363881995468",
+          "size": "193953200",
+          "download": "175534896"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12895126",
+        "timeupdated": "1701907036",
+        "timebuildupdated": "1701906898"
+      },
+      "alpha": {
+        "buildid": "13039825",
+        "description": "Very Frequent Updates",
+        "timeupdated": "1703423748",
+        "timebuildupdated": "1703423748"
+      },
+      "beta": {
+        "buildid": "13039825",
+        "description": "Less Frequent Updates",
+        "timeupdated": "1703423759",
+        "timebuildupdated": "1703423748"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Stack & Brew",
+  "source": "spectre",
+  "changenumber": 40600598,
+  "updated": "2026-11-04T23:24:42.440Z",
+  "branches": {
+    "public": {
+      "buildid": "26435629",
+      "timeupdated": "1793807689",
+      "timebuildupdated": "1793807431"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "3596562": {
+      "config": {
+        "oslist": "windows,macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1887834456202227787",
+          "size": "1166705148",
+          "download": "226002480"
+        }
+      }
+    },
+    "3596563": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6240008321925109290",
+          "size": "644232758",
+          "download": "162067632"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26435629",
+        "timeupdated": "1793807689",
+        "timebuildupdated": "1793807431"
+      }
+    }
+  }
+}

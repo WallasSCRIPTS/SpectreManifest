@@ -1,0 +1,70 @@
+{
+  "name": "Star Devil",
+  "source": "spectre",
+  "changenumber": 37537625,
+  "updated": "2026-11-04T23:24:33.764Z",
+  "branches": {
+    "public": {
+      "buildid": "24393282",
+      "timeupdated": "1785062147",
+      "timebuildupdated": "1785016626"
+    },
+    "beta": {
+      "buildid": "24393282",
+      "description": "Beta branch",
+      "timeupdated": "1785016688",
+      "timebuildupdated": "1785016626"
+    },
+    "production": {
+      "buildid": "24393282",
+      "description": "Production branch",
+      "timeupdated": "1785062117",
+      "timebuildupdated": "1785016626"
+    }
+  },
+  "depot": {
+    "2082901": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2709215102274036214",
+          "size": "150350231",
+          "download": "91016512"
+        }
+      }
+    },
+    "2082902": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3479520153430952518",
+          "size": "137999257",
+          "download": "89310688"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24393282",
+        "timeupdated": "1785062147",
+        "timebuildupdated": "1785016626"
+      },
+      "beta": {
+        "buildid": "24393282",
+        "description": "Beta branch",
+        "timeupdated": "1785016688",
+        "timebuildupdated": "1785016626"
+      },
+      "production": {
+        "buildid": "24393282",
+        "description": "Production branch",
+        "timeupdated": "1785062117",
+        "timebuildupdated": "1785016626"
+      }
+    }
+  }
+}

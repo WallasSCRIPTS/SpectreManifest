@@ -1,0 +1,67 @@
+{
+  "name": "The Art Of Flight",
+  "source": "spectre",
+  "changenumber": 40687105,
+  "updated": "2026-11-06T23:07:51.858Z",
+  "branches": {
+    "public": {
+      "buildid": "26496319",
+      "timeupdated": "1794004800",
+      "timebuildupdated": "1794004532"
+    },
+    "testing": {
+      "buildid": "26496319",
+      "description": "testing",
+      "timeupdated": "1794004532",
+      "timebuildupdated": "1794004532"
+    }
+  },
+  "depot": {
+    "1706801": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "842512715416781313",
+          "size": "553293010",
+          "download": "530662064"
+        }
+      }
+    },
+    "1706802": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1680068701442326847",
+          "size": "558001621",
+          "download": "532592656"
+        }
+      }
+    },
+    "1706803": {
+      "manifests": {
+        "public": {
+          "gid": "4245681939471390872",
+          "size": "554716629",
+          "download": "531167664"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26496319",
+        "timeupdated": "1794004800",
+        "timebuildupdated": "1794004532"
+      },
+      "testing": {
+        "buildid": "26496319",
+        "description": "testing",
+        "timeupdated": "1794004532",
+        "timebuildupdated": "1794004532"
+      }
+    }
+  }
+}

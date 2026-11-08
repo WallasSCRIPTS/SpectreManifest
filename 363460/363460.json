@@ -1,0 +1,68 @@
+{
+  "name": "Spermination",
+  "source": "spectre",
+  "changenumber": 40004544,
+  "updated": "2026-11-07T20:57:10.025Z",
+  "branches": {
+    "public": {
+      "buildid": "9059967",
+      "timeupdated": "1656975581",
+      "timebuildupdated": "1656974184"
+    },
+    "beta": {
+      "buildid": "9059967",
+      "timeupdated": "1656975573",
+      "timebuildupdated": "1656974184"
+    }
+  },
+  "depot": {
+    "363461": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "231726674174750736",
+          "size": "357880035",
+          "download": "117684000"
+        }
+      }
+    },
+    "363462": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5486472075038147375",
+          "size": "106631194",
+          "download": "51382672"
+        }
+      }
+    },
+    "363463": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4983538901884744946",
+          "size": "330022995",
+          "download": "116970816"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9059967",
+        "timeupdated": "1656975581",
+        "timebuildupdated": "1656974184"
+      },
+      "beta": {
+        "buildid": "9059967",
+        "timeupdated": "1656975573",
+        "timebuildupdated": "1656974184"
+      }
+    }
+  }
+}

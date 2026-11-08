@@ -1,0 +1,130 @@
+{
+  "name": "Dice Tribes: Ambitions",
+  "source": "spectre",
+  "changenumber": 37453606,
+  "updated": "2026-11-06T23:15:24.279Z",
+  "branches": {
+    "public": {
+      "buildid": "10181432",
+      "timeupdated": "1671508348",
+      "timebuildupdated": "1671508309"
+    },
+    "colortest": {
+      "buildid": "11605560",
+      "description": "temporary color blind mode",
+      "timeupdated": "1688223069",
+      "timebuildupdated": "1688222459"
+    },
+    "nosteam": {
+      "buildid": "10181445",
+      "description": "For older OS that steam api is not supported",
+      "timeupdated": "1671508557",
+      "timebuildupdated": "1671508459"
+    },
+    "previous-version": {
+      "buildid": "10102267",
+      "description": "Previous Version",
+      "timeupdated": "1670730582",
+      "timebuildupdated": "1670466672"
+    },
+    "windows8": {
+      "buildid": "10102296",
+      "description": "For windows 8",
+      "timeupdated": "1670467194",
+      "timebuildupdated": "1670466910"
+    },
+    "windows8-1": {
+      "buildid": "9619461",
+      "description": "test-window-8 1",
+      "timeupdated": "1664468840",
+      "timebuildupdated": "1664468778"
+    },
+    "beta": {
+      "buildid": "15415229",
+      "description": "Beta branch",
+      "timeupdated": "1724040967",
+      "timebuildupdated": "1724040770"
+    }
+  },
+  "depot": {
+    "1965802": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4560075940982411206",
+          "size": "28949290",
+          "download": "20095664"
+        }
+      }
+    },
+    "1965803": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1479096544510171325",
+          "size": "28164265",
+          "download": "19575680"
+        }
+      }
+    },
+    "1965804": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "567092730137191543",
+          "size": "27939616",
+          "download": "19557552"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10181432",
+        "timeupdated": "1671508348",
+        "timebuildupdated": "1671508309"
+      },
+      "colortest": {
+        "buildid": "11605560",
+        "description": "temporary color blind mode",
+        "timeupdated": "1688223069",
+        "timebuildupdated": "1688222459"
+      },
+      "nosteam": {
+        "buildid": "10181445",
+        "description": "For older OS that steam api is not supported",
+        "timeupdated": "1671508557",
+        "timebuildupdated": "1671508459"
+      },
+      "previous-version": {
+        "buildid": "10102267",
+        "description": "Previous Version",
+        "timeupdated": "1670730582",
+        "timebuildupdated": "1670466672"
+      },
+      "windows8": {
+        "buildid": "10102296",
+        "description": "For windows 8",
+        "timeupdated": "1670467194",
+        "timebuildupdated": "1670466910"
+      },
+      "windows8-1": {
+        "buildid": "9619461",
+        "description": "test-window-8 1",
+        "timeupdated": "1664468840",
+        "timebuildupdated": "1664468778"
+      },
+      "beta": {
+        "buildid": "15415229",
+        "description": "Beta branch",
+        "timeupdated": "1724040967",
+        "timebuildupdated": "1724040770"
+      }
+    }
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "name": "Pulsen",
+  "source": "spectre",
+  "changenumber": 40706226,
+  "updated": "2026-11-07T20:56:50.750Z",
+  "branches": {
+    "public": {
+      "buildid": "13225820",
+      "timeupdated": "1705734314",
+      "timebuildupdated": "1705732926"
+    },
+    "beta-stable": {
+      "buildid": "13225820",
+      "description": "Stable, but has most of the new features",
+      "timeupdated": "1705732976",
+      "timebuildupdated": "1705732926"
+    },
+    "editor": {
+      "buildid": "1358820",
+      "description": "Working version of the Pulsen Editor",
+      "timeupdated": "1547362807",
+      "timebuildupdated": "1474941736"
+    },
+    "testing-unstable": {
+      "buildid": "26508278",
+      "description": "Bleeding edge; all the new stuff, songs, etc",
+      "timeupdated": "1794068617",
+      "timebuildupdated": "1794068617"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "340961": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5267747208337362747",
+          "size": "704628862",
+          "download": "671332464"
+        }
+      }
+    },
+    "340962": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "370370": {
+      "manifests": {
+        "public": {
+          "gid": "6967145031687762030",
+          "size": "47890926",
+          "download": "47855904"
+        }
+      },
+      "dlcappid": "370370"
+    },
+    "370371": {
+      "manifests": {
+        "public": {
+          "gid": "1066699487693491668",
+          "size": "44064855",
+          "download": "44498288"
+        }
+      },
+      "dlcappid": "370371"
+    },
+    "370372": {
+      "manifests": {
+        "public": {
+          "gid": "3614077439159332304",
+          "size": "1927",
+          "download": "1616"
+        }
+      },
+      "dlcappid": "370372"
+    },
+    "370373": {
+      "manifests": {
+        "public": {
+          "gid": "5685289409049617998",
+          "size": "5130732",
+          "download": "4773632"
+        }
+      },
+      "dlcappid": "370373"
+    },
+    "370380": {
+      "manifests": {
+        "public": {
+          "gid": "1784615856133957265",
+          "size": "51365687",
+          "download": "51660800"
+        }
+      },
+      "dlcappid": "370380"
+    },
+    "370382": {
+      "manifests": {
+        "public": {
+          "gid": "5834287739340772479",
+          "size": "145077239",
+          "download": "145604736"
+        }
+      },
+      "dlcappid": "370382"
+    },
+    "branches": {
+      "public": {
+        "buildid": "13225820",
+        "timeupdated": "1705734314",
+        "timebuildupdated": "1705732926"
+      },
+      "beta-stable": {
+        "buildid": "13225820",
+        "description": "Stable, but has most of the new features",
+        "timeupdated": "1705732976",
+        "timebuildupdated": "1705732926"
+      },
+      "editor": {
+        "buildid": "1358820",
+        "description": "Working version of the Pulsen Editor",
+        "timeupdated": "1547362807",
+        "timebuildupdated": "1474941736"
+      },
+      "testing-unstable": {
+        "buildid": "26508278",
+        "description": "Bleeding edge; all the new stuff, songs, etc",
+        "timeupdated": "1794068617",
+        "timebuildupdated": "1794068617"
+      }
+    }
+  }
+}

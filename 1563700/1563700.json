@@ -1,0 +1,47 @@
+{
+  "name": "当火车鸣笛三秒",
+  "source": "spectre",
+  "changenumber": 39168497,
+  "updated": "2026-11-06T21:06:10.844Z",
+  "branches": {
+    "public": {
+      "buildid": "7996404",
+      "timeupdated": "1641827081",
+      "timebuildupdated": "1641827042"
+    }
+  },
+  "depot": {
+    "1563701": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4452526163367625635",
+          "size": "754159252",
+          "download": "558508640"
+        }
+      }
+    },
+    "1585491": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6675437834468953553",
+          "size": "556679840",
+          "download": "393054400"
+        }
+      },
+      "depotfromapp": "1585490"
+    },
+    "branches": {
+      "public": {
+        "buildid": "7996404",
+        "timeupdated": "1641827081",
+        "timebuildupdated": "1641827042"
+      }
+    }
+  }
+}

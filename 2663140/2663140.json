@@ -1,0 +1,58 @@
+{
+  "name": "Standalone: Synergy",
+  "source": "spectre",
+  "changenumber": 34913478,
+  "updated": "2026-11-06T21:07:21.955Z",
+  "branches": {
+    "public": {
+      "buildid": "13807677",
+      "timeupdated": "1711010197",
+      "timebuildupdated": "1711010095"
+    }
+  },
+  "depot": {
+    "2663141": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8638447456261139601",
+          "size": "1378277008",
+          "download": "504019536"
+        }
+      }
+    },
+    "2663142": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2935412173883734939",
+          "size": "1374424317",
+          "download": "503737344"
+        }
+      }
+    },
+    "2663143": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5387611349177354227",
+          "size": "1401066455",
+          "download": "512464064"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13807677",
+        "timeupdated": "1711010197",
+        "timebuildupdated": "1711010095"
+      }
+    }
+  }
+}

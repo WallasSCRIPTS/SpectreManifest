@@ -1,0 +1,73 @@
+{
+  "name": "Resilience Wave Survival",
+  "source": "spectre",
+  "changenumber": 39502334,
+  "updated": "2026-11-07T20:57:46.458Z",
+  "branches": {
+    "public": {
+      "buildid": "4966356",
+      "timeupdated": "1588266278",
+      "timebuildupdated": "1588263813"
+    },
+    "devtest": {
+      "buildid": "4966517",
+      "description": "Try this if Crashing",
+      "timeupdated": "1588265883",
+      "timebuildupdated": "1588265883"
+    },
+    "legacy": {
+      "buildid": "3436042",
+      "description": "Original Version of RWS",
+      "timeupdated": "1546288274",
+      "timebuildupdated": "1546288274"
+    }
+  },
+  "depot": {
+    "429491": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8347689537353291202",
+          "size": "9641833725",
+          "download": "3890553856"
+        }
+      }
+    },
+    "429497": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "429498": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "429499": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4966356",
+        "timeupdated": "1588266278",
+        "timebuildupdated": "1588263813"
+      },
+      "devtest": {
+        "buildid": "4966517",
+        "description": "Try this if Crashing",
+        "timeupdated": "1588265883",
+        "timebuildupdated": "1588265883"
+      },
+      "legacy": {
+        "buildid": "3436042",
+        "description": "Original Version of RWS",
+        "timeupdated": "1546288274",
+        "timebuildupdated": "1546288274"
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Super Meat Boy Forever",
+  "source": "spectre",
+  "changenumber": 40250306,
+  "updated": "2026-11-07T20:59:00.514Z",
+  "branches": {
+    "public": {
+      "buildid": "13329144",
+      "timeupdated": "1706749612",
+      "timebuildupdated": "1706737696"
+    },
+    "local": {
+      "buildid": "7765769",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1637703556",
+      "timebuildupdated": "1637703556"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "581661": {
+      "manifests": {
+        "public": {
+          "gid": "7901848718728922158",
+          "size": "5821768892",
+          "download": "2363000000"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13329144",
+        "timeupdated": "1706749612",
+        "timebuildupdated": "1706737696"
+      },
+      "local": {
+        "buildid": "7765769",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1637703556",
+        "timebuildupdated": "1637703556"
+      }
+    }
+  }
+}

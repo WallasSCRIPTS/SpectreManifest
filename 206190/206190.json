@@ -1,0 +1,173 @@
+{
+  "name": "Gunpoint",
+  "source": "spectre",
+  "changenumber": 37432492,
+  "updated": "2026-11-07T20:56:01.661Z",
+  "branches": {
+    "public": {
+      "buildid": "756165",
+      "timebuildupdated": "1441021792"
+    },
+    "heatsigtest": {
+      "buildid": "735493",
+      "timebuildupdated": "1439730745"
+    },
+    "local": {
+      "buildid": "48869",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1362483736"
+    },
+    "maclinuxbeta": {
+      "buildid": "374236",
+      "timebuildupdated": "1409926188"
+    },
+    "nomusic": {
+      "buildid": "80294",
+      "timebuildupdated": "1370714912"
+    },
+    "oldversion": {
+      "buildid": "85701",
+      "timebuildupdated": "1372340093"
+    },
+    "patchtest": {
+      "buildid": "82678",
+      "timebuildupdated": "1371490936"
+    }
+  },
+  "depot": {
+    "206191": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3942629395423288450",
+          "size": "531517627",
+          "download": "57291408"
+        }
+      }
+    },
+    "206192": {
+      "manifests": {
+        "public": {
+          "gid": "5083671420242492289",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "206193": {
+      "manifests": {
+        "public": {
+          "gid": "8227386196417807430",
+          "size": "19717794",
+          "download": "0"
+        }
+      },
+      "dlcappid": "206193"
+    },
+    "206194": {
+      "manifests": {
+        "public": {
+          "gid": "3504745875957567734",
+          "size": "75860782",
+          "download": "0"
+        }
+      }
+    },
+    "206195": {
+      "manifests": {
+        "public": {
+          "gid": "3806011840468391349",
+          "size": "516706216",
+          "download": "0"
+        }
+      },
+      "dlcappid": "206195"
+    },
+    "206196": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9066423170159750048",
+          "size": "553370374",
+          "download": "66952592"
+        }
+      }
+    },
+    "206197": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1347021167200350571",
+          "size": "510012682",
+          "download": "56843408"
+        }
+      }
+    },
+    "206198": {
+      "manifests": {
+        "public": {
+          "gid": "52362191673854060",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "756165",
+        "timebuildupdated": "1441021792"
+      },
+      "heatsigtest": {
+        "buildid": "735493",
+        "timebuildupdated": "1439730745"
+      },
+      "local": {
+        "buildid": "48869",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1362483736"
+      },
+      "maclinuxbeta": {
+        "buildid": "374236",
+        "timebuildupdated": "1409926188"
+      },
+      "nomusic": {
+        "buildid": "80294",
+        "timebuildupdated": "1370714912"
+      },
+      "oldversion": {
+        "buildid": "85701",
+        "timebuildupdated": "1372340093"
+      },
+      "patchtest": {
+        "buildid": "82678",
+        "timebuildupdated": "1371490936"
+      }
+    }
+  }
+}

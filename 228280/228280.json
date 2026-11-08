@@ -1,0 +1,169 @@
+{
+  "name": "Baldur's Gate: Enhanced Edition",
+  "source": "spectre",
+  "changenumber": 40603640,
+  "updated": "2026-11-07T20:56:07.061Z",
+  "branches": {
+    "public": {
+      "buildid": "23882517",
+      "timeupdated": "1782322867",
+      "timebuildupdated": "1782249066"
+    },
+    "bgee_1.3": {
+      "buildid": "5297010",
+      "description": "Version 1.3 maintained for Older PC's (do not delete)",
+      "timeupdated": "1594913846",
+      "timebuildupdated": "1594913846"
+    },
+    "bgee_2.5": {
+      "buildid": "3048128",
+      "description": "BG1 EE 2.5",
+      "timeupdated": "1618850188",
+      "timebuildupdated": "1534779107"
+    },
+    "bgee_2.6": {
+      "buildid": "18283271",
+      "description": "BG1 EE 2.6",
+      "timeupdated": "1771943804",
+      "timebuildupdated": "1745945393"
+    },
+    "bgee_2.7": {
+      "buildid": "23882517",
+      "description": "BG1 EE 2.7",
+      "timeupdated": "1782322867",
+      "timebuildupdated": "1782249066"
+    },
+    "road_to_2.7": {
+      "buildid": "23882517",
+      "description": "The Road to 2.7",
+      "timeupdated": "1782322867",
+      "timebuildupdated": "1782249066"
+    }
+  },
+  "depot": {
+    "228281": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5932335871603359365",
+          "size": "8271928",
+          "download": "3943664"
+        }
+      }
+    },
+    "228282": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3981542464144135576",
+          "size": "21695352",
+          "download": "11029472"
+        }
+      }
+    },
+    "228283": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3790762867128147428",
+          "size": "16189616",
+          "download": "6131312"
+        }
+      }
+    },
+    "228284": {
+      "manifests": {
+        "public": {
+          "gid": "3822749788400181170",
+          "size": "3338291091",
+          "download": "2692397200"
+        }
+      }
+    },
+    "228982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "385970": {
+      "manifests": {
+        "public": {
+          "gid": "5947112596710770545",
+          "size": "1927110176",
+          "download": "1635659344"
+        }
+      },
+      "dlcappid": "385970"
+    },
+    "687500": {
+      "manifests": {
+        "public": {
+          "gid": "863991843391206910",
+          "size": "1252307",
+          "download": "729712"
+        }
+      },
+      "dlcappid": "687500"
+    },
+    "2488970": {
+      "manifests": {
+        "public": {
+          "gid": "6576850693656477116",
+          "size": "5501443",
+          "download": "3955152"
+        }
+      },
+      "dlcappid": "2488970"
+    },
+    "branches": {
+      "public": {
+        "buildid": "23882517",
+        "timeupdated": "1782322867",
+        "timebuildupdated": "1782249066"
+      },
+      "bgee_1.3": {
+        "buildid": "5297010",
+        "description": "Version 1.3 maintained for Older PC's (do not delete)",
+        "timeupdated": "1594913846",
+        "timebuildupdated": "1594913846"
+      },
+      "bgee_2.5": {
+        "buildid": "3048128",
+        "description": "BG1 EE 2.5",
+        "timeupdated": "1618850188",
+        "timebuildupdated": "1534779107"
+      },
+      "bgee_2.6": {
+        "buildid": "18283271",
+        "description": "BG1 EE 2.6",
+        "timeupdated": "1771943804",
+        "timebuildupdated": "1745945393"
+      },
+      "bgee_2.7": {
+        "buildid": "23882517",
+        "description": "BG1 EE 2.7",
+        "timeupdated": "1782322867",
+        "timebuildupdated": "1782249066"
+      },
+      "road_to_2.7": {
+        "buildid": "23882517",
+        "description": "The Road to 2.7",
+        "timeupdated": "1782322867",
+        "timebuildupdated": "1782249066"
+      }
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "name": "Sleeping Dogs: Definitive Edition",
+  "source": "spectre",
+  "changenumber": 37433691,
+  "updated": "2026-11-07T20:56:33.868Z",
+  "branches": {
+    "public": {
+      "buildid": "979344",
+      "timeupdated": "1459416151",
+      "timebuildupdated": "1455644400"
+    },
+    "local": {
+      "buildid": "979319",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1455643884"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "307691": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1259773366995347002",
+          "size": "17690184686",
+          "download": "19547874013219"
+        }
+      }
+    },
+    "307692": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8969342104525223947",
+          "size": "213063896",
+          "download": "10646154136"
+        }
+      }
+    },
+    "307693": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "521771309705279162",
+          "size": "37490688",
+          "download": "2009541826"
+        }
+      }
+    },
+    "307694": {
+      "manifests": {
+        "public": {
+          "gid": "5203513487252783908",
+          "size": "43868258",
+          "download": "2582022576"
+        }
+      }
+    },
+    "307695": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1186231055532829370",
+          "size": "18006032909",
+          "download": "15683965376"
+        }
+      }
+    },
+    "307696": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7419791888443965893",
+          "size": "72126555",
+          "download": "36166576"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "979344",
+        "timeupdated": "1459416151",
+        "timebuildupdated": "1455644400"
+      },
+      "local": {
+        "buildid": "979319",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1455643884"
+      }
+    }
+  }
+}

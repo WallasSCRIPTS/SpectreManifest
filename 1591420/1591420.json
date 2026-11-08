@@ -1,0 +1,94 @@
+{
+  "name": "Hmmsim Metro",
+  "source": "spectre",
+  "changenumber": 39471213,
+  "updated": "2026-11-06T21:06:25.883Z",
+  "branches": {
+    "public": {
+      "buildid": "24233388",
+      "timeupdated": "1784179043",
+      "timebuildupdated": "1784179043"
+    },
+    "beta": {
+      "buildid": "25708699",
+      "description": "Beta",
+      "timeupdated": "1791111737",
+      "timebuildupdated": "1791111737"
+    },
+    "prev": {
+      "buildid": "21693444",
+      "description": "Main Build 0129",
+      "timeupdated": "1772239963",
+      "timebuildupdated": "1769660851"
+    },
+    "legacy": {
+      "buildid": "10900916",
+      "description": "Legacy Build (2023)",
+      "timeupdated": "1735656636",
+      "timebuildupdated": "1680256343"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1591421": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5035444600012057116",
+          "size": "3045478442",
+          "download": "2690528080"
+        }
+      }
+    },
+    "1591422": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6467802829058606387",
+          "size": "2875431224",
+          "download": "2473362576"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24233388",
+        "timeupdated": "1784179043",
+        "timebuildupdated": "1784179043"
+      },
+      "beta": {
+        "buildid": "25708699",
+        "description": "Beta",
+        "timeupdated": "1791111737",
+        "timebuildupdated": "1791111737"
+      },
+      "prev": {
+        "buildid": "21693444",
+        "description": "Main Build 0129",
+        "timeupdated": "1772239963",
+        "timebuildupdated": "1769660851"
+      },
+      "legacy": {
+        "buildid": "10900916",
+        "description": "Legacy Build (2023)",
+        "timeupdated": "1735656636",
+        "timebuildupdated": "1680256343"
+      }
+    }
+  }
+}

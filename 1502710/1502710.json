@@ -1,0 +1,54 @@
+{
+  "name": "Agent Intercept",
+  "source": "spectre",
+  "changenumber": 39024712,
+  "updated": "2026-11-06T21:05:45.309Z",
+  "branches": {
+    "public": {
+      "buildid": "20327880",
+      "timeupdated": "1760048044",
+      "timebuildupdated": "1760047883"
+    },
+    "local": {
+      "buildid": "20313383",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1759978077",
+      "timebuildupdated": "1759978077"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1502711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3410397968088611466",
+          "size": "2904316588",
+          "download": "2105558160"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20327880",
+        "timeupdated": "1760048044",
+        "timebuildupdated": "1760047883"
+      },
+      "local": {
+        "buildid": "20313383",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1759978077",
+        "timebuildupdated": "1759978077"
+      }
+    }
+  }
+}

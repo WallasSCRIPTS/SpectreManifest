@@ -1,0 +1,79 @@
+{
+  "name": "Producer Tycoon",
+  "source": "spectre",
+  "changenumber": 34896940,
+  "updated": "2026-11-06T23:23:18.172Z",
+  "branches": {
+    "public": {
+      "buildid": "14787274",
+      "timeupdated": "1719184331",
+      "timebuildupdated": "1718922595"
+    },
+    "beta": {
+      "buildid": "17911733",
+      "description": "Public beta branch",
+      "timeupdated": "1743297680",
+      "timebuildupdated": "1743280714"
+    },
+    "legacy": {
+      "buildid": "13461745",
+      "description": "legacy game",
+      "timeupdated": "1718763825",
+      "timebuildupdated": "1707977771"
+    }
+  },
+  "depot": {
+    "2351201": {
+      "manifests": {
+        "public": {
+          "gid": "2138691665450615529",
+          "size": "540852496",
+          "download": "480862064"
+        }
+      }
+    },
+    "2351202": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4741019610721026186",
+          "size": "2478129496",
+          "download": "459209088"
+        }
+      }
+    },
+    "2351203": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6803641995020782403",
+          "size": "2480704616",
+          "download": "460868880"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14787274",
+        "timeupdated": "1719184331",
+        "timebuildupdated": "1718922595"
+      },
+      "beta": {
+        "buildid": "17911733",
+        "description": "Public beta branch",
+        "timeupdated": "1743297680",
+        "timebuildupdated": "1743280714"
+      },
+      "legacy": {
+        "buildid": "13461745",
+        "description": "legacy game",
+        "timeupdated": "1718763825",
+        "timebuildupdated": "1707977771"
+      }
+    }
+  }
+}

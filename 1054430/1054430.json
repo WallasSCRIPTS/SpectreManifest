@@ -1,0 +1,120 @@
+{
+  "name": "Fling to the Finish",
+  "source": "spectre",
+  "changenumber": 37439940,
+  "updated": "2026-11-07T21:02:48.824Z",
+  "branches": {
+    "public": {
+      "buildid": "19944805",
+      "timeupdated": "1757680984",
+      "timebuildupdated": "1757607194"
+    },
+    "beta": {
+      "buildid": "14150734",
+      "description": "Build with unstable features",
+      "timeupdated": "1713904595",
+      "timebuildupdated": "1713904403"
+    },
+    "public-legacy": {
+      "buildid": "13206803",
+      "description": "last stable version",
+      "timeupdated": "1706892624",
+      "timebuildupdated": "1705576413"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1054431": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6863863002148515209",
+          "size": "1763948872",
+          "download": "1076154448"
+        }
+      }
+    },
+    "1054432": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4349361889005895372",
+          "size": "1751992410",
+          "download": "1090447616"
+        }
+      }
+    },
+    "1054433": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3386130147169258621",
+          "size": "1760735650",
+          "download": "1091968768"
+        }
+      }
+    },
+    "1054434": {},
+    "1670570": {
+      "manifests": {
+        "public": {
+          "gid": "52387190888966481",
+          "size": "11549699",
+          "download": "11579296"
+        }
+      },
+      "dlcappid": "1670570"
+    },
+    "1711730": {
+      "dlcappid": "1711730"
+    },
+    "1711731": {
+      "dlcappid": "1711731"
+    },
+    "1711732": {
+      "dlcappid": "1711732"
+    },
+    "1711733": {
+      "dlcappid": "1711733"
+    },
+    "1711734": {
+      "dlcappid": "1711734"
+    },
+    "branches": {
+      "public": {
+        "buildid": "19944805",
+        "timeupdated": "1757680984",
+        "timebuildupdated": "1757607194"
+      },
+      "beta": {
+        "buildid": "14150734",
+        "description": "Build with unstable features",
+        "timeupdated": "1713904595",
+        "timebuildupdated": "1713904403"
+      },
+      "public-legacy": {
+        "buildid": "13206803",
+        "description": "last stable version",
+        "timeupdated": "1706892624",
+        "timebuildupdated": "1705576413"
+      }
+    }
+  }
+}

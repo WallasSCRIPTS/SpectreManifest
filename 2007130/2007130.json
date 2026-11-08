@@ -1,0 +1,70 @@
+{
+  "name": "Around The World",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:15:33.618Z",
+  "branches": {
+    "public": {
+      "buildid": "10544513",
+      "timeupdated": "1676337263",
+      "timebuildupdated": "1676337125"
+    },
+    "beta": {
+      "buildid": "10294120",
+      "description": "Beta Testers",
+      "timeupdated": "1673392518",
+      "timebuildupdated": "1673392437"
+    }
+  },
+  "depot": {
+    "2007131": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7248048477030089445",
+          "size": "181577729",
+          "download": "55355968"
+        }
+      }
+    },
+    "2007132": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1690409085258067390",
+          "size": "224610980",
+          "download": "56768336"
+        }
+      }
+    },
+    "2007133": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3258217162816334653",
+          "size": "200308918",
+          "download": "62363392"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10544513",
+        "timeupdated": "1676337263",
+        "timebuildupdated": "1676337125"
+      },
+      "beta": {
+        "buildid": "10294120",
+        "description": "Beta Testers",
+        "timeupdated": "1673392518",
+        "timebuildupdated": "1673392437"
+      }
+    }
+  }
+}

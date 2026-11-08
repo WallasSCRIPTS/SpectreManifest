@@ -1,0 +1,67 @@
+{
+  "name": "Gimbal",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:12.855Z",
+  "branches": {
+    "public": {
+      "buildid": "1611449",
+      "timeupdated": "1486314096",
+      "timebuildupdated": "1486314057"
+    },
+    "beta": {
+      "buildid": "1482735",
+      "description": "Private Gimbal Beta",
+      "timeupdated": "1480195645",
+      "timebuildupdated": "1480195574"
+    }
+  },
+  "depot": {
+    "228981": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229000": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229011": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "252071": {
+      "manifests": {
+        "public": {
+          "gid": "5981501403035602675",
+          "size": "113643684",
+          "download": "94127664"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1611449",
+        "timeupdated": "1486314096",
+        "timebuildupdated": "1486314057"
+      },
+      "beta": {
+        "buildid": "1482735",
+        "description": "Private Gimbal Beta",
+        "timeupdated": "1480195645",
+        "timebuildupdated": "1480195574"
+      }
+    }
+  }
+}

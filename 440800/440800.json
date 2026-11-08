@@ -1,0 +1,64 @@
+{
+  "name": "Trial by Viking",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:52.240Z",
+  "branches": {
+    "public": {
+      "buildid": "2667576",
+      "timeupdated": "1523057110",
+      "timebuildupdated": "1523056958"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "440801": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7345030921558653604",
+          "size": "4845383116",
+          "download": "1273300416"
+        }
+      }
+    },
+    "440802": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4485884146131236294",
+          "size": "4829844488",
+          "download": "1265831952"
+        }
+      }
+    },
+    "440803": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2985820328581680840",
+          "size": "4851964638",
+          "download": "1274335536"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2667576",
+        "timeupdated": "1523057110",
+        "timebuildupdated": "1523056958"
+      }
+    }
+  }
+}

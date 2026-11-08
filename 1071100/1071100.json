@@ -1,0 +1,64 @@
+{
+  "name": "Boom 3D",
+  "source": "spectre",
+  "changenumber": 40613004,
+  "updated": "2026-11-07T21:02:58.817Z",
+  "branches": {
+    "public": {
+      "buildid": "24253235",
+      "timeupdated": "1784268932",
+      "timebuildupdated": "1784266247"
+    },
+    "beta": {
+      "buildid": "24253235",
+      "description": "Boom 3D Beta",
+      "timeupdated": "1784267071",
+      "timebuildupdated": "1784266247"
+    },
+    "arm64": {
+      "buildid": "24177826",
+      "description": "Select this if you are using ARM64 device.",
+      "timeupdated": "1783918427",
+      "timebuildupdated": "1783918427"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1071101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3062425601504593210",
+          "size": "210979581",
+          "download": "83018496"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24253235",
+        "timeupdated": "1784268932",
+        "timebuildupdated": "1784266247"
+      },
+      "beta": {
+        "buildid": "24253235",
+        "description": "Boom 3D Beta",
+        "timeupdated": "1784267071",
+        "timebuildupdated": "1784266247"
+      },
+      "arm64": {
+        "buildid": "24177826",
+        "description": "Select this if you are using ARM64 device.",
+        "timeupdated": "1783918427",
+        "timebuildupdated": "1783918427"
+      }
+    }
+  }
+}

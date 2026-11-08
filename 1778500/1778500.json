@@ -1,0 +1,82 @@
+{
+  "name": "Dee's Nuts",
+  "source": "spectre",
+  "changenumber": 40604854,
+  "updated": "2026-11-06T23:09:46.325Z",
+  "branches": {
+    "public": {
+      "buildid": "26441242",
+      "timeupdated": "1793824057",
+      "timebuildupdated": "1793823390"
+    },
+    "beta": {
+      "buildid": "26166258",
+      "description": "Beta channel",
+      "timeupdated": "1792775520",
+      "timebuildupdated": "1792775483"
+    },
+    "newunity": {
+      "buildid": "20410350",
+      "description": "2025 version of unity game.",
+      "timeupdated": "1760570155",
+      "timebuildupdated": "1760570075"
+    },
+    "oldunity": {
+      "buildid": "24435067",
+      "description": "Old 2021 Version of unity game",
+      "timeupdated": "1785253427",
+      "timebuildupdated": "1785253423"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1778501": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1877547707452365547",
+          "size": "1401090627",
+          "download": "888912032"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26441242",
+        "timeupdated": "1793824057",
+        "timebuildupdated": "1793823390"
+      },
+      "beta": {
+        "buildid": "26166258",
+        "description": "Beta channel",
+        "timeupdated": "1792775520",
+        "timebuildupdated": "1792775483"
+      },
+      "newunity": {
+        "buildid": "20410350",
+        "description": "2025 version of unity game.",
+        "timeupdated": "1760570155",
+        "timebuildupdated": "1760570075"
+      },
+      "oldunity": {
+        "buildid": "24435067",
+        "description": "Old 2021 Version of unity game",
+        "timeupdated": "1785253427",
+        "timebuildupdated": "1785253423"
+      }
+    }
+  }
+}

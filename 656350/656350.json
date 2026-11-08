@@ -1,0 +1,70 @@
+{
+  "name": "UnderMine",
+  "source": "spectre",
+  "changenumber": 40679898,
+  "updated": "2026-11-07T20:59:33.295Z",
+  "branches": {
+    "public": {
+      "buildid": "7744829",
+      "timeupdated": "1637447829",
+      "timebuildupdated": "1637343126"
+    },
+    "beta": {
+      "buildid": "7144745",
+      "description": "Public beta branch",
+      "timeupdated": "1628263947",
+      "timebuildupdated": "1628183758"
+    }
+  },
+  "depot": {
+    "656351": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7238439495857429713",
+          "size": "666147260",
+          "download": "149574208"
+        }
+      }
+    },
+    "656352": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4867980915170124847",
+          "size": "666583770",
+          "download": "148927056"
+        }
+      }
+    },
+    "656353": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4479234699175456279",
+          "size": "672106842",
+          "download": "149381872"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7744829",
+        "timeupdated": "1637447829",
+        "timebuildupdated": "1637343126"
+      },
+      "beta": {
+        "buildid": "7144745",
+        "description": "Public beta branch",
+        "timeupdated": "1628263947",
+        "timebuildupdated": "1628183758"
+      }
+    }
+  }
+}

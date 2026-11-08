@@ -1,0 +1,114 @@
+{
+  "name": "Cuphead",
+  "source": "spectre",
+  "changenumber": 40282427,
+  "updated": "2026-11-07T20:56:18.270Z",
+  "branches": {
+    "public": {
+      "buildid": "20241530",
+      "timeupdated": "1759529437",
+      "timebuildupdated": "1759505557"
+    },
+    "legacy": {
+      "buildid": "2157580",
+      "description": "No patches -- use at your own risk",
+      "timeupdated": "1513803752",
+      "timebuildupdated": "1506646111"
+    },
+    "legacy-1.1.5": {
+      "buildid": "3454824",
+      "description": "DX9 -- not compatible with DLC",
+      "timeupdated": "1553111056",
+      "timebuildupdated": "1547049258"
+    },
+    "legacy-1.2.4": {
+      "buildid": "9030965",
+      "description": "Pre-DLC -- not compatible with DLC",
+      "timeupdated": "1656526139",
+      "timebuildupdated": "1656526139"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "268911": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2961019062399342472",
+          "size": "4044947883",
+          "download": "3362563152"
+        }
+      }
+    },
+    "268912": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8936126933278923535",
+          "size": "4055632137",
+          "download": "3365201744"
+        }
+      }
+    },
+    "1117850": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7764187989484304781",
+          "size": "1747323887",
+          "download": "1569136976"
+        }
+      },
+      "dlcappid": "1117850"
+    },
+    "1117851": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4830840309801799910",
+          "size": "1747322969",
+          "download": "1569116368"
+        }
+      },
+      "dlcappid": "1117850"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20241530",
+        "timeupdated": "1759529437",
+        "timebuildupdated": "1759505557"
+      },
+      "legacy": {
+        "buildid": "2157580",
+        "description": "No patches -- use at your own risk",
+        "timeupdated": "1513803752",
+        "timebuildupdated": "1506646111"
+      },
+      "legacy-1.1.5": {
+        "buildid": "3454824",
+        "description": "DX9 -- not compatible with DLC",
+        "timeupdated": "1553111056",
+        "timebuildupdated": "1547049258"
+      },
+      "legacy-1.2.4": {
+        "buildid": "9030965",
+        "description": "Pre-DLC -- not compatible with DLC",
+        "timeupdated": "1656526139",
+        "timebuildupdated": "1656526139"
+      }
+    }
+  }
+}

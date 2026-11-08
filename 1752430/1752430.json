@@ -1,0 +1,82 @@
+{
+  "name": "Friends of little Yus",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:09:42.848Z",
+  "branches": {
+    "public": {
+      "buildid": "9615162",
+      "timeupdated": "1664433354",
+      "timebuildupdated": "1664433354"
+    },
+    "helios": {
+      "buildid": "9567374",
+      "description": "Public Helios branch",
+      "timeupdated": "1663827164",
+      "timebuildupdated": "1663827164"
+    },
+    "radians": {
+      "buildid": "7500375",
+      "description": "Public Radians branch",
+      "timeupdated": "1657197543",
+      "timebuildupdated": "1633685790"
+    },
+    "test": {
+      "buildid": "9576577",
+      "description": "Branch for testing new features",
+      "timeupdated": "1663924111",
+      "timebuildupdated": "1663924111"
+    }
+  },
+  "depot": {
+    "1752431": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2007520872991460976",
+          "size": "32563056",
+          "download": "9263104"
+        }
+      }
+    },
+    "1752432": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5017185746580678153",
+          "size": "53825806",
+          "download": "12594336"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9615162",
+        "timeupdated": "1664433354",
+        "timebuildupdated": "1664433354"
+      },
+      "helios": {
+        "buildid": "9567374",
+        "description": "Public Helios branch",
+        "timeupdated": "1663827164",
+        "timebuildupdated": "1663827164"
+      },
+      "radians": {
+        "buildid": "7500375",
+        "description": "Public Radians branch",
+        "timeupdated": "1657197543",
+        "timebuildupdated": "1633685790"
+      },
+      "test": {
+        "buildid": "9576577",
+        "description": "Branch for testing new features",
+        "timeupdated": "1663924111",
+        "timebuildupdated": "1663924111"
+      }
+    }
+  }
+}

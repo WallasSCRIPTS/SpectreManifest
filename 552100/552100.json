@@ -1,0 +1,83 @@
+{
+  "name": "Brick Rigs",
+  "source": "spectre",
+  "changenumber": 40674731,
+  "updated": "2026-11-07T20:58:43.026Z",
+  "branches": {
+    "public": {
+      "buildid": "26488256",
+      "timeupdated": "1793979839",
+      "timebuildupdated": "1793979139"
+    },
+    "legacy": {
+      "buildid": "7032272",
+      "description": "Pre experimental update version",
+      "timeupdated": "1626329088",
+      "timebuildupdated": "1626328381"
+    },
+    "experimental": {
+      "buildid": "26488256",
+      "description": "Public testing branch",
+      "timeupdated": "1793979821",
+      "timebuildupdated": "1793979139"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "552101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8993476834377059905",
+          "size": "1895886494",
+          "download": "756590224"
+        }
+      }
+    },
+    "552102": {},
+    "552103": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4924231939376684633",
+          "size": "1832595431",
+          "download": "712227856"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26488256",
+        "timeupdated": "1793979839",
+        "timebuildupdated": "1793979139"
+      },
+      "legacy": {
+        "buildid": "7032272",
+        "description": "Pre experimental update version",
+        "timeupdated": "1626329088",
+        "timebuildupdated": "1626328381"
+      },
+      "experimental": {
+        "buildid": "26488256",
+        "description": "Public testing branch",
+        "timeupdated": "1793979821",
+        "timebuildupdated": "1793979139"
+      }
+    }
+  }
+}

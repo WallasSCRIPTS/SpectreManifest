@@ -1,0 +1,58 @@
+{
+  "name": "AdventureQuest 3D",
+  "source": "spectre",
+  "changenumber": 40645806,
+  "updated": "2026-11-07T20:57:46.713Z",
+  "branches": {
+    "public": {
+      "buildid": "26436784",
+      "timeupdated": "1793912385",
+      "timebuildupdated": "1793810490"
+    },
+    "publictest": {
+      "buildid": "19585665",
+      "description": "PTR",
+      "timeupdated": "1755101255",
+      "timebuildupdated": "1755101229"
+    }
+  },
+  "depot": {
+    "429793": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3035062543619416522",
+          "size": "251393167",
+          "download": "101599856"
+        }
+      }
+    },
+    "429794": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3567709054100984054",
+          "size": "571217268",
+          "download": "159800576"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26436784",
+        "timeupdated": "1793912385",
+        "timebuildupdated": "1793810490"
+      },
+      "publictest": {
+        "buildid": "19585665",
+        "description": "PTR",
+        "timeupdated": "1755101255",
+        "timebuildupdated": "1755101229"
+      }
+    }
+  }
+}

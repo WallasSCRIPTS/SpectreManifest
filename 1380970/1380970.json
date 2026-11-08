@@ -1,0 +1,70 @@
+{
+  "name": "Sklime",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:49.475Z",
+  "branches": {
+    "public": {
+      "buildid": "24673611",
+      "timeupdated": "1786458094",
+      "timebuildupdated": "1786456851"
+    },
+    "beta": {
+      "buildid": "24673611",
+      "description": "beta branch",
+      "timeupdated": "1786456852",
+      "timebuildupdated": "1786456851"
+    }
+  },
+  "depot": {
+    "1380972": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6152910159738897674",
+          "size": "522192240",
+          "download": "145103648"
+        }
+      }
+    },
+    "1380974": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5631329000436441206",
+          "size": "582426622",
+          "download": "151152384"
+        }
+      }
+    },
+    "1380975": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6435451259688395646",
+          "size": "475099652",
+          "download": "135413840"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24673611",
+        "timeupdated": "1786458094",
+        "timebuildupdated": "1786456851"
+      },
+      "beta": {
+        "buildid": "24673611",
+        "description": "beta branch",
+        "timeupdated": "1786456852",
+        "timebuildupdated": "1786456851"
+      }
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "name": "X-Plane 12",
+  "source": "spectre",
+  "changenumber": 40390561,
+  "updated": "2026-11-06T23:15:36.663Z",
+  "branches": {
+    "public": {
+      "buildid": "23899835",
+      "timeupdated": "1782402224",
+      "timebuildupdated": "1782329828"
+    },
+    "previous_release": {
+      "buildid": "22841866",
+      "description": "Previous stable release of X-Plane",
+      "timeupdated": "1776842122",
+      "timebuildupdated": "1776464598"
+    },
+    "public_beta": {
+      "buildid": "26272720",
+      "description": "public beta",
+      "timeupdated": "1793293020",
+      "timebuildupdated": "1793197040"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2014781": {
+      "manifests": {
+        "public": {
+          "gid": "4666255656697409799",
+          "size": "36449223096",
+          "download": "18134081200"
+        }
+      }
+    },
+    "2014782": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6724559683807017880",
+          "size": "108232112",
+          "download": "29439184"
+        }
+      }
+    },
+    "2014783": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9185536978135554841",
+          "size": "670440598",
+          "download": "213263856"
+        }
+      }
+    },
+    "2014784": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "358439959204543622",
+          "size": "142180234",
+          "download": "65606880"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23899835",
+        "timeupdated": "1782402224",
+        "timebuildupdated": "1782329828"
+      },
+      "previous_release": {
+        "buildid": "22841866",
+        "description": "Previous stable release of X-Plane",
+        "timeupdated": "1776842122",
+        "timebuildupdated": "1776464598"
+      },
+      "public_beta": {
+        "buildid": "26272720",
+        "description": "public beta",
+        "timeupdated": "1793293020",
+        "timebuildupdated": "1793197040"
+      }
+    }
+  }
+}

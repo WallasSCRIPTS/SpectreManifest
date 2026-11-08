@@ -1,0 +1,88 @@
+{
+  "name": "Mighty Goose",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:16.223Z",
+  "branches": {
+    "public": {
+      "buildid": "9072793",
+      "timeupdated": "1659073921",
+      "timebuildupdated": "1657127826"
+    },
+    "beta": {
+      "buildid": "6865449",
+      "description": "Beta builds for Mighty Goose",
+      "timeupdated": "1623684280",
+      "timebuildupdated": "1623682105"
+    },
+    "speedrun": {
+      "buildid": "6824957",
+      "description": "Speedrunning build for speedrun competition",
+      "timeupdated": "1623071009",
+      "timebuildupdated": "1623071009"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1299361": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "497537559640704304",
+          "size": "159277832",
+          "download": "140525632"
+        }
+      }
+    },
+    "1299362": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2881461251181707675",
+          "size": "166245646",
+          "download": "140581664"
+        }
+      }
+    },
+    "1299363": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2076139861466872795",
+          "size": "197431625",
+          "download": "145260960"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9072793",
+        "timeupdated": "1659073921",
+        "timebuildupdated": "1657127826"
+      },
+      "beta": {
+        "buildid": "6865449",
+        "description": "Beta builds for Mighty Goose",
+        "timeupdated": "1623684280",
+        "timebuildupdated": "1623682105"
+      },
+      "speedrun": {
+        "buildid": "6824957",
+        "description": "Speedrunning build for speedrun competition",
+        "timeupdated": "1623071009",
+        "timebuildupdated": "1623071009"
+      }
+    }
+  }
+}

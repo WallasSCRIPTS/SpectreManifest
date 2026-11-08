@@ -1,0 +1,82 @@
+{
+  "name": "Relic Hunters Zero: Remix",
+  "source": "spectre",
+  "changenumber": 40701515,
+  "updated": "2026-11-07T20:57:23.243Z",
+  "branches": {
+    "public": {
+      "buildid": "6232733",
+      "timeupdated": "1613165695",
+      "timebuildupdated": "1613158953"
+    },
+    "legacy": {
+      "buildid": "3806445",
+      "description": "Legacy version from before Remix",
+      "timeupdated": "1613062600",
+      "timebuildupdated": "1557365981"
+    },
+    "mac_beta": {
+      "buildid": "6232371",
+      "description": "Playable Mac version with in-game achievements (no Steam)",
+      "timeupdated": "1613154051",
+      "timebuildupdated": "1613154051"
+    }
+  },
+  "depot": {
+    "382491": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "353932104447754421",
+          "size": "116044468",
+          "download": "69224224"
+        }
+      }
+    },
+    "382492": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7987929792678091988",
+          "size": "106216531",
+          "download": "66008048"
+        }
+      }
+    },
+    "382493": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2936955462194152886",
+          "size": "91078059",
+          "download": "53707120"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6232733",
+        "timeupdated": "1613165695",
+        "timebuildupdated": "1613158953"
+      },
+      "legacy": {
+        "buildid": "3806445",
+        "description": "Legacy version from before Remix",
+        "timeupdated": "1613062600",
+        "timebuildupdated": "1557365981"
+      },
+      "mac_beta": {
+        "buildid": "6232371",
+        "description": "Playable Mac version with in-game achievements (no Steam)",
+        "timeupdated": "1613154051",
+        "timebuildupdated": "1613154051"
+      }
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Chernobyl VR Project",
+  "source": "spectre",
+  "changenumber": 40466499,
+  "updated": "2026-11-07T20:58:21.392Z",
+  "branches": {
+    "public": {
+      "buildid": "2228032",
+      "timeupdated": "1509631448",
+      "timebuildupdated": "1508925316"
+    },
+    "chernobylproject(non-vr)": {
+      "buildid": "3234811",
+      "description": "Chernobyl Project (Non-VR)",
+      "timeupdated": "1557395940",
+      "timebuildupdated": "1540200827"
+    }
+  },
+  "depot": {
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "504011": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5507424986721814877",
+          "size": "13201604560",
+          "download": "6792537344"
+        }
+      }
+    },
+    "504012": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "504013": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "42388709754581857",
+          "size": "13183509380",
+          "download": "13054995232"
+        }
+      }
+    },
+    "504014": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2228032",
+        "timeupdated": "1509631448",
+        "timebuildupdated": "1508925316"
+      },
+      "chernobylproject(non-vr)": {
+        "buildid": "3234811",
+        "description": "Chernobyl Project (Non-VR)",
+        "timeupdated": "1557395940",
+        "timebuildupdated": "1540200827"
+      }
+    }
+  }
+}

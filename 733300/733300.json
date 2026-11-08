@@ -1,0 +1,66 @@
+{
+  "name": "My Big Sister",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:15.060Z",
+  "branches": {
+    "public": {
+      "buildid": "3448426",
+      "timeupdated": "1546867682",
+      "timebuildupdated": "1546867326"
+    },
+    "rollback": {
+      "buildid": "3287405",
+      "timeupdated": "1542110037",
+      "timebuildupdated": "1541646824"
+    },
+    "rollback_latest": {
+      "buildid": "3354366",
+      "timeupdated": "1546867708",
+      "timebuildupdated": "1543579876"
+    }
+  },
+  "depot": {
+    "228982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "733301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3081389398037703156",
+          "size": "186115835",
+          "download": "60427616"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3448426",
+        "timeupdated": "1546867682",
+        "timebuildupdated": "1546867326"
+      },
+      "rollback": {
+        "buildid": "3287405",
+        "timeupdated": "1542110037",
+        "timebuildupdated": "1541646824"
+      },
+      "rollback_latest": {
+        "buildid": "3354366",
+        "timeupdated": "1546867708",
+        "timebuildupdated": "1543579876"
+      }
+    }
+  }
+}

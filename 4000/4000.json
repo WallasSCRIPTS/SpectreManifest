@@ -1,0 +1,109 @@
+{
+  "name": "Garry's Mod",
+  "source": "spectre",
+  "changenumber": 40685852,
+  "updated": "2026-11-07T20:55:42.594Z",
+  "branches": {
+    "public": {
+      "buildid": "25375506",
+      "timeupdated": "1789671210",
+      "timebuildupdated": "1789670853"
+    },
+    "dev": {
+      "buildid": "26495502",
+      "description": "Development branch - Live daily updates",
+      "timeupdated": "1794001799",
+      "timebuildupdated": "1794001799"
+    },
+    "prerelease": {
+      "buildid": "25375506",
+      "description": "Preview of the next Default Public Version",
+      "timeupdated": "1789670853",
+      "timebuildupdated": "1789670853"
+    },
+    "x86-64": {
+      "buildid": "26439081",
+      "description": "Linux and MacOS 64-bit binaries & Chromium Embedded Framework",
+      "timeupdated": "1793816751",
+      "timebuildupdated": "1793816751"
+    }
+  },
+  "depot": {
+    "4001": {
+      "manifests": {
+        "public": {
+          "gid": "2904029089870460835",
+          "size": "6825302860",
+          "download": "3577617904"
+        }
+      }
+    },
+    "4002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8456439456790142762",
+          "size": "504767410",
+          "download": "197676288"
+        }
+      }
+    },
+    "4003": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5169228716831564971",
+          "size": "277543044",
+          "download": "65217216"
+        }
+      }
+    },
+    "4004": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5143526130592293759",
+          "size": "160071162",
+          "download": "38001648"
+        }
+      }
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25375506",
+        "timeupdated": "1789671210",
+        "timebuildupdated": "1789670853"
+      },
+      "dev": {
+        "buildid": "26495502",
+        "description": "Development branch - Live daily updates",
+        "timeupdated": "1794001799",
+        "timebuildupdated": "1794001799"
+      },
+      "prerelease": {
+        "buildid": "25375506",
+        "description": "Preview of the next Default Public Version",
+        "timeupdated": "1789670853",
+        "timebuildupdated": "1789670853"
+      },
+      "x86-64": {
+        "buildid": "26439081",
+        "description": "Linux and MacOS 64-bit binaries & Chromium Embedded Framework",
+        "timeupdated": "1793816751",
+        "timebuildupdated": "1793816751"
+      }
+    }
+  }
+}

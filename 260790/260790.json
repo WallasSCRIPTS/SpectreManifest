@@ -1,0 +1,78 @@
+{
+  "name": "1001 Spikes",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:15.451Z",
+  "branches": {
+    "public": {
+      "buildid": "307296",
+      "timebuildupdated": "1403663218"
+    },
+    "beta": {
+      "buildid": "307296",
+      "description": "beta",
+      "timebuildupdated": "1403663218"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "260791": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2842241878433027",
+          "size": "124201013",
+          "download": "0"
+        }
+      }
+    },
+    "260792": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "807101627033892123",
+          "size": "126237705",
+          "download": "0"
+        }
+      }
+    },
+    "260793": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2956129945905658851",
+          "size": "128038076",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "307296",
+        "timebuildupdated": "1403663218"
+      },
+      "beta": {
+        "buildid": "307296",
+        "description": "beta",
+        "timebuildupdated": "1403663218"
+      }
+    }
+  }
+}

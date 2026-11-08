@@ -1,0 +1,115 @@
+{
+  "name": "Demon Peak",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:30.652Z",
+  "branches": {
+    "public": {
+      "buildid": "1966948",
+      "timeupdated": "1500311951",
+      "timebuildupdated": "1500310180"
+    },
+    "opengl_for_windows": {
+      "buildid": "1966991",
+      "description": "OpenGL build for Windows, gives better controller support but might not run on older hardware.",
+      "timeupdated": "1500312333",
+      "timebuildupdated": "1500311515"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "525381": {
+      "manifests": {
+        "public": {
+          "gid": "5863086753720595822",
+          "size": "5",
+          "download": "64"
+        }
+      }
+    },
+    "525382": {
+      "manifests": {
+        "public": {
+          "gid": "8678545730413049089",
+          "size": "5",
+          "download": "64"
+        }
+      }
+    },
+    "525383": {
+      "manifests": {
+        "public": {
+          "gid": "7030980353248349863",
+          "size": "5",
+          "download": "64"
+        }
+      }
+    },
+    "525387": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2864646683641511336",
+          "size": "5",
+          "download": "64"
+        }
+      }
+    },
+    "525388": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5029201822885887831",
+          "size": "422187243",
+          "download": "99773712"
+        }
+      }
+    },
+    "525389": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6187227606017951149",
+          "size": "383856595",
+          "download": "77730240"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1966948",
+        "timeupdated": "1500311951",
+        "timebuildupdated": "1500310180"
+      },
+      "opengl_for_windows": {
+        "buildid": "1966991",
+        "description": "OpenGL build for Windows, gives better controller support but might not run on older hardware.",
+        "timeupdated": "1500312333",
+        "timebuildupdated": "1500311515"
+      }
+    }
+  }
+}

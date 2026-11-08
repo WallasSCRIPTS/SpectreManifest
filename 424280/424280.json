@@ -1,0 +1,70 @@
+{
+  "name": "Iron Snout",
+  "source": "spectre",
+  "changenumber": 40671888,
+  "updated": "2026-11-07T20:57:43.310Z",
+  "branches": {
+    "public": {
+      "buildid": "6452475",
+      "timeupdated": "1616932421",
+      "timebuildupdated": "1616932420"
+    },
+    "beta": {
+      "buildid": "6452475",
+      "description": "Public beta",
+      "timeupdated": "1616932448",
+      "timebuildupdated": "1616932420"
+    }
+  },
+  "depot": {
+    "424281": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3718660926726869037",
+          "size": "26756665",
+          "download": "18597632"
+        }
+      }
+    },
+    "424282": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5357474434727085688",
+          "size": "21516118",
+          "download": "12365792"
+        }
+      }
+    },
+    "424283": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6338737864584161688",
+          "size": "25388667",
+          "download": "17187328"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6452475",
+        "timeupdated": "1616932421",
+        "timebuildupdated": "1616932420"
+      },
+      "beta": {
+        "buildid": "6452475",
+        "description": "Public beta",
+        "timeupdated": "1616932448",
+        "timebuildupdated": "1616932420"
+      }
+    }
+  }
+}

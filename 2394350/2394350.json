@@ -1,0 +1,123 @@
+{
+  "name": "aerofly RC 10 - RC Flight Simulator",
+  "source": "spectre",
+  "changenumber": 40397040,
+  "updated": "2026-11-06T23:23:23.124Z",
+  "branches": {
+    "public": {
+      "buildid": "24548973",
+      "timeupdated": "1785835961",
+      "timebuildupdated": "1785835863"
+    },
+    "alpha": {
+      "buildid": "25929070",
+      "description": "alpha channel",
+      "timeupdated": "1791967824",
+      "timebuildupdated": "1791967728"
+    },
+    "beta": {
+      "buildid": "25929070",
+      "description": "beta channel",
+      "timeupdated": "1791967834",
+      "timebuildupdated": "1791967728"
+    },
+    "stable_v10010509": {
+      "buildid": "16205886",
+      "description": "Version 10.01.05.09",
+      "timeupdated": "1730119367",
+      "timebuildupdated": "1730119286"
+    }
+  },
+  "depot": {
+    "2394351": {
+      "manifests": {
+        "public": {
+          "gid": "7174965768489901800",
+          "size": "3450491420",
+          "download": "3109167712"
+        }
+      }
+    },
+    "2394352": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5701419136310920103",
+          "size": "40663028",
+          "download": "22851376"
+        }
+      }
+    },
+    "2394353": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6992216056975338319",
+          "size": "20258877",
+          "download": "7184416"
+        }
+      }
+    },
+    "2394356": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5427473206566651308",
+          "size": "51931276",
+          "download": "21951168"
+        }
+      }
+    },
+    "2615690": {
+      "manifests": {
+        "public": {
+          "gid": "719461333293322198",
+          "size": "2365110506",
+          "download": "2372917296"
+        }
+      },
+      "dlcappid": "2615690"
+    },
+    "2615700": {
+      "manifests": {
+        "public": {
+          "gid": "8003929808507131516",
+          "size": "2364723748",
+          "download": "2303646128"
+        }
+      },
+      "dlcappid": "2615700"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24548973",
+        "timeupdated": "1785835961",
+        "timebuildupdated": "1785835863"
+      },
+      "alpha": {
+        "buildid": "25929070",
+        "description": "alpha channel",
+        "timeupdated": "1791967824",
+        "timebuildupdated": "1791967728"
+      },
+      "beta": {
+        "buildid": "25929070",
+        "description": "beta channel",
+        "timeupdated": "1791967834",
+        "timebuildupdated": "1791967728"
+      },
+      "stable_v10010509": {
+        "buildid": "16205886",
+        "description": "Version 10.01.05.09",
+        "timeupdated": "1730119367",
+        "timebuildupdated": "1730119286"
+      }
+    }
+  }
+}

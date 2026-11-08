@@ -1,0 +1,55 @@
+{
+  "name": "Voor De Kroon",
+  "source": "spectre",
+  "changenumber": 40445686,
+  "updated": "2026-11-06T23:07:51.363Z",
+  "branches": {
+    "public": {
+      "buildid": "26338626",
+      "timeupdated": "1793411415",
+      "timebuildupdated": "1793411154"
+    },
+    "legacy-campaign": {
+      "buildid": "24601019",
+      "description": "Branch that contains an older version of the game using the legacy settelment based campaign",
+      "timeupdated": "1786052218",
+      "timebuildupdated": "1786050861"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1702391": {
+      "manifests": {
+        "public": {
+          "gid": "1748041014241082969",
+          "size": "27368988996",
+          "download": "10279377760"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26338626",
+        "timeupdated": "1793411415",
+        "timebuildupdated": "1793411154"
+      },
+      "legacy-campaign": {
+        "buildid": "24601019",
+        "description": "Branch that contains an older version of the game using the legacy settelment based campaign",
+        "timeupdated": "1786052218",
+        "timebuildupdated": "1786050861"
+      }
+    }
+  }
+}

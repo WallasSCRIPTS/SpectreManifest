@@ -1,0 +1,58 @@
+{
+  "name": "FurBall",
+  "source": "spectre",
+  "changenumber": 40315868,
+  "updated": "2026-11-06T21:04:46.518Z",
+  "branches": {
+    "public": {
+      "buildid": "7192739",
+      "timeupdated": "1629039550",
+      "timebuildupdated": "1629039372"
+    },
+    "beta": {
+      "buildid": "6993068",
+      "description": "Beta Testing",
+      "timeupdated": "1625666694",
+      "timebuildupdated": "1625666641"
+    }
+  },
+  "depot": {
+    "1375071": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7031197267127097113",
+          "size": "2964206999",
+          "download": "492707056"
+        }
+      }
+    },
+    "1375072": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1024479168943877003",
+          "size": "3259002970",
+          "download": "522283280"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7192739",
+        "timeupdated": "1629039550",
+        "timebuildupdated": "1629039372"
+      },
+      "beta": {
+        "buildid": "6993068",
+        "description": "Beta Testing",
+        "timeupdated": "1625666694",
+        "timebuildupdated": "1625666641"
+      }
+    }
+  }
+}

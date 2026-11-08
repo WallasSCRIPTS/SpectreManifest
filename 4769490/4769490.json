@@ -1,0 +1,58 @@
+{
+  "name": "Overhatched",
+  "source": "spectre",
+  "changenumber": 40181299,
+  "updated": "2026-11-04T23:25:43.245Z",
+  "branches": {
+    "public": {
+      "buildid": "25639785",
+      "timeupdated": "1790811000",
+      "timebuildupdated": "1790808903"
+    },
+    "beta": {
+      "buildid": "26168048",
+      "description": "beta",
+      "timeupdated": "1792780825",
+      "timebuildupdated": "1792780825"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "4769491": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8612152047519059174",
+          "size": "5347122679",
+          "download": "4492217056"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25639785",
+        "timeupdated": "1790811000",
+        "timebuildupdated": "1790808903"
+      },
+      "beta": {
+        "buildid": "26168048",
+        "description": "beta",
+        "timeupdated": "1792780825",
+        "timebuildupdated": "1792780825"
+      }
+    }
+  }
+}

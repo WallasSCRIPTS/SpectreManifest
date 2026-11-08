@@ -1,0 +1,70 @@
+{
+  "name": "Aeon's End",
+  "source": "spectre",
+  "changenumber": 39726219,
+  "updated": "2026-11-07T21:02:53.904Z",
+  "branches": {
+    "public": {
+      "buildid": "21251852",
+      "timeupdated": "1766192386",
+      "timebuildupdated": "1766116006"
+    },
+    "1.4.4": {
+      "buildid": "9620823",
+      "description": "Old version for Windows Vista and 32-bit CPUs.",
+      "timeupdated": "1697721902",
+      "timebuildupdated": "1664481882"
+    }
+  },
+  "depot": {
+    "1063581": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5371982399113325247",
+          "size": "412257933",
+          "download": "351682736"
+        }
+      }
+    },
+    "1063582": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7009041710260117047",
+          "size": "437941007",
+          "download": "362466608"
+        }
+      }
+    },
+    "1063583": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6581464359398407648",
+          "size": "451249396",
+          "download": "351350576"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21251852",
+        "timeupdated": "1766192386",
+        "timebuildupdated": "1766116006"
+      },
+      "1.4.4": {
+        "buildid": "9620823",
+        "description": "Old version for Windows Vista and 32-bit CPUs.",
+        "timeupdated": "1697721902",
+        "timebuildupdated": "1664481882"
+      }
+    }
+  }
+}

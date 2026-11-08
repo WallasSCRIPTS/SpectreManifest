@@ -1,0 +1,956 @@
+{
+  "name": "Tomb Raider",
+  "source": "spectre",
+  "changenumber": 40128640,
+  "updated": "2026-11-07T20:56:00.891Z",
+  "branches": {
+    "public": {
+      "buildid": "9573671",
+      "timeupdated": "1664299829",
+      "timebuildupdated": "1663887616"
+    },
+    "build716.5": {
+      "buildid": "48431",
+      "description": "TR Build 1.0.716.5",
+      "timebuildupdated": "1362226549"
+    },
+    "build718.4": {
+      "buildid": "50039",
+      "description": "TR Build 1.0.718.4",
+      "timebuildupdated": "1362761753"
+    },
+    "build722.3": {
+      "buildid": "51923",
+      "description": "TR Build 1.01.722.3",
+      "timebuildupdated": "1363357392"
+    },
+    "build730.0": {
+      "buildid": "54078",
+      "description": "TR Build 1.01.730.0",
+      "timebuildupdated": "1363951922"
+    },
+    "build732.1": {
+      "buildid": "55238",
+      "description": "TR Build 1.01.732.1",
+      "timebuildupdated": "1364401422"
+    },
+    "build742.0": {
+      "buildid": "59137",
+      "description": "TR Build 1.01.742.0",
+      "timebuildupdated": "1365692378"
+    },
+    "build743.0": {
+      "buildid": "59992",
+      "description": "TR Build 1.01.743.0",
+      "timebuildupdated": "1366040150"
+    },
+    "build829": {
+      "buildid": "7540677",
+      "description": "build829",
+      "timeupdated": "1634669079",
+      "timebuildupdated": "1634307636"
+    },
+    "linux-launch-fix": {
+      "buildid": "8009373",
+      "description": "LINUX - beta test for launch fix",
+      "timeupdated": "1657552139",
+      "timebuildupdated": "1642006523"
+    },
+    "mac_1.0_32bit_only": {
+      "buildid": "2306640",
+      "description": "Version 1.0 (32 bit) - mac OS 10.9.1-10.14.x",
+      "timeupdated": "1562666192",
+      "timebuildupdated": "1511342858"
+    }
+  },
+  "depot": {
+    "203161": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6868169268668587009",
+          "size": "9666955757",
+          "download": "8670967552"
+        }
+      }
+    },
+    "203162": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7173325336906608099",
+          "size": "19198000",
+          "download": "4977296"
+        }
+      }
+    },
+    "203163": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6372322314347314780",
+          "size": "1386342132",
+          "download": "1069446240"
+        }
+      }
+    },
+    "203164": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2221628542884248728",
+          "size": "1376271172",
+          "download": "1065955120"
+        }
+      }
+    },
+    "203165": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8032797791648544821",
+          "size": "1372082372",
+          "download": "1062446496"
+        }
+      }
+    },
+    "203166": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6175707587917180945",
+          "size": "1388530548",
+          "download": "1078173536"
+        }
+      }
+    },
+    "203167": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3029664700874485048",
+          "size": "1381630836",
+          "download": "1077327968"
+        }
+      }
+    },
+    "203168": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1651304722641604491",
+          "size": "1393190388",
+          "download": "1086164416"
+        }
+      }
+    },
+    "203169": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4159211050702832863",
+          "size": "1387197044",
+          "download": "1075962752"
+        }
+      }
+    },
+    "203170": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7500082729520061352",
+          "size": "1395028196",
+          "download": "1079775024"
+        }
+      }
+    },
+    "203171": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "308773064163359714",
+          "size": "169833",
+          "download": "67008"
+        }
+      }
+    },
+    "203172": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "417401587203691460",
+          "size": "174725",
+          "download": "64416"
+        }
+      }
+    },
+    "203173": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "126943139984375656",
+          "size": "175829",
+          "download": "64048"
+        }
+      }
+    },
+    "203174": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1498933388783282340",
+          "size": "156033",
+          "download": "63104"
+        }
+      }
+    },
+    "203175": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "15894646782811881",
+          "size": "188146",
+          "download": "61520"
+        }
+      }
+    },
+    "203176": {
+      "manifests": {
+        "public": {
+          "gid": "7927540942304709888",
+          "size": "2887985378",
+          "download": "2338669664"
+        }
+      },
+      "dlcappid": "237450"
+    },
+    "203177": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6998570952704227523",
+          "size": "519308076",
+          "download": "105284752"
+        }
+      }
+    },
+    "203178": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7265921475722638057",
+          "size": "1666174924",
+          "download": "1643946704"
+        }
+      },
+      "dlcappid": "203178"
+    },
+    "203179": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6983198772927377089",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "208810": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3849166016491976395",
+          "size": "69550800",
+          "download": "62800416"
+        }
+      },
+      "dlcappid": "208810"
+    },
+    "208811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4516305040932421733",
+          "size": "295199840",
+          "download": "286248768"
+        }
+      },
+      "dlcappid": "208811"
+    },
+    "208812": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2242108116796868778",
+          "size": "38919328",
+          "download": "34445744"
+        }
+      },
+      "dlcappid": "208812"
+    },
+    "208813": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9089747663761388950",
+          "size": "189376400",
+          "download": "181159200"
+        }
+      },
+      "dlcappid": "208813"
+    },
+    "208814": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3065129487810682314",
+          "size": "94397024",
+          "download": "89924624"
+        }
+      },
+      "dlcappid": "208814"
+    },
+    "208816": {
+      "manifests": {
+        "public": {
+          "gid": "56818866596074144",
+          "size": "1752272341",
+          "download": "1708929120"
+        }
+      },
+      "dlcappid": "208816"
+    },
+    "208819": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4250963835913782316",
+          "size": "11074219181",
+          "download": "9802024144"
+        }
+      }
+    },
+    "208820": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4761804522679938323",
+          "size": "91379207",
+          "download": "38921664"
+        }
+      }
+    },
+    "208821": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "156998305983886859",
+          "size": "2",
+          "download": "128"
+        }
+      }
+    },
+    "208822": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "364503334385755210",
+          "size": "1376271174",
+          "download": "1065900352"
+        }
+      }
+    },
+    "208823": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6478998103927324083",
+          "size": "1388530550",
+          "download": "1077189648"
+        }
+      }
+    },
+    "208824": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8975875999616940784",
+          "size": "1372082374",
+          "download": "1063328288"
+        }
+      }
+    },
+    "208825": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3390880869564412",
+          "size": "1381630838",
+          "download": "1073661968"
+        }
+      }
+    },
+    "208826": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "40304662574714752",
+          "size": "1393190390",
+          "download": "1081665584"
+        }
+      }
+    },
+    "208827": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "160232140839323009",
+          "size": "1387197046",
+          "download": "1082161984"
+        }
+      }
+    },
+    "208828": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "129976517472939654",
+          "size": "1395028198",
+          "download": "1079772080"
+        }
+      }
+    },
+    "208829": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3726386665239070",
+          "size": "169835",
+          "download": "67136"
+        }
+      }
+    },
+    "237451": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "153548021890381304",
+          "size": "174727",
+          "download": "64544"
+        }
+      }
+    },
+    "237452": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "114014132200688411",
+          "size": "175834",
+          "download": "64176"
+        }
+      }
+    },
+    "237453": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "452271965386658834",
+          "size": "156038",
+          "download": "63232"
+        }
+      }
+    },
+    "237454": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "306367810370998586",
+          "size": "188148",
+          "download": "61648"
+        }
+      }
+    },
+    "237455": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "119770789988999687",
+          "size": "94397024",
+          "download": "89855872"
+        }
+      },
+      "dlcappid": "208814"
+    },
+    "237456": {
+      "config": {
+        "oslist": "macos"
+      },
+      "dlcappid": "203178"
+    },
+    "237457": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "258205796996777006",
+          "size": "69550800",
+          "download": "62803472"
+        }
+      },
+      "dlcappid": "208810"
+    },
+    "237458": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "213429337703824649",
+          "size": "295199840",
+          "download": "287298736"
+        }
+      },
+      "dlcappid": "208811"
+    },
+    "237459": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "30328455661219517",
+          "size": "38919328",
+          "download": "34440736"
+        }
+      },
+      "dlcappid": "208812"
+    },
+    "237460": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "68243511687155423",
+          "size": "189376400",
+          "download": "182202128"
+        }
+      },
+      "dlcappid": "208813"
+    },
+    "237461": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "16604663053197898",
+          "size": "94397024",
+          "download": "89923920"
+        }
+      },
+      "dlcappid": "208814"
+    },
+    "237462": {
+      "config": {
+        "oslist": "macos"
+      },
+      "dlcappid": "208816"
+    },
+    "237463": {
+      "config": {
+        "oslist": "linux"
+      },
+      "dlcappid": "208816"
+    },
+    "237464": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "18517573592165402",
+          "size": "2094987",
+          "download": "710144"
+        }
+      }
+    },
+    "440590": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "986069843286313347",
+          "size": "10994427250",
+          "download": "9486942704"
+        }
+      }
+    },
+    "440591": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5842367704209189430",
+          "size": "259044450",
+          "download": "84431648"
+        }
+      }
+    },
+    "440592": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "687047217854720503",
+          "size": "2",
+          "download": "48"
+        }
+      }
+    },
+    "440593": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "42266299039414392",
+          "size": "1376271174",
+          "download": "890315760"
+        }
+      }
+    },
+    "440594": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "127074928721898036",
+          "size": "1388530550",
+          "download": "897106960"
+        }
+      }
+    },
+    "440595": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "523582744900039895",
+          "size": "1372082374",
+          "download": "886217120"
+        }
+      }
+    },
+    "440596": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "311989343064462570",
+          "size": "1381630838",
+          "download": "890196336"
+        }
+      }
+    },
+    "440597": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "89755833937208614",
+          "size": "1393190390",
+          "download": "902917040"
+        }
+      }
+    },
+    "440598": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "294956608902313012",
+          "size": "1387197046",
+          "download": "894817344"
+        }
+      }
+    },
+    "440599": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "21527117070026924",
+          "size": "1395028198",
+          "download": "899262256"
+        }
+      }
+    },
+    "440600": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "327041864207408675",
+          "size": "169835",
+          "download": "56496"
+        }
+      }
+    },
+    "440601": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "85444624794647936",
+          "size": "174727",
+          "download": "53568"
+        }
+      }
+    },
+    "440602": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "541594753172684",
+          "size": "175834",
+          "download": "53264"
+        }
+      }
+    },
+    "440603": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "354943449932580860",
+          "size": "156038",
+          "download": "52016"
+        }
+      }
+    },
+    "440604": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "357474473073951759",
+          "size": "188148",
+          "download": "50368"
+        }
+      }
+    },
+    "440605": {
+      "config": {
+        "oslist": "linux"
+      },
+      "dlcappid": "203178"
+    },
+    "440606": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "100941034871829048",
+          "size": "69550800",
+          "download": "62563120"
+        }
+      },
+      "dlcappid": "208810"
+    },
+    "440607": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "91893288272464053",
+          "size": "295199840",
+          "download": "288237936"
+        }
+      },
+      "dlcappid": "208811"
+    },
+    "440608": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "169708167060440312",
+          "size": "38919328",
+          "download": "34218128"
+        }
+      },
+      "dlcappid": "208812"
+    },
+    "440609": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "98653675563851327",
+          "size": "189376400",
+          "download": "182731104"
+        }
+      },
+      "dlcappid": "208813"
+    },
+    "branches": {
+      "public": {
+        "buildid": "9573671",
+        "timeupdated": "1664299829",
+        "timebuildupdated": "1663887616"
+      },
+      "build716.5": {
+        "buildid": "48431",
+        "description": "TR Build 1.0.716.5",
+        "timebuildupdated": "1362226549"
+      },
+      "build718.4": {
+        "buildid": "50039",
+        "description": "TR Build 1.0.718.4",
+        "timebuildupdated": "1362761753"
+      },
+      "build722.3": {
+        "buildid": "51923",
+        "description": "TR Build 1.01.722.3",
+        "timebuildupdated": "1363357392"
+      },
+      "build730.0": {
+        "buildid": "54078",
+        "description": "TR Build 1.01.730.0",
+        "timebuildupdated": "1363951922"
+      },
+      "build732.1": {
+        "buildid": "55238",
+        "description": "TR Build 1.01.732.1",
+        "timebuildupdated": "1364401422"
+      },
+      "build742.0": {
+        "buildid": "59137",
+        "description": "TR Build 1.01.742.0",
+        "timebuildupdated": "1365692378"
+      },
+      "build743.0": {
+        "buildid": "59992",
+        "description": "TR Build 1.01.743.0",
+        "timebuildupdated": "1366040150"
+      },
+      "build829": {
+        "buildid": "7540677",
+        "description": "build829",
+        "timeupdated": "1634669079",
+        "timebuildupdated": "1634307636"
+      },
+      "linux-launch-fix": {
+        "buildid": "8009373",
+        "description": "LINUX - beta test for launch fix",
+        "timeupdated": "1657552139",
+        "timebuildupdated": "1642006523"
+      },
+      "mac_1.0_32bit_only": {
+        "buildid": "2306640",
+        "description": "Version 1.0 (32 bit) - mac OS 10.9.1-10.14.x",
+        "timeupdated": "1562666192",
+        "timebuildupdated": "1511342858"
+      }
+    }
+  }
+}

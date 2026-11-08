@@ -1,0 +1,87 @@
+{
+  "name": "Echo Storm",
+  "source": "spectre",
+  "changenumber": 37294890,
+  "updated": "2026-11-06T23:21:24.626Z",
+  "branches": {
+    "public": {
+      "buildid": "17995359",
+      "timeupdated": "1743872155",
+      "timebuildupdated": "1743850881"
+    },
+    "1.1.2": {
+      "buildid": "11179631",
+      "description": "Early game version 1.1.2.",
+      "timeupdated": "1686825082",
+      "timebuildupdated": "1683544807"
+    },
+    "1.2.0": {
+      "buildid": "11538629",
+      "description": "Early game version 1.2.0.",
+      "timeupdated": "1690451238",
+      "timebuildupdated": "1687464654"
+    },
+    "beta": {
+      "buildid": "21331184",
+      "description": "Tests of a new version before release.",
+      "timeupdated": "1767536012",
+      "timebuildupdated": "1766955811"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2282201": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7293254742055301041",
+          "size": "144528741",
+          "download": "59671488"
+        }
+      }
+    },
+    "2282202": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17995359",
+        "timeupdated": "1743872155",
+        "timebuildupdated": "1743850881"
+      },
+      "1.1.2": {
+        "buildid": "11179631",
+        "description": "Early game version 1.1.2.",
+        "timeupdated": "1686825082",
+        "timebuildupdated": "1683544807"
+      },
+      "1.2.0": {
+        "buildid": "11538629",
+        "description": "Early game version 1.2.0.",
+        "timeupdated": "1690451238",
+        "timebuildupdated": "1687464654"
+      },
+      "beta": {
+        "buildid": "21331184",
+        "description": "Tests of a new version before release.",
+        "timeupdated": "1767536012",
+        "timebuildupdated": "1766955811"
+      }
+    }
+  }
+}

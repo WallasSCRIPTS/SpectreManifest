@@ -1,0 +1,88 @@
+{
+  "name": "Amoeba Battle",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:13.649Z",
+  "branches": {
+    "public": {
+      "buildid": "5679213",
+      "timeupdated": "1618357505",
+      "timebuildupdated": "1602637551"
+    },
+    "consolecompatibility": {
+      "buildid": "4932403",
+      "description": "Console Compatibility",
+      "timeupdated": "1593105176",
+      "timebuildupdated": "1587596594"
+    },
+    "publictestbranch": {
+      "buildid": "5679213",
+      "description": "Public Test Branch",
+      "timeupdated": "1602637732",
+      "timebuildupdated": "1602637551"
+    }
+  },
+  "depot": {
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "730861": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6445810360202344524",
+          "size": "466002238",
+          "download": "387743168"
+        }
+      }
+    },
+    "730862": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2033063015248879146",
+          "size": "469068562",
+          "download": "391269792"
+        }
+      }
+    },
+    "730863": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3787864341849168812",
+          "size": "475445280",
+          "download": "389133312"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5679213",
+        "timeupdated": "1618357505",
+        "timebuildupdated": "1602637551"
+      },
+      "consolecompatibility": {
+        "buildid": "4932403",
+        "description": "Console Compatibility",
+        "timeupdated": "1593105176",
+        "timebuildupdated": "1587596594"
+      },
+      "publictestbranch": {
+        "buildid": "5679213",
+        "description": "Public Test Branch",
+        "timeupdated": "1602637732",
+        "timebuildupdated": "1602637551"
+      }
+    }
+  }
+}

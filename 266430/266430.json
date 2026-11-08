@@ -1,0 +1,65 @@
+{
+  "name": "Anarchy Arcade",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T20:56:17.775Z",
+  "branches": {
+    "public": {
+      "buildid": "26010889",
+      "timeupdated": "1792248977",
+      "timebuildupdated": "1792248409"
+    },
+    "legacy": {
+      "buildid": "26010857",
+      "description": "Legacy support for pre-2016 users.  Not needed for regular users.",
+      "timeupdated": "1792248951",
+      "timebuildupdated": "1792248327"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "266431": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4939288144571530883",
+          "size": "4056872794",
+          "download": "2201974880"
+        }
+      }
+    },
+    "266432": {},
+    "branches": {
+      "public": {
+        "buildid": "26010889",
+        "timeupdated": "1792248977",
+        "timebuildupdated": "1792248409"
+      },
+      "legacy": {
+        "buildid": "26010857",
+        "description": "Legacy support for pre-2016 users.  Not needed for regular users.",
+        "timeupdated": "1792248951",
+        "timebuildupdated": "1792248327"
+      }
+    }
+  }
+}

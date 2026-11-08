@@ -1,0 +1,70 @@
+{
+  "name": "Stellar Swing",
+  "source": "spectre",
+  "changenumber": 40512115,
+  "updated": "2026-11-05T14:51:37.479Z",
+  "branches": {
+    "public": {
+      "buildid": "26382024",
+      "timeupdated": "1793631515",
+      "timebuildupdated": "1793630944"
+    },
+    "beta": {
+      "buildid": "26382024",
+      "description": "beta builds",
+      "timeupdated": "1793631058",
+      "timebuildupdated": "1793630944"
+    }
+  },
+  "depot": {
+    "1319991": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5527235938599572166",
+          "size": "1013212105",
+          "download": "257122496"
+        }
+      }
+    },
+    "1319992": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2306799958271752864",
+          "size": "1012335089",
+          "download": "255073088"
+        }
+      }
+    },
+    "1319993": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3060211260801395118",
+          "size": "1031934917",
+          "download": "265497584"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26382024",
+        "timeupdated": "1793631515",
+        "timebuildupdated": "1793630944"
+      },
+      "beta": {
+        "buildid": "26382024",
+        "description": "beta builds",
+        "timeupdated": "1793631058",
+        "timebuildupdated": "1793630944"
+      }
+    }
+  }
+}

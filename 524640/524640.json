@@ -1,0 +1,64 @@
+{
+  "name": "Asura: Vengeance Edition",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:58:30.380Z",
+  "branches": {
+    "public": {
+      "buildid": "2312868",
+      "timeupdated": "1511504916",
+      "timebuildupdated": "1511504916"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "524641": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8334796088665774600",
+          "size": "1091446602",
+          "download": "511677600"
+        }
+      }
+    },
+    "524642": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4919623549547734920",
+          "size": "1123470002",
+          "download": "521476912"
+        }
+      }
+    },
+    "524643": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6208748598705775934",
+          "size": "1136722334",
+          "download": "522565136"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2312868",
+        "timeupdated": "1511504916",
+        "timebuildupdated": "1511504916"
+      }
+    }
+  }
+}

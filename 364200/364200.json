@@ -1,0 +1,82 @@
+{
+  "name": "Farabel",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:10.537Z",
+  "branches": {
+    "public": {
+      "buildid": "3357557",
+      "timeupdated": "1543669884",
+      "timebuildupdated": "1543665754"
+    },
+    "beta": {
+      "buildid": "3357557",
+      "description": "Public beta branch\t",
+      "timeupdated": "1543666078",
+      "timebuildupdated": "1543665754"
+    },
+    "farabel_1_1": {
+      "buildid": "1825136",
+      "description": "Farabel version 1.1",
+      "timeupdated": "1536149264",
+      "timebuildupdated": "1494942735"
+    }
+  },
+  "depot": {
+    "364201": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "504900107256860987",
+          "size": "364776476",
+          "download": "104343328"
+        }
+      }
+    },
+    "364202": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1545450414511417189",
+          "size": "386940177",
+          "download": "113474384"
+        }
+      }
+    },
+    "364203": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3905701813027806079",
+          "size": "430650297",
+          "download": "131092448"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3357557",
+        "timeupdated": "1543669884",
+        "timebuildupdated": "1543665754"
+      },
+      "beta": {
+        "buildid": "3357557",
+        "description": "Public beta branch\t",
+        "timeupdated": "1543666078",
+        "timebuildupdated": "1543665754"
+      },
+      "farabel_1_1": {
+        "buildid": "1825136",
+        "description": "Farabel version 1.1",
+        "timeupdated": "1536149264",
+        "timebuildupdated": "1494942735"
+      }
+    }
+  }
+}

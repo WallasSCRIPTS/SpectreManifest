@@ -1,0 +1,60 @@
+{
+  "name": "SCP-087: Recovered document",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:31.318Z",
+  "branches": {
+    "public": {
+      "buildid": "2396887",
+      "timeupdated": "1514157378",
+      "timebuildupdated": "1514157140"
+    },
+    "local": {
+      "buildid": "2396887",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1514157140",
+      "timebuildupdated": "1514157140"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "765181": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4344487468236627940",
+          "size": "3512790159",
+          "download": "1728244112"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2396887",
+        "timeupdated": "1514157378",
+        "timebuildupdated": "1514157140"
+      },
+      "local": {
+        "buildid": "2396887",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1514157140",
+        "timebuildupdated": "1514157140"
+      }
+    }
+  }
+}

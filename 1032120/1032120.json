@@ -1,0 +1,87 @@
+{
+  "name": "Stellar Survivor",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T21:02:38.338Z",
+  "branches": {
+    "public": {
+      "buildid": "3982411",
+      "timeupdated": "1562247064",
+      "timebuildupdated": "1562247063"
+    },
+    "development": {
+      "buildid": "3969211",
+      "description": "debugging development",
+      "timeupdated": "1561937356",
+      "timebuildupdated": "1561937356"
+    },
+    "prerelease": {
+      "buildid": "4151712",
+      "description": "QA test branch",
+      "timeupdated": "1567125945",
+      "timebuildupdated": "1567125945"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1032121": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "1032122": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1879287026032721740",
+          "size": "883973762",
+          "download": "676866720"
+        }
+      }
+    },
+    "1032123": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8484492285091744002",
+          "size": "3421626918",
+          "download": "1740931312"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3982411",
+        "timeupdated": "1562247064",
+        "timebuildupdated": "1562247063"
+      },
+      "development": {
+        "buildid": "3969211",
+        "description": "debugging development",
+        "timeupdated": "1561937356",
+        "timebuildupdated": "1561937356"
+      },
+      "prerelease": {
+        "buildid": "4151712",
+        "description": "QA test branch",
+        "timeupdated": "1567125945",
+        "timebuildupdated": "1567125945"
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Into the Radius VR",
+  "source": "spectre",
+  "changenumber": 38945167,
+  "updated": "2026-11-07T21:02:27.647Z",
+  "branches": {
+    "public": {
+      "buildid": "12525739",
+      "timeupdated": "1698673440",
+      "timebuildupdated": "1698186539"
+    },
+    "itr_1.0": {
+      "buildid": "6693976",
+      "description": "Old game version",
+      "timeupdated": "1635938443",
+      "timebuildupdated": "1620905954"
+    },
+    "itr_1.0_steamvr": {
+      "buildid": "6693968",
+      "description": "Old game version for Oculus HMD users who still want to use SteamVR",
+      "timeupdated": "1635938464",
+      "timebuildupdated": "1620905777"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1012791": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8334610664114747949",
+          "size": "14944439391",
+          "download": "14645669728"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12525739",
+        "timeupdated": "1698673440",
+        "timebuildupdated": "1698186539"
+      },
+      "itr_1.0": {
+        "buildid": "6693976",
+        "description": "Old game version",
+        "timeupdated": "1635938443",
+        "timebuildupdated": "1620905954"
+      },
+      "itr_1.0_steamvr": {
+        "buildid": "6693968",
+        "description": "Old game version for Oculus HMD users who still want to use SteamVR",
+        "timeupdated": "1635938464",
+        "timebuildupdated": "1620905777"
+      }
+    }
+  }
+}

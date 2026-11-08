@@ -1,0 +1,52 @@
+{
+  "name": "Overclocked",
+  "source": "spectre",
+  "changenumber": 40693183,
+  "updated": "2026-11-07T21:00:21.009Z",
+  "branches": {
+    "public": {
+      "buildid": "3283571",
+      "timeupdated": "1541557482",
+      "timebuildupdated": "1541557267"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "745561": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3786030637075076646",
+          "size": "234618746",
+          "download": "101241152"
+        }
+      }
+    },
+    "745562": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3358507455036371854",
+          "size": "269268576",
+          "download": "110852304"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3283571",
+        "timeupdated": "1541557482",
+        "timebuildupdated": "1541557267"
+      }
+    }
+  }
+}

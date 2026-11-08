@@ -1,0 +1,70 @@
+{
+  "name": "Iron Tides",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:13.706Z",
+  "branches": {
+    "public": {
+      "buildid": "2543232",
+      "timeupdated": "1519186661",
+      "timebuildupdated": "1519180392"
+    },
+    "main_beta": {
+      "buildid": "2474152",
+      "description": "Beta test branch",
+      "timeupdated": "1519186676",
+      "timebuildupdated": "1517033566"
+    }
+  },
+  "depot": {
+    "609411": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7982661596546146361",
+          "size": "700835393",
+          "download": "208907648"
+        }
+      }
+    },
+    "609412": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3161143653648935578",
+          "size": "742928621",
+          "download": "223007104"
+        }
+      }
+    },
+    "609413": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5507538840390135044",
+          "size": "641143070",
+          "download": "195504160"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2543232",
+        "timeupdated": "1519186661",
+        "timebuildupdated": "1519180392"
+      },
+      "main_beta": {
+        "buildid": "2474152",
+        "description": "Beta test branch",
+        "timeupdated": "1519186676",
+        "timebuildupdated": "1517033566"
+      }
+    }
+  }
+}

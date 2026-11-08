@@ -1,0 +1,58 @@
+{
+  "name": "Cobalt Core",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:19:28.076Z",
+  "branches": {
+    "public": {
+      "buildid": "22309281",
+      "timeupdated": "1773303981",
+      "timebuildupdated": "1773303910"
+    },
+    "beta": {
+      "buildid": "21460982",
+      "description": "for beta testing hotfixes and new content",
+      "timeupdated": "1768369806",
+      "timebuildupdated": "1768200944"
+    }
+  },
+  "depot": {
+    "2179851": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7989762533105765028",
+          "size": "168851413",
+          "download": "111206672"
+        }
+      }
+    },
+    "2179852": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3083330585455522577",
+          "size": "174617427",
+          "download": "118889520"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22309281",
+        "timeupdated": "1773303981",
+        "timebuildupdated": "1773303910"
+      },
+      "beta": {
+        "buildid": "21460982",
+        "description": "for beta testing hotfixes and new content",
+        "timeupdated": "1768369806",
+        "timebuildupdated": "1768200944"
+      }
+    }
+  }
+}

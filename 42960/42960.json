@@ -1,0 +1,242 @@
+{
+  "name": "Victoria II",
+  "source": "spectre",
+  "changenumber": 40194277,
+  "updated": "2026-11-07T20:55:54.687Z",
+  "branches": {
+    "public": {
+      "buildid": "4904558",
+      "timeupdated": "1588578636",
+      "timebuildupdated": "1587026666"
+    },
+    "3.04-no_security_fix": {
+      "buildid": "918427",
+      "description": "No LUA security fix. Use at your own risk.",
+      "timeupdated": "1582112684",
+      "timebuildupdated": "1451926448"
+    },
+    "beta_3.04": {
+      "buildid": "918427",
+      "description": "BETA - Use at own risk",
+      "timebuildupdated": "1451926448"
+    },
+    "old_version_3.03": {
+      "buildid": "118613",
+      "timeupdated": "1482787913",
+      "timebuildupdated": "1380024709"
+    }
+  },
+  "depot": {
+    "42961": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1909759566002417877",
+          "size": "1039129132",
+          "download": "477015328"
+        }
+      }
+    },
+    "42962": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6614064855365379358",
+          "size": "683",
+          "download": "528"
+        }
+      }
+    },
+    "42963": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "437643416717690894",
+          "size": "683",
+          "download": "528"
+        }
+      }
+    },
+    "42964": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7479657694269151046",
+          "size": "3727646",
+          "download": "1503696"
+        }
+      },
+      "dlcappid": "42964"
+    },
+    "42965": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9166542754481913463",
+          "size": "3965448",
+          "download": "1603072"
+        }
+      },
+      "dlcappid": "42965"
+    },
+    "42966": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3738290336951758781",
+          "size": "3099122",
+          "download": "1291776"
+        }
+      },
+      "dlcappid": "42966"
+    },
+    "42967": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "575643009873984135",
+          "size": "103298141",
+          "download": "34412944"
+        }
+      },
+      "dlcappid": "42967"
+    },
+    "42968": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9034953149494409632",
+          "size": "542061693",
+          "download": "133985072"
+        }
+      },
+      "dlcappid": "42968"
+    },
+    "215000": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8818419819605222129",
+          "size": "4731634",
+          "download": "1971216"
+        }
+      },
+      "dlcappid": "215000"
+    },
+    "215001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5476719493072834078",
+          "size": "1117340404",
+          "download": "496673664"
+        }
+      },
+      "dlcappid": "215001"
+    },
+    "215002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6822750999316264099",
+          "size": "12859235",
+          "download": "12817664"
+        }
+      },
+      "dlcappid": "215002"
+    },
+    "215003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "247135711695354332",
+          "size": "4983788",
+          "download": "2047536"
+        }
+      },
+      "dlcappid": "215003"
+    },
+    "215004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "833481973264279536",
+          "size": "3752383",
+          "download": "1541664"
+        }
+      },
+      "dlcappid": "215004"
+    },
+    "215005": {
+      "manifests": {
+        "public": {
+          "gid": "7136596945419614389",
+          "size": "3330367",
+          "download": "1408880"
+        }
+      },
+      "dlcappid": "215005"
+    },
+    "228981": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "4904558",
+        "timeupdated": "1588578636",
+        "timebuildupdated": "1587026666"
+      },
+      "3.04-no_security_fix": {
+        "buildid": "918427",
+        "description": "No LUA security fix. Use at your own risk.",
+        "timeupdated": "1582112684",
+        "timebuildupdated": "1451926448"
+      },
+      "beta_3.04": {
+        "buildid": "918427",
+        "description": "BETA - Use at own risk",
+        "timebuildupdated": "1451926448"
+      },
+      "old_version_3.03": {
+        "buildid": "118613",
+        "timeupdated": "1482787913",
+        "timebuildupdated": "1380024709"
+      }
+    }
+  }
+}

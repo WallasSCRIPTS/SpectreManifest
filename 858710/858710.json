@@ -1,0 +1,82 @@
+{
+  "name": "Gravity Circuit",
+  "source": "spectre",
+  "changenumber": 40270085,
+  "updated": "2026-11-07T21:01:13.379Z",
+  "branches": {
+    "public": {
+      "buildid": "23498764",
+      "timeupdated": "1780333185",
+      "timebuildupdated": "1780268484"
+    },
+    "linux-appdir-1.2.1": {
+      "buildid": "16144093",
+      "description": "1.2.1 build of linux-appdir branch",
+      "timeupdated": "1779833046",
+      "timebuildupdated": "1729645270"
+    },
+    "linux-appdir": {
+      "buildid": "23498779",
+      "description": "AppDir branch. Try this if default branch doesn't work on linux.",
+      "timeupdated": "1780333143",
+      "timebuildupdated": "1780268567"
+    }
+  },
+  "depot": {
+    "858711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8707453173551144596",
+          "size": "326239596",
+          "download": "321498224"
+        }
+      }
+    },
+    "858712": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7475407823408818224",
+          "size": "339970883",
+          "download": "325547456"
+        }
+      }
+    },
+    "858713": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1037274718476988646",
+          "size": "317448334",
+          "download": "319319568"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23498764",
+        "timeupdated": "1780333185",
+        "timebuildupdated": "1780268484"
+      },
+      "linux-appdir-1.2.1": {
+        "buildid": "16144093",
+        "description": "1.2.1 build of linux-appdir branch",
+        "timeupdated": "1779833046",
+        "timebuildupdated": "1729645270"
+      },
+      "linux-appdir": {
+        "buildid": "23498779",
+        "description": "AppDir branch. Try this if default branch doesn't work on linux.",
+        "timeupdated": "1780333143",
+        "timebuildupdated": "1780268567"
+      }
+    }
+  }
+}

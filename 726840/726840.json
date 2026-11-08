@@ -1,0 +1,94 @@
+{
+  "name": "City Game Studio",
+  "source": "spectre",
+  "changenumber": 40545883,
+  "updated": "2026-11-07T21:00:11.015Z",
+  "branches": {
+    "public": {
+      "buildid": "25723493",
+      "timeupdated": "1791191683",
+      "timebuildupdated": "1791190746"
+    },
+    "oldstable": {
+      "buildid": "24234193",
+      "description": "Contains an older version of City Game Studio",
+      "timeupdated": "1784183772",
+      "timebuildupdated": "1784183689"
+    },
+    "unstable": {
+      "buildid": "26074748",
+      "description": "Unstable branch, contains the newest features",
+      "timeupdated": "1793607542",
+      "timebuildupdated": "1792487385"
+    }
+  },
+  "depot": {
+    "726841": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4138603536909732282",
+          "size": "398781952",
+          "download": "297989744"
+        }
+      }
+    },
+    "726842": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1861674301256242651",
+          "size": "392127561",
+          "download": "283264944"
+        }
+      }
+    },
+    "726843": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "703651359042448966",
+          "size": "404459552",
+          "download": "286884624"
+        }
+      }
+    },
+    "726844": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6128367814317897734",
+          "size": "394490809",
+          "download": "284063072"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25723493",
+        "timeupdated": "1791191683",
+        "timebuildupdated": "1791190746"
+      },
+      "oldstable": {
+        "buildid": "24234193",
+        "description": "Contains an older version of City Game Studio",
+        "timeupdated": "1784183772",
+        "timebuildupdated": "1784183689"
+      },
+      "unstable": {
+        "buildid": "26074748",
+        "description": "Unstable branch, contains the newest features",
+        "timeupdated": "1793607542",
+        "timebuildupdated": "1792487385"
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Champy the Useless Vampire",
+  "source": "spectre",
+  "changenumber": 39234784,
+  "updated": "2026-11-06T23:25:09.343Z",
+  "branches": {
+    "public": {
+      "buildid": "18580865",
+      "timeupdated": "1747999042",
+      "timebuildupdated": "1747998363"
+    },
+    "testbuild": {
+      "buildid": "18580865",
+      "description": "Testing new stuff before release",
+      "timeupdated": "1747998405",
+      "timebuildupdated": "1747998363"
+    }
+  },
+  "depot": {
+    "2426351": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7019246162541361903",
+          "size": "378808216",
+          "download": "303050512"
+        }
+      }
+    },
+    "2426352": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7639724004743704194",
+          "size": "418303649",
+          "download": "313538192"
+        }
+      }
+    },
+    "2426353": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18580865",
+        "timeupdated": "1747999042",
+        "timebuildupdated": "1747998363"
+      },
+      "testbuild": {
+        "buildid": "18580865",
+        "description": "Testing new stuff before release",
+        "timeupdated": "1747998405",
+        "timebuildupdated": "1747998363"
+      }
+    }
+  }
+}

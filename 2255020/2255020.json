@@ -1,0 +1,58 @@
+{
+  "name": "Qdice",
+  "source": "spectre",
+  "changenumber": 34892345,
+  "updated": "2026-11-06T23:21:21.661Z",
+  "branches": {
+    "public": {
+      "buildid": "18415894",
+      "timeupdated": "1746906775",
+      "timebuildupdated": "1746904183"
+    },
+    "testbranch": {
+      "buildid": "18420028",
+      "description": "testing",
+      "timeupdated": "1746969199",
+      "timebuildupdated": "1746969166"
+    }
+  },
+  "depot": {
+    "2255023": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8251933367694350197",
+          "size": "81449432",
+          "download": "20549312"
+        }
+      }
+    },
+    "2255024": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2852205501110709776",
+          "size": "68151025",
+          "download": "17593536"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18415894",
+        "timeupdated": "1746906775",
+        "timebuildupdated": "1746904183"
+      },
+      "testbranch": {
+        "buildid": "18420028",
+        "description": "testing",
+        "timeupdated": "1746969199",
+        "timebuildupdated": "1746969166"
+      }
+    }
+  }
+}

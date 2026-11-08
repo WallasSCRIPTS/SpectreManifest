@@ -1,0 +1,58 @@
+{
+  "name": "Infinity Kingdom",
+  "source": "spectre",
+  "changenumber": 40620863,
+  "updated": "2026-11-06T21:06:15.618Z",
+  "branches": {
+    "public": {
+      "buildid": "26071957",
+      "timeupdated": "1792477998",
+      "timebuildupdated": "1792477998"
+    },
+    "test": {
+      "buildid": "12668498",
+      "description": "测试分支",
+      "timeupdated": "1699601745",
+      "timebuildupdated": "1699601745"
+    }
+  },
+  "depot": {
+    "1573361": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4229099395714268817",
+          "size": "2574537541",
+          "download": "2268914048"
+        }
+      }
+    },
+    "1573362": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2533213745358996806",
+          "size": "2678251005",
+          "download": "2279170064"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26071957",
+        "timeupdated": "1792477998",
+        "timebuildupdated": "1792477998"
+      },
+      "test": {
+        "buildid": "12668498",
+        "description": "测试分支",
+        "timeupdated": "1699601745",
+        "timebuildupdated": "1699601745"
+      }
+    }
+  }
+}

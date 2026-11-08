@@ -1,0 +1,70 @@
+{
+  "name": "Bad Pixels",
+  "source": "spectre",
+  "changenumber": 40353878,
+  "updated": "2026-11-07T21:01:55.973Z",
+  "branches": {
+    "public": {
+      "buildid": "25783348",
+      "timeupdated": "1791471641",
+      "timebuildupdated": "1791392343"
+    },
+    "beta": {
+      "buildid": "25783348",
+      "description": "early builds before they become default, please give feedback in Discord",
+      "timeupdated": "1791392345",
+      "timebuildupdated": "1791392343"
+    }
+  },
+  "depot": {
+    "952101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3032149564823117590",
+          "size": "154501665",
+          "download": "66996512"
+        }
+      }
+    },
+    "952102": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2017180936611892862",
+          "size": "168214951",
+          "download": "73665888"
+        }
+      }
+    },
+    "952103": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3300957266585318512",
+          "size": "147399393",
+          "download": "63382400"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25783348",
+        "timeupdated": "1791471641",
+        "timebuildupdated": "1791392343"
+      },
+      "beta": {
+        "buildid": "25783348",
+        "description": "early builds before they become default, please give feedback in Discord",
+        "timeupdated": "1791392345",
+        "timebuildupdated": "1791392343"
+      }
+    }
+  }
+}

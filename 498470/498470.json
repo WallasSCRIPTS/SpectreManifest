@@ -1,0 +1,70 @@
+{
+  "name": "Switch 'N' Shoot",
+  "source": "spectre",
+  "changenumber": 34832616,
+  "updated": "2026-11-07T20:58:17.901Z",
+  "branches": {
+    "public": {
+      "buildid": "20267935",
+      "timeupdated": "1759745224",
+      "timebuildupdated": "1759743683"
+    },
+    "public_beta": {
+      "buildid": "7215352",
+      "description": "Public beta; anyone can opt in and help test new versions.",
+      "timeupdated": "1629370590",
+      "timebuildupdated": "1629370467"
+    }
+  },
+  "depot": {
+    "498472": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1517635737294015999",
+          "size": "133040723",
+          "download": "44342672"
+        }
+      }
+    },
+    "498473": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2271666349601024701",
+          "size": "127485880",
+          "download": "42020656"
+        }
+      }
+    },
+    "498474": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6800810233259098607",
+          "size": "159601658",
+          "download": "52834800"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20267935",
+        "timeupdated": "1759745224",
+        "timebuildupdated": "1759743683"
+      },
+      "public_beta": {
+        "buildid": "7215352",
+        "description": "Public beta; anyone can opt in and help test new versions.",
+        "timeupdated": "1629370590",
+        "timebuildupdated": "1629370467"
+      }
+    }
+  }
+}

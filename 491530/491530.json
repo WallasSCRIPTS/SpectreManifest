@@ -1,0 +1,76 @@
+{
+  "name": "Notruf 112",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:14.262Z",
+  "branches": {
+    "public": {
+      "buildid": "2389688",
+      "timeupdated": "1513861935",
+      "timebuildupdated": "1513856611"
+    },
+    "beta": {
+      "buildid": "3136491",
+      "description": "Beta group",
+      "timeupdated": "1537430549",
+      "timebuildupdated": "1537365449"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "491531": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5038853086416267517",
+          "size": "3941034914",
+          "download": "1134335440"
+        }
+      }
+    },
+    "491532": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "83794733229325079",
+          "size": "3935516394",
+          "download": "1133277104"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2389688",
+        "timeupdated": "1513861935",
+        "timebuildupdated": "1513856611"
+      },
+      "beta": {
+        "buildid": "3136491",
+        "description": "Beta group",
+        "timeupdated": "1537430549",
+        "timebuildupdated": "1537365449"
+      }
+    }
+  }
+}

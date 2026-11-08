@@ -1,0 +1,70 @@
+{
+  "name": "Tyrant's Blessing",
+  "source": "spectre",
+  "changenumber": 40563737,
+  "updated": "2026-11-06T21:05:52.628Z",
+  "branches": {
+    "public": {
+      "buildid": "12652348",
+      "timeupdated": "1699749001",
+      "timebuildupdated": "1699461646"
+    },
+    "test": {
+      "buildid": "9567566",
+      "description": "Public test branch for upcoming updates.",
+      "timeupdated": "1663873060",
+      "timebuildupdated": "1663829791"
+    }
+  },
+  "depot": {
+    "1520762": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4324775067375942773",
+          "size": "1168919929",
+          "download": "588801520"
+        }
+      }
+    },
+    "1520763": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6961937129037058213",
+          "size": "1190559029",
+          "download": "596064944"
+        }
+      }
+    },
+    "1520764": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6284641012456702499",
+          "size": "1214761880",
+          "download": "591491520"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12652348",
+        "timeupdated": "1699749001",
+        "timebuildupdated": "1699461646"
+      },
+      "test": {
+        "buildid": "9567566",
+        "description": "Public test branch for upcoming updates.",
+        "timeupdated": "1663873060",
+        "timebuildupdated": "1663829791"
+      }
+    }
+  }
+}

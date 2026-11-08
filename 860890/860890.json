@@ -1,0 +1,106 @@
+{
+  "name": "Factory Town",
+  "source": "spectre",
+  "changenumber": 39549393,
+  "updated": "2026-11-07T21:01:14.356Z",
+  "branches": {
+    "public": {
+      "buildid": "25586445",
+      "timeupdated": "1790683923",
+      "timebuildupdated": "1790624362"
+    },
+    "beta": {
+      "buildid": "25586445",
+      "description": "Public testing branch",
+      "timeupdated": "1790624385",
+      "timebuildupdated": "1790624362"
+    },
+    "experimental": {
+      "buildid": "15064813",
+      "description": "Experimental features, likely buggy and unstable!",
+      "timeupdated": "1721234136",
+      "timebuildupdated": "1721234114"
+    },
+    "legacy-beta180": {
+      "buildid": "5950354",
+      "description": "Archive of version .180",
+      "timeupdated": "1611677274",
+      "timebuildupdated": "1607617716"
+    },
+    "legacy-beta187": {
+      "buildid": "6432502",
+      "description": "Archive of version .187",
+      "timeupdated": "1619440849",
+      "timebuildupdated": "1616594914"
+    },
+    "legacy-beta199": {
+      "buildid": "7300133",
+      "description": "Archive version of .199",
+      "timeupdated": "1632658078",
+      "timebuildupdated": "1630674239"
+    }
+  },
+  "depot": {
+    "860891": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7791920146133954349",
+          "size": "360302014",
+          "download": "185455328"
+        }
+      }
+    },
+    "860892": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4472011685466434067",
+          "size": "358494758",
+          "download": "185089728"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25586445",
+        "timeupdated": "1790683923",
+        "timebuildupdated": "1790624362"
+      },
+      "beta": {
+        "buildid": "25586445",
+        "description": "Public testing branch",
+        "timeupdated": "1790624385",
+        "timebuildupdated": "1790624362"
+      },
+      "experimental": {
+        "buildid": "15064813",
+        "description": "Experimental features, likely buggy and unstable!",
+        "timeupdated": "1721234136",
+        "timebuildupdated": "1721234114"
+      },
+      "legacy-beta180": {
+        "buildid": "5950354",
+        "description": "Archive of version .180",
+        "timeupdated": "1611677274",
+        "timebuildupdated": "1607617716"
+      },
+      "legacy-beta187": {
+        "buildid": "6432502",
+        "description": "Archive of version .187",
+        "timeupdated": "1619440849",
+        "timebuildupdated": "1616594914"
+      },
+      "legacy-beta199": {
+        "buildid": "7300133",
+        "description": "Archive version of .199",
+        "timeupdated": "1632658078",
+        "timebuildupdated": "1630674239"
+      }
+    }
+  }
+}

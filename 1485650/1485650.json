@@ -1,0 +1,64 @@
+{
+  "name": "Zen World",
+  "source": "spectre",
+  "changenumber": 40591680,
+  "updated": "2026-11-06T21:05:37.419Z",
+  "branches": {
+    "public": {
+      "buildid": "24286079",
+      "timeupdated": "1785199881",
+      "timebuildupdated": "1784487902"
+    },
+    "testing": {
+      "buildid": "9782445",
+      "description": "A branch for public test versions",
+      "timeupdated": "1666569664",
+      "timebuildupdated": "1666568435"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1485651": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5916786965359636672",
+          "size": "125612687",
+          "download": "40939552"
+        }
+      }
+    },
+    "1485652": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6563779930679697310",
+          "size": "107010047",
+          "download": "36163712"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24286079",
+        "timeupdated": "1785199881",
+        "timebuildupdated": "1784487902"
+      },
+      "testing": {
+        "buildid": "9782445",
+        "description": "A branch for public test versions",
+        "timeupdated": "1666569664",
+        "timebuildupdated": "1666568435"
+      }
+    }
+  }
+}

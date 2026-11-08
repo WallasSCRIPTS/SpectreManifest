@@ -1,0 +1,79 @@
+{
+  "name": "DSS war party",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-06T21:03:42.236Z",
+  "branches": {
+    "public": {
+      "buildid": "18416482",
+      "timeupdated": "1746911978",
+      "timebuildupdated": "1746911922"
+    },
+    "casual": {
+      "buildid": "15758494",
+      "description": "Casual mode: play the first version of the game when it was a fast map-painter",
+      "timeupdated": "1729787585",
+      "timebuildupdated": "1726758721"
+    },
+    "dss1_beta": {
+      "buildid": "17981894",
+      "description": "Test upcoming features",
+      "timeupdated": "1743756148",
+      "timebuildupdated": "1743756131"
+    },
+    "prev_save_ver": {
+      "buildid": "16183254",
+      "description": "Old save version, before it was broken by an update.",
+      "timeupdated": "1733461559",
+      "timebuildupdated": "1729874287"
+    }
+  },
+  "depot": {
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1223151": {
+      "manifests": {
+        "public": {
+          "gid": "5036043493079118819",
+          "size": "2814380215",
+          "download": "1451259632"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18416482",
+        "timeupdated": "1746911978",
+        "timebuildupdated": "1746911922"
+      },
+      "casual": {
+        "buildid": "15758494",
+        "description": "Casual mode: play the first version of the game when it was a fast map-painter",
+        "timeupdated": "1729787585",
+        "timebuildupdated": "1726758721"
+      },
+      "dss1_beta": {
+        "buildid": "17981894",
+        "description": "Test upcoming features",
+        "timeupdated": "1743756148",
+        "timebuildupdated": "1743756131"
+      },
+      "prev_save_ver": {
+        "buildid": "16183254",
+        "description": "Old save version, before it was broken by an update.",
+        "timeupdated": "1733461559",
+        "timebuildupdated": "1729874287"
+      }
+    }
+  }
+}

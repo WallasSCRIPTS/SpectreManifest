@@ -1,0 +1,70 @@
+{
+  "name": "DrainLive",
+  "source": "spectre",
+  "changenumber": 40315868,
+  "updated": "2026-11-07T21:03:10.716Z",
+  "branches": {
+    "public": {
+      "buildid": "9845780",
+      "timeupdated": "1667315888",
+      "timebuildupdated": "1667315888"
+    },
+    "beta": {
+      "buildid": "8839780",
+      "description": "For testing",
+      "timeupdated": "1653966658",
+      "timebuildupdated": "1653966658"
+    }
+  },
+  "depot": {
+    "1092151": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5572444327479840819",
+          "size": "3200899407",
+          "download": "1107013088"
+        }
+      }
+    },
+    "1092152": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2297480043028630595",
+          "size": "3188353095",
+          "download": "1102793360"
+        }
+      }
+    },
+    "1092153": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4837626634956388093",
+          "size": "1208235975",
+          "download": "409128624"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9845780",
+        "timeupdated": "1667315888",
+        "timebuildupdated": "1667315888"
+      },
+      "beta": {
+        "buildid": "8839780",
+        "description": "For testing",
+        "timeupdated": "1653966658",
+        "timebuildupdated": "1653966658"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "name": "ATRIA-1",
+  "source": "spectre",
+  "changenumber": 35946306,
+  "updated": "2026-11-06T23:09:43.704Z",
+  "branches": {
+    "public": {
+      "buildid": "8212491",
+      "timeupdated": "1645007313",
+      "timebuildupdated": "1645003656"
+    },
+    "local": {
+      "buildid": "7385178",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1632040196",
+      "timebuildupdated": "1632040196"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1758601": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1090171066541831445",
+          "size": "5201026508",
+          "download": "1571150320"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8212491",
+        "timeupdated": "1645007313",
+        "timebuildupdated": "1645003656"
+      },
+      "local": {
+        "buildid": "7385178",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1632040196",
+        "timebuildupdated": "1632040196"
+      }
+    }
+  }
+}

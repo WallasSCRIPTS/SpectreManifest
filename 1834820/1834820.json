@@ -1,0 +1,72 @@
+{
+  "name": "First Bite",
+  "source": "spectre",
+  "changenumber": 40648240,
+  "updated": "2026-11-06T23:11:36.870Z",
+  "branches": {
+    "public": {
+      "buildid": "10550320",
+      "timeupdated": "1676393895",
+      "timebuildupdated": "1676393895"
+    }
+  },
+  "depot": {
+    "1834821": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5620776764666695200",
+          "size": "775425892",
+          "download": "641770912"
+        }
+      }
+    },
+    "1834822": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3616415322223898061",
+          "size": "677632680",
+          "download": "614255760"
+        }
+      }
+    },
+    "2157000": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1919972695238208791",
+          "size": "661574212",
+          "download": "536074816"
+        }
+      },
+      "dlcappid": "2157000"
+    },
+    "2157001": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1928240884918487222",
+          "size": "563780997",
+          "download": "508559664"
+        }
+      },
+      "dlcappid": "2157000"
+    },
+    "branches": {
+      "public": {
+        "buildid": "10550320",
+        "timeupdated": "1676393895",
+        "timebuildupdated": "1676393895"
+      }
+    }
+  }
+}

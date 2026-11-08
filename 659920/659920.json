@@ -1,0 +1,75 @@
+{
+  "name": "Transports",
+  "source": "spectre",
+  "changenumber": 39455038,
+  "updated": "2026-11-07T20:59:35.226Z",
+  "branches": {
+    "public": {
+      "buildid": "22537031",
+      "timeupdated": "1774626902",
+      "timebuildupdated": "1774626882"
+    },
+    "old_default": {
+      "buildid": "19581782",
+      "description": "Last default build.",
+      "timeupdated": "1771926050",
+      "timebuildupdated": "1755082383"
+    },
+    "testing": {
+      "buildid": "25698214",
+      "description": "Public testing branch.",
+      "timeupdated": "1791043006",
+      "timebuildupdated": "1791042993"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "659921": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4683370240279780726",
+          "size": "734009932",
+          "download": "209481312"
+        }
+      }
+    },
+    "659922": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22537031",
+        "timeupdated": "1774626902",
+        "timebuildupdated": "1774626882"
+      },
+      "old_default": {
+        "buildid": "19581782",
+        "description": "Last default build.",
+        "timeupdated": "1771926050",
+        "timebuildupdated": "1755082383"
+      },
+      "testing": {
+        "buildid": "25698214",
+        "description": "Public testing branch.",
+        "timeupdated": "1791043006",
+        "timebuildupdated": "1791042993"
+      }
+    }
+  }
+}

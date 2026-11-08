@@ -1,0 +1,70 @@
+{
+  "name": "Fire Dogs",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:06:39.286Z",
+  "branches": {
+    "public": {
+      "buildid": "9742868",
+      "timeupdated": "1666068386",
+      "timebuildupdated": "1666066850"
+    },
+    "beta": {
+      "buildid": "9742868",
+      "description": "Beta testing",
+      "timeupdated": "1666066850",
+      "timebuildupdated": "1666066850"
+    }
+  },
+  "depot": {
+    "1622921": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1377103505613359425",
+          "size": "688212396",
+          "download": "161988144"
+        }
+      }
+    },
+    "1622922": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "954988770857751663",
+          "size": "689466121",
+          "download": "162506336"
+        }
+      }
+    },
+    "1622923": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "147375778993893048",
+          "size": "709349289",
+          "download": "170138752"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9742868",
+        "timeupdated": "1666068386",
+        "timebuildupdated": "1666066850"
+      },
+      "beta": {
+        "buildid": "9742868",
+        "description": "Beta testing",
+        "timeupdated": "1666066850",
+        "timebuildupdated": "1666066850"
+      }
+    }
+  }
+}

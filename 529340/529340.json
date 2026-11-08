@@ -1,0 +1,483 @@
+{
+  "name": "Victoria 3",
+  "source": "spectre",
+  "changenumber": 40672043,
+  "updated": "2026-11-07T20:58:32.495Z",
+  "branches": {
+    "public": {
+      "buildid": "26453692",
+      "timeupdated": "1793868974",
+      "timebuildupdated": "1793868974"
+    },
+    "1.0.6": {
+      "buildid": "9902173",
+      "description": "1.0.6 Vanilla",
+      "timeupdated": "1670010570",
+      "timebuildupdated": "1668007879"
+    },
+    "1.1.2": {
+      "buildid": "10116461",
+      "description": "1.1.2 Earl Grey",
+      "timeupdated": "1678453586",
+      "timebuildupdated": "1670609737"
+    },
+    "1.2.7": {
+      "buildid": "10826657",
+      "description": "1.2.7 Hot Cinnamon Spice",
+      "timeupdated": "1684741673",
+      "timebuildupdated": "1679469274"
+    },
+    "1.3.6": {
+      "buildid": "11578793",
+      "description": "1.3.6 Thé à la menthe",
+      "timeupdated": "1693217815",
+      "timebuildupdated": "1687959462"
+    },
+    "1.4.2": {
+      "buildid": "12105732",
+      "description": "1.4.2 Irish Breakfast",
+      "timeupdated": "1699613922",
+      "timebuildupdated": "1693837111"
+    },
+    "1.5.13": {
+      "buildid": "13249685",
+      "description": "1.5.13 Chimarrao",
+      "timeupdated": "1709039622",
+      "timebuildupdated": "1706021502"
+    },
+    "1.6.2": {
+      "buildid": "13727517",
+      "description": "1.6.2 Blackcurrant",
+      "timeupdated": "1718800953",
+      "timebuildupdated": "1710339430"
+    },
+    "1.7.7": {
+      "buildid": "19442958",
+      "description": "1.7.7 Kahwah",
+      "timeupdated": "1754379902",
+      "timebuildupdated": "1754045508"
+    },
+    "1.8.7": {
+      "buildid": "19444611",
+      "description": "1.8.7 Masala Chai",
+      "timeupdated": "1754380718",
+      "timebuildupdated": "1754053847"
+    },
+    "1.9.8": {
+      "buildid": "19511638",
+      "description": "1.9.8 Lady Grey",
+      "timeupdated": "1758801776",
+      "timebuildupdated": "1754561597"
+    },
+    "1.10.6": {
+      "buildid": "20335190",
+      "description": " 1.10.6 Kaffee",
+      "timeupdated": "1760631874",
+      "timebuildupdated": "1760091456"
+    },
+    "1.11.1": {
+      "buildid": "20572932",
+      "description": "1.11.1 Chamomile",
+      "timeupdated": "1765456971",
+      "timebuildupdated": "1761651141"
+    },
+    "1.12.5": {
+      "buildid": "22321950",
+      "description": "1.12.5 Chá de Tília",
+      "timeupdated": "1773389617",
+      "timebuildupdated": "1773361943"
+    },
+    "1.13.11": {
+      "buildid": "24799966",
+      "description": "1.13.11 Matcha",
+      "timeupdated": "1787141193",
+      "timebuildupdated": "1787067071"
+    },
+    "1.15.0": {
+      "buildid": "26453692",
+      "description": "1.15.0 rollback",
+      "timeupdated": "1793868974",
+      "timebuildupdated": "1793868974"
+    }
+  },
+  "depot": {
+    "529341": {
+      "manifests": {
+        "public": {
+          "gid": "7727600027425614094",
+          "size": "12562973323",
+          "download": "6361513408"
+        }
+      }
+    },
+    "529342": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9219379649542344833",
+          "size": "399059114",
+          "download": "164554928"
+        }
+      }
+    },
+    "529343": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7900894035034065634",
+          "size": "755098941",
+          "download": "205980848"
+        }
+      }
+    },
+    "529344": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3197040610066405487",
+          "size": "1531937967",
+          "download": "442935472"
+        }
+      }
+    },
+    "529345": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "495541090306190826",
+          "size": "197475794",
+          "download": "192150064"
+        }
+      }
+    },
+    "529346": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "329764195046517736",
+          "size": "388970432",
+          "download": "382523216"
+        }
+      }
+    },
+    "529347": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4037988597837806145",
+          "size": "192660799",
+          "download": "186359792"
+        }
+      }
+    },
+    "1340390": {
+      "manifests": {
+        "public": {
+          "gid": "5897262907736816768",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "1340390"
+    },
+    "2071470": {
+      "manifests": {
+        "public": {
+          "gid": "6939103351318121898",
+          "size": "630473793",
+          "download": "608302784"
+        }
+      },
+      "dlcappid": "2071470"
+    },
+    "2071471": {
+      "manifests": {
+        "public": {
+          "gid": "9120305042692556702",
+          "size": "102385",
+          "download": "102896"
+        }
+      },
+      "dlcappid": "2071471"
+    },
+    "2282100": {
+      "manifests": {
+        "public": {
+          "gid": "4933184783527318450",
+          "size": "741869358",
+          "download": "387159376"
+        }
+      },
+      "dlcappid": "2282100"
+    },
+    "2348450": {
+      "manifests": {
+        "public": {
+          "gid": "9216571368517931715",
+          "size": "720387443",
+          "download": "725314272"
+        }
+      },
+      "dlcappid": "2348450"
+    },
+    "2366580": {
+      "manifests": {
+        "public": {
+          "gid": "4098566664589815689",
+          "size": "115189",
+          "download": "115984"
+        }
+      },
+      "dlcappid": "2366580"
+    },
+    "2411230": {
+      "manifests": {
+        "public": {
+          "gid": "8854928315051607586",
+          "size": "486545605",
+          "download": "118918800"
+        }
+      },
+      "dlcappid": "2411230"
+    },
+    "2411231": {
+      "manifests": {
+        "public": {
+          "gid": "3532192090363461250",
+          "size": "434116739",
+          "download": "273496560"
+        }
+      },
+      "dlcappid": "2411231"
+    },
+    "2591240": {
+      "manifests": {
+        "public": {
+          "gid": "2871898673326127446",
+          "size": "50090565",
+          "download": "45027968"
+        }
+      },
+      "dlcappid": "2591240"
+    },
+    "2800730": {
+      "manifests": {
+        "public": {
+          "gid": "655273443011206980",
+          "size": "21630782",
+          "download": "3875968"
+        }
+      },
+      "dlcappid": "2800730"
+    },
+    "3174360": {
+      "manifests": {
+        "public": {
+          "gid": "1139654055717389805",
+          "size": "356579348",
+          "download": "163646016"
+        }
+      },
+      "dlcappid": "3174360"
+    },
+    "3450170": {
+      "manifests": {
+        "public": {
+          "gid": "1859415655471258101",
+          "size": "53721652",
+          "download": "50902720"
+        }
+      },
+      "dlcappid": "3450170"
+    },
+    "3562730": {
+      "manifests": {
+        "public": {
+          "gid": "3334214391587517971",
+          "size": "493098508",
+          "download": "201221248"
+        }
+      },
+      "dlcappid": "3562730"
+    },
+    "3562810": {
+      "manifests": {
+        "public": {
+          "gid": "8168419215066206548",
+          "size": "416648878",
+          "download": "413758848"
+        }
+      },
+      "dlcappid": "3562810"
+    },
+    "3562890": {
+      "manifests": {
+        "public": {
+          "gid": "104727256209725011",
+          "size": "364107107",
+          "download": "164223392"
+        }
+      },
+      "dlcappid": "3562890"
+    },
+    "3562940": {
+      "manifests": {
+        "public": {
+          "gid": "4588768850590574248",
+          "size": "17819947",
+          "download": "5821280"
+        }
+      },
+      "dlcappid": "3562940"
+    },
+    "4314640": {
+      "manifests": {
+        "public": {
+          "gid": "2104527409812737048",
+          "size": "75185936",
+          "download": "22563504"
+        }
+      },
+      "dlcappid": "4314640"
+    },
+    "4314650": {
+      "manifests": {
+        "public": {
+          "gid": "8490858709791890743",
+          "size": "708598114",
+          "download": "363754928"
+        }
+      },
+      "dlcappid": "4314650"
+    },
+    "4314660": {
+      "manifests": {
+        "public": {
+          "gid": "8801994935776353018",
+          "size": "969897951",
+          "download": "438197360"
+        }
+      },
+      "dlcappid": "4314660"
+    },
+    "4318640": {
+      "manifests": {
+        "public": {
+          "gid": "358623236146060740",
+          "size": "73615293",
+          "download": "21441856"
+        }
+      },
+      "dlcappid": "4318640"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26453692",
+        "timeupdated": "1793868974",
+        "timebuildupdated": "1793868974"
+      },
+      "1.0.6": {
+        "buildid": "9902173",
+        "description": "1.0.6 Vanilla",
+        "timeupdated": "1670010570",
+        "timebuildupdated": "1668007879"
+      },
+      "1.1.2": {
+        "buildid": "10116461",
+        "description": "1.1.2 Earl Grey",
+        "timeupdated": "1678453586",
+        "timebuildupdated": "1670609737"
+      },
+      "1.2.7": {
+        "buildid": "10826657",
+        "description": "1.2.7 Hot Cinnamon Spice",
+        "timeupdated": "1684741673",
+        "timebuildupdated": "1679469274"
+      },
+      "1.3.6": {
+        "buildid": "11578793",
+        "description": "1.3.6 Thé à la menthe",
+        "timeupdated": "1693217815",
+        "timebuildupdated": "1687959462"
+      },
+      "1.4.2": {
+        "buildid": "12105732",
+        "description": "1.4.2 Irish Breakfast",
+        "timeupdated": "1699613922",
+        "timebuildupdated": "1693837111"
+      },
+      "1.5.13": {
+        "buildid": "13249685",
+        "description": "1.5.13 Chimarrao",
+        "timeupdated": "1709039622",
+        "timebuildupdated": "1706021502"
+      },
+      "1.6.2": {
+        "buildid": "13727517",
+        "description": "1.6.2 Blackcurrant",
+        "timeupdated": "1718800953",
+        "timebuildupdated": "1710339430"
+      },
+      "1.7.7": {
+        "buildid": "19442958",
+        "description": "1.7.7 Kahwah",
+        "timeupdated": "1754379902",
+        "timebuildupdated": "1754045508"
+      },
+      "1.8.7": {
+        "buildid": "19444611",
+        "description": "1.8.7 Masala Chai",
+        "timeupdated": "1754380718",
+        "timebuildupdated": "1754053847"
+      },
+      "1.9.8": {
+        "buildid": "19511638",
+        "description": "1.9.8 Lady Grey",
+        "timeupdated": "1758801776",
+        "timebuildupdated": "1754561597"
+      },
+      "1.10.6": {
+        "buildid": "20335190",
+        "description": " 1.10.6 Kaffee",
+        "timeupdated": "1760631874",
+        "timebuildupdated": "1760091456"
+      },
+      "1.11.1": {
+        "buildid": "20572932",
+        "description": "1.11.1 Chamomile",
+        "timeupdated": "1765456971",
+        "timebuildupdated": "1761651141"
+      },
+      "1.12.5": {
+        "buildid": "22321950",
+        "description": "1.12.5 Chá de Tília",
+        "timeupdated": "1773389617",
+        "timebuildupdated": "1773361943"
+      },
+      "1.13.11": {
+        "buildid": "24799966",
+        "description": "1.13.11 Matcha",
+        "timeupdated": "1787141193",
+        "timebuildupdated": "1787067071"
+      },
+      "1.15.0": {
+        "buildid": "26453692",
+        "description": "1.15.0 rollback",
+        "timeupdated": "1793868974",
+        "timebuildupdated": "1793868974"
+      }
+    }
+  }
+}

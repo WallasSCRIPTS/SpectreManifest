@@ -1,0 +1,77 @@
+{
+  "name": "Scene Investigators",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:50.458Z",
+  "branches": {
+    "public": {
+      "buildid": "16448108",
+      "timeupdated": "1732563930",
+      "timebuildupdated": "1731956169"
+    },
+    "opt1": {
+      "buildid": "15907212",
+      "description": "agressive optimizations for lvl 4",
+      "timeupdated": "1727898992",
+      "timebuildupdated": "1727898898"
+    },
+    "opt2": {
+      "buildid": "15907141",
+      "description": "opt1+agressive culling",
+      "timeupdated": "1727898586",
+      "timebuildupdated": "1727898395"
+    },
+    "previousversion": {
+      "buildid": "15039745",
+      "description": "Hosts the previous version of the game, in case you get new issues from an update.",
+      "timeupdated": "1725057570",
+      "timebuildupdated": "1721070651"
+    }
+  },
+  "depot": {
+    "1159831": {
+      "manifests": {
+        "public": {
+          "gid": "800087205275550907",
+          "size": "25476471187",
+          "download": "7611892064"
+        }
+      }
+    },
+    "2743690": {
+      "manifests": {
+        "public": {
+          "gid": "3093673235454532849",
+          "size": "319415550",
+          "download": "314023264"
+        }
+      },
+      "dlcappid": "2743690"
+    },
+    "branches": {
+      "public": {
+        "buildid": "16448108",
+        "timeupdated": "1732563930",
+        "timebuildupdated": "1731956169"
+      },
+      "opt1": {
+        "buildid": "15907212",
+        "description": "agressive optimizations for lvl 4",
+        "timeupdated": "1727898992",
+        "timebuildupdated": "1727898898"
+      },
+      "opt2": {
+        "buildid": "15907141",
+        "description": "opt1+agressive culling",
+        "timeupdated": "1727898586",
+        "timebuildupdated": "1727898395"
+      },
+      "previousversion": {
+        "buildid": "15039745",
+        "description": "Hosts the previous version of the game, in case you get new issues from an update.",
+        "timeupdated": "1725057570",
+        "timebuildupdated": "1721070651"
+      }
+    }
+  }
+}

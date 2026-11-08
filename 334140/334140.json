@@ -1,0 +1,56 @@
+{
+  "name": "Roche Fusion",
+  "source": "spectre",
+  "changenumber": 35236357,
+  "updated": "2026-11-07T20:56:46.252Z",
+  "branches": {
+    "public": {
+      "buildid": "640178",
+      "timebuildupdated": "1432897207"
+    }
+  },
+  "depot": {
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "334141": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6509336478158639661",
+          "size": "137447095",
+          "download": "131820128"
+        }
+      }
+    },
+    "334142": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "468060573523321994",
+          "size": "123734901",
+          "download": "105145232"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "640178",
+        "timebuildupdated": "1432897207"
+      }
+    }
+  }
+}

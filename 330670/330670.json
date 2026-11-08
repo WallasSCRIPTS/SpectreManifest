@@ -1,0 +1,80 @@
+{
+  "name": "DiscStorm",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:44.445Z",
+  "branches": {
+    "public": {
+      "buildid": "1250754",
+      "timeupdated": "1542226716",
+      "timebuildupdated": "1469735639"
+    },
+    "halloween": {
+      "buildid": "1416410",
+      "description": "Halloween Update",
+      "timeupdated": "1542226693",
+      "timebuildupdated": "1477507875"
+    }
+  },
+  "depot": {
+    "330671": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5874709425877379727",
+          "size": "1223599570",
+          "download": "800321200"
+        }
+      }
+    },
+    "330672": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7535650055553187881",
+          "size": "1233113568",
+          "download": "802445136"
+        }
+      }
+    },
+    "330673": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4169318355816702088",
+          "size": "1232583734",
+          "download": "802860208"
+        }
+      }
+    },
+    "374530": {
+      "manifests": {
+        "public": {
+          "gid": "8529564590487277004",
+          "size": "37728147",
+          "download": "37642352"
+        }
+      },
+      "dlcappid": "374530"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1250754",
+        "timeupdated": "1542226716",
+        "timebuildupdated": "1469735639"
+      },
+      "halloween": {
+        "buildid": "1416410",
+        "description": "Halloween Update",
+        "timeupdated": "1542226693",
+        "timebuildupdated": "1477507875"
+      }
+    }
+  }
+}

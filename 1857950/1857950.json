@@ -1,0 +1,310 @@
+{
+  "name": "VEIN",
+  "source": "spectre",
+  "changenumber": 40678278,
+  "updated": "2026-11-06T23:11:39.651Z",
+  "branches": {
+    "public": {
+      "buildid": "25970224",
+      "timeupdated": "1792096801",
+      "timebuildupdated": "1792096758"
+    },
+    "0.022h10": {
+      "buildid": "20876875",
+      "description": "0.022h10 Rollback",
+      "timeupdated": "1763801490",
+      "timebuildupdated": "1763651427"
+    },
+    "0.022h11": {
+      "buildid": "21053148",
+      "description": "0.022h11 Rollback",
+      "timeupdated": "1764861719",
+      "timebuildupdated": "1764850362"
+    },
+    "0.022h12": {
+      "buildid": "21057636",
+      "description": "0.022h12 Rollback",
+      "timeupdated": "1764927054",
+      "timebuildupdated": "1764870540"
+    },
+    "0.022h13": {
+      "buildid": "21066786",
+      "description": "0.022h13 Rollback",
+      "timeupdated": "1764927096",
+      "timebuildupdated": "1764925310"
+    },
+    "0.022h14": {
+      "buildid": "21072628",
+      "description": "0.022h14 Rollback",
+      "timeupdated": "1764954214",
+      "timebuildupdated": "1764951751"
+    },
+    "0.022h15": {
+      "buildid": "21220478",
+      "description": "0.022h15 Rollback",
+      "timeupdated": "1765959821",
+      "timebuildupdated": "1765957166"
+    },
+    "0.022h16": {
+      "buildid": "21224654",
+      "description": "0.022h16 Rollback",
+      "timeupdated": "1765979549",
+      "timebuildupdated": "1765977872"
+    },
+    "0.022h17": {
+      "buildid": "21454296",
+      "description": "0.022h17 Rollback",
+      "timeupdated": "1768129217",
+      "timebuildupdated": "1768127582"
+    },
+    "0.022h18": {
+      "buildid": "21599684",
+      "description": "0.022h18 Rollback",
+      "timeupdated": "1769076832",
+      "timebuildupdated": "1769074102"
+    },
+    "0.023": {
+      "buildid": "22232151",
+      "description": "0.023 Rollback",
+      "timeupdated": "1772811822",
+      "timebuildupdated": "1772809317"
+    },
+    "0.024": {
+      "buildid": "23470956",
+      "description": "0.024 Rollback",
+      "timeupdated": "1780060222",
+      "timebuildupdated": "1780057414"
+    },
+    "0.024h1": {
+      "buildid": "23528038",
+      "description": "0.024h1 Rollback",
+      "timeupdated": "1780459166",
+      "timebuildupdated": "1780409377"
+    },
+    "0.024h2": {
+      "buildid": "23817455",
+      "description": "0.024h2 Rollback",
+      "timeupdated": "1781928226",
+      "timebuildupdated": "1781855119"
+    },
+    "0.024h3": {
+      "buildid": "23897424",
+      "description": "0.024h3 Rollback",
+      "timeupdated": "1782323293",
+      "timebuildupdated": "1782319756"
+    },
+    "0.024h4": {
+      "buildid": "23899965",
+      "description": "0.024h4 Rollback",
+      "timeupdated": "1782330832",
+      "timebuildupdated": "1782330367"
+    },
+    "0.024h5": {
+      "buildid": "24349340",
+      "description": "0.024h5 Rollback",
+      "timeupdated": "1785124999",
+      "timebuildupdated": "1784792131"
+    },
+    "0.024h6": {
+      "buildid": "24432006",
+      "description": "0.024h6 Rollback",
+      "timeupdated": "1785244650",
+      "timebuildupdated": "1785242332"
+    },
+    "0.024h7": {
+      "buildid": "25023103",
+      "description": "0.024h7 Rollback",
+      "timeupdated": "1788149444",
+      "timebuildupdated": "1788108386"
+    },
+    "0.024h8": {
+      "buildid": "25034670",
+      "description": "0.024h8 Rollback",
+      "timeupdated": "1788175878",
+      "timebuildupdated": "1788173422"
+    },
+    "0.025h2": {
+      "buildid": "25708540",
+      "description": "0.025h2 Rollback",
+      "timeupdated": "1791117725",
+      "timebuildupdated": "1791110702"
+    },
+    "experimental": {
+      "buildid": "26490617",
+      "description": "Bleeding-edge updates",
+      "timeupdated": "1793985774",
+      "timebuildupdated": "1793985774"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1857951": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2699461358207110762",
+          "size": "46285324488",
+          "download": "38555181952"
+        }
+      }
+    },
+    "1857952": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4926741467720672671",
+          "size": "53788390317",
+          "download": "38648653632"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25970224",
+        "timeupdated": "1792096801",
+        "timebuildupdated": "1792096758"
+      },
+      "0.022h10": {
+        "buildid": "20876875",
+        "description": "0.022h10 Rollback",
+        "timeupdated": "1763801490",
+        "timebuildupdated": "1763651427"
+      },
+      "0.022h11": {
+        "buildid": "21053148",
+        "description": "0.022h11 Rollback",
+        "timeupdated": "1764861719",
+        "timebuildupdated": "1764850362"
+      },
+      "0.022h12": {
+        "buildid": "21057636",
+        "description": "0.022h12 Rollback",
+        "timeupdated": "1764927054",
+        "timebuildupdated": "1764870540"
+      },
+      "0.022h13": {
+        "buildid": "21066786",
+        "description": "0.022h13 Rollback",
+        "timeupdated": "1764927096",
+        "timebuildupdated": "1764925310"
+      },
+      "0.022h14": {
+        "buildid": "21072628",
+        "description": "0.022h14 Rollback",
+        "timeupdated": "1764954214",
+        "timebuildupdated": "1764951751"
+      },
+      "0.022h15": {
+        "buildid": "21220478",
+        "description": "0.022h15 Rollback",
+        "timeupdated": "1765959821",
+        "timebuildupdated": "1765957166"
+      },
+      "0.022h16": {
+        "buildid": "21224654",
+        "description": "0.022h16 Rollback",
+        "timeupdated": "1765979549",
+        "timebuildupdated": "1765977872"
+      },
+      "0.022h17": {
+        "buildid": "21454296",
+        "description": "0.022h17 Rollback",
+        "timeupdated": "1768129217",
+        "timebuildupdated": "1768127582"
+      },
+      "0.022h18": {
+        "buildid": "21599684",
+        "description": "0.022h18 Rollback",
+        "timeupdated": "1769076832",
+        "timebuildupdated": "1769074102"
+      },
+      "0.023": {
+        "buildid": "22232151",
+        "description": "0.023 Rollback",
+        "timeupdated": "1772811822",
+        "timebuildupdated": "1772809317"
+      },
+      "0.024": {
+        "buildid": "23470956",
+        "description": "0.024 Rollback",
+        "timeupdated": "1780060222",
+        "timebuildupdated": "1780057414"
+      },
+      "0.024h1": {
+        "buildid": "23528038",
+        "description": "0.024h1 Rollback",
+        "timeupdated": "1780459166",
+        "timebuildupdated": "1780409377"
+      },
+      "0.024h2": {
+        "buildid": "23817455",
+        "description": "0.024h2 Rollback",
+        "timeupdated": "1781928226",
+        "timebuildupdated": "1781855119"
+      },
+      "0.024h3": {
+        "buildid": "23897424",
+        "description": "0.024h3 Rollback",
+        "timeupdated": "1782323293",
+        "timebuildupdated": "1782319756"
+      },
+      "0.024h4": {
+        "buildid": "23899965",
+        "description": "0.024h4 Rollback",
+        "timeupdated": "1782330832",
+        "timebuildupdated": "1782330367"
+      },
+      "0.024h5": {
+        "buildid": "24349340",
+        "description": "0.024h5 Rollback",
+        "timeupdated": "1785124999",
+        "timebuildupdated": "1784792131"
+      },
+      "0.024h6": {
+        "buildid": "24432006",
+        "description": "0.024h6 Rollback",
+        "timeupdated": "1785244650",
+        "timebuildupdated": "1785242332"
+      },
+      "0.024h7": {
+        "buildid": "25023103",
+        "description": "0.024h7 Rollback",
+        "timeupdated": "1788149444",
+        "timebuildupdated": "1788108386"
+      },
+      "0.024h8": {
+        "buildid": "25034670",
+        "description": "0.024h8 Rollback",
+        "timeupdated": "1788175878",
+        "timebuildupdated": "1788173422"
+      },
+      "0.025h2": {
+        "buildid": "25708540",
+        "description": "0.025h2 Rollback",
+        "timeupdated": "1791117725",
+        "timebuildupdated": "1791110702"
+      },
+      "experimental": {
+        "buildid": "26490617",
+        "description": "Bleeding-edge updates",
+        "timeupdated": "1793985774",
+        "timebuildupdated": "1793985774"
+      }
+    }
+  }
+}

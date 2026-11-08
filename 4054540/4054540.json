@@ -1,0 +1,55 @@
+{
+  "name": "Star Trek: Voyager - Across the Unknown Demo",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-06T21:07:49.527Z",
+  "branches": {
+    "public": {
+      "buildid": "21907122",
+      "timeupdated": "1770991165",
+      "timebuildupdated": "1770920933"
+    },
+    "revert": {
+      "buildid": "20462260",
+      "description": "If an update causes errors, you can use this branch to revert to the previous version\t",
+      "timeupdated": "1762310826",
+      "timebuildupdated": "1760955069"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "4054541": {
+      "manifests": {
+        "public": {
+          "gid": "3643761865818798501",
+          "size": "9055479762",
+          "download": "7198449520"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21907122",
+        "timeupdated": "1770991165",
+        "timebuildupdated": "1770920933"
+      },
+      "revert": {
+        "buildid": "20462260",
+        "description": "If an update causes errors, you can use this branch to revert to the previous version\t",
+        "timeupdated": "1762310826",
+        "timebuildupdated": "1760955069"
+      }
+    }
+  }
+}

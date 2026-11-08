@@ -1,0 +1,74 @@
+{
+  "name": "Craft The World",
+  "source": "spectre",
+  "changenumber": 40371612,
+  "updated": "2026-11-07T20:56:11.564Z",
+  "branches": {
+    "public": {
+      "buildid": "21776357",
+      "timeupdated": "1770184101",
+      "timebuildupdated": "1770184101"
+    },
+    "experimental": {
+      "buildid": "8471956",
+      "description": "Public experimental branch",
+      "timeupdated": "1648718748",
+      "timebuildupdated": "1648718748"
+    },
+    "beta_open": {
+      "buildid": "21189844",
+      "timeupdated": "1765796024",
+      "timebuildupdated": "1765796024"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "248391": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9075462849595865750",
+          "size": "1104454618",
+          "download": "699193216"
+        }
+      }
+    },
+    "248392": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3238348043060555881",
+          "size": "928196507",
+          "download": "649641328"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21776357",
+        "timeupdated": "1770184101",
+        "timebuildupdated": "1770184101"
+      },
+      "experimental": {
+        "buildid": "8471956",
+        "description": "Public experimental branch",
+        "timeupdated": "1648718748",
+        "timebuildupdated": "1648718748"
+      },
+      "beta_open": {
+        "buildid": "21189844",
+        "timeupdated": "1765796024",
+        "timebuildupdated": "1765796024"
+      }
+    }
+  }
+}

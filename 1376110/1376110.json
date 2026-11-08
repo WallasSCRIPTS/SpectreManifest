@@ -1,0 +1,70 @@
+{
+  "name": "Liberty Belle",
+  "source": "spectre",
+  "changenumber": 39821630,
+  "updated": "2026-11-05T14:53:28.224Z",
+  "branches": {
+    "public": {
+      "buildid": "20608837",
+      "timeupdated": "1761841826",
+      "timebuildupdated": "1761841626"
+    },
+    "testing": {
+      "buildid": "12014935",
+      "description": "Testing patches before deployment",
+      "timeupdated": "1692812361",
+      "timebuildupdated": "1692809575"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1376111": {
+      "manifests": {
+        "public": {
+          "gid": "3001108159757532726",
+          "size": "468595810",
+          "download": "361644448"
+        }
+      }
+    },
+    "1376112": {
+      "manifests": {
+        "public": {
+          "gid": "2130160039095318144",
+          "size": "468595693",
+          "download": "361995984"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20608837",
+        "timeupdated": "1761841826",
+        "timebuildupdated": "1761841626"
+      },
+      "testing": {
+        "buildid": "12014935",
+        "description": "Testing patches before deployment",
+        "timeupdated": "1692812361",
+        "timebuildupdated": "1692809575"
+      }
+    }
+  }
+}

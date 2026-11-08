@@ -1,0 +1,106 @@
+{
+  "name": "Progress Game",
+  "source": "spectre",
+  "changenumber": 39554034,
+  "updated": "2026-11-06T21:04:44.179Z",
+  "branches": {
+    "public": {
+      "buildid": "19051265",
+      "timeupdated": "1751289246",
+      "timebuildupdated": "1751289187"
+    },
+    "0.08": {
+      "buildid": "11102555",
+      "description": "For legacy version 0.08",
+      "timeupdated": "1682580732",
+      "timebuildupdated": "1682580732"
+    },
+    "playtest": {
+      "buildid": "10351250",
+      "description": "playtest-builds for progress game",
+      "timeupdated": "1674067812",
+      "timebuildupdated": "1674067812"
+    },
+    "dev-playtest": {
+      "buildid": "25638246",
+      "description": "Dev playtest builds",
+      "timeupdated": "1790803281",
+      "timebuildupdated": "1790803281"
+    }
+  },
+  "depot": {
+    "1370411": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5885626959786192031",
+          "size": "95933824",
+          "download": "61865168"
+        }
+      }
+    },
+    "1370412": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1139864173218957938",
+          "size": "98242368",
+          "download": "62728368"
+        }
+      }
+    },
+    "1370413": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4722647913059350865",
+          "size": "133458635",
+          "download": "72093248"
+        }
+      }
+    },
+    "1370414": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8680024871086308431",
+          "size": "98684140",
+          "download": "62572864"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19051265",
+        "timeupdated": "1751289246",
+        "timebuildupdated": "1751289187"
+      },
+      "0.08": {
+        "buildid": "11102555",
+        "description": "For legacy version 0.08",
+        "timeupdated": "1682580732",
+        "timebuildupdated": "1682580732"
+      },
+      "playtest": {
+        "buildid": "10351250",
+        "description": "playtest-builds for progress game",
+        "timeupdated": "1674067812",
+        "timebuildupdated": "1674067812"
+      },
+      "dev-playtest": {
+        "buildid": "25638246",
+        "description": "Dev playtest builds",
+        "timeupdated": "1790803281",
+        "timebuildupdated": "1790803281"
+      }
+    }
+  }
+}

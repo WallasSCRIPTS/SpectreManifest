@@ -1,0 +1,82 @@
+{
+  "name": "Defend Your Life",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:07.231Z",
+  "branches": {
+    "public": {
+      "buildid": "627527",
+      "timebuildupdated": "1432024139"
+    },
+    "beta": {
+      "buildid": "601070",
+      "timebuildupdated": "1429887422"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "357781": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1567496770783950877",
+          "size": "325944698",
+          "download": "67397632"
+        }
+      }
+    },
+    "357782": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4948320124115893185",
+          "size": "317874342",
+          "download": "66345856"
+        }
+      }
+    },
+    "357783": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5144707985465576831",
+          "size": "325029982",
+          "download": "68108448"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "627527",
+        "timebuildupdated": "1432024139"
+      },
+      "beta": {
+        "buildid": "601070",
+        "timebuildupdated": "1429887422"
+      }
+    }
+  }
+}

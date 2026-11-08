@@ -1,0 +1,82 @@
+{
+  "name": "King of Retail",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:05.225Z",
+  "branches": {
+    "public": {
+      "buildid": "9626984",
+      "timeupdated": "1664543166",
+      "timebuildupdated": "1664543166"
+    },
+    "beta": {
+      "buildid": "8070284",
+      "description": "Branch for beta testers (may be unstable)",
+      "timeupdated": "1642947615",
+      "timebuildupdated": "1642947131"
+    },
+    "twitch": {
+      "buildid": "9626986",
+      "description": "For accessing twitch integration",
+      "timeupdated": "1664543185",
+      "timebuildupdated": "1664543185"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "968251": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2028525921048860646",
+          "size": "6062556432",
+          "download": "1750392752"
+        }
+      }
+    },
+    "968253": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6960435718192666311",
+          "size": "7357358655",
+          "download": "2104105760"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9626984",
+        "timeupdated": "1664543166",
+        "timebuildupdated": "1664543166"
+      },
+      "beta": {
+        "buildid": "8070284",
+        "description": "Branch for beta testers (may be unstable)",
+        "timeupdated": "1642947615",
+        "timebuildupdated": "1642947131"
+      },
+      "twitch": {
+        "buildid": "9626986",
+        "description": "For accessing twitch integration",
+        "timeupdated": "1664543185",
+        "timebuildupdated": "1664543185"
+      }
+    }
+  }
+}

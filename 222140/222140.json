@@ -1,0 +1,78 @@
+{
+  "name": "Puddle",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:05.583Z",
+  "branches": {
+    "public": {
+      "buildid": "212250",
+      "timebuildupdated": "1394716953"
+    }
+  },
+  "depot": {
+    "222141": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5952153792985349006",
+          "size": "692814493",
+          "download": "0"
+        }
+      }
+    },
+    "222142": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5507060829100843577",
+          "size": "710508316",
+          "download": "0"
+        }
+      }
+    },
+    "222143": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2791219047978663634",
+          "size": "679406662",
+          "download": "0"
+        }
+      }
+    },
+    "228982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229000": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "273670": {
+      "manifests": {
+        "public": {
+          "gid": "5790894276569351848",
+          "size": "134821294",
+          "download": "0"
+        }
+      },
+      "dlcappid": "273670"
+    },
+    "branches": {
+      "public": {
+        "buildid": "212250",
+        "timebuildupdated": "1394716953"
+      }
+    }
+  }
+}

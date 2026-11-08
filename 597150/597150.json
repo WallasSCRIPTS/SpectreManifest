@@ -1,0 +1,68 @@
+{
+  "name": "Hyper Knights",
+  "source": "spectre",
+  "changenumber": 38769910,
+  "updated": "2026-11-07T20:59:08.126Z",
+  "branches": {
+    "public": {
+      "buildid": "2152204",
+      "timeupdated": "1506520411",
+      "timebuildupdated": "1506520369"
+    },
+    "beta": {
+      "buildid": "2036732",
+      "timeupdated": "1502724413",
+      "timebuildupdated": "1502724362"
+    }
+  },
+  "depot": {
+    "597151": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7819765800810067562",
+          "size": "533895628",
+          "download": "86670944"
+        }
+      }
+    },
+    "597152": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7612703759639024278",
+          "size": "584707551",
+          "download": "100331952"
+        }
+      }
+    },
+    "597153": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5106763536441399858",
+          "size": "548691012",
+          "download": "90388992"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2152204",
+        "timeupdated": "1506520411",
+        "timebuildupdated": "1506520369"
+      },
+      "beta": {
+        "buildid": "2036732",
+        "timeupdated": "1502724413",
+        "timebuildupdated": "1502724362"
+      }
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Rogue Dungeon",
+  "source": "spectre",
+  "changenumber": 40604579,
+  "updated": "2026-11-06T21:07:08.632Z",
+  "branches": {
+    "public": {
+      "buildid": "25115651",
+      "timeupdated": "1788569497",
+      "timebuildupdated": "1788491113"
+    },
+    "low_mem": {
+      "buildid": "11502267",
+      "description": "this version has lower memory usage",
+      "timeupdated": "1687142654",
+      "timebuildupdated": "1687142654"
+    },
+    "single_thread": {
+      "buildid": "11507622",
+      "description": "Single-threaded (loads game slower)",
+      "timeupdated": "1687192334",
+      "timebuildupdated": "1687192334"
+    },
+    "beta_live": {
+      "buildid": "25115651",
+      "description": "v1.09.33",
+      "timeupdated": "1788491282",
+      "timebuildupdated": "1788491113"
+    },
+    "v1.07": {
+      "buildid": "14180518",
+      "description": "Godot 3.5 version",
+      "timeupdated": "1714098952",
+      "timebuildupdated": "1714098903"
+    }
+  },
+  "depot": {
+    "1822641": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8321807220732161442",
+          "size": "1429524916",
+          "download": "764050880"
+        }
+      }
+    },
+    "1822642": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7894767218506556446",
+          "size": "1490888144",
+          "download": "784188720"
+        }
+      }
+    },
+    "1822643": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8651082225984280389",
+          "size": "1394230208",
+          "download": "756332720"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25115651",
+        "timeupdated": "1788569497",
+        "timebuildupdated": "1788491113"
+      },
+      "low_mem": {
+        "buildid": "11502267",
+        "description": "this version has lower memory usage",
+        "timeupdated": "1687142654",
+        "timebuildupdated": "1687142654"
+      },
+      "single_thread": {
+        "buildid": "11507622",
+        "description": "Single-threaded (loads game slower)",
+        "timeupdated": "1687192334",
+        "timebuildupdated": "1687192334"
+      },
+      "beta_live": {
+        "buildid": "25115651",
+        "description": "v1.09.33",
+        "timeupdated": "1788491282",
+        "timebuildupdated": "1788491113"
+      },
+      "v1.07": {
+        "buildid": "14180518",
+        "description": "Godot 3.5 version",
+        "timeupdated": "1714098952",
+        "timebuildupdated": "1714098903"
+      }
+    }
+  }
+}

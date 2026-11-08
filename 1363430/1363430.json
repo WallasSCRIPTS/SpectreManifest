@@ -1,0 +1,67 @@
+{
+  "name": "Propagation VR",
+  "source": "spectre",
+  "changenumber": 40615790,
+  "updated": "2026-11-06T21:04:41.190Z",
+  "branches": {
+    "public": {
+      "buildid": "19431302",
+      "timeupdated": "1754037430",
+      "timebuildupdated": "1753974825"
+    },
+    "pre-release": {
+      "buildid": "19431302",
+      "description": "Public branch featuring preview content (obviously less stable than default)",
+      "timeupdated": "1754037471",
+      "timebuildupdated": "1753974825"
+    },
+    "previous-stable": {
+      "buildid": "11347745",
+      "description": "Public branch hosting the previous official version (in case of troubles on default branch, you can check here if the issue was already there before the last update)",
+      "timeupdated": "1754037391",
+      "timebuildupdated": "1685431879"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1363431": {
+      "manifests": {
+        "public": {
+          "gid": "6150181753762963680",
+          "size": "3790729427",
+          "download": "1843586448"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19431302",
+        "timeupdated": "1754037430",
+        "timebuildupdated": "1753974825"
+      },
+      "pre-release": {
+        "buildid": "19431302",
+        "description": "Public branch featuring preview content (obviously less stable than default)",
+        "timeupdated": "1754037471",
+        "timebuildupdated": "1753974825"
+      },
+      "previous-stable": {
+        "buildid": "11347745",
+        "description": "Public branch hosting the previous official version (in case of troubles on default branch, you can check here if the issue was already there before the last update)",
+        "timeupdated": "1754037391",
+        "timebuildupdated": "1685431879"
+      }
+    }
+  }
+}

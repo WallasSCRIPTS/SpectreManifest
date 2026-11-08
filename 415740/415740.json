@@ -1,0 +1,83 @@
+{
+  "name": "OmniBus",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:39.508Z",
+  "branches": {
+    "public": {
+      "buildid": "1191550",
+      "timeupdated": "1466613018",
+      "timebuildupdated": "1466538437"
+    },
+    "controltest": {
+      "buildid": "1168896",
+      "timeupdated": "1465331661",
+      "timebuildupdated": "1465331504"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "415741": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1125323275182563024",
+          "size": "168284581",
+          "download": "66222960"
+        }
+      }
+    },
+    "415742": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1232294012338352874",
+          "size": "193960105",
+          "download": "73273712"
+        }
+      }
+    },
+    "415743": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6593034233310636982",
+          "size": "196367427",
+          "download": "74778880"
+        }
+      }
+    },
+    "415744": {
+      "manifests": {
+        "public": {
+          "gid": "8098054300510317482",
+          "size": "42459152",
+          "download": "39692752"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1191550",
+        "timeupdated": "1466613018",
+        "timebuildupdated": "1466538437"
+      },
+      "controltest": {
+        "buildid": "1168896",
+        "timeupdated": "1465331661",
+        "timebuildupdated": "1465331504"
+      }
+    }
+  }
+}

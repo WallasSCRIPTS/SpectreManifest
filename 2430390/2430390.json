@@ -1,0 +1,76 @@
+{
+  "name": "DYSPLACED",
+  "source": "spectre",
+  "changenumber": 40621902,
+  "updated": "2026-11-06T23:25:09.918Z",
+  "branches": {
+    "public": {
+      "buildid": "26212337",
+      "timeupdated": "1793099286",
+      "timebuildupdated": "1793003413"
+    },
+    "preview": {
+      "buildid": "26453247",
+      "description": "A branch where preview builds may occur",
+      "timeupdated": "1793868699",
+      "timebuildupdated": "1793867579"
+    },
+    "staging": {
+      "buildid": "26453247",
+      "description": "Branch for testing builds before default",
+      "timeupdated": "1793868692",
+      "timebuildupdated": "1793867579"
+    },
+    "previous": {
+      "buildid": "25753277",
+      "description": "Branch that has the previous default build",
+      "timeupdated": "1791809397",
+      "timebuildupdated": "1791294275"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2430391": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2865697790526146544",
+          "size": "1685165725",
+          "download": "1089456736"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26212337",
+        "timeupdated": "1793099286",
+        "timebuildupdated": "1793003413"
+      },
+      "preview": {
+        "buildid": "26453247",
+        "description": "A branch where preview builds may occur",
+        "timeupdated": "1793868699",
+        "timebuildupdated": "1793867579"
+      },
+      "staging": {
+        "buildid": "26453247",
+        "description": "Branch for testing builds before default",
+        "timeupdated": "1793868692",
+        "timebuildupdated": "1793867579"
+      },
+      "previous": {
+        "buildid": "25753277",
+        "description": "Branch that has the previous default build",
+        "timeupdated": "1791809397",
+        "timebuildupdated": "1791294275"
+      }
+    }
+  }
+}

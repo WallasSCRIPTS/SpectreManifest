@@ -1,0 +1,58 @@
+{
+  "name": "Knight Squad 2",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:46.092Z",
+  "branches": {
+    "public": {
+      "buildid": "7756043",
+      "timeupdated": "1662990246",
+      "timebuildupdated": "1637594719"
+    },
+    "fix_local_8_players": {
+      "buildid": "7756043",
+      "description": "Attempted fix for 8 players fix introduced in last build",
+      "timeupdated": "1637598486",
+      "timebuildupdated": "1637594719"
+    },
+    "split_kb_gamepad": {
+      "buildid": "6558033",
+      "description": "Option to split controller 1 from kb and mouse",
+      "timeupdated": "1618681912",
+      "timebuildupdated": "1618681766"
+    }
+  },
+  "depot": {
+    "1048661": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7500572436000718853",
+          "size": "820017791",
+          "download": "732032976"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7756043",
+        "timeupdated": "1662990246",
+        "timebuildupdated": "1637594719"
+      },
+      "fix_local_8_players": {
+        "buildid": "7756043",
+        "description": "Attempted fix for 8 players fix introduced in last build",
+        "timeupdated": "1637598486",
+        "timebuildupdated": "1637594719"
+      },
+      "split_kb_gamepad": {
+        "buildid": "6558033",
+        "description": "Option to split controller 1 from kb and mouse",
+        "timeupdated": "1618681912",
+        "timebuildupdated": "1618681766"
+      }
+    }
+  }
+}

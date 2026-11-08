@@ -1,0 +1,82 @@
+{
+  "name": "Suicide Guy",
+  "source": "spectre",
+  "changenumber": 40252269,
+  "updated": "2026-11-07T20:56:32.203Z",
+  "branches": {
+    "public": {
+      "buildid": "13169395",
+      "timeupdated": "1705247230",
+      "timebuildupdated": "1705247064"
+    },
+    "beta": {
+      "buildid": "992891",
+      "description": "branch di prova",
+      "timeupdated": "1492862778",
+      "timebuildupdated": "1456349732"
+    },
+    "beta2": {
+      "buildid": "1774639",
+      "description": "Beta finale",
+      "timeupdated": "1493019844",
+      "timebuildupdated": "1492865078"
+    }
+  },
+  "depot": {
+    "303626": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6781917504012879398",
+          "size": "4554019270",
+          "download": "1401222208"
+        }
+      }
+    },
+    "303628": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8336977378870158078",
+          "size": "5619406438",
+          "download": "1768856944"
+        }
+      }
+    },
+    "303629": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1110947906945949686",
+          "size": "4493743074",
+          "download": "1361756816"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13169395",
+        "timeupdated": "1705247230",
+        "timebuildupdated": "1705247064"
+      },
+      "beta": {
+        "buildid": "992891",
+        "description": "branch di prova",
+        "timeupdated": "1492862778",
+        "timebuildupdated": "1456349732"
+      },
+      "beta2": {
+        "buildid": "1774639",
+        "description": "Beta finale",
+        "timeupdated": "1493019844",
+        "timebuildupdated": "1492865078"
+      }
+    }
+  }
+}

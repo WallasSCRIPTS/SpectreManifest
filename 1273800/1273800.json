@@ -1,0 +1,46 @@
+{
+  "name": "Vaccine",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:05.216Z",
+  "branches": {
+    "public": {
+      "buildid": "4908163",
+      "timeupdated": "1587091567",
+      "timebuildupdated": "1587091426"
+    }
+  },
+  "depot": {
+    "1273801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2920750938628666437",
+          "size": "81434996",
+          "download": "31426000"
+        }
+      }
+    },
+    "1273802": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1456502584300798012",
+          "size": "101921290",
+          "download": "51023376"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4908163",
+        "timeupdated": "1587091567",
+        "timebuildupdated": "1587091426"
+      }
+    }
+  }
+}

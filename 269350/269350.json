@@ -1,0 +1,68 @@
+{
+  "name": "Montas",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:18.451Z",
+  "branches": {
+    "public": {
+      "buildid": "442247",
+      "timebuildupdated": "1415882580"
+    },
+    "local": {
+      "buildid": "187282",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1392122561"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "269351": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4169254510637742485",
+          "size": "1498397054",
+          "download": "139513841807"
+        }
+      }
+    },
+    "269352": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1943064296297626898",
+          "size": "747150687",
+          "download": "45918948632"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "442247",
+        "timebuildupdated": "1415882580"
+      },
+      "local": {
+        "buildid": "187282",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1392122561"
+      }
+    }
+  }
+}

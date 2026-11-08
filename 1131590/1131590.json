@@ -1,0 +1,68 @@
+{
+  "name": "Aegis Online",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:36.053Z",
+  "branches": {
+    "public": {
+      "buildid": "5770745",
+      "timeupdated": "1604306790",
+      "timebuildupdated": "1604306587"
+    },
+    "eep_beta": {
+      "buildid": "5646265",
+      "timeupdated": "1602026629",
+      "timebuildupdated": "1602026085"
+    }
+  },
+  "depot": {
+    "1131591": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "409951877838937838",
+          "size": "128936129",
+          "download": "35600352"
+        }
+      }
+    },
+    "1131592": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "688937239165316493",
+          "size": "122638125",
+          "download": "34116144"
+        }
+      }
+    },
+    "1131593": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7469460606129781959",
+          "size": "132994929",
+          "download": "35707200"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5770745",
+        "timeupdated": "1604306790",
+        "timebuildupdated": "1604306587"
+      },
+      "eep_beta": {
+        "buildid": "5646265",
+        "timeupdated": "1602026629",
+        "timebuildupdated": "1602026085"
+      }
+    }
+  }
+}

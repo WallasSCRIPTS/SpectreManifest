@@ -1,0 +1,70 @@
+{
+  "name": "sunny-place-2",
+  "source": "spectre",
+  "changenumber": 35202458,
+  "updated": "2026-11-06T23:19:29.373Z",
+  "branches": {
+    "public": {
+      "buildid": "10050089",
+      "timeupdated": "1669834215",
+      "timebuildupdated": "1669834130"
+    },
+    "beta": {
+      "buildid": "10050089",
+      "description": "beta",
+      "timeupdated": "1669834130",
+      "timebuildupdated": "1669834130"
+    }
+  },
+  "depot": {
+    "2191232": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7373028506736587743",
+          "size": "1037310664",
+          "download": "217071376"
+        }
+      }
+    },
+    "2191233": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6966560153564273743",
+          "size": "280330969",
+          "download": "94955104"
+        }
+      }
+    },
+    "2191234": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8453477527120254966",
+          "size": "317873418",
+          "download": "102408816"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10050089",
+        "timeupdated": "1669834215",
+        "timebuildupdated": "1669834130"
+      },
+      "beta": {
+        "buildid": "10050089",
+        "description": "beta",
+        "timeupdated": "1669834130",
+        "timebuildupdated": "1669834130"
+      }
+    }
+  }
+}

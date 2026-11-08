@@ -1,0 +1,58 @@
+{
+  "name": "Orc Raid",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:52.375Z",
+  "branches": {
+    "public": {
+      "buildid": "4177675",
+      "timeupdated": "1568854979",
+      "timebuildupdated": "1567980659"
+    }
+  },
+  "depot": {
+    "1061161": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4373844745214519674",
+          "size": "487355982",
+          "download": "173812704"
+        }
+      }
+    },
+    "1061162": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4033152369402980651",
+          "size": "542687545",
+          "download": "193511728"
+        }
+      }
+    },
+    "1061163": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8231344073931981988",
+          "size": "536914632",
+          "download": "187916416"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4177675",
+        "timeupdated": "1568854979",
+        "timebuildupdated": "1567980659"
+      }
+    }
+  }
+}

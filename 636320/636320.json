@@ -1,0 +1,70 @@
+{
+  "name": "Depth of Extinction",
+  "source": "spectre",
+  "changenumber": 40298835,
+  "updated": "2026-11-07T20:59:25.066Z",
+  "branches": {
+    "public": {
+      "buildid": "8917913",
+      "timeupdated": "1655121802",
+      "timebuildupdated": "1654962630"
+    },
+    "beta": {
+      "buildid": "8917913",
+      "description": "Beta testing",
+      "timeupdated": "1654973464",
+      "timebuildupdated": "1654962630"
+    }
+  },
+  "depot": {
+    "636321": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "766707306359467381",
+          "size": "463470125",
+          "download": "127693552"
+        }
+      }
+    },
+    "636322": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8762872374715894448",
+          "size": "475638357",
+          "download": "129936944"
+        }
+      }
+    },
+    "636323": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2060953800238189190",
+          "size": "456987354",
+          "download": "126412928"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8917913",
+        "timeupdated": "1655121802",
+        "timebuildupdated": "1654962630"
+      },
+      "beta": {
+        "buildid": "8917913",
+        "description": "Beta testing",
+        "timeupdated": "1654973464",
+        "timebuildupdated": "1654962630"
+      }
+    }
+  }
+}

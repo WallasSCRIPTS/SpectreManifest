@@ -1,0 +1,115 @@
+{
+  "name": "Gyrodisc Super League",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:43.928Z",
+  "branches": {
+    "public": {
+      "buildid": "1656075",
+      "timeupdated": "1488020524",
+      "timebuildupdated": "1488019486"
+    },
+    "online": {
+      "buildid": "1543224",
+      "description": "Online alpha branch",
+      "timeupdated": "1482941556",
+      "timebuildupdated": "1482940117"
+    },
+    "prerelease": {
+      "buildid": "1656075",
+      "description": "PreRelease testing branch: Minimally tested",
+      "timeupdated": "1488020411",
+      "timebuildupdated": "1488019486"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "425871": {
+      "manifests": {
+        "public": {
+          "gid": "7404960546815750740",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "425872": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4387958861214533863",
+          "size": "737553385",
+          "download": "139172624"
+        }
+      }
+    },
+    "425873": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4416940545471705022",
+          "size": "780823868",
+          "download": "150516400"
+        }
+      }
+    },
+    "425874": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2110946315048647413",
+          "size": "848080646",
+          "download": "156043744"
+        }
+      }
+    },
+    "425875": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2928855693089587306",
+          "size": "741893049",
+          "download": "140338240"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1656075",
+        "timeupdated": "1488020524",
+        "timebuildupdated": "1488019486"
+      },
+      "online": {
+        "buildid": "1543224",
+        "description": "Online alpha branch",
+        "timeupdated": "1482941556",
+        "timebuildupdated": "1482940117"
+      },
+      "prerelease": {
+        "buildid": "1656075",
+        "description": "PreRelease testing branch: Minimally tested",
+        "timeupdated": "1488020411",
+        "timebuildupdated": "1488019486"
+      }
+    }
+  }
+}

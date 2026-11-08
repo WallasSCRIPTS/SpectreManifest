@@ -1,0 +1,64 @@
+{
+  "name": "Sarawak",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:03:53.864Z",
+  "branches": {
+    "public": {
+      "buildid": "6413630",
+      "timeupdated": "1616350193",
+      "timebuildupdated": "1616261898"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1249431": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5416817786834953414",
+          "size": "77846735",
+          "download": "44333664"
+        }
+      }
+    },
+    "1249432": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3300521580894776901",
+          "size": "87430125",
+          "download": "46179696"
+        }
+      }
+    },
+    "1249433": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5597097981286213076",
+          "size": "82055703",
+          "download": "45021520"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6413630",
+        "timeupdated": "1616350193",
+        "timebuildupdated": "1616261898"
+      }
+    }
+  }
+}

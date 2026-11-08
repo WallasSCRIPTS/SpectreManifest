@@ -1,0 +1,70 @@
+{
+  "name": "LONN",
+  "source": "spectre",
+  "changenumber": 37951447,
+  "updated": "2026-11-07T21:03:21.611Z",
+  "branches": {
+    "public": {
+      "buildid": "10321467",
+      "timeupdated": "1673680465",
+      "timebuildupdated": "1673679904"
+    },
+    "publicbeta": {
+      "buildid": "10321467",
+      "description": "Test game updates before they go live",
+      "timeupdated": "1673680512",
+      "timebuildupdated": "1673679904"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1107341": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1217306944467882339",
+          "size": "17747423619",
+          "download": "17243060864"
+        }
+      }
+    },
+    "1107342": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4559359597761468347",
+          "size": "17747423619",
+          "download": "17258737424"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10321467",
+        "timeupdated": "1673680465",
+        "timebuildupdated": "1673679904"
+      },
+      "publicbeta": {
+        "buildid": "10321467",
+        "description": "Test game updates before they go live",
+        "timeupdated": "1673680512",
+        "timebuildupdated": "1673679904"
+      }
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Apocalipsis",
+  "source": "spectre",
+  "changenumber": 39160686,
+  "updated": "2026-11-07T20:58:22.041Z",
+  "branches": {
+    "public": {
+      "buildid": "3121751",
+      "timeupdated": "1536931636",
+      "timebuildupdated": "1536924067"
+    },
+    "beta": {
+      "buildid": "2557355",
+      "description": "beta branch",
+      "timeupdated": "1519656048",
+      "timebuildupdated": "1519655881"
+    },
+    "local": {
+      "buildid": "2521636",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1518523012",
+      "timebuildupdated": "1518523012"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "505331": {
+      "manifests": {
+        "public": {
+          "gid": "6695299851720289751",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "505332": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2797121493803434879",
+          "size": "3935444678",
+          "download": "985950912"
+        }
+      }
+    },
+    "505333": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1325109306892046156",
+          "size": "4084391126",
+          "download": "991936288"
+        }
+      }
+    },
+    "813500": {
+      "manifests": {
+        "public": {
+          "gid": "6650998372482002497",
+          "size": "378978171",
+          "download": "351687824"
+        }
+      },
+      "dlcappid": "813500"
+    },
+    "921870": {
+      "dlcappid": "921870"
+    },
+    "branches": {
+      "public": {
+        "buildid": "3121751",
+        "timeupdated": "1536931636",
+        "timebuildupdated": "1536924067"
+      },
+      "beta": {
+        "buildid": "2557355",
+        "description": "beta branch",
+        "timeupdated": "1519656048",
+        "timebuildupdated": "1519655881"
+      },
+      "local": {
+        "buildid": "2521636",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1518523012",
+        "timebuildupdated": "1518523012"
+      }
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Insanity Clicker",
+  "source": "spectre",
+  "changenumber": 40702794,
+  "updated": "2026-11-07T20:57:29.766Z",
+  "branches": {
+    "public": {
+      "buildid": "1682577",
+      "timeupdated": "1489143438",
+      "timebuildupdated": "1489143408"
+    },
+    "local": {
+      "buildid": "909837",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1450787721"
+    },
+    "test": {
+      "buildid": "1643261",
+      "description": "MVL",
+      "timeupdated": "1487597328",
+      "timebuildupdated": "1487597295"
+    }
+  },
+  "depot": {
+    "393531": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2353747561853638717",
+          "size": "116917050",
+          "download": "87440272"
+        }
+      }
+    },
+    "393533": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "951514760492825490",
+          "size": "78568158",
+          "download": "31129232"
+        }
+      }
+    },
+    "498790": {
+      "manifests": {
+        "public": {
+          "gid": "7552645869744053656",
+          "size": "223923348",
+          "download": "111039840"
+        }
+      },
+      "dlcappid": "498790"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1682577",
+        "timeupdated": "1489143438",
+        "timebuildupdated": "1489143408"
+      },
+      "local": {
+        "buildid": "909837",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1450787721"
+      },
+      "test": {
+        "buildid": "1643261",
+        "description": "MVL",
+        "timeupdated": "1487597328",
+        "timebuildupdated": "1487597295"
+      }
+    }
+  }
+}

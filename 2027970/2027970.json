@@ -1,0 +1,63 @@
+{
+  "name": "Sole Saga",
+  "source": "spectre",
+  "changenumber": 40407643,
+  "updated": "2026-11-06T23:15:38.236Z",
+  "branches": {
+    "public": {
+      "buildid": "19912581",
+      "timeupdated": "1758092898",
+      "timebuildupdated": "1757427407"
+    },
+    "open_beta": {
+      "buildid": "19912581",
+      "description": "Unstable version for testing",
+      "timeupdated": "1758092807",
+      "timebuildupdated": "1757427407"
+    }
+  },
+  "depot": {
+    "2027971": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "2027972": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4791221061872598125",
+          "size": "119030512",
+          "download": "70536016"
+        }
+      }
+    },
+    "2027973": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7574536158836545357",
+          "size": "125584113",
+          "download": "71662368"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19912581",
+        "timeupdated": "1758092898",
+        "timebuildupdated": "1757427407"
+      },
+      "open_beta": {
+        "buildid": "19912581",
+        "description": "Unstable version for testing",
+        "timeupdated": "1758092807",
+        "timebuildupdated": "1757427407"
+      }
+    }
+  }
+}

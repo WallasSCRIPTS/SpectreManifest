@@ -1,0 +1,73 @@
+{
+  "name": "Inkulinati",
+  "source": "spectre",
+  "changenumber": 40179224,
+  "updated": "2026-11-07T21:01:59.355Z",
+  "branches": {
+    "public": {
+      "buildid": "21802470",
+      "timeupdated": "1770311666",
+      "timebuildupdated": "1770310837"
+    },
+    "local": {
+      "buildid": "9325162",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1660662735",
+      "timebuildupdated": "1660662735"
+    }
+  },
+  "depot": {
+    "957961": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8763876725476514049",
+          "size": "3998687579",
+          "download": "1165330032"
+        }
+      }
+    },
+    "957962": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6067770886335678283",
+          "size": "4003987677",
+          "download": "1165619328"
+        }
+      }
+    },
+    "2208540": {
+      "dlcappid": "2208540"
+    },
+    "2223510": {
+      "manifests": {
+        "public": {
+          "gid": "8986030487607636828",
+          "size": "140582548",
+          "download": "137307328"
+        }
+      },
+      "dlcappid": "2223510"
+    },
+    "branches": {
+      "public": {
+        "buildid": "21802470",
+        "timeupdated": "1770311666",
+        "timebuildupdated": "1770310837"
+      },
+      "local": {
+        "buildid": "9325162",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1660662735",
+        "timebuildupdated": "1660662735"
+      }
+    }
+  }
+}

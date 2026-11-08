@@ -1,0 +1,112 @@
+{
+  "name": "Devil Daggers",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:42.503Z",
+  "branches": {
+    "2015": {
+      "buildid": "1028428",
+      "timeupdated": "1467747555",
+      "timebuildupdated": "1458205921"
+    },
+    "public": {
+      "buildid": "8561877",
+      "timeupdated": "1649981586",
+      "timebuildupdated": "1649981586"
+    },
+    "dd_v2": {
+      "buildid": "5572781",
+      "timeupdated": "1600682351",
+      "timebuildupdated": "1600682351"
+    },
+    "dd_v3": {
+      "buildid": "2685103",
+      "timeupdated": "1614289946",
+      "timebuildupdated": "1523594327"
+    },
+    "dd_v3.1": {
+      "buildid": "7349206",
+      "description": "v3.1",
+      "timeupdated": "1635288493",
+      "timebuildupdated": "1631531802"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "422971": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6667768860105084395",
+          "size": "577373337",
+          "download": "402416352"
+        }
+      }
+    },
+    "422972": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9132224620729642431",
+          "size": "578237711",
+          "download": "402273440"
+        }
+      }
+    },
+    "422973": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8856262507766689586",
+          "size": "576192100",
+          "download": "402028096"
+        }
+      }
+    },
+    "branches": {
+      "2015": {
+        "buildid": "1028428",
+        "timeupdated": "1467747555",
+        "timebuildupdated": "1458205921"
+      },
+      "public": {
+        "buildid": "8561877",
+        "timeupdated": "1649981586",
+        "timebuildupdated": "1649981586"
+      },
+      "dd_v2": {
+        "buildid": "5572781",
+        "timeupdated": "1600682351",
+        "timebuildupdated": "1600682351"
+      },
+      "dd_v3": {
+        "buildid": "2685103",
+        "timeupdated": "1614289946",
+        "timebuildupdated": "1523594327"
+      },
+      "dd_v3.1": {
+        "buildid": "7349206",
+        "description": "v3.1",
+        "timeupdated": "1635288493",
+        "timebuildupdated": "1631531802"
+      }
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "name": "Turbo Overkill",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:27.200Z",
+  "branches": {
+    "public": {
+      "buildid": "22474225",
+      "timeupdated": "1774928265",
+      "timebuildupdated": "1774322391"
+    },
+    "modding": {
+      "buildid": "12835514",
+      "description": "A branch that has an uncompressed version of the game compiled with Mono",
+      "timeupdated": "1701320216",
+      "timebuildupdated": "1701320216"
+    },
+    "v1013": {
+      "buildid": "11964260",
+      "description": "Legacy branch",
+      "timeupdated": "1693204125",
+      "timebuildupdated": "1692270818"
+    },
+    "v1015": {
+      "buildid": "12047092",
+      "description": "Legacy branch",
+      "timeupdated": "1698279478",
+      "timebuildupdated": "1693204869"
+    },
+    "v1020": {
+      "buildid": "12863964",
+      "description": "Legacy branch",
+      "timeupdated": "1713200760",
+      "timebuildupdated": "1701635718"
+    },
+    "beta": {
+      "buildid": "22474225",
+      "description": "Beta branch for testing new and upcoming features",
+      "timeupdated": "1774322483",
+      "timebuildupdated": "1774322391"
+    }
+  },
+  "depot": {
+    "1328351": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1158215864037425794",
+          "size": "7548580882",
+          "download": "6594038672"
+        }
+      }
+    },
+    "1328352": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "4038230": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2052044511122736541",
+          "size": "220752178",
+          "download": "208314560"
+        }
+      },
+      "dlcappid": "4038230"
+    },
+    "4038350": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5743524213395756841",
+          "size": "52038587",
+          "download": "51689424"
+        }
+      },
+      "dlcappid": "4038350"
+    },
+    "branches": {
+      "public": {
+        "buildid": "22474225",
+        "timeupdated": "1774928265",
+        "timebuildupdated": "1774322391"
+      },
+      "modding": {
+        "buildid": "12835514",
+        "description": "A branch that has an uncompressed version of the game compiled with Mono",
+        "timeupdated": "1701320216",
+        "timebuildupdated": "1701320216"
+      },
+      "v1013": {
+        "buildid": "11964260",
+        "description": "Legacy branch",
+        "timeupdated": "1693204125",
+        "timebuildupdated": "1692270818"
+      },
+      "v1015": {
+        "buildid": "12047092",
+        "description": "Legacy branch",
+        "timeupdated": "1698279478",
+        "timebuildupdated": "1693204869"
+      },
+      "v1020": {
+        "buildid": "12863964",
+        "description": "Legacy branch",
+        "timeupdated": "1713200760",
+        "timebuildupdated": "1701635718"
+      },
+      "beta": {
+        "buildid": "22474225",
+        "description": "Beta branch for testing new and upcoming features",
+        "timeupdated": "1774322483",
+        "timebuildupdated": "1774322391"
+      }
+    }
+  }
+}

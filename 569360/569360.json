@@ -1,0 +1,44 @@
+{
+  "name": "Pivot Pilot",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:52.698Z",
+  "branches": {
+    "public": {
+      "buildid": "2615793",
+      "timeupdated": "1521470712",
+      "timebuildupdated": "1521470068"
+    }
+  },
+  "depot": {
+    "569361": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3154404078608588396",
+          "size": "169197902",
+          "download": "89481136"
+        }
+      }
+    },
+    "569362": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "569363": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2615793",
+        "timeupdated": "1521470712",
+        "timebuildupdated": "1521470068"
+      }
+    }
+  }
+}

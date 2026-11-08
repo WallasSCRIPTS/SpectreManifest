@@ -1,0 +1,70 @@
+{
+  "name": "The Paribneur Combination",
+  "source": "spectre",
+  "changenumber": 34874601,
+  "updated": "2026-11-06T23:11:37.372Z",
+  "branches": {
+    "public": {
+      "buildid": "7959915",
+      "timeupdated": "1641037304",
+      "timebuildupdated": "1641037304"
+    },
+    "legacy": {
+      "buildid": "7959915",
+      "description": "TPC Legacy build",
+      "timeupdated": "1746437205",
+      "timebuildupdated": "1641037304"
+    },
+    "lostmedia": {
+      "buildid": "18348970",
+      "description": "Lost Media Build",
+      "timeupdated": "1746464656",
+      "timebuildupdated": "1746464656"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1838671": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "913242462182600604",
+          "size": "1895196848",
+          "download": "663843952"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7959915",
+        "timeupdated": "1641037304",
+        "timebuildupdated": "1641037304"
+      },
+      "legacy": {
+        "buildid": "7959915",
+        "description": "TPC Legacy build",
+        "timeupdated": "1746437205",
+        "timebuildupdated": "1641037304"
+      },
+      "lostmedia": {
+        "buildid": "18348970",
+        "description": "Lost Media Build",
+        "timeupdated": "1746464656",
+        "timebuildupdated": "1746464656"
+      }
+    }
+  }
+}

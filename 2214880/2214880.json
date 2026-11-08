@@ -1,0 +1,91 @@
+{
+  "name": "Europa",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:19:32.048Z",
+  "branches": {
+    "public": {
+      "buildid": "16186669",
+      "timeupdated": "1729895856",
+      "timebuildupdated": "1729895021"
+    },
+    "demo": {
+      "buildid": "15525260",
+      "description": "Demo branch for internal testing",
+      "timeupdated": "1724892453",
+      "timebuildupdated": "1724892434"
+    },
+    "demodebug": {
+      "buildid": "14155573",
+      "description": "demo branch debug enabled (slow)",
+      "timeupdated": "1713939436",
+      "timebuildupdated": "1713939436"
+    },
+    "testing": {
+      "buildid": "16186669",
+      "description": "Fresh builds",
+      "timeupdated": "1729895132",
+      "timebuildupdated": "1729895021"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2214881": {
+      "manifests": {
+        "public": {
+          "gid": "8576866485694176437",
+          "size": "10682597672",
+          "download": "2349403312"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16186669",
+        "timeupdated": "1729895856",
+        "timebuildupdated": "1729895021"
+      },
+      "demo": {
+        "buildid": "15525260",
+        "description": "Demo branch for internal testing",
+        "timeupdated": "1724892453",
+        "timebuildupdated": "1724892434"
+      },
+      "demodebug": {
+        "buildid": "14155573",
+        "description": "demo branch debug enabled (slow)",
+        "timeupdated": "1713939436",
+        "timebuildupdated": "1713939436"
+      },
+      "testing": {
+        "buildid": "16186669",
+        "description": "Fresh builds",
+        "timeupdated": "1729895132",
+        "timebuildupdated": "1729895021"
+      }
+    }
+  }
+}

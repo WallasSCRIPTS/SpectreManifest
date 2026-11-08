@@ -1,0 +1,116 @@
+{
+  "name": "The Dope Game",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:06.955Z",
+  "branches": {
+    "public": {
+      "buildid": "10211563",
+      "timeupdated": "1671898363",
+      "timebuildupdated": "1671898345"
+    },
+    "beta": {
+      "buildid": "10211563",
+      "description": "Beta build branch for The Dope Game",
+      "timeupdated": "1671898345",
+      "timebuildupdated": "1671898345"
+    },
+    "classic": {
+      "buildid": "3437007",
+      "description": "The classic version of the game",
+      "timeupdated": "1654625482",
+      "timebuildupdated": "1546377581"
+    }
+  },
+  "depot": {
+    "466801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3229250438487978714",
+          "size": "152595232",
+          "download": "115934464"
+        }
+      }
+    },
+    "466802": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3791126333101173364",
+          "size": "145162040",
+          "download": "113516800"
+        }
+      }
+    },
+    "466803": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5973429116217878356",
+          "size": "161169217",
+          "download": "118181696"
+        }
+      }
+    },
+    "466804": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7790793410784660049",
+          "size": "208418793",
+          "download": "129155920"
+        }
+      }
+    },
+    "466805": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1080501941166689247",
+          "size": "142725395",
+          "download": "115156208"
+        }
+      }
+    },
+    "493230": {
+      "manifests": {
+        "public": {
+          "gid": "2307475476736730043",
+          "size": "445372073",
+          "download": "441736624"
+        }
+      },
+      "dlcappid": "493230"
+    },
+    "branches": {
+      "public": {
+        "buildid": "10211563",
+        "timeupdated": "1671898363",
+        "timebuildupdated": "1671898345"
+      },
+      "beta": {
+        "buildid": "10211563",
+        "description": "Beta build branch for The Dope Game",
+        "timeupdated": "1671898345",
+        "timebuildupdated": "1671898345"
+      },
+      "classic": {
+        "buildid": "3437007",
+        "description": "The classic version of the game",
+        "timeupdated": "1654625482",
+        "timebuildupdated": "1546377581"
+      }
+    }
+  }
+}

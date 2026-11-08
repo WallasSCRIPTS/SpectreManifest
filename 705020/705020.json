@@ -1,0 +1,70 @@
+{
+  "name": "Bottom of the 9th",
+  "source": "spectre",
+  "changenumber": 39648864,
+  "updated": "2026-11-07T20:59:58.439Z",
+  "branches": {
+    "public": {
+      "buildid": "20938345",
+      "timeupdated": "1764192428",
+      "timebuildupdated": "1764093835"
+    },
+    "1.2.2": {
+      "buildid": "2600220",
+      "description": "Old version for Windows XP and DirectX 9.",
+      "timeupdated": "1764192598",
+      "timebuildupdated": "1520954257"
+    }
+  },
+  "depot": {
+    "705021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6304137752653595400",
+          "size": "277456005",
+          "download": "222131408"
+        }
+      }
+    },
+    "705022": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7976450809606335910",
+          "size": "301982746",
+          "download": "230816816"
+        }
+      }
+    },
+    "705023": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "850866308498979648",
+          "size": "275374261",
+          "download": "218676288"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20938345",
+        "timeupdated": "1764192428",
+        "timebuildupdated": "1764093835"
+      },
+      "1.2.2": {
+        "buildid": "2600220",
+        "description": "Old version for Windows XP and DirectX 9.",
+        "timeupdated": "1764192598",
+        "timebuildupdated": "1520954257"
+      }
+    }
+  }
+}

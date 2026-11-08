@@ -1,0 +1,70 @@
+{
+  "name": "PhaseWorm",
+  "source": "spectre",
+  "changenumber": 34853404,
+  "updated": "2026-11-06T21:04:11.259Z",
+  "branches": {
+    "public": {
+      "buildid": "5484470",
+      "timeupdated": "1673427343",
+      "timebuildupdated": "1598906297"
+    },
+    "beta": {
+      "buildid": "10296867",
+      "description": "Testing builds before public release",
+      "timeupdated": "1673427286",
+      "timebuildupdated": "1673426995"
+    }
+  },
+  "depot": {
+    "1287791": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2840052396151335580",
+          "size": "116014598",
+          "download": "27489168"
+        }
+      }
+    },
+    "1287792": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8216779739474173699",
+          "size": "126327722",
+          "download": "28915584"
+        }
+      }
+    },
+    "1287793": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3265275267999874220",
+          "size": "117613665",
+          "download": "28034880"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5484470",
+        "timeupdated": "1673427343",
+        "timebuildupdated": "1598906297"
+      },
+      "beta": {
+        "buildid": "10296867",
+        "description": "Testing builds before public release",
+        "timeupdated": "1673427286",
+        "timebuildupdated": "1673426995"
+      }
+    }
+  }
+}

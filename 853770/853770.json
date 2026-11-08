@@ -1,0 +1,68 @@
+{
+  "name": "Maximum Action",
+  "source": "spectre",
+  "changenumber": 40567843,
+  "updated": "2026-11-07T21:01:11.382Z",
+  "branches": {
+    "public": {
+      "buildid": "26257041",
+      "timeupdated": "1793746591",
+      "timebuildupdated": "1793143833"
+    },
+    "weaponuploadingbranch": {
+      "buildid": "7000716",
+      "description": "Switch here to upload workshop weapons",
+      "timeupdated": "1635714262",
+      "timebuildupdated": "1625769040"
+    },
+    "0.90_testing": {
+      "buildid": "26257041",
+      "description": "v0.95 testing!",
+      "timeupdated": "1793143833",
+      "timebuildupdated": "1793143833"
+    }
+  },
+  "depot": {
+    "853771": {},
+    "853772": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7853635448526597399",
+          "size": "66181761",
+          "download": "16469760"
+        }
+      }
+    },
+    "853773": {
+      "manifests": {
+        "public": {
+          "gid": "1377808064075872515",
+          "size": "5986324043",
+          "download": "1588856688"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26257041",
+        "timeupdated": "1793746591",
+        "timebuildupdated": "1793143833"
+      },
+      "weaponuploadingbranch": {
+        "buildid": "7000716",
+        "description": "Switch here to upload workshop weapons",
+        "timeupdated": "1635714262",
+        "timebuildupdated": "1625769040"
+      },
+      "0.90_testing": {
+        "buildid": "26257041",
+        "description": "v0.95 testing!",
+        "timeupdated": "1793143833",
+        "timebuildupdated": "1793143833"
+      }
+    }
+  }
+}

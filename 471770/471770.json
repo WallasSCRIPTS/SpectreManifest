@@ -1,0 +1,87 @@
+{
+  "name": "In Case of Emergency, Release Raptor",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:08.807Z",
+  "branches": {
+    "public": {
+      "buildid": "1302899",
+      "timeupdated": "1472258242",
+      "timebuildupdated": "1472258022"
+    },
+    "last32bitbuild": {
+      "buildid": "1295551",
+      "timeupdated": "1472045408",
+      "timebuildupdated": "1471980469"
+    },
+    "olderknowngood": {
+      "buildid": "1300789",
+      "timeupdated": "1472258232",
+      "timebuildupdated": "1472187644"
+    }
+  },
+  "depot": {
+    "471771": {
+      "manifests": {
+        "public": {
+          "gid": "3404060701167694058",
+          "size": "9545222",
+          "download": "531904"
+        }
+      }
+    },
+    "471772": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "296604709935663377",
+          "size": "2412824771",
+          "download": "907648160"
+        }
+      }
+    },
+    "471773": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3816692430907315236",
+          "size": "2421295293",
+          "download": "908861808"
+        }
+      }
+    },
+    "471774": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2574031164734476485",
+          "size": "2410056396",
+          "download": "903785728"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1302899",
+        "timeupdated": "1472258242",
+        "timebuildupdated": "1472258022"
+      },
+      "last32bitbuild": {
+        "buildid": "1295551",
+        "timeupdated": "1472045408",
+        "timebuildupdated": "1471980469"
+      },
+      "olderknowngood": {
+        "buildid": "1300789",
+        "timeupdated": "1472258232",
+        "timebuildupdated": "1472187644"
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "name": "Tomoyo After ~It's a Wonderful Life~ English Edition",
+  "source": "spectre",
+  "changenumber": 40407464,
+  "updated": "2026-11-07T20:58:04.460Z",
+  "branches": {
+    "public": {
+      "buildid": "3159213",
+      "timeupdated": "1537986815",
+      "timebuildupdated": "1537986815"
+    },
+    "release": {
+      "buildid": "3159207",
+      "description": "Original release (legacy)",
+      "timeupdated": "1537986749",
+      "timebuildupdated": "1537986749"
+    },
+    "v1.1.1": {
+      "buildid": "3159208",
+      "description": "Update version 1.1.1 (legacy)",
+      "timeupdated": "1537986770",
+      "timebuildupdated": "1537986770"
+    },
+    "v1.1.2": {
+      "buildid": "3159210",
+      "description": "Update version 1.1.2 (legacy)",
+      "timeupdated": "1537986783",
+      "timebuildupdated": "1537986783"
+    },
+    "v1.2.0": {
+      "buildid": "3159211",
+      "description": "Update version 1.2.0 (current)",
+      "timeupdated": "1537986801",
+      "timebuildupdated": "1537986801"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "462991": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "626663856945486833",
+          "size": "2608833976",
+          "download": "2215540992"
+        }
+      }
+    },
+    "518710": {
+      "dlcappid": "518710"
+    },
+    "518711": {
+      "manifests": {
+        "public": {
+          "gid": "6098621826033286723",
+          "size": "718649966",
+          "download": "617158144"
+        }
+      },
+      "dlcappid": "518710"
+    },
+    "952900": {
+      "manifests": {
+        "public": {
+          "gid": "4594138829841176935",
+          "size": "310510816",
+          "download": "309401792"
+        }
+      },
+      "dlcappid": "952900"
+    },
+    "branches": {
+      "public": {
+        "buildid": "3159213",
+        "timeupdated": "1537986815",
+        "timebuildupdated": "1537986815"
+      },
+      "release": {
+        "buildid": "3159207",
+        "description": "Original release (legacy)",
+        "timeupdated": "1537986749",
+        "timebuildupdated": "1537986749"
+      },
+      "v1.1.1": {
+        "buildid": "3159208",
+        "description": "Update version 1.1.1 (legacy)",
+        "timeupdated": "1537986770",
+        "timebuildupdated": "1537986770"
+      },
+      "v1.1.2": {
+        "buildid": "3159210",
+        "description": "Update version 1.1.2 (legacy)",
+        "timeupdated": "1537986783",
+        "timebuildupdated": "1537986783"
+      },
+      "v1.2.0": {
+        "buildid": "3159211",
+        "description": "Update version 1.2.0 (current)",
+        "timeupdated": "1537986801",
+        "timebuildupdated": "1537986801"
+      }
+    }
+  }
+}

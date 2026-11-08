@@ -1,0 +1,64 @@
+{
+  "name": "Rocket Shipment",
+  "source": "spectre",
+  "changenumber": 40605155,
+  "updated": "2026-11-06T21:03:48.825Z",
+  "branches": {
+    "public": {
+      "buildid": "26441675",
+      "timeupdated": "1793824687",
+      "timebuildupdated": "1793824641"
+    },
+    "pre-prod": {
+      "buildid": "26441675",
+      "description": "Branch for testing production version directly before release",
+      "timeupdated": "1793824687",
+      "timebuildupdated": "1793824641"
+    }
+  },
+  "depot": {
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1237311": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7807883795295197479",
+          "size": "72116387",
+          "download": "43259808"
+        }
+      }
+    },
+    "1237312": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6305076869182716006",
+          "size": "77655534",
+          "download": "43234160"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26441675",
+        "timeupdated": "1793824687",
+        "timebuildupdated": "1793824641"
+      },
+      "pre-prod": {
+        "buildid": "26441675",
+        "description": "Branch for testing production version directly before release",
+        "timeupdated": "1793824687",
+        "timebuildupdated": "1793824641"
+      }
+    }
+  }
+}

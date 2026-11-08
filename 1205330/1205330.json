@@ -1,0 +1,54 @@
+{
+  "name": "Mesen",
+  "source": "spectre",
+  "changenumber": 40315868,
+  "updated": "2026-11-07T21:04:14.401Z",
+  "branches": {
+    "public": {
+      "buildid": "5800566",
+      "timeupdated": "1604849575",
+      "timebuildupdated": "1604849511"
+    }
+  },
+  "depot": {
+    "1205330": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3560743977034408691",
+          "size": "2933614",
+          "download": "876272"
+        }
+      },
+      "dlcappid": "1205330"
+    },
+    "1205331": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6534638230186158039",
+          "size": "4642758",
+          "download": "1271168"
+        }
+      },
+      "dlcappid": "1205330"
+    },
+    "1205332": {
+      "config": {
+        "oslist": "linux"
+      },
+      "dlcappid": "1205330"
+    },
+    "branches": {
+      "public": {
+        "buildid": "5800566",
+        "timeupdated": "1604849575",
+        "timebuildupdated": "1604849511"
+      }
+    }
+  }
+}

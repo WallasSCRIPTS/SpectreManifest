@@ -1,0 +1,85 @@
+{
+  "name": "Pathological Tires",
+  "source": "spectre",
+  "changenumber": 34870641,
+  "updated": "2026-11-06T23:09:40.622Z",
+  "branches": {
+    "public": {
+      "buildid": "7441012",
+      "timeupdated": "1632861886",
+      "timebuildupdated": "1632861870"
+    }
+  },
+  "depot": {
+    "1735011": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5550372129183307148",
+          "size": "18514061",
+          "download": "18759424"
+        }
+      }
+    },
+    "1735012": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6039870961775583748",
+          "size": "18514061",
+          "download": "18759424"
+        }
+      }
+    },
+    "1741911": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5199662994909448473",
+          "size": "210578060",
+          "download": "99561024"
+        }
+      },
+      "depotfromapp": "1741910"
+    },
+    "1741912": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6814665476540668805",
+          "size": "260437235",
+          "download": "113434272"
+        }
+      },
+      "depotfromapp": "1741910"
+    },
+    "1741913": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7948064045915866945",
+          "size": "260075022",
+          "download": "114578288"
+        }
+      },
+      "depotfromapp": "1741910"
+    },
+    "branches": {
+      "public": {
+        "buildid": "7441012",
+        "timeupdated": "1632861886",
+        "timebuildupdated": "1632861870"
+      }
+    }
+  }
+}

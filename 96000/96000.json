@@ -1,0 +1,94 @@
+{
+  "name": "The Tiny Bang Story",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:58.484Z",
+  "branches": {
+    "public": {
+      "buildid": "809877",
+      "timebuildupdated": "1444499627"
+    },
+    "beta": {
+      "buildid": "809877",
+      "description": "Public Beta version",
+      "timebuildupdated": "1444499627"
+    },
+    "legacy": {
+      "buildid": "11625",
+      "description": "Legacy version for old systems",
+      "timebuildupdated": "1346389715"
+    }
+  },
+  "depot": {
+    "96001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6233856597850416780",
+          "size": "178795926",
+          "download": "0"
+        }
+      }
+    },
+    "96002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8708146978522570432",
+          "size": "11853",
+          "download": "0"
+        }
+      }
+    },
+    "96003": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7123397135582847748",
+          "size": "156671524",
+          "download": "154887408"
+        }
+      }
+    },
+    "96005": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8363362875898985241",
+          "size": "189189976",
+          "download": "173894752"
+        }
+      }
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "809877",
+        "timebuildupdated": "1444499627"
+      },
+      "beta": {
+        "buildid": "809877",
+        "description": "Public Beta version",
+        "timebuildupdated": "1444499627"
+      },
+      "legacy": {
+        "buildid": "11625",
+        "description": "Legacy version for old systems",
+        "timebuildupdated": "1346389715"
+      }
+    }
+  }
+}

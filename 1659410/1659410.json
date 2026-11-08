@@ -1,0 +1,58 @@
+{
+  "name": "Dungeon Lad",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-05T14:59:17.496Z",
+  "branches": {
+    "public": {
+      "buildid": "10490458",
+      "timeupdated": "1675709759",
+      "timebuildupdated": "1675709759"
+    },
+    "hard-mode-beta": {
+      "buildid": "8518230",
+      "description": "beta for testing hard mode",
+      "timeupdated": "1649367025",
+      "timebuildupdated": "1649367025"
+    }
+  },
+  "depot": {
+    "1659411": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6573538117094518783",
+          "size": "124358644",
+          "download": "65297392"
+        }
+      }
+    },
+    "1659412": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1114997969611121063",
+          "size": "147746107",
+          "download": "71917184"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10490458",
+        "timeupdated": "1675709759",
+        "timebuildupdated": "1675709759"
+      },
+      "hard-mode-beta": {
+        "buildid": "8518230",
+        "description": "beta for testing hard mode",
+        "timeupdated": "1649367025",
+        "timebuildupdated": "1649367025"
+      }
+    }
+  }
+}

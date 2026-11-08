@@ -1,0 +1,70 @@
+{
+  "name": "Dungeon Reels Tactics",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:13:28.685Z",
+  "branches": {
+    "public": {
+      "buildid": "9202021",
+      "timeupdated": "1659028487",
+      "timebuildupdated": "1658942333"
+    },
+    "beta": {
+      "buildid": "9517208",
+      "description": "Beta Track",
+      "timeupdated": "1663182050",
+      "timebuildupdated": "1663182050"
+    }
+  },
+  "depot": {
+    "1901031": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1808469519587232304",
+          "size": "243997152",
+          "download": "135502432"
+        }
+      }
+    },
+    "1901032": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9174844616304521508",
+          "size": "246108087",
+          "download": "135416864"
+        }
+      }
+    },
+    "1901033": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6115131473321735846",
+          "size": "257059559",
+          "download": "137717184"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9202021",
+        "timeupdated": "1659028487",
+        "timebuildupdated": "1658942333"
+      },
+      "beta": {
+        "buildid": "9517208",
+        "description": "Beta Track",
+        "timeupdated": "1663182050",
+        "timebuildupdated": "1663182050"
+      }
+    }
+  }
+}

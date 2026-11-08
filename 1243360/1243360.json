@@ -1,0 +1,75 @@
+{
+  "name": "Sigma Draconis",
+  "source": "spectre",
+  "changenumber": 40561678,
+  "updated": "2026-11-06T21:03:51.270Z",
+  "branches": {
+    "public": {
+      "buildid": "8827258",
+      "timeupdated": "1653725939",
+      "timebuildupdated": "1653725898"
+    },
+    "opengl": {
+      "buildid": "6556604",
+      "description": "OpenGL Branch",
+      "timeupdated": "1618642829",
+      "timebuildupdated": "1618642829"
+    },
+    "test": {
+      "buildid": "7156610",
+      "description": "Testing Branch",
+      "timeupdated": "1628425866",
+      "timebuildupdated": "1628425782"
+    }
+  },
+  "depot": {
+    "1243361": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2201047478668202465",
+          "size": "185842148",
+          "download": "128433872"
+        }
+      }
+    },
+    "1243362": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "334669852908966309",
+          "size": "197786805",
+          "download": "143387024"
+        }
+      }
+    },
+    "1243363": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8827258",
+        "timeupdated": "1653725939",
+        "timebuildupdated": "1653725898"
+      },
+      "opengl": {
+        "buildid": "6556604",
+        "description": "OpenGL Branch",
+        "timeupdated": "1618642829",
+        "timebuildupdated": "1618642829"
+      },
+      "test": {
+        "buildid": "7156610",
+        "description": "Testing Branch",
+        "timeupdated": "1628425866",
+        "timebuildupdated": "1628425782"
+      }
+    }
+  }
+}

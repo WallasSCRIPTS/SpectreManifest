@@ -1,0 +1,56 @@
+{
+  "name": "Parallels",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:38.078Z",
+  "branches": {
+    "public": {
+      "buildid": "859043",
+      "timebuildupdated": "1447589492"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "412372": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8530038179418100060",
+          "size": "95562317",
+          "download": "9945696"
+        }
+      }
+    },
+    "412373": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4138242709236637216",
+          "size": "95368545",
+          "download": "10089536"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "859043",
+        "timebuildupdated": "1447589492"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "name": "NanoHive",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:15:30.187Z",
+  "branches": {
+    "public": {
+      "buildid": "9690681",
+      "timeupdated": "1665413459",
+      "timebuildupdated": "1665413389"
+    },
+    "local": {
+      "buildid": "9578784",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1663943131",
+      "timebuildupdated": "1663942789"
+    }
+  },
+  "depot": {
+    "1995322": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7824933232759634413",
+          "size": "469524882",
+          "download": "88165904"
+        }
+      }
+    },
+    "1995324": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2915717773097795135",
+          "size": "479894693",
+          "download": "97182736"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9690681",
+        "timeupdated": "1665413459",
+        "timebuildupdated": "1665413389"
+      },
+      "local": {
+        "buildid": "9578784",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1663943131",
+        "timebuildupdated": "1663942789"
+      }
+    }
+  }
+}

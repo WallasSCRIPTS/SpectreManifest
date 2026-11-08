@@ -1,0 +1,58 @@
+{
+  "name": "Of Mice and Moggies",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:02.545Z",
+  "branches": {
+    "public": {
+      "buildid": "7711692",
+      "timeupdated": "1636929483",
+      "timebuildupdated": "1636929181"
+    }
+  },
+  "depot": {
+    "1409181": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3935165347307166102",
+          "size": "349554320",
+          "download": "308042832"
+        }
+      }
+    },
+    "1409182": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7704122637725346088",
+          "size": "348580352",
+          "download": "307628608"
+        }
+      }
+    },
+    "1409183": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7997960926131812154",
+          "size": "385674097",
+          "download": "317223072"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7711692",
+        "timeupdated": "1636929483",
+        "timebuildupdated": "1636929181"
+      }
+    }
+  }
+}

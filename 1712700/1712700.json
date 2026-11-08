@@ -1,0 +1,58 @@
+{
+  "name": "Memori",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:07:52.592Z",
+  "branches": {
+    "public": {
+      "buildid": "25023068",
+      "timeupdated": "1788108413",
+      "timebuildupdated": "1788108220"
+    },
+    "test": {
+      "buildid": "19655892",
+      "description": "testing",
+      "timeupdated": "1755615985",
+      "timebuildupdated": "1755615985"
+    }
+  },
+  "depot": {
+    "1712701": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4906706880903245471",
+          "size": "2267064646",
+          "download": "1213013072"
+        }
+      }
+    },
+    "1712703": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7052493210658451093",
+          "size": "2027361648",
+          "download": "1251437872"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25023068",
+        "timeupdated": "1788108413",
+        "timebuildupdated": "1788108220"
+      },
+      "test": {
+        "buildid": "19655892",
+        "description": "testing",
+        "timeupdated": "1755615985",
+        "timebuildupdated": "1755615985"
+      }
+    }
+  }
+}

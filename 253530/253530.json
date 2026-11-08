@@ -1,0 +1,85 @@
+{
+  "name": "Fortress Forever",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T20:56:13.489Z",
+  "branches": {
+    "2013": {
+      "buildid": "17509432",
+      "description": "Port of FF to the 2013 Source SDK",
+      "timeupdated": "1740545758",
+      "timebuildupdated": "1740543651"
+    },
+    "public": {
+      "buildid": "3990439",
+      "timeupdated": "1562554762",
+      "timebuildupdated": "1562554729"
+    },
+    "v2.7.5": {
+      "buildid": "2455043",
+      "description": "previous version 2.7.5",
+      "timeupdated": "1518981319",
+      "timebuildupdated": "1516498441"
+    },
+    "v2.7.6": {
+      "buildid": "2515404",
+      "description": "previous version 2.7.6",
+      "timeupdated": "1518981270",
+      "timebuildupdated": "1518299731"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "253531": {
+      "manifests": {
+        "public": {
+          "gid": "965676271929440390",
+          "size": "4606915872",
+          "download": "2626242928"
+        }
+      }
+    },
+    "253540": {},
+    "253541": {},
+    "253542": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "253543": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "2013": {
+        "buildid": "17509432",
+        "description": "Port of FF to the 2013 Source SDK",
+        "timeupdated": "1740545758",
+        "timebuildupdated": "1740543651"
+      },
+      "public": {
+        "buildid": "3990439",
+        "timeupdated": "1562554762",
+        "timebuildupdated": "1562554729"
+      },
+      "v2.7.5": {
+        "buildid": "2455043",
+        "description": "previous version 2.7.5",
+        "timeupdated": "1518981319",
+        "timebuildupdated": "1516498441"
+      },
+      "v2.7.6": {
+        "buildid": "2515404",
+        "description": "previous version 2.7.6",
+        "timeupdated": "1518981270",
+        "timebuildupdated": "1518299731"
+      }
+    }
+  }
+}

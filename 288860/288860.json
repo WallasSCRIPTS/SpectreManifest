@@ -1,0 +1,80 @@
+{
+  "name": "Realms of Arkania: Star Trail",
+  "source": "spectre",
+  "changenumber": 40160238,
+  "updated": "2026-11-07T20:56:24.935Z",
+  "branches": {
+    "public": {
+      "buildid": "7032960",
+      "timeupdated": "1626339516",
+      "timebuildupdated": "1626339281"
+    },
+    "betadev": {
+      "buildid": "6866644",
+      "description": "Public Beta",
+      "timeupdated": "1623705457",
+      "timebuildupdated": "1623694490"
+    }
+  },
+  "depot": {
+    "288861": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4471501699126153211",
+          "size": "13950836089",
+          "download": "5830231328"
+        }
+      }
+    },
+    "288862": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7728451356633595686",
+          "size": "13811204050",
+          "download": "5731126048"
+        }
+      }
+    },
+    "288863": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8153984745415369819",
+          "size": "13722120461",
+          "download": "5681799120"
+        }
+      }
+    },
+    "654140": {
+      "manifests": {
+        "public": {
+          "gid": "9022261024826172294",
+          "size": "1785573544",
+          "download": "1793001696"
+        }
+      },
+      "dlcappid": "654140"
+    },
+    "branches": {
+      "public": {
+        "buildid": "7032960",
+        "timeupdated": "1626339516",
+        "timebuildupdated": "1626339281"
+      },
+      "betadev": {
+        "buildid": "6866644",
+        "description": "Public Beta",
+        "timeupdated": "1623705457",
+        "timebuildupdated": "1623694490"
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Theatre of Doom",
+  "source": "spectre",
+  "changenumber": 34833738,
+  "updated": "2026-11-07T20:58:43.745Z",
+  "branches": {
+    "public": {
+      "buildid": "6415560",
+      "timeupdated": "1616617456",
+      "timebuildupdated": "1616326209"
+    },
+    "beta": {
+      "buildid": "7047944",
+      "description": "Linux beta",
+      "timeupdated": "1626630138",
+      "timebuildupdated": "1626630063"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "553021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5788390085972053333",
+          "size": "646057032",
+          "download": "325436384"
+        }
+      }
+    },
+    "553022": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5564202018335485171",
+          "size": "675558696",
+          "download": "340024608"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6415560",
+        "timeupdated": "1616617456",
+        "timebuildupdated": "1616326209"
+      },
+      "beta": {
+        "buildid": "7047944",
+        "description": "Linux beta",
+        "timeupdated": "1626630138",
+        "timebuildupdated": "1626630063"
+      }
+    }
+  }
+}

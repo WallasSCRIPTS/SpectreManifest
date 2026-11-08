@@ -1,0 +1,46 @@
+{
+  "name": "-replication-fbt-",
+  "source": "spectre",
+  "changenumber": 40156955,
+  "updated": "2026-11-04T23:03:45.345Z",
+  "branches": {
+    "public": {
+      "buildid": "25469449",
+      "timeupdated": "1790114944",
+      "timebuildupdated": "1790114939"
+    }
+  },
+  "depot": {
+    "5222211": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6130074816613701945",
+          "size": "719689764",
+          "download": "274694240"
+        }
+      }
+    },
+    "5222212": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3998818599929592002",
+          "size": "973818905",
+          "download": "352367312"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25469449",
+        "timeupdated": "1790114944",
+        "timebuildupdated": "1790114939"
+      }
+    }
+  }
+}

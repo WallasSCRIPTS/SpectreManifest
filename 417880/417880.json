@@ -1,0 +1,70 @@
+{
+  "name": "Everybody's Gone to the Rapture",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:40.511Z",
+  "branches": {
+    "public": {
+      "buildid": "1197371",
+      "timeupdated": "1466777732",
+      "timebuildupdated": "1466776783"
+    },
+    "map_save": {
+      "buildid": "1197326",
+      "description": "Enables manual saves at maps",
+      "timeupdated": "1466776400",
+      "timebuildupdated": "1466775283"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "417881": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "920633019469968878",
+          "size": "6818804297",
+          "download": "6562883856"
+        }
+      }
+    },
+    "417889": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7863813500968796133",
+          "size": "1595298304",
+          "download": "240537504"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1197371",
+        "timeupdated": "1466777732",
+        "timebuildupdated": "1466776783"
+      },
+      "map_save": {
+        "buildid": "1197326",
+        "description": "Enables manual saves at maps",
+        "timeupdated": "1466776400",
+        "timebuildupdated": "1466775283"
+      }
+    }
+  }
+}

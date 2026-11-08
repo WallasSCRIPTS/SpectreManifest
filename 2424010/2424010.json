@@ -1,0 +1,79 @@
+{
+  "name": "Parcel Simulator",
+  "source": "spectre",
+  "changenumber": 40223409,
+  "updated": "2026-11-06T23:25:09.104Z",
+  "branches": {
+    "public": {
+      "buildid": "25586459",
+      "timeupdated": "1790669758",
+      "timebuildupdated": "1790624414"
+    },
+    "previous-version": {
+      "buildid": "24535906",
+      "description": "Previous version of Parcel Sim, use if having issues with the new update!",
+      "timeupdated": "1785833775",
+      "timebuildupdated": "1785773921"
+    },
+    "staging": {
+      "buildid": "25599083",
+      "description": "Experimental pre-release staging branch",
+      "timeupdated": "1790674220",
+      "timebuildupdated": "1790674208"
+    },
+    "staging-engine-upgrade": {
+      "buildid": "24730468",
+      "description": "UE 5.7.4 engine upgraded version",
+      "timeupdated": "1786696866",
+      "timebuildupdated": "1786696858"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2424011": {
+      "manifests": {
+        "public": {
+          "gid": "8702059477798485643",
+          "size": "2638184323",
+          "download": "2474211968"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25586459",
+        "timeupdated": "1790669758",
+        "timebuildupdated": "1790624414"
+      },
+      "previous-version": {
+        "buildid": "24535906",
+        "description": "Previous version of Parcel Sim, use if having issues with the new update!",
+        "timeupdated": "1785833775",
+        "timebuildupdated": "1785773921"
+      },
+      "staging": {
+        "buildid": "25599083",
+        "description": "Experimental pre-release staging branch",
+        "timeupdated": "1790674220",
+        "timebuildupdated": "1790674208"
+      },
+      "staging-engine-upgrade": {
+        "buildid": "24730468",
+        "description": "UE 5.7.4 engine upgraded version",
+        "timeupdated": "1786696866",
+        "timebuildupdated": "1786696858"
+      }
+    }
+  }
+}

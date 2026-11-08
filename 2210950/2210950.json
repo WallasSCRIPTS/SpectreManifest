@@ -1,0 +1,58 @@
+{
+  "name": "Aeathel Mine",
+  "source": "spectre",
+  "changenumber": 40048058,
+  "updated": "2026-11-06T23:19:31.641Z",
+  "branches": {
+    "public": {
+      "buildid": "26081878",
+      "timeupdated": "1792507383",
+      "timebuildupdated": "1792507340"
+    },
+    "experimental": {
+      "buildid": "26081543",
+      "description": "experimental branch",
+      "timeupdated": "1792506439",
+      "timebuildupdated": "1792506439"
+    }
+  },
+  "depot": {
+    "2210952": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1696889142916357607",
+          "size": "94364908",
+          "download": "59717264"
+        }
+      }
+    },
+    "2210953": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2935821033495449652",
+          "size": "92096596",
+          "download": "59022672"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26081878",
+        "timeupdated": "1792507383",
+        "timebuildupdated": "1792507340"
+      },
+      "experimental": {
+        "buildid": "26081543",
+        "description": "experimental branch",
+        "timeupdated": "1792506439",
+        "timebuildupdated": "1792506439"
+      }
+    }
+  }
+}

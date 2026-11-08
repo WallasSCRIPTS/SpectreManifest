@@ -1,0 +1,87 @@
+{
+  "name": "Industry Giant 4.0",
+  "source": "spectre",
+  "changenumber": 40326881,
+  "updated": "2026-11-07T21:03:35.262Z",
+  "branches": {
+    "public": {
+      "buildid": "20680249",
+      "timeupdated": "1762352993",
+      "timebuildupdated": "1762352993"
+    },
+    "public_testing": {
+      "buildid": "20680249",
+      "description": "Public testing branch before public release",
+      "timeupdated": "1765200331",
+      "timebuildupdated": "1762352993"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1129571": {
+      "manifests": {
+        "public": {
+          "gid": "3573291195679134267",
+          "size": "14159471492",
+          "download": "12712250464"
+        }
+      }
+    },
+    "1129572": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6240189635197075233",
+          "size": "6709817",
+          "download": "6483664"
+        }
+      }
+    },
+    "3225390": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7131817753326613103",
+          "size": "21647012",
+          "download": "19838816"
+        }
+      },
+      "dlcappid": "3225390"
+    },
+    "3265360": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7533600506520075449",
+          "size": "49632636",
+          "download": "47846288"
+        }
+      },
+      "dlcappid": "3265360"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20680249",
+        "timeupdated": "1762352993",
+        "timebuildupdated": "1762352993"
+      },
+      "public_testing": {
+        "buildid": "20680249",
+        "description": "Public testing branch before public release",
+        "timeupdated": "1765200331",
+        "timebuildupdated": "1762352993"
+      }
+    }
+  }
+}

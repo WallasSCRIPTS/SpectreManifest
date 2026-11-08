@@ -1,0 +1,58 @@
+{
+  "name": "猜拳为尊",
+  "source": "spectre",
+  "changenumber": 40624363,
+  "updated": "2026-11-06T21:06:46.639Z",
+  "branches": {
+    "public": {
+      "buildid": "7673823",
+      "timeupdated": "1636357737",
+      "timebuildupdated": "1636355137"
+    },
+    "mac-banben": {
+      "buildid": "7673823",
+      "description": "mac的版本",
+      "timeupdated": "1636355137",
+      "timebuildupdated": "1636355137"
+    }
+  },
+  "depot": {
+    "1641411": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7330919793708132080",
+          "size": "391793580",
+          "download": "208686320"
+        }
+      }
+    },
+    "1641412": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3784638977203327937",
+          "size": "501616656",
+          "download": "240938032"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7673823",
+        "timeupdated": "1636357737",
+        "timebuildupdated": "1636355137"
+      },
+      "mac-banben": {
+        "buildid": "7673823",
+        "description": "mac的版本",
+        "timeupdated": "1636355137",
+        "timebuildupdated": "1636355137"
+      }
+    }
+  }
+}

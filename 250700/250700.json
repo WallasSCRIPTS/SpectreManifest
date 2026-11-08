@@ -1,0 +1,82 @@
+{
+  "name": "Super Time Force Ultra",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:12.304Z",
+  "branches": {
+    "public": {
+      "buildid": "1327151",
+      "timeupdated": "1473438443",
+      "timebuildupdated": "1473438443"
+    },
+    "public_beta": {
+      "buildid": "1651952",
+      "description": "Beta used for rapid support.",
+      "timeupdated": "1487872432",
+      "timebuildupdated": "1487872432"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "250701": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6981887396108959890",
+          "size": "659370233",
+          "download": "653486928"
+        }
+      }
+    },
+    "250702": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "432099991782039876",
+          "size": "665546740",
+          "download": "660566272"
+        }
+      }
+    },
+    "250703": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8420179514058973150",
+          "size": "672241165",
+          "download": "662534864"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1327151",
+        "timeupdated": "1473438443",
+        "timebuildupdated": "1473438443"
+      },
+      "public_beta": {
+        "buildid": "1651952",
+        "description": "Beta used for rapid support.",
+        "timeupdated": "1487872432",
+        "timebuildupdated": "1487872432"
+      }
+    }
+  }
+}

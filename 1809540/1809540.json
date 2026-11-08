@@ -1,0 +1,60 @@
+{
+  "name": "Nine Sols",
+  "source": "spectre",
+  "changenumber": 39014536,
+  "updated": "2026-11-06T23:11:33.568Z",
+  "branches": {
+    "public": {
+      "buildid": "21343987",
+      "timeupdated": "1767158488",
+      "timebuildupdated": "1767092072"
+    },
+    "local": {
+      "buildid": "8221279",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1645093784",
+      "timebuildupdated": "1645093784"
+    }
+  },
+  "depot": {
+    "1809541": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4170341253080557508",
+          "size": "6574057085",
+          "download": "4074822512"
+        }
+      }
+    },
+    "1809542": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6968920301698375133",
+          "size": "6602043922",
+          "download": "4084142976"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21343987",
+        "timeupdated": "1767158488",
+        "timebuildupdated": "1767092072"
+      },
+      "local": {
+        "buildid": "8221279",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1645093784",
+        "timebuildupdated": "1645093784"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Universe For Sale",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:06:41.208Z",
+  "branches": {
+    "public": {
+      "buildid": "15140938",
+      "timeupdated": "1722877221",
+      "timebuildupdated": "1721847023"
+    },
+    "old-savegame": {
+      "buildid": "14086003",
+      "description": "For users who want to retain old save data",
+      "timeupdated": "1715100002",
+      "timebuildupdated": "1713374756"
+    }
+  },
+  "depot": {
+    "1627841": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6804817737384659175",
+          "size": "1088004095",
+          "download": "721961280"
+        }
+      }
+    },
+    "1627842": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7018847338653148353",
+          "size": "987377980",
+          "download": "713573072"
+        }
+      }
+    },
+    "1627843": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1716565760702160882",
+          "size": "1036276209",
+          "download": "719460560"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15140938",
+        "timeupdated": "1722877221",
+        "timebuildupdated": "1721847023"
+      },
+      "old-savegame": {
+        "buildid": "14086003",
+        "description": "For users who want to retain old save data",
+        "timeupdated": "1715100002",
+        "timebuildupdated": "1713374756"
+      }
+    }
+  }
+}

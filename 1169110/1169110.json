@@ -1,0 +1,64 @@
+{
+  "name": "Super Bout: Champion's Tour",
+  "source": "spectre",
+  "changenumber": 34848547,
+  "updated": "2026-11-07T21:03:55.022Z",
+  "branches": {
+    "public": {
+      "buildid": "9203492",
+      "timeupdated": "1658959989",
+      "timebuildupdated": "1658959943"
+    },
+    "test": {
+      "buildid": "19210066",
+      "description": "Test Branch",
+      "timeupdated": "1752449829",
+      "timebuildupdated": "1752449829"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1169111": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "857892864101105716",
+          "size": "5276774",
+          "download": "994400"
+        }
+      }
+    },
+    "1169112": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4746136192899204852",
+          "size": "26747657",
+          "download": "3275280"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9203492",
+        "timeupdated": "1658959989",
+        "timebuildupdated": "1658959943"
+      },
+      "test": {
+        "buildid": "19210066",
+        "description": "Test Branch",
+        "timeupdated": "1752449829",
+        "timebuildupdated": "1752449829"
+      }
+    }
+  }
+}

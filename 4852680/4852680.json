@@ -1,0 +1,59 @@
+{
+  "name": "Blackwater Exchange",
+  "source": "spectre",
+  "changenumber": 39951021,
+  "updated": "2026-11-06T21:08:01.154Z",
+  "branches": {
+    "public": {
+      "buildid": "24694617",
+      "timeupdated": "1786545455",
+      "timebuildupdated": "1786545389"
+    }
+  },
+  "depot": {
+    "4852681": {},
+    "4852682": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4474041786529533516",
+          "size": "333975616",
+          "download": "251193968"
+        }
+      }
+    },
+    "4852683": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3865588845615580288",
+          "size": "416892732",
+          "download": "273069008"
+        }
+      }
+    },
+    "4852684": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8442814358783540415",
+          "size": "300861176",
+          "download": "242902400"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24694617",
+        "timeupdated": "1786545455",
+        "timebuildupdated": "1786545389"
+      }
+    }
+  }
+}

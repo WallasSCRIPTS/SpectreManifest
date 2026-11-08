@@ -1,0 +1,70 @@
+{
+  "name": "Approaching Blocks",
+  "source": "spectre",
+  "changenumber": 39473304,
+  "updated": "2026-11-07T20:58:07.379Z",
+  "branches": {
+    "public": {
+      "buildid": "1198881",
+      "timeupdated": "1466871837",
+      "timebuildupdated": "1466871447"
+    },
+    "beta": {
+      "buildid": "2572772",
+      "description": "Public beta branch",
+      "timeupdated": "1520055060",
+      "timebuildupdated": "1520055060"
+    }
+  },
+  "depot": {
+    "467391": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4233081697419165824",
+          "size": "88792939",
+          "download": "30022448"
+        }
+      }
+    },
+    "467392": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6185146271546390797",
+          "size": "132243592",
+          "download": "40933536"
+        }
+      }
+    },
+    "467393": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8626138579200392335",
+          "size": "127581506",
+          "download": "41403776"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1198881",
+        "timeupdated": "1466871837",
+        "timebuildupdated": "1466871447"
+      },
+      "beta": {
+        "buildid": "2572772",
+        "description": "Public beta branch",
+        "timeupdated": "1520055060",
+        "timebuildupdated": "1520055060"
+      }
+    }
+  }
+}

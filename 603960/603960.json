@@ -1,0 +1,88 @@
+{
+  "name": "Star of Providence",
+  "source": "spectre",
+  "changenumber": 40573393,
+  "updated": "2026-11-07T20:59:11.621Z",
+  "branches": {
+    "public": {
+      "buildid": "26421295",
+      "timeupdated": "1793761285",
+      "timebuildupdated": "1793758321"
+    },
+    "legacy": {
+      "buildid": "11995386",
+      "description": "Formerly After The End",
+      "timeupdated": "1692647878",
+      "timebuildupdated": "1692647130"
+    },
+    "legacyrotp": {
+      "buildid": "12043418",
+      "description": "If you want to play ROTP again.",
+      "timeupdated": "1740063463",
+      "timebuildupdated": "1693147517"
+    },
+    "publicbeta": {
+      "buildid": "23559789",
+      "description": "for public beta testery",
+      "timeupdated": "1780550741",
+      "timebuildupdated": "1780550715"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "603961": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6352451917267617835",
+          "size": "241549741",
+          "download": "119354992"
+        }
+      }
+    },
+    "603962": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1587717744030461897",
+          "size": "187632374",
+          "download": "115028192"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26421295",
+        "timeupdated": "1793761285",
+        "timebuildupdated": "1793758321"
+      },
+      "legacy": {
+        "buildid": "11995386",
+        "description": "Formerly After The End",
+        "timeupdated": "1692647878",
+        "timebuildupdated": "1692647130"
+      },
+      "legacyrotp": {
+        "buildid": "12043418",
+        "description": "If you want to play ROTP again.",
+        "timeupdated": "1740063463",
+        "timebuildupdated": "1693147517"
+      },
+      "publicbeta": {
+        "buildid": "23559789",
+        "description": "for public beta testery",
+        "timeupdated": "1780550741",
+        "timebuildupdated": "1780550715"
+      }
+    }
+  }
+}

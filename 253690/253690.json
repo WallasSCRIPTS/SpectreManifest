@@ -1,0 +1,62 @@
+{
+  "name": "Tiny Brains",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:13.560Z",
+  "branches": {
+    "public": {
+      "buildid": "238200",
+      "timebuildupdated": "1397754248"
+    },
+    "local": {
+      "buildid": "161155",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1387481712"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "253691": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1923530982661213051",
+          "size": "1197894410",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "238200",
+        "timebuildupdated": "1397754248"
+      },
+      "local": {
+        "buildid": "161155",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1387481712"
+      }
+    }
+  }
+}

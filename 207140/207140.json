@@ -1,0 +1,91 @@
+{
+  "name": "SpeedRunners",
+  "source": "spectre",
+  "changenumber": 39699218,
+  "updated": "2026-11-07T20:56:01.927Z",
+  "branches": {
+    "public": {
+      "buildid": "23583477",
+      "timeupdated": "1780655832",
+      "timebuildupdated": "1780655808"
+    },
+    "beta": {
+      "buildid": "23583477",
+      "description": "Compatible test builds",
+      "timeupdated": "1780655817",
+      "timebuildupdated": "1780655808"
+    }
+  },
+  "depot": {
+    "207141": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4258464523898132195",
+          "size": "715167342",
+          "download": "646529232"
+        }
+      }
+    },
+    "207142": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6394228400517799954",
+          "size": "769646513",
+          "download": "660741952"
+        }
+      }
+    },
+    "207143": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2694071498128780329",
+          "size": "760934606",
+          "download": "663500048"
+        }
+      }
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "317480": {
+      "dlcappid": "317480"
+    },
+    "317490": {
+      "dlcappid": "317490"
+    },
+    "895440": {
+      "dlcappid": "895440"
+    },
+    "branches": {
+      "public": {
+        "buildid": "23583477",
+        "timeupdated": "1780655832",
+        "timebuildupdated": "1780655808"
+      },
+      "beta": {
+        "buildid": "23583477",
+        "description": "Compatible test builds",
+        "timeupdated": "1780655817",
+        "timebuildupdated": "1780655808"
+      }
+    }
+  }
+}

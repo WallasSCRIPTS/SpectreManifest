@@ -1,0 +1,82 @@
+{
+  "name": "Earth of Oryn",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:15:25.177Z",
+  "branches": {
+    "public": {
+      "buildid": "23599631",
+      "timeupdated": "1780760284",
+      "timebuildupdated": "1780744544"
+    },
+    "testing": {
+      "buildid": "23513427",
+      "description": "Public testing branch (Work in progress features)",
+      "timeupdated": "1780341370",
+      "timebuildupdated": "1780341152"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1972451": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5718830340641468483",
+          "size": "2934048071",
+          "download": "1554329024"
+        }
+      }
+    },
+    "1972452": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8957398289155241570",
+          "size": "2881394504",
+          "download": "1537187776"
+        }
+      }
+    },
+    "1972453": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6370199898914390295",
+          "size": "3033504626",
+          "download": "1610845360"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23599631",
+        "timeupdated": "1780760284",
+        "timebuildupdated": "1780744544"
+      },
+      "testing": {
+        "buildid": "23513427",
+        "description": "Public testing branch (Work in progress features)",
+        "timeupdated": "1780341370",
+        "timebuildupdated": "1780341152"
+      }
+    }
+  }
+}

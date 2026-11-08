@@ -1,0 +1,70 @@
+{
+  "name": "Galactic Defense: Automation",
+  "source": "spectre",
+  "changenumber": 34874126,
+  "updated": "2026-11-06T23:11:35.696Z",
+  "branches": {
+    "public": {
+      "buildid": "16414427",
+      "timeupdated": "1731639257",
+      "timebuildupdated": "1731638717"
+    },
+    "beta20240707": {
+      "buildid": "16414427",
+      "description": "beta",
+      "timeupdated": "1731638717",
+      "timebuildupdated": "1731638717"
+    }
+  },
+  "depot": {
+    "1826081": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4991967283601468425",
+          "size": "867807522",
+          "download": "856048880"
+        }
+      }
+    },
+    "1826082": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3532703398704674087",
+          "size": "862486928",
+          "download": "859009616"
+        }
+      }
+    },
+    "1826083": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8351035006456128210",
+          "size": "886388653",
+          "download": "863610384"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16414427",
+        "timeupdated": "1731639257",
+        "timebuildupdated": "1731638717"
+      },
+      "beta20240707": {
+        "buildid": "16414427",
+        "description": "beta",
+        "timeupdated": "1731638717",
+        "timebuildupdated": "1731638717"
+      }
+    }
+  }
+}

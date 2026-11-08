@@ -1,0 +1,70 @@
+{
+  "name": "Neon Sundown",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:09:38.816Z",
+  "branches": {
+    "public": {
+      "buildid": "10050159",
+      "timeupdated": "1669835448",
+      "timebuildupdated": "1669834577"
+    },
+    "controller": {
+      "buildid": "10196365",
+      "description": "Public testing branch for upcoming controller support",
+      "timeupdated": "1671674391",
+      "timebuildupdated": "1671674391"
+    },
+    "vanilla": {
+      "buildid": "8421781",
+      "description": "The original version of Neon Sundown!",
+      "timeupdated": "1659481468",
+      "timebuildupdated": "1648016639"
+    }
+  },
+  "depot": {
+    "1721871": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5021753585683896248",
+          "size": "621802001",
+          "download": "280380480"
+        }
+      }
+    },
+    "1721872": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1252247492715061082",
+          "size": "626487108",
+          "download": "281300272"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10050159",
+        "timeupdated": "1669835448",
+        "timebuildupdated": "1669834577"
+      },
+      "controller": {
+        "buildid": "10196365",
+        "description": "Public testing branch for upcoming controller support",
+        "timeupdated": "1671674391",
+        "timebuildupdated": "1671674391"
+      },
+      "vanilla": {
+        "buildid": "8421781",
+        "description": "The original version of Neon Sundown!",
+        "timeupdated": "1659481468",
+        "timebuildupdated": "1648016639"
+      }
+    }
+  }
+}

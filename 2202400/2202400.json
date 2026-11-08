@@ -1,0 +1,82 @@
+{
+  "name": "SoundStorm",
+  "source": "spectre",
+  "changenumber": 39739125,
+  "updated": "2026-11-06T23:19:30.668Z",
+  "branches": {
+    "public": {
+      "buildid": "25861914",
+      "timeupdated": "1791803568",
+      "timebuildupdated": "1791709887"
+    },
+    "beta": {
+      "buildid": "25861914",
+      "description": "latest but untested",
+      "timeupdated": "1791709887",
+      "timebuildupdated": "1791709887"
+    },
+    "older": {
+      "buildid": "15395826",
+      "description": "branch before the last update",
+      "timeupdated": "1737812103",
+      "timebuildupdated": "1723817010"
+    }
+  },
+  "depot": {
+    "2202401": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4750771607182010301",
+          "size": "497587013",
+          "download": "339105312"
+        }
+      }
+    },
+    "2202402": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2583149444324258515",
+          "size": "501936122",
+          "download": "339078880"
+        }
+      }
+    },
+    "2202403": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4679519704645374072",
+          "size": "500906141",
+          "download": "346194592"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25861914",
+        "timeupdated": "1791803568",
+        "timebuildupdated": "1791709887"
+      },
+      "beta": {
+        "buildid": "25861914",
+        "description": "latest but untested",
+        "timeupdated": "1791709887",
+        "timebuildupdated": "1791709887"
+      },
+      "older": {
+        "buildid": "15395826",
+        "description": "branch before the last update",
+        "timeupdated": "1737812103",
+        "timebuildupdated": "1723817010"
+      }
+    }
+  }
+}

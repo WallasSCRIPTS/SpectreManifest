@@ -1,0 +1,106 @@
+{
+  "name": "Amnesia: The Bunker",
+  "source": "spectre",
+  "changenumber": 40494486,
+  "updated": "2026-11-06T23:13:36.530Z",
+  "branches": {
+    "public": {
+      "buildid": "13346472",
+      "timeupdated": "1707728648",
+      "timebuildupdated": "1706873658"
+    },
+    "public_beta": {
+      "buildid": "12105960",
+      "description": "Branch used for beta testing",
+      "timeupdated": "1693935368",
+      "timebuildupdated": "1693839182"
+    },
+    "public_testing": {
+      "buildid": "12612534",
+      "description": "Branch used for public testing",
+      "timeupdated": "1699019265",
+      "timebuildupdated": "1699019211"
+    }
+  },
+  "depot": {
+    "228981": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1944432": {
+      "manifests": {
+        "public": {
+          "gid": "7744655607509449093",
+          "size": "16812854192",
+          "download": "7806011024"
+        }
+      }
+    },
+    "1944433": {
+      "manifests": {
+        "public": {
+          "gid": "4883998806228304333",
+          "size": "18388592",
+          "download": "3154528"
+        }
+      }
+    },
+    "1944434": {
+      "manifests": {
+        "public": {
+          "gid": "2126049800945663400",
+          "size": "930590673",
+          "download": "188983888"
+        }
+      }
+    },
+    "1944435": {
+      "manifests": {
+        "public": {
+          "gid": "1407619913197510760",
+          "size": "106137879",
+          "download": "31766672"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13346472",
+        "timeupdated": "1707728648",
+        "timebuildupdated": "1706873658"
+      },
+      "public_beta": {
+        "buildid": "12105960",
+        "description": "Branch used for beta testing",
+        "timeupdated": "1693935368",
+        "timebuildupdated": "1693839182"
+      },
+      "public_testing": {
+        "buildid": "12612534",
+        "description": "Branch used for public testing",
+        "timeupdated": "1699019265",
+        "timebuildupdated": "1699019211"
+      }
+    }
+  }
+}

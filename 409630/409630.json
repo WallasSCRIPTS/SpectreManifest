@@ -1,0 +1,78 @@
+{
+  "name": "Rumble",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:36.852Z",
+  "branches": {
+    "public": {
+      "buildid": "1209773",
+      "timeupdated": "1467483391",
+      "timebuildupdated": "1467483342"
+    },
+    "patch": {
+      "buildid": "1110024",
+      "description": "Test of patch",
+      "timeupdated": "1462377930",
+      "timebuildupdated": "1462377766"
+    },
+    "testonline": {
+      "buildid": "963164",
+      "timebuildupdated": "1454673530"
+    }
+  },
+  "depot": {
+    "409631": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4968853586475311846",
+          "size": "104120819",
+          "download": "31223952"
+        }
+      }
+    },
+    "409632": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6802072568221941406",
+          "size": "108313745",
+          "download": "33207760"
+        }
+      }
+    },
+    "409633": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7644765165280639660",
+          "size": "136140057",
+          "download": "42516592"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1209773",
+        "timeupdated": "1467483391",
+        "timebuildupdated": "1467483342"
+      },
+      "patch": {
+        "buildid": "1110024",
+        "description": "Test of patch",
+        "timeupdated": "1462377930",
+        "timebuildupdated": "1462377766"
+      },
+      "testonline": {
+        "buildid": "963164",
+        "timebuildupdated": "1454673530"
+      }
+    }
+  }
+}

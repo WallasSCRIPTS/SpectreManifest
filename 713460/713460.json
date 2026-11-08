@@ -1,0 +1,61 @@
+{
+  "name": "Train Frontier Classic",
+  "source": "spectre",
+  "changenumber": 40217403,
+  "updated": "2026-11-07T21:00:03.041Z",
+  "branches": {
+    "public": {
+      "buildid": "16851911",
+      "timeupdated": "1745321678",
+      "timebuildupdated": "1735182612"
+    },
+    "oldver": {
+      "buildid": "2691709",
+      "description": "last major version before new renderer",
+      "timeupdated": "1726870269",
+      "timebuildupdated": "1523859796"
+    },
+    "publictest": {
+      "buildid": "16851911",
+      "description": "public test part of the newest version",
+      "timeupdated": "1735201141",
+      "timebuildupdated": "1735182612"
+    }
+  },
+  "depot": {
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "713461": {
+      "manifests": {
+        "public": {
+          "gid": "8463051846711280416",
+          "size": "121390441",
+          "download": "99368336"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16851911",
+        "timeupdated": "1745321678",
+        "timebuildupdated": "1735182612"
+      },
+      "oldver": {
+        "buildid": "2691709",
+        "description": "last major version before new renderer",
+        "timeupdated": "1726870269",
+        "timebuildupdated": "1523859796"
+      },
+      "publictest": {
+        "buildid": "16851911",
+        "description": "public test part of the newest version",
+        "timeupdated": "1735201141",
+        "timebuildupdated": "1735182612"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "The Fleet",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:29.274Z",
+  "branches": {
+    "public": {
+      "buildid": "21390228",
+      "timeupdated": "1767738069",
+      "timebuildupdated": "1767654584"
+    }
+  },
+  "depot": {
+    "648021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9145628558508387836",
+          "size": "234780351",
+          "download": "78327552"
+        }
+      }
+    },
+    "648022": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7290588002632020067",
+          "size": "8338911",
+          "download": "3875712"
+        }
+      }
+    },
+    "648023": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9217896086053456105",
+          "size": "237347272",
+          "download": "72930592"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21390228",
+        "timeupdated": "1767738069",
+        "timebuildupdated": "1767654584"
+      }
+    }
+  }
+}

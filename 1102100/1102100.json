@@ -1,0 +1,92 @@
+{
+  "name": "TINY METAL: FULL METAL RUMBLE",
+  "source": "spectre",
+  "changenumber": 39506228,
+  "updated": "2026-11-07T21:03:17.730Z",
+  "branches": {
+    "public": {
+      "buildid": "7322003",
+      "timeupdated": "1631086928",
+      "timebuildupdated": "1631085500"
+    },
+    "32bit": {
+      "buildid": "4848855",
+      "description": "Last available 32bit build",
+      "timeupdated": "1606900240",
+      "timebuildupdated": "1585800423"
+    },
+    "intel_fix": {
+      "buildid": "7322003",
+      "timeupdated": "1631086919",
+      "timebuildupdated": "1631085500"
+    },
+    "linux": {
+      "buildid": "6167809",
+      "description": "Known working Linux tag",
+      "timeupdated": "1631806790",
+      "timebuildupdated": "1612157205"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1102101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2613369801001502245",
+          "size": "894885658",
+          "download": "752296240"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7322003",
+        "timeupdated": "1631086928",
+        "timebuildupdated": "1631085500"
+      },
+      "32bit": {
+        "buildid": "4848855",
+        "description": "Last available 32bit build",
+        "timeupdated": "1606900240",
+        "timebuildupdated": "1585800423"
+      },
+      "intel_fix": {
+        "buildid": "7322003",
+        "timeupdated": "1631086919",
+        "timebuildupdated": "1631085500"
+      },
+      "linux": {
+        "buildid": "6167809",
+        "description": "Known working Linux tag",
+        "timeupdated": "1631806790",
+        "timebuildupdated": "1612157205"
+      }
+    }
+  }
+}

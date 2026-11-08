@@ -1,0 +1,124 @@
+{
+  "name": "Bitburner",
+  "source": "spectre",
+  "changenumber": 40602367,
+  "updated": "2026-11-06T21:07:08.471Z",
+  "branches": {
+    "public": {
+      "buildid": "23272653",
+      "timeupdated": "1779000869",
+      "timebuildupdated": "1779000825"
+    },
+    "development": {
+      "buildid": "23272780",
+      "description": "Development branch",
+      "timeupdated": "1779002910",
+      "timebuildupdated": "1779002880"
+    },
+    "previous_release": {
+      "buildid": "23054697",
+      "description": "The previous release version",
+      "timeupdated": "1777689377",
+      "timebuildupdated": "1777689283"
+    },
+    "2.8.1_legacy": {
+      "buildid": "17982127",
+      "description": "Last 2.x.x release",
+      "timeupdated": "1743757378",
+      "timebuildupdated": "1743757328"
+    },
+    "2.5_legacy": {
+      "buildid": "13047720",
+      "description": "Version 2.5, last build for Windows 7 and 8",
+      "timeupdated": "1703601024",
+      "timebuildupdated": "1703600926"
+    },
+    "v1.7": {
+      "buildid": "9132880",
+      "description": "Version 1.7, last 1.x.x release",
+      "timeupdated": "1660755988",
+      "timebuildupdated": "1657948939"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1812821": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8069675536705668660",
+          "size": "521016762",
+          "download": "165115664"
+        }
+      }
+    },
+    "1812822": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6743875706789034728",
+          "size": "1647167919",
+          "download": "226079392"
+        }
+      }
+    },
+    "1812823": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7517965374209315843",
+          "size": "471318895",
+          "download": "140488032"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23272653",
+        "timeupdated": "1779000869",
+        "timebuildupdated": "1779000825"
+      },
+      "development": {
+        "buildid": "23272780",
+        "description": "Development branch",
+        "timeupdated": "1779002910",
+        "timebuildupdated": "1779002880"
+      },
+      "previous_release": {
+        "buildid": "23054697",
+        "description": "The previous release version",
+        "timeupdated": "1777689377",
+        "timebuildupdated": "1777689283"
+      },
+      "2.8.1_legacy": {
+        "buildid": "17982127",
+        "description": "Last 2.x.x release",
+        "timeupdated": "1743757378",
+        "timebuildupdated": "1743757328"
+      },
+      "2.5_legacy": {
+        "buildid": "13047720",
+        "description": "Version 2.5, last build for Windows 7 and 8",
+        "timeupdated": "1703601024",
+        "timebuildupdated": "1703600926"
+      },
+      "v1.7": {
+        "buildid": "9132880",
+        "description": "Version 1.7, last 1.x.x release",
+        "timeupdated": "1660755988",
+        "timebuildupdated": "1657948939"
+      }
+    }
+  }
+}

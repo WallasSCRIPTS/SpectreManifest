@@ -1,0 +1,100 @@
+{
+  "name": "Kitchen Crisis",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:17:34.066Z",
+  "branches": {
+    "public": {
+      "buildid": "14321299",
+      "timeupdated": "1715300053",
+      "timebuildupdated": "1715300053"
+    },
+    "demo": {
+      "buildid": "14382906",
+      "description": "demo",
+      "timeupdated": "1715820276",
+      "timebuildupdated": "1715820276"
+    }
+  },
+  "depot": {
+    "2118251": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4491226225764653593",
+          "size": "608696963",
+          "download": "279495264"
+        }
+      }
+    },
+    "2118252": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "492657909360563970",
+          "size": "558186042",
+          "download": "274277280"
+        }
+      }
+    },
+    "2118253": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2103481985543592161",
+          "size": "573441527",
+          "download": "274568512"
+        }
+      }
+    },
+    "2795430": {
+      "manifests": {
+        "public": {
+          "gid": "9019917773291218372",
+          "size": "980",
+          "download": "1056"
+        }
+      },
+      "dlcappid": "2795430"
+    },
+    "2795440": {
+      "manifests": {
+        "public": {
+          "gid": "5709021933189452290",
+          "size": "975",
+          "download": "1040"
+        }
+      },
+      "dlcappid": "2795440"
+    },
+    "2795450": {
+      "manifests": {
+        "public": {
+          "gid": "2631764201543516031",
+          "size": "1027",
+          "download": "1104"
+        }
+      },
+      "dlcappid": "2795450"
+    },
+    "branches": {
+      "public": {
+        "buildid": "14321299",
+        "timeupdated": "1715300053",
+        "timebuildupdated": "1715300053"
+      },
+      "demo": {
+        "buildid": "14382906",
+        "description": "demo",
+        "timeupdated": "1715820276",
+        "timebuildupdated": "1715820276"
+      }
+    }
+  }
+}

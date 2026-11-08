@@ -1,0 +1,52 @@
+{
+  "name": "Dark Nights",
+  "source": "spectre",
+  "changenumber": 40673975,
+  "updated": "2026-11-06T23:17:37.069Z",
+  "branches": {
+    "public": {
+      "buildid": "10199524",
+      "timeupdated": "1671712273",
+      "timebuildupdated": "1671712273"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2143341": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8027587849012379562",
+          "size": "508338225",
+          "download": "407344000"
+        }
+      }
+    },
+    "2143342": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7721023507957075088",
+          "size": "414620716",
+          "download": "380014544"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10199524",
+        "timeupdated": "1671712273",
+        "timebuildupdated": "1671712273"
+      }
+    }
+  }
+}

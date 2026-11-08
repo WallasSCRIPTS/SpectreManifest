@@ -1,0 +1,70 @@
+{
+  "name": "Neurodeck",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:03:55.860Z",
+  "branches": {
+    "public": {
+      "buildid": "6957478",
+      "timeupdated": "1625057403",
+      "timebuildupdated": "1625057403"
+    },
+    "beta": {
+      "buildid": "7131633",
+      "description": "beta tests at your own risks",
+      "timeupdated": "1628004794",
+      "timebuildupdated": "1628004794"
+    }
+  },
+  "depot": {
+    "1253861": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8014379727297562937",
+          "size": "712480755",
+          "download": "216996064"
+        }
+      }
+    },
+    "1253862": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "22827620122099930",
+          "size": "515323091",
+          "download": "186953920"
+        }
+      }
+    },
+    "1253863": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "788059263350330757",
+          "size": "522065188",
+          "download": "187113440"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6957478",
+        "timeupdated": "1625057403",
+        "timebuildupdated": "1625057403"
+      },
+      "beta": {
+        "buildid": "7131633",
+        "description": "beta tests at your own risks",
+        "timeupdated": "1628004794",
+        "timebuildupdated": "1628004794"
+      }
+    }
+  }
+}

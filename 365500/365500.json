@@ -1,0 +1,68 @@
+{
+  "name": "quadrant",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:11.572Z",
+  "branches": {
+    "public": {
+      "buildid": "15407412",
+      "timeupdated": "1723930399",
+      "timebuildupdated": "1723930168"
+    },
+    "testing": {
+      "buildid": "15407412",
+      "timeupdated": "1723930233",
+      "timebuildupdated": "1723930168"
+    }
+  },
+  "depot": {
+    "365501": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7646085273256210958",
+          "size": "81179273",
+          "download": "67264512"
+        }
+      }
+    },
+    "365502": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "107802180283890099",
+          "size": "83376618",
+          "download": "67442928"
+        }
+      }
+    },
+    "365503": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1037202070926100471",
+          "size": "64361721",
+          "download": "64912080"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15407412",
+        "timeupdated": "1723930399",
+        "timebuildupdated": "1723930168"
+      },
+      "testing": {
+        "buildid": "15407412",
+        "timeupdated": "1723930233",
+        "timebuildupdated": "1723930168"
+      }
+    }
+  }
+}

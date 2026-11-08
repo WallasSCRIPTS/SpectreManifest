@@ -1,0 +1,72 @@
+{
+  "name": "Arma: Cold War Assault Remastered",
+  "source": "spectre",
+  "changenumber": 40086136,
+  "updated": "2026-11-07T20:55:57.481Z",
+  "branches": {
+    "public": {
+      "buildid": "24792092",
+      "timeupdated": "1787041312",
+      "timebuildupdated": "1787041013"
+    },
+    "testing": {
+      "buildid": "1190871",
+      "timeupdated": "1466515276",
+      "timebuildupdated": "1466514080"
+    }
+  },
+  "depot": {
+    "65791": {
+      "manifests": {
+        "public": {
+          "gid": "4318100001754779263",
+          "size": "1848219926",
+          "download": "987993904"
+        }
+      }
+    },
+    "65792": {},
+    "65793": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "545447257609625488",
+          "size": "1846874349",
+          "download": "963400288"
+        }
+      }
+    },
+    "65794": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1696434270548481140",
+          "size": "1846875726",
+          "download": "963401056"
+        }
+      }
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24792092",
+        "timeupdated": "1787041312",
+        "timebuildupdated": "1787041013"
+      },
+      "testing": {
+        "buildid": "1190871",
+        "timeupdated": "1466515276",
+        "timebuildupdated": "1466514080"
+      }
+    }
+  }
+}

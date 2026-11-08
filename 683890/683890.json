@@ -1,0 +1,70 @@
+{
+  "name": "Operation Sheep Defense",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:47.144Z",
+  "branches": {
+    "public": {
+      "buildid": "10723544",
+      "timeupdated": "1678392210",
+      "timebuildupdated": "1678313783"
+    },
+    "beta": {
+      "buildid": "10723544",
+      "description": "Beta build",
+      "timeupdated": "1678313783",
+      "timebuildupdated": "1678313783"
+    }
+  },
+  "depot": {
+    "683891": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6643775392359660906",
+          "size": "71984312",
+          "download": "67707264"
+        }
+      }
+    },
+    "683892": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6717529162512096980",
+          "size": "314896590",
+          "download": "148600208"
+        }
+      }
+    },
+    "683893": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "268021390885676459",
+          "size": "94020436",
+          "download": "69168960"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10723544",
+        "timeupdated": "1678392210",
+        "timebuildupdated": "1678313783"
+      },
+      "beta": {
+        "buildid": "10723544",
+        "description": "Beta build",
+        "timeupdated": "1678313783",
+        "timebuildupdated": "1678313783"
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Multiwinia",
+  "source": "spectre",
+  "changenumber": 39960978,
+  "updated": "2026-11-07T20:55:40.999Z",
+  "branches": {
+    "public": {
+      "buildid": "4497829",
+      "timeupdated": "1576514541",
+      "timebuildupdated": "1576514444"
+    },
+    "beta": {
+      "buildid": "13186914",
+      "timeupdated": "1705422564",
+      "timebuildupdated": "1705422564"
+    }
+  },
+  "depot": {
+    "1531": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4201481149964606964",
+          "size": "53585498",
+          "download": "0"
+        }
+      }
+    },
+    "1533": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5591795937702008650",
+          "size": "57015058",
+          "download": "51889360"
+        }
+      }
+    },
+    "1534": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "223076696560894845",
+          "size": "58120432",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4497829",
+        "timeupdated": "1576514541",
+        "timebuildupdated": "1576514444"
+      },
+      "beta": {
+        "buildid": "13186914",
+        "timeupdated": "1705422564",
+        "timebuildupdated": "1705422564"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "PowerSlave (DOS Classic Edition)",
+  "source": "spectre",
+  "changenumber": 39607930,
+  "updated": "2026-11-06T21:03:58.462Z",
+  "branches": {
+    "public": {
+      "buildid": "7101914",
+      "timeupdated": "1627491258",
+      "timebuildupdated": "1627489954"
+    }
+  },
+  "depot": {
+    "1260021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5780581032945348407",
+          "size": "514216065",
+          "download": "361003744"
+        }
+      }
+    },
+    "1260022": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3859356249795156017",
+          "size": "497086329",
+          "download": "359949968"
+        }
+      }
+    },
+    "1260023": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5909283767235312891",
+          "size": "513983931",
+          "download": "359870880"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7101914",
+        "timeupdated": "1627491258",
+        "timebuildupdated": "1627489954"
+      }
+    }
+  }
+}

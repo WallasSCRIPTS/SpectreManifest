@@ -1,0 +1,64 @@
+{
+  "name": "Cross Set Infinity",
+  "source": "spectre",
+  "changenumber": 37436921,
+  "updated": "2026-11-07T20:59:58.596Z",
+  "branches": {
+    "public": {
+      "buildid": "6694190",
+      "timeupdated": "1620909054",
+      "timebuildupdated": "1620909054"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "705251": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2222923668501961718",
+          "size": "246376386",
+          "download": "87932032"
+        }
+      }
+    },
+    "705252": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5840629288613641968",
+          "size": "258167218",
+          "download": "89684416"
+        }
+      }
+    },
+    "705253": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2556962307166326658",
+          "size": "280441802",
+          "download": "98398512"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6694190",
+        "timeupdated": "1620909054",
+        "timebuildupdated": "1620909054"
+      }
+    }
+  }
+}

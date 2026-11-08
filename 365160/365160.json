@@ -1,0 +1,112 @@
+{
+  "name": "Kona",
+  "source": "spectre",
+  "changenumber": 40666998,
+  "updated": "2026-11-07T20:57:11.261Z",
+  "branches": {
+    "public": {
+      "buildid": "26482936",
+      "timeupdated": "1793965739",
+      "timebuildupdated": "1793964325"
+    },
+    "legacy": {
+      "buildid": "12854316",
+      "description": "previous stable versions",
+      "timeupdated": "1793556801",
+      "timebuildupdated": "1701465169"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "365161": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3052737860910144335",
+          "size": "2881388610",
+          "download": "2280729440"
+        }
+      }
+    },
+    "365162": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6131045029209545415",
+          "size": "2822963371",
+          "download": "2294354480"
+        }
+      }
+    },
+    "365163": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6040532330187597944",
+          "size": "2668338383",
+          "download": "1540436304"
+        }
+      }
+    },
+    "365164": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6444690127412146633",
+          "size": "3964206740",
+          "download": "1763142528"
+        }
+      }
+    },
+    "365165": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6320785987338448945",
+          "size": "2822963715",
+          "download": "2294364832"
+        }
+      }
+    },
+    "365166": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7094061987191326563",
+          "size": "3953650231",
+          "download": "1775701072"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26482936",
+        "timeupdated": "1793965739",
+        "timebuildupdated": "1793964325"
+      },
+      "legacy": {
+        "buildid": "12854316",
+        "description": "previous stable versions",
+        "timeupdated": "1793556801",
+        "timebuildupdated": "1701465169"
+      }
+    }
+  }
+}

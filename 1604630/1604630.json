@@ -1,0 +1,60 @@
+{
+  "name": "Kriophobia",
+  "source": "spectre",
+  "changenumber": 40529580,
+  "updated": "2026-11-06T21:06:32.976Z",
+  "branches": {
+    "public": {
+      "buildid": "25485209",
+      "timeupdated": "1790350055",
+      "timebuildupdated": "1790177573"
+    },
+    "local": {
+      "buildid": "11270813",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1684492031",
+      "timebuildupdated": "1684492031"
+    }
+  },
+  "depot": {
+    "1604631": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7807619394333771443",
+          "size": "5385912766",
+          "download": "2887672784"
+        }
+      }
+    },
+    "1604632": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7393540393481567942",
+          "size": "5453224964",
+          "download": "2964032528"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25485209",
+        "timeupdated": "1790350055",
+        "timebuildupdated": "1790177573"
+      },
+      "local": {
+        "buildid": "11270813",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1684492031",
+        "timebuildupdated": "1684492031"
+      }
+    }
+  }
+}

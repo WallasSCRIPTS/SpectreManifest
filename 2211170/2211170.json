@@ -1,0 +1,92 @@
+{
+  "name": "Unrailed 2: Back on Track",
+  "source": "spectre",
+  "changenumber": 40419150,
+  "updated": "2026-11-06T23:19:31.656Z",
+  "branches": {
+    "public": {
+      "buildid": "25756922",
+      "timeupdated": "1791380708",
+      "timebuildupdated": "1791304017"
+    },
+    "experimental": {
+      "buildid": "26321662",
+      "description": "Test new features early on!",
+      "timeupdated": "1793358919",
+      "timebuildupdated": "1793358911"
+    },
+    "last-default": {
+      "buildid": "24389330",
+      "description": "Last stable (legacy)",
+      "timeupdated": "1785000747",
+      "timebuildupdated": "1784986235"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2211171": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4514078282070431953",
+          "size": "1928196886",
+          "download": "732087248"
+        }
+      }
+    },
+    "2211172": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2105240292264505775",
+          "size": "1700828822",
+          "download": "597876192"
+        }
+      }
+    },
+    "3393870": {
+      "manifests": {
+        "public": {
+          "gid": "6405953703478989191",
+          "size": "378765863",
+          "download": "379975232"
+        }
+      },
+      "dlcappid": "3393870"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25756922",
+        "timeupdated": "1791380708",
+        "timebuildupdated": "1791304017"
+      },
+      "experimental": {
+        "buildid": "26321662",
+        "description": "Test new features early on!",
+        "timeupdated": "1793358919",
+        "timebuildupdated": "1793358911"
+      },
+      "last-default": {
+        "buildid": "24389330",
+        "description": "Last stable (legacy)",
+        "timeupdated": "1785000747",
+        "timebuildupdated": "1784986235"
+      }
+    }
+  }
+}

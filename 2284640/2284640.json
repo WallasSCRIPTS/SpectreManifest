@@ -1,0 +1,77 @@
+{
+  "name": "METEOR COMMANDER",
+  "source": "spectre",
+  "changenumber": 34893837,
+  "updated": "2026-11-06T23:21:24.959Z",
+  "branches": {
+    "public": {
+      "buildid": "10373341",
+      "timeupdated": "1674694978",
+      "timebuildupdated": "1674293778"
+    },
+    "shipping": {
+      "buildid": "10336221",
+      "description": "ship build",
+      "timeupdated": "1674694958",
+      "timebuildupdated": "1673922569"
+    },
+    "local": {
+      "buildid": "18445282",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1747142284",
+      "timebuildupdated": "1747142284"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2284641": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6151836512731145768",
+          "size": "407257222",
+          "download": "225765408"
+        }
+      }
+    },
+    "2284642": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10373341",
+        "timeupdated": "1674694978",
+        "timebuildupdated": "1674293778"
+      },
+      "shipping": {
+        "buildid": "10336221",
+        "description": "ship build",
+        "timeupdated": "1674694958",
+        "timebuildupdated": "1673922569"
+      },
+      "local": {
+        "buildid": "18445282",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1747142284",
+        "timebuildupdated": "1747142284"
+      }
+    }
+  }
+}

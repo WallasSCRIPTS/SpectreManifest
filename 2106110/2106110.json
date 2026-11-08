@@ -1,0 +1,58 @@
+{
+  "name": "Mafia Pigs",
+  "source": "spectre",
+  "changenumber": 40641322,
+  "updated": "2026-11-06T23:17:32.626Z",
+  "branches": {
+    "public": {
+      "buildid": "11115660",
+      "timeupdated": "1682693897",
+      "timebuildupdated": "1682692725"
+    },
+    "testing": {
+      "buildid": "11115660",
+      "description": "Testing branch with automated builds.",
+      "timeupdated": "1682692725",
+      "timebuildupdated": "1682692725"
+    }
+  },
+  "depot": {
+    "2106111": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5901559991692265254",
+          "size": "1333819021",
+          "download": "148779776"
+        }
+      }
+    },
+    "2106112": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6497693367152020988",
+          "size": "1362027688",
+          "download": "157115840"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11115660",
+        "timeupdated": "1682693897",
+        "timebuildupdated": "1682692725"
+      },
+      "testing": {
+        "buildid": "11115660",
+        "description": "Testing branch with automated builds.",
+        "timeupdated": "1682692725",
+        "timebuildupdated": "1682692725"
+      }
+    }
+  }
+}

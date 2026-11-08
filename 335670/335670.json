@@ -1,0 +1,184 @@
+{
+  "name": "LISA",
+  "source": "spectre",
+  "changenumber": 38670329,
+  "updated": "2026-11-07T20:56:47.702Z",
+  "branches": {
+    "public": {
+      "buildid": "19490150",
+      "timeupdated": "1755792971",
+      "timebuildupdated": "1754432800"
+    },
+    "linux-nouveau-outdated": {
+      "buildid": "505408",
+      "description": "Fixes glitchy textures on outdated nouveau drivers",
+      "timebuildupdated": "1422378665"
+    },
+    "old-default": {
+      "buildid": "501336",
+      "description": "Original version of the default build",
+      "timebuildupdated": "1421963209"
+    },
+    "osx-previous-version": {
+      "buildid": "1665231",
+      "timeupdated": "1495210419",
+      "timebuildupdated": "1488432868"
+    }
+  },
+  "depot": {
+    "335671": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1052253554407485797",
+          "size": "541959108",
+          "download": "490016528"
+        }
+      }
+    },
+    "335672": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7861364370845266981",
+          "size": "533737310",
+          "download": "515233056"
+        }
+      }
+    },
+    "335673": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6354315720150011908",
+          "size": "551716650",
+          "download": "518412400"
+        }
+      }
+    },
+    "335674": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6065512278666629149",
+          "size": "74867907",
+          "download": "14269360"
+        }
+      }
+    },
+    "335675": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7906143349479607965",
+          "size": "1546241741",
+          "download": "454088304"
+        }
+      }
+    },
+    "335676": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8302344585098590049",
+          "size": "1236853676",
+          "download": "303439536"
+        }
+      },
+      "dlcappid": "379310"
+    },
+    "336370": {
+      "manifests": {
+        "public": {
+          "gid": "7395488587373387237",
+          "size": "425140036",
+          "download": "405585264"
+        }
+      },
+      "dlcappid": "336370"
+    },
+    "379310": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9221336541608243163",
+          "size": "540445736",
+          "download": "455712016"
+        }
+      },
+      "dlcappid": "379310"
+    },
+    "379311": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "881406864256724130",
+          "size": "493677759",
+          "download": "478534544"
+        }
+      },
+      "dlcappid": "379310"
+    },
+    "379312": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1914638655198042320",
+          "size": "530074060",
+          "download": "488965952"
+        }
+      },
+      "dlcappid": "379310"
+    },
+    "379313": {
+      "manifests": {
+        "public": {
+          "gid": "550811233426364496",
+          "size": "71827539",
+          "download": "69763024"
+        }
+      },
+      "dlcappid": "379310"
+    },
+    "branches": {
+      "public": {
+        "buildid": "19490150",
+        "timeupdated": "1755792971",
+        "timebuildupdated": "1754432800"
+      },
+      "linux-nouveau-outdated": {
+        "buildid": "505408",
+        "description": "Fixes glitchy textures on outdated nouveau drivers",
+        "timebuildupdated": "1422378665"
+      },
+      "old-default": {
+        "buildid": "501336",
+        "description": "Original version of the default build",
+        "timebuildupdated": "1421963209"
+      },
+      "osx-previous-version": {
+        "buildid": "1665231",
+        "timeupdated": "1495210419",
+        "timebuildupdated": "1488432868"
+      }
+    }
+  }
+}

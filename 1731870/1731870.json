@@ -1,0 +1,60 @@
+{
+  "name": "Viral Firar",
+  "source": "spectre",
+  "changenumber": 40628030,
+  "updated": "2026-11-06T23:09:40.233Z",
+  "branches": {
+    "public": {
+      "buildid": "10365247",
+      "timeupdated": "1674206082",
+      "timebuildupdated": "1674206063"
+    },
+    "local": {
+      "buildid": "7222634",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1629462531",
+      "timebuildupdated": "1629462531"
+    }
+  },
+  "depot": {
+    "1731871": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2998436482308315921",
+          "size": "112962421",
+          "download": "28863568"
+        }
+      }
+    },
+    "1731872": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5345656984743676804",
+          "size": "113298477",
+          "download": "28846864"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10365247",
+        "timeupdated": "1674206082",
+        "timebuildupdated": "1674206063"
+      },
+      "local": {
+        "buildid": "7222634",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1629462531",
+        "timebuildupdated": "1629462531"
+      }
+    }
+  }
+}

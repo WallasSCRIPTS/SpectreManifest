@@ -1,0 +1,88 @@
+{
+  "name": "Evolvation",
+  "source": "spectre",
+  "changenumber": 39940657,
+  "updated": "2026-11-07T20:58:24.201Z",
+  "branches": {
+    "public": {
+      "buildid": "4797246",
+      "timeupdated": "1584637998",
+      "timebuildupdated": "1584637575"
+    },
+    "deprecated": {
+      "buildid": "3317028",
+      "description": "old version of evolvation",
+      "timeupdated": "1560704982",
+      "timebuildupdated": "1542483208"
+    },
+    "experimental": {
+      "buildid": "3583053",
+      "description": "experimental",
+      "timeupdated": "1550783437",
+      "timebuildupdated": "1550780752"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "510841": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5043309623967716563",
+          "size": "3158417460",
+          "download": "767300960"
+        }
+      }
+    },
+    "510842": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2167243928850868524",
+          "size": "3044538003",
+          "download": "725411664"
+        }
+      }
+    },
+    "510843": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2737212265894951321",
+          "size": "5484292113",
+          "download": "1352884128"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4797246",
+        "timeupdated": "1584637998",
+        "timebuildupdated": "1584637575"
+      },
+      "deprecated": {
+        "buildid": "3317028",
+        "description": "old version of evolvation",
+        "timeupdated": "1560704982",
+        "timebuildupdated": "1542483208"
+      },
+      "experimental": {
+        "buildid": "3583053",
+        "description": "experimental",
+        "timeupdated": "1550783437",
+        "timebuildupdated": "1550780752"
+      }
+    }
+  }
+}

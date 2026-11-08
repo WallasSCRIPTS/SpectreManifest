@@ -1,0 +1,68 @@
+{
+  "name": "Dustforce",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:57.307Z",
+  "branches": {
+    "public": {
+      "buildid": "480368",
+      "timebuildupdated": "1419287291"
+    }
+  },
+  "depot": {
+    "65301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4400690205417711253",
+          "size": "429177053",
+          "download": "817529043664"
+        }
+      }
+    },
+    "65303": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4613837143824220549",
+          "size": "414283370",
+          "download": "327007424"
+        }
+      }
+    },
+    "65304": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3714639269265804985",
+          "size": "419104964",
+          "download": "329362016"
+        }
+      }
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "480368",
+        "timebuildupdated": "1419287291"
+      }
+    }
+  }
+}

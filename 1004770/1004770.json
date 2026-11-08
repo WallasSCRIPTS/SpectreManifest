@@ -1,0 +1,95 @@
+{
+  "name": "Maiden & Spell",
+  "source": "spectre",
+  "changenumber": 39324337,
+  "updated": "2026-11-07T21:02:23.668Z",
+  "branches": {
+    "public": {
+      "buildid": "11675940",
+      "timeupdated": "1689090967",
+      "timebuildupdated": "1689090409"
+    },
+    "beta": {
+      "buildid": "11675940",
+      "description": "Balance testing",
+      "timeupdated": "1689090959",
+      "timebuildupdated": "1689090409"
+    },
+    "june-2021": {
+      "buildid": "11676112",
+      "description": "June 2021 Patch",
+      "timeupdated": "1689091684",
+      "timebuildupdated": "1689091620"
+    },
+    "previous-patch": {
+      "buildid": "11676112",
+      "description": "Pre-Sept. Beta balance (equivalent to Switch version)",
+      "timeupdated": "1689091696",
+      "timebuildupdated": "1689091620"
+    },
+    "sept-2022": {
+      "buildid": "9492197",
+      "description": "September 2022 Patch",
+      "timeupdated": "1688136781",
+      "timebuildupdated": "1662863280"
+    }
+  },
+  "depot": {
+    "1004771": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5114462997594861162",
+          "size": "259791917",
+          "download": "190568016"
+        }
+      }
+    },
+    "1205731": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1692941013507493111",
+          "size": "150288636",
+          "download": "90661792"
+        }
+      },
+      "depotfromapp": "1205730"
+    },
+    "branches": {
+      "public": {
+        "buildid": "11675940",
+        "timeupdated": "1689090967",
+        "timebuildupdated": "1689090409"
+      },
+      "beta": {
+        "buildid": "11675940",
+        "description": "Balance testing",
+        "timeupdated": "1689090959",
+        "timebuildupdated": "1689090409"
+      },
+      "june-2021": {
+        "buildid": "11676112",
+        "description": "June 2021 Patch",
+        "timeupdated": "1689091684",
+        "timebuildupdated": "1689091620"
+      },
+      "previous-patch": {
+        "buildid": "11676112",
+        "description": "Pre-Sept. Beta balance (equivalent to Switch version)",
+        "timeupdated": "1689091696",
+        "timebuildupdated": "1689091620"
+      },
+      "sept-2022": {
+        "buildid": "9492197",
+        "description": "September 2022 Patch",
+        "timeupdated": "1688136781",
+        "timebuildupdated": "1662863280"
+      }
+    }
+  }
+}

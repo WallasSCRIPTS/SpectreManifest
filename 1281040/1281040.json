@@ -1,0 +1,70 @@
+{
+  "name": "Baby Steps",
+  "source": "spectre",
+  "changenumber": 39526788,
+  "updated": "2026-11-06T21:04:08.229Z",
+  "branches": {
+    "public": {
+      "buildid": "21168055",
+      "timeupdated": "1765567701",
+      "timebuildupdated": "1765566250"
+    },
+    "beta": {
+      "buildid": "20306104",
+      "description": "Public beta builds",
+      "timeupdated": "1759945468",
+      "timebuildupdated": "1759938870"
+    },
+    "hotfix1": {
+      "buildid": "20109007",
+      "description": "hotfix 1 multiplayer mode compatible",
+      "timeupdated": "1759247946",
+      "timebuildupdated": "1758717147"
+    }
+  },
+  "depot": {
+    "1281041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7107002197259082622",
+          "size": "19510759983",
+          "download": "12121083584"
+        }
+      }
+    },
+    "1281042": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4997696431447098008",
+          "size": "19510759983",
+          "download": "13009346592"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21168055",
+        "timeupdated": "1765567701",
+        "timebuildupdated": "1765566250"
+      },
+      "beta": {
+        "buildid": "20306104",
+        "description": "Public beta builds",
+        "timeupdated": "1759945468",
+        "timebuildupdated": "1759938870"
+      },
+      "hotfix1": {
+        "buildid": "20109007",
+        "description": "hotfix 1 multiplayer mode compatible",
+        "timeupdated": "1759247946",
+        "timebuildupdated": "1758717147"
+      }
+    }
+  }
+}

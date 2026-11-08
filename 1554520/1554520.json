@@ -1,0 +1,70 @@
+{
+  "name": "Smackball",
+  "source": "spectre",
+  "changenumber": 34863709,
+  "updated": "2026-11-06T21:06:06.499Z",
+  "branches": {
+    "public": {
+      "buildid": "7141700",
+      "timeupdated": "1628175425",
+      "timebuildupdated": "1628149303"
+    },
+    "beta": {
+      "buildid": "19246617",
+      "description": "Public beta branch",
+      "timeupdated": "1752677754",
+      "timebuildupdated": "1752677754"
+    }
+  },
+  "depot": {
+    "1554521": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8714002273959510003",
+          "size": "90214696",
+          "download": "29861776"
+        }
+      }
+    },
+    "1554522": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7812700948830679426",
+          "size": "82559113",
+          "download": "27434352"
+        }
+      }
+    },
+    "1554523": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "335820841083474289",
+          "size": "111930364",
+          "download": "36415712"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7141700",
+        "timeupdated": "1628175425",
+        "timebuildupdated": "1628149303"
+      },
+      "beta": {
+        "buildid": "19246617",
+        "description": "Public beta branch",
+        "timeupdated": "1752677754",
+        "timebuildupdated": "1752677754"
+      }
+    }
+  }
+}

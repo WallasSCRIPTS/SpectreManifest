@@ -1,0 +1,61 @@
+{
+  "name": "Napoleon's Eagles",
+  "source": "spectre",
+  "changenumber": 40673252,
+  "updated": "2026-11-06T23:15:36.012Z",
+  "branches": {
+    "public": {
+      "buildid": "26487541",
+      "timeupdated": "1793977200",
+      "timebuildupdated": "1793977200"
+    },
+    "beta": {
+      "buildid": "20390334",
+      "description": "For beta versions of the game, separated MP environment",
+      "timeupdated": "1760465486",
+      "timebuildupdated": "1760465486"
+    }
+  },
+  "depot": {
+    "2009781": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9041502942769741913",
+          "size": "3660298118",
+          "download": "705066704"
+        }
+      }
+    },
+    "2009783": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8076642718583135336",
+          "size": "3645995486",
+          "download": "700803632"
+        }
+      }
+    },
+    "3551450": {
+      "dlcappid": "3551450"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26487541",
+        "timeupdated": "1793977200",
+        "timebuildupdated": "1793977200"
+      },
+      "beta": {
+        "buildid": "20390334",
+        "description": "For beta versions of the game, separated MP environment",
+        "timeupdated": "1760465486",
+        "timebuildupdated": "1760465486"
+      }
+    }
+  }
+}

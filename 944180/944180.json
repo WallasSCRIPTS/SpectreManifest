@@ -1,0 +1,92 @@
+{
+  "name": "Titan Outpost",
+  "source": "spectre",
+  "changenumber": 37438766,
+  "updated": "2026-11-07T21:01:52.340Z",
+  "branches": {
+    "public": {
+      "buildid": "20290022",
+      "timeupdated": "1759857392",
+      "timebuildupdated": "1759857392"
+    },
+    "steamdecktest": {
+      "buildid": "18325209",
+      "description": "Test branch for Steamdeck controls",
+      "timeupdated": "1746211458",
+      "timebuildupdated": "1746211392"
+    },
+    "test": {
+      "buildid": "19660247",
+      "timeupdated": "1755640323",
+      "timebuildupdated": "1755640323"
+    }
+  },
+  "depot": {
+    "944181": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4820805181633012876",
+          "size": "7012238429",
+          "download": "2369731232"
+        }
+      }
+    },
+    "944183": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4516555988907117189",
+          "size": "7210468530",
+          "download": "2507731328"
+        }
+      }
+    },
+    "944184": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "950253907339191773",
+          "size": "7489582361",
+          "download": "2688409216"
+        }
+      }
+    },
+    "944185": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3903369976083298252",
+          "size": "7141481857",
+          "download": "2364078112"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20290022",
+        "timeupdated": "1759857392",
+        "timebuildupdated": "1759857392"
+      },
+      "steamdecktest": {
+        "buildid": "18325209",
+        "description": "Test branch for Steamdeck controls",
+        "timeupdated": "1746211458",
+        "timebuildupdated": "1746211392"
+      },
+      "test": {
+        "buildid": "19660247",
+        "timeupdated": "1755640323",
+        "timebuildupdated": "1755640323"
+      }
+    }
+  }
+}

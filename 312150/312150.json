@@ -1,0 +1,60 @@
+{
+  "name": "Wild Warfare",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:35.501Z",
+  "branches": {
+    "public": {
+      "buildid": "22924936",
+      "timeupdated": "1782836306",
+      "timebuildupdated": "1776955722"
+    },
+    "beta": {
+      "buildid": "525050",
+      "timebuildupdated": "1423843018"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "312151": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8470722208340750994",
+          "size": "1322134458",
+          "download": "419915680"
+        }
+      }
+    },
+    "312152": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1207901534107692675",
+          "size": "1340872987",
+          "download": "427570080"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22924936",
+        "timeupdated": "1782836306",
+        "timebuildupdated": "1776955722"
+      },
+      "beta": {
+        "buildid": "525050",
+        "timebuildupdated": "1423843018"
+      }
+    }
+  }
+}

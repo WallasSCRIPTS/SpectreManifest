@@ -1,0 +1,70 @@
+{
+  "name": "Handmancers",
+  "source": "spectre",
+  "changenumber": 40678535,
+  "updated": "2026-11-06T23:25:09.013Z",
+  "branches": {
+    "public": {
+      "buildid": "24259944",
+      "timeupdated": "1784296917",
+      "timebuildupdated": "1784295041"
+    },
+    "testing": {
+      "buildid": "25529830",
+      "description": "Publich branch for testing new experimental features",
+      "timeupdated": "1790344214",
+      "timebuildupdated": "1790344088"
+    }
+  },
+  "depot": {
+    "2423292": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2347883265239149099",
+          "size": "7156679636",
+          "download": "1603973312"
+        }
+      }
+    },
+    "2423295": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6682618992594937142",
+          "size": "7203816017",
+          "download": "1627066208"
+        }
+      }
+    },
+    "2423296": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1531825053061345039",
+          "size": "7176971585",
+          "download": "1626403456"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24259944",
+        "timeupdated": "1784296917",
+        "timebuildupdated": "1784295041"
+      },
+      "testing": {
+        "buildid": "25529830",
+        "description": "Publich branch for testing new experimental features",
+        "timeupdated": "1790344214",
+        "timebuildupdated": "1790344088"
+      }
+    }
+  }
+}

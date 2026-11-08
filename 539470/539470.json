@@ -1,0 +1,98 @@
+{
+  "name": "Police Stories",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:36.590Z",
+  "branches": {
+    "public": {
+      "buildid": "19929171",
+      "timeupdated": "1758809734",
+      "timebuildupdated": "1757520339"
+    },
+    "1.2.2": {
+      "buildid": "5877041",
+      "description": "Version for cross-platform cooperative mode",
+      "timeupdated": "1620314537",
+      "timebuildupdated": "1606253359"
+    },
+    "test_2025": {
+      "buildid": "25107926",
+      "description": "test_2025",
+      "timeupdated": "1788459524",
+      "timebuildupdated": "1788459524"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "539471": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9152910147611349656",
+          "size": "410800328",
+          "download": "289724096"
+        }
+      }
+    },
+    "539472": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2521356969084536780",
+          "size": "367510212",
+          "download": "237638480"
+        }
+      }
+    },
+    "539473": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4451273467272146862",
+          "size": "373681667",
+          "download": "238987136"
+        }
+      }
+    },
+    "1158270": {
+      "manifests": {
+        "public": {
+          "gid": "4825703595502710127",
+          "size": "834604688",
+          "download": "742987792"
+        }
+      },
+      "dlcappid": "1158270"
+    },
+    "branches": {
+      "public": {
+        "buildid": "19929171",
+        "timeupdated": "1758809734",
+        "timebuildupdated": "1757520339"
+      },
+      "1.2.2": {
+        "buildid": "5877041",
+        "description": "Version for cross-platform cooperative mode",
+        "timeupdated": "1620314537",
+        "timebuildupdated": "1606253359"
+      },
+      "test_2025": {
+        "buildid": "25107926",
+        "description": "test_2025",
+        "timeupdated": "1788459524",
+        "timebuildupdated": "1788459524"
+      }
+    }
+  }
+}

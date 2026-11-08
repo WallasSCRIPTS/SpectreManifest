@@ -1,0 +1,70 @@
+{
+  "name": "Portal: Revolution",
+  "source": "spectre",
+  "changenumber": 40630014,
+  "updated": "2026-11-07T20:59:10.107Z",
+  "branches": {
+    "public": {
+      "buildid": "16912226",
+      "timeupdated": "1736173293",
+      "timebuildupdated": "1736107026"
+    },
+    "1.6.1": {
+      "buildid": "13980398",
+      "description": "Version before anniversary update 1.7.0",
+      "timeupdated": "1736174946",
+      "timebuildupdated": "1712524204"
+    },
+    "preview": {
+      "buildid": "16912226",
+      "description": "Unstable beta",
+      "timeupdated": "1736174955",
+      "timebuildupdated": "1736107026"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "601361": {
+      "manifests": {
+        "public": {
+          "gid": "7988610923866673849",
+          "size": "12458800807",
+          "download": "6444210976"
+        }
+      }
+    },
+    "601363": {
+      "manifests": {
+        "public": {
+          "gid": "4625918216674383223",
+          "size": "263837500",
+          "download": "75499984"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16912226",
+        "timeupdated": "1736173293",
+        "timebuildupdated": "1736107026"
+      },
+      "1.6.1": {
+        "buildid": "13980398",
+        "description": "Version before anniversary update 1.7.0",
+        "timeupdated": "1736174946",
+        "timebuildupdated": "1712524204"
+      },
+      "preview": {
+        "buildid": "16912226",
+        "description": "Unstable beta",
+        "timeupdated": "1736174955",
+        "timebuildupdated": "1736107026"
+      }
+    }
+  }
+}

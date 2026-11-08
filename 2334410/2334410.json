@@ -1,0 +1,79 @@
+{
+  "name": "Heist Haven",
+  "source": "spectre",
+  "changenumber": 40419857,
+  "updated": "2026-11-06T23:23:16.141Z",
+  "branches": {
+    "public": {
+      "buildid": "21265376",
+      "timeupdated": "1766191266",
+      "timebuildupdated": "1766190043"
+    },
+    "rollback": {
+      "buildid": "20781975",
+      "description": "Always one version behind default to faciliate easy hotfixes",
+      "timeupdated": "1764114637",
+      "timebuildupdated": "1763030660"
+    },
+    "staging": {
+      "buildid": "21265376",
+      "description": "Branch to try out changes before pushing to default",
+      "timeupdated": "1766190043",
+      "timebuildupdated": "1766190043"
+    },
+    "testing": {
+      "buildid": "26322122",
+      "description": "The testing branch might feature public testing builds.",
+      "timeupdated": "1793360287",
+      "timebuildupdated": "1793360287"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2334411": {
+      "manifests": {
+        "public": {
+          "gid": "2663481349128386725",
+          "size": "1439394659",
+          "download": "1199593936"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21265376",
+        "timeupdated": "1766191266",
+        "timebuildupdated": "1766190043"
+      },
+      "rollback": {
+        "buildid": "20781975",
+        "description": "Always one version behind default to faciliate easy hotfixes",
+        "timeupdated": "1764114637",
+        "timebuildupdated": "1763030660"
+      },
+      "staging": {
+        "buildid": "21265376",
+        "description": "Branch to try out changes before pushing to default",
+        "timeupdated": "1766190043",
+        "timebuildupdated": "1766190043"
+      },
+      "testing": {
+        "buildid": "26322122",
+        "description": "The testing branch might feature public testing builds.",
+        "timeupdated": "1793360287",
+        "timebuildupdated": "1793360287"
+      }
+    }
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "name": "Parkitect",
+  "source": "spectre",
+  "changenumber": 40347870,
+  "updated": "2026-11-07T20:57:57.921Z",
+  "branches": {
+    "public": {
+      "buildid": "25985828",
+      "timeupdated": "1792152916",
+      "timebuildupdated": "1792151593"
+    },
+    "alpha_01": {
+      "buildid": "3964508",
+      "description": "The very first version released on Steam back in May 2016",
+      "timeupdated": "1561729355",
+      "timebuildupdated": "1561729355"
+    },
+    "alpha_06": {
+      "buildid": "3964503",
+      "timeupdated": "1561729325",
+      "timebuildupdated": "1561729325"
+    },
+    "alpha_12": {
+      "buildid": "3964501",
+      "timeupdated": "1561729289",
+      "timebuildupdated": "1561729289"
+    },
+    "alpha_18": {
+      "buildid": "3964498",
+      "timeupdated": "1561729246",
+      "timebuildupdated": "1561729246"
+    },
+    "beta_01": {
+      "buildid": "3964496",
+      "timeupdated": "1561729205",
+      "timebuildupdated": "1561729205"
+    },
+    "beta_06": {
+      "buildid": "3964492",
+      "timeupdated": "1561729149",
+      "timebuildupdated": "1561729148"
+    },
+    "beta_12": {
+      "buildid": "4267569",
+      "timeupdated": "1570540473",
+      "timebuildupdated": "1570540473"
+    },
+    "apple_silicon": {
+      "buildid": "25986331",
+      "description": "Experimental Apple Silicon test version",
+      "timeupdated": "1792152925",
+      "timebuildupdated": "1792152925"
+    },
+    "multiplayer_test": {
+      "buildid": "15588541",
+      "description": "Testing a fix for multiplayer mode",
+      "timeupdated": "1725449597",
+      "timebuildupdated": "1725443918"
+    },
+    "previous_version": {
+      "buildid": "16485467",
+      "description": "The last version of the game before the current release",
+      "timeupdated": "1737543862",
+      "timebuildupdated": "1732188930"
+    }
+  },
+  "depot": {
+    "453091": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7741991735307092587",
+          "size": "1272288506",
+          "download": "750554384"
+        }
+      }
+    },
+    "453092": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7071869773403546929",
+          "size": "1297722916",
+          "download": "757311248"
+        }
+      }
+    },
+    "453093": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4722752348016510153",
+          "size": "1287668030",
+          "download": "754959680"
+        }
+      }
+    },
+    "453094": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6006929975806970190",
+          "size": "1356216927",
+          "download": "770080032"
+        }
+      }
+    },
+    "1129050": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1285645489809431583",
+          "size": "23409824",
+          "download": "8069616"
+        }
+      },
+      "dlcappid": "1129050"
+    },
+    "1129051": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1538443212154557471",
+          "size": "23409824",
+          "download": "8069616"
+        }
+      },
+      "dlcappid": "1129050"
+    },
+    "1129052": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "751537031527192929",
+          "size": "25405376",
+          "download": "8917136"
+        }
+      },
+      "dlcappid": "1129050"
+    },
+    "1129053": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8841018612729642973",
+          "size": "28473152",
+          "download": "10672880"
+        }
+      },
+      "dlcappid": "1129050"
+    },
+    "1353170": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8173092006770151121",
+          "size": "17596256",
+          "download": "10343120"
+        }
+      },
+      "dlcappid": "1353170"
+    },
+    "1353171": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2889078270976118447",
+          "size": "17596256",
+          "download": "10343120"
+        }
+      },
+      "dlcappid": "1353170"
+    },
+    "1353172": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "537868161501829646",
+          "size": "19817392",
+          "download": "11574032"
+        }
+      },
+      "dlcappid": "1353170"
+    },
+    "1353173": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5661168794430802042",
+          "size": "22774064",
+          "download": "13173712"
+        }
+      },
+      "dlcappid": "1353170"
+    },
+    "3919200": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7381006015470656570",
+          "size": "23708704",
+          "download": "7872608"
+        }
+      },
+      "dlcappid": "3919200"
+    },
+    "3919201": {
+      "manifests": {
+        "public": {
+          "gid": "1075872770654660354",
+          "size": "23708704",
+          "download": "7872608"
+        }
+      },
+      "dlcappid": "3919200"
+    },
+    "3919202": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6963796147363206386",
+          "size": "26642016",
+          "download": "9478496"
+        }
+      },
+      "dlcappid": "3919200"
+    },
+    "3919203": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7660362445439901953",
+          "size": "30616000",
+          "download": "12087712"
+        }
+      },
+      "dlcappid": "3919200"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25985828",
+        "timeupdated": "1792152916",
+        "timebuildupdated": "1792151593"
+      },
+      "alpha_01": {
+        "buildid": "3964508",
+        "description": "The very first version released on Steam back in May 2016",
+        "timeupdated": "1561729355",
+        "timebuildupdated": "1561729355"
+      },
+      "alpha_06": {
+        "buildid": "3964503",
+        "timeupdated": "1561729325",
+        "timebuildupdated": "1561729325"
+      },
+      "alpha_12": {
+        "buildid": "3964501",
+        "timeupdated": "1561729289",
+        "timebuildupdated": "1561729289"
+      },
+      "alpha_18": {
+        "buildid": "3964498",
+        "timeupdated": "1561729246",
+        "timebuildupdated": "1561729246"
+      },
+      "beta_01": {
+        "buildid": "3964496",
+        "timeupdated": "1561729205",
+        "timebuildupdated": "1561729205"
+      },
+      "beta_06": {
+        "buildid": "3964492",
+        "timeupdated": "1561729149",
+        "timebuildupdated": "1561729148"
+      },
+      "beta_12": {
+        "buildid": "4267569",
+        "timeupdated": "1570540473",
+        "timebuildupdated": "1570540473"
+      },
+      "apple_silicon": {
+        "buildid": "25986331",
+        "description": "Experimental Apple Silicon test version",
+        "timeupdated": "1792152925",
+        "timebuildupdated": "1792152925"
+      },
+      "multiplayer_test": {
+        "buildid": "15588541",
+        "description": "Testing a fix for multiplayer mode",
+        "timeupdated": "1725449597",
+        "timebuildupdated": "1725443918"
+      },
+      "previous_version": {
+        "buildid": "16485467",
+        "description": "The last version of the game before the current release",
+        "timeupdated": "1737543862",
+        "timebuildupdated": "1732188930"
+      }
+    }
+  }
+}

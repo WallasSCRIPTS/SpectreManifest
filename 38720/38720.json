@@ -1,0 +1,80 @@
+{
+  "name": "RUSH",
+  "source": "spectre",
+  "changenumber": 36054348,
+  "updated": "2026-11-07T20:55:53.441Z",
+  "branches": {
+    "public": {
+      "buildid": "5360252",
+      "timeupdated": "1596297178",
+      "timebuildupdated": "1596297178"
+    }
+  },
+  "depot": {
+    "38721": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6310569386126047308",
+          "size": "274809027",
+          "download": "0"
+        }
+      }
+    },
+    "38722": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5224961914068267918",
+          "size": "163226547",
+          "download": "115964432"
+        }
+      }
+    },
+    "38723": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7442307014536787324",
+          "size": "169354914",
+          "download": "117554896"
+        }
+      }
+    },
+    "98012": {
+      "manifests": {
+        "public": {
+          "gid": "802517688290875267",
+          "size": "10691187",
+          "download": "0"
+        }
+      },
+      "dlcappid": "98012"
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "5360252",
+        "timeupdated": "1596297178",
+        "timebuildupdated": "1596297178"
+      }
+    }
+  }
+}

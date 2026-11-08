@@ -1,0 +1,72 @@
+{
+  "name": "Jump'n'Brawl Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-06T23:23:21.653Z",
+  "branches": {
+    "public": {
+      "buildid": "13253072",
+      "timeupdated": "1706045591",
+      "timebuildupdated": "1706045533"
+    },
+    "local": {
+      "buildid": "10906319",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1680304578",
+      "timebuildupdated": "1680304578"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2380571": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7936995195250320272",
+          "size": "458140440",
+          "download": "155744528"
+        }
+      }
+    },
+    "2380572": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7954417173305906324",
+          "size": "446698440",
+          "download": "151688752"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13253072",
+        "timeupdated": "1706045591",
+        "timebuildupdated": "1706045533"
+      },
+      "local": {
+        "buildid": "10906319",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1680304578",
+        "timebuildupdated": "1680304578"
+      }
+    }
+  }
+}

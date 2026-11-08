@@ -1,0 +1,82 @@
+{
+  "name": "Blessed with Death Demo",
+  "source": "spectre",
+  "changenumber": 40062413,
+  "updated": "2026-11-04T23:24:40.704Z",
+  "branches": {
+    "public": {
+      "buildid": "20759990",
+      "timeupdated": "1762902088",
+      "timebuildupdated": "1762902053"
+    },
+    "previousversion": {
+      "buildid": "19023792",
+      "description": "The previous major version",
+      "timeupdated": "1752054411",
+      "timebuildupdated": "1751015706"
+    },
+    "public_prerelease": {
+      "buildid": "20819799",
+      "description": "A newer version of the game that might contain bugs",
+      "timeupdated": "1763327312",
+      "timebuildupdated": "1763327311"
+    }
+  },
+  "depot": {
+    "3310211": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5017230757088752820",
+          "size": "772550339",
+          "download": "112411696"
+        }
+      }
+    },
+    "3310212": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2682280327425164455",
+          "size": "789513528",
+          "download": "126827888"
+        }
+      }
+    },
+    "3310213": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4394828951525250201",
+          "size": "767762245",
+          "download": "116007136"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20759990",
+        "timeupdated": "1762902088",
+        "timebuildupdated": "1762902053"
+      },
+      "previousversion": {
+        "buildid": "19023792",
+        "description": "The previous major version",
+        "timeupdated": "1752054411",
+        "timebuildupdated": "1751015706"
+      },
+      "public_prerelease": {
+        "buildid": "20819799",
+        "description": "A newer version of the game that might contain bugs",
+        "timeupdated": "1763327312",
+        "timebuildupdated": "1763327311"
+      }
+    }
+  }
+}

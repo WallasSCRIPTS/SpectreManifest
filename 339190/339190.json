@@ -1,0 +1,77 @@
+{
+  "name": "Dead Synchronicity: Tomorrow Comes Today",
+  "source": "spectre",
+  "changenumber": 40391366,
+  "updated": "2026-11-07T20:56:49.588Z",
+  "branches": {
+    "public": {
+      "buildid": "709552",
+      "timebuildupdated": "1437992220"
+    },
+    "local": {
+      "buildid": "563481",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1427115522"
+    }
+  },
+  "depot": {
+    "339191": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2377387433708933158",
+          "size": "3203585619",
+          "download": "1941247456"
+        }
+      }
+    },
+    "339192": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1145349580530725158",
+          "size": "3200728769",
+          "download": "1939926144"
+        }
+      }
+    },
+    "339193": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4906998347364857537",
+          "size": "3222591624",
+          "download": "1947737216"
+        }
+      }
+    },
+    "339194": {
+      "manifests": {
+        "public": {
+          "gid": "7545795063769377295",
+          "size": "438586405",
+          "download": "114745712"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "709552",
+        "timebuildupdated": "1437992220"
+      },
+      "local": {
+        "buildid": "563481",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1427115522"
+      }
+    }
+  }
+}

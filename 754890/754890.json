@@ -1,0 +1,94 @@
+{
+  "name": "Firmament",
+  "source": "spectre",
+  "changenumber": 39532866,
+  "updated": "2026-11-07T21:00:25.888Z",
+  "branches": {
+    "public": {
+      "buildid": "22290941",
+      "timeupdated": "1773434765",
+      "timebuildupdated": "1773210702"
+    },
+    "rollback_macos_under14-5": {
+      "buildid": "16320978",
+      "description": "Only use this branch if you wish to play an unsupported (legacy) version of Firmament on MacOS under 14.5.",
+      "timeupdated": "1730939221",
+      "timebuildupdated": "1730939221"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229005": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "754891": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8465287121598920347",
+          "size": "11802462774",
+          "download": "10955376080"
+        }
+      }
+    },
+    "754892": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5730710343613923215",
+          "size": "2006026521",
+          "download": "860251312"
+        }
+      }
+    },
+    "754893": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7245576532257159391",
+          "size": "20534839462",
+          "download": "13223536160"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22290941",
+        "timeupdated": "1773434765",
+        "timebuildupdated": "1773210702"
+      },
+      "rollback_macos_under14-5": {
+        "buildid": "16320978",
+        "description": "Only use this branch if you wish to play an unsupported (legacy) version of Firmament on MacOS under 14.5.",
+        "timeupdated": "1730939221",
+        "timebuildupdated": "1730939221"
+      }
+    }
+  }
+}

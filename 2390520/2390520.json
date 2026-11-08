@@ -1,0 +1,58 @@
+{
+  "name": "Trans Neuronica",
+  "source": "spectre",
+  "changenumber": 39441295,
+  "updated": "2026-11-06T23:23:22.751Z",
+  "branches": {
+    "public": {
+      "buildid": "16437549",
+      "timeupdated": "1732018869",
+      "timebuildupdated": "1731873207"
+    },
+    "old-electron": {
+      "buildid": "17958641",
+      "description": "Release build using older Electron Version",
+      "timeupdated": "1743616776",
+      "timebuildupdated": "1743616707"
+    }
+  },
+  "depot": {
+    "2390521": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6915687787885000784",
+          "size": "346177114",
+          "download": "168080880"
+        }
+      }
+    },
+    "2390522": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2734044316062040933",
+          "size": "350220346",
+          "download": "163776080"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16437549",
+        "timeupdated": "1732018869",
+        "timebuildupdated": "1731873207"
+      },
+      "old-electron": {
+        "buildid": "17958641",
+        "description": "Release build using older Electron Version",
+        "timeupdated": "1743616776",
+        "timebuildupdated": "1743616707"
+      }
+    }
+  }
+}

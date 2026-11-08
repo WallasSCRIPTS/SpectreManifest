@@ -1,0 +1,70 @@
+{
+  "name": "Starfighter Renegade",
+  "source": "spectre",
+  "changenumber": 35945762,
+  "updated": "2026-11-04T23:22:42.340Z",
+  "branches": {
+    "public": {
+      "buildid": "11012239",
+      "timeupdated": "1681587528",
+      "timebuildupdated": "1681586401"
+    },
+    "test": {
+      "buildid": "11012239",
+      "description": "Testing before making live changes",
+      "timeupdated": "1681586712",
+      "timebuildupdated": "1681586401"
+    }
+  },
+  "depot": {
+    "1431891": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2135923080140998250",
+          "size": "443587636",
+          "download": "282287472"
+        }
+      }
+    },
+    "1431892": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2522683710365638376",
+          "size": "420624868",
+          "download": "275767664"
+        }
+      }
+    },
+    "1431893": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1546476734547578270",
+          "size": "426818598",
+          "download": "276965520"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11012239",
+        "timeupdated": "1681587528",
+        "timebuildupdated": "1681586401"
+      },
+      "test": {
+        "buildid": "11012239",
+        "description": "Testing before making live changes",
+        "timeupdated": "1681586712",
+        "timebuildupdated": "1681586401"
+      }
+    }
+  }
+}

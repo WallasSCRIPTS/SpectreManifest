@@ -1,0 +1,73 @@
+{
+  "name": "NeoCD",
+  "source": "spectre",
+  "changenumber": 40626879,
+  "updated": "2026-11-06T21:03:44.198Z",
+  "branches": {
+    "public": {
+      "buildid": "20833804",
+      "timeupdated": "1763418587",
+      "timebuildupdated": "1763416116"
+    },
+    "nightly": {
+      "buildid": "26456817",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793878795",
+      "timebuildupdated": "1793878795"
+    }
+  },
+  "depot": {
+    "1227456": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "51506276677186108",
+          "size": "2270367",
+          "download": "769536"
+        }
+      },
+      "dlcappid": "1227456"
+    },
+    "1789980": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3351401781254965577",
+          "size": "1485767",
+          "download": "500448"
+        }
+      },
+      "dlcappid": "1227456"
+    },
+    "1789981": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2468785256669952807",
+          "size": "3464663",
+          "download": "1032704"
+        }
+      },
+      "dlcappid": "1227456"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833804",
+        "timeupdated": "1763418587",
+        "timebuildupdated": "1763416116"
+      },
+      "nightly": {
+        "buildid": "26456817",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793878795",
+        "timebuildupdated": "1793878795"
+      }
+    }
+  }
+}

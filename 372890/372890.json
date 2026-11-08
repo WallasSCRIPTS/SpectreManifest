@@ -1,0 +1,94 @@
+{
+  "name": "Red Crow Mysteries: Legion",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:16.463Z",
+  "branches": {
+    "public": {
+      "buildid": "23657954",
+      "timeupdated": "1781083431",
+      "timebuildupdated": "1781083382"
+    },
+    "temp_debug": {
+      "buildid": "11992844",
+      "description": "temp branch to test problems",
+      "timeupdated": "1692627043",
+      "timebuildupdated": "1692627043"
+    },
+    "previous_version": {
+      "buildid": "22656089",
+      "description": "Contains the previous version of the game, to be used in case the new update doesn't work well.",
+      "timeupdated": "1775406724",
+      "timebuildupdated": "1775406689"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "372891": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2928030335089527247",
+          "size": "232027681",
+          "download": "198306256"
+        }
+      }
+    },
+    "372892": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5149555606378015857",
+          "size": "236505901",
+          "download": "199580704"
+        }
+      }
+    },
+    "372898": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4673687804792770078",
+          "size": "244442905",
+          "download": "204966736"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23657954",
+        "timeupdated": "1781083431",
+        "timebuildupdated": "1781083382"
+      },
+      "temp_debug": {
+        "buildid": "11992844",
+        "description": "temp branch to test problems",
+        "timeupdated": "1692627043",
+        "timebuildupdated": "1692627043"
+      },
+      "previous_version": {
+        "buildid": "22656089",
+        "description": "Contains the previous version of the game, to be used in case the new update doesn't work well.",
+        "timeupdated": "1775406724",
+        "timebuildupdated": "1775406689"
+      }
+    }
+  }
+}

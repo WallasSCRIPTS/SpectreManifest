@@ -1,0 +1,70 @@
+{
+  "name": "Hack and Slime",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:09:45.778Z",
+  "branches": {
+    "public": {
+      "buildid": "10198432",
+      "timeupdated": "1671700392",
+      "timebuildupdated": "1671700392"
+    },
+    "beta": {
+      "buildid": "14500495",
+      "description": "Open Unity Beta",
+      "timeupdated": "1716748083",
+      "timebuildupdated": "1716748083"
+    }
+  },
+  "depot": {
+    "1773701": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5508738756870859281",
+          "size": "449818001",
+          "download": "193185280"
+        }
+      }
+    },
+    "1773702": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3089403204105919628",
+          "size": "349893839",
+          "download": "185479168"
+        }
+      }
+    },
+    "1773703": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "211300580721057634",
+          "size": "449818001",
+          "download": "193191616"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10198432",
+        "timeupdated": "1671700392",
+        "timebuildupdated": "1671700392"
+      },
+      "beta": {
+        "buildid": "14500495",
+        "description": "Open Unity Beta",
+        "timeupdated": "1716748083",
+        "timebuildupdated": "1716748083"
+      }
+    }
+  }
+}

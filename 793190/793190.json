@@ -1,0 +1,52 @@
+{
+  "name": "Daily OVR",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:44.752Z",
+  "branches": {
+    "public": {
+      "buildid": "4712627",
+      "timeupdated": "1583115967",
+      "timebuildupdated": "1582620132"
+    },
+    "beta": {
+      "buildid": "4554159",
+      "description": "External Testing",
+      "timeupdated": "1578645983",
+      "timebuildupdated": "1578563524"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "793191": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8943177591309881019",
+          "size": "991905292",
+          "download": "478765648"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4712627",
+        "timeupdated": "1583115967",
+        "timebuildupdated": "1582620132"
+      },
+      "beta": {
+        "buildid": "4554159",
+        "description": "External Testing",
+        "timeupdated": "1578645983",
+        "timebuildupdated": "1578563524"
+      }
+    }
+  }
+}

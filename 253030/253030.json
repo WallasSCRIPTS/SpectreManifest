@@ -1,0 +1,106 @@
+{
+  "name": "Race The Sun",
+  "source": "spectre",
+  "changenumber": 40278813,
+  "updated": "2026-11-07T20:56:13.295Z",
+  "branches": {
+    "public": {
+      "buildid": "26089865",
+      "timeupdated": "1792945353",
+      "timebuildupdated": "1792529183"
+    },
+    "old_stable": {
+      "buildid": "759512",
+      "timeupdated": "1487787337",
+      "timebuildupdated": "1441215329"
+    },
+    "1.51_stable_vr": {
+      "buildid": "1808508",
+      "description": "Version 1.51 from before October 2026 update",
+      "timeupdated": "1494297795",
+      "timebuildupdated": "1494297795"
+    },
+    "beta": {
+      "buildid": "26089865",
+      "timeupdated": "1792529183",
+      "timebuildupdated": "1792529183"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "253031": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2251545248554233713",
+          "size": "217608123",
+          "download": "61473200"
+        }
+      }
+    },
+    "253032": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6660067402385043832",
+          "size": "231826969",
+          "download": "68575872"
+        }
+      }
+    },
+    "253033": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3525515530543924157",
+          "size": "213147307",
+          "download": "57747712"
+        }
+      }
+    },
+    "378731": {
+      "manifests": {
+        "public": {
+          "gid": "9195102739094348968",
+          "size": "24",
+          "download": "80"
+        }
+      },
+      "dlcappid": "378731"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26089865",
+        "timeupdated": "1792945353",
+        "timebuildupdated": "1792529183"
+      },
+      "old_stable": {
+        "buildid": "759512",
+        "timeupdated": "1487787337",
+        "timebuildupdated": "1441215329"
+      },
+      "1.51_stable_vr": {
+        "buildid": "1808508",
+        "description": "Version 1.51 from before October 2026 update",
+        "timeupdated": "1494297795",
+        "timebuildupdated": "1494297795"
+      },
+      "beta": {
+        "buildid": "26089865",
+        "timeupdated": "1792529183",
+        "timebuildupdated": "1792529183"
+      }
+    }
+  }
+}

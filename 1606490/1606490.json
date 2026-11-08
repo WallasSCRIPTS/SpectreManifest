@@ -1,0 +1,52 @@
+{
+  "name": "Alive Cursor",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:06:33.616Z",
+  "branches": {
+    "public": {
+      "buildid": "15567368",
+      "timeupdated": "1725282786",
+      "timebuildupdated": "1725282726"
+    },
+    "obsolete": {
+      "buildid": "7318430",
+      "description": "This is the origin app without workshop supported.",
+      "timeupdated": "1660233909",
+      "timebuildupdated": "1631032052"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1606491": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8387172056486286838",
+          "size": "181123672",
+          "download": "60200960"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15567368",
+        "timeupdated": "1725282786",
+        "timebuildupdated": "1725282726"
+      },
+      "obsolete": {
+        "buildid": "7318430",
+        "description": "This is the origin app without workshop supported.",
+        "timeupdated": "1660233909",
+        "timebuildupdated": "1631032052"
+      }
+    }
+  }
+}

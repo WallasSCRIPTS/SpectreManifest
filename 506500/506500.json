@@ -1,0 +1,92 @@
+{
+  "name": "Party Panic",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:22.275Z",
+  "branches": {
+    "public": {
+      "buildid": "5814162",
+      "timeupdated": "1605095059",
+      "timebuildupdated": "1605082325"
+    },
+    "secret": {
+      "buildid": "5690459",
+      "description": "super secret stuff",
+      "timeupdated": "1603046500",
+      "timebuildupdated": "1602809066"
+    }
+  },
+  "depot": {
+    "506501": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6456087669737852170",
+          "size": "1322432902",
+          "download": "390942912"
+        }
+      }
+    },
+    "506502": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1902730832271558252",
+          "size": "1316640518",
+          "download": "389028176"
+        }
+      }
+    },
+    "506503": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8119106953488324712",
+          "size": "1336818266",
+          "download": "398906736"
+        }
+      }
+    },
+    "506504": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "703317357585580745",
+          "size": "1388517657",
+          "download": "420359328"
+        }
+      }
+    },
+    "696030": {
+      "manifests": {
+        "public": {
+          "gid": "6858866673680014268",
+          "size": "300739558",
+          "download": "202547824"
+        }
+      },
+      "dlcappid": "696030"
+    },
+    "branches": {
+      "public": {
+        "buildid": "5814162",
+        "timeupdated": "1605095059",
+        "timebuildupdated": "1605082325"
+      },
+      "secret": {
+        "buildid": "5690459",
+        "description": "super secret stuff",
+        "timeupdated": "1603046500",
+        "timebuildupdated": "1602809066"
+      }
+    }
+  }
+}

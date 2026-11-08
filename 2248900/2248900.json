@@ -1,0 +1,91 @@
+{
+  "name": "Master of Chess",
+  "source": "spectre",
+  "changenumber": 40168545,
+  "updated": "2026-11-06T23:21:20.912Z",
+  "branches": {
+    "public": {
+      "buildid": "24505950",
+      "timeupdated": "1787375650",
+      "timebuildupdated": "1785565342"
+    },
+    "0.6.x": {
+      "buildid": "15745991",
+      "description": "Old 0.6 branch",
+      "timeupdated": "1731747719",
+      "timebuildupdated": "1726681540"
+    },
+    "beta": {
+      "buildid": "26159830",
+      "description": "Branch to test new and unstable builds",
+      "timeupdated": "1792758311",
+      "timebuildupdated": "1792757679"
+    },
+    "debug": {
+      "buildid": "26109199",
+      "description": "For debugging crashes of players on discord. Use with caution.",
+      "timeupdated": "1792593913",
+      "timebuildupdated": "1792593463"
+    },
+    "mac_test": {
+      "buildid": "18792950",
+      "description": "Testing mac build",
+      "timeupdated": "1749464943",
+      "timebuildupdated": "1749464432"
+    }
+  },
+  "depot": {
+    "2248901": {
+      "manifests": {
+        "public": {
+          "gid": "3266337265394323420",
+          "size": "448102758",
+          "download": "263566384"
+        }
+      }
+    },
+    "2248902": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7430157040056595604",
+          "size": "773055684",
+          "download": "389717824"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24505950",
+        "timeupdated": "1787375650",
+        "timebuildupdated": "1785565342"
+      },
+      "0.6.x": {
+        "buildid": "15745991",
+        "description": "Old 0.6 branch",
+        "timeupdated": "1731747719",
+        "timebuildupdated": "1726681540"
+      },
+      "beta": {
+        "buildid": "26159830",
+        "description": "Branch to test new and unstable builds",
+        "timeupdated": "1792758311",
+        "timebuildupdated": "1792757679"
+      },
+      "debug": {
+        "buildid": "26109199",
+        "description": "For debugging crashes of players on discord. Use with caution.",
+        "timeupdated": "1792593913",
+        "timebuildupdated": "1792593463"
+      },
+      "mac_test": {
+        "buildid": "18792950",
+        "description": "Testing mac build",
+        "timeupdated": "1749464943",
+        "timebuildupdated": "1749464432"
+      }
+    }
+  }
+}

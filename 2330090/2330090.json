@@ -1,0 +1,70 @@
+{
+  "name": "SKIP",
+  "source": "spectre",
+  "changenumber": 34895812,
+  "updated": "2026-11-06T23:21:30.162Z",
+  "branches": {
+    "public": {
+      "buildid": "10820303",
+      "timeupdated": "1679407559",
+      "timebuildupdated": "1679407559"
+    },
+    "linux": {
+      "buildid": "10820303",
+      "description": "linux branch",
+      "timeupdated": "1679408017",
+      "timebuildupdated": "1679407559"
+    },
+    "shipping": {
+      "buildid": "10820303",
+      "description": "shipping branch",
+      "timeupdated": "1679408025",
+      "timebuildupdated": "1679407559"
+    }
+  },
+  "depot": {
+    "2330091": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8494490024542331287",
+          "size": "207627456",
+          "download": "116035744"
+        }
+      }
+    },
+    "2330092": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2678595249925852619",
+          "size": "211864337",
+          "download": "116626352"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10820303",
+        "timeupdated": "1679407559",
+        "timebuildupdated": "1679407559"
+      },
+      "linux": {
+        "buildid": "10820303",
+        "description": "linux branch",
+        "timeupdated": "1679408017",
+        "timebuildupdated": "1679407559"
+      },
+      "shipping": {
+        "buildid": "10820303",
+        "description": "shipping branch",
+        "timeupdated": "1679408025",
+        "timebuildupdated": "1679407559"
+      }
+    }
+  }
+}

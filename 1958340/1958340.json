@@ -1,0 +1,79 @@
+{
+  "name": "Cube Chaos",
+  "source": "spectre",
+  "changenumber": 40585018,
+  "updated": "2026-11-06T23:13:38.391Z",
+  "branches": {
+    "public": {
+      "buildid": "19809377",
+      "timeupdated": "1756976471",
+      "timebuildupdated": "1756715719"
+    },
+    "beta": {
+      "buildid": "21746047",
+      "description": "beta branch for public testing",
+      "timeupdated": "1770029197",
+      "timebuildupdated": "1770029084"
+    },
+    "oldversion_6.2": {
+      "buildid": "14019049",
+      "description": "Version 6.2.2",
+      "timeupdated": "1714627645",
+      "timebuildupdated": "1712818510"
+    }
+  },
+  "depot": {
+    "1958341": {
+      "manifests": {
+        "public": {
+          "gid": "8114067752900083605",
+          "size": "20728264",
+          "download": "13648656"
+        }
+      }
+    },
+    "1958342": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6622023141311857908",
+          "size": "359470275",
+          "download": "188324272"
+        }
+      }
+    },
+    "1958343": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4789379329834288049",
+          "size": "99140581",
+          "download": "30156048"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19809377",
+        "timeupdated": "1756976471",
+        "timebuildupdated": "1756715719"
+      },
+      "beta": {
+        "buildid": "21746047",
+        "description": "beta branch for public testing",
+        "timeupdated": "1770029197",
+        "timebuildupdated": "1770029084"
+      },
+      "oldversion_6.2": {
+        "buildid": "14019049",
+        "description": "Version 6.2.2",
+        "timeupdated": "1714627645",
+        "timebuildupdated": "1712818510"
+      }
+    }
+  }
+}

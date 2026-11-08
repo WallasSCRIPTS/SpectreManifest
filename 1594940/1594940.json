@@ -1,0 +1,60 @@
+{
+  "name": "Little Witch in the Woods",
+  "source": "spectre",
+  "changenumber": 40625231,
+  "updated": "2026-11-06T21:06:27.986Z",
+  "branches": {
+    "public": {
+      "buildid": "26288815",
+      "timeupdated": "1793254539",
+      "timebuildupdated": "1793247760"
+    },
+    "local": {
+      "buildid": "6487698",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1617523809",
+      "timebuildupdated": "1617523809"
+    }
+  },
+  "depot": {
+    "1594941": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2056328882951924936",
+          "size": "3825597825",
+          "download": "514308208"
+        }
+      }
+    },
+    "1594942": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4000487439924731607",
+          "size": "3848840913",
+          "download": "522461344"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26288815",
+        "timeupdated": "1793254539",
+        "timebuildupdated": "1793247760"
+      },
+      "local": {
+        "buildid": "6487698",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1617523809",
+        "timebuildupdated": "1617523809"
+      }
+    }
+  }
+}

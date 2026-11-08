@@ -1,0 +1,63 @@
+{
+  "name": "Voipas",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T21:02:37.265Z",
+  "branches": {
+    "2023": {
+      "buildid": "11861886",
+      "description": "v0.94",
+      "timeupdated": "1691100582",
+      "timebuildupdated": "1691100582"
+    },
+    "public": {
+      "buildid": "3971357",
+      "timeupdated": "1562325788",
+      "timebuildupdated": "1562001552"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1029751": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4803880627887906860",
+          "size": "706926080",
+          "download": "531130464"
+        }
+      }
+    },
+    "1029752": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "2023": {
+        "buildid": "11861886",
+        "description": "v0.94",
+        "timeupdated": "1691100582",
+        "timebuildupdated": "1691100582"
+      },
+      "public": {
+        "buildid": "3971357",
+        "timeupdated": "1562325788",
+        "timebuildupdated": "1562001552"
+      }
+    }
+  }
+}

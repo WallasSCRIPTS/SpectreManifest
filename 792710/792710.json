@@ -1,0 +1,76 @@
+{
+  "name": "Levelhead",
+  "source": "spectre",
+  "changenumber": 40485785,
+  "updated": "2026-11-07T21:00:44.513Z",
+  "branches": {
+    "public": {
+      "buildid": "25786751",
+      "timeupdated": "1791487366",
+      "timebuildupdated": "1791402422"
+    },
+    "beta": {
+      "buildid": "22673475",
+      "description": "Beta - For public testing",
+      "timeupdated": "1783364510",
+      "timebuildupdated": "1775539037"
+    },
+    "legacy": {
+      "buildid": "20531258",
+      "description": "For legacy compatibility build",
+      "timeupdated": "1765250187",
+      "timebuildupdated": "1761319431"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "792711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1093417804277334718",
+          "size": "474754497",
+          "download": "439183744"
+        }
+      }
+    },
+    "792712": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3068310275830942852",
+          "size": "238616421",
+          "download": "170775888"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25786751",
+        "timeupdated": "1791487366",
+        "timebuildupdated": "1791402422"
+      },
+      "beta": {
+        "buildid": "22673475",
+        "description": "Beta - For public testing",
+        "timeupdated": "1783364510",
+        "timebuildupdated": "1775539037"
+      },
+      "legacy": {
+        "buildid": "20531258",
+        "description": "For legacy compatibility build",
+        "timeupdated": "1765250187",
+        "timebuildupdated": "1761319431"
+      }
+    }
+  }
+}

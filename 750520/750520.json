@@ -1,0 +1,102 @@
+{
+  "name": "Arcade Tycoon",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:23.844Z",
+  "branches": {
+    "public": {
+      "buildid": "13498832",
+      "timeupdated": "1708361255",
+      "timebuildupdated": "1708359359"
+    },
+    "0.6.1_version": {
+      "buildid": "4920883",
+      "timeupdated": "1593097451",
+      "timebuildupdated": "1587407220"
+    },
+    "1.1_version": {
+      "buildid": "9229326",
+      "description": "Use this version to re-visit your old Arcades.",
+      "timeupdated": "1706187589",
+      "timebuildupdated": "1659355797"
+    },
+    "test": {
+      "buildid": "13498832",
+      "description": "test branch",
+      "timeupdated": "1708361228",
+      "timebuildupdated": "1708359359"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "750521": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3904820944487507517",
+          "size": "1508572057",
+          "download": "336778592"
+        }
+      }
+    },
+    "750522": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5678662493817332162",
+          "size": "3047957454",
+          "download": "550047408"
+        }
+      }
+    },
+    "1152530": {
+      "manifests": {
+        "public": {
+          "gid": "7747523266215144965",
+          "size": "22161731",
+          "download": "20647744"
+        }
+      },
+      "dlcappid": "1152530"
+    },
+    "branches": {
+      "public": {
+        "buildid": "13498832",
+        "timeupdated": "1708361255",
+        "timebuildupdated": "1708359359"
+      },
+      "0.6.1_version": {
+        "buildid": "4920883",
+        "timeupdated": "1593097451",
+        "timebuildupdated": "1587407220"
+      },
+      "1.1_version": {
+        "buildid": "9229326",
+        "description": "Use this version to re-visit your old Arcades.",
+        "timeupdated": "1706187589",
+        "timebuildupdated": "1659355797"
+      },
+      "test": {
+        "buildid": "13498832",
+        "description": "test branch",
+        "timeupdated": "1708361228",
+        "timebuildupdated": "1708359359"
+      }
+    }
+  }
+}

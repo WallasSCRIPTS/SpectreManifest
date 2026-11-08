@@ -1,0 +1,111 @@
+{
+  "name": "Arizona Sunshine® VR Legacy",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:51.714Z",
+  "branches": {
+    "public": {
+      "buildid": "20222460",
+      "timeupdated": "1759759339",
+      "timebuildupdated": "1759407887"
+    },
+    "arizonasunshine_1_5": {
+      "buildid": "2835657",
+      "description": "Arizona Sunshine 1.5",
+      "timeupdated": "1561740409",
+      "timebuildupdated": "1528214036"
+    },
+    "local": {
+      "buildid": "1764650",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1492512345",
+      "timebuildupdated": "1492512345"
+    },
+    "trailerpark_beta": {
+      "buildid": "5953901",
+      "description": "Trailerpark Beta",
+      "timeupdated": "1607934897",
+      "timebuildupdated": "1607676046"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "342181": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3113538955196687965",
+          "size": "28365611042",
+          "download": "10593326448"
+        }
+      }
+    },
+    "565280": {
+      "manifests": {
+        "public": {
+          "gid": "3856735411651793654",
+          "size": "85495410",
+          "download": "85030176"
+        }
+      },
+      "dlcappid": "565280"
+    },
+    "565800": {
+      "manifests": {
+        "public": {
+          "gid": "1221399775356859229",
+          "size": "146394",
+          "download": "107680"
+        }
+      },
+      "dlcappid": "565800"
+    },
+    "571770": {
+      "manifests": {
+        "public": {
+          "gid": "5567842706811517739",
+          "size": "16191038",
+          "download": "15529584"
+        }
+      },
+      "dlcappid": "571770"
+    },
+    "850210": {
+      "dlcappid": "850210"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20222460",
+        "timeupdated": "1759759339",
+        "timebuildupdated": "1759407887"
+      },
+      "arizonasunshine_1_5": {
+        "buildid": "2835657",
+        "description": "Arizona Sunshine 1.5",
+        "timeupdated": "1561740409",
+        "timebuildupdated": "1528214036"
+      },
+      "local": {
+        "buildid": "1764650",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1492512345",
+        "timebuildupdated": "1492512345"
+      },
+      "trailerpark_beta": {
+        "buildid": "5953901",
+        "description": "Trailerpark Beta",
+        "timeupdated": "1607934897",
+        "timebuildupdated": "1607676046"
+      }
+    }
+  }
+}

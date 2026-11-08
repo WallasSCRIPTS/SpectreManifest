@@ -1,0 +1,82 @@
+{
+  "name": "The Darkside Detective",
+  "source": "spectre",
+  "changenumber": 39428632,
+  "updated": "2026-11-07T20:57:13.382Z",
+  "branches": {
+    "public": {
+      "buildid": "15034922",
+      "timeupdated": "1721665443",
+      "timebuildupdated": "1721038537"
+    },
+    "public_debug": {
+      "buildid": "6840568",
+      "description": "A beta branch, a place to do some debugging with the public",
+      "timeupdated": "1623251611",
+      "timebuildupdated": "1623251611"
+    },
+    "public_migration_beta": {
+      "buildid": "12595018",
+      "description": "A beta branch for updated migration regression testing",
+      "timeupdated": "1698934282",
+      "timebuildupdated": "1698867359"
+    }
+  },
+  "depot": {
+    "368392": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "736031949218673941",
+          "size": "1062549662",
+          "download": "139821936"
+        }
+      }
+    },
+    "368393": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2003302996538529464",
+          "size": "1123966021",
+          "download": "154346656"
+        }
+      }
+    },
+    "368394": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3126971206785007103",
+          "size": "1099823673",
+          "download": "139450080"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15034922",
+        "timeupdated": "1721665443",
+        "timebuildupdated": "1721038537"
+      },
+      "public_debug": {
+        "buildid": "6840568",
+        "description": "A beta branch, a place to do some debugging with the public",
+        "timeupdated": "1623251611",
+        "timebuildupdated": "1623251611"
+      },
+      "public_migration_beta": {
+        "buildid": "12595018",
+        "description": "A beta branch for updated migration regression testing",
+        "timeupdated": "1698934282",
+        "timebuildupdated": "1698867359"
+      }
+    }
+  }
+}

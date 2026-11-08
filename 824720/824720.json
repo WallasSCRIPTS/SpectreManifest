@@ -1,0 +1,76 @@
+{
+  "name": "Pure Rock Crawling",
+  "source": "spectre",
+  "changenumber": 37437721,
+  "updated": "2026-11-07T21:00:59.209Z",
+  "branches": {
+    "public": {
+      "buildid": "16975281",
+      "timeupdated": "1736617563",
+      "timebuildupdated": "1736611737"
+    },
+    "multiplayer-beta": {
+      "buildid": "13067714",
+      "description": "multiplayer",
+      "timeupdated": "1710544939",
+      "timebuildupdated": "1703977917"
+    },
+    "win7_build": {
+      "buildid": "6926363",
+      "description": "LowLevelFatalError [File:Unknown][Line: 258] workaround",
+      "timeupdated": "1661939766",
+      "timebuildupdated": "1624533998"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229000": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "824721": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2814703557832926152",
+          "size": "6300278007",
+          "download": "6119326368"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16975281",
+        "timeupdated": "1736617563",
+        "timebuildupdated": "1736611737"
+      },
+      "multiplayer-beta": {
+        "buildid": "13067714",
+        "description": "multiplayer",
+        "timeupdated": "1710544939",
+        "timebuildupdated": "1703977917"
+      },
+      "win7_build": {
+        "buildid": "6926363",
+        "description": "LowLevelFatalError [File:Unknown][Line: 258] workaround",
+        "timeupdated": "1661939766",
+        "timebuildupdated": "1624533998"
+      }
+    }
+  }
+}

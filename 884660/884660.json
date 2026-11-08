@@ -1,0 +1,63 @@
+{
+  "name": "CRSED: Cuisine Royale",
+  "source": "spectre",
+  "changenumber": 40617006,
+  "updated": "2026-11-07T21:01:26.147Z",
+  "branches": {
+    "public": {
+      "buildid": "23548344",
+      "timeupdated": "1780498061",
+      "timebuildupdated": "1780498061"
+    },
+    "release_candidate": {
+      "buildid": "22989503",
+      "description": "release candidate builds",
+      "timeupdated": "1777366517",
+      "timebuildupdated": "1777366517"
+    }
+  },
+  "depot": {
+    "884661": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9047423087351183243",
+          "size": "13192867458",
+          "download": "12172522112"
+        }
+      }
+    },
+    "884662": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "884663": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7230322171223258600",
+          "size": "247912389",
+          "download": "51702000"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23548344",
+        "timeupdated": "1780498061",
+        "timebuildupdated": "1780498061"
+      },
+      "release_candidate": {
+        "buildid": "22989503",
+        "description": "release candidate builds",
+        "timeupdated": "1777366517",
+        "timebuildupdated": "1777366517"
+      }
+    }
+  }
+}

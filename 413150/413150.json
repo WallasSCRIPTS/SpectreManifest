@@ -1,0 +1,118 @@
+{
+  "name": "Stardew Valley",
+  "source": "spectre",
+  "changenumber": 40688274,
+  "updated": "2026-11-07T20:57:38.582Z",
+  "branches": {
+    "public": {
+      "buildid": "16826371",
+      "timeupdated": "1734826775",
+      "timebuildupdated": "1734825749"
+    },
+    "legacy_1.5.6": {
+      "buildid": "8043676",
+      "description": "The legacy 1.5.6 version of Stardew Valley.",
+      "timeupdated": "1710783857",
+      "timebuildupdated": "1642546124"
+    },
+    "compatibility": {
+      "buildid": "16826373",
+      "description": "For 32-bit systems. The legacy XNA version of Stardew Valley.",
+      "timeupdated": "1734826711",
+      "timebuildupdated": "1734825776"
+    },
+    "legacy_1.6.8": {
+      "buildid": "14198583",
+      "description": "The legacy 1.6.8 version of Stardew Valley",
+      "timeupdated": "1730756892",
+      "timebuildupdated": "1714275659"
+    },
+    "previous_version": {
+      "buildid": "16375315",
+      "description": "The previous version of Stardew Valley (currently 1.6.14)",
+      "timeupdated": "1734717642",
+      "timebuildupdated": "1731398565"
+    }
+  },
+  "depot": {
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "413151": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4278718763097142923",
+          "size": "691846347",
+          "download": "453699840"
+        }
+      }
+    },
+    "413152": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2618652301291810021",
+          "size": "711467377",
+          "download": "456794576"
+        }
+      }
+    },
+    "413153": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6005910083361727734",
+          "size": "708901690",
+          "download": "457681328"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16826371",
+        "timeupdated": "1734826775",
+        "timebuildupdated": "1734825749"
+      },
+      "legacy_1.5.6": {
+        "buildid": "8043676",
+        "description": "The legacy 1.5.6 version of Stardew Valley.",
+        "timeupdated": "1710783857",
+        "timebuildupdated": "1642546124"
+      },
+      "compatibility": {
+        "buildid": "16826373",
+        "description": "For 32-bit systems. The legacy XNA version of Stardew Valley.",
+        "timeupdated": "1734826711",
+        "timebuildupdated": "1734825776"
+      },
+      "legacy_1.6.8": {
+        "buildid": "14198583",
+        "description": "The legacy 1.6.8 version of Stardew Valley",
+        "timeupdated": "1730756892",
+        "timebuildupdated": "1714275659"
+      },
+      "previous_version": {
+        "buildid": "16375315",
+        "description": "The previous version of Stardew Valley (currently 1.6.14)",
+        "timeupdated": "1734717642",
+        "timebuildupdated": "1731398565"
+      }
+    }
+  }
+}

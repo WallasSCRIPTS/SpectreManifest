@@ -1,0 +1,203 @@
+{
+  "name": "Black Mesa",
+  "source": "spectre",
+  "changenumber": 40697972,
+  "updated": "2026-11-07T20:57:09.703Z",
+  "branches": {
+    "public": {
+      "buildid": "19042901",
+      "timeupdated": "1751404593",
+      "timebuildupdated": "1751209885"
+    },
+    "black-mesa-1-0": {
+      "buildid": "4815922",
+      "description": "The March 1.0 release of the game",
+      "timeupdated": "1603678682",
+      "timebuildupdated": "1585097452"
+    },
+    "black-mesa-definitive-edition": {
+      "buildid": "7336708",
+      "description": "Last update to DE in 2021",
+      "timeupdated": "1711492788",
+      "timebuildupdated": "1631267039"
+    },
+    "crossfire-update(cu2)": {
+      "buildid": "945122",
+      "description": "Rollback to Crossfire Update",
+      "timeupdated": "1463234012",
+      "timebuildupdated": "1453680073"
+    },
+    "halloween-update(cu4)": {
+      "buildid": "2010045",
+      "description": "Rollback to Halloween Update",
+      "timeupdated": "1514051833",
+      "timebuildupdated": "1501781077"
+    },
+    "surface-tension-update(cu3)": {
+      "buildid": "1419569",
+      "timeupdated": "1477602760",
+      "timebuildupdated": "1477602760"
+    },
+    "xengine(cu5)": {
+      "buildid": "3404616",
+      "timeupdated": "1558487159",
+      "timebuildupdated": "1545045961"
+    },
+    "zero-point-nine": {
+      "buildid": "4522431",
+      "description": "Xen 0.9",
+      "timeupdated": "1629766893",
+      "timebuildupdated": "1577121165"
+    },
+    "april-2024-rollback": {
+      "buildid": "14113817",
+      "description": "Roll back before reimplementation of DXVK",
+      "timeupdated": "1731521234",
+      "timebuildupdated": "1713554751"
+    },
+    "public-beta": {
+      "buildid": "26234270",
+      "description": "This branch is for our public beta.",
+      "timeupdated": "1793071975",
+      "timebuildupdated": "1793071768"
+    },
+    "sept-2026-rollback": {
+      "buildid": "19042901",
+      "description": "Rollback to Sept 2026",
+      "timeupdated": "1751404593",
+      "timebuildupdated": "1751209885"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "362891": {
+      "manifests": {
+        "public": {
+          "gid": "3745641804950828055",
+          "size": "29470113480",
+          "download": "12923134976"
+        }
+      }
+    },
+    "362892": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4588672532934012726",
+          "size": "385985588",
+          "download": "72618400"
+        }
+      }
+    },
+    "362893": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "362894": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8196368488078724424",
+          "size": "219258341",
+          "download": "71857536"
+        }
+      }
+    },
+    "362895": {
+      "manifests": {
+        "public": {
+          "gid": "5909980735403050706",
+          "size": "912781603",
+          "download": "684455136"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19042901",
+        "timeupdated": "1751404593",
+        "timebuildupdated": "1751209885"
+      },
+      "black-mesa-1-0": {
+        "buildid": "4815922",
+        "description": "The March 1.0 release of the game",
+        "timeupdated": "1603678682",
+        "timebuildupdated": "1585097452"
+      },
+      "black-mesa-definitive-edition": {
+        "buildid": "7336708",
+        "description": "Last update to DE in 2021",
+        "timeupdated": "1711492788",
+        "timebuildupdated": "1631267039"
+      },
+      "crossfire-update(cu2)": {
+        "buildid": "945122",
+        "description": "Rollback to Crossfire Update",
+        "timeupdated": "1463234012",
+        "timebuildupdated": "1453680073"
+      },
+      "halloween-update(cu4)": {
+        "buildid": "2010045",
+        "description": "Rollback to Halloween Update",
+        "timeupdated": "1514051833",
+        "timebuildupdated": "1501781077"
+      },
+      "surface-tension-update(cu3)": {
+        "buildid": "1419569",
+        "timeupdated": "1477602760",
+        "timebuildupdated": "1477602760"
+      },
+      "xengine(cu5)": {
+        "buildid": "3404616",
+        "timeupdated": "1558487159",
+        "timebuildupdated": "1545045961"
+      },
+      "zero-point-nine": {
+        "buildid": "4522431",
+        "description": "Xen 0.9",
+        "timeupdated": "1629766893",
+        "timebuildupdated": "1577121165"
+      },
+      "april-2024-rollback": {
+        "buildid": "14113817",
+        "description": "Roll back before reimplementation of DXVK",
+        "timeupdated": "1731521234",
+        "timebuildupdated": "1713554751"
+      },
+      "public-beta": {
+        "buildid": "26234270",
+        "description": "This branch is for our public beta.",
+        "timeupdated": "1793071975",
+        "timebuildupdated": "1793071768"
+      },
+      "sept-2026-rollback": {
+        "buildid": "19042901",
+        "description": "Rollback to Sept 2026",
+        "timeupdated": "1751404593",
+        "timebuildupdated": "1751209885"
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Marble Mage",
+  "source": "spectre",
+  "changenumber": 39462503,
+  "updated": "2026-11-06T23:09:39.513Z",
+  "branches": {
+    "public": {
+      "buildid": "7443783",
+      "timeupdated": "1634410039",
+      "timebuildupdated": "1632901631"
+    },
+    "publicbeta": {
+      "buildid": "7443783",
+      "description": "Testing for experimental updates",
+      "timeupdated": "1632901631",
+      "timebuildupdated": "1632901631"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1726591": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2700651776158150722",
+          "size": "394280058",
+          "download": "209086288"
+        }
+      }
+    },
+    "1726592": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5294146408634320929",
+          "size": "386799394",
+          "download": "206722416"
+        }
+      }
+    },
+    "1726593": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3833110387633434943",
+          "size": "406490526",
+          "download": "211157776"
+        }
+      }
+    },
+    "1726594": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1450036250053624234",
+          "size": "396354552",
+          "download": "209763120"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7443783",
+        "timeupdated": "1634410039",
+        "timebuildupdated": "1632901631"
+      },
+      "publicbeta": {
+        "buildid": "7443783",
+        "description": "Testing for experimental updates",
+        "timeupdated": "1632901631",
+        "timebuildupdated": "1632901631"
+      }
+    }
+  }
+}

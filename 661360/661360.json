@@ -1,0 +1,68 @@
+{
+  "name": "Glitchbuster",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:59:35.955Z",
+  "branches": {
+    "public": {
+      "buildid": "2302904",
+      "timeupdated": "1511242754",
+      "timebuildupdated": "1511242754"
+    },
+    "testing": {
+      "buildid": "2181270",
+      "timeupdated": "1507435278",
+      "timebuildupdated": "1507435278"
+    }
+  },
+  "depot": {
+    "661361": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5711653160551795812",
+          "size": "200917113",
+          "download": "73047200"
+        }
+      }
+    },
+    "661362": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5315547988981628686",
+          "size": "203709827",
+          "download": "74995392"
+        }
+      }
+    },
+    "661363": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8401153980407350662",
+          "size": "179661984",
+          "download": "73652080"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2302904",
+        "timeupdated": "1511242754",
+        "timebuildupdated": "1511242754"
+      },
+      "testing": {
+        "buildid": "2181270",
+        "timeupdated": "1507435278",
+        "timebuildupdated": "1507435278"
+      }
+    }
+  }
+}

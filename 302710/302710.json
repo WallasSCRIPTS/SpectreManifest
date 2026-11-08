@@ -1,0 +1,108 @@
+{
+  "name": "BlazeRush",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:31.831Z",
+  "branches": {
+    "public": {
+      "buildid": "20675013",
+      "timeupdated": "1762335855",
+      "timebuildupdated": "1762323861"
+    },
+    "local": {
+      "buildid": "14037820",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1712943217",
+      "timebuildupdated": "1712943217"
+    },
+    "vanilla": {
+      "buildid": "824539",
+      "description": "Original version of a game.",
+      "timeupdated": "1721381132",
+      "timebuildupdated": "1445421863"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "302711": {
+      "manifests": {
+        "public": {
+          "gid": "1554914676855215084",
+          "size": "892739839",
+          "download": "776001280"
+        }
+      }
+    },
+    "302712": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4291940337655001636",
+          "size": "891997166",
+          "download": "773075328"
+        }
+      }
+    },
+    "302713": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6373553222880318782",
+          "size": "12663205",
+          "download": "4476704"
+        }
+      }
+    },
+    "302714": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4145326063380582481",
+          "size": "12416717",
+          "download": "4939904"
+        }
+      }
+    },
+    "2934580": {
+      "dlcappid": "2934580"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20675013",
+        "timeupdated": "1762335855",
+        "timebuildupdated": "1762323861"
+      },
+      "local": {
+        "buildid": "14037820",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1712943217",
+        "timebuildupdated": "1712943217"
+      },
+      "vanilla": {
+        "buildid": "824539",
+        "description": "Original version of a game.",
+        "timeupdated": "1721381132",
+        "timebuildupdated": "1445421863"
+      }
+    }
+  }
+}

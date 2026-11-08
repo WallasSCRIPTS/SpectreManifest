@@ -1,0 +1,119 @@
+{
+  "name": "Escape Goat 2",
+  "source": "spectre",
+  "changenumber": 39356407,
+  "updated": "2026-11-07T20:56:14.091Z",
+  "branches": {
+    "public": {
+      "buildid": "10996569",
+      "timeupdated": "1681405185",
+      "timebuildupdated": "1681405144"
+    },
+    "beta": {
+      "buildid": "597281",
+      "description": "Beta Testing Branch",
+      "timebuildupdated": "1429653824"
+    },
+    "fna-win32": {
+      "buildid": "10996582",
+      "description": "FNA for Windows - Unsupported!",
+      "timeupdated": "1681405225",
+      "timebuildupdated": "1681405194"
+    },
+    "linux32": {
+      "buildid": "1303638",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609452850",
+      "timebuildupdated": "1472321382"
+    },
+    "sdl3": {
+      "buildid": "25423091",
+      "description": "Linux AArch64 Testing, UNSTABLE",
+      "timeupdated": "1789925139",
+      "timebuildupdated": "1789925139"
+    }
+  },
+  "depot": {
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "255341": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6168351774836885789",
+          "size": "221521197",
+          "download": "106996064"
+        }
+      }
+    },
+    "255342": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6642426073476432636",
+          "size": "245851899",
+          "download": "113855616"
+        }
+      }
+    },
+    "255343": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2589496015956249847",
+          "size": "259965727",
+          "download": "116891520"
+        }
+      }
+    },
+    "255344": {
+      "manifests": {
+        "public": {
+          "gid": "950662072882821004",
+          "size": "4404",
+          "download": "1488"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10996569",
+        "timeupdated": "1681405185",
+        "timebuildupdated": "1681405144"
+      },
+      "beta": {
+        "buildid": "597281",
+        "description": "Beta Testing Branch",
+        "timebuildupdated": "1429653824"
+      },
+      "fna-win32": {
+        "buildid": "10996582",
+        "description": "FNA for Windows - Unsupported!",
+        "timeupdated": "1681405225",
+        "timebuildupdated": "1681405194"
+      },
+      "linux32": {
+        "buildid": "1303638",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609452850",
+        "timebuildupdated": "1472321382"
+      },
+      "sdl3": {
+        "buildid": "25423091",
+        "description": "Linux AArch64 Testing, UNSTABLE",
+        "timeupdated": "1789925139",
+        "timebuildupdated": "1789925139"
+      }
+    }
+  }
+}

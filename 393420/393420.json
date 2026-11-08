@@ -1,0 +1,103 @@
+{
+  "name": "Hurtworld",
+  "source": "spectre",
+  "changenumber": 37434570,
+  "updated": "2026-11-07T20:57:29.694Z",
+  "branches": {
+    "public": {
+      "buildid": "10796695",
+      "timeupdated": "1679072278",
+      "timebuildupdated": "1679072177"
+    },
+    "devtest": {
+      "buildid": "10796695",
+      "description": "Dev only test branch",
+      "timeupdated": "1679072294",
+      "timebuildupdated": "1679072177"
+    },
+    "oldversion": {
+      "buildid": "4710831",
+      "description": "The previous protocol version before for slow to update servers",
+      "timeupdated": "1679068820",
+      "timebuildupdated": "1582577237"
+    }
+  },
+  "depot": {
+    "393421": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1384002874314769666",
+          "size": "1306983790",
+          "download": "615235120"
+        }
+      }
+    },
+    "393422": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "720214503351041440",
+          "size": "1028517284",
+          "download": "535514720"
+        }
+      }
+    },
+    "393423": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1866934642305261145",
+          "size": "1489181522",
+          "download": "651365248"
+        }
+      }
+    },
+    "393424": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "442009312388249176",
+          "size": "14336",
+          "download": "3920"
+        }
+      }
+    },
+    "393425": {
+      "manifests": {
+        "public": {
+          "gid": "2957262058801283718",
+          "size": "3487640511",
+          "download": "1034606000"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10796695",
+        "timeupdated": "1679072278",
+        "timebuildupdated": "1679072177"
+      },
+      "devtest": {
+        "buildid": "10796695",
+        "description": "Dev only test branch",
+        "timeupdated": "1679072294",
+        "timebuildupdated": "1679072177"
+      },
+      "oldversion": {
+        "buildid": "4710831",
+        "description": "The previous protocol version before for slow to update servers",
+        "timeupdated": "1679068820",
+        "timebuildupdated": "1582577237"
+      }
+    }
+  }
+}

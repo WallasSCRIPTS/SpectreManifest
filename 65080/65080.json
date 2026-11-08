@@ -1,0 +1,82 @@
+{
+  "name": "Kaptain Brawe: A Brawe New World",
+  "source": "spectre",
+  "changenumber": 40198918,
+  "updated": "2026-11-07T20:55:57.284Z",
+  "branches": {
+    "public": {
+      "buildid": "25987217",
+      "timeupdated": "1792155504",
+      "timebuildupdated": "1792155271"
+    },
+    "previous_version": {
+      "buildid": "24549222",
+      "description": " Contains the previous version of the game, to be used in case the new update doesn't work well.",
+      "timeupdated": "1785840102",
+      "timebuildupdated": "1785836898"
+    }
+  },
+  "depot": {
+    "65081": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2200319602122120088",
+          "size": "741698907",
+          "download": "691291616"
+        }
+      }
+    },
+    "65082": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5424477758578390192",
+          "size": "757201357",
+          "download": "698099968"
+        }
+      }
+    },
+    "65083": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7043197540603858602",
+          "size": "659865241",
+          "download": "611434192"
+        }
+      }
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25987217",
+        "timeupdated": "1792155504",
+        "timebuildupdated": "1792155271"
+      },
+      "previous_version": {
+        "buildid": "24549222",
+        "description": " Contains the previous version of the game, to be used in case the new update doesn't work well.",
+        "timeupdated": "1785840102",
+        "timebuildupdated": "1785836898"
+      }
+    }
+  }
+}

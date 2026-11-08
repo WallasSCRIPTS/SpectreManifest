@@ -1,0 +1,94 @@
+{
+  "name": "Open Sorcery: Sea++",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:16.977Z",
+  "branches": {
+    "public": {
+      "buildid": "14693333",
+      "timeupdated": "1718204224",
+      "timebuildupdated": "1718203890"
+    },
+    "mac_archive": {
+      "buildid": "8411652",
+      "description": "Old version of mac executable--use this to retrieve missing save files.",
+      "timeupdated": "1718720687",
+      "timebuildupdated": "1647889616"
+    },
+    "testing": {
+      "buildid": "8411652",
+      "description": "New features that need testing.",
+      "timeupdated": "1718662077",
+      "timebuildupdated": "1647889616"
+    }
+  },
+  "depot": {
+    "737051": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3952405121508333615",
+          "size": "606524248",
+          "download": "403443920"
+        }
+      }
+    },
+    "737052": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7543533760226886375",
+          "size": "582609442",
+          "download": "400627472"
+        }
+      }
+    },
+    "737053": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8863215871802749145",
+          "size": "846204254",
+          "download": "476430880"
+        }
+      }
+    },
+    "737054": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7985811974214521671",
+          "size": "624670282",
+          "download": "401474192"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14693333",
+        "timeupdated": "1718204224",
+        "timebuildupdated": "1718203890"
+      },
+      "mac_archive": {
+        "buildid": "8411652",
+        "description": "Old version of mac executable--use this to retrieve missing save files.",
+        "timeupdated": "1718720687",
+        "timebuildupdated": "1647889616"
+      },
+      "testing": {
+        "buildid": "8411652",
+        "description": "New features that need testing.",
+        "timeupdated": "1718662077",
+        "timebuildupdated": "1647889616"
+      }
+    }
+  }
+}

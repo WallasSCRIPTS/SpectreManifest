@@ -1,0 +1,135 @@
+{
+  "name": "SpellForce 3 Reforced",
+  "source": "spectre",
+  "changenumber": 40528107,
+  "updated": "2026-11-07T20:56:35.094Z",
+  "branches": {
+    "public": {
+      "buildid": "9689656",
+      "timeupdated": "1665744785",
+      "timebuildupdated": "1665402973"
+    },
+    "legacy": {
+      "buildid": "7812279",
+      "description": "LegacySF3",
+      "timeupdated": "1638404176",
+      "timebuildupdated": "1638404176"
+    },
+    "publictest": {
+      "buildid": "9689656",
+      "description": "Public Test Branch",
+      "timeupdated": "1665744855",
+      "timebuildupdated": "1665402973"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "311291": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7504241752600512927",
+          "size": "15343539683",
+          "download": "10460281200"
+        }
+      }
+    },
+    "311292": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7030536381536015192",
+          "size": "1862400290",
+          "download": "1470061936"
+        }
+      }
+    },
+    "311295": {
+      "manifests": {
+        "public": {
+          "gid": "2470451464423603980",
+          "size": "15506329",
+          "download": "2991456"
+        }
+      }
+    },
+    "732890": {
+      "manifests": {
+        "public": {
+          "gid": "5525720260728993690",
+          "size": "1165162850",
+          "download": "1159854192"
+        }
+      },
+      "dlcappid": "732890"
+    },
+    "795000": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6595457659728613766",
+          "size": "614893569",
+          "download": "176245920"
+        }
+      },
+      "dlcappid": "795000"
+    },
+    "1416261": {
+      "depotfromapp": "1416260"
+    },
+    "1416262": {
+      "depotfromapp": "1416260"
+    },
+    "1416264": {
+      "depotfromapp": "1416260"
+    },
+    "branches": {
+      "public": {
+        "buildid": "9689656",
+        "timeupdated": "1665744785",
+        "timebuildupdated": "1665402973"
+      },
+      "legacy": {
+        "buildid": "7812279",
+        "description": "LegacySF3",
+        "timeupdated": "1638404176",
+        "timebuildupdated": "1638404176"
+      },
+      "publictest": {
+        "buildid": "9689656",
+        "description": "Public Test Branch",
+        "timeupdated": "1665744855",
+        "timebuildupdated": "1665402973"
+      }
+    }
+  }
+}

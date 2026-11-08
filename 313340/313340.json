@@ -1,0 +1,70 @@
+{
+  "name": "Mountain",
+  "source": "spectre",
+  "changenumber": 40273728,
+  "updated": "2026-11-07T20:56:36.320Z",
+  "branches": {
+    "public": {
+      "buildid": "26228066",
+      "timeupdated": "1793049428",
+      "timebuildupdated": "1793049369"
+    },
+    "legacy-2.0.1": {
+      "buildid": "3395036",
+      "description": "The 2018 version, for older computers",
+      "timeupdated": "1544728092",
+      "timebuildupdated": "1544726680"
+    }
+  },
+  "depot": {
+    "313341": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5549757316925115930",
+          "size": "242214028",
+          "download": "131546592"
+        }
+      }
+    },
+    "313342": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6166860423836515613",
+          "size": "223124094",
+          "download": "124674240"
+        }
+      }
+    },
+    "313343": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2485818964535891865",
+          "size": "236609837",
+          "download": "128277344"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26228066",
+        "timeupdated": "1793049428",
+        "timebuildupdated": "1793049369"
+      },
+      "legacy-2.0.1": {
+        "buildid": "3395036",
+        "description": "The 2018 version, for older computers",
+        "timeupdated": "1544728092",
+        "timebuildupdated": "1544726680"
+      }
+    }
+  }
+}

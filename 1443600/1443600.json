@@ -1,0 +1,79 @@
+{
+  "name": "Amazething",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:18.709Z",
+  "branches": {
+    "public": {
+      "buildid": "8408162",
+      "timeupdated": "1647961430",
+      "timebuildupdated": "1647849379"
+    },
+    "experimental": {
+      "buildid": "8478686",
+      "description": "These experimental versions of the game might be a little less amazething",
+      "timeupdated": "1648795512",
+      "timebuildupdated": "1648795512"
+    }
+  },
+  "depot": {
+    "1443601": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1426387687740966282",
+          "size": "123483247",
+          "download": "36819248"
+        }
+      }
+    },
+    "1443602": {
+      "manifests": {
+        "public": {
+          "gid": "2548163565032939987",
+          "size": "115824487",
+          "download": "34390672"
+        }
+      }
+    },
+    "1443603": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1624996617273431631",
+          "size": "146287672",
+          "download": "43768672"
+        }
+      }
+    },
+    "1443604": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2391367630071569505",
+          "size": "167157950",
+          "download": "38380544"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8408162",
+        "timeupdated": "1647961430",
+        "timebuildupdated": "1647849379"
+      },
+      "experimental": {
+        "buildid": "8478686",
+        "description": "These experimental versions of the game might be a little less amazething",
+        "timeupdated": "1648795512",
+        "timebuildupdated": "1648795512"
+      }
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "name": "Portal Reloaded",
+  "source": "spectre",
+  "changenumber": 40630027,
+  "updated": "2026-11-06T21:03:56.647Z",
+  "branches": {
+    "public": {
+      "buildid": "11430826",
+      "timeupdated": "1686325867",
+      "timebuildupdated": "1686297865"
+    },
+    "1.0.0": {
+      "buildid": "11434191",
+      "description": "initial release version",
+      "timeupdated": "1686325500",
+      "timebuildupdated": "1686325500"
+    },
+    "1.1.0": {
+      "buildid": "6636733",
+      "description": "pre-cooperative update",
+      "timeupdated": "1686325584",
+      "timebuildupdated": "1619974432"
+    },
+    "1.2.0": {
+      "buildid": "11430826",
+      "description": "post-cooperative update",
+      "timeupdated": "1686325697",
+      "timebuildupdated": "1686297865"
+    },
+    "beta": {
+      "buildid": "11430826",
+      "description": "public testing branch",
+      "timeupdated": "1686297974",
+      "timebuildupdated": "1686297865"
+    }
+  },
+  "depot": {
+    "1255981": {
+      "manifests": {
+        "public": {
+          "gid": "3215218433401002224",
+          "size": "6298905881",
+          "download": "2694364992"
+        }
+      }
+    },
+    "1255982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "707421310887317428",
+          "size": "94561946",
+          "download": "30593440"
+        }
+      }
+    },
+    "1255983": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "290508551967417027",
+          "size": "121936301",
+          "download": "27420736"
+        }
+      }
+    },
+    "1255984": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6095143477847595406",
+          "size": "87935310",
+          "download": "22192368"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11430826",
+        "timeupdated": "1686325867",
+        "timebuildupdated": "1686297865"
+      },
+      "1.0.0": {
+        "buildid": "11434191",
+        "description": "initial release version",
+        "timeupdated": "1686325500",
+        "timebuildupdated": "1686325500"
+      },
+      "1.1.0": {
+        "buildid": "6636733",
+        "description": "pre-cooperative update",
+        "timeupdated": "1686325584",
+        "timebuildupdated": "1619974432"
+      },
+      "1.2.0": {
+        "buildid": "11430826",
+        "description": "post-cooperative update",
+        "timeupdated": "1686325697",
+        "timebuildupdated": "1686297865"
+      },
+      "beta": {
+        "buildid": "11430826",
+        "description": "public testing branch",
+        "timeupdated": "1686297974",
+        "timebuildupdated": "1686297865"
+      }
+    }
+  }
+}

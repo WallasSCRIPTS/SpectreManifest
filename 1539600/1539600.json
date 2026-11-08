@@ -1,0 +1,58 @@
+{
+  "name": "AstroBike",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-06T21:05:59.767Z",
+  "branches": {
+    "public": {
+      "buildid": "8356889",
+      "timeupdated": "1647031497",
+      "timebuildupdated": "1647031497"
+    }
+  },
+  "depot": {
+    "1539601": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1526976411807839579",
+          "size": "99765558",
+          "download": "30390400"
+        }
+      }
+    },
+    "1539602": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7556162578278210596",
+          "size": "108986732",
+          "download": "31480960"
+        }
+      }
+    },
+    "1539603": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7540951904811870193",
+          "size": "163259040",
+          "download": "163377920"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8356889",
+        "timeupdated": "1647031497",
+        "timebuildupdated": "1647031497"
+      }
+    }
+  }
+}

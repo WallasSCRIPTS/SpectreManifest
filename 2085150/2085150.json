@@ -1,0 +1,58 @@
+{
+  "name": "Darfall Demo",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:17:29.811Z",
+  "branches": {
+    "public": {
+      "buildid": "18546962",
+      "timeupdated": "1747829390",
+      "timebuildupdated": "1747819640"
+    },
+    "ptr-macos": {
+      "buildid": "18404014",
+      "description": "[Prod] Public Test Branch for MacOS version. Expect possible instability and issues.",
+      "timeupdated": "1746799422",
+      "timebuildupdated": "1746798204"
+    }
+  },
+  "depot": {
+    "2085152": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7476780395174912452",
+          "size": "4201541761",
+          "download": "1810935552"
+        }
+      }
+    },
+    "2085153": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1475749908023186896",
+          "size": "4237634753",
+          "download": "1843154320"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18546962",
+        "timeupdated": "1747829390",
+        "timebuildupdated": "1747819640"
+      },
+      "ptr-macos": {
+        "buildid": "18404014",
+        "description": "[Prod] Public Test Branch for MacOS version. Expect possible instability and issues.",
+        "timeupdated": "1746799422",
+        "timebuildupdated": "1746798204"
+      }
+    }
+  }
+}

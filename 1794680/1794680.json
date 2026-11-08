@@ -1,0 +1,76 @@
+{
+  "name": "Vampire Survivors",
+  "source": "spectre",
+  "changenumber": 40655483,
+  "updated": "2026-11-06T23:09:48.365Z",
+  "branches": {
+    "public": {
+      "buildid": "25984009",
+      "timeupdated": "1792155765",
+      "timebuildupdated": "1792146617"
+    },
+    "public-beta": {
+      "buildid": "26014838",
+      "description": "Public Beta",
+      "timeupdated": "1792266108",
+      "timebuildupdated": "1792266108"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1794681": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4460541452647837941",
+          "size": "1185884845",
+          "download": "772086176"
+        }
+      }
+    },
+    "1794684": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5505101475645329500",
+          "size": "1151586191",
+          "download": "771032576"
+        }
+      }
+    },
+    "1794685": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1260479946982022557",
+          "size": "1113762756",
+          "download": "757334128"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25984009",
+        "timeupdated": "1792155765",
+        "timebuildupdated": "1792146617"
+      },
+      "public-beta": {
+        "buildid": "26014838",
+        "description": "Public Beta",
+        "timeupdated": "1792266108",
+        "timebuildupdated": "1792266108"
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Music dictation",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-06T23:17:32.829Z",
+  "branches": {
+    "public": {
+      "buildid": "9262016",
+      "timeupdated": "1659808504",
+      "timebuildupdated": "1659716889"
+    },
+    "music_2": {
+      "buildid": "9261989",
+      "description": "mac",
+      "timeupdated": "1660039819",
+      "timebuildupdated": "1659716642"
+    },
+    "music_sborka": {
+      "buildid": "9261989",
+      "description": "music_sborka",
+      "timeupdated": "1660341250",
+      "timebuildupdated": "1659716642"
+    }
+  },
+  "depot": {
+    "2108261": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3610726477731945420",
+          "size": "12022117",
+          "download": "11183136"
+        }
+      }
+    },
+    "2108262": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "2108263": {},
+    "branches": {
+      "public": {
+        "buildid": "9262016",
+        "timeupdated": "1659808504",
+        "timebuildupdated": "1659716889"
+      },
+      "music_2": {
+        "buildid": "9261989",
+        "description": "mac",
+        "timeupdated": "1660039819",
+        "timebuildupdated": "1659716642"
+      },
+      "music_sborka": {
+        "buildid": "9261989",
+        "description": "music_sborka",
+        "timeupdated": "1660341250",
+        "timebuildupdated": "1659716642"
+      }
+    }
+  }
+}

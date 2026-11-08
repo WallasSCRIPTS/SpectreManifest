@@ -1,0 +1,60 @@
+{
+  "name": "Escape Room Academy",
+  "source": "spectre",
+  "changenumber": 34843687,
+  "updated": "2026-11-07T21:02:28.028Z",
+  "branches": {
+    "public": {
+      "buildid": "9167407",
+      "timeupdated": "1658441624",
+      "timebuildupdated": "1658441599"
+    },
+    "local": {
+      "buildid": "8280221",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1645898343",
+      "timebuildupdated": "1645898343"
+    }
+  },
+  "depot": {
+    "1013573": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5322717010476433061",
+          "size": "710447855",
+          "download": "79218912"
+        }
+      }
+    },
+    "1013574": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3238824972144205987",
+          "size": "711540338",
+          "download": "79268032"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9167407",
+        "timeupdated": "1658441624",
+        "timebuildupdated": "1658441599"
+      },
+      "local": {
+        "buildid": "8280221",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1645898343",
+        "timebuildupdated": "1645898343"
+      }
+    }
+  }
+}

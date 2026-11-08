@@ -1,0 +1,106 @@
+{
+  "name": "Crystal Project",
+  "source": "spectre",
+  "changenumber": 40372728,
+  "updated": "2026-11-06T21:06:45.155Z",
+  "branches": {
+    "public": {
+      "buildid": "23419148",
+      "timeupdated": "1779826517",
+      "timebuildupdated": "1779821056"
+    },
+    "archipelago": {
+      "buildid": "17744482",
+      "description": "For Archipelago compatibility (version 1.6.5).",
+      "timeupdated": "1746834124",
+      "timebuildupdated": "1742152840"
+    },
+    "beta": {
+      "buildid": "26233750",
+      "description": "For testing the latest build before it goes live.",
+      "timeupdated": "1793133662",
+      "timebuildupdated": "1793069697"
+    },
+    "console": {
+      "buildid": "18375824",
+      "description": "The build currently available on console (version 1.6.6).",
+      "timeupdated": "1749081657",
+      "timebuildupdated": "1746629985"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1637731": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4376568988585412375",
+          "size": "553988799",
+          "download": "518484608"
+        }
+      }
+    },
+    "1637732": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6049935795269167330",
+          "size": "576166255",
+          "download": "525166016"
+        }
+      }
+    },
+    "1637733": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1020172077541715673",
+          "size": "590594640",
+          "download": "528358816"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23419148",
+        "timeupdated": "1779826517",
+        "timebuildupdated": "1779821056"
+      },
+      "archipelago": {
+        "buildid": "17744482",
+        "description": "For Archipelago compatibility (version 1.6.5).",
+        "timeupdated": "1746834124",
+        "timebuildupdated": "1742152840"
+      },
+      "beta": {
+        "buildid": "26233750",
+        "description": "For testing the latest build before it goes live.",
+        "timeupdated": "1793133662",
+        "timebuildupdated": "1793069697"
+      },
+      "console": {
+        "buildid": "18375824",
+        "description": "The build currently available on console (version 1.6.6).",
+        "timeupdated": "1749081657",
+        "timebuildupdated": "1746629985"
+      }
+    }
+  }
+}

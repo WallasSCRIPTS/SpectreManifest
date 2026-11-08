@@ -1,0 +1,58 @@
+{
+  "name": "Raining blocks",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T21:00:32.412Z",
+  "branches": {
+    "public": {
+      "buildid": "10429965",
+      "timeupdated": "1677519437",
+      "timebuildupdated": "1675026204"
+    },
+    "old1_1": {
+      "buildid": "3122972",
+      "description": "Old 1.1f patch. With the sync bug and mac-linux builds",
+      "timeupdated": "1677519558",
+      "timebuildupdated": "1536948215"
+    }
+  },
+  "depot": {
+    "767591": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1712761234231633593",
+          "size": "145801513",
+          "download": "54989520"
+        }
+      }
+    },
+    "767594": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4723663128775298491",
+          "size": "127720763",
+          "download": "51540128"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10429965",
+        "timeupdated": "1677519437",
+        "timebuildupdated": "1675026204"
+      },
+      "old1_1": {
+        "buildid": "3122972",
+        "description": "Old 1.1f patch. With the sync bug and mac-linux builds",
+        "timeupdated": "1677519558",
+        "timebuildupdated": "1536948215"
+      }
+    }
+  }
+}

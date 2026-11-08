@@ -1,0 +1,97 @@
+{
+  "name": "Squad",
+  "source": "spectre",
+  "changenumber": 40435756,
+  "updated": "2026-11-07T20:57:29.650Z",
+  "branches": {
+    "public": {
+      "buildid": "26234431",
+      "timeupdated": "1793304327",
+      "timebuildupdated": "1793072283"
+    },
+    "squad_experimental": {
+      "buildid": "20686743",
+      "description": "Experimental Squad builds (compatible with Live servers)",
+      "timeupdated": "1762974018",
+      "timebuildupdated": "1762386069"
+    },
+    "squad_pilot_testing": {
+      "buildid": "26313060",
+      "description": "Beta branch for testing helicopter HOTAS and Head Tracking (compatible with Live servers)",
+      "timeupdated": "1793387204",
+      "timebuildupdated": "1793325928"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "393381": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8194205359734259309",
+          "size": "74391251971",
+          "download": "66940905392"
+        }
+      }
+    },
+    "393382": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "1123920": {
+      "manifests": {
+        "public": {
+          "gid": "8509449628493661206",
+          "size": "15654",
+          "download": "15264"
+        }
+      },
+      "dlcappid": "1123920"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26234431",
+        "timeupdated": "1793304327",
+        "timebuildupdated": "1793072283"
+      },
+      "squad_experimental": {
+        "buildid": "20686743",
+        "description": "Experimental Squad builds (compatible with Live servers)",
+        "timeupdated": "1762974018",
+        "timebuildupdated": "1762386069"
+      },
+      "squad_pilot_testing": {
+        "buildid": "26313060",
+        "description": "Beta branch for testing helicopter HOTAS and Head Tracking (compatible with Live servers)",
+        "timeupdated": "1793387204",
+        "timebuildupdated": "1793325928"
+      }
+    }
+  }
+}

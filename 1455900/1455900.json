@@ -1,0 +1,60 @@
+{
+  "name": "Plunder Panic",
+  "source": "spectre",
+  "changenumber": 40188959,
+  "updated": "2026-11-06T21:05:24.695Z",
+  "branches": {
+    "public": {
+      "buildid": "18582156",
+      "timeupdated": "1748013603",
+      "timebuildupdated": "1748004217"
+    },
+    "publicbeta": {
+      "buildid": "10499707",
+      "description": "Public Beta Branch",
+      "timeupdated": "1675811321",
+      "timebuildupdated": "1675800512"
+    }
+  },
+  "depot": {
+    "1455901": {
+      "manifests": {
+        "public": {
+          "gid": "4813756128325968318",
+          "size": "378548120",
+          "download": "259421280"
+        }
+      }
+    },
+    "1455902": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4043627007318099477",
+          "size": "2595017831",
+          "download": "255791312"
+        }
+      }
+    },
+    "1455903": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18582156",
+        "timeupdated": "1748013603",
+        "timebuildupdated": "1748004217"
+      },
+      "publicbeta": {
+        "buildid": "10499707",
+        "description": "Public Beta Branch",
+        "timeupdated": "1675811321",
+        "timebuildupdated": "1675800512"
+      }
+    }
+  }
+}

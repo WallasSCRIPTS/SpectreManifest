@@ -1,0 +1,70 @@
+{
+  "name": "Mimir's Recruit",
+  "source": "spectre",
+  "changenumber": 35946306,
+  "updated": "2026-11-06T21:07:03.618Z",
+  "branches": {
+    "public": {
+      "buildid": "7633893",
+      "timeupdated": "1635716712",
+      "timebuildupdated": "1635716712"
+    },
+    "betas": {
+      "buildid": "7028767",
+      "description": "Para publicação de pacotes que estão em desenvolvimento",
+      "timeupdated": "1626274978",
+      "timebuildupdated": "1626274978"
+    },
+    "releases_linux": {
+      "buildid": "7082910",
+      "description": "releases for linux",
+      "timeupdated": "1627166712",
+      "timebuildupdated": "1627166712"
+    }
+  },
+  "depot": {
+    "1682451": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5344014410002276852",
+          "size": "176585846",
+          "download": "78715568"
+        }
+      }
+    },
+    "1682452": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5997167204807770050",
+          "size": "219153292",
+          "download": "79677360"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7633893",
+        "timeupdated": "1635716712",
+        "timebuildupdated": "1635716712"
+      },
+      "betas": {
+        "buildid": "7028767",
+        "description": "Para publicação de pacotes que estão em desenvolvimento",
+        "timeupdated": "1626274978",
+        "timebuildupdated": "1626274978"
+      },
+      "releases_linux": {
+        "buildid": "7082910",
+        "description": "releases for linux",
+        "timeupdated": "1627166712",
+        "timebuildupdated": "1627166712"
+      }
+    }
+  }
+}

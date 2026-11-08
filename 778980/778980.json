@@ -1,0 +1,64 @@
+{
+  "name": "The Drain Collector",
+  "source": "spectre",
+  "changenumber": 37542031,
+  "updated": "2026-11-07T21:00:37.997Z",
+  "branches": {
+    "public": {
+      "buildid": "2410446",
+      "timeupdated": "1515071802",
+      "timebuildupdated": "1515004662"
+    },
+    "apple": {
+      "buildid": "2416555",
+      "timeupdated": "1515202254",
+      "timebuildupdated": "1515202254"
+    },
+    "test1": {
+      "buildid": "2416545",
+      "timeupdated": "1515202043",
+      "timebuildupdated": "1515202043"
+    }
+  },
+  "depot": {
+    "778981": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8593735108144213200",
+          "size": "52781147",
+          "download": "13129984"
+        }
+      }
+    },
+    "778982": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "778983": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2410446",
+        "timeupdated": "1515071802",
+        "timebuildupdated": "1515004662"
+      },
+      "apple": {
+        "buildid": "2416555",
+        "timeupdated": "1515202254",
+        "timebuildupdated": "1515202254"
+      },
+      "test1": {
+        "buildid": "2416545",
+        "timeupdated": "1515202043",
+        "timebuildupdated": "1515202043"
+      }
+    }
+  }
+}

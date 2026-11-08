@@ -1,0 +1,70 @@
+{
+  "name": "Caves of Lore",
+  "source": "spectre",
+  "changenumber": 40670569,
+  "updated": "2026-11-06T23:19:33.518Z",
+  "branches": {
+    "public": {
+      "buildid": "25024065",
+      "timeupdated": "1788114328",
+      "timebuildupdated": "1788114328"
+    },
+    "experimental": {
+      "buildid": "26485821",
+      "description": "experimental features",
+      "timeupdated": "1793972545",
+      "timebuildupdated": "1793972545"
+    },
+    "experimental2": {
+      "buildid": "25613988",
+      "description": "secondary experimental",
+      "timeupdated": "1790720493",
+      "timebuildupdated": "1790720493"
+    }
+  },
+  "depot": {
+    "2227131": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3077755449040847821",
+          "size": "842130648",
+          "download": "127423552"
+        }
+      }
+    },
+    "2227132": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2017964596904712765",
+          "size": "822742838",
+          "download": "120685920"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25024065",
+        "timeupdated": "1788114328",
+        "timebuildupdated": "1788114328"
+      },
+      "experimental": {
+        "buildid": "26485821",
+        "description": "experimental features",
+        "timeupdated": "1793972545",
+        "timebuildupdated": "1793972545"
+      },
+      "experimental2": {
+        "buildid": "25613988",
+        "description": "secondary experimental",
+        "timeupdated": "1790720493",
+        "timebuildupdated": "1790720493"
+      }
+    }
+  }
+}

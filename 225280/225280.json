@@ -1,0 +1,46 @@
+{
+  "name": "Full Mojo Rampage",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:06.413Z",
+  "branches": {
+    "public": {
+      "buildid": "1558758",
+      "timeupdated": "1483983331",
+      "timebuildupdated": "1483983017"
+    }
+  },
+  "depot": {
+    "225281": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7617852844357658999",
+          "size": "292624352",
+          "download": "283515872"
+        }
+      }
+    },
+    "228982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1558758",
+        "timeupdated": "1483983331",
+        "timebuildupdated": "1483983017"
+      }
+    }
+  }
+}

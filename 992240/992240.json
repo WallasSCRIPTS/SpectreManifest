@@ -1,0 +1,88 @@
+{
+  "name": "Trawel",
+  "source": "spectre",
+  "changenumber": 34843151,
+  "updated": "2026-11-07T21:02:17.489Z",
+  "branches": {
+    "public": {
+      "buildid": "20571541",
+      "timeupdated": "1761689495",
+      "timebuildupdated": "1761644441"
+    },
+    "beta": {
+      "buildid": "20571541",
+      "description": "public beta branch",
+      "timeupdated": "1761644442",
+      "timebuildupdated": "1761644441"
+    },
+    "previous": {
+      "buildid": "17814324",
+      "description": "last stable game build",
+      "timeupdated": "1761455130",
+      "timebuildupdated": "1742588654"
+    },
+    "legacy_2022": {
+      "buildid": "6759143",
+      "description": "trawel before 2023 rewrites",
+      "timeupdated": "1690816472",
+      "timebuildupdated": "1622007776"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "992241": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6950945383890677649",
+          "size": "235956118",
+          "download": "97479120"
+        }
+      }
+    },
+    "992242": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7728254317662638179",
+          "size": "235763246",
+          "download": "105020192"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20571541",
+        "timeupdated": "1761689495",
+        "timebuildupdated": "1761644441"
+      },
+      "beta": {
+        "buildid": "20571541",
+        "description": "public beta branch",
+        "timeupdated": "1761644442",
+        "timebuildupdated": "1761644441"
+      },
+      "previous": {
+        "buildid": "17814324",
+        "description": "last stable game build",
+        "timeupdated": "1761455130",
+        "timebuildupdated": "1742588654"
+      },
+      "legacy_2022": {
+        "buildid": "6759143",
+        "description": "trawel before 2023 rewrites",
+        "timeupdated": "1690816472",
+        "timebuildupdated": "1622007776"
+      }
+    }
+  }
+}

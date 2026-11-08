@@ -1,0 +1,58 @@
+{
+  "name": "Pixel Driver",
+  "source": "spectre",
+  "changenumber": 34898263,
+  "updated": "2026-11-06T23:23:20.812Z",
+  "branches": {
+    "public": {
+      "buildid": "22547746",
+      "timeupdated": "1774701693",
+      "timebuildupdated": "1774701523"
+    },
+    "beta": {
+      "buildid": "22547746",
+      "description": "Beta testing",
+      "timeupdated": "1774701539",
+      "timebuildupdated": "1774701523"
+    }
+  },
+  "depot": {
+    "2374041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8611647153061607651",
+          "size": "141447031",
+          "download": "48258064"
+        }
+      }
+    },
+    "2374042": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7996317931817183392",
+          "size": "152338562",
+          "download": "44932944"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22547746",
+        "timeupdated": "1774701693",
+        "timebuildupdated": "1774701523"
+      },
+      "beta": {
+        "buildid": "22547746",
+        "description": "Beta testing",
+        "timeupdated": "1774701539",
+        "timebuildupdated": "1774701523"
+      }
+    }
+  }
+}

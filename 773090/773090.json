@@ -1,0 +1,58 @@
+{
+  "name": "Lucid Dream",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:34.889Z",
+  "branches": {
+    "public": {
+      "buildid": "4764265",
+      "timeupdated": "1583888786",
+      "timebuildupdated": "1583888786"
+    },
+    "beta": {
+      "buildid": "4764286",
+      "description": "For beta testing",
+      "timeupdated": "1583889363",
+      "timebuildupdated": "1583889363"
+    }
+  },
+  "depot": {
+    "773091": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4696411777530876324",
+          "size": "1498922818",
+          "download": "1278053968"
+        }
+      }
+    },
+    "773092": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5707071659632480702",
+          "size": "1564391866",
+          "download": "1342597120"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4764265",
+        "timeupdated": "1583888786",
+        "timebuildupdated": "1583888786"
+      },
+      "beta": {
+        "buildid": "4764286",
+        "description": "For beta testing",
+        "timeupdated": "1583889363",
+        "timebuildupdated": "1583889363"
+      }
+    }
+  }
+}

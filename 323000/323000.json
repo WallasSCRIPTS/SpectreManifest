@@ -1,0 +1,44 @@
+{
+  "name": "Roaming Fortress",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:40.896Z",
+  "branches": {
+    "public": {
+      "buildid": "389490",
+      "timebuildupdated": "1411355727"
+    }
+  },
+  "depot": {
+    "323001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1762512838491147649",
+          "size": "689845271",
+          "download": "177544976"
+        }
+      }
+    },
+    "323002": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5338522380891580282",
+          "size": "701878066",
+          "download": "179203456"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "389490",
+        "timebuildupdated": "1411355727"
+      }
+    }
+  }
+}

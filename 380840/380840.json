@@ -1,0 +1,197 @@
+{
+  "name": "Teeworlds",
+  "source": "spectre",
+  "changenumber": 40662523,
+  "updated": "2026-11-07T20:57:22.115Z",
+  "branches": {
+    "public": {
+      "buildid": "4917151",
+      "timeupdated": "1587334593",
+      "timebuildupdated": "1587332462"
+    },
+    "0.6.3": {
+      "buildid": "1458059",
+      "description": "Teeworlds 0.6.3 (vulnerable)",
+      "timeupdated": "1479151761",
+      "timebuildupdated": "1479151714"
+    },
+    "0.6.4": {
+      "buildid": "1673916",
+      "description": "Teeworlds 0.6.4",
+      "timeupdated": "1539462796",
+      "timebuildupdated": "1488844651"
+    },
+    "0.6.5": {
+      "buildid": "3210685",
+      "description": "Teeworlds 0.6.5",
+      "timeupdated": "1544573454",
+      "timebuildupdated": "1539462736"
+    },
+    "0.6.x": {
+      "buildid": "3210685",
+      "description": "Teeworlds 0.6.x",
+      "timeupdated": "1539514816",
+      "timebuildupdated": "1539462736"
+    },
+    "0.7.1": {
+      "buildid": "3401619",
+      "description": "Teeworlds 0.7.1",
+      "timeupdated": "1544905531",
+      "timebuildupdated": "1544905168"
+    },
+    "0.7.2": {
+      "buildid": "3427336",
+      "description": "Teeworlds 0.7.2",
+      "timeupdated": "1545737418",
+      "timebuildupdated": "1545737266"
+    },
+    "0.7.3": {
+      "buildid": "4000554",
+      "description": "Teeworlds 0.7.3",
+      "timeupdated": "1562840282",
+      "timebuildupdated": "1562797471"
+    },
+    "0.7.4": {
+      "buildid": "4522154",
+      "description": "Teeworlds 0.7.4",
+      "timeupdated": "1577113423",
+      "timebuildupdated": "1577111078"
+    },
+    "0.7.5": {
+      "buildid": "4917151",
+      "timeupdated": "1587334663",
+      "timebuildupdated": "1587332462"
+    },
+    "0.7.x": {
+      "buildid": "4917151",
+      "description": "Teeworlds 0.7.x",
+      "timeupdated": "1587334607",
+      "timebuildupdated": "1587332462"
+    }
+  },
+  "depot": {
+    "380841": {
+      "manifests": {
+        "public": {
+          "gid": "8063356514560605065",
+          "size": "9536238",
+          "download": "8078512"
+        }
+      }
+    },
+    "380842": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6745528655538745962",
+          "size": "4150098",
+          "download": "1463744"
+        }
+      }
+    },
+    "380843": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4981442815783537482",
+          "size": "2346772",
+          "download": "796880"
+        }
+      }
+    },
+    "380844": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2643693796708978087",
+          "size": "3982008",
+          "download": "1385472"
+        }
+      }
+    },
+    "380845": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4304279456232629768",
+          "size": "2178936",
+          "download": "763968"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4917151",
+        "timeupdated": "1587334593",
+        "timebuildupdated": "1587332462"
+      },
+      "0.6.3": {
+        "buildid": "1458059",
+        "description": "Teeworlds 0.6.3 (vulnerable)",
+        "timeupdated": "1479151761",
+        "timebuildupdated": "1479151714"
+      },
+      "0.6.4": {
+        "buildid": "1673916",
+        "description": "Teeworlds 0.6.4",
+        "timeupdated": "1539462796",
+        "timebuildupdated": "1488844651"
+      },
+      "0.6.5": {
+        "buildid": "3210685",
+        "description": "Teeworlds 0.6.5",
+        "timeupdated": "1544573454",
+        "timebuildupdated": "1539462736"
+      },
+      "0.6.x": {
+        "buildid": "3210685",
+        "description": "Teeworlds 0.6.x",
+        "timeupdated": "1539514816",
+        "timebuildupdated": "1539462736"
+      },
+      "0.7.1": {
+        "buildid": "3401619",
+        "description": "Teeworlds 0.7.1",
+        "timeupdated": "1544905531",
+        "timebuildupdated": "1544905168"
+      },
+      "0.7.2": {
+        "buildid": "3427336",
+        "description": "Teeworlds 0.7.2",
+        "timeupdated": "1545737418",
+        "timebuildupdated": "1545737266"
+      },
+      "0.7.3": {
+        "buildid": "4000554",
+        "description": "Teeworlds 0.7.3",
+        "timeupdated": "1562840282",
+        "timebuildupdated": "1562797471"
+      },
+      "0.7.4": {
+        "buildid": "4522154",
+        "description": "Teeworlds 0.7.4",
+        "timeupdated": "1577113423",
+        "timebuildupdated": "1577111078"
+      },
+      "0.7.5": {
+        "buildid": "4917151",
+        "timeupdated": "1587334663",
+        "timebuildupdated": "1587332462"
+      },
+      "0.7.x": {
+        "buildid": "4917151",
+        "description": "Teeworlds 0.7.x",
+        "timeupdated": "1587334607",
+        "timebuildupdated": "1587332462"
+      }
+    }
+  }
+}

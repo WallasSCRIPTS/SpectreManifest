@@ -1,0 +1,109 @@
+{
+  "name": "Liftoff - DJI FPV",
+  "source": "spectre",
+  "changenumber": 40678997,
+  "updated": "2026-11-06T23:13:27.592Z",
+  "branches": {
+    "public": {
+      "buildid": "26265692",
+      "timeupdated": "1793179359",
+      "timebuildupdated": "1793176963"
+    },
+    "experimentalbranch": {
+      "buildid": "26491063",
+      "description": "Public experimental testing",
+      "timeupdated": "1793987176",
+      "timebuildupdated": "1793987069"
+    },
+    "liftoff_1.7.1": {
+      "buildid": "21789536",
+      "description": "Liftoff Legacy v1.7.1",
+      "timeupdated": "1770726306",
+      "timebuildupdated": "1770246068"
+    },
+    "liftoff_1.4.10": {
+      "buildid": "9940167",
+      "description": "Liftoff Legacy v1.4",
+      "timeupdated": "1674033855",
+      "timebuildupdated": "1668507449"
+    },
+    "liftoff_physics5.0": {
+      "buildid": "20309728",
+      "description": "Liftoff Legacy v1.6 (Physics 5.0)",
+      "timeupdated": "1770288243",
+      "timebuildupdated": "1759956223"
+    }
+  },
+  "depot": {
+    "1891781": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4776607303202410575",
+          "size": "114471662",
+          "download": "101051408"
+        }
+      },
+      "dlcappid": "1891780"
+    },
+    "1891782": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3044239836704185801",
+          "size": "114471313",
+          "download": "101050992"
+        }
+      },
+      "dlcappid": "1891780"
+    },
+    "1891783": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4678281986621557271",
+          "size": "114471493",
+          "download": "101051408"
+        }
+      },
+      "dlcappid": "1891780"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26265692",
+        "timeupdated": "1793179359",
+        "timebuildupdated": "1793176963"
+      },
+      "experimentalbranch": {
+        "buildid": "26491063",
+        "description": "Public experimental testing",
+        "timeupdated": "1793987176",
+        "timebuildupdated": "1793987069"
+      },
+      "liftoff_1.7.1": {
+        "buildid": "21789536",
+        "description": "Liftoff Legacy v1.7.1",
+        "timeupdated": "1770726306",
+        "timebuildupdated": "1770246068"
+      },
+      "liftoff_1.4.10": {
+        "buildid": "9940167",
+        "description": "Liftoff Legacy v1.4",
+        "timeupdated": "1674033855",
+        "timebuildupdated": "1668507449"
+      },
+      "liftoff_physics5.0": {
+        "buildid": "20309728",
+        "description": "Liftoff Legacy v1.6 (Physics 5.0)",
+        "timeupdated": "1770288243",
+        "timebuildupdated": "1759956223"
+      }
+    }
+  }
+}

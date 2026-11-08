@@ -1,0 +1,58 @@
+{
+  "name": "Little Green Girl",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T21:03:37.842Z",
+  "branches": {
+    "public": {
+      "buildid": "13702023",
+      "timeupdated": "1710160961",
+      "timebuildupdated": "1710160814"
+    },
+    "test": {
+      "buildid": "14341683",
+      "description": "Для тестовых сборок",
+      "timeupdated": "1715520313",
+      "timebuildupdated": "1715520293"
+    }
+  },
+  "depot": {
+    "1135441": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6847546716017209614",
+          "size": "2526014148",
+          "download": "2413888512"
+        }
+      }
+    },
+    "1135442": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3611131586972661005",
+          "size": "2511138850",
+          "download": "2408707936"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13702023",
+        "timeupdated": "1710160961",
+        "timebuildupdated": "1710160814"
+      },
+      "test": {
+        "buildid": "14341683",
+        "description": "Для тестовых сборок",
+        "timeupdated": "1715520313",
+        "timebuildupdated": "1715520293"
+      }
+    }
+  }
+}

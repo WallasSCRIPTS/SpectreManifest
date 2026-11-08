@@ -1,0 +1,84 @@
+{
+  "name": "Scrap Garden",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:06.177Z",
+  "branches": {
+    "public": {
+      "buildid": "1789836",
+      "timeupdated": "1601126161",
+      "timebuildupdated": "1493453987"
+    },
+    "experimental": {
+      "buildid": "2953449",
+      "timeupdated": "1531901672",
+      "timebuildupdated": "1531854244"
+    },
+    "stable": {
+      "buildid": "1733856",
+      "timeupdated": "1491322553",
+      "timebuildupdated": "1491296255"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "465761": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "808697969402493331",
+          "size": "1743600890",
+          "download": "798877424"
+        }
+      }
+    },
+    "465762": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6882348177388336119",
+          "size": "1767025038",
+          "download": "805951344"
+        }
+      }
+    },
+    "465763": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2036795238813595131",
+          "size": "1755226763",
+          "download": "798564048"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1789836",
+        "timeupdated": "1601126161",
+        "timebuildupdated": "1493453987"
+      },
+      "experimental": {
+        "buildid": "2953449",
+        "timeupdated": "1531901672",
+        "timebuildupdated": "1531854244"
+      },
+      "stable": {
+        "buildid": "1733856",
+        "timeupdated": "1491322553",
+        "timebuildupdated": "1491296255"
+      }
+    }
+  }
+}

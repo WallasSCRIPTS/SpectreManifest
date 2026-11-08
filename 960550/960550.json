@@ -1,0 +1,72 @@
+{
+  "name": "Distress: A Choice-Driven Sci-Fi Adventure",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:02:00.453Z",
+  "branches": {
+    "public": {
+      "buildid": "3722817",
+      "timeupdated": "1554831562",
+      "timebuildupdated": "1554831349"
+    },
+    "local": {
+      "buildid": "3194039",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1539044488",
+      "timebuildupdated": "1539044330"
+    }
+  },
+  "depot": {
+    "960551": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5757817446850664108",
+          "size": "218018104",
+          "download": "157152560"
+        }
+      }
+    },
+    "960552": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7258499922517087382",
+          "size": "173188939",
+          "download": "144098032"
+        }
+      }
+    },
+    "960553": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4388904888805413481",
+          "size": "195770196",
+          "download": "150143968"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3722817",
+        "timeupdated": "1554831562",
+        "timebuildupdated": "1554831349"
+      },
+      "local": {
+        "buildid": "3194039",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1539044488",
+        "timebuildupdated": "1539044330"
+      }
+    }
+  }
+}

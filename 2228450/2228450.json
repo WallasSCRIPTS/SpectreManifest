@@ -1,0 +1,58 @@
+{
+  "name": "Tank Commander",
+  "source": "spectre",
+  "changenumber": 34890988,
+  "updated": "2026-11-06T23:19:33.726Z",
+  "branches": {
+    "public": {
+      "buildid": "10558798",
+      "timeupdated": "1676912582",
+      "timebuildupdated": "1676475008"
+    },
+    "test": {
+      "buildid": "10820470",
+      "description": "patch_beta",
+      "timeupdated": "1679409128",
+      "timebuildupdated": "1679409087"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2228451": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "702453840057086040",
+          "size": "6093127844",
+          "download": "5963901312"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10558798",
+        "timeupdated": "1676912582",
+        "timebuildupdated": "1676475008"
+      },
+      "test": {
+        "buildid": "10820470",
+        "description": "patch_beta",
+        "timeupdated": "1679409128",
+        "timebuildupdated": "1679409087"
+      }
+    }
+  }
+}

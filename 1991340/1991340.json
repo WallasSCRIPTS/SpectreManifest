@@ -1,0 +1,56 @@
+{
+  "name": "Sky Captain's Return",
+  "source": "spectre",
+  "changenumber": 34880577,
+  "updated": "2026-11-06T23:15:27.474Z",
+  "branches": {
+    "public": {
+      "buildid": "10125420",
+      "timeupdated": "1670803265",
+      "timebuildupdated": "1670803195"
+    },
+    "testing": {
+      "buildid": "10125420",
+      "description": "Test new version before they are released. Careful these can contain game breaking bugs!",
+      "timeupdated": "1693428374",
+      "timebuildupdated": "1670803195"
+    }
+  },
+  "depot": {
+    "1991341": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1757093191348405169",
+          "size": "9685079421",
+          "download": "9596449520"
+        }
+      }
+    },
+    "1991342": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "1991343": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10125420",
+        "timeupdated": "1670803265",
+        "timebuildupdated": "1670803195"
+      },
+      "testing": {
+        "buildid": "10125420",
+        "description": "Test new version before they are released. Careful these can contain game breaking bugs!",
+        "timeupdated": "1693428374",
+        "timebuildupdated": "1670803195"
+      }
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "name": "Mina the Hollower",
+  "source": "spectre",
+  "changenumber": 40394104,
+  "updated": "2026-11-06T23:11:41.809Z",
+  "branches": {
+    "public": {
+      "buildid": "24161969",
+      "timeupdated": "1783867901",
+      "timebuildupdated": "1783781982"
+    },
+    "beta": {
+      "buildid": "24161969",
+      "description": "Test the latest update before it is live. Includes warp shuffler!",
+      "timeupdated": "1783867901",
+      "timebuildupdated": "1783781982"
+    },
+    "dx11-unmaintained": {
+      "buildid": "23718622",
+      "description": "Patch 1.0.6, unsupported",
+      "timeupdated": "1781369667",
+      "timebuildupdated": "1781368872"
+    },
+    "experimental-modding": {
+      "buildid": "24580948",
+      "description": "Experimental mod support",
+      "timeupdated": "1785984691",
+      "timebuildupdated": "1785965674"
+    },
+    "intel-mac-unmaintained": {
+      "buildid": "23420439",
+      "description": "Patch 1.0.4, unsupported",
+      "timeupdated": "1779827292",
+      "timebuildupdated": "1779827272"
+    },
+    "patch104": {
+      "buildid": "23420439",
+      "description": "Patch 1.0.4 [r147804]",
+      "timeupdated": "1779827292",
+      "timebuildupdated": "1779827272"
+    },
+    "patch105": {
+      "buildid": "23559724",
+      "description": "Patch 1.0.5 [r148188]",
+      "timeupdated": "1780550526",
+      "timebuildupdated": "1780550351"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1875581": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7770993870670395622",
+          "size": "856797083",
+          "download": "770676592"
+        }
+      }
+    },
+    "1875582": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4950470445501212435",
+          "size": "26312776",
+          "download": "9920976"
+        }
+      }
+    },
+    "1875583": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7515456472114457361",
+          "size": "31606728",
+          "download": "10265168"
+        }
+      }
+    },
+    "1875584": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5499278658215428690",
+          "size": "877319074",
+          "download": "774921232"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24161969",
+        "timeupdated": "1783867901",
+        "timebuildupdated": "1783781982"
+      },
+      "beta": {
+        "buildid": "24161969",
+        "description": "Test the latest update before it is live. Includes warp shuffler!",
+        "timeupdated": "1783867901",
+        "timebuildupdated": "1783781982"
+      },
+      "dx11-unmaintained": {
+        "buildid": "23718622",
+        "description": "Patch 1.0.6, unsupported",
+        "timeupdated": "1781369667",
+        "timebuildupdated": "1781368872"
+      },
+      "experimental-modding": {
+        "buildid": "24580948",
+        "description": "Experimental mod support",
+        "timeupdated": "1785984691",
+        "timebuildupdated": "1785965674"
+      },
+      "intel-mac-unmaintained": {
+        "buildid": "23420439",
+        "description": "Patch 1.0.4, unsupported",
+        "timeupdated": "1779827292",
+        "timebuildupdated": "1779827272"
+      },
+      "patch104": {
+        "buildid": "23420439",
+        "description": "Patch 1.0.4 [r147804]",
+        "timeupdated": "1779827292",
+        "timebuildupdated": "1779827272"
+      },
+      "patch105": {
+        "buildid": "23559724",
+        "description": "Patch 1.0.5 [r148188]",
+        "timeupdated": "1780550526",
+        "timebuildupdated": "1780550351"
+      }
+    }
+  }
+}

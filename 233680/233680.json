@@ -1,0 +1,77 @@
+{
+  "name": "Black Ink",
+  "source": "spectre",
+  "changenumber": 40415464,
+  "updated": "2026-11-07T20:56:08.099Z",
+  "branches": {
+    "public": {
+      "buildid": "15151843",
+      "timeupdated": "1721927768",
+      "timebuildupdated": "1721919566"
+    },
+    "nonavx": {
+      "buildid": "5545740",
+      "description": "non AVX version",
+      "timeupdated": "1600153154",
+      "timebuildupdated": "1600153031"
+    }
+  },
+  "depot": {
+    "228982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "233681": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1307191038544820962",
+          "size": "93850556",
+          "download": "52450672"
+        }
+      }
+    },
+    "1827230": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6840117269807030035",
+          "size": "112336705",
+          "download": "67911904"
+        }
+      },
+      "dlcappid": "1827230"
+    },
+    "branches": {
+      "public": {
+        "buildid": "15151843",
+        "timeupdated": "1721927768",
+        "timebuildupdated": "1721919566"
+      },
+      "nonavx": {
+        "buildid": "5545740",
+        "description": "non AVX version",
+        "timeupdated": "1600153154",
+        "timebuildupdated": "1600153031"
+      }
+    }
+  }
+}

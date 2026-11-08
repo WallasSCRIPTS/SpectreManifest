@@ -1,0 +1,70 @@
+{
+  "name": "Zombiotik",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:01:47.181Z",
+  "branches": {
+    "public": {
+      "buildid": "4615771",
+      "timeupdated": "1580590470",
+      "timebuildupdated": "1580220656"
+    },
+    "beta": {
+      "buildid": "4615771",
+      "description": "Public beta for Zombiotik",
+      "timeupdated": "1580220692",
+      "timebuildupdated": "1580220656"
+    }
+  },
+  "depot": {
+    "932951": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1864454510339627074",
+          "size": "200826652",
+          "download": "46219584"
+        }
+      }
+    },
+    "932952": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "498417470043000985",
+          "size": "201622649",
+          "download": "46889632"
+        }
+      }
+    },
+    "932953": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1568119048001886356",
+          "size": "206700437",
+          "download": "51001472"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4615771",
+        "timeupdated": "1580590470",
+        "timebuildupdated": "1580220656"
+      },
+      "beta": {
+        "buildid": "4615771",
+        "description": "Public beta for Zombiotik",
+        "timeupdated": "1580220692",
+        "timebuildupdated": "1580220656"
+      }
+    }
+  }
+}

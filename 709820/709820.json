@@ -1,0 +1,86 @@
+{
+  "name": "Wasted Pizza",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:00.561Z",
+  "branches": {
+    "public": {
+      "buildid": "2199829",
+      "timeupdated": "1508052141",
+      "timebuildupdated": "1508052141"
+    },
+    "mac?": {
+      "buildid": "2142336",
+      "timeupdated": "1506177411",
+      "timebuildupdated": "1506173919"
+    },
+    "windows": {
+      "buildid": "2142260",
+      "description": "Windows",
+      "timeupdated": "1506173669",
+      "timebuildupdated": "1506169490"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "709821": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2270681668071042989",
+          "size": "319240250",
+          "download": "104820400"
+        }
+      }
+    },
+    "709822": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1176725777544637613",
+          "size": "316408894",
+          "download": "104628944"
+        }
+      }
+    },
+    "709823": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6971096410981529944",
+          "size": "323679595",
+          "download": "106905936"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2199829",
+        "timeupdated": "1508052141",
+        "timebuildupdated": "1508052141"
+      },
+      "mac?": {
+        "buildid": "2142336",
+        "timeupdated": "1506177411",
+        "timebuildupdated": "1506173919"
+      },
+      "windows": {
+        "buildid": "2142260",
+        "description": "Windows",
+        "timeupdated": "1506173669",
+        "timebuildupdated": "1506169490"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "name": "City Z",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:21:20.569Z",
+  "branches": {
+    "public": {
+      "buildid": "10682751",
+      "timeupdated": "1677838913",
+      "timebuildupdated": "1677838689"
+    },
+    "local": {
+      "buildid": "10547257",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1676367849",
+      "timebuildupdated": "1676367849"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2245751": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2157577261248283382",
+          "size": "6930464739",
+          "download": "3046157120"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10682751",
+        "timeupdated": "1677838913",
+        "timebuildupdated": "1677838689"
+      },
+      "local": {
+        "buildid": "10547257",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1676367849",
+        "timebuildupdated": "1676367849"
+      }
+    }
+  }
+}

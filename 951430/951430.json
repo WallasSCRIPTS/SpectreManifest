@@ -1,0 +1,82 @@
+{
+  "name": "Dead Age 2",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:55.624Z",
+  "branches": {
+    "public": {
+      "buildid": "20299076",
+      "timeupdated": "1759909370",
+      "timebuildupdated": "1759909030"
+    },
+    "performance": {
+      "buildid": "15523371",
+      "description": "Performance Version",
+      "timeupdated": "1724878280",
+      "timebuildupdated": "1724878280"
+    },
+    "pre_090": {
+      "buildid": "6304709",
+      "description": "stable version prior to 0.9.0",
+      "timeupdated": "1614963536",
+      "timebuildupdated": "1614436078"
+    }
+  },
+  "depot": {
+    "951431": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "911442345411128195",
+          "size": "7922508148",
+          "download": "6924111200"
+        }
+      }
+    },
+    "951432": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7394805318811986463",
+          "size": "6505514155",
+          "download": "5665945072"
+        }
+      }
+    },
+    "951433": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7297886884510268786",
+          "size": "6536253200",
+          "download": "5694658736"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20299076",
+        "timeupdated": "1759909370",
+        "timebuildupdated": "1759909030"
+      },
+      "performance": {
+        "buildid": "15523371",
+        "description": "Performance Version",
+        "timeupdated": "1724878280",
+        "timebuildupdated": "1724878280"
+      },
+      "pre_090": {
+        "buildid": "6304709",
+        "description": "stable version prior to 0.9.0",
+        "timeupdated": "1614963536",
+        "timebuildupdated": "1614436078"
+      }
+    }
+  }
+}

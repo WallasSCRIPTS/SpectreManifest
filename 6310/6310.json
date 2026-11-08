@@ -1,0 +1,49 @@
+{
+  "name": "The Longest Journey",
+  "source": "spectre",
+  "changenumber": 37350667,
+  "updated": "2026-11-07T20:55:43.251Z",
+  "branches": {
+    "public": {
+      "buildid": "32037",
+      "timebuildupdated": "1355518225"
+    },
+    "beta": {
+      "buildid": "4315219",
+      "description": "Fix for white dialog on exit and floating menu clicking problem",
+      "timeupdated": "1571828111",
+      "timebuildupdated": "1571827845"
+    }
+  },
+  "depot": {
+    "6311": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "404429144808164178",
+          "size": "1287578047",
+          "download": "0"
+        }
+      }
+    },
+    "6312": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "32037",
+        "timebuildupdated": "1355518225"
+      },
+      "beta": {
+        "buildid": "4315219",
+        "description": "Fix for white dialog on exit and floating menu clicking problem",
+        "timeupdated": "1571828111",
+        "timebuildupdated": "1571827845"
+      }
+    }
+  }
+}

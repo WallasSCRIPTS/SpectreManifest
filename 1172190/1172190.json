@@ -1,0 +1,58 @@
+{
+  "name": "Chinatown Detective Agency",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:56.543Z",
+  "branches": {
+    "public": {
+      "buildid": "8693698",
+      "timeupdated": "1651869725",
+      "timebuildupdated": "1651868467"
+    },
+    "openbeta": {
+      "buildid": "10139390",
+      "description": "Open beta",
+      "timeupdated": "1670953242",
+      "timebuildupdated": "1670953084"
+    }
+  },
+  "depot": {
+    "1172191": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4002114095287397379",
+          "size": "1798377677",
+          "download": "705931680"
+        }
+      }
+    },
+    "1172192": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1292267891354372910",
+          "size": "1813011461",
+          "download": "708311584"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8693698",
+        "timeupdated": "1651869725",
+        "timebuildupdated": "1651868467"
+      },
+      "openbeta": {
+        "buildid": "10139390",
+        "description": "Open beta",
+        "timeupdated": "1670953242",
+        "timebuildupdated": "1670953084"
+      }
+    }
+  }
+}

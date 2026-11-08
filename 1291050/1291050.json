@@ -1,0 +1,58 @@
+{
+  "name": "Pilots Of Darsalon",
+  "source": "spectre",
+  "changenumber": 39634108,
+  "updated": "2026-11-06T21:04:12.518Z",
+  "branches": {
+    "public": {
+      "buildid": "21974737",
+      "timeupdated": "1771363558",
+      "timebuildupdated": "1771363527"
+    },
+    "test": {
+      "buildid": "21974737",
+      "description": "for testing",
+      "timeupdated": "1771363527",
+      "timebuildupdated": "1771363527"
+    }
+  },
+  "depot": {
+    "1291051": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6535313391416554420",
+          "size": "480867723",
+          "download": "165971648"
+        }
+      }
+    },
+    "1291052": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6625351758631853480",
+          "size": "505435447",
+          "download": "175507792"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21974737",
+        "timeupdated": "1771363558",
+        "timebuildupdated": "1771363527"
+      },
+      "test": {
+        "buildid": "21974737",
+        "description": "for testing",
+        "timeupdated": "1771363527",
+        "timebuildupdated": "1771363527"
+      }
+    }
+  }
+}

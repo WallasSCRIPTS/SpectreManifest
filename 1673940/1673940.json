@@ -1,0 +1,67 @@
+{
+  "name": "BITGUN",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:06:59.778Z",
+  "branches": {
+    "public": {
+      "buildid": "9787655",
+      "timeupdated": "1666631873",
+      "timebuildupdated": "1666628488"
+    },
+    "beta": {
+      "buildid": "9787655",
+      "description": "Beta testing branch",
+      "timeupdated": "1666628488",
+      "timebuildupdated": "1666628488"
+    }
+  },
+  "depot": {
+    "1673941": {
+      "manifests": {
+        "public": {
+          "gid": "6333246286633688621",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "1673942": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3352587358929769192",
+          "size": "111132896",
+          "download": "68011808"
+        }
+      }
+    },
+    "1673943": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8937959271255845494",
+          "size": "203815047",
+          "download": "74983104"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9787655",
+        "timeupdated": "1666631873",
+        "timebuildupdated": "1666628488"
+      },
+      "beta": {
+        "buildid": "9787655",
+        "description": "Beta testing branch",
+        "timeupdated": "1666628488",
+        "timebuildupdated": "1666628488"
+      }
+    }
+  }
+}

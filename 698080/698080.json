@@ -1,0 +1,58 @@
+{
+  "name": "Escape Dead Earth",
+  "source": "spectre",
+  "changenumber": 34836911,
+  "updated": "2026-11-07T20:59:54.527Z",
+  "branches": {
+    "public": {
+      "buildid": "4493440",
+      "timeupdated": "1576342883",
+      "timebuildupdated": "1576342814"
+    }
+  },
+  "depot": {
+    "698081": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8290984085016397504",
+          "size": "79619522",
+          "download": "23723424"
+        }
+      }
+    },
+    "698082": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1627348792121041188",
+          "size": "79619522",
+          "download": "23723424"
+        }
+      }
+    },
+    "698083": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2639086233877832650",
+          "size": "79586809",
+          "download": "23986032"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4493440",
+        "timeupdated": "1576342883",
+        "timebuildupdated": "1576342814"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Roboggled",
+  "source": "spectre",
+  "changenumber": 35946144,
+  "updated": "2026-11-06T21:05:46.258Z",
+  "branches": {
+    "public": {
+      "buildid": "22122987",
+      "timeupdated": "1772176641",
+      "timebuildupdated": "1772176292"
+    },
+    "beta": {
+      "buildid": "22122987",
+      "description": "A public branch for users to test builds before setting them live as the default version",
+      "timeupdated": "1772176311",
+      "timebuildupdated": "1772176292"
+    }
+  },
+  "depot": {
+    "1505221": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "659835384153351301",
+          "size": "243237341",
+          "download": "152347312"
+        }
+      }
+    },
+    "1505222": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4234836869099273883",
+          "size": "253095030",
+          "download": "156493808"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22122987",
+        "timeupdated": "1772176641",
+        "timebuildupdated": "1772176292"
+      },
+      "beta": {
+        "buildid": "22122987",
+        "description": "A public branch for users to test builds before setting them live as the default version",
+        "timeupdated": "1772176311",
+        "timebuildupdated": "1772176292"
+      }
+    }
+  }
+}

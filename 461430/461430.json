@@ -1,0 +1,63 @@
+{
+  "name": "EmergeNYC",
+  "source": "spectre",
+  "changenumber": 40654830,
+  "updated": "2026-11-07T20:58:03.309Z",
+  "branches": {
+    "public": {
+      "buildid": "14780696",
+      "timeupdated": "1718883722",
+      "timebuildupdated": "1718883722"
+    },
+    "stageing_branch": {
+      "buildid": "13326996",
+      "description": "Prerelease Testing Branch",
+      "timeupdated": "1706722436",
+      "timebuildupdated": "1706721847"
+    }
+  },
+  "depot": {
+    "461431": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6407778734734032164",
+          "size": "41696854330",
+          "download": "16295757920"
+        }
+      }
+    },
+    "461433": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "461434": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4345398524251238476",
+          "size": "37157216194",
+          "download": "12514913936"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14780696",
+        "timeupdated": "1718883722",
+        "timebuildupdated": "1718883722"
+      },
+      "stageing_branch": {
+        "buildid": "13326996",
+        "description": "Prerelease Testing Branch",
+        "timeupdated": "1706722436",
+        "timebuildupdated": "1706721847"
+      }
+    }
+  }
+}

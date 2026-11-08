@@ -1,0 +1,74 @@
+{
+  "name": "Kentucky Route Zero",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:07.601Z",
+  "branches": {
+    "public": {
+      "buildid": "20345432",
+      "timeupdated": "1760142845",
+      "timebuildupdated": "1760140767"
+    },
+    "testing-public": {
+      "buildid": "12053059",
+      "timeupdated": "1693257182",
+      "timebuildupdated": "1693257182"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "231203": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7793322392917594520",
+          "size": "2272298770",
+          "download": "1576925568"
+        }
+      }
+    },
+    "231204": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3397139025734352966",
+          "size": "2459820852",
+          "download": "1613870192"
+        }
+      }
+    },
+    "231205": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8677251854186205997",
+          "size": "2953206899",
+          "download": "1586160720"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20345432",
+        "timeupdated": "1760142845",
+        "timebuildupdated": "1760140767"
+      },
+      "testing-public": {
+        "buildid": "12053059",
+        "timeupdated": "1693257182",
+        "timebuildupdated": "1693257182"
+      }
+    }
+  }
+}

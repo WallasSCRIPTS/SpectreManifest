@@ -1,0 +1,70 @@
+{
+  "name": "Siren Head: Awakening",
+  "source": "spectre",
+  "changenumber": 40616882,
+  "updated": "2026-11-06T21:05:18.633Z",
+  "branches": {
+    "public": {
+      "buildid": "6409556",
+      "timeupdated": "1616172381",
+      "timebuildupdated": "1616172381"
+    },
+    "beta": {
+      "buildid": "5740381",
+      "description": "Pre-release beta version for adventurous players.",
+      "timeupdated": "1651688911",
+      "timebuildupdated": "1603752246"
+    },
+    "winter": {
+      "buildid": "5977210",
+      "description": "1.3 release version which includes the winter map.",
+      "timeupdated": "1651689928",
+      "timebuildupdated": "1608141052"
+    }
+  },
+  "depot": {
+    "1443491": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7618068293354583045",
+          "size": "1245270088",
+          "download": "748871408"
+        }
+      }
+    },
+    "1443492": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7784981649299686469",
+          "size": "1288219811",
+          "download": "770901472"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6409556",
+        "timeupdated": "1616172381",
+        "timebuildupdated": "1616172381"
+      },
+      "beta": {
+        "buildid": "5740381",
+        "description": "Pre-release beta version for adventurous players.",
+        "timeupdated": "1651688911",
+        "timebuildupdated": "1603752246"
+      },
+      "winter": {
+        "buildid": "5977210",
+        "description": "1.3 release version which includes the winter map.",
+        "timeupdated": "1651689928",
+        "timebuildupdated": "1608141052"
+      }
+    }
+  }
+}

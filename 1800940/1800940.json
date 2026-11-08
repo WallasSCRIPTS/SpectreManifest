@@ -1,0 +1,67 @@
+{
+  "name": "The Enjenir",
+  "source": "spectre",
+  "changenumber": 39542098,
+  "updated": "2026-11-06T23:11:32.399Z",
+  "branches": {
+    "public": {
+      "buildid": "25752109",
+      "timeupdated": "1791300840",
+      "timebuildupdated": "1791290921"
+    },
+    "beta": {
+      "buildid": "25752109",
+      "description": "Public Beta Testing Branch",
+      "timeupdated": "1791290967",
+      "timebuildupdated": "1791290921"
+    },
+    "legacy": {
+      "buildid": "14888815",
+      "description": "V0.2 - Old Save Compatible",
+      "timeupdated": "1722554840",
+      "timebuildupdated": "1719785774"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1800941": {
+      "manifests": {
+        "public": {
+          "gid": "3705250290560906782",
+          "size": "9145510856",
+          "download": "2833616352"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25752109",
+        "timeupdated": "1791300840",
+        "timebuildupdated": "1791290921"
+      },
+      "beta": {
+        "buildid": "25752109",
+        "description": "Public Beta Testing Branch",
+        "timeupdated": "1791290967",
+        "timebuildupdated": "1791290921"
+      },
+      "legacy": {
+        "buildid": "14888815",
+        "description": "V0.2 - Old Save Compatible",
+        "timeupdated": "1722554840",
+        "timebuildupdated": "1719785774"
+      }
+    }
+  }
+}

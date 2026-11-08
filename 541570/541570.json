@@ -1,0 +1,121 @@
+{
+  "name": "Sally Face - Episode One",
+  "source": "spectre",
+  "changenumber": 38351596,
+  "updated": "2026-11-07T20:58:37.369Z",
+  "branches": {
+    "public": {
+      "buildid": "24952397",
+      "timeupdated": "1787757862",
+      "timebuildupdated": "1787757641"
+    },
+    "experimental": {
+      "buildid": "24952397",
+      "description": "Public branch with pre-release builds available for testing",
+      "timeupdated": "1787757694",
+      "timebuildupdated": "1787757641"
+    },
+    "older_build": {
+      "buildid": "24150947",
+      "description": "Provides an older builds for players having issues with newer ones",
+      "timeupdated": "1783705266",
+      "timebuildupdated": "1783703707"
+    }
+  },
+  "depot": {
+    "541571": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5158663322331652063",
+          "size": "770707899",
+          "download": "267081216"
+        }
+      }
+    },
+    "541572": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2241425845868044026",
+          "size": "869811280",
+          "download": "293944992"
+        }
+      }
+    },
+    "541573": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4000111688538816486",
+          "size": "772943445",
+          "download": "264038160"
+        }
+      }
+    },
+    "541574": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6306546158874346533",
+          "size": "2102074755",
+          "download": "699764816"
+        }
+      },
+      "dlcappid": "567990"
+    },
+    "541575": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6405727985443762667",
+          "size": "2005134224",
+          "download": "669861424"
+        }
+      },
+      "dlcappid": "567990"
+    },
+    "567990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4376514624547628837",
+          "size": "2002798910",
+          "download": "673150496"
+        }
+      },
+      "dlcappid": "567990"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24952397",
+        "timeupdated": "1787757862",
+        "timebuildupdated": "1787757641"
+      },
+      "experimental": {
+        "buildid": "24952397",
+        "description": "Public branch with pre-release builds available for testing",
+        "timeupdated": "1787757694",
+        "timebuildupdated": "1787757641"
+      },
+      "older_build": {
+        "buildid": "24150947",
+        "description": "Provides an older builds for players having issues with newer ones",
+        "timeupdated": "1783705266",
+        "timebuildupdated": "1783703707"
+      }
+    }
+  }
+}

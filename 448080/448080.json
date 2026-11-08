@@ -1,0 +1,119 @@
+{
+  "name": "Fibbage XL",
+  "source": "spectre",
+  "changenumber": 40683835,
+  "updated": "2026-11-07T20:57:55.359Z",
+  "branches": {
+    "public": {
+      "buildid": "15292451",
+      "timeupdated": "1723045527",
+      "timebuildupdated": "1723045527"
+    },
+    "linux-beta": {
+      "buildid": "7667426",
+      "description": "Linux beta branch",
+      "timeupdated": "1636165710",
+      "timebuildupdated": "1636165710"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "448081": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9003678474128328086",
+          "size": "111958707",
+          "download": "76740800"
+        }
+      }
+    },
+    "448082": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2739432657059313910",
+          "size": "127825170",
+          "download": "79277712"
+        }
+      }
+    },
+    "448083": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2559234044227407675",
+          "size": "46432840",
+          "download": "13246432"
+        }
+      }
+    },
+    "448084": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8379831668060690833",
+          "size": "16468504",
+          "download": "9411152"
+        }
+      }
+    },
+    "448085": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4156439902573498853",
+          "size": "20655192",
+          "download": "11081040"
+        }
+      }
+    },
+    "2828508": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5145691608909662874",
+          "size": "2021",
+          "download": "848"
+        }
+      },
+      "depotfromapp": "2828500"
+    },
+    "branches": {
+      "public": {
+        "buildid": "15292451",
+        "timeupdated": "1723045527",
+        "timebuildupdated": "1723045527"
+      },
+      "linux-beta": {
+        "buildid": "7667426",
+        "description": "Linux beta branch",
+        "timeupdated": "1636165710",
+        "timebuildupdated": "1636165710"
+      }
+    }
+  }
+}

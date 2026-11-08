@@ -1,0 +1,61 @@
+{
+  "name": "Nin Online",
+  "source": "spectre",
+  "changenumber": 40633258,
+  "updated": "2026-11-06T21:06:59.796Z",
+  "branches": {
+    "public": {
+      "buildid": "26459787",
+      "timeupdated": "1793887151",
+      "timebuildupdated": "1793887088"
+    },
+    "beta": {
+      "buildid": "26461057",
+      "description": "Test Builds (Graphic Updates)",
+      "timeupdated": "1793890517",
+      "timebuildupdated": "1793890516"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1674011": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7892359200744894004",
+          "size": "674287833",
+          "download": "252331952"
+        }
+      }
+    },
+    "1674012": {
+      "manifests": {
+        "public": {
+          "gid": "6658458886493214385",
+          "size": "981357601",
+          "download": "932012304"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26459787",
+        "timeupdated": "1793887151",
+        "timebuildupdated": "1793887088"
+      },
+      "beta": {
+        "buildid": "26461057",
+        "description": "Test Builds (Graphic Updates)",
+        "timeupdated": "1793890517",
+        "timebuildupdated": "1793890516"
+      }
+    }
+  }
+}

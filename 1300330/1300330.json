@@ -1,0 +1,58 @@
+{
+  "name": "Farmageddon: A Cattle Royale",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:16.796Z",
+  "branches": {
+    "public": {
+      "buildid": "9558785",
+      "timeupdated": "1663738331",
+      "timebuildupdated": "1663738331"
+    },
+    "legacy": {
+      "buildid": "7939000",
+      "description": "For compatibilty (will not be supported forever)",
+      "timeupdated": "1652836675",
+      "timebuildupdated": "1640397735"
+    }
+  },
+  "depot": {
+    "1300331": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "743595652897049186",
+          "size": "178474477",
+          "download": "127789888"
+        }
+      }
+    },
+    "1300332": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "106839383001959550",
+          "size": "196868104",
+          "download": "132753376"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9558785",
+        "timeupdated": "1663738331",
+        "timebuildupdated": "1663738331"
+      },
+      "legacy": {
+        "buildid": "7939000",
+        "description": "For compatibilty (will not be supported forever)",
+        "timeupdated": "1652836675",
+        "timebuildupdated": "1640397735"
+      }
+    }
+  }
+}

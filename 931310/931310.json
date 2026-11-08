@@ -1,0 +1,56 @@
+{
+  "name": "Airplane Mode",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:46.330Z",
+  "branches": {
+    "public": {
+      "buildid": "6362425",
+      "timeupdated": "1615426179",
+      "timebuildupdated": "1615426133"
+    },
+    "testing": {
+      "buildid": "6361636",
+      "timeupdated": "1615414447",
+      "timebuildupdated": "1615414394"
+    }
+  },
+  "depot": {
+    "931311": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8811341939294577924",
+          "size": "6344005902",
+          "download": "3083674048"
+        }
+      }
+    },
+    "931312": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5976099625499138771",
+          "size": "6358257381",
+          "download": "3086315120"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6362425",
+        "timeupdated": "1615426179",
+        "timebuildupdated": "1615426133"
+      },
+      "testing": {
+        "buildid": "6361636",
+        "timeupdated": "1615414447",
+        "timebuildupdated": "1615414394"
+      }
+    }
+  }
+}

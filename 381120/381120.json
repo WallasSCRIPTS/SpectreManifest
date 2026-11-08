@@ -1,0 +1,140 @@
+{
+  "name": "Shoppe Keep",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:22.221Z",
+  "branches": {
+    "public": {
+      "buildid": "1891521",
+      "timeupdated": "1497504889",
+      "timebuildupdated": "1497504770"
+    },
+    "patch_test": {
+      "buildid": "1891521",
+      "description": "Patch testing",
+      "timeupdated": "1497504770",
+      "timebuildupdated": "1497504770"
+    },
+    "rollback": {
+      "buildid": "1603519",
+      "timeupdated": "1497354560",
+      "timebuildupdated": "1485959497"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229005": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "381121": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6058473441485441409",
+          "size": "1802916999",
+          "download": "420660800"
+        }
+      }
+    },
+    "381122": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1213487129128195603",
+          "size": "1883780198",
+          "download": "468695520"
+        }
+      }
+    },
+    "381123": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6017046480936356001",
+          "size": "1807167575",
+          "download": "421892416"
+        }
+      }
+    },
+    "381124": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7695804298428967696",
+          "size": "1885997658",
+          "download": "468964144"
+        }
+      }
+    },
+    "381125": {
+      "dlcappid": "381680"
+    },
+    "381126": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2093711693112093921",
+          "size": "1815533365",
+          "download": "425715552"
+        }
+      }
+    },
+    "381127": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8583980058521313877",
+          "size": "1815479223",
+          "download": "425884256"
+        }
+      }
+    },
+    "473090": {
+      "manifests": {
+        "public": {
+          "gid": "7920676423213747622",
+          "size": "237288437",
+          "download": "198036128"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1891521",
+        "timeupdated": "1497504889",
+        "timebuildupdated": "1497504770"
+      },
+      "patch_test": {
+        "buildid": "1891521",
+        "description": "Patch testing",
+        "timeupdated": "1497504770",
+        "timebuildupdated": "1497504770"
+      },
+      "rollback": {
+        "buildid": "1603519",
+        "timeupdated": "1497354560",
+        "timebuildupdated": "1485959497"
+      }
+    }
+  }
+}

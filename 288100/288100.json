@@ -1,0 +1,72 @@
+{
+  "name": "MechRunner",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:24.603Z",
+  "branches": {
+    "public": {
+      "buildid": "1232890",
+      "timeupdated": "1468859264",
+      "timebuildupdated": "1468859054"
+    },
+    "beta": {
+      "buildid": "898053",
+      "timebuildupdated": "1450111979"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "288101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2563053956149072885",
+          "size": "870612610",
+          "download": "537165392"
+        }
+      }
+    },
+    "288102": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7011946029704129482",
+          "size": "879804628",
+          "download": "539093344"
+        }
+      }
+    },
+    "288103": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5354389476467700336",
+          "size": "876788950",
+          "download": "538822608"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1232890",
+        "timeupdated": "1468859264",
+        "timebuildupdated": "1468859054"
+      },
+      "beta": {
+        "buildid": "898053",
+        "timebuildupdated": "1450111979"
+      }
+    }
+  }
+}

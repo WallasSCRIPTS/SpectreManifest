@@ -1,0 +1,68 @@
+{
+  "name": "The Cat Machine",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:26.160Z",
+  "branches": {
+    "public": {
+      "buildid": "729221",
+      "timebuildupdated": "1439323564"
+    },
+    "prerelease": {
+      "buildid": "5897365",
+      "description": "Beta branch!",
+      "timeupdated": "1606680253",
+      "timebuildupdated": "1606680237"
+    }
+  },
+  "depot": {
+    "386901": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5055621117165627327",
+          "size": "381477722",
+          "download": "97772656"
+        }
+      }
+    },
+    "386902": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "892821762223229938",
+          "size": "383174865",
+          "download": "99826144"
+        }
+      }
+    },
+    "386903": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7153490429760779872",
+          "size": "388985476",
+          "download": "99875776"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "729221",
+        "timebuildupdated": "1439323564"
+      },
+      "prerelease": {
+        "buildid": "5897365",
+        "description": "Beta branch!",
+        "timeupdated": "1606680253",
+        "timebuildupdated": "1606680237"
+      }
+    }
+  }
+}

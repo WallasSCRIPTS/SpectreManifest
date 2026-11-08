@@ -1,0 +1,70 @@
+{
+  "name": "Hidden Folks",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:50.138Z",
+  "branches": {
+    "public": {
+      "buildid": "5129249",
+      "timeupdated": "1591421347",
+      "timebuildupdated": "1591420985"
+    },
+    "bugfixes": {
+      "buildid": "5129249",
+      "description": "See if bugs persist",
+      "timeupdated": "1591421050",
+      "timebuildupdated": "1591420985"
+    }
+  },
+  "depot": {
+    "435401": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7450806869216931773",
+          "size": "321921608",
+          "download": "80820288"
+        }
+      }
+    },
+    "435402": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3091919743656504470",
+          "size": "266630239",
+          "download": "70945456"
+        }
+      }
+    },
+    "435403": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2773718167717225906",
+          "size": "262903229",
+          "download": "68673264"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5129249",
+        "timeupdated": "1591421347",
+        "timebuildupdated": "1591420985"
+      },
+      "bugfixes": {
+        "buildid": "5129249",
+        "description": "See if bugs persist",
+        "timeupdated": "1591421050",
+        "timebuildupdated": "1591420985"
+      }
+    }
+  }
+}

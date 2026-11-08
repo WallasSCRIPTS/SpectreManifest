@@ -1,0 +1,231 @@
+{
+  "name": "Owlboy",
+  "source": "spectre",
+  "changenumber": 40710453,
+  "updated": "2026-11-07T20:56:00.044Z",
+  "branches": {
+    "public": {
+      "buildid": "26359414",
+      "timeupdated": "1793554754",
+      "timebuildupdated": "1793532012"
+    },
+    "0.0.6158.30868": {
+      "buildid": "1586244",
+      "timeupdated": "1485203977",
+      "timebuildupdated": "1485203605"
+    },
+    "0.0.6184.23706": {
+      "buildid": "1544651",
+      "timeupdated": "1483401253",
+      "timebuildupdated": "1483044498"
+    },
+    "1.2.6380.40070": {
+      "buildid": "1909088",
+      "timeupdated": "1509554992",
+      "timebuildupdated": "1498136494"
+    },
+    "console": {
+      "buildid": "8684642",
+      "description": "The main game, but with console output on Windows.",
+      "timeupdated": "1651761508",
+      "timebuildupdated": "1651761250"
+    },
+    "fnatest": {
+      "buildid": "2252294",
+      "description": "Used for testing an early Windows FNA build.",
+      "timeupdated": "1509632299",
+      "timebuildupdated": "1509632299"
+    },
+    "linux32": {
+      "buildid": "2664090",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609455584",
+      "timebuildupdated": "1522963304"
+    },
+    "old_xna_version": {
+      "buildid": "2664090",
+      "description": "The old XNA based version of the game.",
+      "timeupdated": "1651164745",
+      "timebuildupdated": "1522963304"
+    },
+    "previous_release": {
+      "buildid": "1574847",
+      "description": "The version of the game that came out before the current version.",
+      "timeupdated": "1485191319",
+      "timebuildupdated": "1484688369"
+    },
+    "publicalpha": {
+      "buildid": "2375273",
+      "description": "Used to test experimental features",
+      "timeupdated": "1513468801",
+      "timebuildupdated": "1513468801"
+    },
+    "publicbeta": {
+      "buildid": "8636689",
+      "description": "Used to test features before launch",
+      "timeupdated": "1651092879",
+      "timebuildupdated": "1651092740"
+    },
+    "anniversary": {
+      "buildid": "26508248",
+      "description": "Anniversary Update beta branch",
+      "timeupdated": "1794068521",
+      "timebuildupdated": "1794068426"
+    },
+    "speedrunner": {
+      "buildid": "26359739",
+      "description": "Speedrunner Edition (Official)",
+      "timeupdated": "1793534098",
+      "timebuildupdated": "1793533790"
+    }
+  },
+  "depot": {
+    "115801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5245645391200116112",
+          "size": "560108441",
+          "download": "347891776"
+        }
+      }
+    },
+    "115802": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1255203390860849159",
+          "size": "560108441",
+          "download": "348185008"
+        }
+      }
+    },
+    "115803": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "115804": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1869533390480862887",
+          "size": "554511526",
+          "download": "330152496"
+        }
+      }
+    },
+    "115805": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6976384135102157211",
+          "size": "546849153",
+          "download": "328284272"
+        }
+      }
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26359414",
+        "timeupdated": "1793554754",
+        "timebuildupdated": "1793532012"
+      },
+      "0.0.6158.30868": {
+        "buildid": "1586244",
+        "timeupdated": "1485203977",
+        "timebuildupdated": "1485203605"
+      },
+      "0.0.6184.23706": {
+        "buildid": "1544651",
+        "timeupdated": "1483401253",
+        "timebuildupdated": "1483044498"
+      },
+      "1.2.6380.40070": {
+        "buildid": "1909088",
+        "timeupdated": "1509554992",
+        "timebuildupdated": "1498136494"
+      },
+      "console": {
+        "buildid": "8684642",
+        "description": "The main game, but with console output on Windows.",
+        "timeupdated": "1651761508",
+        "timebuildupdated": "1651761250"
+      },
+      "fnatest": {
+        "buildid": "2252294",
+        "description": "Used for testing an early Windows FNA build.",
+        "timeupdated": "1509632299",
+        "timebuildupdated": "1509632299"
+      },
+      "linux32": {
+        "buildid": "2664090",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609455584",
+        "timebuildupdated": "1522963304"
+      },
+      "old_xna_version": {
+        "buildid": "2664090",
+        "description": "The old XNA based version of the game.",
+        "timeupdated": "1651164745",
+        "timebuildupdated": "1522963304"
+      },
+      "previous_release": {
+        "buildid": "1574847",
+        "description": "The version of the game that came out before the current version.",
+        "timeupdated": "1485191319",
+        "timebuildupdated": "1484688369"
+      },
+      "publicalpha": {
+        "buildid": "2375273",
+        "description": "Used to test experimental features",
+        "timeupdated": "1513468801",
+        "timebuildupdated": "1513468801"
+      },
+      "publicbeta": {
+        "buildid": "8636689",
+        "description": "Used to test features before launch",
+        "timeupdated": "1651092879",
+        "timebuildupdated": "1651092740"
+      },
+      "anniversary": {
+        "buildid": "26508248",
+        "description": "Anniversary Update beta branch",
+        "timeupdated": "1794068521",
+        "timebuildupdated": "1794068426"
+      },
+      "speedrunner": {
+        "buildid": "26359739",
+        "description": "Speedrunner Edition (Official)",
+        "timeupdated": "1793534098",
+        "timebuildupdated": "1793533790"
+      }
+    }
+  }
+}

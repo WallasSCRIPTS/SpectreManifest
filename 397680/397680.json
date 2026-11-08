@@ -1,0 +1,178 @@
+{
+  "name": "FIREFIGHT RELOADED",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T20:57:31.593Z",
+  "branches": {
+    "public": {
+      "buildid": "22045741",
+      "timeupdated": "1771796776",
+      "timebuildupdated": "1771796488"
+    },
+    "beta": {
+      "buildid": "22045741",
+      "description": "Public FIREFIGHT RELOADED beta branch",
+      "timeupdated": "1771796720",
+      "timebuildupdated": "1771796488"
+    },
+    "nightly": {
+      "buildid": "22045741",
+      "description": "(Windows or Proton Only) Public FIREFIGHT RELOADED nightly build branch",
+      "timeupdated": "1771796501",
+      "timebuildupdated": "1771796488"
+    },
+    "invasion": {
+      "buildid": "22045741",
+      "description": "INVASION version",
+      "timeupdated": "1771796729",
+      "timebuildupdated": "1771796488"
+    },
+    "endgame": {
+      "buildid": "15896182",
+      "description": "ENDGAME version",
+      "timeupdated": "1736800849",
+      "timebuildupdated": "1727830393"
+    },
+    "trailer-build": {
+      "buildid": "15270869",
+      "description": "Build used in the FIREFIGHT RELOADED ENDGAME trailer",
+      "timeupdated": "1722909491",
+      "timebuildupdated": "1722909262"
+    },
+    "pre-endgame": {
+      "buildid": "2896781",
+      "description": "Pre-ENDGAME version",
+      "timeupdated": "1725231824",
+      "timebuildupdated": "1530042532"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "397681": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7852433660964593723",
+          "size": "140802498",
+          "download": "47593008"
+        }
+      }
+    },
+    "397682": {
+      "manifests": {
+        "public": {
+          "gid": "7238664353614905417",
+          "size": "7769745907",
+          "download": "4124958208"
+        }
+      }
+    },
+    "397683": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1484482055323170751",
+          "size": "158347965",
+          "download": "35842912"
+        }
+      }
+    },
+    "397684": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3877436443507181740",
+          "size": "835044821",
+          "download": "113909280"
+        }
+      },
+      "dlcappid": "1324480"
+    },
+    "411770": {
+      "manifests": {
+        "public": {
+          "gid": "1267757641616682961",
+          "size": "1426190750",
+          "download": "605026800"
+        }
+      },
+      "dlcappid": "411770"
+    },
+    "411771": {
+      "manifests": {
+        "public": {
+          "gid": "2446133122545332924",
+          "size": "977674974",
+          "download": "345703072"
+        }
+      },
+      "dlcappid": "411771"
+    },
+    "branches": {
+      "public": {
+        "buildid": "22045741",
+        "timeupdated": "1771796776",
+        "timebuildupdated": "1771796488"
+      },
+      "beta": {
+        "buildid": "22045741",
+        "description": "Public FIREFIGHT RELOADED beta branch",
+        "timeupdated": "1771796720",
+        "timebuildupdated": "1771796488"
+      },
+      "nightly": {
+        "buildid": "22045741",
+        "description": "(Windows or Proton Only) Public FIREFIGHT RELOADED nightly build branch",
+        "timeupdated": "1771796501",
+        "timebuildupdated": "1771796488"
+      },
+      "invasion": {
+        "buildid": "22045741",
+        "description": "INVASION version",
+        "timeupdated": "1771796729",
+        "timebuildupdated": "1771796488"
+      },
+      "endgame": {
+        "buildid": "15896182",
+        "description": "ENDGAME version",
+        "timeupdated": "1736800849",
+        "timebuildupdated": "1727830393"
+      },
+      "trailer-build": {
+        "buildid": "15270869",
+        "description": "Build used in the FIREFIGHT RELOADED ENDGAME trailer",
+        "timeupdated": "1722909491",
+        "timebuildupdated": "1722909262"
+      },
+      "pre-endgame": {
+        "buildid": "2896781",
+        "description": "Pre-ENDGAME version",
+        "timeupdated": "1725231824",
+        "timebuildupdated": "1530042532"
+      }
+    }
+  }
+}

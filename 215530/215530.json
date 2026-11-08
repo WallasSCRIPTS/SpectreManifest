@@ -1,0 +1,53 @@
+{
+  "name": "The Incredible Adventures of Van Helsing",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:04.153Z",
+  "branches": {
+    "public": {
+      "buildid": "850039",
+      "timebuildupdated": "1446978388"
+    }
+  },
+  "depot": {
+    "215531": {
+      "manifests": {
+        "public": {
+          "gid": "2570568719847214863",
+          "size": "19838812705",
+          "download": "8210335984"
+        }
+      }
+    },
+    "215538": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "447342929939409609",
+          "size": "999693655",
+          "download": "713337968"
+        }
+      }
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "850039",
+        "timebuildupdated": "1446978388"
+      }
+    }
+  }
+}

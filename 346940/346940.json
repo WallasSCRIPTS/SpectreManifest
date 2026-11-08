@@ -1,0 +1,76 @@
+{
+  "name": "Shadowrun: Hong Kong - Extended Edition",
+  "source": "spectre",
+  "changenumber": 38014892,
+  "updated": "2026-11-07T20:56:58.401Z",
+  "branches": {
+    "public": {
+      "buildid": "993355",
+      "timebuildupdated": "1456369106"
+    },
+    "public_beta": {
+      "buildid": "993355",
+      "description": "Public Beta Branch",
+      "timebuildupdated": "1456369106"
+    }
+  },
+  "depot": {
+    "346941": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4364315406707422410",
+          "size": "9620768919",
+          "download": "2627811008"
+        }
+      }
+    },
+    "346942": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6662977945048183086",
+          "size": "9637612666",
+          "download": "2628266496"
+        }
+      }
+    },
+    "346943": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7932484126913424701",
+          "size": "9599575077",
+          "download": "2619290560"
+        }
+      }
+    },
+    "395260": {
+      "manifests": {
+        "public": {
+          "gid": "841470157374968634",
+          "size": "286050714",
+          "download": "235692160"
+        }
+      },
+      "dlcappid": "395260"
+    },
+    "branches": {
+      "public": {
+        "buildid": "993355",
+        "timebuildupdated": "1456369106"
+      },
+      "public_beta": {
+        "buildid": "993355",
+        "description": "Public Beta Branch",
+        "timebuildupdated": "1456369106"
+      }
+    }
+  }
+}

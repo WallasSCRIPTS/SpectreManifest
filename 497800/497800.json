@@ -1,0 +1,150 @@
+{
+  "name": "Golden Krone Hotel",
+  "source": "spectre",
+  "changenumber": 36900344,
+  "updated": "2026-11-07T20:58:17.515Z",
+  "branches": {
+    "public": {
+      "buildid": "10316476",
+      "timeupdated": "1673620937",
+      "timebuildupdated": "1673620470"
+    },
+    "experimental": {
+      "buildid": "9745548",
+      "timeupdated": "1666095125",
+      "timebuildupdated": "1666095125"
+    },
+    "previous": {
+      "buildid": "10185043",
+      "description": "v1.10",
+      "timeupdated": "1673910990",
+      "timebuildupdated": "1671546507"
+    },
+    "previous-previous": {
+      "buildid": "9362163",
+      "description": "v1.9",
+      "timeupdated": "1673911072",
+      "timebuildupdated": "1661177884"
+    },
+    "previous-previous-previous": {
+      "buildid": "7537938",
+      "description": "v1.8",
+      "timeupdated": "1673911116",
+      "timebuildupdated": "1634277637"
+    },
+    "smoketest": {
+      "buildid": "10316476",
+      "description": "quickly check builds",
+      "timeupdated": "1673620470",
+      "timebuildupdated": "1673620470"
+    }
+  },
+  "depot": {
+    "497801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3349805021319002197",
+          "size": "591280608",
+          "download": "282932800"
+        }
+      }
+    },
+    "497802": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2764530431437656330",
+          "size": "688584623",
+          "download": "475962560"
+        }
+      }
+    },
+    "497803": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8619635296622984294",
+          "size": "565274294",
+          "download": "282474656"
+        }
+      }
+    },
+    "497805": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4577450503401652073",
+          "size": "688373312",
+          "download": "290417696"
+        }
+      }
+    },
+    "497806": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4289975256781256347",
+          "size": "738049351",
+          "download": "491826592"
+        }
+      }
+    },
+    "738980": {
+      "manifests": {
+        "public": {
+          "gid": "7068887001356692321",
+          "size": "55716013",
+          "download": "55797120"
+        }
+      },
+      "dlcappid": "738980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "10316476",
+        "timeupdated": "1673620937",
+        "timebuildupdated": "1673620470"
+      },
+      "experimental": {
+        "buildid": "9745548",
+        "timeupdated": "1666095125",
+        "timebuildupdated": "1666095125"
+      },
+      "previous": {
+        "buildid": "10185043",
+        "description": "v1.10",
+        "timeupdated": "1673910990",
+        "timebuildupdated": "1671546507"
+      },
+      "previous-previous": {
+        "buildid": "9362163",
+        "description": "v1.9",
+        "timeupdated": "1673911072",
+        "timebuildupdated": "1661177884"
+      },
+      "previous-previous-previous": {
+        "buildid": "7537938",
+        "description": "v1.8",
+        "timeupdated": "1673911116",
+        "timebuildupdated": "1634277637"
+      },
+      "smoketest": {
+        "buildid": "10316476",
+        "description": "quickly check builds",
+        "timeupdated": "1673620470",
+        "timebuildupdated": "1673620470"
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Shadow Warrior Classic Redux",
+  "source": "spectre",
+  "changenumber": 37432492,
+  "updated": "2026-11-07T20:56:06.362Z",
+  "branches": {
+    "public": {
+      "buildid": "16799383",
+      "timeupdated": "1734942927",
+      "timebuildupdated": "1734605620"
+    },
+    "sdl1": {
+      "buildid": "198569",
+      "timebuildupdated": "1393304236"
+    },
+    "public-beta": {
+      "buildid": "16799383",
+      "description": "Public Beta",
+      "timeupdated": "1734605620",
+      "timebuildupdated": "1734605620"
+    }
+  },
+  "depot": {
+    "225161": {
+      "manifests": {
+        "public": {
+          "gid": "4370089163666728974",
+          "size": "555475331",
+          "download": "244686368"
+        }
+      }
+    },
+    "225162": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1469159180937875544",
+          "size": "21468978",
+          "download": "7355680"
+        }
+      }
+    },
+    "225163": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7207821163636110280",
+          "size": "19532498",
+          "download": "6566768"
+        }
+      }
+    },
+    "225164": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6382181640604874650",
+          "size": "16879954",
+          "download": "5827232"
+        }
+      }
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "16799383",
+        "timeupdated": "1734942927",
+        "timebuildupdated": "1734605620"
+      },
+      "sdl1": {
+        "buildid": "198569",
+        "timebuildupdated": "1393304236"
+      },
+      "public-beta": {
+        "buildid": "16799383",
+        "description": "Public Beta",
+        "timeupdated": "1734605620",
+        "timebuildupdated": "1734605620"
+      }
+    }
+  }
+}

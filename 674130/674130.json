@@ -1,0 +1,46 @@
+{
+  "name": "Bare Metal",
+  "source": "spectre",
+  "changenumber": 40315868,
+  "updated": "2026-11-07T20:59:42.320Z",
+  "branches": {
+    "public": {
+      "buildid": "2315241",
+      "timeupdated": "1511576694",
+      "timebuildupdated": "1511576694"
+    }
+  },
+  "depot": {
+    "674131": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5580110884494294102",
+          "size": "64390900",
+          "download": "20316592"
+        }
+      }
+    },
+    "674132": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4294253658290492703",
+          "size": "74969284",
+          "download": "23507360"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2315241",
+        "timeupdated": "1511576694",
+        "timebuildupdated": "1511576694"
+      }
+    }
+  }
+}

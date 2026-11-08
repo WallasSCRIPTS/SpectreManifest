@@ -1,0 +1,116 @@
+{
+  "name": "Wuppo - Definitive Edition",
+  "source": "spectre",
+  "changenumber": 37434570,
+  "updated": "2026-11-07T20:57:33.133Z",
+  "branches": {
+    "public": {
+      "buildid": "17204181",
+      "timeupdated": "1738355627",
+      "timebuildupdated": "1738355360"
+    },
+    "classic": {
+      "buildid": "3302867",
+      "timeupdated": "1566913672",
+      "timebuildupdated": "1542116424"
+    },
+    "beta": {
+      "buildid": "17204181",
+      "description": "Beta testing",
+      "timeupdated": "1738355370",
+      "timebuildupdated": "1738355360"
+    },
+    "revert": {
+      "buildid": "13558865",
+      "description": "Revert to the previous version of the game",
+      "timeupdated": "1738139470",
+      "timebuildupdated": "1708888158"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "400631": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6813783885819333021",
+          "size": "1068484415",
+          "download": "986616192"
+        }
+      }
+    },
+    "400632": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2735234126411514084",
+          "size": "458764268",
+          "download": "391836384"
+        }
+      }
+    },
+    "527020": {
+      "manifests": {
+        "public": {
+          "gid": "5281358629624137735",
+          "size": "596063096",
+          "download": "563914224"
+        }
+      },
+      "dlcappid": "527020"
+    },
+    "527021": {
+      "manifests": {
+        "public": {
+          "gid": "4750121261931026516",
+          "size": "203124892",
+          "download": "199063760"
+        }
+      },
+      "dlcappid": "527021"
+    },
+    "527022": {
+      "manifests": {
+        "public": {
+          "gid": "7257687811074518651",
+          "size": "25",
+          "download": "80"
+        }
+      },
+      "dlcappid": "527022"
+    },
+    "branches": {
+      "public": {
+        "buildid": "17204181",
+        "timeupdated": "1738355627",
+        "timebuildupdated": "1738355360"
+      },
+      "classic": {
+        "buildid": "3302867",
+        "timeupdated": "1566913672",
+        "timebuildupdated": "1542116424"
+      },
+      "beta": {
+        "buildid": "17204181",
+        "description": "Beta testing",
+        "timeupdated": "1738355370",
+        "timebuildupdated": "1738355360"
+      },
+      "revert": {
+        "buildid": "13558865",
+        "description": "Revert to the previous version of the game",
+        "timeupdated": "1738139470",
+        "timebuildupdated": "1708888158"
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "KaRu",
+  "source": "spectre",
+  "changenumber": 40631809,
+  "updated": "2026-11-06T23:11:36.799Z",
+  "branches": {
+    "public": {
+      "buildid": "10256730",
+      "timeupdated": "1672861649",
+      "timebuildupdated": "1672861567"
+    },
+    "update_beta_testing": {
+      "buildid": "12694186",
+      "description": "branch used for testing technical updates",
+      "timeupdated": "1699920424",
+      "timebuildupdated": "1699920232"
+    }
+  },
+  "depot": {
+    "1834001": {
+      "manifests": {
+        "public": {
+          "gid": "8508017697743763608",
+          "size": "1477574080",
+          "download": "1244256608"
+        }
+      }
+    },
+    "1834002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2442123224844585322",
+          "size": "55176226",
+          "download": "14962368"
+        }
+      }
+    },
+    "1834003": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3034083472995762088",
+          "size": "87339593",
+          "download": "22488736"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10256730",
+        "timeupdated": "1672861649",
+        "timebuildupdated": "1672861567"
+      },
+      "update_beta_testing": {
+        "buildid": "12694186",
+        "description": "branch used for testing technical updates",
+        "timeupdated": "1699920424",
+        "timebuildupdated": "1699920232"
+      }
+    }
+  }
+}

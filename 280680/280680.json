@@ -1,0 +1,85 @@
+{
+  "name": "Krita",
+  "source": "spectre",
+  "changenumber": 40610001,
+  "updated": "2026-11-07T20:56:21.683Z",
+  "branches": {
+    "public": {
+      "buildid": "25763703",
+      "timeupdated": "1791325274",
+      "timebuildupdated": "1791325186"
+    },
+    "rollback": {
+      "buildid": "22121496",
+      "description": "Previous stable version. For users who want/need to roll back for some reason.",
+      "timeupdated": "1774384278",
+      "timebuildupdated": "1772166785"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "280681": {
+      "manifests": {
+        "public": {
+          "gid": "5697720818733026338",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "280682": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3899366466524570256",
+          "size": "591588676",
+          "download": "212395360"
+        }
+      }
+    },
+    "280683": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1862152244137346697",
+          "size": "1097475193",
+          "download": "391963792"
+        }
+      }
+    },
+    "280684": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8175905837975868483",
+          "size": "980802825",
+          "download": "314524256"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25763703",
+        "timeupdated": "1791325274",
+        "timebuildupdated": "1791325186"
+      },
+      "rollback": {
+        "buildid": "22121496",
+        "description": "Previous stable version. For users who want/need to roll back for some reason.",
+        "timeupdated": "1774384278",
+        "timebuildupdated": "1772166785"
+      }
+    }
+  }
+}

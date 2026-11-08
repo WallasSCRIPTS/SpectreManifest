@@ -1,0 +1,82 @@
+{
+  "name": "Born Again",
+  "source": "spectre",
+  "changenumber": 40643189,
+  "updated": "2026-11-06T23:23:15.881Z",
+  "branches": {
+    "public": {
+      "buildid": "22945926",
+      "timeupdated": "1777053908",
+      "timebuildupdated": "1777053640"
+    },
+    "testing": {
+      "buildid": "22929696",
+      "description": "Testing branch",
+      "timeupdated": "1776977047",
+      "timebuildupdated": "1776976842"
+    }
+  },
+  "depot": {
+    "2332212": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4166359676628563054",
+          "size": "251324866",
+          "download": "104452544"
+        }
+      }
+    },
+    "2332213": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "497758149750341172",
+          "size": "216975206",
+          "download": "91859680"
+        }
+      }
+    },
+    "2332214": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "963106502018238252",
+          "size": "516042741",
+          "download": "146006544"
+        }
+      }
+    },
+    "2332215": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2754118098498100079",
+          "size": "389820504",
+          "download": "123750800"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22945926",
+        "timeupdated": "1777053908",
+        "timebuildupdated": "1777053640"
+      },
+      "testing": {
+        "buildid": "22929696",
+        "description": "Testing branch",
+        "timeupdated": "1776977047",
+        "timebuildupdated": "1776976842"
+      }
+    }
+  }
+}

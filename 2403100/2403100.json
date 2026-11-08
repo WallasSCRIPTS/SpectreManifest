@@ -1,0 +1,58 @@
+{
+  "name": "Costa Verde Transport Department",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:23:24.267Z",
+  "branches": {
+    "public": {
+      "buildid": "12879691",
+      "timeupdated": "1701782495",
+      "timebuildupdated": "1701782495"
+    }
+  },
+  "depot": {
+    "2403101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3892769007196312952",
+          "size": "46990286",
+          "download": "33357088"
+        }
+      }
+    },
+    "2403102": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2783710278090719367",
+          "size": "44174694",
+          "download": "33159824"
+        }
+      }
+    },
+    "2403103": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8013556090730647997",
+          "size": "46143454",
+          "download": "33430096"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12879691",
+        "timeupdated": "1701782495",
+        "timebuildupdated": "1701782495"
+      }
+    }
+  }
+}

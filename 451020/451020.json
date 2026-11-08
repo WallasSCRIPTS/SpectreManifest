@@ -1,0 +1,86 @@
+{
+  "name": "Battle Chasers: Nightwar",
+  "source": "spectre",
+  "changenumber": 40572161,
+  "updated": "2026-11-07T20:57:56.946Z",
+  "branches": {
+    "public": {
+      "buildid": "3311243",
+      "timeupdated": "1542309530",
+      "timebuildupdated": "1542309530"
+    },
+    "linuxtest": {
+      "buildid": "2490269",
+      "description": "Expect bugs! Check our forums.",
+      "timeupdated": "1517528236",
+      "timebuildupdated": "1517523959"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "451021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3906246654008842494",
+          "size": "4246753113",
+          "download": "3701226736"
+        }
+      }
+    },
+    "451022": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8535825738722755900",
+          "size": "4273344933",
+          "download": "3710507600"
+        }
+      }
+    },
+    "451023": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2945580420102513375",
+          "size": "3771694750",
+          "download": "3232032416"
+        }
+      }
+    },
+    "712630": {
+      "manifests": {
+        "public": {
+          "gid": "6181523407357965383",
+          "size": "1314157189",
+          "download": "1171995968"
+        }
+      },
+      "dlcappid": "712630"
+    },
+    "branches": {
+      "public": {
+        "buildid": "3311243",
+        "timeupdated": "1542309530",
+        "timebuildupdated": "1542309530"
+      },
+      "linuxtest": {
+        "buildid": "2490269",
+        "description": "Expect bugs! Check our forums.",
+        "timeupdated": "1517528236",
+        "timebuildupdated": "1517523959"
+      }
+    }
+  }
+}

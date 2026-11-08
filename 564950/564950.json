@@ -1,0 +1,65 @@
+{
+  "name": "Starfighter Origins",
+  "source": "spectre",
+  "changenumber": 40652794,
+  "updated": "2026-11-07T20:58:50.072Z",
+  "branches": {
+    "public": {
+      "buildid": "7012541",
+      "timeupdated": "1626024990",
+      "timebuildupdated": "1626024872"
+    },
+    "beta1.8": {
+      "buildid": "7006785",
+      "description": "beta 1.8 Testing - Hotas, FVS and SFX upgrade.",
+      "timeupdated": "1625854578",
+      "timebuildupdated": "1625854452"
+    },
+    "orignal2017": {
+      "buildid": "2006982",
+      "timeupdated": "1588102530",
+      "timebuildupdated": "1501698939"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "564951": {
+      "manifests": {
+        "public": {
+          "gid": "4235921753382204563",
+          "size": "18011689977",
+          "download": "5325402176"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7012541",
+        "timeupdated": "1626024990",
+        "timebuildupdated": "1626024872"
+      },
+      "beta1.8": {
+        "buildid": "7006785",
+        "description": "beta 1.8 Testing - Hotas, FVS and SFX upgrade.",
+        "timeupdated": "1625854578",
+        "timebuildupdated": "1625854452"
+      },
+      "orignal2017": {
+        "buildid": "2006982",
+        "timeupdated": "1588102530",
+        "timebuildupdated": "1501698939"
+      }
+    }
+  }
+}

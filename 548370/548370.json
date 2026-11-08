@@ -1,0 +1,70 @@
+{
+  "name": "Rezrog",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:41.197Z",
+  "branches": {
+    "public": {
+      "buildid": "3416304",
+      "timeupdated": "1545313040",
+      "timebuildupdated": "1545310176"
+    },
+    "beta": {
+      "buildid": "3381637",
+      "description": "1.1.1 patch beta",
+      "timeupdated": "1544429202",
+      "timebuildupdated": "1544428897"
+    }
+  },
+  "depot": {
+    "548372": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2317999208656202449",
+          "size": "1921694745",
+          "download": "387650832"
+        }
+      }
+    },
+    "548373": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1470640269839680453",
+          "size": "1913673963",
+          "download": "385446608"
+        }
+      }
+    },
+    "548374": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "253193596273969107",
+          "size": "1837150022",
+          "download": "373230576"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3416304",
+        "timeupdated": "1545313040",
+        "timebuildupdated": "1545310176"
+      },
+      "beta": {
+        "buildid": "3381637",
+        "description": "1.1.1 patch beta",
+        "timeupdated": "1544429202",
+        "timebuildupdated": "1544428897"
+      }
+    }
+  }
+}

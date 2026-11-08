@@ -1,0 +1,80 @@
+{
+  "name": "Button City",
+  "source": "spectre",
+  "changenumber": 40479664,
+  "updated": "2026-11-06T21:04:05.178Z",
+  "branches": {
+    "public": {
+      "buildid": "24078914",
+      "timeupdated": "1783367604",
+      "timebuildupdated": "1783367604"
+    },
+    "beta-testing": {
+      "buildid": "23748430",
+      "description": "Public beta testing for patches. This branch may have unstable builds so please use at your own caution.",
+      "timeupdated": "1781547771",
+      "timebuildupdated": "1781547771"
+    },
+    "buttoncity-1-0-3-1": {
+      "buildid": "15031283",
+      "description": "Button City version 1.0.3.1",
+      "timeupdated": "1721001156",
+      "timebuildupdated": "1721001156"
+    }
+  },
+  "depot": {
+    "1273751": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2415673798777091687",
+          "size": "466209285",
+          "download": "396364208"
+        }
+      }
+    },
+    "1273752": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3555503705080691242",
+          "size": "576226196",
+          "download": "428140928"
+        }
+      }
+    },
+    "2100850": {
+      "manifests": {
+        "public": {
+          "gid": "1633441586744166128",
+          "size": "65401398",
+          "download": "56598864"
+        }
+      },
+      "dlcappid": "2100850"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24078914",
+        "timeupdated": "1783367604",
+        "timebuildupdated": "1783367604"
+      },
+      "beta-testing": {
+        "buildid": "23748430",
+        "description": "Public beta testing for patches. This branch may have unstable builds so please use at your own caution.",
+        "timeupdated": "1781547771",
+        "timebuildupdated": "1781547771"
+      },
+      "buttoncity-1-0-3-1": {
+        "buildid": "15031283",
+        "description": "Button City version 1.0.3.1",
+        "timeupdated": "1721001156",
+        "timebuildupdated": "1721001156"
+      }
+    }
+  }
+}

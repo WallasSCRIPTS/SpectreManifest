@@ -1,0 +1,82 @@
+{
+  "name": "Scarlet Deer Inn",
+  "source": "spectre",
+  "changenumber": 40076696,
+  "updated": "2026-11-06T21:06:05.919Z",
+  "branches": {
+    "public": {
+      "buildid": "25257120",
+      "timeupdated": "1789461323",
+      "timebuildupdated": "1789141745"
+    },
+    "beta": {
+      "buildid": "25257120",
+      "description": "Beta",
+      "timeupdated": "1789142058",
+      "timebuildupdated": "1789141745"
+    },
+    "beta_localisation": {
+      "buildid": "25257120",
+      "description": "Testing finished localisations",
+      "timeupdated": "1789142070",
+      "timebuildupdated": "1789141745"
+    },
+    "mac_beta": {
+      "buildid": "25257120",
+      "description": "Mac builds beta",
+      "timeupdated": "1789142078",
+      "timebuildupdated": "1789141745"
+    }
+  },
+  "depot": {
+    "1553261": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "246557039322805641",
+          "size": "4329609873",
+          "download": "708520720"
+        }
+      }
+    },
+    "1553262": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8905554330023346131",
+          "size": "4323829834",
+          "download": "776930592"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25257120",
+        "timeupdated": "1789461323",
+        "timebuildupdated": "1789141745"
+      },
+      "beta": {
+        "buildid": "25257120",
+        "description": "Beta",
+        "timeupdated": "1789142058",
+        "timebuildupdated": "1789141745"
+      },
+      "beta_localisation": {
+        "buildid": "25257120",
+        "description": "Testing finished localisations",
+        "timeupdated": "1789142070",
+        "timebuildupdated": "1789141745"
+      },
+      "mac_beta": {
+        "buildid": "25257120",
+        "description": "Mac builds beta",
+        "timeupdated": "1789142078",
+        "timebuildupdated": "1789141745"
+      }
+    }
+  }
+}

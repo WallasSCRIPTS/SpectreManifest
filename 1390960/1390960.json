@@ -1,0 +1,70 @@
+{
+  "name": "Lab Chaos",
+  "source": "spectre",
+  "changenumber": 34857319,
+  "updated": "2026-11-06T21:04:54.542Z",
+  "branches": {
+    "public": {
+      "buildid": "14568802",
+      "timeupdated": "1717216416",
+      "timebuildupdated": "1717216349"
+    },
+    "beta": {
+      "buildid": "14568802",
+      "description": "Beta Testing",
+      "timeupdated": "1717216349",
+      "timebuildupdated": "1717216349"
+    }
+  },
+  "depot": {
+    "1390961": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8053920712327963836",
+          "size": "378350512",
+          "download": "74946128"
+        }
+      }
+    },
+    "1390962": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1952066418718381014",
+          "size": "519153385",
+          "download": "85694816"
+        }
+      }
+    },
+    "1390963": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5597642703200061184",
+          "size": "451179693",
+          "download": "81438288"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14568802",
+        "timeupdated": "1717216416",
+        "timebuildupdated": "1717216349"
+      },
+      "beta": {
+        "buildid": "14568802",
+        "description": "Beta Testing",
+        "timeupdated": "1717216349",
+        "timebuildupdated": "1717216349"
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "name": "SteamWorld Dig",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:13.035Z",
+  "branches": {
+    "public": {
+      "buildid": "382752",
+      "timebuildupdated": "1410798037"
+    },
+    "public_test": {
+      "buildid": "2755115",
+      "timeupdated": "1525782581",
+      "timebuildupdated": "1525782239"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "252411": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "826112832252820148",
+          "size": "79779834",
+          "download": "0"
+        }
+      }
+    },
+    "252412": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1536504258839216232",
+          "size": "118272725",
+          "download": "0"
+        }
+      }
+    },
+    "252413": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7328598504782608211",
+          "size": "78661058",
+          "download": "0"
+        }
+      }
+    },
+    "297900": {
+      "manifests": {
+        "public": {
+          "gid": "6962921287540438887",
+          "size": "120597395",
+          "download": "0"
+        }
+      },
+      "dlcappid": "297900"
+    },
+    "branches": {
+      "public": {
+        "buildid": "382752",
+        "timebuildupdated": "1410798037"
+      },
+      "public_test": {
+        "buildid": "2755115",
+        "timeupdated": "1525782581",
+        "timebuildupdated": "1525782239"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Base Wars",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:09:42.229Z",
+  "branches": {
+    "public": {
+      "buildid": "8540099",
+      "timeupdated": "1649727832",
+      "timebuildupdated": "1649727744"
+    },
+    "beta": {
+      "buildid": "8540099",
+      "description": "Test balance changes and features early!",
+      "timeupdated": "1649727824",
+      "timebuildupdated": "1649727744"
+    }
+  },
+  "depot": {
+    "1747111": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8961741568566552448",
+          "size": "176540537",
+          "download": "88194192"
+        }
+      }
+    },
+    "1747112": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7656644648107830445",
+          "size": "160170594",
+          "download": "83095632"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8540099",
+        "timeupdated": "1649727832",
+        "timebuildupdated": "1649727744"
+      },
+      "beta": {
+        "buildid": "8540099",
+        "description": "Test balance changes and features early!",
+        "timeupdated": "1649727824",
+        "timebuildupdated": "1649727744"
+      }
+    }
+  }
+}

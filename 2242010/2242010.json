@@ -1,0 +1,76 @@
+{
+  "name": "Come Together Demo",
+  "source": "spectre",
+  "changenumber": 34891710,
+  "updated": "2026-11-06T23:19:35.274Z",
+  "branches": {
+    "public": {
+      "buildid": "12105959",
+      "timeupdated": "1693839217",
+      "timebuildupdated": "1693839181"
+    },
+    "old_d1": {
+      "buildid": "11278034",
+      "description": "Older build based on d-1.0 version. Use this if you are having problems with newer builds.",
+      "timeupdated": "1684580187",
+      "timebuildupdated": "1684580163"
+    },
+    "old_d2.0": {
+      "buildid": "11604994",
+      "description": "Older build based on d-2.0 version and Unity 2021. Use this if you are having problems with newer builds.",
+      "timeupdated": "1693839235",
+      "timebuildupdated": "1688210896"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2242011": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5124805930981967059",
+          "size": "147630400",
+          "download": "69471328"
+        }
+      }
+    },
+    "2242012": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "287291289828795615",
+          "size": "179674706",
+          "download": "70934912"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12105959",
+        "timeupdated": "1693839217",
+        "timebuildupdated": "1693839181"
+      },
+      "old_d1": {
+        "buildid": "11278034",
+        "description": "Older build based on d-1.0 version. Use this if you are having problems with newer builds.",
+        "timeupdated": "1684580187",
+        "timebuildupdated": "1684580163"
+      },
+      "old_d2.0": {
+        "buildid": "11604994",
+        "description": "Older build based on d-2.0 version and Unity 2021. Use this if you are having problems with newer builds.",
+        "timeupdated": "1693839235",
+        "timebuildupdated": "1688210896"
+      }
+    }
+  }
+}

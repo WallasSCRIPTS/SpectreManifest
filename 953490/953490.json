@@ -1,0 +1,95 @@
+{
+  "name": "CARRION",
+  "source": "spectre",
+  "changenumber": 37438766,
+  "updated": "2026-11-07T21:01:56.483Z",
+  "branches": {
+    "public": {
+      "buildid": "9877347",
+      "timeupdated": "1667745822",
+      "timebuildupdated": "1667672302"
+    },
+    "beta": {
+      "buildid": "9877347",
+      "description": "Patch testing.",
+      "timeupdated": "1667672302",
+      "timebuildupdated": "1667672302"
+    },
+    "prototypes": {
+      "buildid": "9879864",
+      "description": "The ancient prototype versions of Carrion.",
+      "timeupdated": "1667745864",
+      "timebuildupdated": "1667745864"
+    }
+  },
+  "depot": {
+    "953491": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2388749483486048975",
+          "size": "188338560",
+          "download": "113663920"
+        }
+      }
+    },
+    "953492": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5051071834624244651",
+          "size": "218453631",
+          "download": "127008416"
+        }
+      }
+    },
+    "953493": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2518178748484096326",
+          "size": "199866688",
+          "download": "115931648"
+        }
+      }
+    },
+    "953494": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1359721034225396334",
+          "size": "240041108",
+          "download": "118301728"
+        }
+      }
+    },
+    "953495": {},
+    "branches": {
+      "public": {
+        "buildid": "9877347",
+        "timeupdated": "1667745822",
+        "timebuildupdated": "1667672302"
+      },
+      "beta": {
+        "buildid": "9877347",
+        "description": "Patch testing.",
+        "timeupdated": "1667672302",
+        "timebuildupdated": "1667672302"
+      },
+      "prototypes": {
+        "buildid": "9879864",
+        "description": "The ancient prototype versions of Carrion.",
+        "timeupdated": "1667745864",
+        "timebuildupdated": "1667745864"
+      }
+    }
+  }
+}

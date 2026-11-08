@@ -1,0 +1,106 @@
+{
+  "name": "Unwording",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:15:25.398Z",
+  "branches": {
+    "public": {
+      "buildid": "11181816",
+      "timeupdated": "1683564237",
+      "timebuildupdated": "1683564071"
+    },
+    "mactestbeta": {
+      "buildid": "11121516",
+      "description": "mac test metal and silicon",
+      "timeupdated": "1682764209",
+      "timebuildupdated": "1682764064"
+    },
+    "mactestbeta2": {
+      "buildid": "11121584",
+      "description": "all 3",
+      "timeupdated": "1682765089",
+      "timebuildupdated": "1682765026"
+    },
+    "mactestbeta3": {
+      "buildid": "11121602",
+      "description": "auto",
+      "timeupdated": "1682766023",
+      "timebuildupdated": "1682765488"
+    }
+  },
+  "depot": {
+    "1974251": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "431363489656342942",
+          "size": "1417206873",
+          "download": "406592064"
+        }
+      }
+    },
+    "1974252": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4105405268428461776",
+          "size": "1409541547",
+          "download": "404132224"
+        }
+      }
+    },
+    "1974253": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5441355579222772852",
+          "size": "1443602319",
+          "download": "414373440"
+        }
+      }
+    },
+    "1974254": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4563700052863991960",
+          "size": "1500223648",
+          "download": "426179856"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11181816",
+        "timeupdated": "1683564237",
+        "timebuildupdated": "1683564071"
+      },
+      "mactestbeta": {
+        "buildid": "11121516",
+        "description": "mac test metal and silicon",
+        "timeupdated": "1682764209",
+        "timebuildupdated": "1682764064"
+      },
+      "mactestbeta2": {
+        "buildid": "11121584",
+        "description": "all 3",
+        "timeupdated": "1682765089",
+        "timebuildupdated": "1682765026"
+      },
+      "mactestbeta3": {
+        "buildid": "11121602",
+        "description": "auto",
+        "timeupdated": "1682766023",
+        "timebuildupdated": "1682765488"
+      }
+    }
+  }
+}

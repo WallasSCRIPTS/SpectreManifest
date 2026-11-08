@@ -1,0 +1,80 @@
+{
+  "name": "Savage Lands",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:33.943Z",
+  "branches": {
+    "public": {
+      "buildid": "12516772",
+      "timeupdated": "1698377439",
+      "timebuildupdated": "1698113889"
+    },
+    "legacy": {
+      "buildid": "851723",
+      "description": "Final Unity 4 Build",
+      "timebuildupdated": "1447102525"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "307881": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6638246964444326719",
+          "size": "3890145930",
+          "download": "1553661936"
+        }
+      }
+    },
+    "307882": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6607497893488495132",
+          "size": "3911732032",
+          "download": "1559970368"
+        }
+      }
+    },
+    "307883": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1633027523953994291",
+          "size": "3893986032",
+          "download": "1550799280"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12516772",
+        "timeupdated": "1698377439",
+        "timebuildupdated": "1698113889"
+      },
+      "legacy": {
+        "buildid": "851723",
+        "description": "Final Unity 4 Build",
+        "timebuildupdated": "1447102525"
+      }
+    }
+  }
+}

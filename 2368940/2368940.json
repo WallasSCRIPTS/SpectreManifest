@@ -1,0 +1,82 @@
+{
+  "name": "Jurl",
+  "source": "spectre",
+  "changenumber": 40207381,
+  "updated": "2026-11-06T23:23:20.166Z",
+  "branches": {
+    "public": {
+      "buildid": "26184551",
+      "timeupdated": "1792858309",
+      "timebuildupdated": "1792858220"
+    },
+    "multiostest": {
+      "buildid": "10851392",
+      "description": "test branch for all os",
+      "timeupdated": "1679687374",
+      "timebuildupdated": "1679687374"
+    },
+    "overlaytest": {
+      "buildid": "10986902",
+      "description": "testing overlay pause fixes",
+      "timeupdated": "1681313683",
+      "timebuildupdated": "1681313683"
+    }
+  },
+  "depot": {
+    "2368941": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4702369043154018798",
+          "size": "160421696",
+          "download": "77353552"
+        }
+      }
+    },
+    "2368942": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4656204798944698534",
+          "size": "125423352",
+          "download": "68837024"
+        }
+      }
+    },
+    "2368943": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3331830553800458049",
+          "size": "224176071",
+          "download": "96197488"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26184551",
+        "timeupdated": "1792858309",
+        "timebuildupdated": "1792858220"
+      },
+      "multiostest": {
+        "buildid": "10851392",
+        "description": "test branch for all os",
+        "timeupdated": "1679687374",
+        "timebuildupdated": "1679687374"
+      },
+      "overlaytest": {
+        "buildid": "10986902",
+        "description": "testing overlay pause fixes",
+        "timeupdated": "1681313683",
+        "timebuildupdated": "1681313683"
+      }
+    }
+  }
+}

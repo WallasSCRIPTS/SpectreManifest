@@ -1,0 +1,72 @@
+{
+  "name": "Starshot Genesis",
+  "source": "spectre",
+  "changenumber": 35012739,
+  "updated": "2026-11-04T23:25:41.790Z",
+  "branches": {
+    "public": {
+      "buildid": "21912196",
+      "timeupdated": "1770947179",
+      "timebuildupdated": "1770947154"
+    },
+    "local": {
+      "buildid": "21909594",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1770932134",
+      "timebuildupdated": "1770932134"
+    }
+  },
+  "depot": {
+    "4425752": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6009482438775879913",
+          "size": "83471193",
+          "download": "83467280"
+        }
+      }
+    },
+    "4425753": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5838831349843649209",
+          "size": "249344110",
+          "download": "102434208"
+        }
+      }
+    },
+    "4425754": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2782436983327646200",
+          "size": "281658471",
+          "download": "110138464"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21912196",
+        "timeupdated": "1770947179",
+        "timebuildupdated": "1770947154"
+      },
+      "local": {
+        "buildid": "21909594",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1770932134",
+        "timebuildupdated": "1770932134"
+      }
+    }
+  }
+}

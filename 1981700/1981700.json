@@ -1,0 +1,52 @@
+{
+  "name": "Jacob's Quest Anniversary Edition",
+  "source": "spectre",
+  "changenumber": 40335534,
+  "updated": "2026-11-06T23:15:26.235Z",
+  "branches": {
+    "public": {
+      "buildid": "26269025",
+      "timeupdated": "1793187248",
+      "timebuildupdated": "1793187248"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1981701": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1655880400823122440",
+          "size": "5784145854",
+          "download": "5668193136"
+        }
+      }
+    },
+    "1981702": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6959069438230637595",
+          "size": "5717842926",
+          "download": "5540964848"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26269025",
+        "timeupdated": "1793187248",
+        "timebuildupdated": "1793187248"
+      }
+    }
+  }
+}

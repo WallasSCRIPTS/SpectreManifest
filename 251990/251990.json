@@ -1,0 +1,154 @@
+{
+  "name": "Long Live The Queen",
+  "source": "spectre",
+  "changenumber": 37770917,
+  "updated": "2026-11-07T20:56:12.790Z",
+  "branches": {
+    "public": {
+      "buildid": "24396174",
+      "timeupdated": "1785872341",
+      "timebuildupdated": "1785046896"
+    },
+    "alpha": {
+      "buildid": "24396174",
+      "description": "For testing only, not guaranteed to be stable",
+      "timeupdated": "1785047324",
+      "timebuildupdated": "1785046896"
+    },
+    "beta": {
+      "buildid": "24396174",
+      "description": "Testing engine upgrade, December 2025",
+      "timeupdated": "1785047343",
+      "timebuildupdated": "1785046896"
+    },
+    "oldstable": {
+      "buildid": "22372580",
+      "description": "The previous stable version.",
+      "timeupdated": "1774192679",
+      "timebuildupdated": "1773710458"
+    },
+    "renpy-6.12.2": {
+      "buildid": "1081487",
+      "description": "For old computers. Use only if the other versions do not start.",
+      "timeupdated": "1487817372",
+      "timebuildupdated": "1461008433"
+    },
+    "renpy-6.x": {
+      "buildid": "18339341",
+      "description": "Uses the Ren'Py 6.x engine.",
+      "timeupdated": "1770222065",
+      "timebuildupdated": "1746382341"
+    }
+  },
+  "depot": {
+    "251991": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3089443054651423670",
+          "size": "115753738",
+          "download": "71326256"
+        }
+      }
+    },
+    "251992": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6592831770596676591",
+          "size": "125581144",
+          "download": "75284528"
+        }
+      }
+    },
+    "251993": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5197649834913441457",
+          "size": "148063478",
+          "download": "82665552"
+        }
+      }
+    },
+    "251995": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7380939016747606000",
+          "size": "411302",
+          "download": "135488"
+        }
+      }
+    },
+    "251996": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8058308804286553652",
+          "size": "342598",
+          "download": "164608"
+        }
+      }
+    },
+    "251997": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "999706157709009835",
+          "size": "438358",
+          "download": "88416"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24396174",
+        "timeupdated": "1785872341",
+        "timebuildupdated": "1785046896"
+      },
+      "alpha": {
+        "buildid": "24396174",
+        "description": "For testing only, not guaranteed to be stable",
+        "timeupdated": "1785047324",
+        "timebuildupdated": "1785046896"
+      },
+      "beta": {
+        "buildid": "24396174",
+        "description": "Testing engine upgrade, December 2025",
+        "timeupdated": "1785047343",
+        "timebuildupdated": "1785046896"
+      },
+      "oldstable": {
+        "buildid": "22372580",
+        "description": "The previous stable version.",
+        "timeupdated": "1774192679",
+        "timebuildupdated": "1773710458"
+      },
+      "renpy-6.12.2": {
+        "buildid": "1081487",
+        "description": "For old computers. Use only if the other versions do not start.",
+        "timeupdated": "1487817372",
+        "timebuildupdated": "1461008433"
+      },
+      "renpy-6.x": {
+        "buildid": "18339341",
+        "description": "Uses the Ren'Py 6.x engine.",
+        "timeupdated": "1770222065",
+        "timebuildupdated": "1746382341"
+      }
+    }
+  }
+}

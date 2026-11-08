@@ -1,0 +1,78 @@
+{
+  "name": "Lightseekers",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T21:02:15.883Z",
+  "branches": {
+    "public": {
+      "buildid": "4496477",
+      "timeupdated": "1576598612",
+      "timebuildupdated": "1576489373"
+    },
+    "local": {
+      "buildid": "5018714",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1589333311",
+      "timebuildupdated": "1589333311"
+    },
+    "nightly": {
+      "buildid": "5018714",
+      "lcsrequired": "1",
+      "timeupdated": "1589333359",
+      "timebuildupdated": "1589333311"
+    }
+  },
+  "depot": {
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "988431": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4517484224442194278",
+          "size": "103740385",
+          "download": "27340656"
+        }
+      }
+    },
+    "988432": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7660804533309785073",
+          "size": "100936275",
+          "download": "26591856"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4496477",
+        "timeupdated": "1576598612",
+        "timebuildupdated": "1576489373"
+      },
+      "local": {
+        "buildid": "5018714",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1589333311",
+        "timebuildupdated": "1589333311"
+      },
+      "nightly": {
+        "buildid": "5018714",
+        "lcsrequired": "1",
+        "timeupdated": "1589333359",
+        "timebuildupdated": "1589333311"
+      }
+    }
+  }
+}

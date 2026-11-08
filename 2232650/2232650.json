@@ -1,0 +1,70 @@
+{
+  "name": "Expand & Exterminate: Terrytorial Disputes",
+  "source": "spectre",
+  "changenumber": 40065536,
+  "updated": "2026-11-06T23:19:34.241Z",
+  "branches": {
+    "public": {
+      "buildid": "12956920",
+      "timeupdated": "1702519238",
+      "timebuildupdated": "1702518359"
+    },
+    "demo": {
+      "buildid": "13242786",
+      "description": "Demo version",
+      "timeupdated": "1705965584",
+      "timebuildupdated": "1705965584"
+    },
+    "experimental": {
+      "buildid": "13429873",
+      "description": "Mostly stable build with experimental features that need testing",
+      "timeupdated": "1707707724",
+      "timebuildupdated": "1707707669"
+    }
+  },
+  "depot": {
+    "2232651": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8456519303119151431",
+          "size": "2528169895",
+          "download": "802289664"
+        }
+      }
+    },
+    "2232652": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4930253435523222896",
+          "size": "2463470305",
+          "download": "758189856"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12956920",
+        "timeupdated": "1702519238",
+        "timebuildupdated": "1702518359"
+      },
+      "demo": {
+        "buildid": "13242786",
+        "description": "Demo version",
+        "timeupdated": "1705965584",
+        "timebuildupdated": "1705965584"
+      },
+      "experimental": {
+        "buildid": "13429873",
+        "description": "Mostly stable build with experimental features that need testing",
+        "timeupdated": "1707707724",
+        "timebuildupdated": "1707707669"
+      }
+    }
+  }
+}

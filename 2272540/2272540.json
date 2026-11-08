@@ -1,0 +1,60 @@
+{
+  "name": "FBC: Firebreak",
+  "source": "spectre",
+  "changenumber": 40653684,
+  "updated": "2026-11-06T23:21:23.621Z",
+  "branches": {
+    "public": {
+      "buildid": "22597344",
+      "timeupdated": "1775041157",
+      "timebuildupdated": "1775024571"
+    },
+    "local": {
+      "buildid": "10673205",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1677753244",
+      "timebuildupdated": "1677753244"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2272541": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1433848686099707638",
+          "size": "25128522175",
+          "download": "20432650208"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22597344",
+        "timeupdated": "1775041157",
+        "timebuildupdated": "1775024571"
+      },
+      "local": {
+        "buildid": "10673205",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1677753244",
+        "timebuildupdated": "1677753244"
+      }
+    }
+  }
+}

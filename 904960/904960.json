@@ -1,0 +1,136 @@
+{
+  "name": "Cine Tracer",
+  "source": "spectre",
+  "changenumber": 37438766,
+  "updated": "2026-11-07T21:01:34.855Z",
+  "branches": {
+    "public": {
+      "buildid": "11061267",
+      "timeupdated": "1682093032",
+      "timebuildupdated": "1682093032"
+    },
+    "betabeta": {
+      "buildid": "11060229",
+      "description": "PC Beta Branch",
+      "timeupdated": "1682085466",
+      "timebuildupdated": "1682085396"
+    },
+    "directx11": {
+      "buildid": "3848207",
+      "timeupdated": "1562179066",
+      "timebuildupdated": "1558549763"
+    },
+    "macbeta": {
+      "buildid": "11061241",
+      "description": "test Mac build",
+      "timeupdated": "1682092852",
+      "timebuildupdated": "1682092852"
+    },
+    "v0_34": {
+      "buildid": "4139594",
+      "timeupdated": "1574439805",
+      "timebuildupdated": "1566831445"
+    },
+    "v0_57": {
+      "buildid": "4889414",
+      "timeupdated": "1599402107",
+      "timebuildupdated": "1586702978"
+    },
+    "v0_63": {
+      "buildid": "8322724",
+      "description": "2022 build before MetaHumans",
+      "timeupdated": "1646580883",
+      "timebuildupdated": "1646580883"
+    },
+    "v0_7_7": {
+      "buildid": "9685130",
+      "description": "Build before actor scaling was added",
+      "timeupdated": "1669906624",
+      "timebuildupdated": "1665325580"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "904961": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1555895286294892997",
+          "size": "23570773101",
+          "download": "9258703168"
+        }
+      }
+    },
+    "904962": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3024429789705513990",
+          "size": "19012398560",
+          "download": "8162364992"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11061267",
+        "timeupdated": "1682093032",
+        "timebuildupdated": "1682093032"
+      },
+      "betabeta": {
+        "buildid": "11060229",
+        "description": "PC Beta Branch",
+        "timeupdated": "1682085466",
+        "timebuildupdated": "1682085396"
+      },
+      "directx11": {
+        "buildid": "3848207",
+        "timeupdated": "1562179066",
+        "timebuildupdated": "1558549763"
+      },
+      "macbeta": {
+        "buildid": "11061241",
+        "description": "test Mac build",
+        "timeupdated": "1682092852",
+        "timebuildupdated": "1682092852"
+      },
+      "v0_34": {
+        "buildid": "4139594",
+        "timeupdated": "1574439805",
+        "timebuildupdated": "1566831445"
+      },
+      "v0_57": {
+        "buildid": "4889414",
+        "timeupdated": "1599402107",
+        "timebuildupdated": "1586702978"
+      },
+      "v0_63": {
+        "buildid": "8322724",
+        "description": "2022 build before MetaHumans",
+        "timeupdated": "1646580883",
+        "timebuildupdated": "1646580883"
+      },
+      "v0_7_7": {
+        "buildid": "9685130",
+        "description": "Build before actor scaling was added",
+        "timeupdated": "1669906624",
+        "timebuildupdated": "1665325580"
+      }
+    }
+  }
+}

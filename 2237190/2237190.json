@@ -1,0 +1,64 @@
+{
+  "name": "Hellfire",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:19:34.785Z",
+  "branches": {
+    "public": {
+      "buildid": "14082598",
+      "timeupdated": "1713357375",
+      "timebuildupdated": "1713356096"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2237191": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7211723765866329384",
+          "size": "2839856",
+          "download": "2230528"
+        }
+      }
+    },
+    "2237192": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "217809356255822511",
+          "size": "4799402",
+          "download": "1677536"
+        }
+      }
+    },
+    "2237193": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2655286376231249828",
+          "size": "3355457",
+          "download": "1347712"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14082598",
+        "timeupdated": "1713357375",
+        "timebuildupdated": "1713356096"
+      }
+    }
+  }
+}

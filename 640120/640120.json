@@ -1,0 +1,70 @@
+{
+  "name": "Youropa",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:26.554Z",
+  "branches": {
+    "public": {
+      "buildid": "10157598",
+      "timeupdated": "1671395771",
+      "timebuildupdated": "1671140227"
+    },
+    "legacy": {
+      "buildid": "5946784",
+      "description": "Version 1",
+      "timeupdated": "1666130084",
+      "timebuildupdated": "1607561632"
+    },
+    "beta": {
+      "buildid": "20097799",
+      "description": "Public Beta Test",
+      "timeupdated": "1758653061",
+      "timebuildupdated": "1758652991"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "640121": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2320220434994321239",
+          "size": "1040509593",
+          "download": "544409680"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10157598",
+        "timeupdated": "1671395771",
+        "timebuildupdated": "1671140227"
+      },
+      "legacy": {
+        "buildid": "5946784",
+        "description": "Version 1",
+        "timeupdated": "1666130084",
+        "timebuildupdated": "1607561632"
+      },
+      "beta": {
+        "buildid": "20097799",
+        "description": "Public Beta Test",
+        "timeupdated": "1758653061",
+        "timebuildupdated": "1758652991"
+      }
+    }
+  }
+}

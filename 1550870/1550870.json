@@ -1,0 +1,58 @@
+{
+  "name": "The Indigo Parallel",
+  "source": "spectre",
+  "changenumber": 40613326,
+  "updated": "2026-11-06T21:06:04.757Z",
+  "branches": {
+    "public": {
+      "buildid": "22664204",
+      "timeupdated": "1779535890",
+      "timebuildupdated": "1775477902"
+    },
+    "macbuild": {
+      "buildid": "22664204",
+      "description": "This is a build for macs",
+      "timeupdated": "1775478127",
+      "timebuildupdated": "1775477902"
+    }
+  },
+  "depot": {
+    "1550871": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2637580107083661721",
+          "size": "3428753633",
+          "download": "1714286384"
+        }
+      }
+    },
+    "1550872": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4183330953535646929",
+          "size": "3432807857",
+          "download": "1724813344"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22664204",
+        "timeupdated": "1779535890",
+        "timebuildupdated": "1775477902"
+      },
+      "macbuild": {
+        "buildid": "22664204",
+        "description": "This is a build for macs",
+        "timeupdated": "1775478127",
+        "timebuildupdated": "1775477902"
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Snes9x",
+  "source": "spectre",
+  "changenumber": 40627229,
+  "updated": "2026-11-06T21:03:44.120Z",
+  "branches": {
+    "public": {
+      "buildid": "20833948",
+      "timeupdated": "1763418553",
+      "timebuildupdated": "1763416687"
+    },
+    "nightly": {
+      "buildid": "26457095",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793879507",
+      "timebuildupdated": "1793879507"
+    }
+  },
+  "depot": {
+    "1227444": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6276698688855764378",
+          "size": "5288003",
+          "download": "1652688"
+        }
+      },
+      "dlcappid": "1227444"
+    },
+    "1790080": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8708287513247292917",
+          "size": "5129370",
+          "download": "1456512"
+        }
+      },
+      "dlcappid": "1227444"
+    },
+    "1790081": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6432316961757309921",
+          "size": "10198058",
+          "download": "2496048"
+        }
+      },
+      "dlcappid": "1227444"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833948",
+        "timeupdated": "1763418553",
+        "timebuildupdated": "1763416687"
+      },
+      "nightly": {
+        "buildid": "26457095",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793879507",
+        "timebuildupdated": "1793879507"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Stay Out of the House",
+  "source": "spectre",
+  "changenumber": 40282421,
+  "updated": "2026-11-07T21:01:31.560Z",
+  "branches": {
+    "public": {
+      "buildid": "11615345",
+      "timeupdated": "1688398197",
+      "timebuildupdated": "1688397607"
+    },
+    "local": {
+      "buildid": "9693034",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1665440092",
+      "timebuildupdated": "1665440092"
+    }
+  },
+  "depot": {
+    "896521": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8125789500606063532",
+          "size": "936071529",
+          "download": "508396080"
+        }
+      }
+    },
+    "896522": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "580545215937262420",
+          "size": "932152921",
+          "download": "506287552"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11615345",
+        "timeupdated": "1688398197",
+        "timebuildupdated": "1688397607"
+      },
+      "local": {
+        "buildid": "9693034",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1665440092",
+        "timebuildupdated": "1665440092"
+      }
+    }
+  }
+}

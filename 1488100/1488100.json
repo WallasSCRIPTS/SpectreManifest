@@ -1,0 +1,101 @@
+{
+  "name": "IncrediMarble",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:38.711Z",
+  "branches": {
+    "public": {
+      "buildid": "17650943",
+      "timeupdated": "1743649214",
+      "timebuildupdated": "1741500406"
+    },
+    "beta-test": {
+      "buildid": "12446956",
+      "description": "The open beta test branch",
+      "timeupdated": "1697404188",
+      "timebuildupdated": "1697404188"
+    }
+  },
+  "depot": {
+    "1488101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6784882707404892333",
+          "size": "270504875",
+          "download": "50750544"
+        }
+      }
+    },
+    "1488102": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2249228753068733794",
+          "size": "295289730",
+          "download": "58239504"
+        }
+      }
+    },
+    "1488103": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4880625633955987051",
+          "size": "313358807",
+          "download": "61713104"
+        }
+      }
+    },
+    "1488104": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "1537270": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4739978664166445901",
+          "size": "10082",
+          "download": "3280"
+        }
+      },
+      "dlcappid": "1537270"
+    },
+    "1537271": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1059476754980036415",
+          "size": "10082",
+          "download": "3280"
+        }
+      },
+      "dlcappid": "1537270"
+    },
+    "branches": {
+      "public": {
+        "buildid": "17650943",
+        "timeupdated": "1743649214",
+        "timebuildupdated": "1741500406"
+      },
+      "beta-test": {
+        "buildid": "12446956",
+        "description": "The open beta test branch",
+        "timeupdated": "1697404188",
+        "timebuildupdated": "1697404188"
+      }
+    }
+  }
+}

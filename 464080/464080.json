@@ -1,0 +1,77 @@
+{
+  "name": "Kyoto Colorful Days",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:05.191Z",
+  "branches": {
+    "public": {
+      "buildid": "1192449",
+      "timeupdated": "1466583866",
+      "timebuildupdated": "1466583513"
+    },
+    "local": {
+      "buildid": "1087261",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1461242412",
+      "timebuildupdated": "1461242412"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "464081": {
+      "manifests": {
+        "public": {
+          "gid": "6971504065745621036",
+          "size": "1978154479",
+          "download": "1916735904"
+        }
+      }
+    },
+    "474260": {
+      "manifests": {
+        "public": {
+          "gid": "8194308174306082433",
+          "size": "24525700",
+          "download": "23986672"
+        }
+      },
+      "dlcappid": "474260"
+    },
+    "474420": {
+      "manifests": {
+        "public": {
+          "gid": "597104986585245876",
+          "size": "14037557",
+          "download": "13999392"
+        }
+      },
+      "dlcappid": "474420"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1192449",
+        "timeupdated": "1466583866",
+        "timebuildupdated": "1466583513"
+      },
+      "local": {
+        "buildid": "1087261",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1461242412",
+        "timebuildupdated": "1461242412"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "name": "AntQueen 3D",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:51.029Z",
+  "branches": {
+    "public": {
+      "buildid": "6485866",
+      "timeupdated": "1617459433",
+      "timebuildupdated": "1617459339"
+    },
+    "local": {
+      "buildid": "6238629",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1613329784",
+      "timebuildupdated": "1613329784"
+    }
+  },
+  "depot": {
+    "1058741": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5507094663992506773",
+          "size": "2356839284",
+          "download": "782369312"
+        }
+      }
+    },
+    "1058742": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8762603041984765307",
+          "size": "2370349809",
+          "download": "789843984"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6485866",
+        "timeupdated": "1617459433",
+        "timebuildupdated": "1617459339"
+      },
+      "local": {
+        "buildid": "6238629",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1613329784",
+        "timebuildupdated": "1613329784"
+      }
+    }
+  }
+}

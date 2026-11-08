@@ -1,0 +1,53 @@
+{
+  "name": "Ministry of Broadcast",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:20.661Z",
+  "branches": {
+    "public": {
+      "buildid": "4904803",
+      "timeupdated": "1587037569",
+      "timebuildupdated": "1587030776"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "874041": {},
+    "874042": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "227520382583187620",
+          "size": "1123667997",
+          "download": "618169376"
+        }
+      }
+    },
+    "874043": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3648284113573320587",
+          "size": "1144907141",
+          "download": "621690496"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4904803",
+        "timeupdated": "1587037569",
+        "timebuildupdated": "1587030776"
+      }
+    }
+  }
+}

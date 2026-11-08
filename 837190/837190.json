@@ -1,0 +1,80 @@
+{
+  "name": "TANGLEWOOD",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:01:03.534Z",
+  "branches": {
+    "public": {
+      "buildid": "3094858",
+      "timeupdated": "1536169696",
+      "timebuildupdated": "1536168543"
+    },
+    "beta": {
+      "buildid": "3201229",
+      "timeupdated": "1539207984",
+      "timebuildupdated": "1539207925"
+    }
+  },
+  "depot": {
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "837191": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3128062330372694089",
+          "size": "38656022",
+          "download": "19853456"
+        }
+      }
+    },
+    "837192": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9139307140208284593",
+          "size": "43255388",
+          "download": "21301568"
+        }
+      }
+    },
+    "837193": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8699316243049662503",
+          "size": "49494893",
+          "download": "19306320"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3094858",
+        "timeupdated": "1536169696",
+        "timebuildupdated": "1536168543"
+      },
+      "beta": {
+        "buildid": "3201229",
+        "timeupdated": "1539207984",
+        "timebuildupdated": "1539207925"
+      }
+    }
+  }
+}

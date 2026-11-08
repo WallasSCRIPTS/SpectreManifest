@@ -1,0 +1,70 @@
+{
+  "name": "Evil Possession",
+  "source": "spectre",
+  "changenumber": 40315868,
+  "updated": "2026-11-07T20:59:19.098Z",
+  "branches": {
+    "public": {
+      "buildid": "1845459",
+      "timeupdated": "1495723160",
+      "timebuildupdated": "1495722719"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "620701": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7967595346301829916",
+          "size": "1048289232",
+          "download": "379189440"
+        }
+      }
+    },
+    "620702": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6062877382864203640",
+          "size": "1083855326",
+          "download": "390465584"
+        }
+      }
+    },
+    "620703": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1611824032051872278",
+          "size": "1088822150",
+          "download": "390915184"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1845459",
+        "timeupdated": "1495723160",
+        "timebuildupdated": "1495722719"
+      }
+    }
+  }
+}

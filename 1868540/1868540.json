@@ -1,0 +1,70 @@
+{
+  "name": "Zenteni",
+  "source": "spectre",
+  "changenumber": 34875769,
+  "updated": "2026-11-06T23:11:40.944Z",
+  "branches": {
+    "public": {
+      "buildid": "10583730",
+      "timeupdated": "1676737544",
+      "timebuildupdated": "1676737507"
+    },
+    "beta": {
+      "buildid": "10583730",
+      "description": "beta tests",
+      "timeupdated": "1676737507",
+      "timebuildupdated": "1676737507"
+    }
+  },
+  "depot": {
+    "1868541": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3590984080821867670",
+          "size": "883658685",
+          "download": "737421440"
+        }
+      }
+    },
+    "1868542": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "282345454500876304",
+          "size": "899553889",
+          "download": "742193472"
+        }
+      }
+    },
+    "1868543": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "555482422296480947",
+          "size": "891123004",
+          "download": "739071360"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10583730",
+        "timeupdated": "1676737544",
+        "timebuildupdated": "1676737507"
+      },
+      "beta": {
+        "buildid": "10583730",
+        "description": "beta tests",
+        "timeupdated": "1676737507",
+        "timebuildupdated": "1676737507"
+      }
+    }
+  }
+}

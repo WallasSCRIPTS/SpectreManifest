@@ -1,0 +1,60 @@
+{
+  "name": "BIRBOUT!",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-04T23:22:42.851Z",
+  "branches": {
+    "public": {
+      "buildid": "8931124",
+      "timeupdated": "1655186378",
+      "timebuildupdated": "1655180715"
+    },
+    "local": {
+      "buildid": "8931069",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1655179713",
+      "timebuildupdated": "1655179713"
+    }
+  },
+  "depot": {
+    "1514171": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "762165872332298054",
+          "size": "498929085",
+          "download": "112367552"
+        }
+      }
+    },
+    "1514172": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "900525803903852577",
+          "size": "540834477",
+          "download": "113788608"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8931124",
+        "timeupdated": "1655186378",
+        "timebuildupdated": "1655180715"
+      },
+      "local": {
+        "buildid": "8931069",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1655179713",
+        "timebuildupdated": "1655179713"
+      }
+    }
+  }
+}

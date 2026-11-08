@@ -1,0 +1,82 @@
+{
+  "name": "VR Giants",
+  "source": "spectre",
+  "changenumber": 40629342,
+  "updated": "2026-11-07T21:03:32.467Z",
+  "branches": {
+    "public": {
+      "buildid": "26441579",
+      "timeupdated": "1793883678",
+      "timebuildupdated": "1793824368"
+    },
+    "beta": {
+      "buildid": "18321236",
+      "description": "beta",
+      "timeupdated": "1746188027",
+      "timebuildupdated": "1746188027"
+    },
+    "internal": {
+      "buildid": "24840381",
+      "description": "only exclusively for internal testing",
+      "timeupdated": "1787325217",
+      "timebuildupdated": "1787230900"
+    },
+    "previous_stable": {
+      "buildid": "16582279",
+      "description": "This is the pevious stable version",
+      "timeupdated": "1736507205",
+      "timebuildupdated": "1732903421"
+    }
+  },
+  "depot": {
+    "1124161": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6814670903292256868",
+          "size": "10505621574",
+          "download": "4083054144"
+        }
+      }
+    },
+    "1124162": {
+      "config": {
+        "oslist": "android"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8168627491098487408",
+          "size": "2999495159",
+          "download": "2988405440"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26441579",
+        "timeupdated": "1793883678",
+        "timebuildupdated": "1793824368"
+      },
+      "beta": {
+        "buildid": "18321236",
+        "description": "beta",
+        "timeupdated": "1746188027",
+        "timebuildupdated": "1746188027"
+      },
+      "internal": {
+        "buildid": "24840381",
+        "description": "only exclusively for internal testing",
+        "timeupdated": "1787325217",
+        "timebuildupdated": "1787230900"
+      },
+      "previous_stable": {
+        "buildid": "16582279",
+        "description": "This is the pevious stable version",
+        "timeupdated": "1736507205",
+        "timebuildupdated": "1732903421"
+      }
+    }
+  }
+}

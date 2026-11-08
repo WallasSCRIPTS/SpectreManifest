@@ -1,0 +1,70 @@
+{
+  "name": "DELTARUNE (Chapter 1 & 2 DEMO)",
+  "source": "spectre",
+  "changenumber": 37449347,
+  "updated": "2026-11-06T23:07:49.844Z",
+  "branches": {
+    "public": {
+      "buildid": "8272590",
+      "timeupdated": "1645769472",
+      "timebuildupdated": "1645769433"
+    },
+    "chapter1.2.112.windows7fix": {
+      "buildid": "8878807",
+      "description": "Attempts fix for Windows 7",
+      "timeupdated": "1654509728",
+      "timebuildupdated": "1654509712"
+    },
+    "chapter1.2.lts.test": {
+      "buildid": "16675488",
+      "description": "11-25-24",
+      "timeupdated": "1733708122",
+      "timebuildupdated": "1733708020"
+    }
+  },
+  "depot": {
+    "1690941": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7280478300334929399",
+          "size": "199670327",
+          "download": "127703040"
+        }
+      }
+    },
+    "1690942": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1337622988459417429",
+          "size": "215133281",
+          "download": "131397232"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8272590",
+        "timeupdated": "1645769472",
+        "timebuildupdated": "1645769433"
+      },
+      "chapter1.2.112.windows7fix": {
+        "buildid": "8878807",
+        "description": "Attempts fix for Windows 7",
+        "timeupdated": "1654509728",
+        "timebuildupdated": "1654509712"
+      },
+      "chapter1.2.lts.test": {
+        "buildid": "16675488",
+        "description": "11-25-24",
+        "timeupdated": "1733708122",
+        "timebuildupdated": "1733708020"
+      }
+    }
+  }
+}

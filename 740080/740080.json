@@ -1,0 +1,101 @@
+{
+  "name": "Deadly Days",
+  "source": "spectre",
+  "changenumber": 40048786,
+  "updated": "2026-11-07T21:00:18.526Z",
+  "branches": {
+    "public": {
+      "buildid": "16167343",
+      "timeupdated": "1730143256",
+      "timebuildupdated": "1729782570"
+    },
+    "pre_reboot": {
+      "buildid": "2798732",
+      "timeupdated": "1537452508",
+      "timebuildupdated": "1527061920"
+    },
+    "v160": {
+      "buildid": "6432988",
+      "description": "V1.6",
+      "timeupdated": "1729782593",
+      "timebuildupdated": "1616600278"
+    },
+    "v170": {
+      "buildid": "16167343",
+      "description": "V1.7",
+      "timeupdated": "1730143216",
+      "timebuildupdated": "1729782570"
+    }
+  },
+  "depot": {
+    "740081": {
+      "manifests": {
+        "public": {
+          "gid": "1185452715851821812",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "740082": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3413863172202996726",
+          "size": "600580244",
+          "download": "149477312"
+        }
+      }
+    },
+    "740083": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1301258407377145600",
+          "size": "623517450",
+          "download": "152959120"
+        }
+      }
+    },
+    "740084": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7952287022989220917",
+          "size": "590651970",
+          "download": "147400224"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16167343",
+        "timeupdated": "1730143256",
+        "timebuildupdated": "1729782570"
+      },
+      "pre_reboot": {
+        "buildid": "2798732",
+        "timeupdated": "1537452508",
+        "timebuildupdated": "1527061920"
+      },
+      "v160": {
+        "buildid": "6432988",
+        "description": "V1.6",
+        "timeupdated": "1729782593",
+        "timebuildupdated": "1616600278"
+      },
+      "v170": {
+        "buildid": "16167343",
+        "description": "V1.7",
+        "timeupdated": "1730143216",
+        "timebuildupdated": "1729782570"
+      }
+    }
+  }
+}

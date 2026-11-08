@@ -1,0 +1,70 @@
+{
+  "name": "Fate Hunters",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:41.904Z",
+  "branches": {
+    "public": {
+      "buildid": "4817974",
+      "timeupdated": "1585142448",
+      "timebuildupdated": "1585142414"
+    },
+    "public_beta": {
+      "buildid": "4817974",
+      "description": "open testing",
+      "timeupdated": "1585142439",
+      "timebuildupdated": "1585142414"
+    }
+  },
+  "depot": {
+    "920681": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4848940236798564172",
+          "size": "305261891",
+          "download": "77581376"
+        }
+      }
+    },
+    "920682": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9063074076845614943",
+          "size": "368606514",
+          "download": "84833136"
+        }
+      }
+    },
+    "920683": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6103845711892771381",
+          "size": "297041703",
+          "download": "79080624"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4817974",
+        "timeupdated": "1585142448",
+        "timebuildupdated": "1585142414"
+      },
+      "public_beta": {
+        "buildid": "4817974",
+        "description": "open testing",
+        "timeupdated": "1585142439",
+        "timebuildupdated": "1585142414"
+      }
+    }
+  }
+}

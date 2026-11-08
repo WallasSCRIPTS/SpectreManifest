@@ -1,0 +1,68 @@
+{
+  "name": "晴天咖啡館Sunny Cafe",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:06:35.716Z",
+  "branches": {
+    "public": {
+      "buildid": "13983473",
+      "timeupdated": "1712564142",
+      "timebuildupdated": "1712564142"
+    },
+    "beta": {
+      "buildid": "13971887",
+      "description": "beta test",
+      "timeupdated": "1712387969",
+      "timebuildupdated": "1712387969"
+    }
+  },
+  "depot": {
+    "1611351": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1782554116563464156",
+          "size": "5223937093",
+          "download": "4356720048"
+        }
+      }
+    },
+    "1611355": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4535808142758526218",
+          "size": "5460792098",
+          "download": "4632339584"
+        }
+      }
+    },
+    "1723431": {
+      "manifests": {
+        "public": {
+          "gid": "3930315310960132879",
+          "size": "409085030",
+          "download": "388597104"
+        }
+      },
+      "dlcappid": "1723430"
+    },
+    "branches": {
+      "public": {
+        "buildid": "13983473",
+        "timeupdated": "1712564142",
+        "timebuildupdated": "1712564142"
+      },
+      "beta": {
+        "buildid": "13971887",
+        "description": "beta test",
+        "timeupdated": "1712387969",
+        "timebuildupdated": "1712387969"
+      }
+    }
+  }
+}

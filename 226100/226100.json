@@ -1,0 +1,62 @@
+{
+  "name": "PixelJunk™ Nom Nom Galaxy",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:06.542Z",
+  "branches": {
+    "public": {
+      "buildid": "11037440",
+      "timeupdated": "1685603600",
+      "timebuildupdated": "1681886144"
+    },
+    "local": {
+      "buildid": "206387",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1394070229"
+    }
+  },
+  "depot": {
+    "226101": {
+      "manifests": {
+        "public": {
+          "gid": "8767673783235701738",
+          "size": "479487544",
+          "download": "471891216"
+        }
+      }
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "410760": {
+      "dlcappid": "410760"
+    },
+    "410761": {
+      "manifests": {
+        "public": {
+          "gid": "5933302219059339276",
+          "size": "1470044437",
+          "download": "1459433552"
+        }
+      },
+      "dlcappid": "410760"
+    },
+    "branches": {
+      "public": {
+        "buildid": "11037440",
+        "timeupdated": "1685603600",
+        "timebuildupdated": "1681886144"
+      },
+      "local": {
+        "buildid": "206387",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1394070229"
+      }
+    }
+  }
+}

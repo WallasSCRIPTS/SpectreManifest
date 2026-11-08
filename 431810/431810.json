@@ -1,0 +1,68 @@
+{
+  "name": "Rencounter",
+  "source": "spectre",
+  "changenumber": 39891534,
+  "updated": "2026-11-07T20:57:47.696Z",
+  "branches": {
+    "public": {
+      "buildid": "5556458",
+      "timeupdated": "1600328278",
+      "timebuildupdated": "1600328117"
+    },
+    "beta": {
+      "buildid": "2163245",
+      "timeupdated": "1506854132",
+      "timebuildupdated": "1506853879"
+    }
+  },
+  "depot": {
+    "431811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1520429296679059590",
+          "size": "560975169",
+          "download": "305540000"
+        }
+      }
+    },
+    "431812": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4912418062282876689",
+          "size": "575409235",
+          "download": "310094832"
+        }
+      }
+    },
+    "431813": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5249300804121034644",
+          "size": "571440300",
+          "download": "308413984"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5556458",
+        "timeupdated": "1600328278",
+        "timebuildupdated": "1600328117"
+      },
+      "beta": {
+        "buildid": "2163245",
+        "timeupdated": "1506854132",
+        "timebuildupdated": "1506853879"
+      }
+    }
+  }
+}

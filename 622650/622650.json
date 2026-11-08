@@ -1,0 +1,82 @@
+{
+  "name": "Bendy and the Ink Machine",
+  "source": "spectre",
+  "changenumber": 40633914,
+  "updated": "2026-11-07T20:59:19.737Z",
+  "branches": {
+    "public": {
+      "buildid": "26299341",
+      "timeupdated": "1793891460",
+      "timebuildupdated": "1793283661"
+    },
+    "release-1.5": {
+      "buildid": "3248927",
+      "description": "Original Release of 1.5 PC Mac Linux",
+      "timeupdated": "1722198635",
+      "timebuildupdated": "1540526577"
+    },
+    "release-1.5.2.2": {
+      "buildid": "25063228",
+      "description": "Pre 2.1 build for mod support",
+      "timeupdated": "1788283134",
+      "timebuildupdated": "1788283134"
+    }
+  },
+  "depot": {
+    "622651": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3209401670924169092",
+          "size": "3266149685",
+          "download": "1100300688"
+        }
+      }
+    },
+    "622652": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6296547213237956680",
+          "size": "3349827041",
+          "download": "1004445632"
+        }
+      }
+    },
+    "622654": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "779084498159863616",
+          "size": "3431045521",
+          "download": "1041651248"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26299341",
+        "timeupdated": "1793891460",
+        "timebuildupdated": "1793283661"
+      },
+      "release-1.5": {
+        "buildid": "3248927",
+        "description": "Original Release of 1.5 PC Mac Linux",
+        "timeupdated": "1722198635",
+        "timebuildupdated": "1540526577"
+      },
+      "release-1.5.2.2": {
+        "buildid": "25063228",
+        "description": "Pre 2.1 build for mod support",
+        "timeupdated": "1788283134",
+        "timebuildupdated": "1788283134"
+      }
+    }
+  }
+}

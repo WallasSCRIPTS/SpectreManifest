@@ -1,0 +1,112 @@
+{
+  "name": "Chasm",
+  "source": "spectre",
+  "changenumber": 40567678,
+  "updated": "2026-11-07T20:56:35.516Z",
+  "branches": {
+    "public": {
+      "buildid": "25212078",
+      "timeupdated": "1788968280",
+      "timebuildupdated": "1788968105"
+    },
+    "alpha2015": {
+      "buildid": "521285",
+      "description": "2015 Early Access release for KS Backers",
+      "timeupdated": "1532196570",
+      "timebuildupdated": "1423598424"
+    },
+    "default_previous": {
+      "buildid": "23782332",
+      "description": "Last build before current",
+      "timeupdated": "1781713068",
+      "timebuildupdated": "1781698297"
+    },
+    "final_32bit": {
+      "buildid": "20742632",
+      "description": "The last 32-bit build",
+      "timeupdated": "1764772330",
+      "timebuildupdated": "1762799164"
+    },
+    "test_branch": {
+      "buildid": "26418065",
+      "description": "Public testing for upcoming releases",
+      "timeupdated": "1793746213",
+      "timebuildupdated": "1793746192"
+    }
+  },
+  "depot": {
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "312201": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8127606353690176012",
+          "size": "914406793",
+          "download": "525436384"
+        }
+      }
+    },
+    "312202": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1721243486769043452",
+          "size": "942928323",
+          "download": "534207536"
+        }
+      }
+    },
+    "312203": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8365714297238913450",
+          "size": "946119280",
+          "download": "535123936"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25212078",
+        "timeupdated": "1788968280",
+        "timebuildupdated": "1788968105"
+      },
+      "alpha2015": {
+        "buildid": "521285",
+        "description": "2015 Early Access release for KS Backers",
+        "timeupdated": "1532196570",
+        "timebuildupdated": "1423598424"
+      },
+      "default_previous": {
+        "buildid": "23782332",
+        "description": "Last build before current",
+        "timeupdated": "1781713068",
+        "timebuildupdated": "1781698297"
+      },
+      "final_32bit": {
+        "buildid": "20742632",
+        "description": "The last 32-bit build",
+        "timeupdated": "1764772330",
+        "timebuildupdated": "1762799164"
+      },
+      "test_branch": {
+        "buildid": "26418065",
+        "description": "Public testing for upcoming releases",
+        "timeupdated": "1793746213",
+        "timebuildupdated": "1793746192"
+      }
+    }
+  }
+}

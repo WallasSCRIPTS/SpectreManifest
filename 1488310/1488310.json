@@ -1,0 +1,70 @@
+{
+  "name": "Renown",
+  "source": "spectre",
+  "changenumber": 40626629,
+  "updated": "2026-11-06T21:05:38.833Z",
+  "branches": {
+    "public": {
+      "buildid": "25786400",
+      "timeupdated": "1791424567",
+      "timebuildupdated": "1791401373"
+    },
+    "beta": {
+      "buildid": "25786400",
+      "description": "beta branch",
+      "timeupdated": "1791424550",
+      "timebuildupdated": "1791401373"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1488312": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6959935646976210058",
+          "size": "30432393439",
+          "download": "12455751328"
+        }
+      }
+    },
+    "1488313": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4300266108369300168",
+          "size": "33455284658",
+          "download": "13267477280"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25786400",
+        "timeupdated": "1791424567",
+        "timebuildupdated": "1791401373"
+      },
+      "beta": {
+        "buildid": "25786400",
+        "description": "beta branch",
+        "timeupdated": "1791424550",
+        "timebuildupdated": "1791401373"
+      }
+    }
+  }
+}

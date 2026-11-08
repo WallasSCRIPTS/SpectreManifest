@@ -1,0 +1,82 @@
+{
+  "name": "Technobabylon",
+  "source": "spectre",
+  "changenumber": 40443439,
+  "updated": "2026-11-07T20:56:33.766Z",
+  "branches": {
+    "public": {
+      "buildid": "26337085",
+      "timeupdated": "1793404561",
+      "timebuildupdated": "1793404508"
+    },
+    "stable": {
+      "buildid": "9055342",
+      "description": "Stable",
+      "timeupdated": "1659551687",
+      "timebuildupdated": "1656915420"
+    }
+  },
+  "depot": {
+    "307581": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2206023423090343614",
+          "size": "1343867690",
+          "download": "1035109360"
+        }
+      }
+    },
+    "307582": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "371933840317013554",
+          "size": "1413169744",
+          "download": "1054154016"
+        }
+      }
+    },
+    "307583": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8776584966277176556",
+          "size": "1358839651",
+          "download": "1041193952"
+        }
+      }
+    },
+    "307584": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4403991746000223002",
+          "size": "1416211080",
+          "download": "1055263856"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26337085",
+        "timeupdated": "1793404561",
+        "timebuildupdated": "1793404508"
+      },
+      "stable": {
+        "buildid": "9055342",
+        "description": "Stable",
+        "timeupdated": "1659551687",
+        "timebuildupdated": "1656915420"
+      }
+    }
+  }
+}

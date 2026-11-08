@@ -1,0 +1,68 @@
+{
+  "name": "Blocks That Matter",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:59.854Z",
+  "branches": {
+    "public": {
+      "buildid": "256982",
+      "timebuildupdated": "1399393079"
+    }
+  },
+  "depot": {
+    "111801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8673899639957023352",
+          "size": "170398458",
+          "download": "0"
+        }
+      }
+    },
+    "111802": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9179848801720966779",
+          "size": "136815547",
+          "download": "0"
+        }
+      }
+    },
+    "111803": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5636515161432741733",
+          "size": "187156497",
+          "download": "0"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "256982",
+        "timebuildupdated": "1399393079"
+      }
+    }
+  }
+}

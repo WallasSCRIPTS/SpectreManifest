@@ -1,0 +1,58 @@
+{
+  "name": "Staff Only Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-04T23:22:42.453Z",
+  "branches": {
+    "public": {
+      "buildid": "6818420",
+      "timeupdated": "1622903760",
+      "timebuildupdated": "1622903760"
+    },
+    "pre-release": {
+      "buildid": "6682522",
+      "description": "Pre Release",
+      "timeupdated": "1620745806",
+      "timebuildupdated": "1620745806"
+    }
+  },
+  "depot": {
+    "1443581": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7253309490824058341",
+          "size": "179694465",
+          "download": "118187680"
+        }
+      }
+    },
+    "1443582": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5167380946412106240",
+          "size": "198564616",
+          "download": "123249344"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6818420",
+        "timeupdated": "1622903760",
+        "timebuildupdated": "1622903760"
+      },
+      "pre-release": {
+        "buildid": "6682522",
+        "description": "Pre Release",
+        "timeupdated": "1620745806",
+        "timebuildupdated": "1620745806"
+      }
+    }
+  }
+}

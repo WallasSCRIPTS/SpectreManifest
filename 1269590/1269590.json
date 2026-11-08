@@ -1,0 +1,97 @@
+{
+  "name": "Get-A-Grip Chip",
+  "source": "spectre",
+  "changenumber": 34852637,
+  "updated": "2026-11-06T21:04:03.005Z",
+  "branches": {
+    "public": {
+      "buildid": "9130953",
+      "timeupdated": "1659054190",
+      "timebuildupdated": "1657915806"
+    }
+  },
+  "depot": {
+    "1269591": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "174752296370005020",
+          "size": "370871779",
+          "download": "126770912"
+        }
+      }
+    },
+    "1269592": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6479779670170806809",
+          "size": "446729061",
+          "download": "186919536"
+        }
+      }
+    },
+    "1269593": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5803849083991247941",
+          "size": "394283221",
+          "download": "129071584"
+        }
+      }
+    },
+    "1572141": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "789506825018006654",
+          "size": "260617085",
+          "download": "104295232"
+        }
+      },
+      "depotfromapp": "1572140"
+    },
+    "1572142": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4282339415234585022",
+          "size": "234843092",
+          "download": "98915488"
+        }
+      },
+      "depotfromapp": "1572140"
+    },
+    "1572143": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "724900093313544726",
+          "size": "279069250",
+          "download": "104616560"
+        }
+      },
+      "depotfromapp": "1572140"
+    },
+    "branches": {
+      "public": {
+        "buildid": "9130953",
+        "timeupdated": "1659054190",
+        "timebuildupdated": "1657915806"
+      }
+    }
+  }
+}

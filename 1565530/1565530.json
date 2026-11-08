@@ -1,0 +1,63 @@
+{
+  "name": "Avoid the rain",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:06:11.733Z",
+  "branches": {
+    "public": {
+      "buildid": "17877108",
+      "timeupdated": "1743047684",
+      "timebuildupdated": "1743047684"
+    },
+    "rebel": {
+      "buildid": "17877574",
+      "description": "叛逆版",
+      "timeupdated": "1743051470",
+      "timebuildupdated": "1743051470"
+    }
+  },
+  "depot": {
+    "1565531": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "222060489040706898",
+          "size": "154533010",
+          "download": "89378080"
+        }
+      }
+    },
+    "1565532": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "1565533": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5995159924451479826",
+          "size": "154533010",
+          "download": "91912480"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17877108",
+        "timeupdated": "1743047684",
+        "timebuildupdated": "1743047684"
+      },
+      "rebel": {
+        "buildid": "17877574",
+        "description": "叛逆版",
+        "timeupdated": "1743051470",
+        "timebuildupdated": "1743051470"
+      }
+    }
+  }
+}

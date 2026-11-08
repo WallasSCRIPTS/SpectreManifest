@@ -1,0 +1,531 @@
+{
+  "name": "The Bus",
+  "source": "spectre",
+  "changenumber": 40572948,
+  "updated": "2026-11-07T20:58:14.273Z",
+  "branches": {
+    "public": {
+      "buildid": "24981026",
+      "timeupdated": "1793260335",
+      "timebuildupdated": "1787871241"
+    },
+    "beta": {
+      "buildid": "24981026",
+      "description": "Public Beta",
+      "timeupdated": "1787903108",
+      "timebuildupdated": "1787871241"
+    },
+    "release_1.0": {
+      "buildid": "23702048",
+      "description": "Old Version - Release 1.0",
+      "timeupdated": "1781269551",
+      "timebuildupdated": "1781269550"
+    },
+    "release_1.1": {
+      "buildid": "23682867",
+      "description": "Old Version - Release 1.1",
+      "timeupdated": "1781269371",
+      "timebuildupdated": "1781187290"
+    },
+    "3.1_ea": {
+      "buildid": "18765029",
+      "description": "Old Version - Early Access 3.1",
+      "timeupdated": "1769004298",
+      "timebuildupdated": "1749208248"
+    },
+    "3.0_ea": {
+      "buildid": "18113374",
+      "description": "Old Version - Early Access 3.0",
+      "timeupdated": "1749217920",
+      "timebuildupdated": "1744720094"
+    },
+    "2.5_ea": {
+      "buildid": "15966178",
+      "description": "Old Version - Early Access 2.5",
+      "timeupdated": "1744808407",
+      "timebuildupdated": "1728386462"
+    },
+    "2.4_ea": {
+      "buildid": "13375620",
+      "description": "Old Version - Early Access 2.4",
+      "timeupdated": "1741015076",
+      "timebuildupdated": "1707181320"
+    },
+    "2.3_ea": {
+      "buildid": "14906587",
+      "description": "Old Version - Early Access 2.3",
+      "timeupdated": "1719923936",
+      "timebuildupdated": "1719923936"
+    },
+    "2.2_ea": {
+      "buildid": "13021481",
+      "description": "Old Version - Early Access 2.2",
+      "timeupdated": "1703171482",
+      "timebuildupdated": "1703171482"
+    },
+    "2.1_ea": {
+      "buildid": "10510349",
+      "description": "Old Version - Early Access 2.1",
+      "timeupdated": "1680609202",
+      "timebuildupdated": "1675903483"
+    },
+    "2.0_ea": {
+      "buildid": "10181207",
+      "description": "Old Version - Early Access 2.0",
+      "timeupdated": "1676452237",
+      "timebuildupdated": "1671505378"
+    },
+    "1.0_ea": {
+      "buildid": "6432704",
+      "description": "Old Version - Early Access 1.0",
+      "timeupdated": "1617960459",
+      "timebuildupdated": "1616597063"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "491541": {
+      "manifests": {
+        "public": {
+          "gid": "5160774850993936733",
+          "size": "56997205204",
+          "download": "46884663792"
+        }
+      }
+    },
+    "491542": {
+      "manifests": {
+        "public": {
+          "gid": "3599393296524611291",
+          "size": "243166520",
+          "download": "153236656"
+        }
+      }
+    },
+    "491543": {
+      "manifests": {
+        "public": {
+          "gid": "1400228975882641198",
+          "size": "138109929",
+          "download": "122199728"
+        }
+      },
+      "dlcappid": "898620"
+    },
+    "491544": {
+      "manifests": {
+        "public": {
+          "gid": "4431956966976619111",
+          "size": "82448271",
+          "download": "68782000"
+        }
+      },
+      "dlcappid": "897490"
+    },
+    "491545": {
+      "manifests": {
+        "public": {
+          "gid": "4255165807375540019",
+          "size": "88233813",
+          "download": "75028624"
+        }
+      },
+      "dlcappid": "898610"
+    },
+    "491546": {
+      "manifests": {
+        "public": {
+          "gid": "1850409871717310831",
+          "size": "73933535",
+          "download": "61550592"
+        }
+      },
+      "dlcappid": "1033680"
+    },
+    "491547": {
+      "manifests": {
+        "public": {
+          "gid": "6499078654771680808",
+          "size": "89487061",
+          "download": "73286944"
+        }
+      },
+      "dlcappid": "1121040"
+    },
+    "491548": {
+      "manifests": {
+        "public": {
+          "gid": "4513458800614230871",
+          "size": "68236408",
+          "download": "53903712"
+        }
+      },
+      "dlcappid": "1158140"
+    },
+    "491549": {
+      "manifests": {
+        "public": {
+          "gid": "4181935579798534754",
+          "size": "43671449",
+          "download": "35988896"
+        }
+      },
+      "dlcappid": "1250750"
+    },
+    "897491": {
+      "manifests": {
+        "public": {
+          "gid": "7306858503788302850",
+          "size": "163501988",
+          "download": "136411568"
+        }
+      },
+      "dlcappid": "1294470"
+    },
+    "897492": {
+      "manifests": {
+        "public": {
+          "gid": "2962773770328050353",
+          "size": "130673276",
+          "download": "115797968"
+        }
+      },
+      "dlcappid": "1370030"
+    },
+    "897493": {
+      "manifests": {
+        "public": {
+          "gid": "1099903074590598360",
+          "size": "168549658",
+          "download": "133428768"
+        }
+      }
+    },
+    "897494": {
+      "manifests": {
+        "public": {
+          "gid": "3725264354591688735",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "897495": {
+      "manifests": {
+        "public": {
+          "gid": "5501507913094284178",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "897496": {
+      "manifests": {
+        "public": {
+          "gid": "7856527596074613875",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "897497": {
+      "manifests": {
+        "public": {
+          "gid": "5051497051069864769",
+          "size": "265183053",
+          "download": "215307536"
+        }
+      },
+      "dlcappid": "1847590"
+    },
+    "897498": {
+      "manifests": {
+        "public": {
+          "gid": "7575597901754286870",
+          "size": "304842521",
+          "download": "236744368"
+        }
+      }
+    },
+    "897499": {
+      "manifests": {
+        "public": {
+          "gid": "3424333586108645378",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "898611": {
+      "manifests": {
+        "public": {
+          "gid": "2874276900602961734",
+          "size": "100703348",
+          "download": "72840928"
+        }
+      }
+    },
+    "898612": {
+      "manifests": {
+        "public": {
+          "gid": "6856078903255251146",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "898613": {
+      "manifests": {
+        "public": {
+          "gid": "6047393530830986733",
+          "size": "163730649",
+          "download": "135756960"
+        }
+      },
+      "dlcappid": "2295470"
+    },
+    "898614": {
+      "manifests": {
+        "public": {
+          "gid": "3905410406815477642",
+          "size": "159528018",
+          "download": "133850000"
+        }
+      },
+      "dlcappid": "2295471"
+    },
+    "898615": {
+      "manifests": {
+        "public": {
+          "gid": "3043704740203519865",
+          "size": "159528328",
+          "download": "133202704"
+        }
+      },
+      "dlcappid": "2295472"
+    },
+    "898616": {
+      "manifests": {
+        "public": {
+          "gid": "1793357933579726257",
+          "size": "89352015",
+          "download": "72069088"
+        }
+      },
+      "dlcappid": "2295473"
+    },
+    "898617": {
+      "manifests": {
+        "public": {
+          "gid": "3665132565414217611",
+          "size": "103338204",
+          "download": "85709392"
+        }
+      },
+      "dlcappid": "2407411"
+    },
+    "898618": {
+      "manifests": {
+        "public": {
+          "gid": "5985612336767629336",
+          "size": "229446555",
+          "download": "197062560"
+        }
+      },
+      "dlcappid": "2407410"
+    },
+    "898619": {
+      "manifests": {
+        "public": {
+          "gid": "6180250664714609960",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "1684630"
+    },
+    "898621": {
+      "manifests": {
+        "public": {
+          "gid": "5079404577296001792",
+          "size": "153764728",
+          "download": "116054736"
+        }
+      }
+    },
+    "898622": {
+      "manifests": {
+        "public": {
+          "gid": "1231484820983016185",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "898623": {
+      "manifests": {
+        "public": {
+          "gid": "2005502871026558840",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "898624": {
+      "manifests": {
+        "public": {
+          "gid": "2265013552689358100",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "898625": {
+      "manifests": {
+        "public": {
+          "gid": "6363392086725379820",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "1684630"
+    },
+    "898626": {
+      "manifests": {
+        "public": {
+          "gid": "8119239068154372879",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "898627": {
+      "manifests": {
+        "public": {
+          "gid": "1599989099062000144",
+          "size": "39536689",
+          "download": "29136272"
+        }
+      },
+      "dlcappid": "1684630"
+    },
+    "898628": {
+      "manifests": {
+        "public": {
+          "gid": "6880828287177504205",
+          "size": "341884285",
+          "download": "287541392"
+        }
+      },
+      "dlcappid": "4179410"
+    },
+    "898629": {
+      "manifests": {
+        "public": {
+          "gid": "6472860076473827589",
+          "size": "261899787",
+          "download": "170000944"
+        }
+      }
+    },
+    "1033681": {
+      "dlcappid": "5275290"
+    },
+    "1033682": {
+      "dlcappid": "5550120"
+    },
+    "1033683": {
+      "dlcappid": "5550130"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24981026",
+        "timeupdated": "1793260335",
+        "timebuildupdated": "1787871241"
+      },
+      "beta": {
+        "buildid": "24981026",
+        "description": "Public Beta",
+        "timeupdated": "1787903108",
+        "timebuildupdated": "1787871241"
+      },
+      "release_1.0": {
+        "buildid": "23702048",
+        "description": "Old Version - Release 1.0",
+        "timeupdated": "1781269551",
+        "timebuildupdated": "1781269550"
+      },
+      "release_1.1": {
+        "buildid": "23682867",
+        "description": "Old Version - Release 1.1",
+        "timeupdated": "1781269371",
+        "timebuildupdated": "1781187290"
+      },
+      "3.1_ea": {
+        "buildid": "18765029",
+        "description": "Old Version - Early Access 3.1",
+        "timeupdated": "1769004298",
+        "timebuildupdated": "1749208248"
+      },
+      "3.0_ea": {
+        "buildid": "18113374",
+        "description": "Old Version - Early Access 3.0",
+        "timeupdated": "1749217920",
+        "timebuildupdated": "1744720094"
+      },
+      "2.5_ea": {
+        "buildid": "15966178",
+        "description": "Old Version - Early Access 2.5",
+        "timeupdated": "1744808407",
+        "timebuildupdated": "1728386462"
+      },
+      "2.4_ea": {
+        "buildid": "13375620",
+        "description": "Old Version - Early Access 2.4",
+        "timeupdated": "1741015076",
+        "timebuildupdated": "1707181320"
+      },
+      "2.3_ea": {
+        "buildid": "14906587",
+        "description": "Old Version - Early Access 2.3",
+        "timeupdated": "1719923936",
+        "timebuildupdated": "1719923936"
+      },
+      "2.2_ea": {
+        "buildid": "13021481",
+        "description": "Old Version - Early Access 2.2",
+        "timeupdated": "1703171482",
+        "timebuildupdated": "1703171482"
+      },
+      "2.1_ea": {
+        "buildid": "10510349",
+        "description": "Old Version - Early Access 2.1",
+        "timeupdated": "1680609202",
+        "timebuildupdated": "1675903483"
+      },
+      "2.0_ea": {
+        "buildid": "10181207",
+        "description": "Old Version - Early Access 2.0",
+        "timeupdated": "1676452237",
+        "timebuildupdated": "1671505378"
+      },
+      "1.0_ea": {
+        "buildid": "6432704",
+        "description": "Old Version - Early Access 1.0",
+        "timeupdated": "1617960459",
+        "timebuildupdated": "1616597063"
+      }
+    }
+  }
+}

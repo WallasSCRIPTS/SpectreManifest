@@ -1,0 +1,75 @@
+{
+  "name": "Steel Division 2",
+  "source": "spectre",
+  "changenumber": 37438766,
+  "updated": "2026-11-07T21:01:41.679Z",
+  "branches": {
+    "public": {
+      "buildid": "20137858",
+      "timeupdated": "1760511922",
+      "timebuildupdated": "1758870420"
+    },
+    "compat_old_save": {
+      "buildid": "6711807",
+      "description": "Compatibility for saves and replays older than version 46442",
+      "timeupdated": "1622531833",
+      "timebuildupdated": "1621259413"
+    }
+  },
+  "depot": {
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "919641": {
+      "manifests": {
+        "public": {
+          "gid": "7926993569140861378",
+          "size": "102533926406",
+          "download": "61809373616"
+        }
+      }
+    },
+    "988170": {
+      "manifests": {
+        "public": {
+          "gid": "2712962817460656790",
+          "size": "184594854",
+          "download": "179125664"
+        }
+      },
+      "dlcappid": "988170"
+    },
+    "988172": {
+      "manifests": {
+        "public": {
+          "gid": "8797564130778543687",
+          "size": "3211951",
+          "download": "3216640"
+        }
+      },
+      "dlcappid": "988172"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20137858",
+        "timeupdated": "1760511922",
+        "timebuildupdated": "1758870420"
+      },
+      "compat_old_save": {
+        "buildid": "6711807",
+        "description": "Compatibility for saves and replays older than version 46442",
+        "timeupdated": "1622531833",
+        "timebuildupdated": "1621259413"
+      }
+    }
+  }
+}

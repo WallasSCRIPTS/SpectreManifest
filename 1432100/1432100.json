@@ -1,0 +1,61 @@
+{
+  "name": "The Bookwalker",
+  "source": "spectre",
+  "changenumber": 39630916,
+  "updated": "2026-11-06T21:05:13.359Z",
+  "branches": {
+    "public": {
+      "buildid": "11675945",
+      "timeupdated": "1689090467",
+      "timebuildupdated": "1689090431"
+    },
+    "test": {
+      "buildid": "11886102",
+      "description": "test",
+      "timeupdated": "1691431555",
+      "timebuildupdated": "1691431497"
+    }
+  },
+  "depot": {
+    "1432101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4220389574143591608",
+          "size": "12756489369",
+          "download": "5475135888"
+        }
+      }
+    },
+    "1432102": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "2485400": {
+      "manifests": {
+        "public": {
+          "gid": "2303825314082641113",
+          "size": "379136573",
+          "download": "379830176"
+        }
+      },
+      "dlcappid": "2485400"
+    },
+    "branches": {
+      "public": {
+        "buildid": "11675945",
+        "timeupdated": "1689090467",
+        "timebuildupdated": "1689090431"
+      },
+      "test": {
+        "buildid": "11886102",
+        "description": "test",
+        "timeupdated": "1691431555",
+        "timebuildupdated": "1691431497"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Defend the Fort",
+  "source": "spectre",
+  "changenumber": 34871210,
+  "updated": "2026-11-06T23:09:42.585Z",
+  "branches": {
+    "public": {
+      "buildid": "7711389",
+      "timeupdated": "1636920702",
+      "timebuildupdated": "1636920702"
+    },
+    "beta": {
+      "buildid": "7590631",
+      "description": "beta testing branch",
+      "timeupdated": "1635107723",
+      "timebuildupdated": "1635107723"
+    }
+  },
+  "depot": {
+    "1750281": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8415186411753470833",
+          "size": "62666902",
+          "download": "27105120"
+        }
+      }
+    },
+    "1750282": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6233298516262115230",
+          "size": "53083752",
+          "download": "24691936"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7711389",
+        "timeupdated": "1636920702",
+        "timebuildupdated": "1636920702"
+      },
+      "beta": {
+        "buildid": "7590631",
+        "description": "beta testing branch",
+        "timeupdated": "1635107723",
+        "timebuildupdated": "1635107723"
+      }
+    }
+  }
+}

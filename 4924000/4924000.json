@@ -1,0 +1,58 @@
+{
+  "name": "SpudFall",
+  "source": "spectre",
+  "changenumber": 40559187,
+  "updated": "2026-11-04T23:25:43.777Z",
+  "branches": {
+    "public": {
+      "buildid": "26100850",
+      "timeupdated": "1792570416",
+      "timebuildupdated": "1792570291"
+    },
+    "beta": {
+      "buildid": "26412716",
+      "description": "Beta Builds",
+      "timeupdated": "1793729345",
+      "timebuildupdated": "1793729345"
+    }
+  },
+  "depot": {
+    "4924001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7567140378899579462",
+          "size": "121643592",
+          "download": "41397840"
+        }
+      }
+    },
+    "4924002": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1148225653867572702",
+          "size": "86792328",
+          "download": "32997040"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26100850",
+        "timeupdated": "1792570416",
+        "timebuildupdated": "1792570291"
+      },
+      "beta": {
+        "buildid": "26412716",
+        "description": "Beta Builds",
+        "timeupdated": "1793729345",
+        "timebuildupdated": "1793729345"
+      }
+    }
+  }
+}

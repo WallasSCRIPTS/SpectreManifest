@@ -1,0 +1,70 @@
+{
+  "name": "Hexters",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:19.562Z",
+  "branches": {
+    "public": {
+      "buildid": "17945328",
+      "timeupdated": "1743540861",
+      "timebuildupdated": "1743540427"
+    },
+    "testing": {
+      "buildid": "17945328",
+      "description": "Testing branch",
+      "timeupdated": "1743540974",
+      "timebuildupdated": "1743540427"
+    }
+  },
+  "depot": {
+    "377321": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6769878590032663928",
+          "size": "516067843",
+          "download": "343021184"
+        }
+      }
+    },
+    "377322": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1792022380905383664",
+          "size": "551113534",
+          "download": "357300720"
+        }
+      }
+    },
+    "377323": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3035496171303966663",
+          "size": "511534906",
+          "download": "342863792"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17945328",
+        "timeupdated": "1743540861",
+        "timebuildupdated": "1743540427"
+      },
+      "testing": {
+        "buildid": "17945328",
+        "description": "Testing branch",
+        "timeupdated": "1743540974",
+        "timebuildupdated": "1743540427"
+      }
+    }
+  }
+}

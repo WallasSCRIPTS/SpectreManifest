@@ -1,0 +1,58 @@
+{
+  "name": "Alvora Tactics",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:27.475Z",
+  "branches": {
+    "public": {
+      "buildid": "7427459",
+      "timeupdated": "1633366963",
+      "timebuildupdated": "1632682507"
+    },
+    "testbranch": {
+      "buildid": "7427459",
+      "description": "For testing future builds",
+      "timeupdated": "1632682582",
+      "timebuildupdated": "1632682507"
+    }
+  },
+  "depot": {
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "643901": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1185288802646685697",
+          "size": "885188384",
+          "download": "792530944"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7427459",
+        "timeupdated": "1633366963",
+        "timebuildupdated": "1632682507"
+      },
+      "testbranch": {
+        "buildid": "7427459",
+        "description": "For testing future builds",
+        "timeupdated": "1632682582",
+        "timebuildupdated": "1632682507"
+      }
+    }
+  }
+}

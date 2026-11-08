@@ -1,0 +1,72 @@
+{
+  "name": "Fish Heads",
+  "source": "spectre",
+  "changenumber": 34868691,
+  "updated": "2026-11-06T21:07:03.785Z",
+  "branches": {
+    "public": {
+      "buildid": "7109216",
+      "timeupdated": "1627650937",
+      "timebuildupdated": "1627588381"
+    },
+    "local": {
+      "buildid": "6965599",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1625159889",
+      "timebuildupdated": "1625159889"
+    }
+  },
+  "depot": {
+    "1682871": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8702186217876617241",
+          "size": "572525923",
+          "download": "70508064"
+        }
+      }
+    },
+    "1682872": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2910169433258745089",
+          "size": "573556534",
+          "download": "70613920"
+        }
+      }
+    },
+    "1682873": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8904347629159521067",
+          "size": "655017805",
+          "download": "144068320"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7109216",
+        "timeupdated": "1627650937",
+        "timebuildupdated": "1627588381"
+      },
+      "local": {
+        "buildid": "6965599",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1625159889",
+        "timebuildupdated": "1625159889"
+      }
+    }
+  }
+}

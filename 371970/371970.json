@@ -1,0 +1,122 @@
+{
+  "name": "Barony",
+  "source": "spectre",
+  "changenumber": 40655446,
+  "updated": "2026-11-07T20:57:15.920Z",
+  "branches": {
+    "public": {
+      "buildid": "22630456",
+      "timeupdated": "1775188854",
+      "timebuildupdated": "1775182993"
+    },
+    "translation-fix": {
+      "buildid": "24176962",
+      "description": "V5.0.2 Fix for Windows translations crashing",
+      "timeupdated": "1783912335",
+      "timebuildupdated": "1783912136"
+    },
+    "4.3.2": {
+      "buildid": "18871170",
+      "description": "V4.3.2 Rollback",
+      "timeupdated": "1769716695",
+      "timebuildupdated": "1749955798"
+    },
+    "old-3.3.7": {
+      "buildid": "7933019",
+      "description": "Legacy - 3.3.7 (Blessed Addition)",
+      "timeupdated": "1690876178",
+      "timebuildupdated": "1640267370"
+    },
+    "4.0.2-speedrun": {
+      "buildid": "11958955",
+      "description": "Speedrunning legacy build",
+      "timeupdated": "1695640676",
+      "timebuildupdated": "1692221840"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "371971": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5011760335448923280",
+          "size": "1365883030",
+          "download": "774235056"
+        }
+      }
+    },
+    "371972": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6393656910166120965",
+          "size": "1311223942",
+          "download": "759487360"
+        }
+      }
+    },
+    "371973": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7497878351997579456",
+          "size": "1350864366",
+          "download": "766519072"
+        }
+      }
+    },
+    "470540": {
+      "manifests": {
+        "public": {
+          "gid": "8637528418297383130",
+          "size": "328190002",
+          "download": "319376816"
+        }
+      },
+      "dlcappid": "470540"
+    },
+    "branches": {
+      "public": {
+        "buildid": "22630456",
+        "timeupdated": "1775188854",
+        "timebuildupdated": "1775182993"
+      },
+      "translation-fix": {
+        "buildid": "24176962",
+        "description": "V5.0.2 Fix for Windows translations crashing",
+        "timeupdated": "1783912335",
+        "timebuildupdated": "1783912136"
+      },
+      "4.3.2": {
+        "buildid": "18871170",
+        "description": "V4.3.2 Rollback",
+        "timeupdated": "1769716695",
+        "timebuildupdated": "1749955798"
+      },
+      "old-3.3.7": {
+        "buildid": "7933019",
+        "description": "Legacy - 3.3.7 (Blessed Addition)",
+        "timeupdated": "1690876178",
+        "timebuildupdated": "1640267370"
+      },
+      "4.0.2-speedrun": {
+        "buildid": "11958955",
+        "description": "Speedrunning legacy build",
+        "timeupdated": "1695640676",
+        "timebuildupdated": "1692221840"
+      }
+    }
+  }
+}

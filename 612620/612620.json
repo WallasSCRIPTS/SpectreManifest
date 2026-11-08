@@ -1,0 +1,108 @@
+{
+  "name": "Detective Butler: Maiden Voyage Murder",
+  "source": "spectre",
+  "changenumber": 40675864,
+  "updated": "2026-11-07T20:59:15.406Z",
+  "branches": {
+    "public": {
+      "buildid": "6558958",
+      "timeupdated": "1618709103",
+      "timebuildupdated": "1618708897"
+    },
+    "old-engine": {
+      "buildid": "5992395",
+      "description": "Old engine",
+      "timeupdated": "1608396311",
+      "timebuildupdated": "1608396311"
+    },
+    "testing": {
+      "buildid": "6008273",
+      "description": "for tests",
+      "timeupdated": "1608747053",
+      "timebuildupdated": "1608746832"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "612621": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8021802550023899012",
+          "size": "216105807",
+          "download": "182126592"
+        }
+      }
+    },
+    "612622": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2189779505516573675",
+          "size": "215598596",
+          "download": "180948608"
+        }
+      }
+    },
+    "612623": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7613350855655043398",
+          "size": "225867989",
+          "download": "181815552"
+        }
+      }
+    },
+    "614870": {
+      "manifests": {
+        "public": {
+          "gid": "5315362259453525067",
+          "size": "60668716",
+          "download": "60271776"
+        }
+      },
+      "dlcappid": "614870"
+    },
+    "1110930": {
+      "manifests": {
+        "public": {
+          "gid": "2706858096941739835",
+          "size": "52237870",
+          "download": "46708624"
+        }
+      },
+      "dlcappid": "1110930"
+    },
+    "branches": {
+      "public": {
+        "buildid": "6558958",
+        "timeupdated": "1618709103",
+        "timebuildupdated": "1618708897"
+      },
+      "old-engine": {
+        "buildid": "5992395",
+        "description": "Old engine",
+        "timeupdated": "1608396311",
+        "timebuildupdated": "1608396311"
+      },
+      "testing": {
+        "buildid": "6008273",
+        "description": "for tests",
+        "timeupdated": "1608747053",
+        "timebuildupdated": "1608746832"
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "name": "Mizu",
+  "source": "spectre",
+  "changenumber": 34873479,
+  "updated": "2026-11-06T23:11:33.632Z",
+  "branches": {
+    "public": {
+      "buildid": "8068907",
+      "timeupdated": "1642906589",
+      "timebuildupdated": "1642903019"
+    },
+    "edge": {
+      "buildid": "8404195",
+      "description": "Latest build. May contain untested, unstable or broken functionality",
+      "timeupdated": "1647736307",
+      "timebuildupdated": "1647736307"
+    },
+    "edge-mac": {
+      "buildid": "7899120",
+      "description": "Latest mac dev build",
+      "timeupdated": "1639707730",
+      "timebuildupdated": "1639707730"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1810021": {
+      "manifests": {
+        "public": {
+          "gid": "5628373000710283784",
+          "size": "1061125232",
+          "download": "935261216"
+        }
+      }
+    },
+    "1810022": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "1810023": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8068907",
+        "timeupdated": "1642906589",
+        "timebuildupdated": "1642903019"
+      },
+      "edge": {
+        "buildid": "8404195",
+        "description": "Latest build. May contain untested, unstable or broken functionality",
+        "timeupdated": "1647736307",
+        "timebuildupdated": "1647736307"
+      },
+      "edge-mac": {
+        "buildid": "7899120",
+        "description": "Latest mac dev build",
+        "timeupdated": "1639707730",
+        "timebuildupdated": "1639707730"
+      }
+    }
+  }
+}

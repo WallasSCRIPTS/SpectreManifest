@@ -1,0 +1,58 @@
+{
+  "name": "Umiro",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:11.977Z",
+  "branches": {
+    "public": {
+      "buildid": "2644900",
+      "timeupdated": "1522330789",
+      "timebuildupdated": "1522330150"
+    },
+    "betatest": {
+      "buildid": "2748885",
+      "description": "Beta Test",
+      "timeupdated": "1526389928",
+      "timebuildupdated": "1525537346"
+    }
+  },
+  "depot": {
+    "727761": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "468246562507752842",
+          "size": "437323238",
+          "download": "81998896"
+        }
+      }
+    },
+    "727762": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6212911595218311272",
+          "size": "487108475",
+          "download": "94956720"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2644900",
+        "timeupdated": "1522330789",
+        "timebuildupdated": "1522330150"
+      },
+      "betatest": {
+        "buildid": "2748885",
+        "description": "Beta Test",
+        "timeupdated": "1526389928",
+        "timebuildupdated": "1525537346"
+      }
+    }
+  }
+}

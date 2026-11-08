@@ -1,0 +1,70 @@
+{
+  "name": "The Past Within",
+  "source": "spectre",
+  "changenumber": 39388660,
+  "updated": "2026-11-06T21:05:50.353Z",
+  "branches": {
+    "public": {
+      "buildid": "20446906",
+      "timeupdated": "1760783850",
+      "timebuildupdated": "1760783478"
+    },
+    "external-qa": {
+      "buildid": "10828363",
+      "description": "External QA",
+      "timeupdated": "1679484598",
+      "timebuildupdated": "1679484300"
+    },
+    "press": {
+      "buildid": "10828363",
+      "description": "press builds",
+      "timeupdated": "1679484606",
+      "timebuildupdated": "1679484300"
+    }
+  },
+  "depot": {
+    "1515211": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8880232336434994809",
+          "size": "578371114",
+          "download": "300413520"
+        }
+      }
+    },
+    "1515212": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8779609426458026461",
+          "size": "365598278",
+          "download": "309939328"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20446906",
+        "timeupdated": "1760783850",
+        "timebuildupdated": "1760783478"
+      },
+      "external-qa": {
+        "buildid": "10828363",
+        "description": "External QA",
+        "timeupdated": "1679484598",
+        "timebuildupdated": "1679484300"
+      },
+      "press": {
+        "buildid": "10828363",
+        "description": "press builds",
+        "timeupdated": "1679484606",
+        "timebuildupdated": "1679484300"
+      }
+    }
+  }
+}

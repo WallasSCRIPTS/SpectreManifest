@@ -1,0 +1,72 @@
+{
+  "name": "Arcane Assembly",
+  "source": "spectre",
+  "changenumber": 37458633,
+  "updated": "2026-11-06T23:23:18.659Z",
+  "branches": {
+    "public": {
+      "buildid": "14488979",
+      "timeupdated": "1716825547",
+      "timebuildupdated": "1716592215"
+    },
+    "fractal": {
+      "buildid": "14138891",
+      "description": "fractal demo",
+      "timeupdated": "1713829750",
+      "timebuildupdated": "1713829750"
+    },
+    "local": {
+      "buildid": "10955445",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1680874019",
+      "timebuildupdated": "1680874019"
+    },
+    "playtest": {
+      "buildid": "14488979",
+      "description": "Branch for internal playtesting",
+      "timeupdated": "1716592215",
+      "timebuildupdated": "1716592215"
+    }
+  },
+  "depot": {
+    "2356151": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8234968148157106306",
+          "size": "238868626",
+          "download": "129426032"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14488979",
+        "timeupdated": "1716825547",
+        "timebuildupdated": "1716592215"
+      },
+      "fractal": {
+        "buildid": "14138891",
+        "description": "fractal demo",
+        "timeupdated": "1713829750",
+        "timebuildupdated": "1713829750"
+      },
+      "local": {
+        "buildid": "10955445",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1680874019",
+        "timebuildupdated": "1680874019"
+      },
+      "playtest": {
+        "buildid": "14488979",
+        "description": "Branch for internal playtesting",
+        "timeupdated": "1716592215",
+        "timebuildupdated": "1716592215"
+      }
+    }
+  }
+}

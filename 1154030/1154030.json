@@ -1,0 +1,75 @@
+{
+  "name": "Titan Quest II",
+  "source": "spectre",
+  "changenumber": 40691265,
+  "updated": "2026-11-07T21:03:47.656Z",
+  "branches": {
+    "public": {
+      "buildid": "26462862",
+      "timeupdated": "1793895110",
+      "timebuildupdated": "1793895110"
+    },
+    "local": {
+      "buildid": "21481636",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1768320743",
+      "timebuildupdated": "1768320743"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1154031": {
+      "manifests": {
+        "public": {
+          "gid": "4065341439377457868",
+          "size": "30586975579",
+          "download": "26165061200"
+        }
+      }
+    },
+    "1154032": {
+      "manifests": {
+        "public": {
+          "gid": "2639127539922861837",
+          "size": "586063584",
+          "download": "243520320"
+        }
+      }
+    },
+    "1154033": {
+      "manifests": {
+        "public": {
+          "gid": "1280571733929986813",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26462862",
+        "timeupdated": "1793895110",
+        "timebuildupdated": "1793895110"
+      },
+      "local": {
+        "buildid": "21481636",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1768320743",
+        "timebuildupdated": "1768320743"
+      }
+    }
+  }
+}

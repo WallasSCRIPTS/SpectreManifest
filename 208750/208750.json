@@ -1,0 +1,136 @@
+{
+  "name": "Apotheon",
+  "source": "spectre",
+  "changenumber": 40522707,
+  "updated": "2026-11-07T20:56:02.420Z",
+  "branches": {
+    "public": {
+      "buildid": "25683655",
+      "timeupdated": "1790964725",
+      "timebuildupdated": "1790964724"
+    },
+    "bigsur": {
+      "buildid": "8384078",
+      "description": "macOS SDL Update",
+      "timeupdated": "1647450558",
+      "timebuildupdated": "1647450558"
+    },
+    "dev": {
+      "buildid": "6029102",
+      "timeupdated": "1609451568",
+      "timebuildupdated": "1609451552"
+    },
+    "lastupdate_fix": {
+      "buildid": "1573022",
+      "timeupdated": "1508527739",
+      "timebuildupdated": "1484619871"
+    },
+    "linux32": {
+      "buildid": "4570549",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1582816449",
+      "timebuildupdated": "1579038570"
+    },
+    "sdl3": {
+      "buildid": "25683800",
+      "description": "Linux AArch64 Testing, UNSTABLE",
+      "timeupdated": "1790965229",
+      "timebuildupdated": "1790965229"
+    }
+  },
+  "depot": {
+    "208751": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "350056298612665264",
+          "size": "789839616",
+          "download": "538827104"
+        }
+      }
+    },
+    "208752": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6677443317455093604",
+          "size": "1115969729",
+          "download": "579536160"
+        }
+      }
+    },
+    "208753": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6125106705147623524",
+          "size": "1128998950",
+          "download": "582482912"
+        }
+      }
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "344730": {
+      "manifests": {
+        "public": {
+          "gid": "3694731462362325770",
+          "size": "157202575",
+          "download": "126226112"
+        }
+      },
+      "dlcappid": "344730"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25683655",
+        "timeupdated": "1790964725",
+        "timebuildupdated": "1790964724"
+      },
+      "bigsur": {
+        "buildid": "8384078",
+        "description": "macOS SDL Update",
+        "timeupdated": "1647450558",
+        "timebuildupdated": "1647450558"
+      },
+      "dev": {
+        "buildid": "6029102",
+        "timeupdated": "1609451568",
+        "timebuildupdated": "1609451552"
+      },
+      "lastupdate_fix": {
+        "buildid": "1573022",
+        "timeupdated": "1508527739",
+        "timebuildupdated": "1484619871"
+      },
+      "linux32": {
+        "buildid": "4570549",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1582816449",
+        "timebuildupdated": "1579038570"
+      },
+      "sdl3": {
+        "buildid": "25683800",
+        "description": "Linux AArch64 Testing, UNSTABLE",
+        "timeupdated": "1790965229",
+        "timebuildupdated": "1790965229"
+      }
+    }
+  }
+}

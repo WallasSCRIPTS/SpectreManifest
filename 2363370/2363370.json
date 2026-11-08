@@ -1,0 +1,66 @@
+{
+  "name": "AvaKit",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:23:19.426Z",
+  "branches": {
+    "public": {
+      "buildid": "14218987",
+      "timeupdated": "1714468570",
+      "timebuildupdated": "1714468570"
+    },
+    "local": {
+      "buildid": "10986350",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1681309342",
+      "timebuildupdated": "1681309342"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2363371": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2315419482217448441",
+          "size": "967489716",
+          "download": "340231088"
+        }
+      }
+    },
+    "2363372": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "747739183708507958",
+          "size": "1037279996",
+          "download": "294248704"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14218987",
+        "timeupdated": "1714468570",
+        "timebuildupdated": "1714468570"
+      },
+      "local": {
+        "buildid": "10986350",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1681309342",
+        "timebuildupdated": "1681309342"
+      }
+    }
+  }
+}

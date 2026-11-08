@@ -1,0 +1,70 @@
+{
+  "name": "Kriss' Journey",
+  "source": "spectre",
+  "changenumber": 36631845,
+  "updated": "2026-11-06T23:09:40.583Z",
+  "branches": {
+    "public": {
+      "buildid": "20515034",
+      "timeupdated": "1761233934",
+      "timebuildupdated": "1761233862"
+    },
+    "test": {
+      "buildid": "18699495",
+      "description": "private testing",
+      "timeupdated": "1748855197",
+      "timebuildupdated": "1748855197"
+    }
+  },
+  "depot": {
+    "1734701": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7332198329291956676",
+          "size": "68504121",
+          "download": "28472672"
+        }
+      }
+    },
+    "1734702": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6378568297781385807",
+          "size": "155299479",
+          "download": "65724480"
+        }
+      }
+    },
+    "1734703": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8324383021231511952",
+          "size": "67858055",
+          "download": "28011520"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20515034",
+        "timeupdated": "1761233934",
+        "timebuildupdated": "1761233862"
+      },
+      "test": {
+        "buildid": "18699495",
+        "description": "private testing",
+        "timeupdated": "1748855197",
+        "timebuildupdated": "1748855197"
+      }
+    }
+  }
+}

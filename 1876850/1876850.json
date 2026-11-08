@@ -1,0 +1,70 @@
+{
+  "name": "Babushka's Glitch Dungeon",
+  "source": "spectre",
+  "changenumber": 36211218,
+  "updated": "2026-11-06T23:11:41.961Z",
+  "branches": {
+    "public": {
+      "buildid": "21872887",
+      "timeupdated": "1770756537",
+      "timebuildupdated": "1770756501"
+    },
+    "gles2": {
+      "buildid": "18423621",
+      "description": "For older hardware that doesn't support new GPUs",
+      "timeupdated": "1747014213",
+      "timebuildupdated": "1747014213"
+    },
+    "dev_debug": {
+      "buildid": "21872887",
+      "description": "secret",
+      "timeupdated": "1770756501",
+      "timebuildupdated": "1770756501"
+    }
+  },
+  "depot": {
+    "1876851": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2527647226572593514",
+          "size": "532250352",
+          "download": "141381872"
+        }
+      }
+    },
+    "1876852": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8969406958349277726",
+          "size": "578823880",
+          "download": "152354448"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21872887",
+        "timeupdated": "1770756537",
+        "timebuildupdated": "1770756501"
+      },
+      "gles2": {
+        "buildid": "18423621",
+        "description": "For older hardware that doesn't support new GPUs",
+        "timeupdated": "1747014213",
+        "timebuildupdated": "1747014213"
+      },
+      "dev_debug": {
+        "buildid": "21872887",
+        "description": "secret",
+        "timeupdated": "1770756501",
+        "timebuildupdated": "1770756501"
+      }
+    }
+  }
+}

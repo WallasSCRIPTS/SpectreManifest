@@ -1,0 +1,134 @@
+{
+  "name": "Kyma",
+  "source": "spectre",
+  "changenumber": 40460142,
+  "updated": "2026-11-06T21:04:57.430Z",
+  "branches": {
+    "public": {
+      "buildid": "20964971",
+      "timeupdated": "1764244523",
+      "timebuildupdated": "1764244456"
+    },
+    "prerelease": {
+      "buildid": "26348266",
+      "description": "Pre-release (unstable)",
+      "timeupdated": "1793464565",
+      "timebuildupdated": "1793464565"
+    },
+    "5.1.6": {
+      "buildid": "15433725",
+      "description": "5.1.6",
+      "timeupdated": "1738853398",
+      "timebuildupdated": "1724153588"
+    },
+    "5.0.134": {
+      "buildid": "14195100",
+      "description": "5.0.134",
+      "timeupdated": "1724097570",
+      "timebuildupdated": "1714219581"
+    },
+    "old-alpha-4.2.204": {
+      "buildid": "11527076",
+      "description": "(old - unstable)",
+      "timeupdated": "1710194726",
+      "timebuildupdated": "1687369859"
+    },
+    "old-alpha-3.2.29": {
+      "buildid": "10916984",
+      "description": "(old- unstable)",
+      "timeupdated": "1680512613",
+      "timebuildupdated": "1680512613"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1397301": {
+      "manifests": {
+        "public": {
+          "gid": "1770720875465785329",
+          "size": "546154322",
+          "download": "512389488"
+        }
+      }
+    },
+    "1397302": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6239859716192635149",
+          "size": "379994617",
+          "download": "133744960"
+        }
+      }
+    },
+    "1397303": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5897543658548757017",
+          "size": "47555340",
+          "download": "30404144"
+        }
+      }
+    },
+    "1397304": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6286499671787047685",
+          "size": "354248294",
+          "download": "128090544"
+        }
+      }
+    },
+    "1397305": {},
+    "branches": {
+      "public": {
+        "buildid": "20964971",
+        "timeupdated": "1764244523",
+        "timebuildupdated": "1764244456"
+      },
+      "prerelease": {
+        "buildid": "26348266",
+        "description": "Pre-release (unstable)",
+        "timeupdated": "1793464565",
+        "timebuildupdated": "1793464565"
+      },
+      "5.1.6": {
+        "buildid": "15433725",
+        "description": "5.1.6",
+        "timeupdated": "1738853398",
+        "timebuildupdated": "1724153588"
+      },
+      "5.0.134": {
+        "buildid": "14195100",
+        "description": "5.0.134",
+        "timeupdated": "1724097570",
+        "timebuildupdated": "1714219581"
+      },
+      "old-alpha-4.2.204": {
+        "buildid": "11527076",
+        "description": "(old - unstable)",
+        "timeupdated": "1710194726",
+        "timebuildupdated": "1687369859"
+      },
+      "old-alpha-3.2.29": {
+        "buildid": "10916984",
+        "description": "(old- unstable)",
+        "timeupdated": "1680512613",
+        "timebuildupdated": "1680512613"
+      }
+    }
+  }
+}

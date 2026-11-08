@@ -1,0 +1,139 @@
+{
+  "name": "sheepChat",
+  "source": "spectre",
+  "changenumber": 39975290,
+  "updated": "2026-11-07T21:01:52.638Z",
+  "branches": {
+    "public": {
+      "buildid": "26033303",
+      "timeupdated": "1792359232",
+      "timebuildupdated": "1792358149"
+    },
+    "beta": {
+      "buildid": "26033303",
+      "description": "Beta build",
+      "timeupdated": "1792359210",
+      "timebuildupdated": "1792358149"
+    },
+    "nightly-v1.x.x": {
+      "buildid": "26033303",
+      "description": "Nightly builds, branch 1.x.x",
+      "timeupdated": "1792359189",
+      "timebuildupdated": "1792358149"
+    },
+    "test": {
+      "buildid": "26033303",
+      "description": "Unstable test build",
+      "timeupdated": "1792359175",
+      "timebuildupdated": "1792358149"
+    },
+    "legacy": {
+      "buildid": "19499592",
+      "description": "Old version of sheepChat 1.9",
+      "timeupdated": "1755729688",
+      "timebuildupdated": "1754489785"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "944771": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2673716314356080716",
+          "size": "923039619",
+          "download": "642558592"
+        }
+      }
+    },
+    "944772": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2517625968572952223",
+          "size": "90624",
+          "download": "54192"
+        }
+      }
+    },
+    "944773": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8381797954277659765",
+          "size": "877428034",
+          "download": "620441472"
+        }
+      }
+    },
+    "944774": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8026326172340294198",
+          "size": "408068",
+          "download": "218784"
+        }
+      }
+    },
+    "944775": {
+      "manifests": {
+        "public": {
+          "gid": "8510969875184679232",
+          "size": "35",
+          "download": "96"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26033303",
+        "timeupdated": "1792359232",
+        "timebuildupdated": "1792358149"
+      },
+      "beta": {
+        "buildid": "26033303",
+        "description": "Beta build",
+        "timeupdated": "1792359210",
+        "timebuildupdated": "1792358149"
+      },
+      "nightly-v1.x.x": {
+        "buildid": "26033303",
+        "description": "Nightly builds, branch 1.x.x",
+        "timeupdated": "1792359189",
+        "timebuildupdated": "1792358149"
+      },
+      "test": {
+        "buildid": "26033303",
+        "description": "Unstable test build",
+        "timeupdated": "1792359175",
+        "timebuildupdated": "1792358149"
+      },
+      "legacy": {
+        "buildid": "19499592",
+        "description": "Old version of sheepChat 1.9",
+        "timeupdated": "1755729688",
+        "timebuildupdated": "1754489785"
+      }
+    }
+  }
+}

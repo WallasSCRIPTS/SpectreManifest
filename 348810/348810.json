@@ -1,0 +1,56 @@
+{
+  "name": "M4 Tank Brigade",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:01.771Z",
+  "branches": {
+    "public": {
+      "buildid": "21904533",
+      "timeupdated": "1770910489",
+      "timebuildupdated": "1770910489"
+    },
+    "m4tank_mac": {
+      "buildid": "2587443",
+      "timeupdated": "1520525968",
+      "timebuildupdated": "1520525968"
+    }
+  },
+  "depot": {
+    "348811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2517565892112663995",
+          "size": "5843095353",
+          "download": "2219601808"
+        }
+      }
+    },
+    "348812": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5810131757772766335",
+          "size": "16825350287",
+          "download": "2204805152"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21904533",
+        "timeupdated": "1770910489",
+        "timebuildupdated": "1770910489"
+      },
+      "m4tank_mac": {
+        "buildid": "2587443",
+        "timeupdated": "1520525968",
+        "timebuildupdated": "1520525968"
+      }
+    }
+  }
+}

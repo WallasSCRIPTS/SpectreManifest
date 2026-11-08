@@ -1,0 +1,76 @@
+{
+  "name": "Voyage to Farland",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:10.876Z",
+  "branches": {
+    "public": {
+      "buildid": "853099",
+      "timebuildupdated": "1447181152"
+    },
+    "gameonlynojre": {
+      "buildid": "853094",
+      "description": "v2.3.2 Game only, no Java Runtime",
+      "timebuildupdated": "1447181046"
+    },
+    "previousversion": {
+      "buildid": "664140",
+      "description": "v2.3.1 (No Bundled Java Runtime)",
+      "timebuildupdated": "1434634783"
+    }
+  },
+  "depot": {
+    "364791": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2345900740318516135",
+          "size": "24664355",
+          "download": "20188224"
+        }
+      }
+    },
+    "364792": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6324734561600960308",
+          "size": "126734492",
+          "download": "67012320"
+        }
+      }
+    },
+    "364793": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9139430983075695219",
+          "size": "21236449",
+          "download": "19241328"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "853099",
+        "timebuildupdated": "1447181152"
+      },
+      "gameonlynojre": {
+        "buildid": "853094",
+        "description": "v2.3.2 Game only, no Java Runtime",
+        "timebuildupdated": "1447181046"
+      },
+      "previousversion": {
+        "buildid": "664140",
+        "description": "v2.3.1 (No Bundled Java Runtime)",
+        "timebuildupdated": "1434634783"
+      }
+    }
+  }
+}

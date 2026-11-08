@@ -1,0 +1,63 @@
+{
+  "name": "Shattered Planet",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:33.038Z",
+  "branches": {
+    "public": {
+      "buildid": "556608",
+      "timebuildupdated": "1426544685"
+    },
+    "beta": {
+      "buildid": "556608",
+      "description": "Private Beta",
+      "timebuildupdated": "1426544685"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "305641": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3938862808178165210",
+          "size": "390204265",
+          "download": "100138752"
+        }
+      }
+    },
+    "305642": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4870664505280703501",
+          "size": "651173199",
+          "download": "304418240"
+        }
+      }
+    },
+    "310710": {
+      "dlcappid": "310710"
+    },
+    "branches": {
+      "public": {
+        "buildid": "556608",
+        "timebuildupdated": "1426544685"
+      },
+      "beta": {
+        "buildid": "556608",
+        "description": "Private Beta",
+        "timebuildupdated": "1426544685"
+      }
+    }
+  }
+}

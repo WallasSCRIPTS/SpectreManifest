@@ -1,0 +1,70 @@
+{
+  "name": "SFD",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:40.070Z",
+  "branches": {
+    "public": {
+      "buildid": "19907311",
+      "timeupdated": "1757401981",
+      "timebuildupdated": "1757401553"
+    },
+    "beta_build": {
+      "buildid": "10207876",
+      "description": "Beta build",
+      "timeupdated": "1756576372",
+      "timebuildupdated": "1671815859"
+    }
+  },
+  "depot": {
+    "916041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5169205005018463214",
+          "size": "381188974",
+          "download": "240961328"
+        }
+      }
+    },
+    "916042": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "165444592873153099",
+          "size": "398194056",
+          "download": "247715872"
+        }
+      }
+    },
+    "916043": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5889888686616994775",
+          "size": "372406389",
+          "download": "236659408"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19907311",
+        "timeupdated": "1757401981",
+        "timebuildupdated": "1757401553"
+      },
+      "beta_build": {
+        "buildid": "10207876",
+        "description": "Beta build",
+        "timeupdated": "1756576372",
+        "timebuildupdated": "1671815859"
+      }
+    }
+  }
+}

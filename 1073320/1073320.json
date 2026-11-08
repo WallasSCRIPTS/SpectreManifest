@@ -1,0 +1,58 @@
+{
+  "name": "Meteorfall: Krumit's Tale",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:00.152Z",
+  "branches": {
+    "public": {
+      "buildid": "20111240",
+      "timeupdated": "1758808882",
+      "timebuildupdated": "1758726795"
+    },
+    "beta": {
+      "buildid": "6626188",
+      "description": "For cutting edge (and possibly unstable) changes",
+      "timeupdated": "1619752911",
+      "timebuildupdated": "1619752682"
+    }
+  },
+  "depot": {
+    "1073321": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4816873165417723452",
+          "size": "501464925",
+          "download": "235010720"
+        }
+      }
+    },
+    "1073322": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8274943234350239134",
+          "size": "432888064",
+          "download": "206324736"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20111240",
+        "timeupdated": "1758808882",
+        "timebuildupdated": "1758726795"
+      },
+      "beta": {
+        "buildid": "6626188",
+        "description": "For cutting edge (and possibly unstable) changes",
+        "timeupdated": "1619752911",
+        "timebuildupdated": "1619752682"
+      }
+    }
+  }
+}

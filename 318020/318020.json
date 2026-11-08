@@ -1,0 +1,75 @@
+{
+  "name": "Act of Aggression",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:38.591Z",
+  "branches": {
+    "public": {
+      "buildid": "4170236",
+      "timeupdated": "1567762503",
+      "timebuildupdated": "1567701508"
+    },
+    "v515": {
+      "buildid": "760637",
+      "description": "Old save compatibility",
+      "timebuildupdated": "1441274292"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "318021": {
+      "manifests": {
+        "public": {
+          "gid": "4504918995888238200",
+          "size": "17689215147",
+          "download": "10061836192"
+        }
+      }
+    },
+    "318022": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1164046445169203307",
+          "size": "2016922816",
+          "download": "528509376"
+        }
+      }
+    },
+    "318023": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "318024": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4170236",
+        "timeupdated": "1567762503",
+        "timebuildupdated": "1567701508"
+      },
+      "v515": {
+        "buildid": "760637",
+        "description": "Old save compatibility",
+        "timebuildupdated": "1441274292"
+      }
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "name": "Wargroove 2",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:34.666Z",
+  "branches": {
+    "public": {
+      "buildid": "19410034",
+      "timeupdated": "1769682703",
+      "timebuildupdated": "1753860649"
+    },
+    "legacy": {
+      "buildid": "16686728",
+      "description": "Previous version (1.2.3)",
+      "timeupdated": "1769682565",
+      "timebuildupdated": "1733785906"
+    },
+    "preview": {
+      "buildid": "19410034",
+      "description": "Public preview version",
+      "timeupdated": "1753881981",
+      "timebuildupdated": "1753860649"
+    }
+  },
+  "depot": {
+    "1346021": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8733560651193280100",
+          "size": "503962110",
+          "download": "485630848"
+        }
+      }
+    },
+    "1346022": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3966886567964092823",
+          "size": "29537628",
+          "download": "11360928"
+        }
+      }
+    },
+    "1346024": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8828760090073356318",
+          "size": "536026284",
+          "download": "493806480"
+        }
+      }
+    },
+    "1346025": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19410034",
+        "timeupdated": "1769682703",
+        "timebuildupdated": "1753860649"
+      },
+      "legacy": {
+        "buildid": "16686728",
+        "description": "Previous version (1.2.3)",
+        "timeupdated": "1769682565",
+        "timebuildupdated": "1733785906"
+      },
+      "preview": {
+        "buildid": "19410034",
+        "description": "Public preview version",
+        "timeupdated": "1753881981",
+        "timebuildupdated": "1753860649"
+      }
+    }
+  }
+}

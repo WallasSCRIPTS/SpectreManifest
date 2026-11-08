@@ -1,0 +1,82 @@
+{
+  "name": "Blood Trail",
+  "source": "spectre",
+  "changenumber": 40233091,
+  "updated": "2026-11-07T21:02:38.456Z",
+  "branches": {
+    "public": {
+      "buildid": "18598125",
+      "timeupdated": "1748137804",
+      "timebuildupdated": "1748135405"
+    },
+    "legacy_branch_1": {
+      "buildid": "5022962",
+      "description": "Original upload date May 13 2020",
+      "timeupdated": "1618616965",
+      "timebuildupdated": "1589397663"
+    },
+    "experimental": {
+      "buildid": "18598125",
+      "description": "This branch is for dedicated players to test the very latest versions before they go to the default branch.",
+      "timeupdated": "1748137722",
+      "timebuildupdated": "1748135405"
+    },
+    "legacy_branch_2": {
+      "buildid": "9026022",
+      "description": "Original upload date Jun 28 2022",
+      "timeupdated": "1747939227",
+      "timebuildupdated": "1656473606"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1032431": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7638628037252072275",
+          "size": "25905300033",
+          "download": "9498521216"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18598125",
+        "timeupdated": "1748137804",
+        "timebuildupdated": "1748135405"
+      },
+      "legacy_branch_1": {
+        "buildid": "5022962",
+        "description": "Original upload date May 13 2020",
+        "timeupdated": "1618616965",
+        "timebuildupdated": "1589397663"
+      },
+      "experimental": {
+        "buildid": "18598125",
+        "description": "This branch is for dedicated players to test the very latest versions before they go to the default branch.",
+        "timeupdated": "1748137722",
+        "timebuildupdated": "1748135405"
+      },
+      "legacy_branch_2": {
+        "buildid": "9026022",
+        "description": "Original upload date Jun 28 2022",
+        "timeupdated": "1747939227",
+        "timebuildupdated": "1656473606"
+      }
+    }
+  }
+}

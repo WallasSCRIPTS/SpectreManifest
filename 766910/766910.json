@@ -1,0 +1,58 @@
+{
+  "name": "E-Ball",
+  "source": "spectre",
+  "changenumber": 34838334,
+  "updated": "2026-11-07T21:00:32.126Z",
+  "branches": {
+    "public": {
+      "buildid": "4702543",
+      "timeupdated": "1582302189",
+      "timebuildupdated": "1582302114"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "766911": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4589816627415239638",
+          "size": "2473574312",
+          "download": "673129968"
+        }
+      }
+    },
+    "766912": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3925886289735502176",
+          "size": "1588900100",
+          "download": "392630448"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4702543",
+        "timeupdated": "1582302189",
+        "timebuildupdated": "1582302114"
+      }
+    }
+  }
+}

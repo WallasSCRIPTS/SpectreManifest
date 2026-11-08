@@ -1,0 +1,56 @@
+{
+  "name": "Buy Hyacinths",
+  "source": "spectre",
+  "changenumber": 40062413,
+  "updated": "2026-11-06T23:17:29.815Z",
+  "branches": {
+    "public": {
+      "buildid": "9447370",
+      "timeupdated": "1662242735",
+      "timebuildupdated": "1662242596"
+    }
+  },
+  "depot": {
+    "2085161": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3322187384502054139",
+          "size": "325633311",
+          "download": "137924784"
+        }
+      }
+    },
+    "2085162": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6242686994273445861",
+          "size": "634979925",
+          "download": "173304736"
+        }
+      }
+    },
+    "2165481": {
+      "manifests": {
+        "public": {
+          "gid": "6584209140264335639",
+          "size": "34582769",
+          "download": "34082368"
+        }
+      },
+      "depotfromapp": "2165480"
+    },
+    "branches": {
+      "public": {
+        "buildid": "9447370",
+        "timeupdated": "1662242735",
+        "timebuildupdated": "1662242596"
+      }
+    }
+  }
+}

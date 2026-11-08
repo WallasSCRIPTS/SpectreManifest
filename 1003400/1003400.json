@@ -1,0 +1,58 @@
+{
+  "name": "The Lord of the Rings: Journeys in Middle-earth",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T21:02:22.945Z",
+  "branches": {
+    "public": {
+      "buildid": "24301165",
+      "timeupdated": "1784743032",
+      "timebuildupdated": "1784573375"
+    },
+    "macos-sierra-and-lower": {
+      "buildid": "7603092",
+      "description": "MacOS Sierra and lower",
+      "timeupdated": "1643738863",
+      "timebuildupdated": "1635261818"
+    }
+  },
+  "depot": {
+    "1003401": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1787060792738042863",
+          "size": "624542058",
+          "download": "187985248"
+        }
+      }
+    },
+    "1003402": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6435060815902322251",
+          "size": "660504464",
+          "download": "202476448"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24301165",
+        "timeupdated": "1784743032",
+        "timebuildupdated": "1784573375"
+      },
+      "macos-sierra-and-lower": {
+        "buildid": "7603092",
+        "description": "MacOS Sierra and lower",
+        "timeupdated": "1643738863",
+        "timebuildupdated": "1635261818"
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Reaper - Tale of a Pale Swordsman",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:18.461Z",
+  "branches": {
+    "public": {
+      "buildid": "16861958",
+      "timeupdated": "1735322994",
+      "timebuildupdated": "1735322939"
+    },
+    "beta": {
+      "buildid": "16861958",
+      "description": "Beta Testing",
+      "timeupdated": "1735322939",
+      "timebuildupdated": "1735322939"
+    },
+    "legacy": {
+      "buildid": "4293026",
+      "description": "Legacy Version",
+      "timeupdated": "1734608974",
+      "timebuildupdated": "1571230806"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "269371": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8118003077310596593",
+          "size": "50681585",
+          "download": "48043920"
+        }
+      }
+    },
+    "269372": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2027439942083162464",
+          "size": "37950105",
+          "download": "30851200"
+        }
+      }
+    },
+    "269373": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7424081610912759108",
+          "size": "37660973",
+          "download": "31567920"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16861958",
+        "timeupdated": "1735322994",
+        "timebuildupdated": "1735322939"
+      },
+      "beta": {
+        "buildid": "16861958",
+        "description": "Beta Testing",
+        "timeupdated": "1735322939",
+        "timebuildupdated": "1735322939"
+      },
+      "legacy": {
+        "buildid": "4293026",
+        "description": "Legacy Version",
+        "timeupdated": "1734608974",
+        "timebuildupdated": "1571230806"
+      }
+    }
+  }
+}

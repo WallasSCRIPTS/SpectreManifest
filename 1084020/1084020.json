@@ -1,0 +1,94 @@
+{
+  "name": "TheoTown",
+  "source": "spectre",
+  "changenumber": 40630010,
+  "updated": "2026-11-07T21:03:05.450Z",
+  "branches": {
+    "public": {
+      "buildid": "26216777",
+      "timeupdated": "1793208931",
+      "timebuildupdated": "1793018145"
+    },
+    "legacy_branch": {
+      "buildid": "25546407",
+      "description": "This branch provides a previous version of the game in case the currently public one has compatibility issues.",
+      "timeupdated": "1791553912",
+      "timebuildupdated": "1790422881"
+    },
+    "beta": {
+      "buildid": "26440734",
+      "description": "Branch for testing new features",
+      "timeupdated": "1793884952",
+      "timebuildupdated": "1793821739"
+    }
+  },
+  "depot": {
+    "1084021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2224124974063976139",
+          "size": "235816053",
+          "download": "154687920"
+        }
+      }
+    },
+    "1084022": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7757547309148987067",
+          "size": "289181493",
+          "download": "165361776"
+        }
+      }
+    },
+    "1084023": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8638988831934848516",
+          "size": "281571856",
+          "download": "161406272"
+        }
+      }
+    },
+    "1084024": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7416786765491495626",
+          "size": "272345972",
+          "download": "160486240"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26216777",
+        "timeupdated": "1793208931",
+        "timebuildupdated": "1793018145"
+      },
+      "legacy_branch": {
+        "buildid": "25546407",
+        "description": "This branch provides a previous version of the game in case the currently public one has compatibility issues.",
+        "timeupdated": "1791553912",
+        "timebuildupdated": "1790422881"
+      },
+      "beta": {
+        "buildid": "26440734",
+        "description": "Branch for testing new features",
+        "timeupdated": "1793884952",
+        "timebuildupdated": "1793821739"
+      }
+    }
+  }
+}

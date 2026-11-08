@@ -1,0 +1,58 @@
+{
+  "name": "Sapiens",
+  "source": "spectre",
+  "changenumber": 39837977,
+  "updated": "2026-11-07T21:02:51.950Z",
+  "branches": {
+    "public": {
+      "buildid": "19991669",
+      "timeupdated": "1758055216",
+      "timebuildupdated": "1757977306"
+    },
+    "public-beta-unstable": {
+      "buildid": "21169149",
+      "description": "Public Beta (Unstable)",
+      "timeupdated": "1765572500",
+      "timebuildupdated": "1765572500"
+    }
+  },
+  "depot": {
+    "1060231": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3516403775103186832",
+          "size": "470526191",
+          "download": "325031312"
+        }
+      }
+    },
+    "1060232": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1002269555282669078",
+          "size": "446472950",
+          "download": "323536880"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19991669",
+        "timeupdated": "1758055216",
+        "timebuildupdated": "1757977306"
+      },
+      "public-beta-unstable": {
+        "buildid": "21169149",
+        "description": "Public Beta (Unstable)",
+        "timeupdated": "1765572500",
+        "timebuildupdated": "1765572500"
+      }
+    }
+  }
+}

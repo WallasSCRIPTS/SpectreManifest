@@ -1,0 +1,76 @@
+{
+  "name": "Psebay",
+  "source": "spectre",
+  "changenumber": 39531755,
+  "updated": "2026-11-07T20:59:13.473Z",
+  "branches": {
+    "public": {
+      "buildid": "19362211",
+      "timeupdated": "1753544550",
+      "timebuildupdated": "1753467087"
+    },
+    "v.4.0": {
+      "buildid": "4880509",
+      "description": "Psebay v.4",
+      "timeupdated": "1753468139",
+      "timebuildupdated": "1586461698"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "608661": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "844703153139917462",
+          "size": "69809711",
+          "download": "50099456"
+        }
+      }
+    },
+    "608662": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4860022876004276828",
+          "size": "58114597",
+          "download": "41565008"
+        }
+      }
+    },
+    "608663": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7603001355121368988",
+          "size": "88038513",
+          "download": "49249808"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19362211",
+        "timeupdated": "1753544550",
+        "timebuildupdated": "1753467087"
+      },
+      "v.4.0": {
+        "buildid": "4880509",
+        "description": "Psebay v.4",
+        "timeupdated": "1753468139",
+        "timebuildupdated": "1586461698"
+      }
+    }
+  }
+}

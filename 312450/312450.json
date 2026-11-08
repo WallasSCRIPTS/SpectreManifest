@@ -1,0 +1,76 @@
+{
+  "name": "Order of Battle: World War II",
+  "source": "spectre",
+  "changenumber": 40628201,
+  "updated": "2026-11-07T20:56:35.755Z",
+  "branches": {
+    "public": {
+      "buildid": "20317080",
+      "timeupdated": "1760006893",
+      "timebuildupdated": "1759999967"
+    },
+    "v8.3.0legacybuild": {
+      "buildid": "4482522",
+      "description": "32BitCompatibleVersion",
+      "timeupdated": "1587640239",
+      "timebuildupdated": "1576086350"
+    },
+    "v8.6.9legacybuild": {
+      "buildid": "6140698",
+      "description": "MacPBEMCompatibleVersion",
+      "timeupdated": "1611846528",
+      "timebuildupdated": "1611679903"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "312451": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5478565821561283867",
+          "size": "3187675460",
+          "download": "1582077488"
+        }
+      }
+    },
+    "312452": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7392613750251160423",
+          "size": "2907247094",
+          "download": "1446793728"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20317080",
+        "timeupdated": "1760006893",
+        "timebuildupdated": "1759999967"
+      },
+      "v8.3.0legacybuild": {
+        "buildid": "4482522",
+        "description": "32BitCompatibleVersion",
+        "timeupdated": "1587640239",
+        "timebuildupdated": "1576086350"
+      },
+      "v8.6.9legacybuild": {
+        "buildid": "6140698",
+        "description": "MacPBEMCompatibleVersion",
+        "timeupdated": "1611846528",
+        "timebuildupdated": "1611679903"
+      }
+    }
+  }
+}

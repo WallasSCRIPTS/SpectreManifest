@@ -1,0 +1,57 @@
+{
+  "name": "King Arthur's Gold",
+  "source": "spectre",
+  "changenumber": 40685048,
+  "updated": "2026-11-07T20:56:05.009Z",
+  "branches": {
+    "public": {
+      "buildid": "14246457",
+      "timeupdated": "1714668808",
+      "timebuildupdated": "1714668754"
+    }
+  },
+  "depot": {
+    "219831": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2280509142935405328",
+          "size": "73016269",
+          "download": "48747280"
+        }
+      }
+    },
+    "219833": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9124840660894079671",
+          "size": "73833619",
+          "download": "45243200"
+        }
+      }
+    },
+    "219834": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "14246457",
+        "timeupdated": "1714668808",
+        "timebuildupdated": "1714668754"
+      }
+    }
+  }
+}

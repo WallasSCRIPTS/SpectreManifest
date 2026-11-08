@@ -1,0 +1,89 @@
+{
+  "name": "Lost Flame",
+  "source": "spectre",
+  "changenumber": 40528109,
+  "updated": "2026-11-07T21:01:12.524Z",
+  "branches": {
+    "public": {
+      "buildid": "22743398",
+      "timeupdated": "1775919233",
+      "timebuildupdated": "1775907796"
+    },
+    "alpha": {
+      "buildid": "22760378",
+      "description": "unstable  alpha branch, use at your own risk",
+      "timeupdated": "1776070315",
+      "timebuildupdated": "1776070315"
+    },
+    "beta": {
+      "buildid": "22760378",
+      "description": "public beta branch, changes much faster than on the default branch, expect some bugs here",
+      "timeupdated": "1776070326",
+      "timebuildupdated": "1776070315"
+    },
+    "oldstable": {
+      "buildid": "22665582",
+      "timeupdated": "1775488441",
+      "timebuildupdated": "1775487535"
+    }
+  },
+  "depot": {
+    "856571": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5168913116404573238",
+          "size": "130774078",
+          "download": "37185488"
+        }
+      }
+    },
+    "856572": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2945687386753183374",
+          "size": "238328087",
+          "download": "66074768"
+        }
+      }
+    },
+    "856573": {
+      "manifests": {
+        "public": {
+          "gid": "3327174820240470680",
+          "size": "163700718",
+          "download": "162632592"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22743398",
+        "timeupdated": "1775919233",
+        "timebuildupdated": "1775907796"
+      },
+      "alpha": {
+        "buildid": "22760378",
+        "description": "unstable  alpha branch, use at your own risk",
+        "timeupdated": "1776070315",
+        "timebuildupdated": "1776070315"
+      },
+      "beta": {
+        "buildid": "22760378",
+        "description": "public beta branch, changes much faster than on the default branch, expect some bugs here",
+        "timeupdated": "1776070326",
+        "timebuildupdated": "1776070315"
+      },
+      "oldstable": {
+        "buildid": "22665582",
+        "timeupdated": "1775488441",
+        "timebuildupdated": "1775487535"
+      }
+    }
+  }
+}

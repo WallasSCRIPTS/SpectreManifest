@@ -1,0 +1,58 @@
+{
+  "name": "CRUMB",
+  "source": "spectre",
+  "changenumber": 40646575,
+  "updated": "2026-11-06T23:19:30.316Z",
+  "branches": {
+    "public": {
+      "buildid": "17183476",
+      "timeupdated": "1738235876",
+      "timebuildupdated": "1738235876"
+    },
+    "debug": {
+      "buildid": "16301507",
+      "description": "CRUMB Debugging",
+      "timeupdated": "1730814485",
+      "timebuildupdated": "1730814485"
+    }
+  },
+  "depot": {
+    "2198801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4704387317878886653",
+          "size": "1055152835",
+          "download": "61960480"
+        }
+      }
+    },
+    "2198802": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8499370740590997062",
+          "size": "1052987879",
+          "download": "59623152"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17183476",
+        "timeupdated": "1738235876",
+        "timebuildupdated": "1738235876"
+      },
+      "debug": {
+        "buildid": "16301507",
+        "description": "CRUMB Debugging",
+        "timeupdated": "1730814485",
+        "timebuildupdated": "1730814485"
+      }
+    }
+  }
+}

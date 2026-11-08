@@ -1,0 +1,70 @@
+{
+  "name": "LOVE 3",
+  "source": "spectre",
+  "changenumber": 38365851,
+  "updated": "2026-11-06T21:06:32.849Z",
+  "branches": {
+    "public": {
+      "buildid": "17491154",
+      "timeupdated": "1740436784",
+      "timebuildupdated": "1740436784"
+    },
+    "workshop": {
+      "buildid": "24962227",
+      "description": "Workshop Test!",
+      "timeupdated": "1787799615",
+      "timebuildupdated": "1787799615"
+    }
+  },
+  "depot": {
+    "1604301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "355878141402199338",
+          "size": "211683533",
+          "download": "192593888"
+        }
+      }
+    },
+    "1604302": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2416319664696347085",
+          "size": "207572770",
+          "download": "191103680"
+        }
+      }
+    },
+    "1604303": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "42370488609465642",
+          "size": "224400841",
+          "download": "195689456"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17491154",
+        "timeupdated": "1740436784",
+        "timebuildupdated": "1740436784"
+      },
+      "workshop": {
+        "buildid": "24962227",
+        "description": "Workshop Test!",
+        "timeupdated": "1787799615",
+        "timebuildupdated": "1787799615"
+      }
+    }
+  }
+}

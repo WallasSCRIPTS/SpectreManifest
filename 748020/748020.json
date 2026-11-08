@@ -1,0 +1,70 @@
+{
+  "name": "Terracotta",
+  "source": "spectre",
+  "changenumber": 38066176,
+  "updated": "2026-11-07T21:00:22.648Z",
+  "branches": {
+    "public": {
+      "buildid": "10944135",
+      "timeupdated": "1681745326",
+      "timebuildupdated": "1680764626"
+    },
+    "beta": {
+      "buildid": "12544635",
+      "description": "Branch for beta builds",
+      "timeupdated": "1698353270",
+      "timebuildupdated": "1698337808"
+    },
+    "content_recording": {
+      "buildid": "9351308",
+      "description": "branch for recording videos",
+      "timeupdated": "1660948586",
+      "timebuildupdated": "1660948558"
+    },
+    "demo": {
+      "buildid": "8780219",
+      "description": "branch for demo Steam Fest and others",
+      "timeupdated": "1653064711",
+      "timebuildupdated": "1653064517"
+    }
+  },
+  "depot": {
+    "748021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1214599025435956309",
+          "size": "12072099996",
+          "download": "990364592"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10944135",
+        "timeupdated": "1681745326",
+        "timebuildupdated": "1680764626"
+      },
+      "beta": {
+        "buildid": "12544635",
+        "description": "Branch for beta builds",
+        "timeupdated": "1698353270",
+        "timebuildupdated": "1698337808"
+      },
+      "content_recording": {
+        "buildid": "9351308",
+        "description": "branch for recording videos",
+        "timeupdated": "1660948586",
+        "timebuildupdated": "1660948558"
+      },
+      "demo": {
+        "buildid": "8780219",
+        "description": "branch for demo Steam Fest and others",
+        "timeupdated": "1653064711",
+        "timebuildupdated": "1653064517"
+      }
+    }
+  }
+}

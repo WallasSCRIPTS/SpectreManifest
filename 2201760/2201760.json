@@ -1,0 +1,70 @@
+{
+  "name": "Super Dark Deception Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-06T23:19:30.603Z",
+  "branches": {
+    "public": {
+      "buildid": "9918910",
+      "timeupdated": "1668183563",
+      "timebuildupdated": "1668181294"
+    },
+    "mac-os": {
+      "buildid": "9922111",
+      "description": "mac only",
+      "timeupdated": "1668222142",
+      "timebuildupdated": "1668222142"
+    },
+    "windows": {
+      "buildid": "9918910",
+      "description": "windows only",
+      "timeupdated": "1668181294",
+      "timebuildupdated": "1668181294"
+    }
+  },
+  "depot": {
+    "2201762": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8097749599705127006",
+          "size": "178000596",
+          "download": "54812032"
+        }
+      }
+    },
+    "2201763": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3284870005887330404",
+          "size": "154228999",
+          "download": "47561600"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9918910",
+        "timeupdated": "1668183563",
+        "timebuildupdated": "1668181294"
+      },
+      "mac-os": {
+        "buildid": "9922111",
+        "description": "mac only",
+        "timeupdated": "1668222142",
+        "timebuildupdated": "1668222142"
+      },
+      "windows": {
+        "buildid": "9918910",
+        "description": "windows only",
+        "timeupdated": "1668181294",
+        "timebuildupdated": "1668181294"
+      }
+    }
+  }
+}

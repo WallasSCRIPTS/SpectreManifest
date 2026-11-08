@@ -1,0 +1,66 @@
+{
+  "name": "Anoxemia",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:49.042Z",
+  "branches": {
+    "public": {
+      "buildid": "781141",
+      "timebuildupdated": "1442602818"
+    },
+    "developerstestbranch": {
+      "buildid": "781045",
+      "description": "Testing",
+      "timebuildupdated": "1442598722"
+    }
+  },
+  "depot": {
+    "338051": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1553768645611113387",
+          "size": "3887507678",
+          "download": "463589504"
+        }
+      }
+    },
+    "338052": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "210851103664501280",
+          "size": "3892510820",
+          "download": "464659808"
+        }
+      }
+    },
+    "338053": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "489173902346179374",
+          "size": "3896150495",
+          "download": "465217152"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "781141",
+        "timebuildupdated": "1442602818"
+      },
+      "developerstestbranch": {
+        "buildid": "781045",
+        "description": "Testing",
+        "timebuildupdated": "1442598722"
+      }
+    }
+  }
+}

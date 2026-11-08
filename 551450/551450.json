@@ -1,0 +1,58 @@
+{
+  "name": "Furious Angels",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:42.681Z",
+  "branches": {
+    "public": {
+      "buildid": "20241700",
+      "timeupdated": "1759569898",
+      "timebuildupdated": "1759506272"
+    },
+    "release_candidate": {
+      "buildid": "20241700",
+      "description": "Testing upcoming version",
+      "timeupdated": "1759569849",
+      "timebuildupdated": "1759506272"
+    }
+  },
+  "depot": {
+    "551451": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7573357204164039560",
+          "size": "87197627",
+          "download": "28919008"
+        }
+      }
+    },
+    "551452": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9130501891366458008",
+          "size": "99214806",
+          "download": "31868192"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20241700",
+        "timeupdated": "1759569898",
+        "timebuildupdated": "1759506272"
+      },
+      "release_candidate": {
+        "buildid": "20241700",
+        "description": "Testing upcoming version",
+        "timeupdated": "1759569849",
+        "timebuildupdated": "1759506272"
+      }
+    }
+  }
+}

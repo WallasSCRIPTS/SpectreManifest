@@ -1,0 +1,64 @@
+{
+  "name": "Snake Party",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:57.962Z",
+  "branches": {
+    "public": {
+      "buildid": "2268538",
+      "timeupdated": "1511731300",
+      "timebuildupdated": "1510170953"
+    },
+    "beta": {
+      "buildid": "2268538",
+      "description": "new versions to test before release",
+      "timeupdated": "1510170953",
+      "timebuildupdated": "1510170953"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "576661": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6910697210482637986",
+          "size": "12025408",
+          "download": "8984624"
+        }
+      }
+    },
+    "576662": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "714057263137374604",
+          "size": "14005760",
+          "download": "7315952"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2268538",
+        "timeupdated": "1511731300",
+        "timebuildupdated": "1510170953"
+      },
+      "beta": {
+        "buildid": "2268538",
+        "description": "new versions to test before release",
+        "timeupdated": "1510170953",
+        "timebuildupdated": "1510170953"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Wide Open",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-05T14:57:19.417Z",
+  "branches": {
+    "public": {
+      "buildid": "8445162",
+      "timeupdated": "1648334824",
+      "timebuildupdated": "1648334771"
+    },
+    "deck": {
+      "buildid": "9494876",
+      "description": "deck",
+      "timeupdated": "1662931862",
+      "timebuildupdated": "1662931849"
+    }
+  },
+  "depot": {
+    "1556421": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3501202095187652713",
+          "size": "1506644327",
+          "download": "296431696"
+        }
+      }
+    },
+    "1556422": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5226284271844203432",
+          "size": "1555834405",
+          "download": "309278448"
+        }
+      }
+    },
+    "1556423": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6385901915738994086",
+          "size": "1534006320",
+          "download": "301099632"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8445162",
+        "timeupdated": "1648334824",
+        "timebuildupdated": "1648334771"
+      },
+      "deck": {
+        "buildid": "9494876",
+        "description": "deck",
+        "timeupdated": "1662931862",
+        "timebuildupdated": "1662931849"
+      }
+    }
+  }
+}

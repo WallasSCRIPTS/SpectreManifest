@@ -1,0 +1,94 @@
+{
+  "name": "Warfork",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T20:59:40.968Z",
+  "branches": {
+    "public": {
+      "buildid": "23400948",
+      "timeupdated": "1779731329",
+      "timebuildupdated": "1779731329"
+    },
+    "beta": {
+      "buildid": "25998385",
+      "description": "Warfork Beta Testing",
+      "timeupdated": "1792186651",
+      "timebuildupdated": "1792186651"
+    }
+  },
+  "depot": {
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "671612": {
+      "manifests": {
+        "public": {
+          "gid": "6486365964059277851",
+          "size": "178150339",
+          "download": "61673664"
+        }
+      }
+    },
+    "671615": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7401944717882570944",
+          "size": "864383899",
+          "download": "856976864"
+        }
+      }
+    },
+    "671616": {
+      "manifests": {
+        "public": {
+          "gid": "8139719696446628794",
+          "size": "993529239",
+          "download": "828322384"
+        }
+      }
+    },
+    "671617": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2154522793463286395",
+          "size": "862420504",
+          "download": "856164448"
+        }
+      }
+    },
+    "671618": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "894379221008400929",
+          "size": "876269628",
+          "download": "859056832"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23400948",
+        "timeupdated": "1779731329",
+        "timebuildupdated": "1779731329"
+      },
+      "beta": {
+        "buildid": "25998385",
+        "description": "Warfork Beta Testing",
+        "timeupdated": "1792186651",
+        "timebuildupdated": "1792186651"
+      }
+    }
+  }
+}

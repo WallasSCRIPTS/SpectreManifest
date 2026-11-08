@@ -1,0 +1,58 @@
+{
+  "name": "To Pixelia",
+  "source": "spectre",
+  "changenumber": 39863290,
+  "updated": "2026-11-06T23:13:37.798Z",
+  "branches": {
+    "public": {
+      "buildid": "25632131",
+      "timeupdated": "1790783954",
+      "timebuildupdated": "1790783954"
+    },
+    "crash_solution_test": {
+      "buildid": "24453626",
+      "description": "test for crashes",
+      "timeupdated": "1785334336",
+      "timebuildupdated": "1785334264"
+    }
+  },
+  "depot": {
+    "1954161": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8570814438762354034",
+          "size": "1294704925",
+          "download": "332983152"
+        }
+      }
+    },
+    "1954162": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5373145615610212052",
+          "size": "2361972004",
+          "download": "336415952"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25632131",
+        "timeupdated": "1790783954",
+        "timebuildupdated": "1790783954"
+      },
+      "crash_solution_test": {
+        "buildid": "24453626",
+        "description": "test for crashes",
+        "timeupdated": "1785334336",
+        "timebuildupdated": "1785334264"
+      }
+    }
+  }
+}

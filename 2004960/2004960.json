@@ -1,0 +1,70 @@
+{
+  "name": "Slam and Roll",
+  "source": "spectre",
+  "changenumber": 40676790,
+  "updated": "2026-11-06T23:15:31.273Z",
+  "branches": {
+    "public": {
+      "buildid": "26484084",
+      "timeupdated": "1793968474",
+      "timebuildupdated": "1793967495"
+    },
+    "windows7-compatible": {
+      "buildid": "21269178",
+      "description": "Windows 7 version 1.1.20. (Contains all features from 1.2.2 without 2 minor fixes)",
+      "timeupdated": "1766237056",
+      "timebuildupdated": "1766237044"
+    },
+    "public_beta": {
+      "buildid": "26484084",
+      "description": "Public Beta releases",
+      "timeupdated": "1793968406",
+      "timebuildupdated": "1793967495"
+    },
+    "win7_edition_jun_2025": {
+      "buildid": "18838286",
+      "description": "Win7 v1.1.16 (Without Chaos Mayhem)",
+      "timeupdated": "1766165564",
+      "timebuildupdated": "1749721583"
+    }
+  },
+  "depot": {
+    "2004961": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8049066653891489522",
+          "size": "272396235",
+          "download": "184604688"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26484084",
+        "timeupdated": "1793968474",
+        "timebuildupdated": "1793967495"
+      },
+      "windows7-compatible": {
+        "buildid": "21269178",
+        "description": "Windows 7 version 1.1.20. (Contains all features from 1.2.2 without 2 minor fixes)",
+        "timeupdated": "1766237056",
+        "timebuildupdated": "1766237044"
+      },
+      "public_beta": {
+        "buildid": "26484084",
+        "description": "Public Beta releases",
+        "timeupdated": "1793968406",
+        "timebuildupdated": "1793967495"
+      },
+      "win7_edition_jun_2025": {
+        "buildid": "18838286",
+        "description": "Win7 v1.1.16 (Without Chaos Mayhem)",
+        "timeupdated": "1766165564",
+        "timebuildupdated": "1749721583"
+      }
+    }
+  }
+}

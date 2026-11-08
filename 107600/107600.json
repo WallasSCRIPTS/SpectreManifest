@@ -1,0 +1,77 @@
+{
+  "name": "Waves",
+  "source": "spectre",
+  "changenumber": 37432492,
+  "updated": "2026-11-07T20:55:59.444Z",
+  "branches": {
+    "public": {
+      "buildid": "1183110",
+      "timeupdated": "1466077389",
+      "timebuildupdated": "1466037544"
+    },
+    "local": {
+      "buildid": "176562",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1390919764"
+    }
+  },
+  "depot": {
+    "107601": {
+      "manifests": {
+        "public": {
+          "gid": "2757468391200530141",
+          "size": "137414248",
+          "download": "78471680"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229000": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229031": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "232990": {
+      "manifests": {
+        "public": {
+          "gid": "3059033438597612908",
+          "size": "64519124",
+          "download": "57537648"
+        }
+      },
+      "dlcappid": "232990"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1183110",
+        "timeupdated": "1466077389",
+        "timebuildupdated": "1466037544"
+      },
+      "local": {
+        "buildid": "176562",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1390919764"
+      }
+    }
+  }
+}

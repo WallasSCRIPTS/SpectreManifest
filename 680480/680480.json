@@ -1,0 +1,94 @@
+{
+  "name": "ICY: Frostbite Edition",
+  "source": "spectre",
+  "changenumber": 39468030,
+  "updated": "2026-11-07T20:59:45.474Z",
+  "branches": {
+    "public": {
+      "buildid": "2953197",
+      "timeupdated": "1531902496",
+      "timebuildupdated": "1531847832"
+    },
+    "legacy": {
+      "buildid": "2064970",
+      "timeupdated": "1508356446",
+      "timebuildupdated": "1503580451"
+    },
+    "linuxcompatibility": {
+      "buildid": "2035836",
+      "timeupdated": "1508356460",
+      "timebuildupdated": "1502700187"
+    },
+    "testbranch": {
+      "buildid": "2615525",
+      "timeupdated": "1521463185",
+      "timebuildupdated": "1521462758"
+    }
+  },
+  "depot": {
+    "680481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5849906156162502295",
+          "size": "974285656",
+          "download": "394861792"
+        }
+      }
+    },
+    "680482": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4386785974934443846",
+          "size": "990046911",
+          "download": "398971008"
+        }
+      }
+    },
+    "680483": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9120222040412852309",
+          "size": "1024021549",
+          "download": "410390752"
+        }
+      }
+    },
+    "680484": {
+      "dlcappid": "692970"
+    },
+    "692970": {
+      "dlcappid": "692970"
+    },
+    "branches": {
+      "public": {
+        "buildid": "2953197",
+        "timeupdated": "1531902496",
+        "timebuildupdated": "1531847832"
+      },
+      "legacy": {
+        "buildid": "2064970",
+        "timeupdated": "1508356446",
+        "timebuildupdated": "1503580451"
+      },
+      "linuxcompatibility": {
+        "buildid": "2035836",
+        "timeupdated": "1508356460",
+        "timebuildupdated": "1502700187"
+      },
+      "testbranch": {
+        "buildid": "2615525",
+        "timeupdated": "1521463185",
+        "timebuildupdated": "1521462758"
+      }
+    }
+  }
+}

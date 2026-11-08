@@ -1,0 +1,55 @@
+{
+  "name": "Arena Renovation",
+  "source": "spectre",
+  "changenumber": 39661575,
+  "updated": "2026-11-07T21:01:54.469Z",
+  "branches": {
+    "public": {
+      "buildid": "21225177",
+      "timeupdated": "1765986169",
+      "timebuildupdated": "1765980108"
+    },
+    "beta": {
+      "buildid": "12394523",
+      "description": "Public beta",
+      "timeupdated": "1696863830",
+      "timebuildupdated": "1696863599"
+    }
+  },
+  "depot": {
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "948881": {
+      "manifests": {
+        "public": {
+          "gid": "2208129349228718077",
+          "size": "16442286814",
+          "download": "5053861120"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21225177",
+        "timeupdated": "1765986169",
+        "timebuildupdated": "1765980108"
+      },
+      "beta": {
+        "buildid": "12394523",
+        "description": "Public beta",
+        "timeupdated": "1696863830",
+        "timebuildupdated": "1696863599"
+      }
+    }
+  }
+}

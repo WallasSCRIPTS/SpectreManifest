@@ -1,0 +1,86 @@
+{
+  "name": "Molecats",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:49.231Z",
+  "branches": {
+    "public": {
+      "buildid": "3912012",
+      "timeupdated": "1560353983",
+      "timebuildupdated": "1560353339"
+    },
+    "test": {
+      "buildid": "3912012",
+      "description": "Beta Test",
+      "timeupdated": "1560353339",
+      "timebuildupdated": "1560353339"
+    }
+  },
+  "depot": {
+    "229000": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "338291": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "746278226185899663",
+          "size": "746891605",
+          "download": "363256496"
+        }
+      }
+    },
+    "338292": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1448995695793528411",
+          "size": "787791212",
+          "download": "378161408"
+        }
+      }
+    },
+    "338293": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5744623952646479562",
+          "size": "765198996",
+          "download": "366735200"
+        }
+      }
+    },
+    "704390": {
+      "manifests": {
+        "public": {
+          "gid": "5626448273913785207",
+          "size": "211774232",
+          "download": "211497008"
+        }
+      },
+      "dlcappid": "704390"
+    },
+    "branches": {
+      "public": {
+        "buildid": "3912012",
+        "timeupdated": "1560353983",
+        "timebuildupdated": "1560353339"
+      },
+      "test": {
+        "buildid": "3912012",
+        "description": "Beta Test",
+        "timeupdated": "1560353339",
+        "timebuildupdated": "1560353339"
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "name": "FTL: Faster Than Light",
+  "source": "spectre",
+  "changenumber": 39874303,
+  "updated": "2026-11-07T20:56:03.518Z",
+  "branches": {
+    "public": {
+      "buildid": "4710954",
+      "timeupdated": "1769121360",
+      "timebuildupdated": "1582579856"
+    },
+    "beta": {
+      "buildid": "21700320",
+      "description": "Beta Patches",
+      "timeupdated": "1769695373",
+      "timebuildupdated": "1769695373"
+    }
+  },
+  "depot": {
+    "212681": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7129506338464639292",
+          "size": "286586003",
+          "download": "199501888"
+        }
+      }
+    },
+    "212682": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7312309456845465813",
+          "size": "284228511",
+          "download": "196913392"
+        }
+      }
+    },
+    "221001": {
+      "manifests": {
+        "public": {
+          "gid": "5441929488168425361",
+          "size": "242028760",
+          "download": "200204448"
+        }
+      }
+    },
+    "221002": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3440314484012853994",
+          "size": "413405254",
+          "download": "231935664"
+        }
+      }
+    },
+    "221003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3757286283369338501",
+          "size": "13",
+          "download": "64"
+        }
+      },
+      "dlcappid": "221003"
+    },
+    "branches": {
+      "public": {
+        "buildid": "4710954",
+        "timeupdated": "1769121360",
+        "timebuildupdated": "1582579856"
+      },
+      "beta": {
+        "buildid": "21700320",
+        "description": "Beta Patches",
+        "timeupdated": "1769695373",
+        "timebuildupdated": "1769695373"
+      }
+    }
+  }
+}

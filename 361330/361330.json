@@ -1,0 +1,66 @@
+{
+  "name": "Shrooms",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:09.051Z",
+  "branches": {
+    "public": {
+      "buildid": "911763",
+      "timebuildupdated": "1450901112"
+    },
+    "beta": {
+      "buildid": "715903",
+      "description": "BUILDING SYSTEM",
+      "timebuildupdated": "1438363375"
+    }
+  },
+  "depot": {
+    "361331": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7177510076804668598",
+          "size": "1779959224",
+          "download": "358571328"
+        }
+      }
+    },
+    "361332": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7498817009947055803",
+          "size": "1817224535",
+          "download": "368667360"
+        }
+      }
+    },
+    "361333": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2013578651408463091",
+          "size": "1783769529",
+          "download": "359871856"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "911763",
+        "timebuildupdated": "1450901112"
+      },
+      "beta": {
+        "buildid": "715903",
+        "description": "BUILDING SYSTEM",
+        "timebuildupdated": "1438363375"
+      }
+    }
+  }
+}

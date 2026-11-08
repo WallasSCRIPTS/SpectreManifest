@@ -1,0 +1,82 @@
+{
+  "name": "STRAFTAT",
+  "source": "spectre",
+  "changenumber": 40616053,
+  "updated": "2026-11-06T23:23:22.317Z",
+  "branches": {
+    "public": {
+      "buildid": "25333005",
+      "timeupdated": "1789559408",
+      "timebuildupdated": "1789508489"
+    },
+    "demo": {
+      "buildid": "23204771",
+      "description": "The demo version of the game from Oct 2024 (windows only).",
+      "timeupdated": "1778619535",
+      "timebuildupdated": "1778619535"
+    },
+    "testing": {
+      "buildid": "25333005",
+      "description": "testing branch",
+      "timeupdated": "1789508489",
+      "timebuildupdated": "1789508489"
+    }
+  },
+  "depot": {
+    "2386721": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5719611885728548655",
+          "size": "6769951661",
+          "download": "6175667632"
+        }
+      }
+    },
+    "2386722": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1656295128633751282",
+          "size": "6796564114",
+          "download": "6188541696"
+        }
+      }
+    },
+    "2386723": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3214113370198883402",
+          "size": "6836235354",
+          "download": "6230363872"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25333005",
+        "timeupdated": "1789559408",
+        "timebuildupdated": "1789508489"
+      },
+      "demo": {
+        "buildid": "23204771",
+        "description": "The demo version of the game from Oct 2024 (windows only).",
+        "timeupdated": "1778619535",
+        "timebuildupdated": "1778619535"
+      },
+      "testing": {
+        "buildid": "25333005",
+        "description": "testing branch",
+        "timeupdated": "1789508489",
+        "timebuildupdated": "1789508489"
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "name": "Tengami",
+  "source": "spectre",
+  "changenumber": 40085253,
+  "updated": "2026-11-07T20:56:30.261Z",
+  "branches": {
+    "public": {
+      "buildid": "5195183",
+      "timeupdated": "1592730267",
+      "timebuildupdated": "1592730043"
+    },
+    "beta": {
+      "buildid": "5195183",
+      "timeupdated": "1592730044",
+      "timebuildupdated": "1592730043"
+    },
+    "local": {
+      "buildid": "530275",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1424323143"
+    },
+    "openlgl": {
+      "buildid": "5074851",
+      "description": "OpenGL version for older Macs that do not support Metal",
+      "timeupdated": "1590419099",
+      "timebuildupdated": "1590419099"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "299681": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "701844389666881346",
+          "size": "274653205",
+          "download": "228676000"
+        }
+      }
+    },
+    "299682": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6113209522850678381",
+          "size": "482838105",
+          "download": "278470752"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5195183",
+        "timeupdated": "1592730267",
+        "timebuildupdated": "1592730043"
+      },
+      "beta": {
+        "buildid": "5195183",
+        "timeupdated": "1592730044",
+        "timebuildupdated": "1592730043"
+      },
+      "local": {
+        "buildid": "530275",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1424323143"
+      },
+      "openlgl": {
+        "buildid": "5074851",
+        "description": "OpenGL version for older Macs that do not support Metal",
+        "timeupdated": "1590419099",
+        "timebuildupdated": "1590419099"
+      }
+    }
+  }
+}

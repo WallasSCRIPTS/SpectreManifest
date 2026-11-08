@@ -1,0 +1,58 @@
+{
+  "name": "Over the Counter",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-06T21:06:40.670Z",
+  "branches": {
+    "public": {
+      "buildid": "7953185",
+      "timeupdated": "1640839159",
+      "timebuildupdated": "1640839079"
+    }
+  },
+  "depot": {
+    "1626461": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "749625403569030257",
+          "size": "71962336",
+          "download": "30407056"
+        }
+      }
+    },
+    "1626463": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3192237089810818737",
+          "size": "78446757",
+          "download": "31034400"
+        }
+      }
+    },
+    "1626464": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4606677248943616742",
+          "size": "77598603",
+          "download": "31316272"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7953185",
+        "timeupdated": "1640839159",
+        "timebuildupdated": "1640839079"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Factory Town Idle",
+  "source": "spectre",
+  "changenumber": 39549367,
+  "updated": "2026-11-06T23:19:31.289Z",
+  "branches": {
+    "public": {
+      "buildid": "20253672",
+      "timeupdated": "1759607762",
+      "timebuildupdated": "1759594814"
+    },
+    "legacy_ui": {
+      "buildid": "12416917",
+      "description": "Snapshot of 1.90 with older UI",
+      "timeupdated": "1700573677",
+      "timebuildupdated": "1697052043"
+    },
+    "beta": {
+      "buildid": "20253672",
+      "description": "Public test branch",
+      "timeupdated": "1759594834",
+      "timebuildupdated": "1759594814"
+    }
+  },
+  "depot": {
+    "2207491": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6823424380974431179",
+          "size": "177638351",
+          "download": "78552816"
+        }
+      }
+    },
+    "2207492": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4560795552530840317",
+          "size": "171646156",
+          "download": "75952624"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20253672",
+        "timeupdated": "1759607762",
+        "timebuildupdated": "1759594814"
+      },
+      "legacy_ui": {
+        "buildid": "12416917",
+        "description": "Snapshot of 1.90 with older UI",
+        "timeupdated": "1700573677",
+        "timebuildupdated": "1697052043"
+      },
+      "beta": {
+        "buildid": "20253672",
+        "description": "Public test branch",
+        "timeupdated": "1759594834",
+        "timebuildupdated": "1759594814"
+      }
+    }
+  }
+}

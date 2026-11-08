@@ -1,0 +1,64 @@
+{
+  "name": "The Journey Down: Chapter One",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:05.078Z",
+  "branches": {
+    "public": {
+      "buildid": "1854802",
+      "timeupdated": "1496157503",
+      "timebuildupdated": "1496157503"
+    }
+  },
+  "depot": {
+    "220091": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6829969935766857900",
+          "size": "627280590",
+          "download": "605326784"
+        }
+      }
+    },
+    "220093": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2152449034681351482",
+          "size": "626692468",
+          "download": "605893520"
+        }
+      }
+    },
+    "220094": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7062624989223653927",
+          "size": "647698070",
+          "download": "0"
+        }
+      }
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1854802",
+        "timeupdated": "1496157503",
+        "timebuildupdated": "1496157503"
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "name": "Hyper Light Drifter",
+  "source": "spectre",
+  "changenumber": 40709773,
+  "updated": "2026-11-07T20:56:14.564Z",
+  "branches": {
+    "public": {
+      "buildid": "10930509",
+      "timeupdated": "1680637688",
+      "timebuildupdated": "1680637688"
+    },
+    "7-21-2017": {
+      "buildid": "3334408",
+      "description": "This is the original stable release.",
+      "timeupdated": "1666093893",
+      "timebuildupdated": "1542983695"
+    },
+    "controller_test": {
+      "buildid": "9749831",
+      "description": "Switch to this to test controller fixes",
+      "timeupdated": "1666139983",
+      "timebuildupdated": "1666139983"
+    },
+    "last_update": {
+      "buildid": "3334408",
+      "description": "Switch to this if you want to use the previous update",
+      "timeupdated": "1666093788",
+      "timebuildupdated": "1542983695"
+    },
+    "next_update": {
+      "buildid": "13498051",
+      "description": "Upcoming patch",
+      "timeupdated": "1708353929",
+      "timebuildupdated": "1708353929"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "257851": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1411175085556622330",
+          "size": "534475726",
+          "download": "441596704"
+        }
+      }
+    },
+    "257852": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5541547840583884942",
+          "size": "925670505",
+          "download": "776361120"
+        }
+      }
+    },
+    "257853": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "777887703126145612",
+          "size": "924996043",
+          "download": "774822960"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10930509",
+        "timeupdated": "1680637688",
+        "timebuildupdated": "1680637688"
+      },
+      "7-21-2017": {
+        "buildid": "3334408",
+        "description": "This is the original stable release.",
+        "timeupdated": "1666093893",
+        "timebuildupdated": "1542983695"
+      },
+      "controller_test": {
+        "buildid": "9749831",
+        "description": "Switch to this to test controller fixes",
+        "timeupdated": "1666139983",
+        "timebuildupdated": "1666139983"
+      },
+      "last_update": {
+        "buildid": "3334408",
+        "description": "Switch to this if you want to use the previous update",
+        "timeupdated": "1666093788",
+        "timebuildupdated": "1542983695"
+      },
+      "next_update": {
+        "buildid": "13498051",
+        "description": "Upcoming patch",
+        "timeupdated": "1708353929",
+        "timebuildupdated": "1708353929"
+      }
+    }
+  }
+}

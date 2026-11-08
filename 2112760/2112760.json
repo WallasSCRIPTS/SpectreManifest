@@ -1,0 +1,103 @@
+{
+  "name": "Hook & Go",
+  "source": "spectre",
+  "changenumber": 34885114,
+  "updated": "2026-11-06T23:17:33.314Z",
+  "branches": {
+    "public": {
+      "buildid": "9536922",
+      "timeupdated": "1663415063",
+      "timebuildupdated": "1663415036"
+    },
+    "linux": {
+      "buildid": "9536922",
+      "description": "Hook & Go Linux",
+      "timeupdated": "1663415102",
+      "timebuildupdated": "1663415036"
+    },
+    "macos": {
+      "buildid": "9536922",
+      "description": "Hook & Go macOS",
+      "timeupdated": "1663415108",
+      "timebuildupdated": "1663415036"
+    },
+    "windows": {
+      "buildid": "9536922",
+      "description": "Hook & Go Windows",
+      "timeupdated": "1663415114",
+      "timebuildupdated": "1663415036"
+    }
+  },
+  "depot": {
+    "2112761": {
+      "manifests": {
+        "public": {
+          "gid": "4480377946176357944",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "2112762": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5239678138991693796",
+          "size": "238721988",
+          "download": "70223536"
+        }
+      }
+    },
+    "2112763": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1244898397504328064",
+          "size": "262760672",
+          "download": "78681056"
+        }
+      }
+    },
+    "2112764": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1652014974427812880",
+          "size": "281093606",
+          "download": "71173344"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9536922",
+        "timeupdated": "1663415063",
+        "timebuildupdated": "1663415036"
+      },
+      "linux": {
+        "buildid": "9536922",
+        "description": "Hook & Go Linux",
+        "timeupdated": "1663415102",
+        "timebuildupdated": "1663415036"
+      },
+      "macos": {
+        "buildid": "9536922",
+        "description": "Hook & Go macOS",
+        "timeupdated": "1663415108",
+        "timebuildupdated": "1663415036"
+      },
+      "windows": {
+        "buildid": "9536922",
+        "description": "Hook & Go Windows",
+        "timeupdated": "1663415114",
+        "timebuildupdated": "1663415036"
+      }
+    }
+  }
+}

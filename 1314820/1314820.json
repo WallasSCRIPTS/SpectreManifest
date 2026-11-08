@@ -1,0 +1,58 @@
+{
+  "name": "RealFlight Trainer Edition",
+  "source": "spectre",
+  "changenumber": 39555117,
+  "updated": "2026-11-06T21:04:22.804Z",
+  "branches": {
+    "public": {
+      "buildid": "25684928",
+      "timeupdated": "1791325102",
+      "timebuildupdated": "1790969263"
+    },
+    "directx9_deprecated": {
+      "buildid": "12906240",
+      "description": "Final DirectX 9-based version for computers that don't support DirectX 11",
+      "timeupdated": "1718926420",
+      "timebuildupdated": "1701997250"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1314821": {
+      "manifests": {
+        "public": {
+          "gid": "8184988712304158212",
+          "size": "15519532772",
+          "download": "7937924624"
+        }
+      }
+    },
+    "1314822": {
+      "manifests": {
+        "public": {
+          "gid": "2501680979063862575",
+          "size": "15259737",
+          "download": "14515216"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25684928",
+        "timeupdated": "1791325102",
+        "timebuildupdated": "1790969263"
+      },
+      "directx9_deprecated": {
+        "buildid": "12906240",
+        "description": "Final DirectX 9-based version for computers that don't support DirectX 11",
+        "timeupdated": "1718926420",
+        "timebuildupdated": "1701997250"
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Himno - The Silent Melody",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:02.827Z",
+  "branches": {
+    "public": {
+      "buildid": "10542814",
+      "timeupdated": "1676387786",
+      "timebuildupdated": "1676319841"
+    },
+    "experimentalalphaversion": {
+      "buildid": "10542814",
+      "description": "For testing purposes before public release",
+      "timeupdated": "1676387924",
+      "timebuildupdated": "1676319841"
+    }
+  },
+  "depot": {
+    "1079231": {
+      "manifests": {
+        "public": {
+          "gid": "3835508998502657732",
+          "size": "544906885",
+          "download": "237672672"
+        }
+      }
+    },
+    "1079232": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7856237468057768658",
+          "size": "564985731",
+          "download": "244361968"
+        }
+      }
+    },
+    "1079233": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3674818483276572622",
+          "size": "589835448",
+          "download": "240076800"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10542814",
+        "timeupdated": "1676387786",
+        "timebuildupdated": "1676319841"
+      },
+      "experimentalalphaversion": {
+        "buildid": "10542814",
+        "description": "For testing purposes before public release",
+        "timeupdated": "1676387924",
+        "timebuildupdated": "1676319841"
+      }
+    }
+  }
+}

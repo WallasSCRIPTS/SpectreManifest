@@ -1,0 +1,88 @@
+{
+  "name": "Premium Bowling",
+  "source": "spectre",
+  "changenumber": 40551400,
+  "updated": "2026-11-07T21:01:32.572Z",
+  "branches": {
+    "public": {
+      "buildid": "25124825",
+      "timeupdated": "1788528859",
+      "timebuildupdated": "1788528266"
+    },
+    "alpha": {
+      "buildid": "25124825",
+      "description": "Too Early Versions",
+      "timeupdated": "1788528266",
+      "timebuildupdated": "1788528266"
+    },
+    "beta": {
+      "buildid": "25124825",
+      "description": "Public Beta Versions",
+      "timeupdated": "1788528275",
+      "timebuildupdated": "1788528266"
+    },
+    "prev": {
+      "buildid": "17437927",
+      "description": "Old Versions",
+      "timeupdated": "1742805145",
+      "timebuildupdated": "1740049813"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "898581": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1965665754411465767",
+          "size": "2907555755",
+          "download": "2172084176"
+        }
+      }
+    },
+    "898582": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5069438751876412890",
+          "size": "3618746534",
+          "download": "1240184224"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25124825",
+        "timeupdated": "1788528859",
+        "timebuildupdated": "1788528266"
+      },
+      "alpha": {
+        "buildid": "25124825",
+        "description": "Too Early Versions",
+        "timeupdated": "1788528266",
+        "timebuildupdated": "1788528266"
+      },
+      "beta": {
+        "buildid": "25124825",
+        "description": "Public Beta Versions",
+        "timeupdated": "1788528275",
+        "timebuildupdated": "1788528266"
+      },
+      "prev": {
+        "buildid": "17437927",
+        "description": "Old Versions",
+        "timeupdated": "1742805145",
+        "timebuildupdated": "1740049813"
+      }
+    }
+  }
+}

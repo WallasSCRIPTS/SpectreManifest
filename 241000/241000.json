@@ -1,0 +1,135 @@
+{
+  "name": "Jon Shafer's At the Gates",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:09.632Z",
+  "branches": {
+    "public": {
+      "buildid": "5239175",
+      "timeupdated": "1593623973",
+      "timebuildupdated": "1593623838"
+    },
+    "developer": {
+      "buildid": "4028287",
+      "description": "Unstable version + error messages.",
+      "timeupdated": "1563572235",
+      "timebuildupdated": "1563571452"
+    },
+    "internal": {
+      "buildid": "5239175",
+      "description": "Ignore, only used for debugging.",
+      "timeupdated": "1593623877",
+      "timebuildupdated": "1593623838"
+    },
+    "old_version": {
+      "buildid": "4582034",
+      "description": "The previous major version (v1.0.1).",
+      "timeupdated": "1593102793",
+      "timebuildupdated": "1579289237"
+    },
+    "unstable": {
+      "buildid": "5239175",
+      "description": "Most recent version, but expect bugs.",
+      "timeupdated": "1593623987",
+      "timebuildupdated": "1593623838"
+    },
+    "unstable_old": {
+      "buildid": "4112548",
+      "description": "Version before save compatibility broken.",
+      "timeupdated": "1576264695",
+      "timebuildupdated": "1565967968"
+    }
+  },
+  "depot": {
+    "229005": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "241000": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1555140490625471777",
+          "size": "1066798727",
+          "download": "117585936"
+        }
+      }
+    },
+    "241001": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "241002": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2398537876089996167",
+          "size": "1098512639",
+          "download": "118720144"
+        }
+      }
+    },
+    "241003": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6138949228499832373",
+          "size": "1092155667",
+          "download": "116535520"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5239175",
+        "timeupdated": "1593623973",
+        "timebuildupdated": "1593623838"
+      },
+      "developer": {
+        "buildid": "4028287",
+        "description": "Unstable version + error messages.",
+        "timeupdated": "1563572235",
+        "timebuildupdated": "1563571452"
+      },
+      "internal": {
+        "buildid": "5239175",
+        "description": "Ignore, only used for debugging.",
+        "timeupdated": "1593623877",
+        "timebuildupdated": "1593623838"
+      },
+      "old_version": {
+        "buildid": "4582034",
+        "description": "The previous major version (v1.0.1).",
+        "timeupdated": "1593102793",
+        "timebuildupdated": "1579289237"
+      },
+      "unstable": {
+        "buildid": "5239175",
+        "description": "Most recent version, but expect bugs.",
+        "timeupdated": "1593623987",
+        "timebuildupdated": "1593623838"
+      },
+      "unstable_old": {
+        "buildid": "4112548",
+        "description": "Version before save compatibility broken.",
+        "timeupdated": "1576264695",
+        "timebuildupdated": "1565967968"
+      }
+    }
+  }
+}

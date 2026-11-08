@@ -1,0 +1,82 @@
+{
+  "name": "Machinarium",
+  "source": "spectre",
+  "changenumber": 39623317,
+  "updated": "2026-11-07T20:55:54.092Z",
+  "branches": {
+    "public": {
+      "buildid": "24417709",
+      "timeupdated": "1785236311",
+      "timebuildupdated": "1785176960"
+    },
+    "legacy": {
+      "buildid": "4293212",
+      "description": "Old Mac OpenGL Build",
+      "timeupdated": "1614171865",
+      "timebuildupdated": "1571234901"
+    },
+    "beta": {
+      "buildid": "24417709",
+      "description": "latest beta testing",
+      "timeupdated": "1785182572",
+      "timebuildupdated": "1785176960"
+    },
+    "legacy_32bit_dx9": {
+      "buildid": "20510504",
+      "description": "Legacy DirectX9 32bit",
+      "timeupdated": "1761212778",
+      "timebuildupdated": "1761212778"
+    }
+  },
+  "depot": {
+    "40701": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2396199780517335850",
+          "size": "310605728",
+          "download": "299304384"
+        }
+      }
+    },
+    "40702": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "536934048516279258",
+          "size": "315720790",
+          "download": "305535232"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24417709",
+        "timeupdated": "1785236311",
+        "timebuildupdated": "1785176960"
+      },
+      "legacy": {
+        "buildid": "4293212",
+        "description": "Old Mac OpenGL Build",
+        "timeupdated": "1614171865",
+        "timebuildupdated": "1571234901"
+      },
+      "beta": {
+        "buildid": "24417709",
+        "description": "latest beta testing",
+        "timeupdated": "1785182572",
+        "timebuildupdated": "1785176960"
+      },
+      "legacy_32bit_dx9": {
+        "buildid": "20510504",
+        "description": "Legacy DirectX9 32bit",
+        "timeupdated": "1761212778",
+        "timebuildupdated": "1761212778"
+      }
+    }
+  }
+}

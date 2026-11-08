@@ -1,0 +1,56 @@
+{
+  "name": "Meltdown",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:18.095Z",
+  "branches": {
+    "public": {
+      "buildid": "661502",
+      "timebuildupdated": "1434469787"
+    }
+  },
+  "depot": {
+    "268221": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7111861297348416779",
+          "size": "235841066",
+          "download": "102232240"
+        }
+      }
+    },
+    "268222": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7372614717743310440",
+          "size": "227867086",
+          "download": "102979632"
+        }
+      }
+    },
+    "268223": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3546681539887752973",
+          "size": "225616236",
+          "download": "103007296"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "661502",
+        "timebuildupdated": "1434469787"
+      }
+    }
+  }
+}

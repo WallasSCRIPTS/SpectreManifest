@@ -1,0 +1,107 @@
+{
+  "name": "Fall of an Empire",
+  "source": "spectre",
+  "changenumber": 40354891,
+  "updated": "2026-11-06T23:11:36.188Z",
+  "branches": {
+    "public": {
+      "buildid": "26072407",
+      "timeupdated": "1792479788",
+      "timebuildupdated": "1792479788"
+    },
+    "1.246.2": {
+      "buildid": "23716709",
+      "description": "Pre Provinces & Modding update",
+      "timeupdated": "1781353686",
+      "timebuildupdated": "1781353686"
+    },
+    "beta": {
+      "buildid": "26281540",
+      "description": "Play the latest beta version of the game",
+      "timeupdated": "1793220393",
+      "timebuildupdated": "1793220393"
+    },
+    "mac-beta": {
+      "buildid": "25165200",
+      "description": "Play the game on Mac",
+      "timeupdated": "1788776904",
+      "timebuildupdated": "1788776904"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1830292": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7675926670824989561",
+          "size": "14970484991",
+          "download": "11555778576"
+        }
+      }
+    },
+    "1830293": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6322028154497722685",
+          "size": "14735079142",
+          "download": "10941097568"
+        }
+      }
+    },
+    "4453450": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5258440137322821953",
+          "size": "9527501344",
+          "download": "9148574704"
+        }
+      },
+      "dlcappid": "4453450"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26072407",
+        "timeupdated": "1792479788",
+        "timebuildupdated": "1792479788"
+      },
+      "1.246.2": {
+        "buildid": "23716709",
+        "description": "Pre Provinces & Modding update",
+        "timeupdated": "1781353686",
+        "timebuildupdated": "1781353686"
+      },
+      "beta": {
+        "buildid": "26281540",
+        "description": "Play the latest beta version of the game",
+        "timeupdated": "1793220393",
+        "timebuildupdated": "1793220393"
+      },
+      "mac-beta": {
+        "buildid": "25165200",
+        "description": "Play the game on Mac",
+        "timeupdated": "1788776904",
+        "timebuildupdated": "1788776904"
+      }
+    }
+  }
+}

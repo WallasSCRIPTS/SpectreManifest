@@ -1,0 +1,91 @@
+{
+  "name": "Park Bound",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:14.864Z",
+  "branches": {
+    "public": {
+      "buildid": "11151022",
+      "timeupdated": "1683164643",
+      "timebuildupdated": "1683164419"
+    },
+    "debug": {
+      "buildid": "11151022",
+      "description": "Launch with debug logging",
+      "timeupdated": "1683164635",
+      "timebuildupdated": "1683164419"
+    }
+  },
+  "depot": {
+    "611831": {
+      "manifests": {
+        "public": {
+          "gid": "1460378446976385486",
+          "size": "32288357",
+          "download": "31448144"
+        }
+      }
+    },
+    "611832": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1689241040458105229",
+          "size": "177907590",
+          "download": "49696896"
+        }
+      }
+    },
+    "611833": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5753505096452578259",
+          "size": "116676912",
+          "download": "34881456"
+        }
+      }
+    },
+    "611834": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "857114415722922354",
+          "size": "161603280",
+          "download": "42892160"
+        }
+      }
+    },
+    "611835": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4509361986946997821",
+          "size": "198052757",
+          "download": "53300000"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11151022",
+        "timeupdated": "1683164643",
+        "timebuildupdated": "1683164419"
+      },
+      "debug": {
+        "buildid": "11151022",
+        "description": "Launch with debug logging",
+        "timeupdated": "1683164635",
+        "timebuildupdated": "1683164419"
+      }
+    }
+  }
+}

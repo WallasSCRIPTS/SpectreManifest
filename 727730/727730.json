@@ -1,0 +1,68 @@
+{
+  "name": "Shiver",
+  "source": "spectre",
+  "changenumber": 40621067,
+  "updated": "2026-11-07T21:00:11.947Z",
+  "branches": {
+    "public": {
+      "buildid": "2651522",
+      "timeupdated": "1522600965",
+      "timebuildupdated": "1522600294"
+    },
+    "staging": {
+      "buildid": "2651522",
+      "timeupdated": "1522600341",
+      "timebuildupdated": "1522600294"
+    }
+  },
+  "depot": {
+    "727731": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4813718225889518342",
+          "size": "837859544",
+          "download": "141650832"
+        }
+      }
+    },
+    "727732": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1541897979084807621",
+          "size": "850759506",
+          "download": "145566928"
+        }
+      }
+    },
+    "727733": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3222068877109052578",
+          "size": "850103206",
+          "download": "144772272"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2651522",
+        "timeupdated": "1522600965",
+        "timebuildupdated": "1522600294"
+      },
+      "staging": {
+        "buildid": "2651522",
+        "timeupdated": "1522600341",
+        "timebuildupdated": "1522600294"
+      }
+    }
+  }
+}

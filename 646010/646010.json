@@ -1,0 +1,67 @@
+{
+  "name": "Golem",
+  "source": "spectre",
+  "changenumber": 39075749,
+  "updated": "2026-11-07T20:59:28.487Z",
+  "branches": {
+    "public": {
+      "buildid": "3173399",
+      "timeupdated": "1538512395",
+      "timebuildupdated": "1538421458"
+    },
+    "legacy_1.0": {
+      "buildid": "2843196",
+      "description": "Legacy Release (ver 1.0)",
+      "timeupdated": "1538512381",
+      "timebuildupdated": "1528397220"
+    },
+    "public_beta": {
+      "buildid": "3173399",
+      "description": "Public Test Version",
+      "timeupdated": "1538421596",
+      "timebuildupdated": "1538421458"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "646011": {
+      "manifests": {
+        "public": {
+          "gid": "2023501097919864535",
+          "size": "4049564215",
+          "download": "819218544"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3173399",
+        "timeupdated": "1538512395",
+        "timebuildupdated": "1538421458"
+      },
+      "legacy_1.0": {
+        "buildid": "2843196",
+        "description": "Legacy Release (ver 1.0)",
+        "timeupdated": "1538512381",
+        "timebuildupdated": "1528397220"
+      },
+      "public_beta": {
+        "buildid": "3173399",
+        "description": "Public Test Version",
+        "timeupdated": "1538421596",
+        "timebuildupdated": "1538421458"
+      }
+    }
+  }
+}

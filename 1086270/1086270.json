@@ -1,0 +1,70 @@
+{
+  "name": "Space BloX",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:06.610Z",
+  "branches": {
+    "public": {
+      "buildid": "3923524",
+      "timeupdated": "1560724860",
+      "timebuildupdated": "1560718866"
+    },
+    "nightly": {
+      "buildid": "3923524",
+      "description": "Dev updates every night",
+      "timeupdated": "1560718940",
+      "timebuildupdated": "1560718866"
+    }
+  },
+  "depot": {
+    "1086271": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5543309929832822629",
+          "size": "15859928",
+          "download": "5324096"
+        }
+      }
+    },
+    "1086272": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8491165317127391309",
+          "size": "9363260",
+          "download": "3726240"
+        }
+      }
+    },
+    "1086273": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4453479039039785141",
+          "size": "9938062",
+          "download": "3756960"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3923524",
+        "timeupdated": "1560724860",
+        "timebuildupdated": "1560718866"
+      },
+      "nightly": {
+        "buildid": "3923524",
+        "description": "Dev updates every night",
+        "timeupdated": "1560718940",
+        "timebuildupdated": "1560718866"
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Among Us",
+  "source": "spectre",
+  "changenumber": 40681334,
+  "updated": "2026-11-07T21:01:52.824Z",
+  "branches": {
+    "public": {
+      "buildid": "25134893",
+      "timeupdated": "1790701233",
+      "timebuildupdated": "1788568055"
+    },
+    "public-beta": {
+      "buildid": "17943652",
+      "timeupdated": "1743704210",
+      "timebuildupdated": "1743531377"
+    },
+    "public-previous": {
+      "buildid": "24302054",
+      "description": "Previous live production version",
+      "timeupdated": "1787072415",
+      "timebuildupdated": "1784577498"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "945361": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "990035194164819049",
+          "size": "1150526746",
+          "download": "670209904"
+        }
+      }
+    },
+    "945362": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25134893",
+        "timeupdated": "1790701233",
+        "timebuildupdated": "1788568055"
+      },
+      "public-beta": {
+        "buildid": "17943652",
+        "timeupdated": "1743704210",
+        "timebuildupdated": "1743531377"
+      },
+      "public-previous": {
+        "buildid": "24302054",
+        "description": "Previous live production version",
+        "timeupdated": "1787072415",
+        "timebuildupdated": "1784577498"
+      }
+    }
+  }
+}

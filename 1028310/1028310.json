@@ -1,0 +1,82 @@
+{
+  "name": "Book of Hours",
+  "source": "spectre",
+  "changenumber": 40490352,
+  "updated": "2026-11-07T21:02:36.389Z",
+  "branches": {
+    "public": {
+      "buildid": "22091683",
+      "timeupdated": "1788470532",
+      "timebuildupdated": "1772023740"
+    },
+    "beta": {
+      "buildid": "24092136",
+      "description": "should be stable, might sometimes not be",
+      "timeupdated": "1783435006",
+      "timebuildupdated": "1783434105"
+    },
+    "legacy_crane": {
+      "buildid": "18518660",
+      "description": "legacy",
+      "timeupdated": "1754895155",
+      "timebuildupdated": "1747662331"
+    }
+  },
+  "depot": {
+    "1028311": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5642543230648909211",
+          "size": "2706786788",
+          "download": "1011664720"
+        }
+      }
+    },
+    "1028312": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "707111413161415206",
+          "size": "2741497923",
+          "download": "1023169984"
+        }
+      }
+    },
+    "1028313": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6862490559152659691",
+          "size": "2717265799",
+          "download": "1006413600"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22091683",
+        "timeupdated": "1788470532",
+        "timebuildupdated": "1772023740"
+      },
+      "beta": {
+        "buildid": "24092136",
+        "description": "should be stable, might sometimes not be",
+        "timeupdated": "1783435006",
+        "timebuildupdated": "1783434105"
+      },
+      "legacy_crane": {
+        "buildid": "18518660",
+        "description": "legacy",
+        "timeupdated": "1754895155",
+        "timebuildupdated": "1747662331"
+      }
+    }
+  }
+}

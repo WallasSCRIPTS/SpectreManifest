@@ -1,0 +1,58 @@
+{
+  "name": "SRX Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:03:05.690Z",
+  "branches": {
+    "public": {
+      "buildid": "7555362",
+      "timeupdated": "1634593172",
+      "timebuildupdated": "1634586884"
+    }
+  },
+  "depot": {
+    "1084751": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4932873368720491253",
+          "size": "1386895827",
+          "download": "256918384"
+        }
+      }
+    },
+    "1084752": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7185642299601549738",
+          "size": "1412381430",
+          "download": "265584064"
+        }
+      }
+    },
+    "1084753": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6009776241270873357",
+          "size": "1433673543",
+          "download": "259775856"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7555362",
+        "timeupdated": "1634593172",
+        "timebuildupdated": "1634586884"
+      }
+    }
+  }
+}

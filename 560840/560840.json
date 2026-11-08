@@ -1,0 +1,79 @@
+{
+  "name": "Tootinis",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:58:48.087Z",
+  "branches": {
+    "public": {
+      "buildid": "5900540",
+      "timeupdated": "1606749160",
+      "timebuildupdated": "1606748911"
+    },
+    "beta": {
+      "buildid": "5900540",
+      "description": "Beta build",
+      "timeupdated": "1606748996",
+      "timebuildupdated": "1606748911"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "560841": {
+      "manifests": {
+        "public": {
+          "gid": "6258426296916248451",
+          "size": "164559482",
+          "download": "113519008"
+        }
+      }
+    },
+    "560842": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4325552491554073116",
+          "size": "15608191",
+          "download": "4067936"
+        }
+      }
+    },
+    "560843": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "375125823099242807",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5900540",
+        "timeupdated": "1606749160",
+        "timebuildupdated": "1606748911"
+      },
+      "beta": {
+        "buildid": "5900540",
+        "description": "Beta build",
+        "timeupdated": "1606748996",
+        "timebuildupdated": "1606748911"
+      }
+    }
+  }
+}

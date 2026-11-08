@@ -1,0 +1,60 @@
+{
+  "name": "Just Ignore Them",
+  "source": "spectre",
+  "changenumber": 40063798,
+  "updated": "2026-11-07T20:58:48.501Z",
+  "branches": {
+    "public": {
+      "buildid": "3985478",
+      "timeupdated": "1562332487",
+      "timebuildupdated": "1562332434"
+    },
+    "jit_remake_beta": {
+      "buildid": "3968540",
+      "description": "Remake",
+      "timeupdated": "1561901321",
+      "timebuildupdated": "1561901321"
+    },
+    "rollback": {
+      "buildid": "1790216",
+      "timeupdated": "1500718138",
+      "timebuildupdated": "1493484334"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "561771": {
+      "manifests": {
+        "public": {
+          "gid": "7666122956683191810",
+          "size": "339969122",
+          "download": "58741920"
+        }
+      }
+    },
+    "561775": {},
+    "branches": {
+      "public": {
+        "buildid": "3985478",
+        "timeupdated": "1562332487",
+        "timebuildupdated": "1562332434"
+      },
+      "jit_remake_beta": {
+        "buildid": "3968540",
+        "description": "Remake",
+        "timeupdated": "1561901321",
+        "timebuildupdated": "1561901321"
+      },
+      "rollback": {
+        "buildid": "1790216",
+        "timeupdated": "1500718138",
+        "timebuildupdated": "1493484334"
+      }
+    }
+  }
+}

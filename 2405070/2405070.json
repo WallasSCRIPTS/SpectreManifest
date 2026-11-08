@@ -1,0 +1,60 @@
+{
+  "name": "Unswappers",
+  "source": "spectre",
+  "changenumber": 34900122,
+  "updated": "2026-11-06T23:23:24.501Z",
+  "branches": {
+    "public": {
+      "buildid": "12501938",
+      "timeupdated": "1697919224",
+      "timebuildupdated": "1697919153"
+    },
+    "local": {
+      "buildid": "11417585",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1686169400",
+      "timebuildupdated": "1686169400"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2405071": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2436342983739030844",
+          "size": "5056990416",
+          "download": "1373863120"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12501938",
+        "timeupdated": "1697919224",
+        "timebuildupdated": "1697919153"
+      },
+      "local": {
+        "buildid": "11417585",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1686169400",
+        "timebuildupdated": "1686169400"
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Sorcery! Parts 1 & 2",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:37.472Z",
+  "branches": {
+    "public": {
+      "buildid": "1613743",
+      "timeupdated": "1486679713",
+      "timebuildupdated": "1486421004"
+    },
+    "beta": {
+      "buildid": "2322852",
+      "description": "Prerelease testing",
+      "timeupdated": "1511895044",
+      "timebuildupdated": "1511894788"
+    },
+    "mac-workaround": {
+      "buildid": "1628162",
+      "description": "Possible workaround for macOS 10.9.5 crash",
+      "timeupdated": "1487007482",
+      "timebuildupdated": "1487007142"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "411001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5758943236147397557",
+          "size": "423628990",
+          "download": "370201088"
+        }
+      }
+    },
+    "411002": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9058954784785647006",
+          "size": "391587686",
+          "download": "362333664"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1613743",
+        "timeupdated": "1486679713",
+        "timebuildupdated": "1486421004"
+      },
+      "beta": {
+        "buildid": "2322852",
+        "description": "Prerelease testing",
+        "timeupdated": "1511895044",
+        "timebuildupdated": "1511894788"
+      },
+      "mac-workaround": {
+        "buildid": "1628162",
+        "description": "Possible workaround for macOS 10.9.5 crash",
+        "timeupdated": "1487007482",
+        "timebuildupdated": "1487007142"
+      }
+    }
+  }
+}

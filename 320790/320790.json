@@ -1,0 +1,56 @@
+{
+  "name": "Fabula Mortis",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:39.985Z",
+  "branches": {
+    "public": {
+      "buildid": "521090",
+      "timebuildupdated": "1423588112"
+    },
+    "local": {
+      "buildid": "389770",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1411387111"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "320791": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2849863889863583863",
+          "size": "1348446493",
+          "download": "1060865040"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "521090",
+        "timebuildupdated": "1423588112"
+      },
+      "local": {
+        "buildid": "389770",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1411387111"
+      }
+    }
+  }
+}

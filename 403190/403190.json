@@ -1,0 +1,70 @@
+{
+  "name": "Planetbase",
+  "source": "spectre",
+  "changenumber": 37434570,
+  "updated": "2026-11-07T20:57:34.051Z",
+  "branches": {
+    "public": {
+      "buildid": "20301361",
+      "timeupdated": "1761131322",
+      "timebuildupdated": "1759919010"
+    },
+    "experimental": {
+      "buildid": "20301361",
+      "description": "Experimental versions",
+      "timeupdated": "1759929859",
+      "timebuildupdated": "1759919010"
+    },
+    "oldversion": {
+      "buildid": "6317568",
+      "description": "Version 1.3.8 runing on the old engine",
+      "timeupdated": "1728050577",
+      "timebuildupdated": "1614694566"
+    }
+  },
+  "depot": {
+    "403191": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6629427849110762139",
+          "size": "700664367",
+          "download": "337707744"
+        }
+      }
+    },
+    "403192": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4884641647821397243",
+          "size": "704296955",
+          "download": "339520944"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20301361",
+        "timeupdated": "1761131322",
+        "timebuildupdated": "1759919010"
+      },
+      "experimental": {
+        "buildid": "20301361",
+        "description": "Experimental versions",
+        "timeupdated": "1759929859",
+        "timebuildupdated": "1759919010"
+      },
+      "oldversion": {
+        "buildid": "6317568",
+        "description": "Version 1.3.8 runing on the old engine",
+        "timeupdated": "1728050577",
+        "timebuildupdated": "1614694566"
+      }
+    }
+  }
+}

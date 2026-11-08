@@ -1,0 +1,56 @@
+{
+  "name": "LocoSoccer Classic",
+  "source": "spectre",
+  "changenumber": 40268142,
+  "updated": "2026-11-07T20:57:30.941Z",
+  "branches": {
+    "public": {
+      "buildid": "10092202",
+      "timeupdated": "1670364691",
+      "timebuildupdated": "1670364691"
+    },
+    "linux": {
+      "buildid": "10092210",
+      "timeupdated": "1670364726",
+      "timebuildupdated": "1670364726"
+    }
+  },
+  "depot": {
+    "396361": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4423447084662587791",
+          "size": "114810410",
+          "download": "55952160"
+        }
+      }
+    },
+    "396362": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4952894111396508920",
+          "size": "89990660",
+          "download": "47586352"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10092202",
+        "timeupdated": "1670364691",
+        "timebuildupdated": "1670364691"
+      },
+      "linux": {
+        "buildid": "10092210",
+        "timeupdated": "1670364726",
+        "timebuildupdated": "1670364726"
+      }
+    }
+  }
+}

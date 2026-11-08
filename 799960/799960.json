@@ -1,0 +1,63 @@
+{
+  "name": "Wizard101",
+  "source": "spectre",
+  "changenumber": 40687149,
+  "updated": "2026-11-07T21:00:47.777Z",
+  "branches": {
+    "public": {
+      "buildid": "25191549",
+      "timeupdated": "1793046793",
+      "timebuildupdated": "1788885621"
+    },
+    "testrealm": {
+      "buildid": "26495804",
+      "description": "Test Realm",
+      "timeupdated": "1794004915",
+      "timebuildupdated": "1794002713"
+    }
+  },
+  "depot": {
+    "799961": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "552824185985558160",
+          "size": "20003833125",
+          "download": "18738472048"
+        }
+      }
+    },
+    "799962": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "799963": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4396127843009000652",
+          "size": "39835961925",
+          "download": "20187905472"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25191549",
+        "timeupdated": "1793046793",
+        "timebuildupdated": "1788885621"
+      },
+      "testrealm": {
+        "buildid": "26495804",
+        "description": "Test Realm",
+        "timeupdated": "1794004915",
+        "timebuildupdated": "1794002713"
+      }
+    }
+  }
+}

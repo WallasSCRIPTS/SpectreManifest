@@ -1,0 +1,58 @@
+{
+  "name": "Purgatory Overkill",
+  "source": "spectre",
+  "changenumber": 34850329,
+  "updated": "2026-11-07T21:04:16.911Z",
+  "branches": {
+    "public": {
+      "buildid": "7378183",
+      "timeupdated": "1632822752",
+      "timebuildupdated": "1631889248"
+    },
+    "livcapture": {
+      "buildid": "7432401",
+      "description": "A special build for AR capture with Liv",
+      "timeupdated": "1632822704",
+      "timebuildupdated": "1632761168"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1210261": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5227664452415342597",
+          "size": "18416910513",
+          "download": "6568091280"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7378183",
+        "timeupdated": "1632822752",
+        "timebuildupdated": "1631889248"
+      },
+      "livcapture": {
+        "buildid": "7432401",
+        "description": "A special build for AR capture with Liv",
+        "timeupdated": "1632822704",
+        "timebuildupdated": "1632761168"
+      }
+    }
+  }
+}

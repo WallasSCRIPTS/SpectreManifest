@@ -1,0 +1,92 @@
+{
+  "name": "Lugaru HD ",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:49.661Z",
+  "branches": {
+    "public": {
+      "buildid": "75988",
+      "timebuildupdated": "1370156470"
+    },
+    "oss_lugaru": {
+      "buildid": "1565249",
+      "timeupdated": "1485202015",
+      "timebuildupdated": "1484233722"
+    }
+  },
+  "depot": {
+    "25011": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1269473158996637339",
+          "size": "36984927",
+          "download": "0"
+        }
+      }
+    },
+    "25012": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "494634952534601205",
+          "size": "40996407",
+          "download": "0"
+        }
+      }
+    },
+    "25014": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3781900873965742588",
+          "size": "36721253",
+          "download": "0"
+        }
+      }
+    },
+    "25020": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "25030": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "25031": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "25041": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "75988",
+        "timebuildupdated": "1370156470"
+      },
+      "oss_lugaru": {
+        "buildid": "1565249",
+        "timeupdated": "1485202015",
+        "timebuildupdated": "1484233722"
+      }
+    }
+  }
+}

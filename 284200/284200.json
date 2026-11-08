@@ -1,0 +1,54 @@
+{
+  "name": "Robot Rescue Revolution",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:23.024Z",
+  "branches": {
+    "public": {
+      "buildid": "338219",
+      "timebuildupdated": "1406550243"
+    },
+    "restricted": {
+      "buildid": "338219",
+      "description": "Do testów przed public",
+      "timebuildupdated": "1406550243"
+    }
+  },
+  "depot": {
+    "228981": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "284201": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9142213457918782521",
+          "size": "466017029",
+          "download": "2740336996234"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "338219",
+        "timebuildupdated": "1406550243"
+      },
+      "restricted": {
+        "buildid": "338219",
+        "description": "Do testów przed public",
+        "timebuildupdated": "1406550243"
+      }
+    }
+  }
+}

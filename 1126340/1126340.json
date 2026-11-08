@@ -1,0 +1,60 @@
+{
+  "name": "Raid on Area 51",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:33.638Z",
+  "branches": {
+    "public": {
+      "buildid": "20061073",
+      "timeupdated": "1758391396",
+      "timebuildupdated": "1758391332"
+    },
+    "local": {
+      "buildid": "4041152",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1563989645",
+      "timebuildupdated": "1563989645"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1126341": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7469370730740688207",
+          "size": "1280335205",
+          "download": "996195184"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20061073",
+        "timeupdated": "1758391396",
+        "timebuildupdated": "1758391332"
+      },
+      "local": {
+        "buildid": "4041152",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1563989645",
+        "timebuildupdated": "1563989645"
+      }
+    }
+  }
+}

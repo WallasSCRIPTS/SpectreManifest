@@ -1,0 +1,67 @@
+{
+  "name": "Driving Strikers",
+  "source": "spectre",
+  "changenumber": 34898920,
+  "updated": "2026-11-06T23:23:22.084Z",
+  "branches": {
+    "public": {
+      "buildid": "11682158",
+      "timeupdated": "1689150557",
+      "timebuildupdated": "1689150420"
+    },
+    "testing": {
+      "buildid": "12052713",
+      "description": "Unstable testing branch",
+      "timeupdated": "1693254105",
+      "timebuildupdated": "1693254070"
+    }
+  },
+  "depot": {
+    "2384431": {
+      "manifests": {
+        "public": {
+          "gid": "978205742754672040",
+          "size": "120373974",
+          "download": "91256848"
+        }
+      }
+    },
+    "2384432": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2073833412933565442",
+          "size": "38132565",
+          "download": "8103504"
+        }
+      }
+    },
+    "2384433": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7301051480882272894",
+          "size": "18760880",
+          "download": "2808448"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11682158",
+        "timeupdated": "1689150557",
+        "timebuildupdated": "1689150420"
+      },
+      "testing": {
+        "buildid": "12052713",
+        "description": "Unstable testing branch",
+        "timeupdated": "1693254105",
+        "timebuildupdated": "1693254070"
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Singularity Runner",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:17:38.051Z",
+  "branches": {
+    "public": {
+      "buildid": "10172626",
+      "timeupdated": "1671393368",
+      "timebuildupdated": "1671385180"
+    }
+  },
+  "depot": {
+    "2151711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5434969454373518276",
+          "size": "358863105",
+          "download": "49122400"
+        }
+      }
+    },
+    "2151712": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8017323281494187126",
+          "size": "364532319",
+          "download": "49223600"
+        }
+      }
+    },
+    "2167000": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5651933776188373702",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "2167000"
+    },
+    "branches": {
+      "public": {
+        "buildid": "10172626",
+        "timeupdated": "1671393368",
+        "timebuildupdated": "1671385180"
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Stack Gun Heroes Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-04T23:22:41.216Z",
+  "branches": {
+    "public": {
+      "buildid": "11832850",
+      "timeupdated": "1690842850",
+      "timebuildupdated": "1690842045"
+    },
+    "previous_build": {
+      "buildid": "11013132",
+      "description": "The previous build in case the new one introduces any problems.",
+      "timeupdated": "1682673889",
+      "timebuildupdated": "1681608781"
+    },
+    "unstable_bleeding_edge": {
+      "buildid": "11832850",
+      "description": "Previews and experimental features. Possibly very buggy.",
+      "timeupdated": "1690842838",
+      "timebuildupdated": "1690842045"
+    }
+  },
+  "depot": {
+    "1310341": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "150479722382611097",
+          "size": "2518985406",
+          "download": "1052353232"
+        }
+      }
+    },
+    "1310342": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "465670681248039100",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "1310343": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1135654010187700147",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11832850",
+        "timeupdated": "1690842850",
+        "timebuildupdated": "1690842045"
+      },
+      "previous_build": {
+        "buildid": "11013132",
+        "description": "The previous build in case the new one introduces any problems.",
+        "timeupdated": "1682673889",
+        "timebuildupdated": "1681608781"
+      },
+      "unstable_bleeding_edge": {
+        "buildid": "11832850",
+        "description": "Previews and experimental features. Possibly very buggy.",
+        "timeupdated": "1690842838",
+        "timebuildupdated": "1690842045"
+      }
+    }
+  }
+}

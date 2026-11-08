@@ -1,0 +1,70 @@
+{
+  "name": "Areia",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:32.766Z",
+  "branches": {
+    "public": {
+      "buildid": "4593804",
+      "timeupdated": "1579659430",
+      "timebuildupdated": "1579652314"
+    },
+    "preview": {
+      "buildid": "4660898",
+      "description": "Preview the next public build",
+      "timeupdated": "1581358854",
+      "timebuildupdated": "1581358854"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "768461": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4494230632229627343",
+          "size": "1442428611",
+          "download": "1351157328"
+        }
+      }
+    },
+    "768462": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3850676537011253635",
+          "size": "2094904958",
+          "download": "1713904672"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4593804",
+        "timeupdated": "1579659430",
+        "timebuildupdated": "1579652314"
+      },
+      "preview": {
+        "buildid": "4660898",
+        "description": "Preview the next public build",
+        "timeupdated": "1581358854",
+        "timebuildupdated": "1581358854"
+      }
+    }
+  }
+}

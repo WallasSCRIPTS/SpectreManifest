@@ -1,0 +1,82 @@
+{
+  "name": "Painting Werther",
+  "source": "spectre",
+  "changenumber": 35945680,
+  "updated": "2026-11-06T21:05:14.472Z",
+  "branches": {
+    "public": {
+      "buildid": "15175490",
+      "timeupdated": "1722358504",
+      "timebuildupdated": "1722132176"
+    },
+    "macerror-applesilicon": {
+      "buildid": "10536024",
+      "description": "If crash on start and Apple Silicon",
+      "timeupdated": "1676241683",
+      "timebuildupdated": "1676241636"
+    },
+    "macerror-intelcpu": {
+      "buildid": "10535788",
+      "description": "If crash on start and Intel CPU",
+      "timeupdated": "1676240293",
+      "timebuildupdated": "1676236880"
+    }
+  },
+  "depot": {
+    "1434261": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "754700097685324449",
+          "size": "4952229704",
+          "download": "4049553760"
+        }
+      }
+    },
+    "1434262": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4009005606023507045",
+          "size": "5017610967",
+          "download": "4068524496"
+        }
+      }
+    },
+    "1434263": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7460988788227472637",
+          "size": "4974493994",
+          "download": "4053690480"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15175490",
+        "timeupdated": "1722358504",
+        "timebuildupdated": "1722132176"
+      },
+      "macerror-applesilicon": {
+        "buildid": "10536024",
+        "description": "If crash on start and Apple Silicon",
+        "timeupdated": "1676241683",
+        "timebuildupdated": "1676241636"
+      },
+      "macerror-intelcpu": {
+        "buildid": "10535788",
+        "description": "If crash on start and Intel CPU",
+        "timeupdated": "1676240293",
+        "timebuildupdated": "1676236880"
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Gurgamoth",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:40.765Z",
+  "branches": {
+    "public": {
+      "buildid": "1084158",
+      "timeupdated": "1461128687",
+      "timebuildupdated": "1461109073"
+    },
+    "beta": {
+      "buildid": "1084158",
+      "description": "Public testing for new features.",
+      "timeupdated": "1461109073",
+      "timebuildupdated": "1461109073"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "418361": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "232772741032452387",
+          "size": "370192964",
+          "download": "82195776"
+        }
+      }
+    },
+    "418362": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8133380670936599000",
+          "size": "378529067",
+          "download": "84010016"
+        }
+      }
+    },
+    "418363": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2750416646505985076",
+          "size": "405386784",
+          "download": "84986992"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1084158",
+        "timeupdated": "1461128687",
+        "timebuildupdated": "1461109073"
+      },
+      "beta": {
+        "buildid": "1084158",
+        "description": "Public testing for new features.",
+        "timeupdated": "1461109073",
+        "timebuildupdated": "1461109073"
+      }
+    }
+  }
+}

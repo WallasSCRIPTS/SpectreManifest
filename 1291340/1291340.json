@@ -1,0 +1,70 @@
+{
+  "name": "Townscaper",
+  "source": "spectre",
+  "changenumber": 40401961,
+  "updated": "2026-11-06T21:04:12.658Z",
+  "branches": {
+    "public": {
+      "buildid": "7248348",
+      "timeupdated": "1689365939",
+      "timebuildupdated": "1629899209"
+    },
+    "0.14": {
+      "buildid": "5441317",
+      "description": "Legacy version",
+      "timeupdated": "1602076621",
+      "timebuildupdated": "1597995270"
+    },
+    "beta": {
+      "buildid": "7248348",
+      "description": "Public beta branch",
+      "timeupdated": "1629899209",
+      "timebuildupdated": "1629899209"
+    }
+  },
+  "depot": {
+    "1291341": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3218368929862251450",
+          "size": "352402846",
+          "download": "75194032"
+        }
+      }
+    },
+    "1291342": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4105552185008896131",
+          "size": "278423174",
+          "download": "59523408"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7248348",
+        "timeupdated": "1689365939",
+        "timebuildupdated": "1629899209"
+      },
+      "0.14": {
+        "buildid": "5441317",
+        "description": "Legacy version",
+        "timeupdated": "1602076621",
+        "timebuildupdated": "1597995270"
+      },
+      "beta": {
+        "buildid": "7248348",
+        "description": "Public beta branch",
+        "timeupdated": "1629899209",
+        "timebuildupdated": "1629899209"
+      }
+    }
+  }
+}

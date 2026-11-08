@@ -1,0 +1,58 @@
+{
+  "name": "Mages of Osmea",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:25:07.170Z",
+  "branches": {
+    "public": {
+      "buildid": "15625534",
+      "timeupdated": "1725732380",
+      "timebuildupdated": "1725714523"
+    },
+    "experimental": {
+      "buildid": "15625534",
+      "description": "Testing new changes",
+      "timeupdated": "1725714563",
+      "timebuildupdated": "1725714523"
+    }
+  },
+  "depot": {
+    "2415651": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4155409981512943108",
+          "size": "99990888",
+          "download": "41865632"
+        }
+      }
+    },
+    "2415652": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6908365893085475979",
+          "size": "101484400",
+          "download": "40983264"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15625534",
+        "timeupdated": "1725732380",
+        "timebuildupdated": "1725714523"
+      },
+      "experimental": {
+        "buildid": "15625534",
+        "description": "Testing new changes",
+        "timeupdated": "1725714563",
+        "timebuildupdated": "1725714523"
+      }
+    }
+  }
+}

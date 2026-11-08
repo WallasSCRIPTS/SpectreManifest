@@ -1,0 +1,111 @@
+{
+  "name": "The Crust",
+  "source": "spectre",
+  "changenumber": 40633039,
+  "updated": "2026-11-06T21:05:29.013Z",
+  "branches": {
+    "public": {
+      "buildid": "26225791",
+      "timeupdated": "1793044764",
+      "timebuildupdated": "1793042147"
+    },
+    "beta": {
+      "buildid": "26441690",
+      "description": "OpenBeta 1.1 (1.1.06)",
+      "timeupdated": "1793876463",
+      "timebuildupdated": "1793824687"
+    },
+    "previous": {
+      "buildid": "26059961",
+      "description": "EA 0.99.95",
+      "timeupdated": "1792438483",
+      "timebuildupdated": "1792438483"
+    },
+    "previous3": {
+      "buildid": "25846288",
+      "description": "Old 1.0.30",
+      "timeupdated": "1791911479",
+      "timebuildupdated": "1791615455"
+    },
+    "previous4": {
+      "buildid": "23455948",
+      "description": "Old 0.99.88.0",
+      "timeupdated": "1780087215",
+      "timebuildupdated": "1779987842"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1465471": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9077514824554907162",
+          "size": "8940034881",
+          "download": "8671133008"
+        }
+      }
+    },
+    "1465472": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1197518468698323499",
+          "size": "9213327441",
+          "download": "8742785632"
+        }
+      }
+    },
+    "1465473": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26225791",
+        "timeupdated": "1793044764",
+        "timebuildupdated": "1793042147"
+      },
+      "beta": {
+        "buildid": "26441690",
+        "description": "OpenBeta 1.1 (1.1.06)",
+        "timeupdated": "1793876463",
+        "timebuildupdated": "1793824687"
+      },
+      "previous": {
+        "buildid": "26059961",
+        "description": "EA 0.99.95",
+        "timeupdated": "1792438483",
+        "timebuildupdated": "1792438483"
+      },
+      "previous3": {
+        "buildid": "25846288",
+        "description": "Old 1.0.30",
+        "timeupdated": "1791911479",
+        "timebuildupdated": "1791615455"
+      },
+      "previous4": {
+        "buildid": "23455948",
+        "description": "Old 0.99.88.0",
+        "timeupdated": "1780087215",
+        "timebuildupdated": "1779987842"
+      }
+    }
+  }
+}

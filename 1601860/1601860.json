@@ -1,0 +1,70 @@
+{
+  "name": "Warp Factory",
+  "source": "spectre",
+  "changenumber": 34865765,
+  "updated": "2026-11-06T21:06:31.776Z",
+  "branches": {
+    "public": {
+      "buildid": "7423943",
+      "timeupdated": "1632583599",
+      "timebuildupdated": "1632583155"
+    },
+    "beta": {
+      "buildid": "7423943",
+      "description": "More recent, but less stable version",
+      "timeupdated": "1632583582",
+      "timebuildupdated": "1632583155"
+    }
+  },
+  "depot": {
+    "1601861": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1940016071938415041",
+          "size": "52389932",
+          "download": "23321008"
+        }
+      }
+    },
+    "1601862": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9212482686389857010",
+          "size": "39814198",
+          "download": "21250512"
+        }
+      }
+    },
+    "1601863": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4605814548996159272",
+          "size": "43546656",
+          "download": "20876672"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7423943",
+        "timeupdated": "1632583599",
+        "timebuildupdated": "1632583155"
+      },
+      "beta": {
+        "buildid": "7423943",
+        "description": "More recent, but less stable version",
+        "timeupdated": "1632583582",
+        "timebuildupdated": "1632583155"
+      }
+    }
+  }
+}

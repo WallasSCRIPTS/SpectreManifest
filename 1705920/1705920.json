@@ -1,0 +1,58 @@
+{
+  "name": "Space Endeavor",
+  "source": "spectre",
+  "changenumber": 35913178,
+  "updated": "2026-11-06T23:07:51.753Z",
+  "branches": {
+    "public": {
+      "buildid": "7191840",
+      "timeupdated": "1629473502",
+      "timebuildupdated": "1629005365"
+    },
+    "public-beta": {
+      "buildid": "9686116",
+      "description": "public beta branch",
+      "timeupdated": "1665347239",
+      "timebuildupdated": "1665347239"
+    }
+  },
+  "depot": {
+    "1705921": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4240738754084858977",
+          "size": "17741647",
+          "download": "11813312"
+        }
+      }
+    },
+    "1705923": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8249157622032136728",
+          "size": "32487924",
+          "download": "14423296"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7191840",
+        "timeupdated": "1629473502",
+        "timebuildupdated": "1629005365"
+      },
+      "public-beta": {
+        "buildid": "9686116",
+        "description": "public beta branch",
+        "timeupdated": "1665347239",
+        "timebuildupdated": "1665347239"
+      }
+    }
+  }
+}

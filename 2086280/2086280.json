@@ -1,0 +1,64 @@
+{
+  "name": "Deus Novum",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:17:29.966Z",
+  "branches": {
+    "public": {
+      "buildid": "10845017",
+      "timeupdated": "1679636332",
+      "timebuildupdated": "1679634193"
+    },
+    "previous": {
+      "buildid": "10222809",
+      "description": "Previous build in case current build is broken",
+      "timeupdated": "1679636352",
+      "timebuildupdated": "1672202443"
+    },
+    "publicbeta": {
+      "buildid": "21290129",
+      "description": "Public beta",
+      "timeupdated": "1766457828",
+      "timebuildupdated": "1766456806"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2086281": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4117382087915950841",
+          "size": "2414667427",
+          "download": "2019497072"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10845017",
+        "timeupdated": "1679636332",
+        "timebuildupdated": "1679634193"
+      },
+      "previous": {
+        "buildid": "10222809",
+        "description": "Previous build in case current build is broken",
+        "timeupdated": "1679636352",
+        "timebuildupdated": "1672202443"
+      },
+      "publicbeta": {
+        "buildid": "21290129",
+        "description": "Public beta",
+        "timeupdated": "1766457828",
+        "timebuildupdated": "1766456806"
+      }
+    }
+  }
+}

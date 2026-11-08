@@ -1,0 +1,59 @@
+{
+  "name": "Diner Bros",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:08.594Z",
+  "branches": {
+    "public": {
+      "buildid": "6053917",
+      "timeupdated": "1610154580",
+      "timebuildupdated": "1610088291"
+    },
+    "betatest": {
+      "buildid": "6053917",
+      "timeupdated": "1610088369",
+      "timebuildupdated": "1610088291"
+    },
+    "rollback": {
+      "buildid": "4818274",
+      "timeupdated": "1609949524",
+      "timebuildupdated": "1585146470"
+    }
+  },
+  "depot": {
+    "846801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1044182120164783227",
+          "size": "1833148271",
+          "download": "273778240"
+        }
+      }
+    },
+    "846802": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6053917",
+        "timeupdated": "1610154580",
+        "timebuildupdated": "1610088291"
+      },
+      "betatest": {
+        "buildid": "6053917",
+        "timeupdated": "1610088369",
+        "timebuildupdated": "1610088291"
+      },
+      "rollback": {
+        "buildid": "4818274",
+        "timeupdated": "1609949524",
+        "timebuildupdated": "1585146470"
+      }
+    }
+  }
+}

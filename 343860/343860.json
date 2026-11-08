@@ -1,0 +1,99 @@
+{
+  "name": "Tacoma",
+  "source": "spectre",
+  "changenumber": 39595578,
+  "updated": "2026-11-07T20:56:54.523Z",
+  "branches": {
+    "public": {
+      "buildid": "10700505",
+      "timeupdated": "1678104420",
+      "timebuildupdated": "1678104420"
+    },
+    "maclinux_beta": {
+      "buildid": "4160117",
+      "description": "latest, potentially unstable, version of the game.",
+      "timeupdated": "1567434850",
+      "timebuildupdated": "1567434849"
+    },
+    "version_1.0": {
+      "buildid": "4161015",
+      "description": "Version of the game prior to Unity 2019 and Mac Catalina updates",
+      "timeupdated": "1576776885",
+      "timebuildupdated": "1567458557"
+    }
+  },
+  "depot": {
+    "343861": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7062045632959758834",
+          "size": "11068879157",
+          "download": "2158875360"
+        }
+      }
+    },
+    "343862": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3613970223740960717",
+          "size": "11085873091",
+          "download": "2170030048"
+        }
+      }
+    },
+    "343863": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5904795513723479032",
+          "size": "11069418393",
+          "download": "2162552400"
+        }
+      }
+    },
+    "343864": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6027359260131846226",
+          "size": "11099908669",
+          "download": "2171247936"
+        }
+      }
+    },
+    "343865": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10700505",
+        "timeupdated": "1678104420",
+        "timebuildupdated": "1678104420"
+      },
+      "maclinux_beta": {
+        "buildid": "4160117",
+        "description": "latest, potentially unstable, version of the game.",
+        "timeupdated": "1567434850",
+        "timebuildupdated": "1567434849"
+      },
+      "version_1.0": {
+        "buildid": "4161015",
+        "description": "Version of the game prior to Unity 2019 and Mac Catalina updates",
+        "timeupdated": "1576776885",
+        "timebuildupdated": "1567458557"
+      }
+    }
+  }
+}

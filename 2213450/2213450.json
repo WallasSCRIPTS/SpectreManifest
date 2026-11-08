@@ -1,0 +1,58 @@
+{
+  "name": "Hell Runner",
+  "source": "spectre",
+  "changenumber": 36980553,
+  "updated": "2026-11-06T23:19:31.890Z",
+  "branches": {
+    "public": {
+      "buildid": "23924900",
+      "timeupdated": "1782447755",
+      "timebuildupdated": "1782447657"
+    },
+    "beta": {
+      "buildid": "20412587",
+      "description": "test",
+      "timeupdated": "1760585008",
+      "timebuildupdated": "1760584867"
+    }
+  },
+  "depot": {
+    "2213451": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6140878449268358246",
+          "size": "4615339927",
+          "download": "2538928000"
+        }
+      }
+    },
+    "2213452": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1060523261428542660",
+          "size": "4863829306",
+          "download": "2658789280"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23924900",
+        "timeupdated": "1782447755",
+        "timebuildupdated": "1782447657"
+      },
+      "beta": {
+        "buildid": "20412587",
+        "description": "test",
+        "timeupdated": "1760585008",
+        "timebuildupdated": "1760584867"
+      }
+    }
+  }
+}

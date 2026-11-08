@@ -1,0 +1,61 @@
+{
+  "name": "Christmas Mansion",
+  "source": "spectre",
+  "changenumber": 39795199,
+  "updated": "2026-11-06T23:11:35.466Z",
+  "branches": {
+    "public": {
+      "buildid": "23115680",
+      "timeupdated": "1778095852",
+      "timebuildupdated": "1778094173"
+    },
+    "test": {
+      "buildid": "23115680",
+      "description": "test branch",
+      "timeupdated": "1778094222",
+      "timebuildupdated": "1778094173"
+    }
+  },
+  "depot": {
+    "228989": {
+      "depotfromapp": "0"
+    },
+    "1824171": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6527824531646107329",
+          "size": "205081912",
+          "download": "169811968"
+        }
+      }
+    },
+    "1824172": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "902004677818627827",
+          "size": "208240308",
+          "download": "169061792"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23115680",
+        "timeupdated": "1778095852",
+        "timebuildupdated": "1778094173"
+      },
+      "test": {
+        "buildid": "23115680",
+        "description": "test branch",
+        "timeupdated": "1778094222",
+        "timebuildupdated": "1778094173"
+      }
+    }
+  }
+}

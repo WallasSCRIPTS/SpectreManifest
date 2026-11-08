@@ -1,0 +1,68 @@
+{
+  "name": "Pilgrims",
+  "source": "spectre",
+  "changenumber": 38664211,
+  "updated": "2026-11-07T21:02:46.497Z",
+  "branches": {
+    "public": {
+      "buildid": "10926681",
+      "timeupdated": "1680612801",
+      "timebuildupdated": "1680606091"
+    },
+    "legacy": {
+      "buildid": "6282617",
+      "timeupdated": "1680182020",
+      "timebuildupdated": "1614101771"
+    }
+  },
+  "depot": {
+    "1049281": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3516812743170775838",
+          "size": "481026716",
+          "download": "239083760"
+        }
+      }
+    },
+    "1049282": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5593776673983349051",
+          "size": "496121913",
+          "download": "242914768"
+        }
+      }
+    },
+    "1049283": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4698248851264581966",
+          "size": "514022362",
+          "download": "259290736"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10926681",
+        "timeupdated": "1680612801",
+        "timebuildupdated": "1680606091"
+      },
+      "legacy": {
+        "buildid": "6282617",
+        "timeupdated": "1680182020",
+        "timebuildupdated": "1614101771"
+      }
+    }
+  }
+}

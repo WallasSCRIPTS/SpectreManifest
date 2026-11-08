@@ -1,0 +1,55 @@
+{
+  "name": "The Great Smog",
+  "source": "spectre",
+  "changenumber": 39719817,
+  "updated": "2026-11-06T23:21:28.511Z",
+  "branches": {
+    "public": {
+      "buildid": "20903690",
+      "timeupdated": "1763823097",
+      "timebuildupdated": "1763822994"
+    },
+    "testing": {
+      "buildid": "25867670",
+      "description": "used to test patch",
+      "timeupdated": "1791742581",
+      "timebuildupdated": "1791742553"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2315101": {
+      "manifests": {
+        "public": {
+          "gid": "7654089492427653690",
+          "size": "48203310370",
+          "download": "20796046000"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20903690",
+        "timeupdated": "1763823097",
+        "timebuildupdated": "1763822994"
+      },
+      "testing": {
+        "buildid": "25867670",
+        "description": "used to test patch",
+        "timeupdated": "1791742581",
+        "timebuildupdated": "1791742553"
+      }
+    }
+  }
+}

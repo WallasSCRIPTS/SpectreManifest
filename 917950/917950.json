@@ -1,0 +1,63 @@
+{
+  "name": "Vellum",
+  "source": "spectre",
+  "changenumber": 40577087,
+  "updated": "2026-11-07T21:01:40.980Z",
+  "branches": {
+    "public": {
+      "buildid": "26170015",
+      "timeupdated": "1792790168",
+      "timebuildupdated": "1792787281"
+    },
+    "crashtester": {
+      "buildid": "18468049",
+      "description": "Used for specific debugging",
+      "timeupdated": "1747273017",
+      "timebuildupdated": "1747266223"
+    },
+    "testing": {
+      "buildid": "26424693",
+      "description": "Current testing branch",
+      "timeupdated": "1793772675",
+      "timebuildupdated": "1793772675"
+    }
+  },
+  "depot": {
+    "917951": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8420282224851307194",
+          "size": "5055026181",
+          "download": "2382263728"
+        }
+      }
+    },
+    "917952": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26170015",
+        "timeupdated": "1792790168",
+        "timebuildupdated": "1792787281"
+      },
+      "crashtester": {
+        "buildid": "18468049",
+        "description": "Used for specific debugging",
+        "timeupdated": "1747273017",
+        "timebuildupdated": "1747266223"
+      },
+      "testing": {
+        "buildid": "26424693",
+        "description": "Current testing branch",
+        "timeupdated": "1793772675",
+        "timebuildupdated": "1793772675"
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Bleed",
+  "source": "spectre",
+  "changenumber": 39906115,
+  "updated": "2026-11-07T20:56:09.401Z",
+  "branches": {
+    "public": {
+      "buildid": "6029207",
+      "timeupdated": "1609454306",
+      "timebuildupdated": "1609454306"
+    },
+    "linux32": {
+      "buildid": "1112117",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609454300",
+      "timebuildupdated": "1462469413"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "239801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1243561928853160754",
+          "size": "146451283",
+          "download": "0"
+        }
+      }
+    },
+    "239802": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1338660493300423366",
+          "size": "92628346",
+          "download": "47167120"
+        }
+      }
+    },
+    "239803": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7586064337957146762",
+          "size": "80531700",
+          "download": "44267440"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6029207",
+        "timeupdated": "1609454306",
+        "timebuildupdated": "1609454306"
+      },
+      "linux32": {
+        "buildid": "1112117",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609454300",
+        "timebuildupdated": "1462469413"
+      }
+    }
+  }
+}

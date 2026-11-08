@@ -1,0 +1,64 @@
+{
+  "name": "Nordicandia",
+  "source": "spectre",
+  "changenumber": 40619423,
+  "updated": "2026-11-06T21:05:45.743Z",
+  "branches": {
+    "public": {
+      "buildid": "22330762",
+      "timeupdated": "1773677215",
+      "timebuildupdated": "1773409608"
+    },
+    "test": {
+      "buildid": "22330762",
+      "description": "Public Test Server",
+      "timeupdated": "1773409608",
+      "timebuildupdated": "1773409608"
+    }
+  },
+  "depot": {
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1503791": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7231867266541774414",
+          "size": "1185570664",
+          "download": "574533600"
+        }
+      }
+    },
+    "1503792": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "350560515553306203",
+          "size": "1338812032",
+          "download": "603941984"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22330762",
+        "timeupdated": "1773677215",
+        "timebuildupdated": "1773409608"
+      },
+      "test": {
+        "buildid": "22330762",
+        "description": "Public Test Server",
+        "timeupdated": "1773409608",
+        "timebuildupdated": "1773409608"
+      }
+    }
+  }
+}

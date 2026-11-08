@@ -1,0 +1,60 @@
+{
+  "name": "King of the Universe",
+  "source": "spectre",
+  "changenumber": 34871522,
+  "updated": "2026-11-06T23:09:43.803Z",
+  "branches": {
+    "public": {
+      "buildid": "8122814",
+      "timeupdated": "1643696303",
+      "timebuildupdated": "1643696303"
+    },
+    "local": {
+      "buildid": "7434101",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1632780845",
+      "timebuildupdated": "1632780845"
+    }
+  },
+  "depot": {
+    "1759591": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2468228996902841702",
+          "size": "29241580",
+          "download": "17044576"
+        }
+      }
+    },
+    "1759592": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4335154525638467084",
+          "size": "34461722",
+          "download": "17304368"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8122814",
+        "timeupdated": "1643696303",
+        "timebuildupdated": "1643696303"
+      },
+      "local": {
+        "buildid": "7434101",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1632780845",
+        "timebuildupdated": "1632780845"
+      }
+    }
+  }
+}

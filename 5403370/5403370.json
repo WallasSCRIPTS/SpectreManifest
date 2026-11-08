@@ -1,0 +1,64 @@
+{
+  "name": "BLACKOUT Demo",
+  "source": "spectre",
+  "changenumber": 40575300,
+  "updated": "2026-11-04T23:25:45.265Z",
+  "branches": {
+    "public": {
+      "buildid": "26419339",
+      "timeupdated": "1793766989",
+      "timebuildupdated": "1793750714"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "5403371": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8776385337455515600",
+          "size": "618653349",
+          "download": "293437808"
+        }
+      }
+    },
+    "5403372": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5460871205835927788",
+          "size": "604227172",
+          "download": "289888320"
+        }
+      }
+    },
+    "5403373": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2340874207682796455",
+          "size": "610988469",
+          "download": "297310256"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26419339",
+        "timeupdated": "1793766989",
+        "timebuildupdated": "1793750714"
+      }
+    }
+  }
+}

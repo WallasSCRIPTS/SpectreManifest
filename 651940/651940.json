@@ -1,0 +1,70 @@
+{
+  "name": "Debris Field",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:59:30.884Z",
+  "branches": {
+    "public": {
+      "buildid": "12525569",
+      "timeupdated": "1698184957",
+      "timebuildupdated": "1698184720"
+    },
+    "beta": {
+      "buildid": "12525569",
+      "description": "3.0 Update beta",
+      "timeupdated": "1698184721",
+      "timebuildupdated": "1698184720"
+    }
+  },
+  "depot": {
+    "651941": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6056708650825679210",
+          "size": "257086870",
+          "download": "90905440"
+        }
+      }
+    },
+    "651942": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3973184763496404013",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "651943": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "815078381610522751",
+          "size": "264760148",
+          "download": "92564912"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12525569",
+        "timeupdated": "1698184957",
+        "timebuildupdated": "1698184720"
+      },
+      "beta": {
+        "buildid": "12525569",
+        "description": "3.0 Update beta",
+        "timeupdated": "1698184721",
+        "timebuildupdated": "1698184720"
+      }
+    }
+  }
+}

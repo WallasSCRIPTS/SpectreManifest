@@ -1,0 +1,64 @@
+{
+  "name": "Every Hue of You",
+  "source": "spectre",
+  "changenumber": 37454840,
+  "updated": "2026-11-06T23:15:36.573Z",
+  "branches": {
+    "public": {
+      "buildid": "11898830",
+      "timeupdated": "1691555173",
+      "timebuildupdated": "1691555071"
+    },
+    "test": {
+      "buildid": "11898830",
+      "description": "release build test",
+      "timeupdated": "1691555301",
+      "timebuildupdated": "1691555071"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2014211": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6454411295166125920",
+          "size": "2907264763",
+          "download": "2456708272"
+        }
+      }
+    },
+    "2014212": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "791271177609431020",
+          "size": "2932447416",
+          "download": "2464243216"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11898830",
+        "timeupdated": "1691555173",
+        "timebuildupdated": "1691555071"
+      },
+      "test": {
+        "buildid": "11898830",
+        "description": "release build test",
+        "timeupdated": "1691555301",
+        "timebuildupdated": "1691555071"
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "The Wall",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-07T21:00:06.280Z",
+  "branches": {
+    "public": {
+      "buildid": "10626096",
+      "timeupdated": "1677208051",
+      "timebuildupdated": "1677208051"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "719201": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9054096065479329599",
+          "size": "11742918963",
+          "download": "4740970128"
+        }
+      }
+    },
+    "719202": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6445382239256632927",
+          "size": "2904455753",
+          "download": "910078288"
+        }
+      }
+    },
+    "719203": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1046142137422140050",
+          "size": "2961242691",
+          "download": "976586736"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10626096",
+        "timeupdated": "1677208051",
+        "timebuildupdated": "1677208051"
+      }
+    }
+  }
+}

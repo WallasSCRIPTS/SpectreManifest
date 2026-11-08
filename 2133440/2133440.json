@@ -1,0 +1,58 @@
+{
+  "name": "Pixelmancer",
+  "source": "spectre",
+  "changenumber": 40664792,
+  "updated": "2026-11-06T23:17:35.827Z",
+  "branches": {
+    "public": {
+      "buildid": "23136261",
+      "timeupdated": "1778190923",
+      "timebuildupdated": "1778190606"
+    },
+    "devtest": {
+      "buildid": "23136261",
+      "description": "This is for testing updates, this may break your save file",
+      "timeupdated": "1778190608",
+      "timebuildupdated": "1778190606"
+    }
+  },
+  "depot": {
+    "2133441": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1245901811409093619",
+          "size": "95617378",
+          "download": "87648416"
+        }
+      }
+    },
+    "2133442": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1341921391873196767",
+          "size": "387965845",
+          "download": "204270880"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23136261",
+        "timeupdated": "1778190923",
+        "timebuildupdated": "1778190606"
+      },
+      "devtest": {
+        "buildid": "23136261",
+        "description": "This is for testing updates, this may break your save file",
+        "timeupdated": "1778190608",
+        "timebuildupdated": "1778190606"
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "name": "Battle for Wesnoth",
+  "source": "spectre",
+  "changenumber": 40686601,
+  "updated": "2026-11-07T20:59:09.106Z",
+  "branches": {
+    "public": {
+      "buildid": "24804200",
+      "timeupdated": "1787082688",
+      "timebuildupdated": "1787082688"
+    },
+    "1.14.x": {
+      "buildid": "6913664",
+      "description": "Old old stable",
+      "timeupdated": "1633012165",
+      "timebuildupdated": "1624383368"
+    },
+    "1.16": {
+      "buildid": "13778154",
+      "description": "Old stable",
+      "timeupdated": "1710793306",
+      "timebuildupdated": "1710793306"
+    },
+    "1.17": {
+      "buildid": "13561904",
+      "description": "Old development release",
+      "timeupdated": "1708932476",
+      "timebuildupdated": "1708932476"
+    },
+    "1.19": {
+      "buildid": "26391465",
+      "description": "Development release",
+      "timeupdated": "1793658419",
+      "timebuildupdated": "1793658419"
+    }
+  },
+  "depot": {
+    "599391": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6812380807004199604",
+          "size": "562694979",
+          "download": "432185936"
+        }
+      }
+    },
+    "599392": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "874033734194065658",
+          "size": "38792124",
+          "download": "9206832"
+        }
+      }
+    },
+    "599393": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6964590179017024620",
+          "size": "147148063",
+          "download": "40577584"
+        }
+      }
+    },
+    "599394": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4740886281861215153",
+          "size": "646248233",
+          "download": "459166624"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24804200",
+        "timeupdated": "1787082688",
+        "timebuildupdated": "1787082688"
+      },
+      "1.14.x": {
+        "buildid": "6913664",
+        "description": "Old old stable",
+        "timeupdated": "1633012165",
+        "timebuildupdated": "1624383368"
+      },
+      "1.16": {
+        "buildid": "13778154",
+        "description": "Old stable",
+        "timeupdated": "1710793306",
+        "timebuildupdated": "1710793306"
+      },
+      "1.17": {
+        "buildid": "13561904",
+        "description": "Old development release",
+        "timeupdated": "1708932476",
+        "timebuildupdated": "1708932476"
+      },
+      "1.19": {
+        "buildid": "26391465",
+        "description": "Development release",
+        "timeupdated": "1793658419",
+        "timebuildupdated": "1793658419"
+      }
+    }
+  }
+}

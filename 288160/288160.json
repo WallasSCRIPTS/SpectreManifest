@@ -1,0 +1,74 @@
+{
+  "name": "The Room",
+  "source": "spectre",
+  "changenumber": 39397254,
+  "updated": "2026-11-07T20:56:24.652Z",
+  "branches": {
+    "public": {
+      "buildid": "1229457",
+      "timeupdated": "1484644900",
+      "timebuildupdated": "1468594737"
+    },
+    "july2016": {
+      "buildid": "1229457",
+      "timeupdated": "1468594863",
+      "timebuildupdated": "1468594737"
+    },
+    "local": {
+      "buildid": "231973",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1397059130"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "288161": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "665743723215126067",
+          "size": "711657234",
+          "download": "468587728"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1229457",
+        "timeupdated": "1484644900",
+        "timebuildupdated": "1468594737"
+      },
+      "july2016": {
+        "buildid": "1229457",
+        "timeupdated": "1468594863",
+        "timebuildupdated": "1468594737"
+      },
+      "local": {
+        "buildid": "231973",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1397059130"
+      }
+    }
+  }
+}

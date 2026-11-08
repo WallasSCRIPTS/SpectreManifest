@@ -1,0 +1,60 @@
+{
+  "name": "Hauntii",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:15:39.429Z",
+  "branches": {
+    "public": {
+      "buildid": "21915525",
+      "timeupdated": "1771034135",
+      "timebuildupdated": "1770966645"
+    },
+    "open_beta": {
+      "buildid": "21915525",
+      "description": "open beta for testing new features",
+      "timeupdated": "1771034160",
+      "timebuildupdated": "1770966645"
+    },
+    "local": {
+      "buildid": "11074667",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1682323747",
+      "timebuildupdated": "1682323747"
+    }
+  },
+  "depot": {
+    "2060791": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2249789181615620175",
+          "size": "4807760989",
+          "download": "685993088"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21915525",
+        "timeupdated": "1771034135",
+        "timebuildupdated": "1770966645"
+      },
+      "open_beta": {
+        "buildid": "21915525",
+        "description": "open beta for testing new features",
+        "timeupdated": "1771034160",
+        "timebuildupdated": "1770966645"
+      },
+      "local": {
+        "buildid": "11074667",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1682323747",
+        "timebuildupdated": "1682323747"
+      }
+    }
+  }
+}

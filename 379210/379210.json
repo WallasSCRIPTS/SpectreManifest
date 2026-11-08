@@ -1,0 +1,382 @@
+{
+  "name": "Wayward",
+  "source": "spectre",
+  "changenumber": 37434570,
+  "updated": "2026-11-07T20:57:21.150Z",
+  "branches": {
+    "public": {
+      "buildid": "24137356",
+      "timeupdated": "1783647800",
+      "timebuildupdated": "1783641872"
+    },
+    "beta2.15.5": {
+      "buildid": "24137356",
+      "description": "Beta 2.15.5 (July 9, 2026)",
+      "timeupdated": "1783647738",
+      "timebuildupdated": "1783641872"
+    },
+    "development": {
+      "buildid": "24161660",
+      "description": "Development Branch (Updated Nightly)",
+      "timeupdated": "1783778967",
+      "timebuildupdated": "1783778967"
+    },
+    "beta2.15.4": {
+      "buildid": "22757357",
+      "description": "Beta 2.15.4 (April 12, 2026)",
+      "timeupdated": "1776050703",
+      "timebuildupdated": "1776050663"
+    },
+    "beta2.15.3": {
+      "buildid": "22455149",
+      "description": "Beta 2.15.3 (March 22, 2026)",
+      "timeupdated": "1774210960",
+      "timebuildupdated": "1774208957"
+    },
+    "beta2.15.2": {
+      "buildid": "21269376",
+      "description": "Beta 2.15.2 (December 20th, 2025)",
+      "timeupdated": "1766273817",
+      "timebuildupdated": "1766239729"
+    },
+    "beta2.15.1": {
+      "buildid": "20574905",
+      "description": "Beta 2.15.1 (October 28, 2025)",
+      "timeupdated": "1761697724",
+      "timebuildupdated": "1761660514"
+    },
+    "beta2.15.0": {
+      "buildid": "20541356",
+      "description": "Beta 2.15.0 (October 25th, 2025)",
+      "timeupdated": "1761411077",
+      "timebuildupdated": "1761401131"
+    },
+    "beta2.14.6": {
+      "buildid": "19623215",
+      "description": "Beta 2.14.6 (August 16th, 2025)",
+      "timeupdated": "1755394401",
+      "timebuildupdated": "1755353261"
+    },
+    "beta2.13.5": {
+      "buildid": "11875792",
+      "description": "Beta 2.13.5 (August 5, 2023)",
+      "timeupdated": "1691269504",
+      "timebuildupdated": "1691267067"
+    },
+    "beta2.12.3": {
+      "buildid": "10231342",
+      "description": "Beta 2.12.3 (December 29, 2022)",
+      "timeupdated": "1672377686",
+      "timebuildupdated": "1672377397"
+    },
+    "beta2.11.6": {
+      "buildid": "8819286",
+      "description": "Beta 2.11.6 (April 28, 2022)",
+      "timeupdated": "1653717987",
+      "timebuildupdated": "1653622609"
+    },
+    "beta2.10.9": {
+      "buildid": "7548027",
+      "description": "Beta 2.10.9 (October 17, 2021)",
+      "timeupdated": "1634494816",
+      "timebuildupdated": "1634463293"
+    },
+    "beta2.9.6": {
+      "buildid": "5666828",
+      "description": "Beta 2.9.6 (October 11, 2020)",
+      "timeupdated": "1602444437",
+      "timebuildupdated": "1602405586"
+    },
+    "beta2.8.5": {
+      "buildid": "4754429",
+      "description": "Beta 2.8.5 (March 7, 2020)",
+      "timeupdated": "1583633325",
+      "timebuildupdated": "1583617534"
+    },
+    "beta2.7.4": {
+      "buildid": "3653129",
+      "description": "Beta 2.7.4 (March 9, 2019)",
+      "timeupdated": "1552774274",
+      "timebuildupdated": "1552773746"
+    },
+    "beta2.6.6": {
+      "buildid": "3125940",
+      "description": "Beta 2.6.6 (September 14, 2018)",
+      "timeupdated": "1537075229",
+      "timebuildupdated": "1537074405"
+    },
+    "beta2.5.7": {
+      "buildid": "2539387",
+      "description": "Beta 2.5.7 (February 19, 2018)",
+      "timeupdated": "1519099809",
+      "timebuildupdated": "1519079627"
+    },
+    "beta2.4.4": {
+      "buildid": "2071436",
+      "description": "Beta 2.4.4 (August 27, 2017)",
+      "timeupdated": "1503853895",
+      "timebuildupdated": "1503824586"
+    },
+    "beta2.3.4": {
+      "buildid": "1788385",
+      "description": "Beta 2.3.4 (April 28, 2017)",
+      "timeupdated": "1493421403",
+      "timebuildupdated": "1493397252"
+    },
+    "beta2.2.3": {
+      "buildid": "1510713",
+      "description": "Beta 2.2.3 (December 10, 2016)",
+      "timeupdated": "1481371319",
+      "timebuildupdated": "1481368017"
+    },
+    "beta2.1.3": {
+      "buildid": "1275960",
+      "description": "Beta 2.1.3 (August 12, 2016)",
+      "timeupdated": "1471040207",
+      "timebuildupdated": "1470980704"
+    },
+    "beta2.0.5": {
+      "buildid": "1120674",
+      "description": "Beta 2.0.5 (May 11, 2016)",
+      "timeupdated": "1722525660",
+      "timebuildupdated": "1462954192"
+    }
+  },
+  "depot": {
+    "379211": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4060119667554908807",
+          "size": "214480644",
+          "download": "159983648"
+        }
+      }
+    },
+    "379212": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3594280442591145113",
+          "size": "309678111",
+          "download": "122101360"
+        }
+      }
+    },
+    "379213": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8548040844130564387",
+          "size": "368170671",
+          "download": "136568320"
+        }
+      }
+    },
+    "379214": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5966934481667244657",
+          "size": "1",
+          "download": "48"
+        }
+      }
+    },
+    "379215": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6136601788661281994",
+          "size": "190038617",
+          "download": "65073520"
+        }
+      }
+    },
+    "379216": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4123776500715374889",
+          "size": "335666489",
+          "download": "118859824"
+        }
+      }
+    },
+    "379217": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5011856804947159512",
+          "size": "735098902",
+          "download": "363027936"
+        }
+      }
+    },
+    "379218": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7976026832919335986",
+          "size": "214480644",
+          "download": "159983648"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24137356",
+        "timeupdated": "1783647800",
+        "timebuildupdated": "1783641872"
+      },
+      "beta2.15.5": {
+        "buildid": "24137356",
+        "description": "Beta 2.15.5 (July 9, 2026)",
+        "timeupdated": "1783647738",
+        "timebuildupdated": "1783641872"
+      },
+      "development": {
+        "buildid": "24161660",
+        "description": "Development Branch (Updated Nightly)",
+        "timeupdated": "1783778967",
+        "timebuildupdated": "1783778967"
+      },
+      "beta2.15.4": {
+        "buildid": "22757357",
+        "description": "Beta 2.15.4 (April 12, 2026)",
+        "timeupdated": "1776050703",
+        "timebuildupdated": "1776050663"
+      },
+      "beta2.15.3": {
+        "buildid": "22455149",
+        "description": "Beta 2.15.3 (March 22, 2026)",
+        "timeupdated": "1774210960",
+        "timebuildupdated": "1774208957"
+      },
+      "beta2.15.2": {
+        "buildid": "21269376",
+        "description": "Beta 2.15.2 (December 20th, 2025)",
+        "timeupdated": "1766273817",
+        "timebuildupdated": "1766239729"
+      },
+      "beta2.15.1": {
+        "buildid": "20574905",
+        "description": "Beta 2.15.1 (October 28, 2025)",
+        "timeupdated": "1761697724",
+        "timebuildupdated": "1761660514"
+      },
+      "beta2.15.0": {
+        "buildid": "20541356",
+        "description": "Beta 2.15.0 (October 25th, 2025)",
+        "timeupdated": "1761411077",
+        "timebuildupdated": "1761401131"
+      },
+      "beta2.14.6": {
+        "buildid": "19623215",
+        "description": "Beta 2.14.6 (August 16th, 2025)",
+        "timeupdated": "1755394401",
+        "timebuildupdated": "1755353261"
+      },
+      "beta2.13.5": {
+        "buildid": "11875792",
+        "description": "Beta 2.13.5 (August 5, 2023)",
+        "timeupdated": "1691269504",
+        "timebuildupdated": "1691267067"
+      },
+      "beta2.12.3": {
+        "buildid": "10231342",
+        "description": "Beta 2.12.3 (December 29, 2022)",
+        "timeupdated": "1672377686",
+        "timebuildupdated": "1672377397"
+      },
+      "beta2.11.6": {
+        "buildid": "8819286",
+        "description": "Beta 2.11.6 (April 28, 2022)",
+        "timeupdated": "1653717987",
+        "timebuildupdated": "1653622609"
+      },
+      "beta2.10.9": {
+        "buildid": "7548027",
+        "description": "Beta 2.10.9 (October 17, 2021)",
+        "timeupdated": "1634494816",
+        "timebuildupdated": "1634463293"
+      },
+      "beta2.9.6": {
+        "buildid": "5666828",
+        "description": "Beta 2.9.6 (October 11, 2020)",
+        "timeupdated": "1602444437",
+        "timebuildupdated": "1602405586"
+      },
+      "beta2.8.5": {
+        "buildid": "4754429",
+        "description": "Beta 2.8.5 (March 7, 2020)",
+        "timeupdated": "1583633325",
+        "timebuildupdated": "1583617534"
+      },
+      "beta2.7.4": {
+        "buildid": "3653129",
+        "description": "Beta 2.7.4 (March 9, 2019)",
+        "timeupdated": "1552774274",
+        "timebuildupdated": "1552773746"
+      },
+      "beta2.6.6": {
+        "buildid": "3125940",
+        "description": "Beta 2.6.6 (September 14, 2018)",
+        "timeupdated": "1537075229",
+        "timebuildupdated": "1537074405"
+      },
+      "beta2.5.7": {
+        "buildid": "2539387",
+        "description": "Beta 2.5.7 (February 19, 2018)",
+        "timeupdated": "1519099809",
+        "timebuildupdated": "1519079627"
+      },
+      "beta2.4.4": {
+        "buildid": "2071436",
+        "description": "Beta 2.4.4 (August 27, 2017)",
+        "timeupdated": "1503853895",
+        "timebuildupdated": "1503824586"
+      },
+      "beta2.3.4": {
+        "buildid": "1788385",
+        "description": "Beta 2.3.4 (April 28, 2017)",
+        "timeupdated": "1493421403",
+        "timebuildupdated": "1493397252"
+      },
+      "beta2.2.3": {
+        "buildid": "1510713",
+        "description": "Beta 2.2.3 (December 10, 2016)",
+        "timeupdated": "1481371319",
+        "timebuildupdated": "1481368017"
+      },
+      "beta2.1.3": {
+        "buildid": "1275960",
+        "description": "Beta 2.1.3 (August 12, 2016)",
+        "timeupdated": "1471040207",
+        "timebuildupdated": "1470980704"
+      },
+      "beta2.0.5": {
+        "buildid": "1120674",
+        "description": "Beta 2.0.5 (May 11, 2016)",
+        "timeupdated": "1722525660",
+        "timebuildupdated": "1462954192"
+      }
+    }
+  }
+}

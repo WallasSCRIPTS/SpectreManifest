@@ -1,0 +1,58 @@
+{
+  "name": "Graywalkers: Purgatory",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:22.935Z",
+  "branches": {
+    "public": {
+      "buildid": "5636245",
+      "timeupdated": "1601874565",
+      "timebuildupdated": "1601873517"
+    },
+    "bleeding-edge": {
+      "buildid": "5705474",
+      "description": "Beta build with latest changes",
+      "timeupdated": "1603128630",
+      "timebuildupdated": "1603128630"
+    }
+  },
+  "depot": {
+    "1003371": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6664099409876683181",
+          "size": "6680004997",
+          "download": "5407334736"
+        }
+      }
+    },
+    "1003372": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4390486068748610044",
+          "size": "6765758681",
+          "download": "5399984224"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5636245",
+        "timeupdated": "1601874565",
+        "timebuildupdated": "1601873517"
+      },
+      "bleeding-edge": {
+        "buildid": "5705474",
+        "description": "Beta build with latest changes",
+        "timeupdated": "1603128630",
+        "timebuildupdated": "1603128630"
+      }
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "name": "PROTOCOL 11",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:16.365Z",
+  "branches": {
+    "public": {
+      "buildid": "19903925",
+      "timeupdated": "1757375752",
+      "timebuildupdated": "1757375752"
+    },
+    "debug": {
+      "buildid": "15498669",
+      "description": "Branch for debug purposes.",
+      "timeupdated": "1724712523",
+      "timebuildupdated": "1724712523"
+    }
+  },
+  "depot": {
+    "1099791": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6424261978381817273",
+          "size": "708781127",
+          "download": "600763376"
+        }
+      }
+    },
+    "1099792": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2795995345102130928",
+          "size": "731651070",
+          "download": "609324320"
+        }
+      }
+    },
+    "1254640": {
+      "manifests": {
+        "public": {
+          "gid": "3000213083085519956",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "1254640"
+    },
+    "2710330": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "693245009759586888",
+          "size": "529751064",
+          "download": "444400640"
+        }
+      },
+      "dlcappid": "2710330"
+    },
+    "branches": {
+      "public": {
+        "buildid": "19903925",
+        "timeupdated": "1757375752",
+        "timebuildupdated": "1757375752"
+      },
+      "debug": {
+        "buildid": "15498669",
+        "description": "Branch for debug purposes.",
+        "timeupdated": "1724712523",
+        "timebuildupdated": "1724712523"
+      }
+    }
+  }
+}

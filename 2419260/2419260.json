@@ -1,0 +1,70 @@
+{
+  "name": "Destroy the Wall Demo",
+  "source": "spectre",
+  "changenumber": 34900960,
+  "updated": "2026-11-06T23:25:07.611Z",
+  "branches": {
+    "public": {
+      "buildid": "20121606",
+      "timeupdated": "1758786745",
+      "timebuildupdated": "1758786696"
+    },
+    "test": {
+      "buildid": "20121606",
+      "description": "for testing",
+      "timeupdated": "1758786696",
+      "timebuildupdated": "1758786696"
+    }
+  },
+  "depot": {
+    "2419261": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2316886286259205664",
+          "size": "81725839",
+          "download": "60780480"
+        }
+      }
+    },
+    "2419262": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3790330199048020625",
+          "size": "94755760",
+          "download": "65433664"
+        }
+      }
+    },
+    "2419263": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4878593130958971491",
+          "size": "102121405",
+          "download": "67130240"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20121606",
+        "timeupdated": "1758786745",
+        "timebuildupdated": "1758786696"
+      },
+      "test": {
+        "buildid": "20121606",
+        "description": "for testing",
+        "timeupdated": "1758786696",
+        "timebuildupdated": "1758786696"
+      }
+    }
+  }
+}

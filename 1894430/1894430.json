@@ -1,0 +1,103 @@
+{
+  "name": "Plan B: Terraform",
+  "source": "spectre",
+  "changenumber": 40419439,
+  "updated": "2026-11-06T23:13:27.893Z",
+  "branches": {
+    "public": {
+      "buildid": "26248975",
+      "timeupdated": "1793283620",
+      "timebuildupdated": "1793119574"
+    },
+    "beta": {
+      "buildid": "26321852",
+      "description": "beta branch",
+      "timeupdated": "1793359547",
+      "timebuildupdated": "1793359524"
+    },
+    "safe": {
+      "buildid": "25723025",
+      "description": "delayed update, you can roll back to this one if you have sudden issue after update (but contact me!)",
+      "timeupdated": "1791191499",
+      "timebuildupdated": "1791188770"
+    },
+    "v0.7.5": {
+      "buildid": "13702153",
+      "description": "v0.7.5 backup, to continue playing with worlds created before v0.8",
+      "timeupdated": "1718981256",
+      "timebuildupdated": "1710161426"
+    },
+    "v0.8.4": {
+      "buildid": "15806816",
+      "description": "v0.8.4 backup, to continue playing with worlds created before v0.9",
+      "timeupdated": "1727173270",
+      "timebuildupdated": "1727171578"
+    },
+    "v1.0.6": {
+      "buildid": "22264648",
+      "description": "v1.0.6 backup, before major update 1.1 and dlc.",
+      "timeupdated": "1773320647",
+      "timebuildupdated": "1773071847"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1894431": {
+      "manifests": {
+        "public": {
+          "gid": "8190045192841968197",
+          "size": "1193836520",
+          "download": "595188112"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26248975",
+        "timeupdated": "1793283620",
+        "timebuildupdated": "1793119574"
+      },
+      "beta": {
+        "buildid": "26321852",
+        "description": "beta branch",
+        "timeupdated": "1793359547",
+        "timebuildupdated": "1793359524"
+      },
+      "safe": {
+        "buildid": "25723025",
+        "description": "delayed update, you can roll back to this one if you have sudden issue after update (but contact me!)",
+        "timeupdated": "1791191499",
+        "timebuildupdated": "1791188770"
+      },
+      "v0.7.5": {
+        "buildid": "13702153",
+        "description": "v0.7.5 backup, to continue playing with worlds created before v0.8",
+        "timeupdated": "1718981256",
+        "timebuildupdated": "1710161426"
+      },
+      "v0.8.4": {
+        "buildid": "15806816",
+        "description": "v0.8.4 backup, to continue playing with worlds created before v0.9",
+        "timeupdated": "1727173270",
+        "timebuildupdated": "1727171578"
+      },
+      "v1.0.6": {
+        "buildid": "22264648",
+        "description": "v1.0.6 backup, before major update 1.1 and dlc.",
+        "timeupdated": "1773320647",
+        "timebuildupdated": "1773071847"
+      }
+    }
+  }
+}

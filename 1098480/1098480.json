@@ -1,0 +1,67 @@
+{
+  "name": "Fruit Factory",
+  "source": "spectre",
+  "changenumber": 37441117,
+  "updated": "2026-11-07T21:03:15.353Z",
+  "branches": {
+    "public": {
+      "buildid": "5925119",
+      "timeupdated": "1607121483",
+      "timebuildupdated": "1607121483"
+    },
+    "beta": {
+      "buildid": "5925119",
+      "description": "Fruit Factory Beta",
+      "timeupdated": "1607121498",
+      "timebuildupdated": "1607121483"
+    }
+  },
+  "depot": {
+    "1098481": {
+      "manifests": {
+        "public": {
+          "gid": "8731491134963165225",
+          "size": "221750043",
+          "download": "58321248"
+        }
+      }
+    },
+    "1098482": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4178815614272816924",
+          "size": "221750043",
+          "download": "58324304"
+        }
+      }
+    },
+    "1098483": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2086872254951305383",
+          "size": "225871496",
+          "download": "59808128"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5925119",
+        "timeupdated": "1607121483",
+        "timebuildupdated": "1607121483"
+      },
+      "beta": {
+        "buildid": "5925119",
+        "description": "Fruit Factory Beta",
+        "timeupdated": "1607121498",
+        "timebuildupdated": "1607121483"
+      }
+    }
+  }
+}

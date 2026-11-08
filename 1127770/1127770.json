@@ -1,0 +1,68 @@
+{
+  "name": "Janga Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:03:34.364Z",
+  "branches": {
+    "public": {
+      "buildid": "5156267",
+      "timeupdated": "1591976778",
+      "timebuildupdated": "1591973983"
+    },
+    "networkdemo": {
+      "buildid": "4467802",
+      "timeupdated": "1575653710",
+      "timebuildupdated": "1575653709"
+    }
+  },
+  "depot": {
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1127771": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2538306309406760013",
+          "size": "1368513669",
+          "download": "305285120"
+        }
+      }
+    },
+    "1127772": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "760757889190371871",
+          "size": "1603000611",
+          "download": "379365056"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5156267",
+        "timeupdated": "1591976778",
+        "timebuildupdated": "1591973983"
+      },
+      "networkdemo": {
+        "buildid": "4467802",
+        "timeupdated": "1575653710",
+        "timebuildupdated": "1575653709"
+      }
+    }
+  }
+}

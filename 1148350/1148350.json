@@ -1,0 +1,94 @@
+{
+  "name": "The Powder Toy",
+  "source": "spectre",
+  "changenumber": 40704065,
+  "updated": "2026-11-07T21:03:44.327Z",
+  "branches": {
+    "public": {
+      "buildid": "24623427",
+      "timeupdated": "1786157510",
+      "timebuildupdated": "1786150298"
+    },
+    "betas-and-releases": {
+      "buildid": "24623427",
+      "description": "Updates for new betas and releases",
+      "timeupdated": "1786157510",
+      "timebuildupdated": "1786150298"
+    },
+    "bleeding-edge": {
+      "buildid": "25715830",
+      "description": "Updates for new betas, releases, and snapshots (Snapshots may be unstable)",
+      "timeupdated": "1791152017",
+      "timebuildupdated": "1791149003"
+    },
+    "2026-april-fools": {
+      "buildid": "22594207",
+      "description": "2026 April Fool's (Return of the Powder Dinn)",
+      "timeupdated": "1775004580",
+      "timebuildupdated": "1775004231"
+    }
+  },
+  "depot": {
+    "1148352": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4215966483863494194",
+          "size": "8710734",
+          "download": "3869760"
+        }
+      }
+    },
+    "1148353": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2286454672978293049",
+          "size": "7695176",
+          "download": "3443104"
+        }
+      }
+    },
+    "1148354": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3987435586770256145",
+          "size": "8671801",
+          "download": "3311456"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24623427",
+        "timeupdated": "1786157510",
+        "timebuildupdated": "1786150298"
+      },
+      "betas-and-releases": {
+        "buildid": "24623427",
+        "description": "Updates for new betas and releases",
+        "timeupdated": "1786157510",
+        "timebuildupdated": "1786150298"
+      },
+      "bleeding-edge": {
+        "buildid": "25715830",
+        "description": "Updates for new betas, releases, and snapshots (Snapshots may be unstable)",
+        "timeupdated": "1791152017",
+        "timebuildupdated": "1791149003"
+      },
+      "2026-april-fools": {
+        "buildid": "22594207",
+        "description": "2026 April Fool's (Return of the Powder Dinn)",
+        "timeupdated": "1775004580",
+        "timebuildupdated": "1775004231"
+      }
+    }
+  }
+}

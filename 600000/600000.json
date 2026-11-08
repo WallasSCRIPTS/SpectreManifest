@@ -1,0 +1,108 @@
+{
+  "name": "The St Christopher's School Lockdown",
+  "source": "spectre",
+  "changenumber": 37629672,
+  "updated": "2026-11-07T20:59:09.342Z",
+  "branches": {
+    "public": {
+      "buildid": "2697277",
+      "timeupdated": "1523997536",
+      "timebuildupdated": "1523997536"
+    },
+    "linux_build": {
+      "buildid": "2212268",
+      "timeupdated": "1508415791",
+      "timebuildupdated": "1508415791"
+    },
+    "mac_build": {
+      "buildid": "2212269",
+      "timeupdated": "1508415815",
+      "timebuildupdated": "1508415815"
+    },
+    "test": {
+      "buildid": "2209447",
+      "timeupdated": "1508342765",
+      "timebuildupdated": "1508342765"
+    },
+    "windows_build": {
+      "buildid": "2221710",
+      "timeupdated": "1510170248",
+      "timebuildupdated": "1508756209"
+    }
+  },
+  "depot": {
+    "600001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3259644250950697217",
+          "size": "3853997542",
+          "download": "693351024"
+        }
+      }
+    },
+    "600002": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2016312224629008906",
+          "size": "2841006444",
+          "download": "646100176"
+        }
+      }
+    },
+    "600003": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4732990151561059978",
+          "size": "3860420011",
+          "download": "696207584"
+        }
+      }
+    },
+    "738680": {
+      "manifests": {
+        "public": {
+          "gid": "423917564991611047",
+          "size": "54748552",
+          "download": "54314640"
+        }
+      },
+      "dlcappid": "738680"
+    },
+    "branches": {
+      "public": {
+        "buildid": "2697277",
+        "timeupdated": "1523997536",
+        "timebuildupdated": "1523997536"
+      },
+      "linux_build": {
+        "buildid": "2212268",
+        "timeupdated": "1508415791",
+        "timebuildupdated": "1508415791"
+      },
+      "mac_build": {
+        "buildid": "2212269",
+        "timeupdated": "1508415815",
+        "timebuildupdated": "1508415815"
+      },
+      "test": {
+        "buildid": "2209447",
+        "timeupdated": "1508342765",
+        "timebuildupdated": "1508342765"
+      },
+      "windows_build": {
+        "buildid": "2221710",
+        "timeupdated": "1510170248",
+        "timebuildupdated": "1508756209"
+      }
+    }
+  }
+}

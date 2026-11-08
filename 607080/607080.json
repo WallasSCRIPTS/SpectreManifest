@@ -1,0 +1,82 @@
+{
+  "name": "Psychonauts 2",
+  "source": "spectre",
+  "changenumber": 40349882,
+  "updated": "2026-11-07T20:59:12.982Z",
+  "branches": {
+    "public": {
+      "buildid": "9282837",
+      "timeupdated": "1660777035",
+      "timebuildupdated": "1660067484"
+    },
+    "experimental": {
+      "buildid": "9282837",
+      "description": "Public beta branch",
+      "timeupdated": "1660776999",
+      "timebuildupdated": "1660067484"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "607081": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2013362132789734298",
+          "size": "32480997511",
+          "download": "31469501024"
+        }
+      }
+    },
+    "607082": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5241082906083670911",
+          "size": "33700978771",
+          "download": "31437125360"
+        }
+      }
+    },
+    "607083": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7511870219219421642",
+          "size": "32068988966",
+          "download": "31475695968"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9282837",
+        "timeupdated": "1660777035",
+        "timebuildupdated": "1660067484"
+      },
+      "experimental": {
+        "buildid": "9282837",
+        "description": "Public beta branch",
+        "timeupdated": "1660776999",
+        "timebuildupdated": "1660067484"
+      }
+    }
+  }
+}

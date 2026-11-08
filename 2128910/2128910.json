@@ -1,0 +1,70 @@
+{
+  "name": "Rebellion",
+  "source": "spectre",
+  "changenumber": 34885968,
+  "updated": "2026-11-06T23:17:35.359Z",
+  "branches": {
+    "public": {
+      "buildid": "12161997",
+      "timeupdated": "1694458622",
+      "timebuildupdated": "1694458612"
+    },
+    "beta": {
+      "buildid": "12161997",
+      "description": "Rebellion Beta Testing",
+      "timeupdated": "1694458612",
+      "timebuildupdated": "1694458612"
+    }
+  },
+  "depot": {
+    "2128911": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6552356712391899970",
+          "size": "265462944",
+          "download": "81523232"
+        }
+      }
+    },
+    "2128912": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "246522259508355604",
+          "size": "244094225",
+          "download": "74223888"
+        }
+      }
+    },
+    "2128913": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3785440541278133619",
+          "size": "474671368",
+          "download": "87443152"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12161997",
+        "timeupdated": "1694458622",
+        "timebuildupdated": "1694458612"
+      },
+      "beta": {
+        "buildid": "12161997",
+        "description": "Rebellion Beta Testing",
+        "timeupdated": "1694458612",
+        "timebuildupdated": "1694458612"
+      }
+    }
+  }
+}

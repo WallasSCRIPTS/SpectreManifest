@@ -1,0 +1,82 @@
+{
+  "name": "LookVR",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:07.162Z",
+  "branches": {
+    "public": {
+      "buildid": "3579836",
+      "timeupdated": "1550708710",
+      "timebuildupdated": "1550708193"
+    },
+    "beta": {
+      "buildid": "3579836",
+      "description": "The most recent beta version, not guaranteed to work.",
+      "timeupdated": "1550708193",
+      "timebuildupdated": "1550708193"
+    },
+    "release-1.0": {
+      "buildid": "1631392",
+      "description": "The final 1.0.x release, in case you're having problems.",
+      "timeupdated": "1550707743",
+      "timebuildupdated": "1487106365"
+    },
+    "release-1.1": {
+      "buildid": "1861357",
+      "description": "The final 1.1.x release, in case you're having problems.",
+      "timeupdated": "1550707707",
+      "timebuildupdated": "1496354855"
+    }
+  },
+  "depot": {
+    "595491": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4732992772484514899",
+          "size": "611017314",
+          "download": "235464304"
+        }
+      }
+    },
+    "595492": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6156282598049792261",
+          "size": "675933645",
+          "download": "288356896"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3579836",
+        "timeupdated": "1550708710",
+        "timebuildupdated": "1550708193"
+      },
+      "beta": {
+        "buildid": "3579836",
+        "description": "The most recent beta version, not guaranteed to work.",
+        "timeupdated": "1550708193",
+        "timebuildupdated": "1550708193"
+      },
+      "release-1.0": {
+        "buildid": "1631392",
+        "description": "The final 1.0.x release, in case you're having problems.",
+        "timeupdated": "1550707743",
+        "timebuildupdated": "1487106365"
+      },
+      "release-1.1": {
+        "buildid": "1861357",
+        "description": "The final 1.1.x release, in case you're having problems.",
+        "timeupdated": "1550707707",
+        "timebuildupdated": "1496354855"
+      }
+    }
+  }
+}

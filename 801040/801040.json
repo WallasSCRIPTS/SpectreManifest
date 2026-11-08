@@ -1,0 +1,71 @@
+{
+  "name": "Poly Universe",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:48.351Z",
+  "branches": {
+    "public": {
+      "buildid": "7802053",
+      "timeupdated": "1638441951",
+      "timebuildupdated": "1638283783"
+    },
+    "test": {
+      "buildid": "7802053",
+      "description": "The latest experimental version of the game.",
+      "timeupdated": "1638284155",
+      "timebuildupdated": "1638283783"
+    }
+  },
+  "depot": {
+    "801041": {},
+    "801042": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7796570198593824318",
+          "size": "186302390",
+          "download": "92740512"
+        }
+      }
+    },
+    "801043": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5235088010912799218",
+          "size": "190003554",
+          "download": "94036784"
+        }
+      }
+    },
+    "801044": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2636882243933509038",
+          "size": "200382308",
+          "download": "96030768"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7802053",
+        "timeupdated": "1638441951",
+        "timebuildupdated": "1638283783"
+      },
+      "test": {
+        "buildid": "7802053",
+        "description": "The latest experimental version of the game.",
+        "timeupdated": "1638284155",
+        "timebuildupdated": "1638283783"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "The Superfluous",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:22.527Z",
+  "branches": {
+    "public": {
+      "buildid": "9778874",
+      "timeupdated": "1666484786",
+      "timebuildupdated": "1666484786"
+    },
+    "linuxonly": {
+      "buildid": "5391723",
+      "description": "Only for linux users",
+      "timeupdated": "1666485078",
+      "timebuildupdated": "1597040895"
+    }
+  },
+  "depot": {
+    "507121": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7108051617680048534",
+          "size": "35360495",
+          "download": "26516656"
+        }
+      }
+    },
+    "507122": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2413524806524844458",
+          "size": "31155536",
+          "download": "16336992"
+        }
+      }
+    },
+    "507123": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4456684803693995054",
+          "size": "30454748",
+          "download": "17883952"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9778874",
+        "timeupdated": "1666484786",
+        "timebuildupdated": "1666484786"
+      },
+      "linuxonly": {
+        "buildid": "5391723",
+        "description": "Only for linux users",
+        "timeupdated": "1666485078",
+        "timebuildupdated": "1597040895"
+      }
+    }
+  }
+}

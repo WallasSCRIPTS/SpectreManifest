@@ -1,0 +1,64 @@
+{
+  "name": "Gladius",
+  "source": "spectre",
+  "changenumber": 39716393,
+  "updated": "2026-11-07T20:58:45.641Z",
+  "branches": {
+    "public": {
+      "buildid": "11655805",
+      "timeupdated": "1688812810",
+      "timebuildupdated": "1688811528"
+    },
+    "alpha": {
+      "buildid": "12186518",
+      "description": "Work in progress",
+      "timeupdated": "1694683271",
+      "timebuildupdated": "1694680626"
+    },
+    "beta": {
+      "buildid": "11655805",
+      "description": "Beta testing",
+      "timeupdated": "1688812800",
+      "timebuildupdated": "1688811528"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "556641": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6787864463921220028",
+          "size": "9039444075",
+          "download": "3475813696"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11655805",
+        "timeupdated": "1688812810",
+        "timebuildupdated": "1688811528"
+      },
+      "alpha": {
+        "buildid": "12186518",
+        "description": "Work in progress",
+        "timeupdated": "1694683271",
+        "timebuildupdated": "1694680626"
+      },
+      "beta": {
+        "buildid": "11655805",
+        "description": "Beta testing",
+        "timeupdated": "1688812800",
+        "timebuildupdated": "1688811528"
+      }
+    }
+  }
+}

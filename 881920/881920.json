@@ -1,0 +1,88 @@
+{
+  "name": "Depression The Game",
+  "source": "spectre",
+  "changenumber": 40553418,
+  "updated": "2026-11-07T21:01:24.753Z",
+  "branches": {
+    "public": {
+      "buildid": "4431607",
+      "timeupdated": "1574864502",
+      "timebuildupdated": "1574864410"
+    },
+    "patch-preview": {
+      "buildid": "4723238",
+      "description": "Patch current Alpha",
+      "timeupdated": "1582827020",
+      "timebuildupdated": "1582827020"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229005": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "881921": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2647127078201941710",
+          "size": "1873496655",
+          "download": "510510928"
+        }
+      }
+    },
+    "881922": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5625136164444365068",
+          "size": "1887603311",
+          "download": "517248768"
+        }
+      }
+    },
+    "881923": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5059855468731610079",
+          "size": "1890139320",
+          "download": "520485216"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4431607",
+        "timeupdated": "1574864502",
+        "timebuildupdated": "1574864410"
+      },
+      "patch-preview": {
+        "buildid": "4723238",
+        "description": "Patch current Alpha",
+        "timeupdated": "1582827020",
+        "timebuildupdated": "1582827020"
+      }
+    }
+  }
+}

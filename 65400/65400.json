@@ -1,0 +1,61 @@
+{
+  "name": "Archon:Classic",
+  "source": "spectre",
+  "changenumber": 40685371,
+  "updated": "2026-11-07T20:55:57.326Z",
+  "branches": {
+    "public": {
+      "buildid": "353804",
+      "timebuildupdated": "1407885643"
+    }
+  },
+  "depot": {
+    "65401": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8233933788588405990",
+          "size": "280303179",
+          "download": "106526421064"
+        }
+      }
+    },
+    "65402": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "353804",
+        "timebuildupdated": "1407885643"
+      }
+    }
+  }
+}

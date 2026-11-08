@@ -1,0 +1,66 @@
+{
+  "name": "NEO Scavenger Demo",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:18.960Z",
+  "branches": {
+    "public": {
+      "buildid": "264173",
+      "timebuildupdated": "1399930631"
+    },
+    "public_test": {
+      "buildid": "264173",
+      "description": "Public testing version: new features, new content, possibly new bugs",
+      "timebuildupdated": "1399930631"
+    }
+  },
+  "depot": {
+    "270681": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2100979987572465669",
+          "size": "22795603",
+          "download": "0"
+        }
+      }
+    },
+    "270682": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7346466309532020702",
+          "size": "53123172",
+          "download": "0"
+        }
+      }
+    },
+    "270683": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3832921197480313700",
+          "size": "33262472",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "264173",
+        "timebuildupdated": "1399930631"
+      },
+      "public_test": {
+        "buildid": "264173",
+        "description": "Public testing version: new features, new content, possibly new bugs",
+        "timebuildupdated": "1399930631"
+      }
+    }
+  }
+}

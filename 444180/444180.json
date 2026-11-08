@@ -1,0 +1,119 @@
+{
+  "name": "Techwars Online",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:53.396Z",
+  "branches": {
+    "public": {
+      "buildid": "1518210",
+      "timeupdated": "1481709045",
+      "timebuildupdated": "1481709045"
+    },
+    "local": {
+      "buildid": "974022",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1455299285"
+    },
+    "tests": {
+      "buildid": "1491758",
+      "timeupdated": "1480592871",
+      "timebuildupdated": "1480592871"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "444181": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "641123200449767824",
+          "size": "182188122",
+          "download": "73313456"
+        }
+      }
+    },
+    "456250": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2618049068154526237",
+          "size": "17844633",
+          "download": "17814624"
+        }
+      },
+      "dlcappid": "456250"
+    },
+    "458800": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2430528416443075471",
+          "size": "78331894",
+          "download": "78840336"
+        }
+      },
+      "dlcappid": "458800"
+    },
+    "458870": {
+      "config": {
+        "oslist": "windows"
+      },
+      "dlcappid": "458870"
+    },
+    "460690": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1862867134115867758",
+          "size": "586821",
+          "download": "594832"
+        }
+      },
+      "dlcappid": "460690"
+    },
+    "466880": {
+      "config": {
+        "oslist": "windows"
+      },
+      "dlcappid": "466880"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1518210",
+        "timeupdated": "1481709045",
+        "timebuildupdated": "1481709045"
+      },
+      "local": {
+        "buildid": "974022",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1455299285"
+      },
+      "tests": {
+        "buildid": "1491758",
+        "timeupdated": "1480592871",
+        "timebuildupdated": "1480592871"
+      }
+    }
+  }
+}

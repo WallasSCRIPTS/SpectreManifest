@@ -1,0 +1,70 @@
+{
+  "name": "SRX",
+  "source": "spectre",
+  "changenumber": 39715118,
+  "updated": "2026-11-07T21:03:05.135Z",
+  "branches": {
+    "public": {
+      "buildid": "7555867",
+      "timeupdated": "1634993098",
+      "timebuildupdated": "1634593771"
+    },
+    "development": {
+      "buildid": "7555867",
+      "description": "Latest unstable build",
+      "timeupdated": "1634593771",
+      "timebuildupdated": "1634593771"
+    }
+  },
+  "depot": {
+    "1083351": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4994304528537836495",
+          "size": "1386895827",
+          "download": "257262800"
+        }
+      }
+    },
+    "1083352": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2425719195890951219",
+          "size": "1412381430",
+          "download": "265942992"
+        }
+      }
+    },
+    "1083353": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5956614750804805218",
+          "size": "1433673543",
+          "download": "260125136"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7555867",
+        "timeupdated": "1634993098",
+        "timebuildupdated": "1634593771"
+      },
+      "development": {
+        "buildid": "7555867",
+        "description": "Latest unstable build",
+        "timeupdated": "1634593771",
+        "timebuildupdated": "1634593771"
+      }
+    }
+  }
+}

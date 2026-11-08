@@ -1,0 +1,46 @@
+{
+  "name": "Bad Credit",
+  "source": "spectre",
+  "changenumber": 40634123,
+  "updated": "2026-11-06T23:11:39.606Z",
+  "branches": {
+    "public": {
+      "buildid": "8659879",
+      "timeupdated": "1651443912",
+      "timebuildupdated": "1651443912"
+    }
+  },
+  "depot": {
+    "1857551": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8496703192122362411",
+          "size": "648829843",
+          "download": "146744560"
+        }
+      }
+    },
+    "1857552": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8639726880029661173",
+          "size": "671919680",
+          "download": "153861920"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8659879",
+        "timeupdated": "1651443912",
+        "timebuildupdated": "1651443912"
+      }
+    }
+  }
+}

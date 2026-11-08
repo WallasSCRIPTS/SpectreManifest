@@ -1,0 +1,64 @@
+{
+  "name": "Destiny of the World",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:00.699Z",
+  "branches": {
+    "public": {
+      "buildid": "23149046",
+      "timeupdated": "1778254730",
+      "timebuildupdated": "1778254730"
+    },
+    "dotwtest": {
+      "buildid": "22251821",
+      "description": "Public beta for upcoming Windows and Linux build. New saves use updated format; PBEM opponents should use same version",
+      "timeupdated": "1772999427",
+      "timebuildupdated": "1772979778"
+    }
+  },
+  "depot": {
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1264791": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9174343370014904182",
+          "size": "4427526698",
+          "download": "1770890512"
+        }
+      }
+    },
+    "1264792": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4885095582526042605",
+          "size": "4372344424",
+          "download": "1760119808"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23149046",
+        "timeupdated": "1778254730",
+        "timebuildupdated": "1778254730"
+      },
+      "dotwtest": {
+        "buildid": "22251821",
+        "description": "Public beta for upcoming Windows and Linux build. New saves use updated format; PBEM opponents should use same version",
+        "timeupdated": "1772999427",
+        "timebuildupdated": "1772979778"
+      }
+    }
+  }
+}

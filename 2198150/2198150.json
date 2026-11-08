@@ -1,0 +1,100 @@
+{
+  "name": "Tiny Glade",
+  "source": "spectre",
+  "changenumber": 40282410,
+  "updated": "2026-11-06T23:19:30.244Z",
+  "branches": {
+    "public": {
+      "buildid": "25804425",
+      "timeupdated": "1791465896",
+      "timebuildupdated": "1791464967"
+    },
+    "old-1_14_3": {
+      "buildid": "23216197",
+      "description": " Old version (before wood)",
+      "timeupdated": "1778677520",
+      "timebuildupdated": "1778677520"
+    },
+    "old-1_14_2": {
+      "buildid": "19455150",
+      "description": "Previous build",
+      "timeupdated": "1759924312",
+      "timebuildupdated": "1754137766"
+    },
+    "old-1_13_2": {
+      "buildid": "17954093",
+      "description": "Old version (before stairs)",
+      "timeupdated": "1753708226",
+      "timebuildupdated": "1743595011"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2198151": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6363595384434859966",
+          "size": "3260743863",
+          "download": "1735694448"
+        }
+      }
+    },
+    "2198152": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "920017670821835985",
+          "size": "3360944702",
+          "download": "1732896432"
+        }
+      }
+    },
+    "2198153": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5101424030963100790",
+          "size": "2970189751",
+          "download": "1704114592"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25804425",
+        "timeupdated": "1791465896",
+        "timebuildupdated": "1791464967"
+      },
+      "old-1_14_3": {
+        "buildid": "23216197",
+        "description": " Old version (before wood)",
+        "timeupdated": "1778677520",
+        "timebuildupdated": "1778677520"
+      },
+      "old-1_14_2": {
+        "buildid": "19455150",
+        "description": "Previous build",
+        "timeupdated": "1759924312",
+        "timebuildupdated": "1754137766"
+      },
+      "old-1_13_2": {
+        "buildid": "17954093",
+        "description": "Old version (before stairs)",
+        "timeupdated": "1753708226",
+        "timebuildupdated": "1743595011"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Escape from the Cosmic Abyss Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-05T14:57:15.891Z",
+  "branches": {
+    "public": {
+      "buildid": "6229848",
+      "timeupdated": "1613123281",
+      "timebuildupdated": "1613123224"
+    },
+    "glibc-linux-compatibility": {
+      "buildid": "6229839",
+      "description": " Branch to try out in case you're facing linux errors and compatibility issues",
+      "timeupdated": "1613123143",
+      "timebuildupdated": "1613123086"
+    }
+  },
+  "depot": {
+    "1315252": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "1315250"
+    },
+    "1534361": {
+      "manifests": {
+        "public": {
+          "gid": "2893835691115354482",
+          "size": "222588576",
+          "download": "75451120"
+        }
+      }
+    },
+    "1534362": {
+      "manifests": {
+        "public": {
+          "gid": "2846738324142090539",
+          "size": "81011199",
+          "download": "22539824"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6229848",
+        "timeupdated": "1613123281",
+        "timebuildupdated": "1613123224"
+      },
+      "glibc-linux-compatibility": {
+        "buildid": "6229839",
+        "description": " Branch to try out in case you're facing linux errors and compatibility issues",
+        "timeupdated": "1613123143",
+        "timebuildupdated": "1613123086"
+      }
+    }
+  }
+}

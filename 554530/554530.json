@@ -1,0 +1,64 @@
+{
+  "name": "Crackhead",
+  "source": "spectre",
+  "changenumber": 39537298,
+  "updated": "2026-11-07T20:58:44.405Z",
+  "branches": {
+    "public": {
+      "buildid": "25561387",
+      "timeupdated": "1790888695",
+      "timebuildupdated": "1790520391"
+    },
+    "beta": {
+      "buildid": "25561387",
+      "description": "Betahead",
+      "timeupdated": "1790520391",
+      "timebuildupdated": "1790520391"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "554531": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1446086755523442654",
+          "size": "152956367",
+          "download": "135133616"
+        }
+      }
+    },
+    "554532": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "409204026963927375",
+          "size": "151626484",
+          "download": "134454432"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25561387",
+        "timeupdated": "1790888695",
+        "timebuildupdated": "1790520391"
+      },
+      "beta": {
+        "buildid": "25561387",
+        "description": "Betahead",
+        "timeupdated": "1790520391",
+        "timebuildupdated": "1790520391"
+      }
+    }
+  }
+}

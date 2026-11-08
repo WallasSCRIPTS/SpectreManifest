@@ -1,0 +1,56 @@
+{
+  "name": "Button Frenzy",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:58.981Z",
+  "branches": {
+    "public": {
+      "buildid": "1373561",
+      "timeupdated": "1475612560",
+      "timebuildupdated": "1475601254"
+    },
+    "rollback_branch": {
+      "buildid": "1227750",
+      "timeupdated": "1471959566",
+      "timebuildupdated": "1468507741"
+    }
+  },
+  "depot": {
+    "454631": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4714698196675528214",
+          "size": "564856399",
+          "download": "538155568"
+        }
+      }
+    },
+    "454632": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4182967462787494479",
+          "size": "408964076",
+          "download": "301002480"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1373561",
+        "timeupdated": "1475612560",
+        "timebuildupdated": "1475601254"
+      },
+      "rollback_branch": {
+        "buildid": "1227750",
+        "timeupdated": "1471959566",
+        "timebuildupdated": "1468507741"
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "name": "RESTLESS SOUL",
+  "source": "spectre",
+  "changenumber": 39521479,
+  "updated": "2026-11-06T23:09:42.380Z",
+  "branches": {
+    "public": {
+      "buildid": "13967495",
+      "timeupdated": "1712348048",
+      "timebuildupdated": "1712348048"
+    },
+    "local": {
+      "buildid": "7326065",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1631131868",
+      "timebuildupdated": "1631131868"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1748231": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3782838833569051370",
+          "size": "222460977",
+          "download": "68450832"
+        }
+      }
+    },
+    "1748232": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6964512482677385642",
+          "size": "236278333",
+          "download": "72958544"
+        }
+      }
+    },
+    "1748233": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5323537007614022266",
+          "size": "242227283",
+          "download": "68321904"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13967495",
+        "timeupdated": "1712348048",
+        "timebuildupdated": "1712348048"
+      },
+      "local": {
+        "buildid": "7326065",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1631131868",
+        "timebuildupdated": "1631131868"
+      }
+    }
+  }
+}

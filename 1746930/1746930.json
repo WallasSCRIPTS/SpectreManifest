@@ -1,0 +1,70 @@
+{
+  "name": "SunnySide",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:09:42.210Z",
+  "branches": {
+    "public": {
+      "buildid": "17710725",
+      "timeupdated": "1741884868",
+      "timebuildupdated": "1741878120"
+    },
+    "public-beta": {
+      "buildid": "17710725",
+      "description": "Early preview for new versions of SunnySide.",
+      "timeupdated": "1741884895",
+      "timebuildupdated": "1741878120"
+    },
+    "public-demo": {
+      "buildid": "14487956",
+      "description": "Select this to play the public demo version",
+      "timeupdated": "1719600403",
+      "timebuildupdated": "1716585548"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1746931": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "616929402053533626",
+          "size": "25380870780",
+          "download": "5877544528"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17710725",
+        "timeupdated": "1741884868",
+        "timebuildupdated": "1741878120"
+      },
+      "public-beta": {
+        "buildid": "17710725",
+        "description": "Early preview for new versions of SunnySide.",
+        "timeupdated": "1741884895",
+        "timebuildupdated": "1741878120"
+      },
+      "public-demo": {
+        "buildid": "14487956",
+        "description": "Select this to play the public demo version",
+        "timeupdated": "1719600403",
+        "timebuildupdated": "1716585548"
+      }
+    }
+  }
+}

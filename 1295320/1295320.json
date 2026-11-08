@@ -1,0 +1,58 @@
+{
+  "name": "Can of Wormholes",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:14.358Z",
+  "branches": {
+    "public": {
+      "buildid": "11244126",
+      "timeupdated": "1684416182",
+      "timebuildupdated": "1684244398"
+    },
+    "beta": {
+      "buildid": "12205817",
+      "description": "Beta testing",
+      "timeupdated": "1694858409",
+      "timebuildupdated": "1694857588"
+    }
+  },
+  "depot": {
+    "1295321": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3301139376876369993",
+          "size": "56565002",
+          "download": "51018592"
+        }
+      }
+    },
+    "1295322": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4998180635470575834",
+          "size": "53412002",
+          "download": "49867856"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11244126",
+        "timeupdated": "1684416182",
+        "timebuildupdated": "1684244398"
+      },
+      "beta": {
+        "buildid": "12205817",
+        "description": "Beta testing",
+        "timeupdated": "1694858409",
+        "timebuildupdated": "1694857588"
+      }
+    }
+  }
+}

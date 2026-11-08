@@ -1,0 +1,58 @@
+{
+  "name": "Archmage Rises",
+  "source": "spectre",
+  "changenumber": 40437865,
+  "updated": "2026-11-07T20:58:22.263Z",
+  "branches": {
+    "public": {
+      "buildid": "21443728",
+      "timeupdated": "1768330927",
+      "timebuildupdated": "1767999257"
+    },
+    "beta": {
+      "buildid": "23969320",
+      "description": "Threats QA 0.5.0",
+      "timeupdated": "1782764165",
+      "timebuildupdated": "1782750579"
+    }
+  },
+  "depot": {
+    "506481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5674228407482407500",
+          "size": "5449735496",
+          "download": "1854505936"
+        }
+      }
+    },
+    "506482": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2410314182085394316",
+          "size": "5475867944",
+          "download": "1870933136"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21443728",
+        "timeupdated": "1768330927",
+        "timebuildupdated": "1767999257"
+      },
+      "beta": {
+        "buildid": "23969320",
+        "description": "Threats QA 0.5.0",
+        "timeupdated": "1782764165",
+        "timebuildupdated": "1782750579"
+      }
+    }
+  }
+}

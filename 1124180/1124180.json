@@ -1,0 +1,250 @@
+{
+  "name": "Rail Route",
+  "source": "spectre",
+  "changenumber": 40694885,
+  "updated": "2026-11-07T21:03:32.493Z",
+  "branches": {
+    "public": {
+      "buildid": "26137843",
+      "timeupdated": "1792853786",
+      "timebuildupdated": "1792684275"
+    },
+    "backwards": {
+      "buildid": "14562081",
+      "description": "Previous version",
+      "timeupdated": "1729494278",
+      "timebuildupdated": "1717165694"
+    },
+    "ea_00": {
+      "buildid": "7126149",
+      "description": "Early Access (1.0.18)",
+      "timeupdated": "1716199676",
+      "timebuildupdated": "1627928250"
+    },
+    "ea_02": {
+      "buildid": "7926992",
+      "description": "Early Access Update 2 (1.2.34)",
+      "timeupdated": "1716199625",
+      "timebuildupdated": "1640177934"
+    },
+    "ea_10": {
+      "buildid": "10783734",
+      "description": "Early Access Update 10 (1.10.7)",
+      "timeupdated": "1716199005",
+      "timebuildupdated": "1678962736"
+    },
+    "ea_11": {
+      "buildid": "11286208",
+      "description": "Early Access Update 11 (1.11.20)",
+      "timeupdated": "1716199023",
+      "timebuildupdated": "1684747967"
+    },
+    "ea_12": {
+      "buildid": "11632736",
+      "description": "Early Access Update 12 ( 1.12.12)",
+      "timeupdated": "1716199037",
+      "timebuildupdated": "1688576773"
+    },
+    "ea_13": {
+      "buildid": "11704524",
+      "description": "Early Access Update 13 (1.13.4)",
+      "timeupdated": "1716199057",
+      "timebuildupdated": "1689347101"
+    },
+    "ea_14": {
+      "buildid": "11870521",
+      "description": "Early Access Update 14 (1.14.6)",
+      "timeupdated": "1716199375",
+      "timebuildupdated": "1691178236"
+    },
+    "ea_15": {
+      "buildid": "12190165",
+      "description": "Early Access Update 15 (1.15.11)",
+      "timeupdated": "1716199391",
+      "timebuildupdated": "1694706626"
+    },
+    "ea_16": {
+      "buildid": "12437843",
+      "description": "Early Access Update 16 (1.16.16)",
+      "timeupdated": "1716199431",
+      "timebuildupdated": "1697231439"
+    },
+    "ea_17": {
+      "buildid": "12822389",
+      "description": "Early Access Update 17  (1.17.18",
+      "timeupdated": "1716199450",
+      "timebuildupdated": "1701212622"
+    },
+    "ea_18": {
+      "buildid": "13107021",
+      "description": "Early Access Update 18 (1.18.13)",
+      "timeupdated": "1716199465",
+      "timebuildupdated": "1704535424"
+    },
+    "next_unity": {
+      "buildid": "19038999",
+      "description": "Published version built by next Unity version",
+      "timeupdated": "1751144666",
+      "timebuildupdated": "1751144209"
+    },
+    "rr_00": {
+      "buildid": "14334888",
+      "description": "Full Release (2.0.20)",
+      "timeupdated": "1716291599",
+      "timebuildupdated": "1715408781"
+    },
+    "rr_01": {
+      "buildid": "14562081",
+      "description": "Update 1 (2.1.21)",
+      "timeupdated": "1728916292",
+      "timebuildupdated": "1717165694"
+    },
+    "rr_02": {
+      "buildid": "17170812",
+      "description": "Update 2 (2.2.10)",
+      "timeupdated": "1741816352",
+      "timebuildupdated": "1738154591"
+    }
+  },
+  "depot": {
+    "1124182": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3326930774975808804",
+          "size": "720772637",
+          "download": "379574112"
+        }
+      }
+    },
+    "1124183": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1439808256241266890",
+          "size": "771977815",
+          "download": "392681152"
+        }
+      }
+    },
+    "1124184": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "559561545558275084",
+          "size": "749747689",
+          "download": "376548816"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26137843",
+        "timeupdated": "1792853786",
+        "timebuildupdated": "1792684275"
+      },
+      "backwards": {
+        "buildid": "14562081",
+        "description": "Previous version",
+        "timeupdated": "1729494278",
+        "timebuildupdated": "1717165694"
+      },
+      "ea_00": {
+        "buildid": "7126149",
+        "description": "Early Access (1.0.18)",
+        "timeupdated": "1716199676",
+        "timebuildupdated": "1627928250"
+      },
+      "ea_02": {
+        "buildid": "7926992",
+        "description": "Early Access Update 2 (1.2.34)",
+        "timeupdated": "1716199625",
+        "timebuildupdated": "1640177934"
+      },
+      "ea_10": {
+        "buildid": "10783734",
+        "description": "Early Access Update 10 (1.10.7)",
+        "timeupdated": "1716199005",
+        "timebuildupdated": "1678962736"
+      },
+      "ea_11": {
+        "buildid": "11286208",
+        "description": "Early Access Update 11 (1.11.20)",
+        "timeupdated": "1716199023",
+        "timebuildupdated": "1684747967"
+      },
+      "ea_12": {
+        "buildid": "11632736",
+        "description": "Early Access Update 12 ( 1.12.12)",
+        "timeupdated": "1716199037",
+        "timebuildupdated": "1688576773"
+      },
+      "ea_13": {
+        "buildid": "11704524",
+        "description": "Early Access Update 13 (1.13.4)",
+        "timeupdated": "1716199057",
+        "timebuildupdated": "1689347101"
+      },
+      "ea_14": {
+        "buildid": "11870521",
+        "description": "Early Access Update 14 (1.14.6)",
+        "timeupdated": "1716199375",
+        "timebuildupdated": "1691178236"
+      },
+      "ea_15": {
+        "buildid": "12190165",
+        "description": "Early Access Update 15 (1.15.11)",
+        "timeupdated": "1716199391",
+        "timebuildupdated": "1694706626"
+      },
+      "ea_16": {
+        "buildid": "12437843",
+        "description": "Early Access Update 16 (1.16.16)",
+        "timeupdated": "1716199431",
+        "timebuildupdated": "1697231439"
+      },
+      "ea_17": {
+        "buildid": "12822389",
+        "description": "Early Access Update 17  (1.17.18",
+        "timeupdated": "1716199450",
+        "timebuildupdated": "1701212622"
+      },
+      "ea_18": {
+        "buildid": "13107021",
+        "description": "Early Access Update 18 (1.18.13)",
+        "timeupdated": "1716199465",
+        "timebuildupdated": "1704535424"
+      },
+      "next_unity": {
+        "buildid": "19038999",
+        "description": "Published version built by next Unity version",
+        "timeupdated": "1751144666",
+        "timebuildupdated": "1751144209"
+      },
+      "rr_00": {
+        "buildid": "14334888",
+        "description": "Full Release (2.0.20)",
+        "timeupdated": "1716291599",
+        "timebuildupdated": "1715408781"
+      },
+      "rr_01": {
+        "buildid": "14562081",
+        "description": "Update 1 (2.1.21)",
+        "timeupdated": "1728916292",
+        "timebuildupdated": "1717165694"
+      },
+      "rr_02": {
+        "buildid": "17170812",
+        "description": "Update 2 (2.2.10)",
+        "timeupdated": "1741816352",
+        "timebuildupdated": "1738154591"
+      }
+    }
+  }
+}

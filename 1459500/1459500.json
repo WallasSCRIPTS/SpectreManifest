@@ -1,0 +1,70 @@
+{
+  "name": "Atlas Architect",
+  "source": "spectre",
+  "changenumber": 40179233,
+  "updated": "2026-11-06T21:05:26.149Z",
+  "branches": {
+    "public": {
+      "buildid": "6733886",
+      "timeupdated": "1621545102",
+      "timebuildupdated": "1621544772"
+    },
+    "beta": {
+      "buildid": "6733886",
+      "description": "This is a beta branch to test out new features that will come",
+      "timeupdated": "1621545083",
+      "timebuildupdated": "1621544772"
+    },
+    "stable": {
+      "buildid": "6598319",
+      "description": "The previous version in case you need to go back a version",
+      "timeupdated": "1619961680",
+      "timebuildupdated": "1619386244"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1459501": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5496545432038848087",
+          "size": "2550153910",
+          "download": "660446720"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6733886",
+        "timeupdated": "1621545102",
+        "timebuildupdated": "1621544772"
+      },
+      "beta": {
+        "buildid": "6733886",
+        "description": "This is a beta branch to test out new features that will come",
+        "timeupdated": "1621545083",
+        "timebuildupdated": "1621544772"
+      },
+      "stable": {
+        "buildid": "6598319",
+        "description": "The previous version in case you need to go back a version",
+        "timeupdated": "1619961680",
+        "timebuildupdated": "1619386244"
+      }
+    }
+  }
+}

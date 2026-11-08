@@ -1,0 +1,55 @@
+{
+  "name": "The Wild at Heart",
+  "source": "spectre",
+  "changenumber": 40589546,
+  "updated": "2026-11-07T21:03:11.297Z",
+  "branches": {
+    "public": {
+      "buildid": "21785446",
+      "timeupdated": "1770320441",
+      "timebuildupdated": "1770226118"
+    },
+    "mac_1_1_10": {
+      "buildid": "21725732",
+      "description": "experimental branch for mac update",
+      "timeupdated": "1770320377",
+      "timebuildupdated": "1769826940"
+    }
+  },
+  "depot": {
+    "1093291": {
+      "manifests": {
+        "public": {
+          "gid": "3855331970924626211",
+          "size": "2765490969",
+          "download": "826312752"
+        }
+      }
+    },
+    "1093292": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7552276066976818631",
+          "size": "2756551528",
+          "download": "798121920"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21785446",
+        "timeupdated": "1770320441",
+        "timebuildupdated": "1770226118"
+      },
+      "mac_1_1_10": {
+        "buildid": "21725732",
+        "description": "experimental branch for mac update",
+        "timeupdated": "1770320377",
+        "timebuildupdated": "1769826940"
+      }
+    }
+  }
+}

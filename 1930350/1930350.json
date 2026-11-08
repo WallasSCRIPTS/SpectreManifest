@@ -1,0 +1,63 @@
+{
+  "name": "Fallen Worlds",
+  "source": "spectre",
+  "changenumber": 40511989,
+  "updated": "2026-11-06T23:13:34.877Z",
+  "branches": {
+    "public": {
+      "buildid": "22057223",
+      "timeupdated": "1771860903",
+      "timebuildupdated": "1771860878"
+    },
+    "alpha": {
+      "buildid": "25469794",
+      "description": "Stable branch for newer updates",
+      "timeupdated": "1790310195",
+      "timebuildupdated": "1790117201"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1930351": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1408316989577161154",
+          "size": "3714299982",
+          "download": "3304445952"
+        }
+      }
+    },
+    "1930352": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22057223",
+        "timeupdated": "1771860903",
+        "timebuildupdated": "1771860878"
+      },
+      "alpha": {
+        "buildid": "25469794",
+        "description": "Stable branch for newer updates",
+        "timeupdated": "1790310195",
+        "timebuildupdated": "1790117201"
+      }
+    }
+  }
+}

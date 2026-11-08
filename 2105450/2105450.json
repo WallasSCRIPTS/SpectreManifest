@@ -1,0 +1,58 @@
+{
+  "name": "Flight Level",
+  "source": "spectre",
+  "changenumber": 38767378,
+  "updated": "2026-11-06T23:17:32.552Z",
+  "branches": {
+    "public": {
+      "buildid": "15804542",
+      "timeupdated": "1727158915",
+      "timebuildupdated": "1727158915"
+    },
+    "development": {
+      "buildid": "15832205",
+      "description": "Testing and development builds",
+      "timeupdated": "1727329332",
+      "timebuildupdated": "1727329332"
+    }
+  },
+  "depot": {
+    "2105451": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "307090844276866589",
+          "size": "378043297",
+          "download": "221871248"
+        }
+      }
+    },
+    "2105452": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4766915985412493952",
+          "size": "397147014",
+          "download": "231984720"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15804542",
+        "timeupdated": "1727158915",
+        "timebuildupdated": "1727158915"
+      },
+      "development": {
+        "buildid": "15832205",
+        "description": "Testing and development builds",
+        "timeupdated": "1727329332",
+        "timebuildupdated": "1727329332"
+      }
+    }
+  }
+}

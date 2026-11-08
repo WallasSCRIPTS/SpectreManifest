@@ -1,0 +1,58 @@
+{
+  "name": "Rogue Planet",
+  "source": "spectre",
+  "changenumber": 39229847,
+  "updated": "2026-11-04T23:25:42.353Z",
+  "branches": {
+    "public": {
+      "buildid": "25550563",
+      "timeupdated": "1790448961",
+      "timebuildupdated": "1790446442"
+    },
+    "internal_test": {
+      "buildid": "25550563",
+      "description": "testing",
+      "timeupdated": "1790446559",
+      "timebuildupdated": "1790446442"
+    }
+  },
+  "depot": {
+    "4544823": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8064893191793000347",
+          "size": "874177343",
+          "download": "521289248"
+        }
+      }
+    },
+    "4544824": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6827448589757346004",
+          "size": "713446585",
+          "download": "490304800"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25550563",
+        "timeupdated": "1790448961",
+        "timebuildupdated": "1790446442"
+      },
+      "internal_test": {
+        "buildid": "25550563",
+        "description": "testing",
+        "timeupdated": "1790446559",
+        "timebuildupdated": "1790446442"
+      }
+    }
+  }
+}

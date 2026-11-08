@@ -1,0 +1,60 @@
+{
+  "name": "Maelstrom",
+  "source": "spectre",
+  "changenumber": 40615790,
+  "updated": "2026-11-07T21:00:30.617Z",
+  "branches": {
+    "public": {
+      "buildid": "17505083",
+      "timeupdated": "1740514888",
+      "timebuildupdated": "1740514766"
+    },
+    "local": {
+      "buildid": "16280912",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1730661009",
+      "timebuildupdated": "1730661009"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "764051": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1747303118339332953",
+          "size": "6351788993",
+          "download": "3495847152"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17505083",
+        "timeupdated": "1740514888",
+        "timebuildupdated": "1740514766"
+      },
+      "local": {
+        "buildid": "16280912",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1730661009",
+        "timebuildupdated": "1730661009"
+      }
+    }
+  }
+}

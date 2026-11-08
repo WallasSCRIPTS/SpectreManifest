@@ -1,0 +1,56 @@
+{
+  "name": "Gunspell: Steam Edition",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:43.204Z",
+  "branches": {
+    "public": {
+      "buildid": "416100",
+      "timebuildupdated": "1413874653"
+    }
+  },
+  "depot": {
+    "328101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5589067849788643425",
+          "size": "383991259",
+          "download": "20243936440"
+        }
+      }
+    },
+    "328102": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5001945931832801307",
+          "size": "412771181",
+          "download": "576107363370"
+        }
+      }
+    },
+    "328103": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2316934744142108211",
+          "size": "418283394",
+          "download": "140027623677"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "416100",
+        "timebuildupdated": "1413874653"
+      }
+    }
+  }
+}

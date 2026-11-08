@@ -1,0 +1,55 @@
+{
+  "name": "QuiVr Demo",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:15.670Z",
+  "branches": {
+    "public": {
+      "buildid": "1980346",
+      "timeupdated": "1500754709",
+      "timebuildupdated": "1500754169"
+    },
+    "linuxtest": {
+      "buildid": "2967257",
+      "timeupdated": "1532292516",
+      "timebuildupdated": "1532292516"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "494481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6896533471156764431",
+          "size": "1892620982",
+          "download": "754833392"
+        }
+      }
+    },
+    "494482": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1980346",
+        "timeupdated": "1500754709",
+        "timebuildupdated": "1500754169"
+      },
+      "linuxtest": {
+        "buildid": "2967257",
+        "timeupdated": "1532292516",
+        "timebuildupdated": "1532292516"
+      }
+    }
+  }
+}

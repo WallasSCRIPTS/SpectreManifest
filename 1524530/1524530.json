@@ -1,0 +1,70 @@
+{
+  "name": "Fantasy Town Regional Manager",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:54.068Z",
+  "branches": {
+    "public": {
+      "buildid": "17824657",
+      "timeupdated": "1742711768",
+      "timebuildupdated": "1742708195"
+    },
+    "beta": {
+      "buildid": "17824657",
+      "description": "External testing branch",
+      "timeupdated": "1742708273",
+      "timebuildupdated": "1742708195"
+    }
+  },
+  "depot": {
+    "1524531": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "331803665180077069",
+          "size": "275323810",
+          "download": "75109408"
+        }
+      }
+    },
+    "1524532": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1743311708810268907",
+          "size": "252424822",
+          "download": "68382560"
+        }
+      }
+    },
+    "1524533": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4704329418744685907",
+          "size": "257050322",
+          "download": "69255200"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17824657",
+        "timeupdated": "1742711768",
+        "timebuildupdated": "1742708195"
+      },
+      "beta": {
+        "buildid": "17824657",
+        "description": "External testing branch",
+        "timeupdated": "1742708273",
+        "timebuildupdated": "1742708195"
+      }
+    }
+  }
+}

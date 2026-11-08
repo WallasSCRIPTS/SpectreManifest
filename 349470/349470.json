@@ -1,0 +1,83 @@
+{
+  "name": "Drift Stage",
+  "source": "spectre",
+  "changenumber": 40548349,
+  "updated": "2026-11-07T20:57:02.593Z",
+  "branches": {
+    "public": {
+      "buildid": "23205026",
+      "timeupdated": "1779560212",
+      "timebuildupdated": "1778620709"
+    },
+    "experimental": {
+      "buildid": "23205026",
+      "description": "public testing branch",
+      "timeupdated": "1779560212",
+      "timebuildupdated": "1778620709"
+    },
+    "legacy": {
+      "buildid": "2638673",
+      "description": "Build Archive.",
+      "timeupdated": "1522192690",
+      "timebuildupdated": "1522192603"
+    }
+  },
+  "depot": {
+    "349471": {},
+    "349472": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2331176496164943974",
+          "size": "464039512",
+          "download": "164665936"
+        }
+      }
+    },
+    "349473": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1107402544982169054",
+          "size": "229694687",
+          "download": "105612688"
+        }
+      }
+    },
+    "349474": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "10746032437497056",
+          "size": "379466174",
+          "download": "145642240"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23205026",
+        "timeupdated": "1779560212",
+        "timebuildupdated": "1778620709"
+      },
+      "experimental": {
+        "buildid": "23205026",
+        "description": "public testing branch",
+        "timeupdated": "1779560212",
+        "timebuildupdated": "1778620709"
+      },
+      "legacy": {
+        "buildid": "2638673",
+        "description": "Build Archive.",
+        "timeupdated": "1522192690",
+        "timebuildupdated": "1522192603"
+      }
+    }
+  }
+}

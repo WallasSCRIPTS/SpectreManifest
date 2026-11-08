@@ -1,0 +1,82 @@
+{
+  "name": "Swarm Grinder",
+  "source": "spectre",
+  "changenumber": 40416343,
+  "updated": "2026-11-06T21:04:47.035Z",
+  "branches": {
+    "public": {
+      "buildid": "26271310",
+      "timeupdated": "1793353157",
+      "timebuildupdated": "1793193392"
+    },
+    "beta": {
+      "buildid": "26271310",
+      "description": "for testing new stuff",
+      "timeupdated": "1793193392",
+      "timebuildupdated": "1793193392"
+    },
+    "control": {
+      "buildid": "16698708",
+      "description": "control for optimization",
+      "timeupdated": "1733860857",
+      "timebuildupdated": "1733860818"
+    }
+  },
+  "depot": {
+    "1375901": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3836573904904150966",
+          "size": "1194212940",
+          "download": "130918192"
+        }
+      }
+    },
+    "1375902": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7482643289654431151",
+          "size": "1173748352",
+          "download": "120433552"
+        }
+      }
+    },
+    "1375903": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1964502674550457612",
+          "size": "1172369656",
+          "download": "122472624"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26271310",
+        "timeupdated": "1793353157",
+        "timebuildupdated": "1793193392"
+      },
+      "beta": {
+        "buildid": "26271310",
+        "description": "for testing new stuff",
+        "timeupdated": "1793193392",
+        "timebuildupdated": "1793193392"
+      },
+      "control": {
+        "buildid": "16698708",
+        "description": "control for optimization",
+        "timeupdated": "1733860857",
+        "timebuildupdated": "1733860818"
+      }
+    }
+  }
+}

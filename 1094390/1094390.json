@@ -1,0 +1,68 @@
+{
+  "name": "Waltz of the Wizard",
+  "source": "spectre",
+  "changenumber": 40260251,
+  "updated": "2026-11-07T21:03:11.949Z",
+  "branches": {
+    "public": {
+      "buildid": "25253957",
+      "timeupdated": "1789131866",
+      "timebuildupdated": "1789131866"
+    },
+    "vive": {
+      "buildid": "24674677",
+      "description": "Test to fix Vive issue",
+      "timeupdated": "1786546341",
+      "timebuildupdated": "1786460718"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1094391": {
+      "manifests": {
+        "public": {
+          "gid": "181508723519347115",
+          "size": "8068813357",
+          "download": "4351619072"
+        }
+      }
+    },
+    "1094392": {
+      "config": {
+        "oslist": "android"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3881991893124001711",
+          "size": "2203359269",
+          "download": "2066112672"
+        }
+      }
+    },
+    "1094399": {},
+    "branches": {
+      "public": {
+        "buildid": "25253957",
+        "timeupdated": "1789131866",
+        "timebuildupdated": "1789131866"
+      },
+      "vive": {
+        "buildid": "24674677",
+        "description": "Test to fix Vive issue",
+        "timeupdated": "1786546341",
+        "timebuildupdated": "1786460718"
+      }
+    }
+  }
+}

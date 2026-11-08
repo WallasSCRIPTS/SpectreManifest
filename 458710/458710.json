@@ -1,0 +1,92 @@
+{
+  "name": "Kingdom Rush Frontiers",
+  "source": "spectre",
+  "changenumber": 39198363,
+  "updated": "2026-11-07T20:58:01.661Z",
+  "branches": {
+    "public": {
+      "buildid": "24662442",
+      "timeupdated": "1786534230",
+      "timebuildupdated": "1786404053"
+    },
+    "legacy": {
+      "buildid": "5740241",
+      "description": "Previous version",
+      "timeupdated": "1630585602",
+      "timebuildupdated": "1603750196"
+    },
+    "beta": {
+      "buildid": "24662442",
+      "timeupdated": "1786404069",
+      "timebuildupdated": "1786404053"
+    },
+    "win32-linux": {
+      "buildid": "7273407",
+      "description": "Last version with Win32 and Linux support (v 5.4.08)",
+      "timeupdated": "1630431746",
+      "timebuildupdated": "1630333762"
+    }
+  },
+  "depot": {
+    "458711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1657977831199078496",
+          "size": "466390440",
+          "download": "461584768"
+        }
+      }
+    },
+    "458712": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2454419441064721306",
+          "size": "476443481",
+          "download": "463749296"
+        }
+      }
+    },
+    "458713": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "383655433049976343",
+          "size": "481762893",
+          "download": "464484912"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24662442",
+        "timeupdated": "1786534230",
+        "timebuildupdated": "1786404053"
+      },
+      "legacy": {
+        "buildid": "5740241",
+        "description": "Previous version",
+        "timeupdated": "1630585602",
+        "timebuildupdated": "1603750196"
+      },
+      "beta": {
+        "buildid": "24662442",
+        "timeupdated": "1786404069",
+        "timebuildupdated": "1786404053"
+      },
+      "win32-linux": {
+        "buildid": "7273407",
+        "description": "Last version with Win32 and Linux support (v 5.4.08)",
+        "timeupdated": "1630431746",
+        "timebuildupdated": "1630333762"
+      }
+    }
+  }
+}

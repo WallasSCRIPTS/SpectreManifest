@@ -1,0 +1,118 @@
+{
+  "name": "DDNet",
+  "source": "spectre",
+  "changenumber": 40686912,
+  "updated": "2026-11-07T20:57:38.006Z",
+  "branches": {
+    "public": {
+      "buildid": "26241779",
+      "timeupdated": "1793100716",
+      "timebuildupdated": "1793099864"
+    },
+    "beta": {
+      "buildid": "26496255",
+      "description": "Nightly Builds",
+      "timeupdated": "1794004310",
+      "timebuildupdated": "1794004310"
+    },
+    "releasecandidates": {
+      "buildid": "26241779",
+      "description": "Release Candidates",
+      "timeupdated": "1793099864",
+      "timebuildupdated": "1793099864"
+    }
+  },
+  "depot": {
+    "412221": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "30824853893746240",
+          "size": "54206298",
+          "download": "40808384"
+        }
+      }
+    },
+    "412222": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1059526987005335531",
+          "size": "49028055",
+          "download": "18904400"
+        }
+      }
+    },
+    "412223": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2807638486590138961",
+          "size": "49257175",
+          "download": "19337472"
+        }
+      }
+    },
+    "412224": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4995281532258510274",
+          "size": "146189407",
+          "download": "77157456"
+        }
+      }
+    },
+    "412225": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2885457189104181676",
+          "size": "49765977",
+          "download": "17377744"
+        }
+      }
+    },
+    "412226": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7764453846301179167",
+          "size": "41776702",
+          "download": "16399776"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26241779",
+        "timeupdated": "1793100716",
+        "timebuildupdated": "1793099864"
+      },
+      "beta": {
+        "buildid": "26496255",
+        "description": "Nightly Builds",
+        "timeupdated": "1794004310",
+        "timebuildupdated": "1794004310"
+      },
+      "releasecandidates": {
+        "buildid": "26241779",
+        "description": "Release Candidates",
+        "timeupdated": "1793099864",
+        "timebuildupdated": "1793099864"
+      }
+    }
+  }
+}

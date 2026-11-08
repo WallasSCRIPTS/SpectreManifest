@@ -1,0 +1,82 @@
+{
+  "name": "Siralim Ultimate",
+  "source": "spectre",
+  "changenumber": 37443736,
+  "updated": "2026-11-06T21:04:12.018Z",
+  "branches": {
+    "public": {
+      "buildid": "20548371",
+      "timeupdated": "1761489899",
+      "timebuildupdated": "1761489798"
+    },
+    "patch-1x": {
+      "buildid": "9266810",
+      "description": "Patch 1.x series",
+      "timeupdated": "1745975381",
+      "timebuildupdated": "1659803808"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1289811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4336255476036572974",
+          "size": "1224080630",
+          "download": "782810048"
+        }
+      }
+    },
+    "1289812": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2693557011312792900",
+          "size": "1209977776",
+          "download": "843201712"
+        }
+      }
+    },
+    "1289813": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3866923509373353663",
+          "size": "1340411126",
+          "download": "878479648"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20548371",
+        "timeupdated": "1761489899",
+        "timebuildupdated": "1761489798"
+      },
+      "patch-1x": {
+        "buildid": "9266810",
+        "description": "Patch 1.x series",
+        "timeupdated": "1745975381",
+        "timebuildupdated": "1659803808"
+      }
+    }
+  }
+}

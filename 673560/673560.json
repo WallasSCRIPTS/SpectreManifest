@@ -1,0 +1,85 @@
+{
+  "name": "IOSoccer",
+  "source": "spectre",
+  "changenumber": 40619549,
+  "updated": "2026-11-07T20:59:42.003Z",
+  "branches": {
+    "public": {
+      "buildid": "26452084",
+      "timeupdated": "1793863396",
+      "timebuildupdated": "1793863250"
+    },
+    "public-test": {
+      "buildid": "26452084",
+      "description": " public test build",
+      "timeupdated": "1793863376",
+      "timebuildupdated": "1793863250"
+    },
+    "sdk2007": {
+      "buildid": "21540951",
+      "description": "Old SDK 2007 version of the game",
+      "timeupdated": "1768693672",
+      "timebuildupdated": "1768693662"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "673561": {
+      "manifests": {
+        "public": {
+          "gid": "7578547403133396434",
+          "size": "4812534280",
+          "download": "2110347776"
+        }
+      }
+    },
+    "673562": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "115015163332283870",
+          "size": "135471073",
+          "download": "53943088"
+        }
+      }
+    },
+    "673563": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5292955251095896971",
+          "size": "115228032",
+          "download": "34055040"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26452084",
+        "timeupdated": "1793863396",
+        "timebuildupdated": "1793863250"
+      },
+      "public-test": {
+        "buildid": "26452084",
+        "description": " public test build",
+        "timeupdated": "1793863376",
+        "timebuildupdated": "1793863250"
+      },
+      "sdk2007": {
+        "buildid": "21540951",
+        "description": "Old SDK 2007 version of the game",
+        "timeupdated": "1768693672",
+        "timebuildupdated": "1768693662"
+      }
+    }
+  }
+}

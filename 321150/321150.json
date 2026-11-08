@@ -1,0 +1,56 @@
+{
+  "name": "Melissa K. and the Heart of Gold Collector's Edition",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:40.114Z",
+  "branches": {
+    "public": {
+      "buildid": "396045",
+      "timebuildupdated": "1412005922"
+    },
+    "local": {
+      "buildid": "372460",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1409778174"
+    }
+  },
+  "depot": {
+    "321151": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1776137497705905678",
+          "size": "2123140010",
+          "download": "1746165662416"
+        }
+      }
+    },
+    "321152": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "830775256287667461",
+          "size": "2127629829",
+          "download": "2499351634375"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "396045",
+        "timebuildupdated": "1412005922"
+      },
+      "local": {
+        "buildid": "372460",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1409778174"
+      }
+    }
+  }
+}

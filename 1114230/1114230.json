@@ -1,0 +1,70 @@
+{
+  "name": "Gear Enigmas",
+  "source": "spectre",
+  "changenumber": 39818103,
+  "updated": "2026-11-07T21:03:26.050Z",
+  "branches": {
+    "public": {
+      "buildid": "25860648",
+      "timeupdated": "1791700541",
+      "timebuildupdated": "1791699678"
+    },
+    "legacy_2019": {
+      "buildid": "4178839",
+      "description": "2019旧版：继续原有存档",
+      "timeupdated": "1568024854",
+      "timebuildupdated": "1568024854"
+    },
+    "test_20261003": {
+      "buildid": "25860398",
+      "description": "7.32 测试版：引擎、资源加载、成就与存档修复；历史成就及云存档兼容待验证",
+      "timeupdated": "1791697513",
+      "timebuildupdated": "1791697513"
+    }
+  },
+  "depot": {
+    "1114231": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4118475761957769295",
+          "size": "661741358",
+          "download": "521863136"
+        }
+      }
+    },
+    "1114232": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6273231393702797533",
+          "size": "871457860",
+          "download": "552478688"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25860648",
+        "timeupdated": "1791700541",
+        "timebuildupdated": "1791699678"
+      },
+      "legacy_2019": {
+        "buildid": "4178839",
+        "description": "2019旧版：继续原有存档",
+        "timeupdated": "1568024854",
+        "timebuildupdated": "1568024854"
+      },
+      "test_20261003": {
+        "buildid": "25860398",
+        "description": "7.32 测试版：引擎、资源加载、成就与存档修复；历史成就及云存档兼容待验证",
+        "timeupdated": "1791697513",
+        "timebuildupdated": "1791697513"
+      }
+    }
+  }
+}

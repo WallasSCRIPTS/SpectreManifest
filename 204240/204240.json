@@ -1,0 +1,70 @@
+{
+  "name": "The Bridge",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:01.156Z",
+  "branches": {
+    "public": {
+      "buildid": "20485674",
+      "timeupdated": "1761079088",
+      "timebuildupdated": "1761073757"
+    }
+  },
+  "depot": {
+    "204241": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1138430510974131349",
+          "size": "324875943",
+          "download": "307720544"
+        }
+      }
+    },
+    "204242": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5843270045258886813",
+          "size": "343853616",
+          "download": "278619328"
+        }
+      }
+    },
+    "204243": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6700133908359058769",
+          "size": "314263191",
+          "download": "10952409725"
+        }
+      }
+    },
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20485674",
+        "timeupdated": "1761079088",
+        "timebuildupdated": "1761073757"
+      }
+    }
+  }
+}

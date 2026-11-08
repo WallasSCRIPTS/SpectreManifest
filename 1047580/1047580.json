@@ -1,0 +1,70 @@
+{
+  "name": "Ghost Grab 3000",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:45.606Z",
+  "branches": {
+    "public": {
+      "buildid": "20268076",
+      "timeupdated": "1759745342",
+      "timebuildupdated": "1759744336"
+    },
+    "beta": {
+      "buildid": "20268076",
+      "description": "Optional access to early preview builds. May be unstable.",
+      "timeupdated": "1759745312",
+      "timebuildupdated": "1759744336"
+    }
+  },
+  "depot": {
+    "1047581": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7845145336770846425",
+          "size": "149809665",
+          "download": "71114432"
+        }
+      }
+    },
+    "1047582": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3382404830408530422",
+          "size": "150583415",
+          "download": "71322240"
+        }
+      }
+    },
+    "1047583": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3086337556212520897",
+          "size": "159827267",
+          "download": "72102144"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20268076",
+        "timeupdated": "1759745342",
+        "timebuildupdated": "1759744336"
+      },
+      "beta": {
+        "buildid": "20268076",
+        "description": "Optional access to early preview builds. May be unstable.",
+        "timeupdated": "1759745312",
+        "timebuildupdated": "1759744336"
+      }
+    }
+  }
+}

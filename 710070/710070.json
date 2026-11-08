@@ -1,0 +1,55 @@
+{
+  "name": "Helltown",
+  "source": "spectre",
+  "changenumber": 39756785,
+  "updated": "2026-11-07T21:00:00.675Z",
+  "branches": {
+    "public": {
+      "buildid": "15153448",
+      "timeupdated": "1721929118",
+      "timebuildupdated": "1721929063"
+    },
+    "helltown-2017": {
+      "buildid": "2554376",
+      "description": "2017 build",
+      "timeupdated": "1721752517",
+      "timebuildupdated": "1519512391"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "710071": {
+      "manifests": {
+        "public": {
+          "gid": "4557097964123741162",
+          "size": "968161828",
+          "download": "436025712"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15153448",
+        "timeupdated": "1721929118",
+        "timebuildupdated": "1721929063"
+      },
+      "helltown-2017": {
+        "buildid": "2554376",
+        "description": "2017 build",
+        "timeupdated": "1721752517",
+        "timebuildupdated": "1519512391"
+      }
+    }
+  }
+}

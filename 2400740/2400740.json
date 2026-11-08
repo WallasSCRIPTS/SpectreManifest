@@ -1,0 +1,51 @@
+{
+  "name": "PIGBLUE",
+  "source": "spectre",
+  "changenumber": 40315868,
+  "updated": "2026-11-06T23:23:23.999Z",
+  "branches": {
+    "public": {
+      "buildid": "11059331",
+      "timeupdated": "1682078953",
+      "timebuildupdated": "1682078851"
+    },
+    "macos": {
+      "buildid": "11059360",
+      "description": "macos",
+      "timeupdated": "1682079059",
+      "timebuildupdated": "1682079059"
+    }
+  },
+  "depot": {
+    "2400741": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5109055060110313613",
+          "size": "196477172",
+          "download": "133053168"
+        }
+      }
+    },
+    "2400742": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11059331",
+        "timeupdated": "1682078953",
+        "timebuildupdated": "1682078851"
+      },
+      "macos": {
+        "buildid": "11059360",
+        "description": "macos",
+        "timeupdated": "1682079059",
+        "timebuildupdated": "1682079059"
+      }
+    }
+  }
+}

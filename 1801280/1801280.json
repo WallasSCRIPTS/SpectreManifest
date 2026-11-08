@@ -1,0 +1,82 @@
+{
+  "name": "SCP: CB Multiplayer Dedicated Server",
+  "source": "spectre",
+  "changenumber": 40062413,
+  "updated": "2026-11-06T23:11:32.446Z",
+  "branches": {
+    "public": {
+      "buildid": "25958522",
+      "timeupdated": "1792064919",
+      "timebuildupdated": "1792064111"
+    },
+    "beta": {
+      "buildid": "25653674",
+      "description": " Branch for beta updates.",
+      "timeupdated": "1790865801",
+      "timebuildupdated": "1790861243"
+    }
+  },
+  "depot": {
+    "1004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7604377918839582995",
+          "size": "67863136",
+          "download": "24251776"
+        }
+      },
+      "depotfromapp": "1007"
+    },
+    "1005": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2135359612286175146",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "depotfromapp": "1007"
+    },
+    "1006": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4559160656493359681",
+          "size": "111284048",
+          "download": "36733840"
+        }
+      },
+      "depotfromapp": "1007"
+    },
+    "1801281": {
+      "manifests": {
+        "public": {
+          "gid": "8833425224303646251",
+          "size": "400290241",
+          "download": "263769472"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25958522",
+        "timeupdated": "1792064919",
+        "timebuildupdated": "1792064111"
+      },
+      "beta": {
+        "buildid": "25653674",
+        "description": " Branch for beta updates.",
+        "timeupdated": "1790865801",
+        "timebuildupdated": "1790861243"
+      }
+    }
+  }
+}

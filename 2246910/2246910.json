@@ -1,0 +1,73 @@
+{
+  "name": "RetroArch - MojoZork",
+  "source": "spectre",
+  "changenumber": 40666949,
+  "updated": "2026-11-06T23:21:20.710Z",
+  "branches": {
+    "public": {
+      "buildid": "20833776",
+      "timeupdated": "1763418473",
+      "timebuildupdated": "1763415998"
+    },
+    "nightly": {
+      "buildid": "26483431",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793965656",
+      "timebuildupdated": "1793965656"
+    }
+  },
+  "depot": {
+    "2246910": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2878113076558214389",
+          "size": "245374",
+          "download": "56864"
+        }
+      },
+      "dlcappid": "2246910"
+    },
+    "2246911": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8514002850183438603",
+          "size": "221117",
+          "download": "41760"
+        }
+      },
+      "dlcappid": "2246910"
+    },
+    "2246912": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1150883858392293651",
+          "size": "518829",
+          "download": "75264"
+        }
+      },
+      "dlcappid": "2246910"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833776",
+        "timeupdated": "1763418473",
+        "timebuildupdated": "1763415998"
+      },
+      "nightly": {
+        "buildid": "26483431",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793965656",
+        "timebuildupdated": "1793965656"
+      }
+    }
+  }
+}

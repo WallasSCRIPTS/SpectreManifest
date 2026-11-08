@@ -1,0 +1,79 @@
+{
+  "name": "Blackjack Alchemist",
+  "source": "spectre",
+  "changenumber": 35015277,
+  "updated": "2026-11-04T23:25:42.250Z",
+  "branches": {
+    "public": {
+      "buildid": "22476269",
+      "timeupdated": "1774335800",
+      "timebuildupdated": "1774335800"
+    },
+    "linux": {
+      "buildid": "22502306",
+      "description": "linux",
+      "timeupdated": "1774459272",
+      "timebuildupdated": "1774459272"
+    },
+    "windows": {
+      "buildid": "22502293",
+      "description": "windows",
+      "timeupdated": "1774459223",
+      "timebuildupdated": "1774459223"
+    }
+  },
+  "depot": {
+    "4533361": {
+      "manifests": {
+        "public": {
+          "gid": "484192317317558261",
+          "size": "112016296",
+          "download": "37183040"
+        }
+      }
+    },
+    "4533364": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "638217149676773407",
+          "size": "112016296",
+          "download": "37183040"
+        }
+      }
+    },
+    "4533365": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2455406854703595677",
+          "size": "79222000",
+          "download": "29207008"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22476269",
+        "timeupdated": "1774335800",
+        "timebuildupdated": "1774335800"
+      },
+      "linux": {
+        "buildid": "22502306",
+        "description": "linux",
+        "timeupdated": "1774459272",
+        "timebuildupdated": "1774459272"
+      },
+      "windows": {
+        "buildid": "22502293",
+        "description": "windows",
+        "timeupdated": "1774459223",
+        "timebuildupdated": "1774459223"
+      }
+    }
+  }
+}

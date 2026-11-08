@@ -1,0 +1,60 @@
+{
+  "name": "指间堡垒",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-06T21:04:31.172Z",
+  "branches": {
+    "public": {
+      "buildid": "6773017",
+      "timeupdated": "1622187137",
+      "timebuildupdated": "1622179252"
+    },
+    "local": {
+      "buildid": "5107838",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1591067124",
+      "timebuildupdated": "1591067124"
+    }
+  },
+  "depot": {
+    "1337811": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4677953210907087724",
+          "size": "333274226",
+          "download": "59918688"
+        }
+      }
+    },
+    "1337812": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7116083228517831345",
+          "size": "329185275",
+          "download": "59598048"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6773017",
+        "timeupdated": "1622187137",
+        "timebuildupdated": "1622179252"
+      },
+      "local": {
+        "buildid": "5107838",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1591067124",
+        "timebuildupdated": "1591067124"
+      }
+    }
+  }
+}

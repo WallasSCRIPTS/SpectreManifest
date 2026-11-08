@@ -1,0 +1,66 @@
+{
+  "name": "Chaos Domain",
+  "source": "spectre",
+  "changenumber": 40250300,
+  "updated": "2026-11-07T20:56:24.191Z",
+  "branches": {
+    "public": {
+      "buildid": "293451",
+      "timebuildupdated": "1402327078"
+    },
+    "local": {
+      "buildid": "249660",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1398893713"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "287101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4701211510016350116",
+          "size": "1494583950",
+          "download": "0"
+        }
+      }
+    },
+    "298690": {
+      "manifests": {
+        "public": {
+          "gid": "5110032504758494796",
+          "size": "64518144",
+          "download": "0"
+        }
+      },
+      "dlcappid": "298690"
+    },
+    "branches": {
+      "public": {
+        "buildid": "293451",
+        "timebuildupdated": "1402327078"
+      },
+      "local": {
+        "buildid": "249660",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1398893713"
+      }
+    }
+  }
+}

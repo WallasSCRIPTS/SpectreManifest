@@ -1,0 +1,86 @@
+{
+  "name": "Secret Government",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:53.726Z",
+  "branches": {
+    "public": {
+      "buildid": "20800498",
+      "timeupdated": "1763482341",
+      "timebuildupdated": "1763130852"
+    },
+    "beta": {
+      "buildid": "10185613",
+      "description": "Secret Government open beta",
+      "timeupdated": "1671718432",
+      "timebuildupdated": "1671551358"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "946991": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6143935804225367796",
+          "size": "4552487357",
+          "download": "2198129632"
+        }
+      }
+    },
+    "946992": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "749533568255276146",
+          "size": "4500988262",
+          "download": "2129585696"
+        }
+      }
+    },
+    "946993": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8157435242178884256",
+          "size": "4487747491",
+          "download": "2126257168"
+        }
+      }
+    },
+    "1847370": {
+      "manifests": {
+        "public": {
+          "gid": "6644286996917812653",
+          "size": "315365090",
+          "download": "317720528"
+        }
+      },
+      "dlcappid": "1847370"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20800498",
+        "timeupdated": "1763482341",
+        "timebuildupdated": "1763130852"
+      },
+      "beta": {
+        "buildid": "10185613",
+        "description": "Secret Government open beta",
+        "timeupdated": "1671718432",
+        "timebuildupdated": "1671551358"
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Warhammer 40,000: Battlesector",
+  "source": "spectre",
+  "changenumber": 40614814,
+  "updated": "2026-11-06T21:04:14.446Z",
+  "branches": {
+    "public": {
+      "buildid": "26223780",
+      "timeupdated": "1793286283",
+      "timebuildupdated": "1793036484"
+    },
+    "legacy3": {
+      "buildid": "22379859",
+      "description": "v1.6.4",
+      "timeupdated": "1773921732",
+      "timebuildupdated": "1773750691"
+    },
+    "legacy2": {
+      "buildid": "19330029",
+      "description": "v1.05.297",
+      "timeupdated": "1759223052",
+      "timebuildupdated": "1753279114"
+    },
+    "legacy": {
+      "buildid": "10675170",
+      "description": "v1.02.46",
+      "timeupdated": "1681739401",
+      "timebuildupdated": "1677768870"
+    }
+  },
+  "depot": {
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1295501": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7504564989873152512",
+          "size": "27419925092",
+          "download": "13509170240"
+        }
+      }
+    },
+    "1295502": {
+      "manifests": {
+        "public": {
+          "gid": "3317231148575601963",
+          "size": "53268976",
+          "download": "49085072"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26223780",
+        "timeupdated": "1793286283",
+        "timebuildupdated": "1793036484"
+      },
+      "legacy3": {
+        "buildid": "22379859",
+        "description": "v1.6.4",
+        "timeupdated": "1773921732",
+        "timebuildupdated": "1773750691"
+      },
+      "legacy2": {
+        "buildid": "19330029",
+        "description": "v1.05.297",
+        "timeupdated": "1759223052",
+        "timebuildupdated": "1753279114"
+      },
+      "legacy": {
+        "buildid": "10675170",
+        "description": "v1.02.46",
+        "timeupdated": "1681739401",
+        "timebuildupdated": "1677768870"
+      }
+    }
+  }
+}

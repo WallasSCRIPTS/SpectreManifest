@@ -1,0 +1,62 @@
+{
+  "name": "Aftermath Y2K",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:59:32.675Z",
+  "branches": {
+    "public": {
+      "buildid": "1980594",
+      "timeupdated": "1500772957",
+      "timebuildupdated": "1500772552"
+    },
+    "beta": {
+      "buildid": "1980594",
+      "timeupdated": "1500772973",
+      "timebuildupdated": "1500772552"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "655361": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3284870162620394615",
+          "size": "45297573",
+          "download": "13076112"
+        }
+      }
+    },
+    "655362": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1651860038543590107",
+          "size": "24237668",
+          "download": "10620736"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1980594",
+        "timeupdated": "1500772957",
+        "timebuildupdated": "1500772552"
+      },
+      "beta": {
+        "buildid": "1980594",
+        "timeupdated": "1500772973",
+        "timebuildupdated": "1500772552"
+      }
+    }
+  }
+}

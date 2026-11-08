@@ -1,0 +1,92 @@
+{
+  "name": "Siren's Call",
+  "source": "spectre",
+  "changenumber": 40683505,
+  "updated": "2026-11-06T23:13:30.564Z",
+  "branches": {
+    "public": {
+      "buildid": "9489050",
+      "timeupdated": "1662780860",
+      "timebuildupdated": "1662780860"
+    },
+    "linux86": {
+      "buildid": "9491530",
+      "description": "For those who need a x86 bit linux version of Siren's Call",
+      "timeupdated": "1662844820",
+      "timebuildupdated": "1662844820"
+    },
+    "previousbuilds": {
+      "buildid": "8968393",
+      "description": "the builds before electron versions of the game went live",
+      "timeupdated": "1656468668",
+      "timebuildupdated": "1655689117"
+    }
+  },
+  "depot": {
+    "1915741": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8379916754089618043",
+          "size": "1344844778",
+          "download": "1083963184"
+        }
+      }
+    },
+    "1915742": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3567828587652084103",
+          "size": "1495150401",
+          "download": "1078017200"
+        }
+      }
+    },
+    "1915743": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4324059011590369535",
+          "size": "1741100390",
+          "download": "1075152560"
+        }
+      }
+    },
+    "1967020": {
+      "manifests": {
+        "public": {
+          "gid": "1044581879517233483",
+          "size": "240607065",
+          "download": "240122928"
+        }
+      },
+      "dlcappid": "1967020"
+    },
+    "branches": {
+      "public": {
+        "buildid": "9489050",
+        "timeupdated": "1662780860",
+        "timebuildupdated": "1662780860"
+      },
+      "linux86": {
+        "buildid": "9491530",
+        "description": "For those who need a x86 bit linux version of Siren's Call",
+        "timeupdated": "1662844820",
+        "timebuildupdated": "1662844820"
+      },
+      "previousbuilds": {
+        "buildid": "8968393",
+        "description": "the builds before electron versions of the game went live",
+        "timeupdated": "1656468668",
+        "timebuildupdated": "1655689117"
+      }
+    }
+  }
+}

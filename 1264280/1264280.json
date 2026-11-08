@@ -1,0 +1,64 @@
+{
+  "name": "Slipways",
+  "source": "spectre",
+  "changenumber": 39472415,
+  "updated": "2026-11-06T21:04:00.444Z",
+  "branches": {
+    "public": {
+      "buildid": "15946357",
+      "timeupdated": "1728304100",
+      "timebuildupdated": "1728236967"
+    },
+    "previous": {
+      "buildid": "13741165",
+      "description": "The previous version of the game, for when something goes wrong with an update.",
+      "timeupdated": "1728304062",
+      "timebuildupdated": "1710431362"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1264281": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6520647778771720003",
+          "size": "751179333",
+          "download": "494955472"
+        }
+      }
+    },
+    "1264282": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3017957947949100432",
+          "size": "800338516",
+          "download": "506591648"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15946357",
+        "timeupdated": "1728304100",
+        "timebuildupdated": "1728236967"
+      },
+      "previous": {
+        "buildid": "13741165",
+        "description": "The previous version of the game, for when something goes wrong with an update.",
+        "timeupdated": "1728304062",
+        "timebuildupdated": "1710431362"
+      }
+    }
+  }
+}

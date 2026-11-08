@@ -1,0 +1,59 @@
+{
+  "name": "Rising Sun",
+  "source": "spectre",
+  "changenumber": 40669940,
+  "updated": "2026-11-07T21:00:47.845Z",
+  "branches": {
+    "public": {
+      "buildid": "25843188",
+      "timeupdated": "1791677673",
+      "timebuildupdated": "1791596536"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "800081": {},
+    "800082": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6275328272379583154",
+          "size": "4546679158",
+          "download": "1476848128"
+        }
+      }
+    },
+    "800083": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5525109413176014777",
+          "size": "5490412706",
+          "download": "1543350624"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25843188",
+        "timeupdated": "1791677673",
+        "timebuildupdated": "1791596536"
+      }
+    }
+  }
+}

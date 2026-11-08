@@ -1,0 +1,70 @@
+{
+  "name": "Flowstone Saga",
+  "source": "spectre",
+  "changenumber": 39139517,
+  "updated": "2026-11-06T21:04:44.950Z",
+  "branches": {
+    "public": {
+      "buildid": "25489574",
+      "timeupdated": "1790191425",
+      "timebuildupdated": "1790191381"
+    },
+    "beta": {
+      "buildid": "21754683",
+      "description": "Beta version",
+      "timeupdated": "1770068920",
+      "timebuildupdated": "1770068801"
+    }
+  },
+  "depot": {
+    "1372002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2862175900078247244",
+          "size": "3824269662",
+          "download": "792560384"
+        }
+      }
+    },
+    "1372003": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6710612075740080784",
+          "size": "5620177423",
+          "download": "813261216"
+        }
+      }
+    },
+    "1372004": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "547273518136221764",
+          "size": "3820419743",
+          "download": "788658896"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25489574",
+        "timeupdated": "1790191425",
+        "timebuildupdated": "1790191381"
+      },
+      "beta": {
+        "buildid": "21754683",
+        "description": "Beta version",
+        "timeupdated": "1770068920",
+        "timebuildupdated": "1770068801"
+      }
+    }
+  }
+}

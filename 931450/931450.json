@@ -1,0 +1,334 @@
+{
+  "name": "Solar Purge",
+  "source": "spectre",
+  "changenumber": 40280816,
+  "updated": "2026-11-07T21:01:46.376Z",
+  "branches": {
+    "public": {
+      "buildid": "23816020",
+      "timeupdated": "1781877859",
+      "timebuildupdated": "1781847164"
+    },
+    "0.2.1": {
+      "buildid": "5347963",
+      "description": "Early Access Launch",
+      "timeupdated": "1596052533",
+      "timebuildupdated": "1596052320"
+    },
+    "0.3.0": {
+      "buildid": "6974994",
+      "description": "Early Access Update 5",
+      "timeupdated": "1625325819",
+      "timebuildupdated": "1625318409"
+    },
+    "0.4.0": {
+      "buildid": "7628053",
+      "description": "Early Access Update 6",
+      "timeupdated": "1635546685",
+      "timebuildupdated": "1635545164"
+    },
+    "0.4.1": {
+      "buildid": "7705819",
+      "description": "Early Access Update 7",
+      "timeupdated": "1636992045",
+      "timebuildupdated": "1636758978"
+    },
+    "0.4.2": {
+      "buildid": "7824482",
+      "description": "Early Access Update 8",
+      "timeupdated": "1638553973",
+      "timebuildupdated": "1638553032"
+    },
+    "0.4.3": {
+      "buildid": "8209331",
+      "description": "Early Access Update 9",
+      "timeupdated": "1644963542",
+      "timebuildupdated": "1644960435"
+    },
+    "0.4.4": {
+      "buildid": "8688666",
+      "description": "Early Access Update 10",
+      "timeupdated": "1651846258",
+      "timebuildupdated": "1651810890"
+    },
+    "0.5.0": {
+      "buildid": "9261339",
+      "description": "Early Access Update 11",
+      "timeupdated": "1659711155",
+      "timebuildupdated": "1659710450"
+    },
+    "0.5.1": {
+      "buildid": "9854518",
+      "description": "Early Access Update 12",
+      "timeupdated": "1667404025",
+      "timebuildupdated": "1667403910"
+    },
+    "0.5.2": {
+      "buildid": "10627398",
+      "description": "Early Access Update 13",
+      "timeupdated": "1677225424",
+      "timebuildupdated": "1677225256"
+    },
+    "0.5.3": {
+      "buildid": "11222379",
+      "description": "Early Access Update 14",
+      "timeupdated": "1683945946",
+      "timebuildupdated": "1683933608"
+    },
+    "0.5.4": {
+      "buildid": "11489059",
+      "description": "Early Access Update 15",
+      "timeupdated": "1686926019",
+      "timebuildupdated": "1686924624"
+    },
+    "0.6.0": {
+      "buildid": "12313314",
+      "description": "Early Access Update 16",
+      "timeupdated": "1696296730",
+      "timebuildupdated": "1695957158"
+    },
+    "0.6.1": {
+      "buildid": "12636356",
+      "description": "Early Access Update 17",
+      "timeupdated": "1699372067",
+      "timebuildupdated": "1699331254"
+    },
+    "0.6.2": {
+      "buildid": "12876194",
+      "description": "Early Access Update 18",
+      "timeupdated": "1701791968",
+      "timebuildupdated": "1701756138"
+    },
+    "0.6.3": {
+      "buildid": "13411614",
+      "description": "Early Access Update 19",
+      "timeupdated": "1707492401",
+      "timebuildupdated": "1707457505"
+    },
+    "0.6.4": {
+      "buildid": "14031292",
+      "description": "Early Access Update 20",
+      "timeupdated": "1712904237",
+      "timebuildupdated": "1712904186"
+    },
+    "0.6.5": {
+      "buildid": "15015633",
+      "description": "Early Access Update 21",
+      "timeupdated": "1720798983",
+      "timebuildupdated": "1720798650"
+    },
+    "0.6.6": {
+      "buildid": "16350494",
+      "description": "Early Access Update 22",
+      "timeupdated": "1731132335",
+      "timebuildupdated": "1731132227"
+    },
+    "0.6.7": {
+      "buildid": "17369506",
+      "description": "Early Access Update 23",
+      "timeupdated": "1739553770",
+      "timebuildupdated": "1739551064"
+    },
+    "0.6.8": {
+      "buildid": "19081586",
+      "description": "Early Access Update 24",
+      "timeupdated": "1751472226",
+      "timebuildupdated": "1751471325"
+    },
+    "0.6.9": {
+      "buildid": "23816020",
+      "description": "Early Access Update 25",
+      "timeupdated": "1781877828",
+      "timebuildupdated": "1781847164"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "931451": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "668316765351445089",
+          "size": "8187977258",
+          "download": "7836783568"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23816020",
+        "timeupdated": "1781877859",
+        "timebuildupdated": "1781847164"
+      },
+      "0.2.1": {
+        "buildid": "5347963",
+        "description": "Early Access Launch",
+        "timeupdated": "1596052533",
+        "timebuildupdated": "1596052320"
+      },
+      "0.3.0": {
+        "buildid": "6974994",
+        "description": "Early Access Update 5",
+        "timeupdated": "1625325819",
+        "timebuildupdated": "1625318409"
+      },
+      "0.4.0": {
+        "buildid": "7628053",
+        "description": "Early Access Update 6",
+        "timeupdated": "1635546685",
+        "timebuildupdated": "1635545164"
+      },
+      "0.4.1": {
+        "buildid": "7705819",
+        "description": "Early Access Update 7",
+        "timeupdated": "1636992045",
+        "timebuildupdated": "1636758978"
+      },
+      "0.4.2": {
+        "buildid": "7824482",
+        "description": "Early Access Update 8",
+        "timeupdated": "1638553973",
+        "timebuildupdated": "1638553032"
+      },
+      "0.4.3": {
+        "buildid": "8209331",
+        "description": "Early Access Update 9",
+        "timeupdated": "1644963542",
+        "timebuildupdated": "1644960435"
+      },
+      "0.4.4": {
+        "buildid": "8688666",
+        "description": "Early Access Update 10",
+        "timeupdated": "1651846258",
+        "timebuildupdated": "1651810890"
+      },
+      "0.5.0": {
+        "buildid": "9261339",
+        "description": "Early Access Update 11",
+        "timeupdated": "1659711155",
+        "timebuildupdated": "1659710450"
+      },
+      "0.5.1": {
+        "buildid": "9854518",
+        "description": "Early Access Update 12",
+        "timeupdated": "1667404025",
+        "timebuildupdated": "1667403910"
+      },
+      "0.5.2": {
+        "buildid": "10627398",
+        "description": "Early Access Update 13",
+        "timeupdated": "1677225424",
+        "timebuildupdated": "1677225256"
+      },
+      "0.5.3": {
+        "buildid": "11222379",
+        "description": "Early Access Update 14",
+        "timeupdated": "1683945946",
+        "timebuildupdated": "1683933608"
+      },
+      "0.5.4": {
+        "buildid": "11489059",
+        "description": "Early Access Update 15",
+        "timeupdated": "1686926019",
+        "timebuildupdated": "1686924624"
+      },
+      "0.6.0": {
+        "buildid": "12313314",
+        "description": "Early Access Update 16",
+        "timeupdated": "1696296730",
+        "timebuildupdated": "1695957158"
+      },
+      "0.6.1": {
+        "buildid": "12636356",
+        "description": "Early Access Update 17",
+        "timeupdated": "1699372067",
+        "timebuildupdated": "1699331254"
+      },
+      "0.6.2": {
+        "buildid": "12876194",
+        "description": "Early Access Update 18",
+        "timeupdated": "1701791968",
+        "timebuildupdated": "1701756138"
+      },
+      "0.6.3": {
+        "buildid": "13411614",
+        "description": "Early Access Update 19",
+        "timeupdated": "1707492401",
+        "timebuildupdated": "1707457505"
+      },
+      "0.6.4": {
+        "buildid": "14031292",
+        "description": "Early Access Update 20",
+        "timeupdated": "1712904237",
+        "timebuildupdated": "1712904186"
+      },
+      "0.6.5": {
+        "buildid": "15015633",
+        "description": "Early Access Update 21",
+        "timeupdated": "1720798983",
+        "timebuildupdated": "1720798650"
+      },
+      "0.6.6": {
+        "buildid": "16350494",
+        "description": "Early Access Update 22",
+        "timeupdated": "1731132335",
+        "timebuildupdated": "1731132227"
+      },
+      "0.6.7": {
+        "buildid": "17369506",
+        "description": "Early Access Update 23",
+        "timeupdated": "1739553770",
+        "timebuildupdated": "1739551064"
+      },
+      "0.6.8": {
+        "buildid": "19081586",
+        "description": "Early Access Update 24",
+        "timeupdated": "1751472226",
+        "timebuildupdated": "1751471325"
+      },
+      "0.6.9": {
+        "buildid": "23816020",
+        "description": "Early Access Update 25",
+        "timeupdated": "1781877828",
+        "timebuildupdated": "1781847164"
+      }
+    }
+  }
+}

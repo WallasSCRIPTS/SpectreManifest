@@ -1,0 +1,58 @@
+{
+  "name": "2 Volt",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-04T23:24:35.534Z",
+  "branches": {
+    "public": {
+      "buildid": "21082249",
+      "timeupdated": "1765029561",
+      "timebuildupdated": "1765029560"
+    },
+    "4test": {
+      "buildid": "21082019",
+      "description": "beta",
+      "timeupdated": "1765026877",
+      "timebuildupdated": "1765026877"
+    }
+  },
+  "depot": {
+    "2388881": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7972695128964562833",
+          "size": "154560789",
+          "download": "54830640"
+        }
+      }
+    },
+    "2388882": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1552207833458356339",
+          "size": "160630216",
+          "download": "56505936"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21082249",
+        "timeupdated": "1765029561",
+        "timebuildupdated": "1765029560"
+      },
+      "4test": {
+        "buildid": "21082019",
+        "description": "beta",
+        "timeupdated": "1765026877",
+        "timebuildupdated": "1765026877"
+      }
+    }
+  }
+}

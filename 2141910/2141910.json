@@ -1,0 +1,90 @@
+{
+  "name": "Magic: The Gathering Arena",
+  "source": "spectre",
+  "changenumber": 40649666,
+  "updated": "2026-11-06T23:17:36.842Z",
+  "branches": {
+    "public": {
+      "buildid": "26149138",
+      "timeupdated": "1793723242",
+      "timebuildupdated": "1792720121"
+    },
+    "local": {
+      "buildid": "13499385",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1708363177",
+      "timebuildupdated": "1708363177"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2141911": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "369154638768957790",
+          "size": "488209539",
+          "download": "184251168"
+        }
+      }
+    },
+    "2141912": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8836699552376795949",
+          "size": "13146004449",
+          "download": "12022875984"
+        }
+      }
+    },
+    "2141913": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8048548968671105700",
+          "size": "789100308",
+          "download": "250012768"
+        }
+      }
+    },
+    "2141914": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2888167016140546962",
+          "size": "13131373461",
+          "download": "12011870112"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26149138",
+        "timeupdated": "1793723242",
+        "timebuildupdated": "1792720121"
+      },
+      "local": {
+        "buildid": "13499385",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1708363177",
+        "timebuildupdated": "1708363177"
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Hell Invades Heaven",
+  "source": "spectre",
+  "changenumber": 34859672,
+  "updated": "2026-11-06T21:05:23.096Z",
+  "branches": {
+    "public": {
+      "buildid": "7603445",
+      "timeupdated": "1635266382",
+      "timebuildupdated": "1635265085"
+    },
+    "test": {
+      "buildid": "7603445",
+      "description": "test",
+      "timeupdated": "1635265135",
+      "timebuildupdated": "1635265085"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229033": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1452321": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1844982361555143774",
+          "size": "3539299744",
+          "download": "1200374592"
+        }
+      }
+    },
+    "1452322": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1289966663337578978",
+          "size": "133483014",
+          "download": "13828336"
+        }
+      }
+    },
+    "1452323": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3082941948943093007",
+          "size": "117230608",
+          "download": "9422816"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7603445",
+        "timeupdated": "1635266382",
+        "timebuildupdated": "1635265085"
+      },
+      "test": {
+        "buildid": "7603445",
+        "description": "test",
+        "timeupdated": "1635265135",
+        "timebuildupdated": "1635265085"
+      }
+    }
+  }
+}

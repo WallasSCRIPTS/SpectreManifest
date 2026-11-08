@@ -1,0 +1,70 @@
+{
+  "name": "The Forest of Doom",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:18.863Z",
+  "branches": {
+    "public": {
+      "buildid": "587181",
+      "timebuildupdated": "1428974156"
+    },
+    "beta": {
+      "buildid": "920432",
+      "timebuildupdated": "1452058661"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "270491": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7017949772211617608",
+          "size": "427882564",
+          "download": "181299776"
+        }
+      }
+    },
+    "270492": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5940871710405518453",
+          "size": "406811916",
+          "download": "174451888"
+        }
+      }
+    },
+    "270493": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5775650840425042418",
+          "size": "397443355",
+          "download": "172334896"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "587181",
+        "timebuildupdated": "1428974156"
+      },
+      "beta": {
+        "buildid": "920432",
+        "timebuildupdated": "1452058661"
+      }
+    }
+  }
+}

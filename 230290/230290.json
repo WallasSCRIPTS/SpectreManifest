@@ -1,0 +1,290 @@
+{
+  "name": "Universe Sandbox",
+  "source": "spectre",
+  "changenumber": 40658484,
+  "updated": "2026-11-07T20:56:07.414Z",
+  "branches": {
+    "public": {
+      "buildid": "26410665",
+      "timeupdated": "1793728685",
+      "timebuildupdated": "1793723448"
+    },
+    "update-36.2.3": {
+      "buildid": "24194948",
+      "description": "Last version that supports integrated graphics cards with DirectX 12 Feature Level 12_1",
+      "timeupdated": "1784042740",
+      "timebuildupdated": "1784001195"
+    },
+    "update-36.3.2-dx12-fix": {
+      "buildid": "25323944",
+      "description": "Attempted fix for crashing integrated GPUs",
+      "timeupdated": "1789479226",
+      "timebuildupdated": "1789479226"
+    },
+    "update-35.3.4-directx11": {
+      "buildid": "20305834",
+      "description": "Last version that supports DirectX 11",
+      "timeupdated": "1761256900",
+      "timebuildupdated": "1759937667"
+    },
+    "update-34.1.1": {
+      "buildid": "13730482",
+      "description": "Last version that supports the Old Graphics Engine, Windows 7 SP1+, 8, older versions of Windows 10, Intel Macs, & VR",
+      "timeupdated": "1741635277",
+      "timebuildupdated": "1710356735"
+    },
+    "*update-24.1.2-directx10": {
+      "buildid": "4581149",
+      "description": "Last version that supports DirectX 10",
+      "timeupdated": "1584583642",
+      "timebuildupdated": "1579273921"
+    },
+    "*update-23.0.2-native": {
+      "buildid": "4025604",
+      "description": "Update 23.0.2 | Native Library",
+      "timeupdated": "1584584296",
+      "timebuildupdated": "1563513929"
+    },
+    "*update-21.3-directx9": {
+      "buildid": "3184346",
+      "description": "Last version that supports DirectX 9 and 32-bit installs of Windows",
+      "timeupdated": "1584583726",
+      "timebuildupdated": "1538692782"
+    },
+    "update-33.0.2": {
+      "buildid": "12228624",
+      "description": " Archived Build",
+      "timeupdated": "1703255509",
+      "timebuildupdated": "1695149531"
+    },
+    "update-32.3.2": {
+      "buildid": "11732138",
+      "description": "Archived Build",
+      "timeupdated": "1692214992",
+      "timebuildupdated": "1689717317"
+    },
+    "update-30.0.1": {
+      "buildid": "8583885",
+      "description": "Archived Build",
+      "timeupdated": "1654799584",
+      "timebuildupdated": "1650386648"
+    },
+    "update-29.1": {
+      "buildid": "8093184",
+      "description": "Archived Build",
+      "timeupdated": "1649954056",
+      "timebuildupdated": "1643238074"
+    },
+    "update-27.2.1": {
+      "buildid": "7125959",
+      "description": "Archived Build",
+      "timeupdated": "1632414959",
+      "timebuildupdated": "1627925419"
+    },
+    "update-23.2": {
+      "buildid": "4348587",
+      "description": "Last version before fully simulated surfaces (Surface Grids)",
+      "timeupdated": "1584583869",
+      "timebuildupdated": "1572627696"
+    },
+    "update-20.6.3": {
+      "buildid": "2701907",
+      "description": "Archived Build",
+      "timeupdated": "1527618517",
+      "timebuildupdated": "1524105039"
+    },
+    "alpha18.2e": {
+      "buildid": "1059030",
+      "description": "Archived Build",
+      "timeupdated": "1478805167",
+      "timebuildupdated": "1459884069"
+    },
+    "alpha16.1": {
+      "buildid": "772112",
+      "description": "Archived Build",
+      "timebuildupdated": "1442040592"
+    },
+    "alpha15.2": {
+      "buildid": "689942",
+      "description": "Archived Build",
+      "timebuildupdated": "1436493297"
+    },
+    "alpha14.1": {
+      "buildid": "552196",
+      "description": "Archived Build",
+      "timebuildupdated": "1426128429"
+    },
+    "alpha12.5": {
+      "buildid": "481687",
+      "description": "Archived Build",
+      "timebuildupdated": "1419516601"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "230291": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8554654782585081642",
+          "size": "3409693438",
+          "download": "1805717888"
+        }
+      }
+    },
+    "230292": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1765748435218602826",
+          "size": "3332016551",
+          "download": "1773380032"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26410665",
+        "timeupdated": "1793728685",
+        "timebuildupdated": "1793723448"
+      },
+      "update-36.2.3": {
+        "buildid": "24194948",
+        "description": "Last version that supports integrated graphics cards with DirectX 12 Feature Level 12_1",
+        "timeupdated": "1784042740",
+        "timebuildupdated": "1784001195"
+      },
+      "update-36.3.2-dx12-fix": {
+        "buildid": "25323944",
+        "description": "Attempted fix for crashing integrated GPUs",
+        "timeupdated": "1789479226",
+        "timebuildupdated": "1789479226"
+      },
+      "update-35.3.4-directx11": {
+        "buildid": "20305834",
+        "description": "Last version that supports DirectX 11",
+        "timeupdated": "1761256900",
+        "timebuildupdated": "1759937667"
+      },
+      "update-34.1.1": {
+        "buildid": "13730482",
+        "description": "Last version that supports the Old Graphics Engine, Windows 7 SP1+, 8, older versions of Windows 10, Intel Macs, & VR",
+        "timeupdated": "1741635277",
+        "timebuildupdated": "1710356735"
+      },
+      "*update-24.1.2-directx10": {
+        "buildid": "4581149",
+        "description": "Last version that supports DirectX 10",
+        "timeupdated": "1584583642",
+        "timebuildupdated": "1579273921"
+      },
+      "*update-23.0.2-native": {
+        "buildid": "4025604",
+        "description": "Update 23.0.2 | Native Library",
+        "timeupdated": "1584584296",
+        "timebuildupdated": "1563513929"
+      },
+      "*update-21.3-directx9": {
+        "buildid": "3184346",
+        "description": "Last version that supports DirectX 9 and 32-bit installs of Windows",
+        "timeupdated": "1584583726",
+        "timebuildupdated": "1538692782"
+      },
+      "update-33.0.2": {
+        "buildid": "12228624",
+        "description": " Archived Build",
+        "timeupdated": "1703255509",
+        "timebuildupdated": "1695149531"
+      },
+      "update-32.3.2": {
+        "buildid": "11732138",
+        "description": "Archived Build",
+        "timeupdated": "1692214992",
+        "timebuildupdated": "1689717317"
+      },
+      "update-30.0.1": {
+        "buildid": "8583885",
+        "description": "Archived Build",
+        "timeupdated": "1654799584",
+        "timebuildupdated": "1650386648"
+      },
+      "update-29.1": {
+        "buildid": "8093184",
+        "description": "Archived Build",
+        "timeupdated": "1649954056",
+        "timebuildupdated": "1643238074"
+      },
+      "update-27.2.1": {
+        "buildid": "7125959",
+        "description": "Archived Build",
+        "timeupdated": "1632414959",
+        "timebuildupdated": "1627925419"
+      },
+      "update-23.2": {
+        "buildid": "4348587",
+        "description": "Last version before fully simulated surfaces (Surface Grids)",
+        "timeupdated": "1584583869",
+        "timebuildupdated": "1572627696"
+      },
+      "update-20.6.3": {
+        "buildid": "2701907",
+        "description": "Archived Build",
+        "timeupdated": "1527618517",
+        "timebuildupdated": "1524105039"
+      },
+      "alpha18.2e": {
+        "buildid": "1059030",
+        "description": "Archived Build",
+        "timeupdated": "1478805167",
+        "timebuildupdated": "1459884069"
+      },
+      "alpha16.1": {
+        "buildid": "772112",
+        "description": "Archived Build",
+        "timebuildupdated": "1442040592"
+      },
+      "alpha15.2": {
+        "buildid": "689942",
+        "description": "Archived Build",
+        "timebuildupdated": "1436493297"
+      },
+      "alpha14.1": {
+        "buildid": "552196",
+        "description": "Archived Build",
+        "timebuildupdated": "1426128429"
+      },
+      "alpha12.5": {
+        "buildid": "481687",
+        "description": "Archived Build",
+        "timebuildupdated": "1419516601"
+      }
+    }
+  }
+}

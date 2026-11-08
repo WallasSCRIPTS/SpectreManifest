@@ -1,0 +1,58 @@
+{
+  "name": "Star Rising",
+  "source": "spectre",
+  "changenumber": 35401802,
+  "updated": "2026-11-04T23:24:34.139Z",
+  "branches": {
+    "public": {
+      "buildid": "22505898",
+      "timeupdated": "1774475710",
+      "timebuildupdated": "1774475443"
+    },
+    "beta": {
+      "buildid": "22505898",
+      "description": "Public work in progress builds",
+      "timeupdated": "1774475443",
+      "timebuildupdated": "1774475443"
+    }
+  },
+  "depot": {
+    "2141561": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2666199331321892204",
+          "size": "2546807395",
+          "download": "1310780624"
+        }
+      }
+    },
+    "2141562": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6137311706146208819",
+          "size": "2347403838",
+          "download": "1296726880"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22505898",
+        "timeupdated": "1774475710",
+        "timebuildupdated": "1774475443"
+      },
+      "beta": {
+        "buildid": "22505898",
+        "description": "Public work in progress builds",
+        "timeupdated": "1774475443",
+        "timebuildupdated": "1774475443"
+      }
+    }
+  }
+}

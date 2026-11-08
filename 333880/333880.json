@@ -1,0 +1,70 @@
+{
+  "name": "Braveland Wizard",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:46.085Z",
+  "branches": {
+    "public": {
+      "buildid": "11372573",
+      "timeupdated": "1688126939",
+      "timebuildupdated": "1685640989"
+    },
+    "local": {
+      "buildid": "454252",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1416930146"
+    }
+  },
+  "depot": {
+    "333881": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6592999415048772282",
+          "size": "475315315",
+          "download": "326444896"
+        }
+      }
+    },
+    "333882": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1051617626560875519",
+          "size": "452464410",
+          "download": "314085392"
+        }
+      }
+    },
+    "333883": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4116121687889403939",
+          "size": "452277750",
+          "download": "312724704"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11372573",
+        "timeupdated": "1688126939",
+        "timebuildupdated": "1685640989"
+      },
+      "local": {
+        "buildid": "454252",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1416930146"
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Melvor Idle",
+  "source": "spectre",
+  "changenumber": 39655035,
+  "updated": "2026-11-06T21:04:02.190Z",
+  "branches": {
+    "public": {
+      "buildid": "13311431",
+      "timeupdated": "1706684950",
+      "timebuildupdated": "1706609785"
+    },
+    "macos-client-fix": {
+      "buildid": "13311431",
+      "description": "Client fix for MacOS",
+      "timeupdated": "1706609785",
+      "timebuildupdated": "1706609785"
+    },
+    "windows-client-fix": {
+      "buildid": "13341659",
+      "description": "Client fix for Windows",
+      "timeupdated": "1706835176",
+      "timebuildupdated": "1706835176"
+    },
+    "offline-client-stage-3": {
+      "buildid": "18109572",
+      "description": "Offline Client Final Stage - Public Beta",
+      "timeupdated": "1744699657",
+      "timebuildupdated": "1744699657"
+    }
+  },
+  "depot": {
+    "1267911": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "349725829955010167",
+          "size": "724342889",
+          "download": "254397328"
+        }
+      }
+    },
+    "1267912": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8164613591265306544",
+          "size": "1222508150",
+          "download": "308539120"
+        }
+      }
+    },
+    "1267913": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8875374614659965895",
+          "size": "831944273",
+          "download": "264410496"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13311431",
+        "timeupdated": "1706684950",
+        "timebuildupdated": "1706609785"
+      },
+      "macos-client-fix": {
+        "buildid": "13311431",
+        "description": "Client fix for MacOS",
+        "timeupdated": "1706609785",
+        "timebuildupdated": "1706609785"
+      },
+      "windows-client-fix": {
+        "buildid": "13341659",
+        "description": "Client fix for Windows",
+        "timeupdated": "1706835176",
+        "timebuildupdated": "1706835176"
+      },
+      "offline-client-stage-3": {
+        "buildid": "18109572",
+        "description": "Offline Client Final Stage - Public Beta",
+        "timeupdated": "1744699657",
+        "timebuildupdated": "1744699657"
+      }
+    }
+  }
+}

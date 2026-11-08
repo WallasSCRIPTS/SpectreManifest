@@ -1,0 +1,93 @@
+{
+  "name": "SmallZ",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-06T21:06:36.163Z",
+  "branches": {
+    "public": {
+      "buildid": "11469407",
+      "timeupdated": "1686758525",
+      "timebuildupdated": "1686757431"
+    },
+    "dedicatedserver": {
+      "buildid": "10499301",
+      "description": "Dedicated Server Branch",
+      "timeupdated": "1675797816",
+      "timebuildupdated": "1675796951"
+    },
+    "testing": {
+      "buildid": "11469407",
+      "description": "Testing branch",
+      "timeupdated": "1686757546",
+      "timebuildupdated": "1686757431"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229000": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1612521": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3055952768606008119",
+          "size": "944971321",
+          "download": "282941024"
+        }
+      }
+    },
+    "1612522": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5056874386513008683",
+          "size": "4698961315",
+          "download": "1455163008"
+        }
+      }
+    },
+    "1612523": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11469407",
+        "timeupdated": "1686758525",
+        "timebuildupdated": "1686757431"
+      },
+      "dedicatedserver": {
+        "buildid": "10499301",
+        "description": "Dedicated Server Branch",
+        "timeupdated": "1675797816",
+        "timebuildupdated": "1675796951"
+      },
+      "testing": {
+        "buildid": "11469407",
+        "description": "Testing branch",
+        "timeupdated": "1686757546",
+        "timebuildupdated": "1686757431"
+      }
+    }
+  }
+}

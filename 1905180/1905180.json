@@ -1,0 +1,244 @@
+{
+  "name": "OBS Studio",
+  "source": "spectre",
+  "changenumber": 40636484,
+  "updated": "2026-11-06T23:13:29.172Z",
+  "branches": {
+    "public": {
+      "buildid": "24744241",
+      "timeupdated": "1787178103",
+      "timebuildupdated": "1786747595"
+    },
+    "beta": {
+      "buildid": "26093334",
+      "description": "Betas and release candidates",
+      "timeupdated": "1792560818",
+      "timebuildupdated": "1792540392"
+    },
+    "nightly": {
+      "buildid": "26420202",
+      "description": "Unsigned nightly builds from CI",
+      "timeupdated": "1793753925",
+      "timebuildupdated": "1793753925"
+    },
+    "32.2": {
+      "buildid": "24744241",
+      "description": "32.2 Release (Latest)",
+      "timeupdated": "1787178103",
+      "timebuildupdated": "1786747595"
+    },
+    "32.1": {
+      "buildid": "22626169",
+      "description": "32.1 Release",
+      "timeupdated": "1775163741",
+      "timebuildupdated": "1775159812"
+    },
+    "32.0": {
+      "buildid": "21177668",
+      "description": "32.0 Release",
+      "timeupdated": "1766255251",
+      "timebuildupdated": "1765663442"
+    },
+    "31.1": {
+      "buildid": "19388435",
+      "description": "31.1 Release",
+      "timeupdated": "1753789772",
+      "timebuildupdated": "1753727951"
+    },
+    "31.0": {
+      "buildid": "17903979",
+      "description": "31.0 Release",
+      "timeupdated": "1743547847",
+      "timebuildupdated": "1743195214"
+    },
+    "30.2": {
+      "buildid": "15387601",
+      "description": "30.2 Release",
+      "timeupdated": "1723765579",
+      "timebuildupdated": "1723761611"
+    },
+    "30.1": {
+      "buildid": "13969250",
+      "description": "30.1.2 Release",
+      "timeupdated": "1712362012",
+      "timebuildupdated": "1712360399"
+    },
+    "30.0": {
+      "buildid": "12924865",
+      "description": "30.0.2 Release",
+      "timeupdated": "1702248495",
+      "timebuildupdated": "1702248469"
+    },
+    "29.1": {
+      "buildid": "11504815",
+      "description": "29.1.3 Release",
+      "timeupdated": "1687171482",
+      "timebuildupdated": "1687171462"
+    },
+    "29.0": {
+      "buildid": "10478199",
+      "description": "29.0.2 Release",
+      "timeupdated": "1675513521",
+      "timebuildupdated": "1675513437"
+    },
+    "28.1": {
+      "buildid": "9877893",
+      "description": "28.1.2 Release",
+      "timeupdated": "1667689172",
+      "timebuildupdated": "1667687162"
+    },
+    "28.0": {
+      "buildid": "9635211",
+      "description": "28.0.3 Release",
+      "timeupdated": "1664670888",
+      "timebuildupdated": "1664670588"
+    },
+    "27.2": {
+      "buildid": "9238683",
+      "description": "27.2.4 Release",
+      "timeupdated": "1659460407",
+      "timebuildupdated": "1659460248"
+    },
+    "27.1": {
+      "buildid": "9238703",
+      "description": "27.1.3 Release",
+      "timeupdated": "1659460475",
+      "timebuildupdated": "1659460450"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1905181": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2804028935991829435",
+          "size": "488582775",
+          "download": "159936416"
+        }
+      }
+    },
+    "1905182": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1413036002184391961",
+          "size": "921275242",
+          "download": "251185360"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24744241",
+        "timeupdated": "1787178103",
+        "timebuildupdated": "1786747595"
+      },
+      "beta": {
+        "buildid": "26093334",
+        "description": "Betas and release candidates",
+        "timeupdated": "1792560818",
+        "timebuildupdated": "1792540392"
+      },
+      "nightly": {
+        "buildid": "26420202",
+        "description": "Unsigned nightly builds from CI",
+        "timeupdated": "1793753925",
+        "timebuildupdated": "1793753925"
+      },
+      "32.2": {
+        "buildid": "24744241",
+        "description": "32.2 Release (Latest)",
+        "timeupdated": "1787178103",
+        "timebuildupdated": "1786747595"
+      },
+      "32.1": {
+        "buildid": "22626169",
+        "description": "32.1 Release",
+        "timeupdated": "1775163741",
+        "timebuildupdated": "1775159812"
+      },
+      "32.0": {
+        "buildid": "21177668",
+        "description": "32.0 Release",
+        "timeupdated": "1766255251",
+        "timebuildupdated": "1765663442"
+      },
+      "31.1": {
+        "buildid": "19388435",
+        "description": "31.1 Release",
+        "timeupdated": "1753789772",
+        "timebuildupdated": "1753727951"
+      },
+      "31.0": {
+        "buildid": "17903979",
+        "description": "31.0 Release",
+        "timeupdated": "1743547847",
+        "timebuildupdated": "1743195214"
+      },
+      "30.2": {
+        "buildid": "15387601",
+        "description": "30.2 Release",
+        "timeupdated": "1723765579",
+        "timebuildupdated": "1723761611"
+      },
+      "30.1": {
+        "buildid": "13969250",
+        "description": "30.1.2 Release",
+        "timeupdated": "1712362012",
+        "timebuildupdated": "1712360399"
+      },
+      "30.0": {
+        "buildid": "12924865",
+        "description": "30.0.2 Release",
+        "timeupdated": "1702248495",
+        "timebuildupdated": "1702248469"
+      },
+      "29.1": {
+        "buildid": "11504815",
+        "description": "29.1.3 Release",
+        "timeupdated": "1687171482",
+        "timebuildupdated": "1687171462"
+      },
+      "29.0": {
+        "buildid": "10478199",
+        "description": "29.0.2 Release",
+        "timeupdated": "1675513521",
+        "timebuildupdated": "1675513437"
+      },
+      "28.1": {
+        "buildid": "9877893",
+        "description": "28.1.2 Release",
+        "timeupdated": "1667689172",
+        "timebuildupdated": "1667687162"
+      },
+      "28.0": {
+        "buildid": "9635211",
+        "description": "28.0.3 Release",
+        "timeupdated": "1664670888",
+        "timebuildupdated": "1664670588"
+      },
+      "27.2": {
+        "buildid": "9238683",
+        "description": "27.2.4 Release",
+        "timeupdated": "1659460407",
+        "timebuildupdated": "1659460248"
+      },
+      "27.1": {
+        "buildid": "9238703",
+        "description": "27.1.3 Release",
+        "timeupdated": "1659460475",
+        "timebuildupdated": "1659460450"
+      }
+    }
+  }
+}

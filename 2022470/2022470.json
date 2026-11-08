@@ -1,0 +1,70 @@
+{
+  "name": "Mythargia",
+  "source": "spectre",
+  "changenumber": 39962939,
+  "updated": "2026-11-06T23:15:37.577Z",
+  "branches": {
+    "public": {
+      "buildid": "11496101",
+      "timeupdated": "1687075529",
+      "timebuildupdated": "1687013367"
+    },
+    "linuxbeta": {
+      "buildid": "13002751",
+      "description": "Beta builds for Linux",
+      "timeupdated": "1703006732",
+      "timebuildupdated": "1703006732"
+    },
+    "test": {
+      "buildid": "11498911",
+      "description": "Test features",
+      "timeupdated": "1687076704",
+      "timebuildupdated": "1687076704"
+    }
+  },
+  "depot": {
+    "2022471": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4484033975886020588",
+          "size": "188917832",
+          "download": "124255184"
+        }
+      }
+    },
+    "2022472": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6958863323417099058",
+          "size": "231975108",
+          "download": "125906352"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11496101",
+        "timeupdated": "1687075529",
+        "timebuildupdated": "1687013367"
+      },
+      "linuxbeta": {
+        "buildid": "13002751",
+        "description": "Beta builds for Linux",
+        "timeupdated": "1703006732",
+        "timebuildupdated": "1703006732"
+      },
+      "test": {
+        "buildid": "11498911",
+        "description": "Test features",
+        "timeupdated": "1687076704",
+        "timebuildupdated": "1687076704"
+      }
+    }
+  }
+}

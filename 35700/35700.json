@@ -1,0 +1,86 @@
+{
+  "name": "Trine",
+  "source": "spectre",
+  "changenumber": 38789999,
+  "updated": "2026-11-07T20:55:52.310Z",
+  "branches": {
+    "public": {
+      "buildid": "21034868",
+      "timeupdated": "1767109175",
+      "timebuildupdated": "1764754231"
+    },
+    "test": {
+      "buildid": "758802",
+      "description": "Current patch public test",
+      "timebuildupdated": "1441186141"
+    },
+    "old_v212": {
+      "buildid": "758802",
+      "description": "Old v2.12",
+      "timeupdated": "1764834730",
+      "timebuildupdated": "1441186141"
+    }
+  },
+  "depot": {
+    "35701": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "643343436896660670",
+          "size": "4446501698",
+          "download": "3602727824"
+        }
+      }
+    },
+    "35702": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2950437708248876037",
+          "size": "2269079553",
+          "download": "1788487408"
+        }
+      }
+    },
+    "35703": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8655608350251686727",
+          "size": "1480164843",
+          "download": "1203767376"
+        }
+      }
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "21034868",
+        "timeupdated": "1767109175",
+        "timebuildupdated": "1764754231"
+      },
+      "test": {
+        "buildid": "758802",
+        "description": "Current patch public test",
+        "timebuildupdated": "1441186141"
+      },
+      "old_v212": {
+        "buildid": "758802",
+        "description": "Old v2.12",
+        "timeupdated": "1764834730",
+        "timebuildupdated": "1441186141"
+      }
+    }
+  }
+}

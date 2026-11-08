@@ -1,0 +1,50 @@
+{
+  "name": "ADR1FT",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:30.402Z",
+  "branches": {
+    "public": {
+      "buildid": "2079148",
+      "timeupdated": "1505409249",
+      "timebuildupdated": "1504100846"
+    },
+    "beta": {
+      "buildid": "2079148",
+      "timeupdated": "1504183493",
+      "timebuildupdated": "1504100846"
+    }
+  },
+  "depot": {
+    "300061": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6272383633067792745",
+          "size": "6722433152",
+          "download": "1495186208"
+        }
+      }
+    },
+    "300062": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "300063": {},
+    "branches": {
+      "public": {
+        "buildid": "2079148",
+        "timeupdated": "1505409249",
+        "timebuildupdated": "1504100846"
+      },
+      "beta": {
+        "buildid": "2079148",
+        "timeupdated": "1504183493",
+        "timebuildupdated": "1504100846"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Desktop Dinosaurs",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:06:46.170Z",
+  "branches": {
+    "public": {
+      "buildid": "13428758",
+      "timeupdated": "1707688604",
+      "timebuildupdated": "1707688339"
+    },
+    "alpha": {
+      "buildid": "11606554",
+      "description": "To test release",
+      "timeupdated": "1688247056",
+      "timebuildupdated": "1688246745"
+    }
+  },
+  "depot": {
+    "1640351": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6498759410656655865",
+          "size": "106235215",
+          "download": "26341728"
+        }
+      }
+    },
+    "1640352": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2126641833701091773",
+          "size": "99182295",
+          "download": "23942448"
+        }
+      }
+    },
+    "1640354": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2743125158492517550",
+          "size": "101291546",
+          "download": "25112704"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13428758",
+        "timeupdated": "1707688604",
+        "timebuildupdated": "1707688339"
+      },
+      "alpha": {
+        "buildid": "11606554",
+        "description": "To test release",
+        "timeupdated": "1688247056",
+        "timebuildupdated": "1688246745"
+      }
+    }
+  }
+}

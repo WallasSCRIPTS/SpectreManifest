@@ -1,0 +1,67 @@
+{
+  "name": "Finnish Cottage Simulator",
+  "source": "spectre",
+  "changenumber": 40610568,
+  "updated": "2026-11-06T23:09:39.113Z",
+  "branches": {
+    "public": {
+      "buildid": "25063229",
+      "timeupdated": "1788283526",
+      "timebuildupdated": "1788283134"
+    },
+    "fcspt": {
+      "buildid": "24075242",
+      "description": "Public testing",
+      "timeupdated": "1783351411",
+      "timebuildupdated": "1783351291"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1723781": {
+      "manifests": {
+        "public": {
+          "gid": "4342483928400998319",
+          "size": "4771455298",
+          "download": "3886358400"
+        }
+      }
+    },
+    "1723782": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3734601296661553270",
+          "size": "4771455298",
+          "download": "3885549360"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25063229",
+        "timeupdated": "1788283526",
+        "timebuildupdated": "1788283134"
+      },
+      "fcspt": {
+        "buildid": "24075242",
+        "description": "Public testing",
+        "timeupdated": "1783351411",
+        "timebuildupdated": "1783351291"
+      }
+    }
+  }
+}

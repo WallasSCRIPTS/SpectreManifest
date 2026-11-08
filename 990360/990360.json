@@ -1,0 +1,71 @@
+{
+  "name": "SKYHILL: Black Mist",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:16.630Z",
+  "branches": {
+    "public": {
+      "buildid": "6695304",
+      "timeupdated": "1620930519",
+      "timebuildupdated": "1620923027"
+    },
+    "beta_testing": {
+      "buildid": "5611941",
+      "timeupdated": "1601396081",
+      "timebuildupdated": "1601394501"
+    },
+    "old_save_system": {
+      "buildid": "5777659",
+      "description": "This branch is created for early players who want to continue playing with old saves",
+      "timeupdated": "1615219626",
+      "timebuildupdated": "1604414876"
+    }
+  },
+  "depot": {
+    "990361": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1085674631503338558",
+          "size": "3974275687",
+          "download": "1454906480"
+        }
+      }
+    },
+    "990362": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "1321370": {
+      "manifests": {
+        "public": {
+          "gid": "9009919429569113779",
+          "size": "30368175",
+          "download": "25785536"
+        }
+      },
+      "dlcappid": "1321370"
+    },
+    "branches": {
+      "public": {
+        "buildid": "6695304",
+        "timeupdated": "1620930519",
+        "timebuildupdated": "1620923027"
+      },
+      "beta_testing": {
+        "buildid": "5611941",
+        "timeupdated": "1601396081",
+        "timebuildupdated": "1601394501"
+      },
+      "old_save_system": {
+        "buildid": "5777659",
+        "description": "This branch is created for early players who want to continue playing with old saves",
+        "timeupdated": "1615219626",
+        "timebuildupdated": "1604414876"
+      }
+    }
+  }
+}

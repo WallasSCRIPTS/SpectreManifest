@@ -1,0 +1,70 @@
+{
+  "name": "Bombagun",
+  "source": "spectre",
+  "changenumber": 39554034,
+  "updated": "2026-11-06T21:05:48.132Z",
+  "branches": {
+    "public": {
+      "buildid": "8161119",
+      "timeupdated": "1644271492",
+      "timebuildupdated": "1644271482"
+    },
+    "beta": {
+      "buildid": "8203798",
+      "description": "beta build (only for testing)",
+      "timeupdated": "1644891746",
+      "timebuildupdated": "1644891746"
+    }
+  },
+  "depot": {
+    "1509781": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8224478646918337659",
+          "size": "129171952",
+          "download": "77267408"
+        }
+      }
+    },
+    "1509782": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1833693202732391912",
+          "size": "154358473",
+          "download": "86336320"
+        }
+      }
+    },
+    "1509783": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4165229446565246498",
+          "size": "130637880",
+          "download": "76622992"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8161119",
+        "timeupdated": "1644271492",
+        "timebuildupdated": "1644271482"
+      },
+      "beta": {
+        "buildid": "8203798",
+        "description": "beta build (only for testing)",
+        "timeupdated": "1644891746",
+        "timebuildupdated": "1644891746"
+      }
+    }
+  }
+}

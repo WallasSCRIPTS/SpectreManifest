@@ -1,0 +1,74 @@
+{
+  "name": "Riptale",
+  "source": "spectre",
+  "changenumber": 36898445,
+  "updated": "2026-11-07T20:59:16.927Z",
+  "branches": {
+    "public": {
+      "buildid": "1860330",
+      "timeupdated": "1496330571",
+      "timebuildupdated": "1496330571"
+    },
+    "beta": {
+      "buildid": "1854152",
+      "timeupdated": "1496138709",
+      "timebuildupdated": "1496138679"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "616001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4535153598611922251",
+          "size": "29793043",
+          "download": "16698160"
+        }
+      }
+    },
+    "616002": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1917792334073837913",
+          "size": "28725900",
+          "download": "16192896"
+        }
+      }
+    },
+    "616003": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4769061002213481770",
+          "size": "36081122",
+          "download": "20065376"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1860330",
+        "timeupdated": "1496330571",
+        "timebuildupdated": "1496330571"
+      },
+      "beta": {
+        "buildid": "1854152",
+        "timeupdated": "1496138709",
+        "timebuildupdated": "1496138679"
+      }
+    }
+  }
+}

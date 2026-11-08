@@ -1,0 +1,94 @@
+{
+  "name": "Resident Evil 3",
+  "source": "spectre",
+  "changenumber": 40463203,
+  "updated": "2026-11-07T21:01:55.962Z",
+  "branches": {
+    "public": {
+      "buildid": "24468913",
+      "timeupdated": "1790215927",
+      "timebuildupdated": "1785402426"
+    },
+    "dx11_non-rt": {
+      "buildid": "11047294",
+      "timeupdated": "1682584022",
+      "timebuildupdated": "1681976020"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "952061": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3564315731812381316",
+          "size": "25509850156",
+          "download": "21809067424"
+        }
+      }
+    },
+    "952062": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3791699160523467767",
+          "size": "24900546745",
+          "download": "21727940128"
+        }
+      }
+    },
+    "952063": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7504296696893507629",
+          "size": "680936443",
+          "download": "565900192"
+        }
+      },
+      "dlcappid": "1158730"
+    },
+    "952064": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4916965303803227400",
+          "size": "11404",
+          "download": "10800"
+        }
+      },
+      "dlcappid": "1348140"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24468913",
+        "timeupdated": "1790215927",
+        "timebuildupdated": "1785402426"
+      },
+      "dx11_non-rt": {
+        "buildid": "11047294",
+        "timeupdated": "1682584022",
+        "timebuildupdated": "1681976020"
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "name": "No Rest for the Wicked",
+  "source": "spectre",
+  "changenumber": 40632696,
+  "updated": "2026-11-06T21:04:44.941Z",
+  "branches": {
+    "public": {
+      "buildid": "22928553",
+      "timeupdated": "1777062122",
+      "timebuildupdated": "1776971659"
+    },
+    "crucible_legacy": {
+      "buildid": "20210114",
+      "description": "Crucible legacy build",
+      "timeupdated": "1759512770",
+      "timebuildupdated": "1759338792"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1371981": {
+      "manifests": {
+        "public": {
+          "gid": "510898126581031226",
+          "size": "48427898081",
+          "download": "18160294592"
+        }
+      }
+    },
+    "1371982": {
+      "manifests": {
+        "public": {
+          "gid": "8466480832192743958",
+          "size": "566045409",
+          "download": "388860000"
+        }
+      }
+    },
+    "1371983": {},
+    "1371984": {
+      "manifests": {
+        "public": {
+          "gid": "269809134955605024",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "1371985": {
+      "config": {
+        "oslist": "windows,macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5949813554702470180",
+          "size": "2614269684",
+          "download": "2451948080"
+        }
+      }
+    },
+    "1371986": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1521315808141174752",
+          "size": "2622556436",
+          "download": "2461096096"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22928553",
+        "timeupdated": "1777062122",
+        "timebuildupdated": "1776971659"
+      },
+      "crucible_legacy": {
+        "buildid": "20210114",
+        "description": "Crucible legacy build",
+        "timeupdated": "1759512770",
+        "timebuildupdated": "1759338792"
+      }
+    }
+  }
+}

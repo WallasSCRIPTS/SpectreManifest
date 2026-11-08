@@ -1,0 +1,58 @@
+{
+  "name": "Subwar 2050",
+  "source": "spectre",
+  "changenumber": 40310523,
+  "updated": "2026-11-07T21:00:24.533Z",
+  "branches": {
+    "public": {
+      "buildid": "18667384",
+      "timeupdated": "1749271686",
+      "timebuildupdated": "1748569989"
+    }
+  },
+  "depot": {
+    "752061": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5038585038658808194",
+          "size": "61637548",
+          "download": "29124976"
+        }
+      }
+    },
+    "752062": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2481893976829425642",
+          "size": "58119951",
+          "download": "30621104"
+        }
+      }
+    },
+    "752063": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4254883750874145006",
+          "size": "64311806",
+          "download": "32118208"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18667384",
+        "timeupdated": "1749271686",
+        "timebuildupdated": "1748569989"
+      }
+    }
+  }
+}

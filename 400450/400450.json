@@ -1,0 +1,86 @@
+{
+  "name": "NeuroVoider",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:33.032Z",
+  "branches": {
+    "public": {
+      "buildid": "22912734",
+      "timeupdated": "1776982373",
+      "timebuildupdated": "1776896322"
+    },
+    "legacy": {
+      "buildid": "3600119",
+      "description": "For using pre-2026 compatibility version",
+      "timeupdated": "1551780874",
+      "timebuildupdated": "1551280107"
+    }
+  },
+  "depot": {
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "400451": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "521417550016909878",
+          "size": "133427417",
+          "download": "115253040"
+        }
+      }
+    },
+    "400452": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "256478555225505045",
+          "size": "173094354",
+          "download": "125816624"
+        }
+      }
+    },
+    "400453": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3702754487029050455",
+          "size": "135883243",
+          "download": "116389648"
+        }
+      }
+    },
+    "521010": {
+      "manifests": {
+        "public": {
+          "gid": "4990180538772239707",
+          "size": "3256670234",
+          "download": "2757632464"
+        }
+      },
+      "dlcappid": "521010"
+    },
+    "branches": {
+      "public": {
+        "buildid": "22912734",
+        "timeupdated": "1776982373",
+        "timebuildupdated": "1776896322"
+      },
+      "legacy": {
+        "buildid": "3600119",
+        "description": "For using pre-2026 compatibility version",
+        "timeupdated": "1551780874",
+        "timebuildupdated": "1551280107"
+      }
+    }
+  }
+}

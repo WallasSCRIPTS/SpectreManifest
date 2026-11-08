@@ -1,0 +1,58 @@
+{
+  "name": "POI: VR Dance Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-06T23:23:24.036Z",
+  "branches": {
+    "public": {
+      "buildid": "11157372",
+      "timeupdated": "1683317631",
+      "timebuildupdated": "1683222719"
+    },
+    "liv_add-on": {
+      "buildid": "11167371",
+      "description": "Uses DirectX 11",
+      "timeupdated": "1683317835",
+      "timebuildupdated": "1683317816"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2401261": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7547021686476734774",
+          "size": "5540524740",
+          "download": "5235144336"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11157372",
+        "timeupdated": "1683317631",
+        "timebuildupdated": "1683222719"
+      },
+      "liv_add-on": {
+        "buildid": "11167371",
+        "description": "Uses DirectX 11",
+        "timeupdated": "1683317835",
+        "timebuildupdated": "1683317816"
+      }
+    }
+  }
+}

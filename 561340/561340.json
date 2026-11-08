@@ -1,0 +1,64 @@
+{
+  "name": "Merlin adventurer store",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:58:48.242Z",
+  "branches": {
+    "public": {
+      "buildid": "1562183",
+      "timeupdated": "1484119273",
+      "timebuildupdated": "1484118810"
+    },
+    "local": {
+      "buildid": "1475471",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1479867203",
+      "timebuildupdated": "1479867203"
+    },
+    "test": {
+      "buildid": "1558212",
+      "timeupdated": "1483961678",
+      "timebuildupdated": "1483961543"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "561341": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3226381689646917562",
+          "size": "142065407",
+          "download": "124274144"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1562183",
+        "timeupdated": "1484119273",
+        "timebuildupdated": "1484118810"
+      },
+      "local": {
+        "buildid": "1475471",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1479867203",
+        "timebuildupdated": "1479867203"
+      },
+      "test": {
+        "buildid": "1558212",
+        "timeupdated": "1483961678",
+        "timebuildupdated": "1483961543"
+      }
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "name": "Ara: History Untold",
+  "source": "spectre",
+  "changenumber": 39550821,
+  "updated": "2026-11-06T23:15:37.497Z",
+  "branches": {
+    "public": {
+      "buildid": "23687535",
+      "timeupdated": "1781204378",
+      "timebuildupdated": "1781204378"
+    },
+    "preview": {
+      "buildid": "23649351",
+      "description": "Preview of next release",
+      "timeupdated": "1781040098",
+      "timebuildupdated": "1781040098"
+    },
+    "v1.3.1_legacy": {
+      "buildid": "18302361",
+      "description": "We are providing a legacy version of v1.3.1, allowing players to complete their old games before upgrading to v1.4.0.",
+      "timeupdated": "1749499612",
+      "timebuildupdated": "1746050521"
+    },
+    "v1.4.1_legacy": {
+      "buildid": "19400708",
+      "description": "We are providing a legacy version of v1.4.1, allowing players to complete their old games before upgrading to v2.0",
+      "timeupdated": "1758130927",
+      "timebuildupdated": "1753801749"
+    },
+    "v2.0.2_legacy": {
+      "buildid": "20610041",
+      "description": "We are providing a legacy version of v2.0.2, allowing players to complete their old games before upgrading to v2.1",
+      "timeupdated": "1781106942",
+      "timebuildupdated": "1761847147"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2021881": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2028503611726990938",
+          "size": "37052322297",
+          "download": "17822927568"
+        }
+      }
+    },
+    "3144830": {
+      "manifests": {
+        "public": {
+          "gid": "1036188934286123835",
+          "size": "57215599",
+          "download": "51147104"
+        }
+      },
+      "dlcappid": "3144830"
+    },
+    "branches": {
+      "public": {
+        "buildid": "23687535",
+        "timeupdated": "1781204378",
+        "timebuildupdated": "1781204378"
+      },
+      "preview": {
+        "buildid": "23649351",
+        "description": "Preview of next release",
+        "timeupdated": "1781040098",
+        "timebuildupdated": "1781040098"
+      },
+      "v1.3.1_legacy": {
+        "buildid": "18302361",
+        "description": "We are providing a legacy version of v1.3.1, allowing players to complete their old games before upgrading to v1.4.0.",
+        "timeupdated": "1749499612",
+        "timebuildupdated": "1746050521"
+      },
+      "v1.4.1_legacy": {
+        "buildid": "19400708",
+        "description": "We are providing a legacy version of v1.4.1, allowing players to complete their old games before upgrading to v2.0",
+        "timeupdated": "1758130927",
+        "timebuildupdated": "1753801749"
+      },
+      "v2.0.2_legacy": {
+        "buildid": "20610041",
+        "description": "We are providing a legacy version of v2.0.2, allowing players to complete their old games before upgrading to v2.1",
+        "timeupdated": "1781106942",
+        "timebuildupdated": "1761847147"
+      }
+    }
+  }
+}

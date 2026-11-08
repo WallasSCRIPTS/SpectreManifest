@@ -1,0 +1,73 @@
+{
+  "name": "QuickNES",
+  "source": "spectre",
+  "changenumber": 40627075,
+  "updated": "2026-11-06T21:03:44.226Z",
+  "branches": {
+    "public": {
+      "buildid": "20833890",
+      "timeupdated": "1763418672",
+      "timebuildupdated": "1763416479"
+    },
+    "nightly": {
+      "buildid": "26456971",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793879199",
+      "timebuildupdated": "1793879199"
+    }
+  },
+  "depot": {
+    "1227459": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1328838407179162492",
+          "size": "1396117",
+          "download": "198000"
+        }
+      },
+      "dlcappid": "1227459"
+    },
+    "1789950": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6674741305779284439",
+          "size": "1372439",
+          "download": "118064"
+        }
+      },
+      "dlcappid": "1227459"
+    },
+    "1789951": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1117945984879782413",
+          "size": "2649431",
+          "download": "234048"
+        }
+      },
+      "dlcappid": "1227459"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833890",
+        "timeupdated": "1763418672",
+        "timebuildupdated": "1763416479"
+      },
+      "nightly": {
+        "buildid": "26456971",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793879199",
+        "timebuildupdated": "1793879199"
+      }
+    }
+  }
+}

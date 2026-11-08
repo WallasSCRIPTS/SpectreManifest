@@ -1,0 +1,78 @@
+{
+  "name": "Shredders",
+  "source": "spectre",
+  "changenumber": 40682625,
+  "updated": "2026-11-06T23:11:41.650Z",
+  "branches": {
+    "public": {
+      "buildid": "22053287",
+      "timeupdated": "1772640482",
+      "timebuildupdated": "1771845530"
+    },
+    "steamdeck": {
+      "buildid": "12772925",
+      "description": "if the main branch doesn't work, use this one",
+      "timeupdated": "1701213417",
+      "timebuildupdated": "1700669316"
+    },
+    "previous_version": {
+      "buildid": "20333092",
+      "description": "Pre Current patch version of the game",
+      "timeupdated": "1764063772",
+      "timebuildupdated": "1760082091"
+    },
+    "public_beta": {
+      "buildid": "20981973",
+      "description": "For Public beta builds prior to release",
+      "timeupdated": "1764346181",
+      "timebuildupdated": "1764344347"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1874171": {
+      "manifests": {
+        "public": {
+          "gid": "8542494926278421737",
+          "size": "23322769812",
+          "download": "14442454400"
+        }
+      }
+    },
+    "1874172": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22053287",
+        "timeupdated": "1772640482",
+        "timebuildupdated": "1771845530"
+      },
+      "steamdeck": {
+        "buildid": "12772925",
+        "description": "if the main branch doesn't work, use this one",
+        "timeupdated": "1701213417",
+        "timebuildupdated": "1700669316"
+      },
+      "previous_version": {
+        "buildid": "20333092",
+        "description": "Pre Current patch version of the game",
+        "timeupdated": "1764063772",
+        "timebuildupdated": "1760082091"
+      },
+      "public_beta": {
+        "buildid": "20981973",
+        "description": "For Public beta builds prior to release",
+        "timeupdated": "1764346181",
+        "timebuildupdated": "1764344347"
+      }
+    }
+  }
+}

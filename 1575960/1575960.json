@@ -1,0 +1,65 @@
+{
+  "name": "The Exaggerated Epoch of Edward O'Hare",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:06:17.085Z",
+  "branches": {
+    "public": {
+      "buildid": "21090434",
+      "timeupdated": "1765134161",
+      "timebuildupdated": "1765133254"
+    },
+    "defaultmac": {
+      "buildid": "6701711",
+      "description": "Public branch for Mac",
+      "timeupdated": "1621013358",
+      "timebuildupdated": "1621013358"
+    },
+    "local": {
+      "buildid": "6479478",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1617328554",
+      "timebuildupdated": "1617328554"
+    }
+  },
+  "depot": {
+    "1575961": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3523693381151679594",
+          "size": "1721254571",
+          "download": "430790736"
+        }
+      }
+    },
+    "1575962": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21090434",
+        "timeupdated": "1765134161",
+        "timebuildupdated": "1765133254"
+      },
+      "defaultmac": {
+        "buildid": "6701711",
+        "description": "Public branch for Mac",
+        "timeupdated": "1621013358",
+        "timebuildupdated": "1621013358"
+      },
+      "local": {
+        "buildid": "6479478",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1617328554",
+        "timebuildupdated": "1617328554"
+      }
+    }
+  }
+}

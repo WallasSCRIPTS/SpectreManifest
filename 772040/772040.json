@@ -1,0 +1,63 @@
+{
+  "name": "Freedom Planet 2 Sample Version",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:00:34.367Z",
+  "branches": {
+    "public": {
+      "buildid": "9627517",
+      "timeupdated": "1664548428",
+      "timebuildupdated": "1664547049"
+    },
+    "beta": {
+      "buildid": "9627517",
+      "description": "For testing",
+      "timeupdated": "1664547071",
+      "timebuildupdated": "1664547049"
+    }
+  },
+  "depot": {
+    "772041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5547903202530692454",
+          "size": "332508963",
+          "download": "82602992"
+        }
+      }
+    },
+    "772042": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3666047640326255059",
+          "size": "153182587",
+          "download": "44066896"
+        }
+      }
+    },
+    "772043": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9627517",
+        "timeupdated": "1664548428",
+        "timebuildupdated": "1664547049"
+      },
+      "beta": {
+        "buildid": "9627517",
+        "description": "For testing",
+        "timeupdated": "1664547071",
+        "timebuildupdated": "1664547049"
+      }
+    }
+  }
+}

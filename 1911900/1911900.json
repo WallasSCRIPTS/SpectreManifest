@@ -1,0 +1,58 @@
+{
+  "name": "OverNight",
+  "source": "spectre",
+  "changenumber": 35501280,
+  "updated": "2026-11-06T23:13:30.025Z",
+  "branches": {
+    "public": {
+      "buildid": "13038053",
+      "timeupdated": "1703375918",
+      "timebuildupdated": "1703375203"
+    },
+    "beta": {
+      "buildid": "13038053",
+      "description": "Testing",
+      "timeupdated": "1703375862",
+      "timebuildupdated": "1703375203"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1911901": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7864688439080121843",
+          "size": "4943066051",
+          "download": "3372802752"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13038053",
+        "timeupdated": "1703375918",
+        "timebuildupdated": "1703375203"
+      },
+      "beta": {
+        "buildid": "13038053",
+        "description": "Testing",
+        "timeupdated": "1703375862",
+        "timebuildupdated": "1703375203"
+      }
+    }
+  }
+}

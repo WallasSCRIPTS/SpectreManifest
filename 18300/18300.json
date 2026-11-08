@@ -1,0 +1,62 @@
+{
+  "name": "Spectraball",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:47.195Z",
+  "branches": {
+    "public": {
+      "buildid": "119461",
+      "timebuildupdated": "1380163020"
+    }
+  },
+  "depot": {
+    "18301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2490965323243823968",
+          "size": "648200328",
+          "download": "0"
+        }
+      }
+    },
+    "18302": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3941904040761063365",
+          "size": "669620424",
+          "download": "0"
+        }
+      }
+    },
+    "18303": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3144135049641174720",
+          "size": "712230190",
+          "download": "0"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "119461",
+        "timebuildupdated": "1380163020"
+      }
+    }
+  }
+}

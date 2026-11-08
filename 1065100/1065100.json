@@ -1,0 +1,79 @@
+{
+  "name": "Golden Treasure: The Great Green",
+  "source": "spectre",
+  "changenumber": 37741593,
+  "updated": "2026-11-07T21:02:54.947Z",
+  "branches": {
+    "public": {
+      "buildid": "20638812",
+      "timeupdated": "1762077510",
+      "timebuildupdated": "1762077510"
+    },
+    "preybeta": {
+      "buildid": "20728585",
+      "description": "Beta for testing modded prey capabilities",
+      "timeupdated": "1762693269",
+      "timebuildupdated": "1762693269"
+    }
+  },
+  "depot": {
+    "1065101": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7006635369286953125",
+          "size": "1567649893",
+          "download": "1008418960"
+        }
+      }
+    },
+    "1065102": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8783593982863690403",
+          "size": "1573170095",
+          "download": "1005112864"
+        }
+      }
+    },
+    "1065104": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "dlcappid": "1221760"
+    },
+    "1065105": {
+      "config": {
+        "oslist": "macos"
+      },
+      "dlcappid": "1221760"
+    },
+    "1105880": {
+      "manifests": {
+        "public": {
+          "gid": "1162258913956942975",
+          "size": "176979749",
+          "download": "175500544"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20638812",
+        "timeupdated": "1762077510",
+        "timebuildupdated": "1762077510"
+      },
+      "preybeta": {
+        "buildid": "20728585",
+        "description": "Beta for testing modded prey capabilities",
+        "timeupdated": "1762693269",
+        "timebuildupdated": "1762693269"
+      }
+    }
+  }
+}

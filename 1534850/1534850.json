@@ -1,0 +1,82 @@
+{
+  "name": "Floor Plan 2 VR",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:57.998Z",
+  "branches": {
+    "public": {
+      "buildid": "24417085",
+      "timeupdated": "1785174413",
+      "timebuildupdated": "1785174360"
+    },
+    "v1.0": {
+      "buildid": "6497757",
+      "description": "2021 launch version.",
+      "timeupdated": "1685059355",
+      "timebuildupdated": "1617734036"
+    },
+    "beta": {
+      "buildid": "24417085",
+      "description": "Prerelease testing branch.",
+      "timeupdated": "1785174360",
+      "timebuildupdated": "1785174360"
+    },
+    "v2.0": {
+      "buildid": "20265102",
+      "description": "Backside Story Open VR Version",
+      "timeupdated": "1759725274",
+      "timebuildupdated": "1759724333"
+    }
+  },
+  "depot": {
+    "1534851": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7933801282932180901",
+          "size": "2015534642",
+          "download": "1504154912"
+        }
+      }
+    },
+    "1534852": {
+      "config": {
+        "oslist": "android"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5912638986447499688",
+          "size": "1957920973",
+          "download": "1606071248"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24417085",
+        "timeupdated": "1785174413",
+        "timebuildupdated": "1785174360"
+      },
+      "v1.0": {
+        "buildid": "6497757",
+        "description": "2021 launch version.",
+        "timeupdated": "1685059355",
+        "timebuildupdated": "1617734036"
+      },
+      "beta": {
+        "buildid": "24417085",
+        "description": "Prerelease testing branch.",
+        "timeupdated": "1785174360",
+        "timebuildupdated": "1785174360"
+      },
+      "v2.0": {
+        "buildid": "20265102",
+        "description": "Backside Story Open VR Version",
+        "timeupdated": "1759725274",
+        "timebuildupdated": "1759724333"
+      }
+    }
+  }
+}

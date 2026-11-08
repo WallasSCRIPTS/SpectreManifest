@@ -1,0 +1,70 @@
+{
+  "name": "Imagine Earth",
+  "source": "spectre",
+  "changenumber": 40395553,
+  "updated": "2026-11-07T20:56:21.696Z",
+  "branches": {
+    "public": {
+      "buildid": "21788655",
+      "timeupdated": "1770241857",
+      "timebuildupdated": "1770241374"
+    },
+    "windows7": {
+      "buildid": "17469031",
+      "description": "Last version that worked with windows 7. Savegames of current game version will not work here.",
+      "timeupdated": "1741867547",
+      "timebuildupdated": "1740253630"
+    }
+  },
+  "depot": {
+    "280721": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1139117699603617922",
+          "size": "1322462787",
+          "download": "1127057120"
+        }
+      }
+    },
+    "280722": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7871899729682705054",
+          "size": "1324938325",
+          "download": "1130887648"
+        }
+      }
+    },
+    "280723": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9040501910241818732",
+          "size": "1499512955",
+          "download": "1169180736"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21788655",
+        "timeupdated": "1770241857",
+        "timebuildupdated": "1770241374"
+      },
+      "windows7": {
+        "buildid": "17469031",
+        "description": "Last version that worked with windows 7. Savegames of current game version will not work here.",
+        "timeupdated": "1741867547",
+        "timebuildupdated": "1740253630"
+      }
+    }
+  }
+}

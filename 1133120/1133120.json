@@ -1,0 +1,71 @@
+{
+  "name": "Ecosystem",
+  "source": "spectre",
+  "changenumber": 37508621,
+  "updated": "2026-11-07T21:03:36.796Z",
+  "branches": {
+    "public": {
+      "buildid": "20270923",
+      "timeupdated": "1759757609",
+      "timebuildupdated": "1759757301"
+    },
+    "combatopenbeta": {
+      "buildid": "12186533",
+      "description": "Open beta for the Combat Update",
+      "timeupdated": "1694686414",
+      "timebuildupdated": "1694680745"
+    },
+    "openbeta": {
+      "buildid": "14132098",
+      "description": "Open beta channel",
+      "timeupdated": "1713786456",
+      "timebuildupdated": "1713786425"
+    }
+  },
+  "depot": {
+    "1133121": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4607063962514286793",
+          "size": "3917747144",
+          "download": "1061900576"
+        }
+      }
+    },
+    "1133122": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "741983109193430584",
+          "size": "48283688",
+          "download": "48286784"
+        }
+      },
+      "dlcappid": "3816870"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20270923",
+        "timeupdated": "1759757609",
+        "timebuildupdated": "1759757301"
+      },
+      "combatopenbeta": {
+        "buildid": "12186533",
+        "description": "Open beta for the Combat Update",
+        "timeupdated": "1694686414",
+        "timebuildupdated": "1694680745"
+      },
+      "openbeta": {
+        "buildid": "14132098",
+        "description": "Open beta channel",
+        "timeupdated": "1713786456",
+        "timebuildupdated": "1713786425"
+      }
+    }
+  }
+}

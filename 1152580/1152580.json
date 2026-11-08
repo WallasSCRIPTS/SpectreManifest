@@ -1,0 +1,70 @@
+{
+  "name": "Ann Achronist: Many Happy Returns",
+  "source": "spectre",
+  "changenumber": 34847880,
+  "updated": "2026-11-07T21:03:46.835Z",
+  "branches": {
+    "public": {
+      "buildid": "7193260",
+      "timeupdated": "1629060075",
+      "timebuildupdated": "1629056341"
+    },
+    "backup": {
+      "buildid": "7082540",
+      "description": "previous stable build",
+      "timeupdated": "1629060088",
+      "timebuildupdated": "1627155537"
+    },
+    "frontline": {
+      "buildid": "7193260",
+      "description": "potentially unstable builds",
+      "timeupdated": "1629056596",
+      "timebuildupdated": "1629056341"
+    }
+  },
+  "depot": {
+    "1152581": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1889860333747295735",
+          "size": "292751446",
+          "download": "75556544"
+        }
+      }
+    },
+    "1152582": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8767966176365577934",
+          "size": "296189864",
+          "download": "77418096"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7193260",
+        "timeupdated": "1629060075",
+        "timebuildupdated": "1629056341"
+      },
+      "backup": {
+        "buildid": "7082540",
+        "description": "previous stable build",
+        "timeupdated": "1629060088",
+        "timebuildupdated": "1627155537"
+      },
+      "frontline": {
+        "buildid": "7193260",
+        "description": "potentially unstable builds",
+        "timeupdated": "1629056596",
+        "timebuildupdated": "1629056341"
+      }
+    }
+  }
+}

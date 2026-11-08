@@ -1,0 +1,56 @@
+{
+  "name": "Campfire Cooking",
+  "source": "spectre",
+  "changenumber": 40630016,
+  "updated": "2026-11-07T20:59:45.050Z",
+  "branches": {
+    "public": {
+      "buildid": "11153093",
+      "timeupdated": "1683203283",
+      "timebuildupdated": "1683188321"
+    },
+    "highcompatibility": {
+      "buildid": "2262710",
+      "timeupdated": "1510017207",
+      "timebuildupdated": "1510016897"
+    }
+  },
+  "depot": {
+    "679501": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3629533417670121232",
+          "size": "284080259",
+          "download": "58484560"
+        }
+      }
+    },
+    "679502": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3421040243844748637",
+          "size": "309712765",
+          "download": "66512992"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11153093",
+        "timeupdated": "1683203283",
+        "timebuildupdated": "1683188321"
+      },
+      "highcompatibility": {
+        "buildid": "2262710",
+        "timeupdated": "1510017207",
+        "timebuildupdated": "1510016897"
+      }
+    }
+  }
+}

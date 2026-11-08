@@ -1,0 +1,82 @@
+{
+  "name": "Traveler",
+  "source": "spectre",
+  "changenumber": 39360483,
+  "updated": "2026-11-06T23:19:28.566Z",
+  "branches": {
+    "public": {
+      "buildid": "25334296",
+      "timeupdated": "1789514418",
+      "timebuildupdated": "1789514418"
+    },
+    "beta": {
+      "buildid": "25334276",
+      "description": "Beta Branch",
+      "timeupdated": "1789520659",
+      "timebuildupdated": "1789514343"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2184273": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2023198612598769773",
+          "size": "1540692863",
+          "download": "1136281360"
+        }
+      }
+    },
+    "2184274": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1291490763538296623",
+          "size": "8",
+          "download": "64"
+        }
+      }
+    },
+    "2184275": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2414473886418848556",
+          "size": "1626831599",
+          "download": "1140917360"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25334296",
+        "timeupdated": "1789514418",
+        "timebuildupdated": "1789514418"
+      },
+      "beta": {
+        "buildid": "25334276",
+        "description": "Beta Branch",
+        "timeupdated": "1789520659",
+        "timebuildupdated": "1789514343"
+      }
+    }
+  }
+}

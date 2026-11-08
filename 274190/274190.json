@@ -1,0 +1,116 @@
+{
+  "name": "Broforce",
+  "source": "spectre",
+  "changenumber": 38481754,
+  "updated": "2026-11-07T20:56:19.826Z",
+  "branches": {
+    "2018": {
+      "buildid": "2775457",
+      "timeupdated": "1548081963",
+      "timebuildupdated": "1526388884"
+    },
+    "public": {
+      "buildid": "12964083",
+      "timeupdated": "1703157190",
+      "timebuildupdated": "1702573153"
+    },
+    "beta": {
+      "buildid": "1870405",
+      "description": "public beta build",
+      "timeupdated": "1565273189",
+      "timebuildupdated": "1496751577"
+    },
+    "linuxmorestable": {
+      "buildid": "891479",
+      "timeupdated": "1464776841",
+      "timebuildupdated": "1449662723"
+    },
+    "proc_gen_experimental": {
+      "buildid": "4087242",
+      "timeupdated": "1565276600",
+      "timebuildupdated": "1565276600"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "274191": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7370563841668439350",
+          "size": "549145899",
+          "download": "414924256"
+        }
+      }
+    },
+    "274192": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6287900867923783365",
+          "size": "538419627",
+          "download": "412572448"
+        }
+      }
+    },
+    "274193": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "483845359829962807",
+          "size": "571899614",
+          "download": "423920624"
+        }
+      }
+    },
+    "408720": {
+      "manifests": {
+        "public": {
+          "gid": "783117458419090460",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "408720"
+    },
+    "branches": {
+      "2018": {
+        "buildid": "2775457",
+        "timeupdated": "1548081963",
+        "timebuildupdated": "1526388884"
+      },
+      "public": {
+        "buildid": "12964083",
+        "timeupdated": "1703157190",
+        "timebuildupdated": "1702573153"
+      },
+      "beta": {
+        "buildid": "1870405",
+        "description": "public beta build",
+        "timeupdated": "1565273189",
+        "timebuildupdated": "1496751577"
+      },
+      "linuxmorestable": {
+        "buildid": "891479",
+        "timeupdated": "1464776841",
+        "timebuildupdated": "1449662723"
+      },
+      "proc_gen_experimental": {
+        "buildid": "4087242",
+        "timeupdated": "1565276600",
+        "timebuildupdated": "1565276600"
+      }
+    }
+  }
+}

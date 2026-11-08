@@ -1,0 +1,58 @@
+{
+  "name": "Cock Soccer",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-05T14:49:43.790Z",
+  "branches": {
+    "public": {
+      "buildid": "12152371",
+      "timeupdated": "1694328181",
+      "timebuildupdated": "1694328181"
+    },
+    "win32": {
+      "buildid": "12152388",
+      "description": "Runs slightly smoother on low spec machines.",
+      "timeupdated": "1694328918",
+      "timebuildupdated": "1694328918"
+    }
+  },
+  "depot": {
+    "1251251": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1018095537885951409",
+          "size": "5177142064",
+          "download": "800016544"
+        }
+      }
+    },
+    "1251252": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7861326425096533055",
+          "size": "5035164225",
+          "download": "711878352"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12152371",
+        "timeupdated": "1694328181",
+        "timebuildupdated": "1694328181"
+      },
+      "win32": {
+        "buildid": "12152388",
+        "description": "Runs slightly smoother on low spec machines.",
+        "timeupdated": "1694328918",
+        "timebuildupdated": "1694328918"
+      }
+    }
+  }
+}

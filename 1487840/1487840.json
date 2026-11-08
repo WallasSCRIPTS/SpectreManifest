@@ -1,0 +1,68 @@
+{
+  "name": "Chess Destroyer",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:38.511Z",
+  "branches": {
+    "public": {
+      "buildid": "10239329",
+      "timeupdated": "1672574211",
+      "timebuildupdated": "1672574211"
+    },
+    "beta": {
+      "buildid": "11707312",
+      "description": "Multiplayer",
+      "timeupdated": "1689373522",
+      "timebuildupdated": "1689373522"
+    }
+  },
+  "depot": {
+    "1487841": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "862851992688457605",
+          "size": "162927587",
+          "download": "59648880"
+        }
+      }
+    },
+    "1487842": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2211211357303370163",
+          "size": "143024914",
+          "download": "43561776"
+        }
+      }
+    },
+    "1487843": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "1487844": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10239329",
+        "timeupdated": "1672574211",
+        "timebuildupdated": "1672574211"
+      },
+      "beta": {
+        "buildid": "11707312",
+        "description": "Multiplayer",
+        "timeupdated": "1689373522",
+        "timebuildupdated": "1689373522"
+      }
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "name": "Quadrilateral Cowboy",
+  "source": "spectre",
+  "changenumber": 39426060,
+  "updated": "2026-11-07T20:56:09.491Z",
+  "branches": {
+    "public": {
+      "buildid": "23943114",
+      "timeupdated": "1782543276",
+      "timebuildupdated": "1782543170"
+    },
+    "linux32": {
+      "buildid": "2233507",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609455321",
+      "timebuildupdated": "1509044071"
+    },
+    "next_update": {
+      "buildid": "23943114",
+      "description": "Incoming fixes and changes.",
+      "timeupdated": "1782543170",
+      "timebuildupdated": "1782543170"
+    }
+  },
+  "depot": {
+    "240441": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3675678068969186959",
+          "size": "659219639",
+          "download": "650487344"
+        }
+      }
+    },
+    "240442": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2084225317408358967",
+          "size": "675182064",
+          "download": "663402400"
+        }
+      }
+    },
+    "240443": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3273805307044231154",
+          "size": "683518818",
+          "download": "666960592"
+        }
+      }
+    },
+    "240444": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2733417717286294515",
+          "size": "76397878",
+          "download": "31287216"
+        }
+      },
+      "dlcappid": "489490"
+    },
+    "240445": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8518959491581244235",
+          "size": "94451556",
+          "download": "32296608"
+        }
+      },
+      "dlcappid": "489490"
+    },
+    "460091": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5795316432795095447",
+          "size": "651456",
+          "download": "188880"
+        }
+      },
+      "depotfromapp": "460090"
+    },
+    "489490": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "314108046834748541",
+          "size": "50161098",
+          "download": "23482208"
+        }
+      },
+      "dlcappid": "489490"
+    },
+    "branches": {
+      "public": {
+        "buildid": "23943114",
+        "timeupdated": "1782543276",
+        "timebuildupdated": "1782543170"
+      },
+      "linux32": {
+        "buildid": "2233507",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609455321",
+        "timebuildupdated": "1509044071"
+      },
+      "next_update": {
+        "buildid": "23943114",
+        "description": "Incoming fixes and changes.",
+        "timeupdated": "1782543170",
+        "timebuildupdated": "1782543170"
+      }
+    }
+  }
+}

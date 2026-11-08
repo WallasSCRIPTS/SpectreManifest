@@ -1,0 +1,62 @@
+{
+  "name": "iBomber Defense",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:58.982Z",
+  "branches": {
+    "public": {
+      "buildid": "814688",
+      "timebuildupdated": "1444824196"
+    }
+  },
+  "depot": {
+    "104001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9094406936112524323",
+          "size": "99326911",
+          "download": "93764304"
+        }
+      }
+    },
+    "104002": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8477670700456939041",
+          "size": "103060365",
+          "download": "96698032"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "814688",
+        "timebuildupdated": "1444824196"
+      }
+    }
+  }
+}

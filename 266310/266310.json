@@ -1,0 +1,698 @@
+{
+  "name": "GameGuru Classic",
+  "source": "spectre",
+  "changenumber": 40607896,
+  "updated": "2026-11-07T20:56:17.710Z",
+  "branches": {
+    "public": {
+      "buildid": "19486695",
+      "timeupdated": "1754412827",
+      "timebuildupdated": "1754412827"
+    },
+    "december-fixes-2022": {
+      "buildid": "10318775",
+      "description": "december-fixes-2022",
+      "timeupdated": "1678291237",
+      "timebuildupdated": "1673641832"
+    },
+    "december-fixes-2023": {
+      "buildid": "12892230",
+      "description": "december-fixes-2023",
+      "timeupdated": "1709836516",
+      "timebuildupdated": "1701883359"
+    },
+    "june-fixes-2022": {
+      "buildid": "9002061",
+      "description": "june-fixes-2022",
+      "timeupdated": "1660138502",
+      "timebuildupdated": "1656083437"
+    },
+    "june-fixes-2023": {
+      "buildid": "11966540",
+      "description": "june-fixes-2023",
+      "timeupdated": "1694008177",
+      "timebuildupdated": "1692285822"
+    },
+    "march-fixes-2021": {
+      "buildid": "6367851",
+      "description": "March Fixes 2021",
+      "timeupdated": "1623322782",
+      "timebuildupdated": "1615497694"
+    },
+    "march-fixes-2022": {
+      "buildid": "8367121",
+      "description": "March FIxes 2022",
+      "timeupdated": "1655122708",
+      "timebuildupdated": "1647265914"
+    },
+    "march-fixes-2023": {
+      "buildid": "11413917",
+      "description": "march-fixes-2023",
+      "timeupdated": "1686141205",
+      "timebuildupdated": "1686141204"
+    },
+    "public-release-2019.09.16": {
+      "buildid": "4298164",
+      "timeupdated": "1576805184",
+      "timebuildupdated": "1571338382"
+    },
+    "public-release-2020.10.02": {
+      "buildid": "5628698",
+      "description": "Autumn Fixes",
+      "timeupdated": "1607453418",
+      "timebuildupdated": "1601650765"
+    },
+    "public-release-2020.12.16": {
+      "buildid": "5964507",
+      "description": "Christmas Fixes",
+      "timeupdated": "1615497653",
+      "timebuildupdated": "1607947600"
+    },
+    "public-release-v1.13": {
+      "buildid": "1072144",
+      "description": "Frozen At V1.13",
+      "timeupdated": "1465240658",
+      "timebuildupdated": "1460557391"
+    },
+    "september-fixes-2022": {
+      "buildid": "9516749",
+      "description": "september-fixes-2022",
+      "timeupdated": "1665503451",
+      "timebuildupdated": "1663177446"
+    },
+    "september-fixes-2023": {
+      "buildid": "12091829",
+      "description": "september-fixes-2023",
+      "timeupdated": "1701883003",
+      "timebuildupdated": "1693596476"
+    },
+    "beta": {
+      "buildid": "19486637",
+      "description": "Game Guru Beta",
+      "timeupdated": "1754412498",
+      "timebuildupdated": "1754412498"
+    },
+    "december-fixes-2024": {
+      "buildid": "16630050",
+      "description": "december-fixes-2024",
+      "timeupdated": "1741622311",
+      "timebuildupdated": "1733321091"
+    },
+    "june-fixes-2024": {
+      "buildid": "14599310",
+      "description": "june-fixes-2024",
+      "timeupdated": "1725892932",
+      "timebuildupdated": "1717510805"
+    },
+    "march-fixes-2024": {
+      "buildid": "13703529",
+      "description": "march-fixes-2024",
+      "timeupdated": "1717416063",
+      "timebuildupdated": "1710169734"
+    },
+    "march-fixes-2025": {
+      "buildid": "19085534",
+      "description": "march-fixes-2025",
+      "timeupdated": "1754412474",
+      "timebuildupdated": "1751495372"
+    },
+    "publicpreview": {
+      "buildid": "19486641",
+      "description": "Public Preview",
+      "timeupdated": "1754412514",
+      "timebuildupdated": "1754412513"
+    },
+    "september-fixes-2024": {
+      "buildid": "15639661",
+      "description": "september-fixes-2024",
+      "timeupdated": "1733319608",
+      "timebuildupdated": "1725892959"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "266311": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1883178605046777468",
+          "size": "9998231747",
+          "download": "3266985040"
+        }
+      }
+    },
+    "266312": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1665326620875035761",
+          "size": "9440504172",
+          "download": "3008777520"
+        }
+      }
+    },
+    "321140": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "883603378483681200",
+          "size": "1387971967",
+          "download": "318056000"
+        }
+      },
+      "dlcappid": "321140"
+    },
+    "321141": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7613612883485684566",
+          "size": "1401795965",
+          "download": "449273040"
+        }
+      },
+      "dlcappid": "321141"
+    },
+    "321142": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8053152552503260126",
+          "size": "5285990103",
+          "download": "1939039088"
+        }
+      },
+      "dlcappid": "321142"
+    },
+    "365520": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7828855718254455429",
+          "size": "1549045569",
+          "download": "520720064"
+        }
+      },
+      "dlcappid": "365520"
+    },
+    "365530": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6987326408433425723",
+          "size": "369360997",
+          "download": "146569408"
+        }
+      },
+      "dlcappid": "365530"
+    },
+    "365540": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "923308570436860670",
+          "size": "914890870",
+          "download": "245123824"
+        }
+      },
+      "dlcappid": "365540"
+    },
+    "404570": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2912778931375440243",
+          "size": "655593332",
+          "download": "187960160"
+        }
+      },
+      "dlcappid": "404570"
+    },
+    "451370": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "177175013964933120",
+          "size": "324271380",
+          "download": "163248256"
+        }
+      },
+      "dlcappid": "451370"
+    },
+    "496580": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1768123728023658715",
+          "size": "3013741599",
+          "download": "1197773200"
+        }
+      },
+      "dlcappid": "496580"
+    },
+    "822010": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3627934872153505080",
+          "size": "1009249655",
+          "download": "132766736"
+        }
+      },
+      "dlcappid": "822010"
+    },
+    "854050": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6226507105448457",
+          "size": "2498273769",
+          "download": "489632384"
+        }
+      },
+      "dlcappid": "854050"
+    },
+    "907510": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "487871512110438433",
+          "size": "852995776",
+          "download": "117504928"
+        }
+      },
+      "dlcappid": "907510"
+    },
+    "935590": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2815407287972315151",
+          "size": "1516862760",
+          "download": "390051856"
+        }
+      },
+      "dlcappid": "935590"
+    },
+    "964530": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9117364205499052240",
+          "size": "583081375",
+          "download": "102524368"
+        }
+      },
+      "dlcappid": "964530"
+    },
+    "989810": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7188474566422303036",
+          "size": "384739055",
+          "download": "104115504"
+        }
+      },
+      "dlcappid": "989810"
+    },
+    "996910": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6385852909586614767",
+          "size": "4470556982",
+          "download": "571785360"
+        }
+      },
+      "dlcappid": "996910"
+    },
+    "1150680": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3467701498507983538",
+          "size": "1084321565",
+          "download": "315121392"
+        }
+      },
+      "dlcappid": "1150680"
+    },
+    "1154060": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2780679162413252990",
+          "size": "730005156",
+          "download": "300479456"
+        }
+      },
+      "dlcappid": "1154060"
+    },
+    "1306830": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1879291150495140903",
+          "size": "1591533940",
+          "download": "379479824"
+        }
+      },
+      "dlcappid": "1306830"
+    },
+    "1315570": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1465828156602096428",
+          "size": "1884323831",
+          "download": "345818336"
+        }
+      },
+      "dlcappid": "1315570"
+    },
+    "1338070": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8049576942872568764",
+          "size": "931899473",
+          "download": "153415424"
+        }
+      },
+      "dlcappid": "1338070"
+    },
+    "1343490": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1244362984484217768",
+          "size": "871775763",
+          "download": "128340064"
+        }
+      },
+      "dlcappid": "1343490"
+    },
+    "1361590": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2540199703674231922",
+          "size": "918665458",
+          "download": "179354688"
+        }
+      },
+      "dlcappid": "1361590"
+    },
+    "1361591": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4310881406636362104",
+          "size": "391569620",
+          "download": "141057264"
+        }
+      },
+      "dlcappid": "1361591"
+    },
+    "1436740": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4117777000814164679",
+          "size": "3426322909",
+          "download": "375436592"
+        }
+      },
+      "dlcappid": "1436740"
+    },
+    "1717480": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3029828138163338126",
+          "size": "1621409217",
+          "download": "263828672"
+        }
+      },
+      "dlcappid": "1717480"
+    },
+    "2137140": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1700258518682379012",
+          "size": "29596796",
+          "download": "20323840"
+        }
+      },
+      "dlcappid": "2137140"
+    },
+    "2280120": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2113012093795227902",
+          "size": "864295778",
+          "download": "502309984"
+        }
+      },
+      "dlcappid": "2280120"
+    },
+    "2473570": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6593191658705906644",
+          "size": "8034243",
+          "download": "3284000"
+        }
+      },
+      "dlcappid": "2473570"
+    },
+    "2564670": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7192849515688017455",
+          "size": "153344042",
+          "download": "125957696"
+        }
+      },
+      "dlcappid": "2564670"
+    },
+    "branches": {
+      "public": {
+        "buildid": "19486695",
+        "timeupdated": "1754412827",
+        "timebuildupdated": "1754412827"
+      },
+      "december-fixes-2022": {
+        "buildid": "10318775",
+        "description": "december-fixes-2022",
+        "timeupdated": "1678291237",
+        "timebuildupdated": "1673641832"
+      },
+      "december-fixes-2023": {
+        "buildid": "12892230",
+        "description": "december-fixes-2023",
+        "timeupdated": "1709836516",
+        "timebuildupdated": "1701883359"
+      },
+      "june-fixes-2022": {
+        "buildid": "9002061",
+        "description": "june-fixes-2022",
+        "timeupdated": "1660138502",
+        "timebuildupdated": "1656083437"
+      },
+      "june-fixes-2023": {
+        "buildid": "11966540",
+        "description": "june-fixes-2023",
+        "timeupdated": "1694008177",
+        "timebuildupdated": "1692285822"
+      },
+      "march-fixes-2021": {
+        "buildid": "6367851",
+        "description": "March Fixes 2021",
+        "timeupdated": "1623322782",
+        "timebuildupdated": "1615497694"
+      },
+      "march-fixes-2022": {
+        "buildid": "8367121",
+        "description": "March FIxes 2022",
+        "timeupdated": "1655122708",
+        "timebuildupdated": "1647265914"
+      },
+      "march-fixes-2023": {
+        "buildid": "11413917",
+        "description": "march-fixes-2023",
+        "timeupdated": "1686141205",
+        "timebuildupdated": "1686141204"
+      },
+      "public-release-2019.09.16": {
+        "buildid": "4298164",
+        "timeupdated": "1576805184",
+        "timebuildupdated": "1571338382"
+      },
+      "public-release-2020.10.02": {
+        "buildid": "5628698",
+        "description": "Autumn Fixes",
+        "timeupdated": "1607453418",
+        "timebuildupdated": "1601650765"
+      },
+      "public-release-2020.12.16": {
+        "buildid": "5964507",
+        "description": "Christmas Fixes",
+        "timeupdated": "1615497653",
+        "timebuildupdated": "1607947600"
+      },
+      "public-release-v1.13": {
+        "buildid": "1072144",
+        "description": "Frozen At V1.13",
+        "timeupdated": "1465240658",
+        "timebuildupdated": "1460557391"
+      },
+      "september-fixes-2022": {
+        "buildid": "9516749",
+        "description": "september-fixes-2022",
+        "timeupdated": "1665503451",
+        "timebuildupdated": "1663177446"
+      },
+      "september-fixes-2023": {
+        "buildid": "12091829",
+        "description": "september-fixes-2023",
+        "timeupdated": "1701883003",
+        "timebuildupdated": "1693596476"
+      },
+      "beta": {
+        "buildid": "19486637",
+        "description": "Game Guru Beta",
+        "timeupdated": "1754412498",
+        "timebuildupdated": "1754412498"
+      },
+      "december-fixes-2024": {
+        "buildid": "16630050",
+        "description": "december-fixes-2024",
+        "timeupdated": "1741622311",
+        "timebuildupdated": "1733321091"
+      },
+      "june-fixes-2024": {
+        "buildid": "14599310",
+        "description": "june-fixes-2024",
+        "timeupdated": "1725892932",
+        "timebuildupdated": "1717510805"
+      },
+      "march-fixes-2024": {
+        "buildid": "13703529",
+        "description": "march-fixes-2024",
+        "timeupdated": "1717416063",
+        "timebuildupdated": "1710169734"
+      },
+      "march-fixes-2025": {
+        "buildid": "19085534",
+        "description": "march-fixes-2025",
+        "timeupdated": "1754412474",
+        "timebuildupdated": "1751495372"
+      },
+      "publicpreview": {
+        "buildid": "19486641",
+        "description": "Public Preview",
+        "timeupdated": "1754412514",
+        "timebuildupdated": "1754412513"
+      },
+      "september-fixes-2024": {
+        "buildid": "15639661",
+        "description": "september-fixes-2024",
+        "timeupdated": "1733319608",
+        "timebuildupdated": "1725892959"
+      }
+    }
+  }
+}

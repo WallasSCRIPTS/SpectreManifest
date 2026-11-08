@@ -1,0 +1,67 @@
+{
+  "name": "Delve Deeper",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:57.194Z",
+  "branches": {
+    "public": {
+      "buildid": "23911",
+      "timebuildupdated": "1352199774"
+    },
+    "local": {
+      "buildid": "101189",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1376154947"
+    }
+  },
+  "depot": {
+    "63801": {
+      "manifests": {
+        "public": {
+          "gid": "8078844474198886952",
+          "size": "37385852",
+          "download": "0"
+        }
+      }
+    },
+    "63802": {
+      "manifests": {
+        "public": {
+          "gid": "1842035563238278186",
+          "size": "57176",
+          "download": "0"
+        }
+      },
+      "dlcappid": "63802"
+    },
+    "63803": {
+      "manifests": {
+        "public": {
+          "gid": "2372868528454580921",
+          "size": "51224",
+          "download": "0"
+        }
+      },
+      "dlcappid": "63803"
+    },
+    "229011": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "23911",
+        "timebuildupdated": "1352199774"
+      },
+      "local": {
+        "buildid": "101189",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1376154947"
+      }
+    }
+  }
+}

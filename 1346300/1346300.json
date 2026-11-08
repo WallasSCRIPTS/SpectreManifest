@@ -1,0 +1,70 @@
+{
+  "name": "RealFit",
+  "source": "spectre",
+  "changenumber": 34855515,
+  "updated": "2026-11-06T21:04:34.818Z",
+  "branches": {
+    "public": {
+      "buildid": "7503610",
+      "timeupdated": "1633798680",
+      "timebuildupdated": "1633722205"
+    },
+    "alpha": {
+      "buildid": "8112396",
+      "description": "Development alpha testing builds",
+      "timeupdated": "1643511491",
+      "timebuildupdated": "1643511491"
+    },
+    "beta": {
+      "buildid": "7503610",
+      "description": "Development beta testing builds",
+      "timeupdated": "1633798667",
+      "timebuildupdated": "1633722205"
+    },
+    "ignore-openvr-user-active-state": {
+      "buildid": "8112396",
+      "description": "Test workaround for app pausing if OpenVR (incorrectly) reports inactive user",
+      "timeupdated": "1643511848",
+      "timebuildupdated": "1643511491"
+    }
+  },
+  "depot": {
+    "1346301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4113018994792996639",
+          "size": "357982620",
+          "download": "173229216"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7503610",
+        "timeupdated": "1633798680",
+        "timebuildupdated": "1633722205"
+      },
+      "alpha": {
+        "buildid": "8112396",
+        "description": "Development alpha testing builds",
+        "timeupdated": "1643511491",
+        "timebuildupdated": "1643511491"
+      },
+      "beta": {
+        "buildid": "7503610",
+        "description": "Development beta testing builds",
+        "timeupdated": "1633798667",
+        "timebuildupdated": "1633722205"
+      },
+      "ignore-openvr-user-active-state": {
+        "buildid": "8112396",
+        "description": "Test workaround for app pausing if OpenVR (incorrectly) reports inactive user",
+        "timeupdated": "1643511848",
+        "timebuildupdated": "1643511491"
+      }
+    }
+  }
+}

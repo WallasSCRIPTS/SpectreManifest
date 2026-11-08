@@ -1,0 +1,69 @@
+{
+  "name": "Downward: Enhanced Edition",
+  "source": "spectre",
+  "changenumber": 40578117,
+  "updated": "2026-11-07T20:58:22.417Z",
+  "branches": {
+    "public": {
+      "buildid": "15003366",
+      "timeupdated": "1720714343",
+      "timebuildupdated": "1720714222"
+    },
+    "downwardv1": {
+      "buildid": "2137550",
+      "description": "Downward 1.0",
+      "timeupdated": "1717511228",
+      "timebuildupdated": "1506017781"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "506902": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1059528674563456272",
+          "size": "4733898520",
+          "download": "4550968320"
+        }
+      }
+    },
+    "506909": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15003366",
+        "timeupdated": "1720714343",
+        "timebuildupdated": "1720714222"
+      },
+      "downwardv1": {
+        "buildid": "2137550",
+        "description": "Downward 1.0",
+        "timeupdated": "1717511228",
+        "timebuildupdated": "1506017781"
+      }
+    }
+  }
+}

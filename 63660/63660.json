@@ -1,0 +1,70 @@
+{
+  "name": "Myst: Masterpiece Edition",
+  "source": "spectre",
+  "changenumber": 38876392,
+  "updated": "2026-11-07T20:55:57.159Z",
+  "branches": {
+    "public": {
+      "buildid": "25240844",
+      "timeupdated": "1789423872",
+      "timebuildupdated": "1789077696"
+    },
+    "last_32bit_release": {
+      "buildid": "4937526",
+      "description": "The last 32 bit build of the game.",
+      "timeupdated": "1747876387",
+      "timebuildupdated": "1587685130"
+    }
+  },
+  "depot": {
+    "63661": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5281549763688008279",
+          "size": "1785250808",
+          "download": "1336925680"
+        }
+      }
+    },
+    "63662": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "927432326167206553",
+          "size": "1761704852",
+          "download": "1288048160"
+        }
+      }
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25240844",
+        "timeupdated": "1789423872",
+        "timebuildupdated": "1789077696"
+      },
+      "last_32bit_release": {
+        "buildid": "4937526",
+        "description": "The last 32 bit build of the game.",
+        "timeupdated": "1747876387",
+        "timebuildupdated": "1587685130"
+      }
+    }
+  }
+}

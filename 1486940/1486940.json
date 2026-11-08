@@ -1,0 +1,63 @@
+{
+  "name": "EarthX 2",
+  "source": "spectre",
+  "changenumber": 40488199,
+  "updated": "2026-11-05T14:55:24.594Z",
+  "branches": {
+    "public": {
+      "buildid": "26091535",
+      "timeupdated": "1792535104",
+      "timebuildupdated": "1792534411"
+    },
+    "pre-release": {
+      "buildid": "26102283",
+      "description": "Patches and content updates come here first for additional testing",
+      "timeupdated": "1792574557",
+      "timebuildupdated": "1792574484"
+    }
+  },
+  "depot": {
+    "1486941": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "1486948": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3972091879268579448",
+          "size": "1047297013",
+          "download": "911794368"
+        }
+      }
+    },
+    "1486949": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9202723587533177665",
+          "size": "1049877070",
+          "download": "910279104"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26091535",
+        "timeupdated": "1792535104",
+        "timebuildupdated": "1792534411"
+      },
+      "pre-release": {
+        "buildid": "26102283",
+        "description": "Patches and content updates come here first for additional testing",
+        "timeupdated": "1792574557",
+        "timebuildupdated": "1792574484"
+      }
+    }
+  }
+}

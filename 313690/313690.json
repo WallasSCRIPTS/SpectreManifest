@@ -1,0 +1,316 @@
+{
+  "name": "LEGO® Batman™ 3: Beyond Gotham",
+  "source": "spectre",
+  "changenumber": 40351969,
+  "updated": "2026-11-07T20:56:36.483Z",
+  "branches": {
+    "public": {
+      "buildid": "18924960",
+      "timeupdated": "1751031980",
+      "timebuildupdated": "1750327073"
+    },
+    "local": {
+      "buildid": "561175",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1426848447"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "313691": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4443902272311026638",
+          "size": "7736705811",
+          "download": "7294733744"
+        }
+      }
+    },
+    "313692": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7475121684167367128",
+          "size": "6215485919",
+          "download": "5797767792"
+        }
+      }
+    },
+    "313693": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8952656108740785958",
+          "size": "5213053",
+          "download": "4316400"
+        }
+      },
+      "dlcappid": "327173"
+    },
+    "313694": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4541054431822865910",
+          "size": "1413897",
+          "download": "1186544"
+        }
+      },
+      "dlcappid": "327174"
+    },
+    "313695": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "339197424601476617",
+          "size": "120565748",
+          "download": "118888784"
+        }
+      },
+      "dlcappid": "327170"
+    },
+    "313696": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "683981261730635318",
+          "size": "69825303",
+          "download": "67416608"
+        }
+      },
+      "dlcappid": "327171"
+    },
+    "313697": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4763929614456373971",
+          "size": "109493817",
+          "download": "106781472"
+        }
+      },
+      "dlcappid": "327177"
+    },
+    "313698": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "392792081728617917",
+          "size": "107867473",
+          "download": "105245568"
+        }
+      },
+      "dlcappid": "327175"
+    },
+    "313699": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3793953187342338197",
+          "size": "159840398",
+          "download": "157768432"
+        }
+      },
+      "dlcappid": "327176"
+    },
+    "327170": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2020646298349048643",
+          "size": "146704741",
+          "download": "7711066232"
+        }
+      },
+      "dlcappid": "327170"
+    },
+    "327171": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4238496217585822049",
+          "size": "127009679",
+          "download": "178460387786"
+        }
+      },
+      "dlcappid": "327171"
+    },
+    "327172": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6398719775382247543",
+          "size": "163367379",
+          "download": "8401297328"
+        }
+      },
+      "dlcappid": "327172"
+    },
+    "327173": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4912572547395676561",
+          "size": "9289410",
+          "download": "137723872"
+        }
+      },
+      "dlcappid": "327173"
+    },
+    "327174": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "964649925611933701",
+          "size": "3519007",
+          "download": "128756000"
+        }
+      },
+      "dlcappid": "327174"
+    },
+    "327175": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7803373803440355626",
+          "size": "107227661",
+          "download": "104231152"
+        }
+      },
+      "dlcappid": "327175"
+    },
+    "327176": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5382487805151043846",
+          "size": "217511221",
+          "download": "215738064"
+        }
+      },
+      "dlcappid": "327176"
+    },
+    "327177": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4325475610853729515",
+          "size": "133008367",
+          "download": "130290272"
+        }
+      },
+      "dlcappid": "327177"
+    },
+    "327178": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5605480070281958561",
+          "size": "129590246",
+          "download": "127377296"
+        }
+      },
+      "dlcappid": "327172"
+    },
+    "327179": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6035738132262626744",
+          "size": "11627419",
+          "download": "9463792"
+        }
+      },
+      "dlcappid": "335800"
+    },
+    "330861": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2996537685330008398",
+          "size": "39418368",
+          "download": "9502160"
+        }
+      }
+    },
+    "335800": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "317296534116282674",
+          "size": "25487404",
+          "download": "23434000"
+        }
+      },
+      "dlcappid": "335800"
+    },
+    "branches": {
+      "public": {
+        "buildid": "18924960",
+        "timeupdated": "1751031980",
+        "timebuildupdated": "1750327073"
+      },
+      "local": {
+        "buildid": "561175",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1426848447"
+      }
+    }
+  }
+}

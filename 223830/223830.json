@@ -1,0 +1,118 @@
+{
+  "name": "Xenonauts",
+  "source": "spectre",
+  "changenumber": 37432492,
+  "updated": "2026-11-07T20:56:06.012Z",
+  "branches": {
+    "public": {
+      "buildid": "12760814",
+      "timeupdated": "1700574254",
+      "timebuildupdated": "1700574254"
+    },
+    "community": {
+      "buildid": "4987080",
+      "description": "Xenonauts: Community Edition branch",
+      "timeupdated": "1588714966",
+      "timebuildupdated": "1588714966"
+    },
+    "compatibility": {
+      "buildid": "543488",
+      "description": "No tile atlases / sprite archives; slower load times but better performance on low-end machines. Warning: has ~150,000 files.",
+      "timebuildupdated": "1425382075"
+    },
+    "experiment": {
+      "buildid": "1007626",
+      "description": "Public test branch; contains latest updates, possibly unstable",
+      "timebuildupdated": "1457043472"
+    },
+    "legacy": {
+      "buildid": "794369",
+      "description": "Contains Xenonauts V1.09",
+      "timebuildupdated": "1443549387"
+    }
+  },
+  "depot": {
+    "223831": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2571778493951657023",
+          "size": "2965995847",
+          "download": "2563665296"
+        }
+      }
+    },
+    "223833": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6578508371997597324",
+          "size": "2745586993",
+          "download": "2407221920"
+        }
+      }
+    },
+    "223835": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5341086061831798490",
+          "size": "2746623724",
+          "download": "2409377072"
+        }
+      }
+    },
+    "223836": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "223837": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2197630807150670993",
+          "size": "2714585469",
+          "download": "2349866400"
+        }
+      }
+    },
+    "223849": {},
+    "branches": {
+      "public": {
+        "buildid": "12760814",
+        "timeupdated": "1700574254",
+        "timebuildupdated": "1700574254"
+      },
+      "community": {
+        "buildid": "4987080",
+        "description": "Xenonauts: Community Edition branch",
+        "timeupdated": "1588714966",
+        "timebuildupdated": "1588714966"
+      },
+      "compatibility": {
+        "buildid": "543488",
+        "description": "No tile atlases / sprite archives; slower load times but better performance on low-end machines. Warning: has ~150,000 files.",
+        "timebuildupdated": "1425382075"
+      },
+      "experiment": {
+        "buildid": "1007626",
+        "description": "Public test branch; contains latest updates, possibly unstable",
+        "timebuildupdated": "1457043472"
+      },
+      "legacy": {
+        "buildid": "794369",
+        "description": "Contains Xenonauts V1.09",
+        "timebuildupdated": "1443549387"
+      }
+    }
+  }
+}

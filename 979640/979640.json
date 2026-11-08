@@ -1,0 +1,161 @@
+{
+  "name": "Cepheus Protocol",
+  "source": "spectre",
+  "changenumber": 40700992,
+  "updated": "2026-11-07T21:02:11.651Z",
+  "branches": {
+    "public": {
+      "buildid": "24829887",
+      "timeupdated": "1787199902",
+      "timebuildupdated": "1787188722"
+    },
+    "experimental": {
+      "buildid": "26505136",
+      "description": "Preview build with new features. Unstable, frequent updates, saves may break.",
+      "timeupdated": "1794052436",
+      "timebuildupdated": "1794052373"
+    },
+    "legacy": {
+      "buildid": "20415865",
+      "description": "The branch before we merged the rebuilt game as default on 1.6.25",
+      "timeupdated": "1767755133",
+      "timebuildupdated": "1760604620"
+    },
+    "legacy-premerge": {
+      "buildid": "15464740",
+      "description": "Build from before experimental was merged into the live branch.",
+      "timeupdated": "1756673756",
+      "timebuildupdated": "1724362007"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "979641": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8190979047784837192",
+          "size": "12042042946",
+          "download": "11079169616"
+        }
+      }
+    },
+    "1387390": {
+      "manifests": {
+        "public": {
+          "gid": "1286529532299846223",
+          "size": "1091517",
+          "download": "912768"
+        }
+      },
+      "dlcappid": "1387390"
+    },
+    "1997150": {
+      "manifests": {
+        "public": {
+          "gid": "2646314920170677226",
+          "size": "11892993",
+          "download": "11105296"
+        }
+      },
+      "dlcappid": "1997150"
+    },
+    "2496500": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7113364543456853873",
+          "size": "1164433",
+          "download": "1165776"
+        }
+      },
+      "dlcappid": "2496500"
+    },
+    "2496510": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8725575257045246761",
+          "size": "774548",
+          "download": "770288"
+        }
+      },
+      "dlcappid": "2496510"
+    },
+    "2496520": {
+      "manifests": {
+        "public": {
+          "gid": "3007699981174887082",
+          "size": "126660",
+          "download": "107536"
+        }
+      },
+      "dlcappid": "2496520"
+    },
+    "2514440": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5343426092076636058",
+          "size": "10870",
+          "download": "3280"
+        }
+      },
+      "dlcappid": "2514440"
+    },
+    "2540710": {
+      "manifests": {
+        "public": {
+          "gid": "7374174257502697085",
+          "size": "500910",
+          "download": "438032"
+        }
+      },
+      "dlcappid": "2540710"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24829887",
+        "timeupdated": "1787199902",
+        "timebuildupdated": "1787188722"
+      },
+      "experimental": {
+        "buildid": "26505136",
+        "description": "Preview build with new features. Unstable, frequent updates, saves may break.",
+        "timeupdated": "1794052436",
+        "timebuildupdated": "1794052373"
+      },
+      "legacy": {
+        "buildid": "20415865",
+        "description": "The branch before we merged the rebuilt game as default on 1.6.25",
+        "timeupdated": "1767755133",
+        "timebuildupdated": "1760604620"
+      },
+      "legacy-premerge": {
+        "buildid": "15464740",
+        "description": "Build from before experimental was merged into the live branch.",
+        "timeupdated": "1756673756",
+        "timebuildupdated": "1724362007"
+      }
+    }
+  }
+}

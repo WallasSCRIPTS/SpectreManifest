@@ -1,0 +1,94 @@
+{
+  "name": "Papers, Please",
+  "source": "spectre",
+  "changenumber": 39184726,
+  "updated": "2026-11-07T20:56:09.269Z",
+  "branches": {
+    "public": {
+      "buildid": "10817815",
+      "timeupdated": "1679386548",
+      "timebuildupdated": "1679383789"
+    },
+    "legacy": {
+      "buildid": "239769",
+      "description": "Legacy 32-bit build (1.1.65)",
+      "timeupdated": "1602211338",
+      "timebuildupdated": "1398002853"
+    },
+    "legacy-64": {
+      "buildid": "8338468",
+      "description": "Legacy 64-bit build (1.2.76)",
+      "timeupdated": "1678175355",
+      "timebuildupdated": "1646811621"
+    },
+    "preview": {
+      "buildid": "10817815",
+      "description": "Info here: http://papersplea.se/update",
+      "timeupdated": "1679384808",
+      "timebuildupdated": "1679383789"
+    }
+  },
+  "depot": {
+    "239031": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6905656874083880948",
+          "size": "90722693",
+          "download": "35743872"
+        }
+      }
+    },
+    "239032": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6188834483198805795",
+          "size": "122315311",
+          "download": "44336672"
+        }
+      }
+    },
+    "239033": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7577473921595950709",
+          "size": "98461794",
+          "download": "35766928"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10817815",
+        "timeupdated": "1679386548",
+        "timebuildupdated": "1679383789"
+      },
+      "legacy": {
+        "buildid": "239769",
+        "description": "Legacy 32-bit build (1.1.65)",
+        "timeupdated": "1602211338",
+        "timebuildupdated": "1398002853"
+      },
+      "legacy-64": {
+        "buildid": "8338468",
+        "description": "Legacy 64-bit build (1.2.76)",
+        "timeupdated": "1678175355",
+        "timebuildupdated": "1646811621"
+      },
+      "preview": {
+        "buildid": "10817815",
+        "description": "Info here: http://papersplea.se/update",
+        "timeupdated": "1679384808",
+        "timebuildupdated": "1679383789"
+      }
+    }
+  }
+}

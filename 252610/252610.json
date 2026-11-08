@@ -1,0 +1,113 @@
+{
+  "name": "Death Road to Canada",
+  "source": "spectre",
+  "changenumber": 40617583,
+  "updated": "2026-11-07T20:56:13.143Z",
+  "branches": {
+    "public": {
+      "buildid": "24936165",
+      "timeupdated": "1787689477",
+      "timebuildupdated": "1787689370"
+    },
+    "beta": {
+      "buildid": "26450942",
+      "description": "TESTBRANCH",
+      "timeupdated": "1793858053",
+      "timebuildupdated": "1793858025"
+    },
+    "crashfix": {
+      "buildid": "2709013",
+      "description": "Fixes a crash, but no cheevos",
+      "timeupdated": "1524278406",
+      "timebuildupdated": "1524278406"
+    },
+    "stomach_update": {
+      "buildid": "22648957",
+      "description": "A permanent branch for the STOMACH update",
+      "timeupdated": "1775318342",
+      "timebuildupdated": "1775318291"
+    },
+    "retina_update": {
+      "buildid": "21058560",
+      "description": "A permanent branch for the RETINA update",
+      "timeupdated": "1768325665",
+      "timebuildupdated": "1764875312"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "252611": {},
+    "252612": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4271171630431498833",
+          "size": "108200209",
+          "download": "96013552"
+        }
+      }
+    },
+    "252613": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1976678356554598440",
+          "size": "109676930",
+          "download": "96507424"
+        }
+      }
+    },
+    "252614": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "562384395171520235",
+          "size": "151301814",
+          "download": "97954448"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24936165",
+        "timeupdated": "1787689477",
+        "timebuildupdated": "1787689370"
+      },
+      "beta": {
+        "buildid": "26450942",
+        "description": "TESTBRANCH",
+        "timeupdated": "1793858053",
+        "timebuildupdated": "1793858025"
+      },
+      "crashfix": {
+        "buildid": "2709013",
+        "description": "Fixes a crash, but no cheevos",
+        "timeupdated": "1524278406",
+        "timebuildupdated": "1524278406"
+      },
+      "stomach_update": {
+        "buildid": "22648957",
+        "description": "A permanent branch for the STOMACH update",
+        "timeupdated": "1775318342",
+        "timebuildupdated": "1775318291"
+      },
+      "retina_update": {
+        "buildid": "21058560",
+        "description": "A permanent branch for the RETINA update",
+        "timeupdated": "1768325665",
+        "timebuildupdated": "1764875312"
+      }
+    }
+  }
+}

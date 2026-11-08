@@ -1,0 +1,56 @@
+{
+  "name": "Exostorm",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:57:03.133Z",
+  "branches": {
+    "public": {
+      "buildid": "610513",
+      "timebuildupdated": "1430687499"
+    }
+  },
+  "depot": {
+    "350001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "123996042650980934",
+          "size": "293516583",
+          "download": "103081936"
+        }
+      }
+    },
+    "350002": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1415042972636052889",
+          "size": "291474819",
+          "download": "101909936"
+        }
+      }
+    },
+    "350003": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1044881694377475688",
+          "size": "295399648",
+          "download": "102578272"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "610513",
+        "timebuildupdated": "1430687499"
+      }
+    }
+  }
+}

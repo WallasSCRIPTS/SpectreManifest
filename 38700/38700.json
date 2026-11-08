@@ -1,0 +1,80 @@
+{
+  "name": "Toki Tori",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:53.410Z",
+  "branches": {
+    "public": {
+      "buildid": "5360255",
+      "timeupdated": "1596297244",
+      "timebuildupdated": "1596297244"
+    }
+  },
+  "depot": {
+    "38702": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4888253800313879471",
+          "size": "132321747",
+          "download": "96253328"
+        }
+      }
+    },
+    "38703": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7858407214057322857",
+          "size": "137378618",
+          "download": "96975520"
+        }
+      }
+    },
+    "98015": {
+      "manifests": {
+        "public": {
+          "gid": "5414779958442857681",
+          "size": "7219840",
+          "download": "0"
+        }
+      },
+      "dlcappid": "98015"
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "387001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4001504051355792959",
+          "size": "126739273",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5360255",
+        "timeupdated": "1596297244",
+        "timebuildupdated": "1596297244"
+      }
+    }
+  }
+}

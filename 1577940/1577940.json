@@ -1,0 +1,58 @@
+{
+  "name": "Redaxium",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:06:18.053Z",
+  "branches": {
+    "public": {
+      "buildid": "8403632",
+      "timeupdated": "1647720362",
+      "timebuildupdated": "1647720241"
+    },
+    "beta": {
+      "buildid": "8403632",
+      "description": "Save Games may break often on this branch. Changes here may not make it into official.",
+      "timeupdated": "1647720351",
+      "timebuildupdated": "1647720241"
+    }
+  },
+  "depot": {
+    "1577941": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7450685262037264700",
+          "size": "1033862683",
+          "download": "298602016"
+        }
+      }
+    },
+    "1577944": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5857335642170400226",
+          "size": "1142573647",
+          "download": "322979136"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8403632",
+        "timeupdated": "1647720362",
+        "timebuildupdated": "1647720241"
+      },
+      "beta": {
+        "buildid": "8403632",
+        "description": "Save Games may break often on this branch. Changes here may not make it into official.",
+        "timeupdated": "1647720351",
+        "timebuildupdated": "1647720241"
+      }
+    }
+  }
+}

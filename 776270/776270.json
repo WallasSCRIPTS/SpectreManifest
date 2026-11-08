@@ -1,0 +1,51 @@
+{
+  "name": "MineCart Adventures",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T21:00:36.368Z",
+  "branches": {
+    "public": {
+      "buildid": "10121356",
+      "timeupdated": "1670696214",
+      "timebuildupdated": "1670696158"
+    },
+    "linux_default": {
+      "buildid": "10072093",
+      "description": "linux build",
+      "timeupdated": "1670087439",
+      "timebuildupdated": "1670087439"
+    }
+  },
+  "depot": {
+    "776271": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3822266745563408732",
+          "size": "157707253",
+          "download": "32985200"
+        }
+      }
+    },
+    "776273": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10121356",
+        "timeupdated": "1670696214",
+        "timebuildupdated": "1670696158"
+      },
+      "linux_default": {
+        "buildid": "10072093",
+        "description": "linux build",
+        "timeupdated": "1670087439",
+        "timebuildupdated": "1670087439"
+      }
+    }
+  }
+}

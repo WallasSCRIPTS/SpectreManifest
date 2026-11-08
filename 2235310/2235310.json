@@ -1,0 +1,64 @@
+{
+  "name": "PatchWorld",
+  "source": "spectre",
+  "changenumber": 40655110,
+  "updated": "2026-11-06T23:19:34.589Z",
+  "branches": {
+    "public": {
+      "buildid": "26475350",
+      "timeupdated": "1793936367",
+      "timebuildupdated": "1793936367"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2235311": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6895710236484306278",
+          "size": "1722456400",
+          "download": "863525056"
+        }
+      }
+    },
+    "2235312": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3867038901509483200",
+          "size": "1629031935",
+          "download": "826526688"
+        }
+      }
+    },
+    "2235313": {
+      "config": {
+        "oslist": "android"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8200475253982369812",
+          "size": "605288634",
+          "download": "525805008"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26475350",
+        "timeupdated": "1793936367",
+        "timebuildupdated": "1793936367"
+      }
+    }
+  }
+}

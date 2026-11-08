@@ -1,0 +1,76 @@
+{
+  "name": "Guild Saga: Vanished Worlds",
+  "source": "spectre",
+  "changenumber": 40526152,
+  "updated": "2026-11-06T23:19:28.571Z",
+  "branches": {
+    "public": {
+      "buildid": "25856756",
+      "timeupdated": "1791674619",
+      "timebuildupdated": "1791672297"
+    },
+    "local": {
+      "buildid": "10738914",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1678450015",
+      "timebuildupdated": "1678450015"
+    },
+    "experimental": {
+      "buildid": "25639265",
+      "description": "Experimental release",
+      "timeupdated": "1790808050",
+      "timebuildupdated": "1790806837"
+    },
+    "legacy": {
+      "buildid": "24496320",
+      "description": "Keep playing where you left off with full save compatibility.",
+      "timeupdated": "1785536227",
+      "timebuildupdated": "1785512849"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2184351": {
+      "manifests": {
+        "public": {
+          "gid": "5508047890919044881",
+          "size": "9168106138",
+          "download": "1603230480"
+        }
+      }
+    },
+    "2184352": {},
+    "branches": {
+      "public": {
+        "buildid": "25856756",
+        "timeupdated": "1791674619",
+        "timebuildupdated": "1791672297"
+      },
+      "local": {
+        "buildid": "10738914",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1678450015",
+        "timebuildupdated": "1678450015"
+      },
+      "experimental": {
+        "buildid": "25639265",
+        "description": "Experimental release",
+        "timeupdated": "1790808050",
+        "timebuildupdated": "1790806837"
+      },
+      "legacy": {
+        "buildid": "24496320",
+        "description": "Keep playing where you left off with full save compatibility.",
+        "timeupdated": "1785536227",
+        "timebuildupdated": "1785512849"
+      }
+    }
+  }
+}

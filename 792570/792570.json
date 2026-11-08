@@ -1,0 +1,98 @@
+{
+  "name": "BattleCON: Online",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:44.471Z",
+  "branches": {
+    "public": {
+      "buildid": "6004937",
+      "timeupdated": "1608698866",
+      "timebuildupdated": "1608682867"
+    },
+    "beta": {
+      "buildid": "6004937",
+      "description": "BETA Builds",
+      "timeupdated": "1608698849",
+      "timebuildupdated": "1608682867"
+    },
+    "devtest": {
+      "buildid": "6004937",
+      "description": "Specific Dev Test Builds",
+      "timeupdated": "1608698857",
+      "timebuildupdated": "1608682867"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "792571": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2391293076099970020",
+          "size": "869532376",
+          "download": "750489104"
+        }
+      }
+    },
+    "792572": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "884551626500482913",
+          "size": "879080163",
+          "download": "753997632"
+        }
+      }
+    },
+    "792573": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3979401111019951907",
+          "size": "869753776",
+          "download": "750158176"
+        }
+      }
+    },
+    "940970": {
+      "manifests": {
+        "public": {
+          "gid": "3963217172124891176",
+          "size": "828991472",
+          "download": "761007840"
+        }
+      },
+      "dlcappid": "940970"
+    },
+    "branches": {
+      "public": {
+        "buildid": "6004937",
+        "timeupdated": "1608698866",
+        "timebuildupdated": "1608682867"
+      },
+      "beta": {
+        "buildid": "6004937",
+        "description": "BETA Builds",
+        "timeupdated": "1608698849",
+        "timebuildupdated": "1608682867"
+      },
+      "devtest": {
+        "buildid": "6004937",
+        "description": "Specific Dev Test Builds",
+        "timeupdated": "1608698857",
+        "timebuildupdated": "1608682867"
+      }
+    }
+  }
+}

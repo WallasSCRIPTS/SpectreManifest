@@ -1,0 +1,87 @@
+{
+  "name": "LAST WAR 2044",
+  "source": "spectre",
+  "changenumber": 39533531,
+  "updated": "2026-11-07T21:00:49.803Z",
+  "branches": {
+    "public": {
+      "buildid": "2861773",
+      "timeupdated": "1773942552",
+      "timebuildupdated": "1528987674"
+    },
+    "alpha": {
+      "buildid": "18573727",
+      "description": "Oldest 2017 build",
+      "timeupdated": "1747956330",
+      "timebuildupdated": "1747956330"
+    },
+    "last_stable": {
+      "buildid": "2908988",
+      "description": "Early Access version",
+      "timeupdated": "1747956230",
+      "timebuildupdated": "1530398868"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229005": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "804461": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4235889676218269518",
+          "size": "1339407894",
+          "download": "516805200"
+        }
+      }
+    },
+    "804464": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "804465": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "466329805855995978",
+          "size": "1979243663",
+          "download": "779896640"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2861773",
+        "timeupdated": "1773942552",
+        "timebuildupdated": "1528987674"
+      },
+      "alpha": {
+        "buildid": "18573727",
+        "description": "Oldest 2017 build",
+        "timeupdated": "1747956330",
+        "timebuildupdated": "1747956330"
+      },
+      "last_stable": {
+        "buildid": "2908988",
+        "description": "Early Access version",
+        "timeupdated": "1747956230",
+        "timebuildupdated": "1530398868"
+      }
+    }
+  }
+}

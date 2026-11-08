@@ -1,0 +1,82 @@
+{
+  "name": "Slumberer's Universe",
+  "source": "spectre",
+  "changenumber": 37825762,
+  "updated": "2026-11-06T23:17:36.675Z",
+  "branches": {
+    "public": {
+      "buildid": "24596850",
+      "timeupdated": "1786032957",
+      "timebuildupdated": "1786032957"
+    },
+    "mac-beta": {
+      "buildid": "24537596",
+      "description": "MacOS (Apple Silicon) testing",
+      "timeupdated": "1785780706",
+      "timebuildupdated": "1785780705"
+    }
+  },
+  "depot": {
+    "2140981": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4229465915921588680",
+          "size": "633435343",
+          "download": "544327136"
+        }
+      }
+    },
+    "2140982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3679314861006634218",
+          "size": "491412329",
+          "download": "162358064"
+        }
+      }
+    },
+    "2140983": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3555113599566305465",
+          "size": "603844390",
+          "download": "163992256"
+        }
+      }
+    },
+    "2140984": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1633842868751893265",
+          "size": "1005541791",
+          "download": "680077776"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24596850",
+        "timeupdated": "1786032957",
+        "timebuildupdated": "1786032957"
+      },
+      "mac-beta": {
+        "buildid": "24537596",
+        "description": "MacOS (Apple Silicon) testing",
+        "timeupdated": "1785780706",
+        "timebuildupdated": "1785780705"
+      }
+    }
+  }
+}

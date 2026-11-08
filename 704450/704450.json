@@ -1,0 +1,419 @@
+{
+  "name": "Neverwinter Nights: Enhanced Edition",
+  "source": "spectre",
+  "changenumber": 40603277,
+  "updated": "2026-11-07T20:59:58.185Z",
+  "branches": {
+    "public": {
+      "buildid": "20277208",
+      "timeupdated": "1759936102",
+      "timebuildupdated": "1759788287"
+    },
+    "build8186": {
+      "buildid": "4994491",
+      "description": "Last build compatible with 32bit systems. (Very old build)",
+      "timeupdated": "1588849293",
+      "timebuildupdated": "1588849292"
+    },
+    "build8193.19": {
+      "buildid": "5810718",
+      "description": "build8193.19",
+      "timeupdated": "1605038401",
+      "timebuildupdated": "1605022096"
+    },
+    "build8193.20": {
+      "buildid": "5977870",
+      "description": "build8193.20",
+      "timeupdated": "1608155107",
+      "timebuildupdated": "1608149609"
+    },
+    "build8193.21": {
+      "buildid": "6353421",
+      "description": "build8193.21",
+      "timeupdated": "1615496378",
+      "timebuildupdated": "1615300218"
+    },
+    "build8193.22": {
+      "buildid": "6542117",
+      "description": "build8193.22",
+      "timeupdated": "1618594860",
+      "timebuildupdated": "1618434043"
+    },
+    "build8193.23": {
+      "buildid": "6620992",
+      "description": "build8193.23",
+      "timeupdated": "1620057831",
+      "timebuildupdated": "1619700569"
+    },
+    "build8193.24": {
+      "buildid": "6873816",
+      "description": "build8193.24",
+      "timeupdated": "1623951750",
+      "timebuildupdated": "1623782833"
+    },
+    "build8193.25": {
+      "buildid": "6907248",
+      "description": "build8193.25",
+      "timeupdated": "1624376750",
+      "timebuildupdated": "1624299517"
+    },
+    "build8193.26": {
+      "buildid": "6925985",
+      "description": "build8193.26",
+      "timeupdated": "1624548959",
+      "timebuildupdated": "1624530417"
+    },
+    "build8193.27": {
+      "buildid": "6933430",
+      "description": "build8193.27",
+      "timeupdated": "1624637541",
+      "timebuildupdated": "1624626974"
+    },
+    "build8193.28": {
+      "buildid": "6952603",
+      "description": "build8193.28",
+      "timeupdated": "1625003124",
+      "timebuildupdated": "1624990542"
+    },
+    "build8193.29": {
+      "buildid": "6999455",
+      "description": "build8193.29",
+      "timeupdated": "1625766568",
+      "timebuildupdated": "1625753386"
+    },
+    "build8193.30": {
+      "buildid": "7070152",
+      "description": "build8193.30",
+      "timeupdated": "1627065094",
+      "timebuildupdated": "1626960684"
+    },
+    "build8193.31": {
+      "buildid": "7370737",
+      "description": "build8193.31",
+      "timeupdated": "1631806328",
+      "timebuildupdated": "1631800556"
+    },
+    "build8193.32": {
+      "buildid": "7398767",
+      "description": "build8193.32",
+      "timeupdated": "1632337790",
+      "timebuildupdated": "1632244193"
+    },
+    "build8193.33": {
+      "buildid": "7437906",
+      "description": "build8193.33",
+      "timeupdated": "1632845925",
+      "timebuildupdated": "1632829975"
+    },
+    "build8193.34": {
+      "buildid": "7843474",
+      "description": "build8193.34",
+      "timeupdated": "1638986487",
+      "timebuildupdated": "1638904143"
+    },
+    "build8193.35": {
+      "buildid": "11253735",
+      "description": "build8193.35",
+      "timeupdated": "1684424909",
+      "timebuildupdated": "1684328442"
+    },
+    "build8193.36": {
+      "buildid": "14061032",
+      "description": "build8193.36",
+      "timeupdated": "1713550369",
+      "timebuildupdated": "1713212944"
+    },
+    "development": {
+      "buildid": "17470348",
+      "timeupdated": "1740499790",
+      "timebuildupdated": "1740269965"
+    },
+    "oldstable": {
+      "buildid": "14061032",
+      "timeupdated": "1736589891",
+      "timebuildupdated": "1713212944"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "704451": {
+      "manifests": {
+        "public": {
+          "gid": "5662616691190369758",
+          "size": "9267295393",
+          "download": "4991071424"
+        }
+      }
+    },
+    "704452": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1163809314576969976",
+          "size": "347689126",
+          "download": "93048576"
+        }
+      }
+    },
+    "704453": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3450907620006655962",
+          "size": "347214950",
+          "download": "92883584"
+        }
+      }
+    },
+    "704454": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6344317603898685774",
+          "size": "347940316",
+          "download": "93046736"
+        }
+      }
+    },
+    "737000": {
+      "manifests": {
+        "public": {
+          "gid": "8726153652794662751",
+          "size": "221814451",
+          "download": "129251680"
+        }
+      },
+      "dlcappid": "737000"
+    },
+    "737001": {
+      "manifests": {
+        "public": {
+          "gid": "8528537313477911290",
+          "size": "173861073",
+          "download": "109002528"
+        }
+      },
+      "dlcappid": "737001"
+    },
+    "737002": {
+      "manifests": {
+        "public": {
+          "gid": "8534318464293192965",
+          "size": "143138957",
+          "download": "39697984"
+        }
+      },
+      "dlcappid": "737002"
+    },
+    "744680": {
+      "manifests": {
+        "public": {
+          "gid": "2519098667874915626",
+          "size": "6985880",
+          "download": "2625328"
+        }
+      },
+      "dlcappid": "744680"
+    },
+    "854960": {
+      "manifests": {
+        "public": {
+          "gid": "8387117747301578404",
+          "size": "344267411",
+          "download": "185109824"
+        }
+      },
+      "dlcappid": "854960"
+    },
+    "1143400": {
+      "manifests": {
+        "public": {
+          "gid": "2738160842314124535",
+          "size": "355259267",
+          "download": "262962976"
+        }
+      },
+      "dlcappid": "1143400"
+    },
+    "1247750": {
+      "manifests": {
+        "public": {
+          "gid": "2031517547718758774",
+          "size": "757021200",
+          "download": "185139504"
+        }
+      },
+      "dlcappid": "1247750"
+    },
+    "3093340": {
+      "manifests": {
+        "public": {
+          "gid": "4722694621329911724",
+          "size": "379745210",
+          "download": "213452032"
+        }
+      },
+      "dlcappid": "3093340"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20277208",
+        "timeupdated": "1759936102",
+        "timebuildupdated": "1759788287"
+      },
+      "build8186": {
+        "buildid": "4994491",
+        "description": "Last build compatible with 32bit systems. (Very old build)",
+        "timeupdated": "1588849293",
+        "timebuildupdated": "1588849292"
+      },
+      "build8193.19": {
+        "buildid": "5810718",
+        "description": "build8193.19",
+        "timeupdated": "1605038401",
+        "timebuildupdated": "1605022096"
+      },
+      "build8193.20": {
+        "buildid": "5977870",
+        "description": "build8193.20",
+        "timeupdated": "1608155107",
+        "timebuildupdated": "1608149609"
+      },
+      "build8193.21": {
+        "buildid": "6353421",
+        "description": "build8193.21",
+        "timeupdated": "1615496378",
+        "timebuildupdated": "1615300218"
+      },
+      "build8193.22": {
+        "buildid": "6542117",
+        "description": "build8193.22",
+        "timeupdated": "1618594860",
+        "timebuildupdated": "1618434043"
+      },
+      "build8193.23": {
+        "buildid": "6620992",
+        "description": "build8193.23",
+        "timeupdated": "1620057831",
+        "timebuildupdated": "1619700569"
+      },
+      "build8193.24": {
+        "buildid": "6873816",
+        "description": "build8193.24",
+        "timeupdated": "1623951750",
+        "timebuildupdated": "1623782833"
+      },
+      "build8193.25": {
+        "buildid": "6907248",
+        "description": "build8193.25",
+        "timeupdated": "1624376750",
+        "timebuildupdated": "1624299517"
+      },
+      "build8193.26": {
+        "buildid": "6925985",
+        "description": "build8193.26",
+        "timeupdated": "1624548959",
+        "timebuildupdated": "1624530417"
+      },
+      "build8193.27": {
+        "buildid": "6933430",
+        "description": "build8193.27",
+        "timeupdated": "1624637541",
+        "timebuildupdated": "1624626974"
+      },
+      "build8193.28": {
+        "buildid": "6952603",
+        "description": "build8193.28",
+        "timeupdated": "1625003124",
+        "timebuildupdated": "1624990542"
+      },
+      "build8193.29": {
+        "buildid": "6999455",
+        "description": "build8193.29",
+        "timeupdated": "1625766568",
+        "timebuildupdated": "1625753386"
+      },
+      "build8193.30": {
+        "buildid": "7070152",
+        "description": "build8193.30",
+        "timeupdated": "1627065094",
+        "timebuildupdated": "1626960684"
+      },
+      "build8193.31": {
+        "buildid": "7370737",
+        "description": "build8193.31",
+        "timeupdated": "1631806328",
+        "timebuildupdated": "1631800556"
+      },
+      "build8193.32": {
+        "buildid": "7398767",
+        "description": "build8193.32",
+        "timeupdated": "1632337790",
+        "timebuildupdated": "1632244193"
+      },
+      "build8193.33": {
+        "buildid": "7437906",
+        "description": "build8193.33",
+        "timeupdated": "1632845925",
+        "timebuildupdated": "1632829975"
+      },
+      "build8193.34": {
+        "buildid": "7843474",
+        "description": "build8193.34",
+        "timeupdated": "1638986487",
+        "timebuildupdated": "1638904143"
+      },
+      "build8193.35": {
+        "buildid": "11253735",
+        "description": "build8193.35",
+        "timeupdated": "1684424909",
+        "timebuildupdated": "1684328442"
+      },
+      "build8193.36": {
+        "buildid": "14061032",
+        "description": "build8193.36",
+        "timeupdated": "1713550369",
+        "timebuildupdated": "1713212944"
+      },
+      "development": {
+        "buildid": "17470348",
+        "timeupdated": "1740499790",
+        "timebuildupdated": "1740269965"
+      },
+      "oldstable": {
+        "buildid": "14061032",
+        "timeupdated": "1736589891",
+        "timebuildupdated": "1713212944"
+      }
+    }
+  }
+}

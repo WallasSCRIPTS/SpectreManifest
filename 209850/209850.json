@@ -1,0 +1,50 @@
+{
+  "name": "Highborn",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:02.948Z",
+  "branches": {
+    "public": {
+      "buildid": "160598",
+      "timebuildupdated": "1387414239"
+    }
+  },
+  "depot": {
+    "209851": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "840303580375800257",
+          "size": "2606141178",
+          "download": "0"
+        }
+      }
+    },
+    "209852": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3191019908729876656",
+          "size": "2621191735",
+          "download": "0"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "160598",
+        "timebuildupdated": "1387414239"
+      }
+    }
+  }
+}

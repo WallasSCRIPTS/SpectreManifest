@@ -1,0 +1,106 @@
+{
+  "name": "Back to Bed",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:34.107Z",
+  "branches": {
+    "public": {
+      "buildid": "2173764",
+      "timeupdated": "1507286762",
+      "timebuildupdated": "1507187058"
+    },
+    "beta": {
+      "buildid": "2173764",
+      "timeupdated": "1507187078",
+      "timebuildupdated": "1507187058"
+    },
+    "compatibility01": {
+      "buildid": "923554",
+      "timebuildupdated": "1452258872"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "308041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8709333137296318743",
+          "size": "534779987",
+          "download": "268847792"
+        }
+      }
+    },
+    "308042": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5251094446188956885",
+          "size": "544781303",
+          "download": "262066768"
+        }
+      }
+    },
+    "308043": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3296456087900940248",
+          "size": "546795407",
+          "download": "262966464"
+        }
+      }
+    },
+    "308044": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5866338958322923566",
+          "size": "546919583",
+          "download": "262147024"
+        }
+      }
+    },
+    "308046": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "934877726203903911",
+          "size": "549065065",
+          "download": "263300544"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2173764",
+        "timeupdated": "1507286762",
+        "timebuildupdated": "1507187058"
+      },
+      "beta": {
+        "buildid": "2173764",
+        "timeupdated": "1507187078",
+        "timebuildupdated": "1507187058"
+      },
+      "compatibility01": {
+        "buildid": "923554",
+        "timebuildupdated": "1452258872"
+      }
+    }
+  }
+}

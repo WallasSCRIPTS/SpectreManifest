@@ -1,0 +1,70 @@
+{
+  "name": "Smells Like Burnt Rubber Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-06T23:23:20.340Z",
+  "branches": {
+    "public": {
+      "buildid": "20579558",
+      "timeupdated": "1761731681",
+      "timebuildupdated": "1761681500"
+    },
+    "beta": {
+      "buildid": "20579558",
+      "description": "Beta branch",
+      "timeupdated": "1761681651",
+      "timebuildupdated": "1761681500"
+    }
+  },
+  "depot": {
+    "2370221": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3750113488520952657",
+          "size": "601062025",
+          "download": "159643184"
+        }
+      }
+    },
+    "2370222": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2771162721852618136",
+          "size": "599073140",
+          "download": "157042752"
+        }
+      }
+    },
+    "2370223": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8090002273287199945",
+          "size": "619913506",
+          "download": "166255328"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20579558",
+        "timeupdated": "1761731681",
+        "timebuildupdated": "1761681500"
+      },
+      "beta": {
+        "buildid": "20579558",
+        "description": "Beta branch",
+        "timeupdated": "1761681651",
+        "timebuildupdated": "1761681500"
+      }
+    }
+  }
+}

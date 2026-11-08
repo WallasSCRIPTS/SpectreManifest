@@ -1,0 +1,51 @@
+{
+  "name": "EON Fighter",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:17:37.423Z",
+  "branches": {
+    "public": {
+      "buildid": "19414170",
+      "timeupdated": "1753881006",
+      "timebuildupdated": "1753880964"
+    },
+    "windows7": {
+      "buildid": "16751316",
+      "description": "Windows 7 users",
+      "timeupdated": "1740740859",
+      "timebuildupdated": "1734274729"
+    }
+  },
+  "depot": {
+    "2146721": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7431215231384613698",
+          "size": "615777110",
+          "download": "415167888"
+        }
+      }
+    },
+    "2146722": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19414170",
+        "timeupdated": "1753881006",
+        "timebuildupdated": "1753880964"
+      },
+      "windows7": {
+        "buildid": "16751316",
+        "description": "Windows 7 users",
+        "timeupdated": "1740740859",
+        "timebuildupdated": "1734274729"
+      }
+    }
+  }
+}

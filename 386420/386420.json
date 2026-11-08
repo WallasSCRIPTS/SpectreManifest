@@ -1,0 +1,68 @@
+{
+  "name": "Job the Leprechaun",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:25.747Z",
+  "branches": {
+    "public": {
+      "buildid": "3910883",
+      "timeupdated": "1560330400",
+      "timebuildupdated": "1560330184"
+    },
+    "test": {
+      "buildid": "3910883",
+      "timeupdated": "1560330195",
+      "timebuildupdated": "1560330184"
+    }
+  },
+  "depot": {
+    "386421": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3721026559036313570",
+          "size": "7007239",
+          "download": "7024016"
+        }
+      }
+    },
+    "386422": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7415223403191584495",
+          "size": "13489358",
+          "download": "6105920"
+        }
+      }
+    },
+    "386423": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "326889123662318192",
+          "size": "11836683",
+          "download": "5599920"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3910883",
+        "timeupdated": "1560330400",
+        "timebuildupdated": "1560330184"
+      },
+      "test": {
+        "buildid": "3910883",
+        "timeupdated": "1560330195",
+        "timebuildupdated": "1560330184"
+      }
+    }
+  }
+}

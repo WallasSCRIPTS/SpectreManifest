@@ -1,0 +1,82 @@
+{
+  "name": "Wish Project",
+  "source": "spectre",
+  "changenumber": 34829843,
+  "updated": "2026-11-07T20:57:12.715Z",
+  "branches": {
+    "public": {
+      "buildid": "10474106",
+      "timeupdated": "1675456212",
+      "timebuildupdated": "1675453757"
+    },
+    "beta": {
+      "buildid": "10474106",
+      "description": "For testing the latest build before it goes live.",
+      "timeupdated": "1675456188",
+      "timebuildupdated": "1675453757"
+    },
+    "legacy": {
+      "buildid": "1444448",
+      "description": "Version 2.2.0.",
+      "timeupdated": "1674758340",
+      "timebuildupdated": "1478542256"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "367141": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2166190988700108681",
+          "size": "83915677",
+          "download": "60528064"
+        }
+      }
+    },
+    "367142": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6022479808272307337",
+          "size": "106309085",
+          "download": "67066416"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10474106",
+        "timeupdated": "1675456212",
+        "timebuildupdated": "1675453757"
+      },
+      "beta": {
+        "buildid": "10474106",
+        "description": "For testing the latest build before it goes live.",
+        "timeupdated": "1675456188",
+        "timebuildupdated": "1675453757"
+      },
+      "legacy": {
+        "buildid": "1444448",
+        "description": "Version 2.2.0.",
+        "timeupdated": "1674758340",
+        "timebuildupdated": "1478542256"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Conveyance",
+  "source": "spectre",
+  "changenumber": 37452352,
+  "updated": "2026-11-06T23:11:37.312Z",
+  "branches": {
+    "public": {
+      "buildid": "8201521",
+      "timeupdated": "1644878753",
+      "timebuildupdated": "1644863377"
+    },
+    "beta": {
+      "buildid": "8201521",
+      "description": "shiny new untested releases",
+      "timeupdated": "1644863875",
+      "timebuildupdated": "1644863377"
+    }
+  },
+  "depot": {
+    "1838102": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6101212926647301324",
+          "size": "503362592",
+          "download": "147368160"
+        }
+      }
+    },
+    "1838103": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2050088902231302092",
+          "size": "526355341",
+          "download": "154264752"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8201521",
+        "timeupdated": "1644878753",
+        "timebuildupdated": "1644863377"
+      },
+      "beta": {
+        "buildid": "8201521",
+        "description": "shiny new untested releases",
+        "timeupdated": "1644863875",
+        "timebuildupdated": "1644863377"
+      }
+    }
+  }
+}

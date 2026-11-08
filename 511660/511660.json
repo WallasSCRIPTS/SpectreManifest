@@ -1,0 +1,52 @@
+{
+  "name": "Beachhead 2002",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:24.625Z",
+  "branches": {
+    "public": {
+      "buildid": "21657621",
+      "timeupdated": "1769474991",
+      "timebuildupdated": "1769474521"
+    },
+    "beachheadlegacy": {
+      "buildid": "1752935",
+      "description": "Final build before compatibility changes.",
+      "timeupdated": "1787838839",
+      "timebuildupdated": "1492018661"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "511661": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4291699270683975433",
+          "size": "232119352",
+          "download": "73442848"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21657621",
+        "timeupdated": "1769474991",
+        "timebuildupdated": "1769474521"
+      },
+      "beachheadlegacy": {
+        "buildid": "1752935",
+        "description": "Final build before compatibility changes.",
+        "timeupdated": "1787838839",
+        "timebuildupdated": "1492018661"
+      }
+    }
+  }
+}

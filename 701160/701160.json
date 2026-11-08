@@ -1,0 +1,89 @@
+{
+  "name": "Kingdom Two Crowns",
+  "source": "spectre",
+  "changenumber": 40673215,
+  "updated": "2026-11-07T20:59:56.201Z",
+  "branches": {
+    "public": {
+      "buildid": "25774160",
+      "timeupdated": "1791878462",
+      "timebuildupdated": "1791366358"
+    },
+    "legacy": {
+      "buildid": "21719171",
+      "description": "Temporary branch for legacy OS (version 2.3.1). Expires on July 31, 2026.",
+      "timeupdated": "1769789035",
+      "timebuildupdated": "1769788598"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "701161": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4399975711930414095",
+          "size": "2445703958",
+          "download": "1396763568"
+        }
+      }
+    },
+    "701162": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4440747441595847584",
+          "size": "2587557121",
+          "download": "1426442320"
+        }
+      }
+    },
+    "701163": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2806224052924994413",
+          "size": "2424009225",
+          "download": "1379348464"
+        }
+      }
+    },
+    "988810": {
+      "manifests": {
+        "public": {
+          "gid": "9153904362077354978",
+          "size": "2243072013",
+          "download": "2149279024"
+        }
+      },
+      "dlcappid": "988810"
+    },
+    "1708680": {
+      "dlcappid": "1708680"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25774160",
+        "timeupdated": "1791878462",
+        "timebuildupdated": "1791366358"
+      },
+      "legacy": {
+        "buildid": "21719171",
+        "description": "Temporary branch for legacy OS (version 2.3.1). Expires on July 31, 2026.",
+        "timeupdated": "1769789035",
+        "timebuildupdated": "1769788598"
+      }
+    }
+  }
+}

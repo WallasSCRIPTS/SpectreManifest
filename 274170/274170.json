@@ -1,0 +1,99 @@
+{
+  "name": "Hotline Miami 2: Wrong Number",
+  "source": "spectre",
+  "changenumber": 40124780,
+  "updated": "2026-11-07T20:56:19.813Z",
+  "branches": {
+    "public": {
+      "buildid": "2341683",
+      "timeupdated": "1512645049",
+      "timebuildupdated": "1512482780"
+    },
+    "editor_beta": {
+      "buildid": "1279936",
+      "timeupdated": "1471250675",
+      "timebuildupdated": "1471250460"
+    },
+    "no_editor": {
+      "buildid": "965179",
+      "description": "For troubleshooting issues occurring since the editor update.",
+      "timeupdated": "1466586488",
+      "timebuildupdated": "1454794021"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "274172": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7199041297203663559",
+          "size": "616372827",
+          "download": "546947696"
+        }
+      }
+    },
+    "274173": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1421157288583409625",
+          "size": "642236692",
+          "download": "553329312"
+        }
+      }
+    },
+    "274174": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8626824437792969994",
+          "size": "639698514",
+          "download": "550144208"
+        }
+      }
+    },
+    "274175": {
+      "manifests": {
+        "public": {
+          "gid": "4640517193330318629",
+          "size": "330320579",
+          "download": "326580848"
+        }
+      },
+      "dlcappid": "355390"
+    },
+    "355390": {
+      "dlcappid": "355390"
+    },
+    "branches": {
+      "public": {
+        "buildid": "2341683",
+        "timeupdated": "1512645049",
+        "timebuildupdated": "1512482780"
+      },
+      "editor_beta": {
+        "buildid": "1279936",
+        "timeupdated": "1471250675",
+        "timebuildupdated": "1471250460"
+      },
+      "no_editor": {
+        "buildid": "965179",
+        "description": "For troubleshooting issues occurring since the editor update.",
+        "timeupdated": "1466586488",
+        "timebuildupdated": "1454794021"
+      }
+    }
+  }
+}

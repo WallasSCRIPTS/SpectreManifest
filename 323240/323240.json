@@ -1,0 +1,58 @@
+{
+  "name": "The World II: Hunting BOSS",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:41.078Z",
+  "branches": {
+    "public": {
+      "buildid": "6387636",
+      "timeupdated": "1615883886",
+      "timebuildupdated": "1615883863"
+    },
+    "gametest": {
+      "buildid": "1575294",
+      "description": "test",
+      "timeupdated": "1484703195",
+      "timebuildupdated": "1484703158"
+    }
+  },
+  "depot": {
+    "323241": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "95941468025122253",
+          "size": "770942156",
+          "download": "301576352"
+        }
+      }
+    },
+    "323242": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4725384286940886387",
+          "size": "770083401",
+          "download": "276361056"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6387636",
+        "timeupdated": "1615883886",
+        "timebuildupdated": "1615883863"
+      },
+      "gametest": {
+        "buildid": "1575294",
+        "description": "test",
+        "timeupdated": "1484703195",
+        "timebuildupdated": "1484703158"
+      }
+    }
+  }
+}

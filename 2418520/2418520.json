@@ -1,0 +1,61 @@
+{
+  "name": "Farm Together 2",
+  "source": "spectre",
+  "changenumber": 40669475,
+  "updated": "2026-11-06T23:25:07.534Z",
+  "branches": {
+    "public": {
+      "buildid": "25826057",
+      "timeupdated": "1792151289",
+      "timebuildupdated": "1791540609"
+    },
+    "sdl3_test": {
+      "buildid": "26429694",
+      "description": "SDL3 Test",
+      "timeupdated": "1793790469",
+      "timebuildupdated": "1793790429"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2418521": {
+      "manifests": {
+        "public": {
+          "gid": "3071941510382864363",
+          "size": "1348519489",
+          "download": "812016544"
+        }
+      }
+    },
+    "2418522": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "712904336063452143",
+          "size": "1381824702",
+          "download": "822967728"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25826057",
+        "timeupdated": "1792151289",
+        "timebuildupdated": "1791540609"
+      },
+      "sdl3_test": {
+        "buildid": "26429694",
+        "description": "SDL3 Test",
+        "timeupdated": "1793790469",
+        "timebuildupdated": "1793790429"
+      }
+    }
+  }
+}

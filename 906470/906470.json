@@ -1,0 +1,58 @@
+{
+  "name": "Gravia",
+  "source": "spectre",
+  "changenumber": 40623688,
+  "updated": "2026-11-07T21:01:35.504Z",
+  "branches": {
+    "public": {
+      "buildid": "26454610",
+      "timeupdated": "1793872477",
+      "timebuildupdated": "1793872023"
+    },
+    "preview": {
+      "buildid": "26454610",
+      "description": "A less stable release channel, updated more often, but more  likely to have bugs.",
+      "timeupdated": "1793872079",
+      "timebuildupdated": "1793872023"
+    }
+  },
+  "depot": {
+    "906471": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8931126560268205782",
+          "size": "8256349047",
+          "download": "3634092288"
+        }
+      }
+    },
+    "906472": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6263933691090660857",
+          "size": "8182164566",
+          "download": "3010951184"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26454610",
+        "timeupdated": "1793872477",
+        "timebuildupdated": "1793872023"
+      },
+      "preview": {
+        "buildid": "26454610",
+        "description": "A less stable release channel, updated more often, but more  likely to have bugs.",
+        "timeupdated": "1793872079",
+        "timebuildupdated": "1793872023"
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Master Reboot",
+  "source": "spectre",
+  "changenumber": 37432709,
+  "updated": "2026-11-07T20:56:12.735Z",
+  "branches": {
+    "public": {
+      "buildid": "160169",
+      "timebuildupdated": "1387371992"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "251851": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5947932842326324932",
+          "size": "1421910230",
+          "download": "0"
+        }
+      }
+    },
+    "251852": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3591665446071765235",
+          "size": "1468951809",
+          "download": "0"
+        }
+      }
+    },
+    "271100": {
+      "manifests": {
+        "public": {
+          "gid": "3122854698808629928",
+          "size": "245472354",
+          "download": "0"
+        }
+      },
+      "dlcappid": "271100"
+    },
+    "branches": {
+      "public": {
+        "buildid": "160169",
+        "timebuildupdated": "1387371992"
+      }
+    }
+  }
+}

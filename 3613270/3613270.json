@@ -1,0 +1,58 @@
+{
+  "name": "Star Ores Inc.",
+  "source": "spectre",
+  "changenumber": 40066760,
+  "updated": "2026-11-06T21:07:41.539Z",
+  "branches": {
+    "public": {
+      "buildid": "24291937",
+      "timeupdated": "1784533514",
+      "timebuildupdated": "1784533514"
+    },
+    "beta": {
+      "buildid": "22430102",
+      "description": "ext. testing of new releases",
+      "timeupdated": "1774510597",
+      "timebuildupdated": "1773998574"
+    }
+  },
+  "depot": {
+    "3613271": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8658681907588921278",
+          "size": "2441225491",
+          "download": "1830520384"
+        }
+      }
+    },
+    "3613272": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4809373018480080049",
+          "size": "2564942033",
+          "download": "1898865744"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24291937",
+        "timeupdated": "1784533514",
+        "timebuildupdated": "1784533514"
+      },
+      "beta": {
+        "buildid": "22430102",
+        "description": "ext. testing of new releases",
+        "timeupdated": "1774510597",
+        "timebuildupdated": "1773998574"
+      }
+    }
+  }
+}

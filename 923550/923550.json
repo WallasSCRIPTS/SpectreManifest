@@ -1,0 +1,64 @@
+{
+  "name": "Rescale",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:01:43.151Z",
+  "branches": {
+    "public": {
+      "buildid": "3044857",
+      "timeupdated": "1534654123",
+      "timebuildupdated": "1534654089"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "923551": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2733634137092004569",
+          "size": "62742951",
+          "download": "22746352"
+        }
+      }
+    },
+    "923552": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7307721133715556703",
+          "size": "68763012",
+          "download": "25167968"
+        }
+      }
+    },
+    "923553": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4833284127004753432",
+          "size": "78737832",
+          "download": "26152256"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3044857",
+        "timeupdated": "1534654123",
+        "timebuildupdated": "1534654089"
+      }
+    }
+  }
+}

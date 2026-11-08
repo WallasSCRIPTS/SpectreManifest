@@ -1,0 +1,70 @@
+{
+  "name": "Kobold Slayer",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:02:07.904Z",
+  "branches": {
+    "public": {
+      "buildid": "4139571",
+      "timeupdated": "1566831044",
+      "timebuildupdated": "1566831043"
+    },
+    "beta": {
+      "buildid": "4139534",
+      "description": "beta branch",
+      "timeupdated": "1566830345",
+      "timebuildupdated": "1566830345"
+    }
+  },
+  "depot": {
+    "973041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4974689331148010581",
+          "size": "468983744",
+          "download": "349193360"
+        }
+      }
+    },
+    "973042": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6077318355576823551",
+          "size": "609663382",
+          "download": "379528448"
+        }
+      }
+    },
+    "973043": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4864073190227052260",
+          "size": "813657544",
+          "download": "355537584"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4139571",
+        "timeupdated": "1566831044",
+        "timebuildupdated": "1566831043"
+      },
+      "beta": {
+        "buildid": "4139534",
+        "description": "beta branch",
+        "timeupdated": "1566830345",
+        "timebuildupdated": "1566830345"
+      }
+    }
+  }
+}

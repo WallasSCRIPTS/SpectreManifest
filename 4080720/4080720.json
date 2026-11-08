@@ -1,0 +1,58 @@
+{
+  "name": "Spudtrap",
+  "source": "spectre",
+  "changenumber": 35804295,
+  "updated": "2026-11-04T23:24:44.919Z",
+  "branches": {
+    "public": {
+      "buildid": "23192124",
+      "timeupdated": "1778565456",
+      "timebuildupdated": "1778565410"
+    },
+    "linux": {
+      "buildid": "22636095",
+      "description": "public linux",
+      "timeupdated": "1775217786",
+      "timebuildupdated": "1775217786"
+    }
+  },
+  "depot": {
+    "4080721": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8301806543244216354",
+          "size": "318693357",
+          "download": "128372496"
+        }
+      }
+    },
+    "4080722": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8036951470901201603",
+          "size": "26315135",
+          "download": "11627056"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23192124",
+        "timeupdated": "1778565456",
+        "timebuildupdated": "1778565410"
+      },
+      "linux": {
+        "buildid": "22636095",
+        "description": "public linux",
+        "timeupdated": "1775217786",
+        "timebuildupdated": "1775217786"
+      }
+    }
+  }
+}

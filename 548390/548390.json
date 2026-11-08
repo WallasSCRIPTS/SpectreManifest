@@ -1,0 +1,82 @@
+{
+  "name": "Gimbal Gravity",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:41.208Z",
+  "branches": {
+    "public": {
+      "buildid": "2466710",
+      "timeupdated": "1516836649",
+      "timebuildupdated": "1516836621"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "548391": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6131605718711115145",
+          "size": "434590716",
+          "download": "153597200"
+        }
+      }
+    },
+    "548392": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "605047367221788868",
+          "size": "6123340",
+          "download": "1969392"
+        }
+      }
+    },
+    "548393": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8155300753899375519",
+          "size": "6799988",
+          "download": "1026208"
+        }
+      }
+    },
+    "548394": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8114578417287071333",
+          "size": "385433516",
+          "download": "155216128"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2466710",
+        "timeupdated": "1516836649",
+        "timebuildupdated": "1516836621"
+      }
+    }
+  }
+}

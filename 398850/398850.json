@@ -1,0 +1,92 @@
+{
+  "name": "Epistory - Typing Chronicles",
+  "source": "spectre",
+  "changenumber": 37434570,
+  "updated": "2026-11-07T20:57:32.235Z",
+  "branches": {
+    "public": {
+      "buildid": "20301100",
+      "timeupdated": "1760429961",
+      "timebuildupdated": "1759917957"
+    },
+    "greek_test": {
+      "buildid": "2899418",
+      "description": "Game with Greek fonts",
+      "timeupdated": "1530806335",
+      "timebuildupdated": "1530111201"
+    },
+    "linux_lang_test": {
+      "buildid": "3430049",
+      "timeupdated": "1545908735",
+      "timebuildupdated": "1545908529"
+    }
+  },
+  "depot": {
+    "398851": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7070796136574357838",
+          "size": "1571598313",
+          "download": "555895632"
+        }
+      }
+    },
+    "398852": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4650997540957475099",
+          "size": "1302248480",
+          "download": "505972880"
+        }
+      }
+    },
+    "398853": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2508543288464209721",
+          "size": "1348864225",
+          "download": "511972128"
+        }
+      }
+    },
+    "398854": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3694993540336611096",
+          "size": "1316279627",
+          "download": "503745248"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20301100",
+        "timeupdated": "1760429961",
+        "timebuildupdated": "1759917957"
+      },
+      "greek_test": {
+        "buildid": "2899418",
+        "description": "Game with Greek fonts",
+        "timeupdated": "1530806335",
+        "timebuildupdated": "1530111201"
+      },
+      "linux_lang_test": {
+        "buildid": "3430049",
+        "timeupdated": "1545908735",
+        "timebuildupdated": "1545908529"
+      }
+    }
+  }
+}

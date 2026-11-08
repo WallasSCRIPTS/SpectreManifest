@@ -1,0 +1,71 @@
+{
+  "name": "RAM: Random Access Mayhem",
+  "source": "spectre",
+  "changenumber": 40534707,
+  "updated": "2026-11-06T23:21:21.818Z",
+  "branches": {
+    "public": {
+      "buildid": "20484325",
+      "timeupdated": "1761067149",
+      "timebuildupdated": "1761067149"
+    },
+    "publictest": {
+      "buildid": "26397177",
+      "description": "Public Testing",
+      "timeupdated": "1793678496",
+      "timebuildupdated": "1793678496"
+    }
+  },
+  "depot": {
+    "2256451": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1587713661289854105",
+          "size": "1039534568",
+          "download": "904184272"
+        }
+      }
+    },
+    "2256453": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5416006519103847453",
+          "size": "1114210581",
+          "download": "923094272"
+        }
+      }
+    },
+    "4009970": {
+      "config": {
+        "oslist": "windows,macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5385647984002770653",
+          "size": "13586064",
+          "download": "10649504"
+        }
+      },
+      "dlcappid": "4009970"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20484325",
+        "timeupdated": "1761067149",
+        "timebuildupdated": "1761067149"
+      },
+      "publictest": {
+        "buildid": "26397177",
+        "description": "Public Testing",
+        "timeupdated": "1793678496",
+        "timebuildupdated": "1793678496"
+      }
+    }
+  }
+}

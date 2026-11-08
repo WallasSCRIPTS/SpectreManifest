@@ -1,0 +1,73 @@
+{
+  "name": "Sudoku3D 2: The Cube",
+  "source": "spectre",
+  "changenumber": 34844177,
+  "updated": "2026-11-07T21:02:38.040Z",
+  "branches": {
+    "public": {
+      "buildid": "5446810",
+      "timeupdated": "1598122966",
+      "timebuildupdated": "1598120173"
+    },
+    "beta": {
+      "buildid": "5446810",
+      "description": "for betatests",
+      "timeupdated": "1598120697",
+      "timebuildupdated": "1598120173"
+    },
+    "linux_default": {
+      "buildid": "3625108",
+      "timeupdated": "1551974673",
+      "timebuildupdated": "1551972434"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1031561": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2633198525454883221",
+          "size": "337453359",
+          "download": "161730864"
+        }
+      }
+    },
+    "1031562": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5446810",
+        "timeupdated": "1598122966",
+        "timebuildupdated": "1598120173"
+      },
+      "beta": {
+        "buildid": "5446810",
+        "description": "for betatests",
+        "timeupdated": "1598120697",
+        "timebuildupdated": "1598120173"
+      },
+      "linux_default": {
+        "buildid": "3625108",
+        "timeupdated": "1551974673",
+        "timebuildupdated": "1551972434"
+      }
+    }
+  }
+}

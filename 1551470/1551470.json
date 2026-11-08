@@ -1,0 +1,63 @@
+{
+  "name": "Voidwalkers: The Gates Of Hell",
+  "source": "spectre",
+  "changenumber": 40620863,
+  "updated": "2026-11-06T21:06:05.013Z",
+  "branches": {
+    "public": {
+      "buildid": "12479147",
+      "timeupdated": "1697781130",
+      "timebuildupdated": "1697694387"
+    },
+    "beta": {
+      "buildid": "12565288",
+      "description": "Unstable builds",
+      "timeupdated": "1698614906",
+      "timebuildupdated": "1698584416"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1551471": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7494071240767351124",
+          "size": "35399180915",
+          "download": "20483400064"
+        }
+      }
+    },
+    "1551472": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12479147",
+        "timeupdated": "1697781130",
+        "timebuildupdated": "1697694387"
+      },
+      "beta": {
+        "buildid": "12565288",
+        "description": "Unstable builds",
+        "timeupdated": "1698614906",
+        "timebuildupdated": "1698584416"
+      }
+    }
+  }
+}

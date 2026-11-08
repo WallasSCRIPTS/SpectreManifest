@@ -1,0 +1,66 @@
+{
+  "name": "Knights Within",
+  "source": "spectre",
+  "changenumber": 40490288,
+  "updated": "2026-11-06T23:23:24.646Z",
+  "branches": {
+    "public": {
+      "buildid": "26367855",
+      "timeupdated": "1793574197",
+      "timebuildupdated": "1793573798"
+    },
+    "local": {
+      "buildid": "12208715",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1694935865",
+      "timebuildupdated": "1694926369"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229000": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2406181": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3595303535168208591",
+          "size": "6476738183",
+          "download": "3142197328"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26367855",
+        "timeupdated": "1793574197",
+        "timebuildupdated": "1793573798"
+      },
+      "local": {
+        "buildid": "12208715",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1694935865",
+        "timebuildupdated": "1694926369"
+      }
+    }
+  }
+}

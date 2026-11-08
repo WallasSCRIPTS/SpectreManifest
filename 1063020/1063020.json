@@ -1,0 +1,70 @@
+{
+  "name": "Elemental War 2",
+  "source": "spectre",
+  "changenumber": 40397573,
+  "updated": "2026-11-07T21:02:53.341Z",
+  "branches": {
+    "public": {
+      "buildid": "19776185",
+      "timeupdated": "1757257533",
+      "timebuildupdated": "1756412599"
+    },
+    "test": {
+      "buildid": "11402872",
+      "description": "Test branch for specific user issues",
+      "timeupdated": "1686041779",
+      "timebuildupdated": "1686041779"
+    }
+  },
+  "depot": {
+    "1063021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3922646156528412730",
+          "size": "13639114793",
+          "download": "8361135424"
+        }
+      }
+    },
+    "1063022": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "38815753676920317",
+          "size": "13763514096",
+          "download": "8411162464"
+        }
+      }
+    },
+    "1063023": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8585416547384387661",
+          "size": "13823487764",
+          "download": "8392136864"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19776185",
+        "timeupdated": "1757257533",
+        "timebuildupdated": "1756412599"
+      },
+      "test": {
+        "buildid": "11402872",
+        "description": "Test branch for specific user issues",
+        "timeupdated": "1686041779",
+        "timebuildupdated": "1686041779"
+      }
+    }
+  }
+}

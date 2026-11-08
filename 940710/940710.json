@@ -1,0 +1,91 @@
+{
+  "name": "Colt Canyon",
+  "source": "spectre",
+  "changenumber": 40016002,
+  "updated": "2026-11-07T21:01:51.046Z",
+  "branches": {
+    "public": {
+      "buildid": "20701994",
+      "timeupdated": "1762469853",
+      "timebuildupdated": "1762469652"
+    },
+    "version-1111": {
+      "buildid": "8200578",
+      "description": "Version 1.1.1.1",
+      "timeupdated": "1656690439",
+      "timebuildupdated": "1644854083"
+    },
+    "unstable": {
+      "buildid": "20701994",
+      "description": "Public pre-release testing",
+      "timeupdated": "1762469660",
+      "timebuildupdated": "1762469652"
+    },
+    "version-1213": {
+      "buildid": "10201865",
+      "description": "Version 1.2.1.3",
+      "timeupdated": "1728759706",
+      "timebuildupdated": "1671735037"
+    },
+    "version-1300": {
+      "buildid": "16040265",
+      "description": "Version 1.3.0.0",
+      "timeupdated": "1731881227",
+      "timebuildupdated": "1728927443"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "940711": {
+      "manifests": {
+        "public": {
+          "gid": "3788607956928932370",
+          "size": "574605231",
+          "download": "356906464"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20701994",
+        "timeupdated": "1762469853",
+        "timebuildupdated": "1762469652"
+      },
+      "version-1111": {
+        "buildid": "8200578",
+        "description": "Version 1.1.1.1",
+        "timeupdated": "1656690439",
+        "timebuildupdated": "1644854083"
+      },
+      "unstable": {
+        "buildid": "20701994",
+        "description": "Public pre-release testing",
+        "timeupdated": "1762469660",
+        "timebuildupdated": "1762469652"
+      },
+      "version-1213": {
+        "buildid": "10201865",
+        "description": "Version 1.2.1.3",
+        "timeupdated": "1728759706",
+        "timebuildupdated": "1671735037"
+      },
+      "version-1300": {
+        "buildid": "16040265",
+        "description": "Version 1.3.0.0",
+        "timeupdated": "1731881227",
+        "timebuildupdated": "1728927443"
+      }
+    }
+  }
+}

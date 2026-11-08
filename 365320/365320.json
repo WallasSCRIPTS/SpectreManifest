@@ -1,0 +1,92 @@
+{
+  "name": "Quadrant",
+  "source": "spectre",
+  "changenumber": 36797736,
+  "updated": "2026-11-07T20:57:11.390Z",
+  "branches": {
+    "public": {
+      "buildid": "1598241",
+      "timeupdated": "1485764226",
+      "timebuildupdated": "1485762112"
+    },
+    "normalmode": {
+      "buildid": "1610082",
+      "description": "a slightly easier version",
+      "timeupdated": "1486198672",
+      "timebuildupdated": "1486198486"
+    },
+    "beta1": {
+      "buildid": "23887991",
+      "description": "public beta",
+      "timeupdated": "1782281416",
+      "timebuildupdated": "1782281416"
+    }
+  },
+  "depot": {
+    "365321": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6025627131294068124",
+          "size": "1542511348",
+          "download": "773320496"
+        }
+      }
+    },
+    "365322": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3103153666508077390",
+          "size": "1561397625",
+          "download": "783402144"
+        }
+      }
+    },
+    "365323": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2973024225764979046",
+          "size": "1546204093",
+          "download": "774115232"
+        }
+      }
+    },
+    "500770": {
+      "manifests": {
+        "public": {
+          "gid": "1267784501959394216",
+          "size": "207906197",
+          "download": "175247056"
+        }
+      },
+      "dlcappid": "500770"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1598241",
+        "timeupdated": "1485764226",
+        "timebuildupdated": "1485762112"
+      },
+      "normalmode": {
+        "buildid": "1610082",
+        "description": "a slightly easier version",
+        "timeupdated": "1486198672",
+        "timebuildupdated": "1486198486"
+      },
+      "beta1": {
+        "buildid": "23887991",
+        "description": "public beta",
+        "timeupdated": "1782281416",
+        "timebuildupdated": "1782281416"
+      }
+    }
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "name": "X4: Foundations",
+  "source": "spectre",
+  "changenumber": 40074479,
+  "updated": "2026-11-07T20:57:29.094Z",
+  "branches": {
+    "public": {
+      "buildid": "23660954",
+      "timeupdated": "1781094714",
+      "timebuildupdated": "1781094506"
+    },
+    "3.20": {
+      "buildid": "10984287",
+      "description": "Version 3.20 (legacy)",
+      "timeupdated": "1681294191",
+      "timebuildupdated": "1681294191"
+    },
+    "3.30": {
+      "buildid": "10984301",
+      "description": "Version 3.30 Hotfix 2 (legacy)",
+      "timeupdated": "1748357636",
+      "timebuildupdated": "1681294231"
+    },
+    "4.00": {
+      "buildid": "10984305",
+      "description": "Version 4.00 Hotfix 3 (legacy)",
+      "timeupdated": "1681294252",
+      "timebuildupdated": "1681294252"
+    },
+    "4.10": {
+      "buildid": "10984309",
+      "description": "Version 4.10 (legacy)",
+      "timeupdated": "1681294281",
+      "timebuildupdated": "1681294280"
+    },
+    "4.20": {
+      "buildid": "10984312",
+      "description": "Version 4.20 (legacy)",
+      "timeupdated": "1681294311",
+      "timebuildupdated": "1681294311"
+    },
+    "5.00": {
+      "buildid": "10984319",
+      "description": "Version 5.00 Hotfix 4 (legacy)",
+      "timeupdated": "1681294330",
+      "timebuildupdated": "1681294330"
+    },
+    "5.10": {
+      "buildid": "10984321",
+      "description": "Version 5.10 Hotfix 3 (legacy)",
+      "timeupdated": "1681294348",
+      "timebuildupdated": "1681294348"
+    },
+    "6.00": {
+      "buildid": "11235959",
+      "description": "Version 6.00 Hotfix 5 (legacy)",
+      "timeupdated": "1684166336",
+      "timebuildupdated": "1684165902"
+    },
+    "6.10": {
+      "buildid": "11775542",
+      "description": "Version 6.10 Hotfix 1 (legacy)",
+      "timeupdated": "1690296914",
+      "timebuildupdated": "1690219920"
+    },
+    "6.20": {
+      "buildid": "12023373",
+      "description": "Version 6.20 (legacy)",
+      "timeupdated": "1692886928",
+      "timebuildupdated": "1692886709"
+    },
+    "7.00": {
+      "buildid": "14832819",
+      "description": "Version 7.00 Hotfix 1 (legacy)",
+      "timeupdated": "1719326137",
+      "timebuildupdated": "1719325973"
+    },
+    "7.10": {
+      "buildid": "15888363",
+      "description": "Version 7.10 Hotfix 3 (legacy)",
+      "timeupdated": "1727796842",
+      "timebuildupdated": "1727784432"
+    },
+    "7.50": {
+      "buildid": "17442116",
+      "description": "Version 7.50 (legacy)",
+      "timeupdated": "1743007181",
+      "timebuildupdated": "1740068575"
+    },
+    "7.60": {
+      "buildid": "18629095",
+      "description": "Version 7.60 (legacy)",
+      "timeupdated": "1748365900",
+      "timebuildupdated": "1748365797"
+    },
+    "8.00": {
+      "buildid": "21408220",
+      "description": "Version 8.00 Hotfix 4 (legacy)",
+      "timeupdated": "1767782299",
+      "timebuildupdated": "1767782026"
+    },
+    "9.00": {
+      "buildid": "23660954",
+      "description": "Version 9.00 (legacy)",
+      "timeupdated": "1781094714",
+      "timebuildupdated": "1781094506"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "392161": {
+      "manifests": {
+        "public": {
+          "gid": "4225550057772253293",
+          "size": "23240958263",
+          "download": "19747810224"
+        }
+      }
+    },
+    "392162": {
+      "manifests": {
+        "public": {
+          "gid": "2857524089846017050",
+          "size": "1496202360",
+          "download": "1266497168"
+        }
+      }
+    },
+    "392163": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7091123868222547143",
+          "size": "131525007",
+          "download": "58051520"
+        }
+      }
+    },
+    "392164": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1414236265846907468",
+          "size": "182675298",
+          "download": "68979504"
+        }
+      }
+    },
+    "392165": {
+      "manifests": {
+        "public": {
+          "gid": "1334542879077805683",
+          "size": "4",
+          "download": "48"
+        }
+      }
+    },
+    "392166": {
+      "manifests": {
+        "public": {
+          "gid": "1428443897261327369",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "392167": {
+      "manifests": {
+        "public": {
+          "gid": "8438881501429417845",
+          "size": "4",
+          "download": "48"
+        }
+      }
+    },
+    "392168": {
+      "manifests": {
+        "public": {
+          "gid": "1161899617529730286",
+          "size": "3367849673",
+          "download": "2656236640"
+        }
+      }
+    },
+    "392169": {
+      "manifests": {
+        "public": {
+          "gid": "7474697231672727401",
+          "size": "4",
+          "download": "48"
+        }
+      }
+    },
+    "942190": {
+      "manifests": {
+        "public": {
+          "gid": "3352622177082382335",
+          "size": "610109615",
+          "download": "604278704"
+        }
+      },
+      "dlcappid": "942190"
+    },
+    "942191": {
+      "manifests": {
+        "public": {
+          "gid": "7939537911520770070",
+          "size": "4000163000",
+          "download": "3226572592"
+        }
+      }
+    },
+    "942192": {
+      "manifests": {
+        "public": {
+          "gid": "2184735555500823524",
+          "size": "4",
+          "download": "48"
+        }
+      }
+    },
+    "942193": {
+      "manifests": {
+        "public": {
+          "gid": "6210433118772893920",
+          "size": "3332883935",
+          "download": "2716028512"
+        }
+      }
+    },
+    "942194": {
+      "manifests": {
+        "public": {
+          "gid": "9062583292843475231",
+          "size": "4",
+          "download": "48"
+        }
+      }
+    },
+    "942195": {
+      "manifests": {
+        "public": {
+          "gid": "1336734153095223615",
+          "size": "4",
+          "download": "48"
+        }
+      }
+    },
+    "942196": {
+      "manifests": {
+        "public": {
+          "gid": "8424650925559839944",
+          "size": "4",
+          "download": "48"
+        }
+      }
+    },
+    "942197": {
+      "manifests": {
+        "public": {
+          "gid": "3979290990888571350",
+          "size": "4",
+          "download": "48"
+        }
+      }
+    },
+    "942198": {
+      "manifests": {
+        "public": {
+          "gid": "5742520538671173936",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "942199": {
+      "manifests": {
+        "public": {
+          "gid": "5844911264921319671",
+          "size": "4",
+          "download": "48"
+        }
+      }
+    },
+    "986331": {
+      "manifests": {
+        "public": {
+          "gid": "3187015206047810031",
+          "size": "4",
+          "download": "48"
+        }
+      }
+    },
+    "1133000": {
+      "manifests": {
+        "public": {
+          "gid": "8151554658826953",
+          "size": "1361863936",
+          "download": "1110379936"
+        }
+      },
+      "dlcappid": "1133000"
+    },
+    "1288460": {
+      "manifests": {
+        "public": {
+          "gid": "4593444429841638508",
+          "size": "2480967432",
+          "download": "2145548976"
+        }
+      },
+      "dlcappid": "1288460"
+    },
+    "1701060": {
+      "manifests": {
+        "public": {
+          "gid": "5188266762831629276",
+          "size": "1586741681",
+          "download": "1247503568"
+        }
+      },
+      "dlcappid": "1701060"
+    },
+    "1990040": {
+      "manifests": {
+        "public": {
+          "gid": "2048498481594144922",
+          "size": "1823079102",
+          "download": "1526897392"
+        }
+      },
+      "dlcappid": "1990040"
+    },
+    "2375830": {
+      "manifests": {
+        "public": {
+          "gid": "4286061868342360493",
+          "size": "403138353",
+          "download": "407534912"
+        }
+      },
+      "dlcappid": "2375830"
+    },
+    "2700340": {
+      "manifests": {
+        "public": {
+          "gid": "5518789525033597236",
+          "size": "1223114029",
+          "download": "1003324512"
+        }
+      },
+      "dlcappid": "2700340"
+    },
+    "3419300": {
+      "manifests": {
+        "public": {
+          "gid": "8828495301192872467",
+          "size": "102267526",
+          "download": "93354592"
+        }
+      },
+      "dlcappid": "3419300"
+    },
+    "3778100": {
+      "manifests": {
+        "public": {
+          "gid": "8696995086818321605",
+          "size": "419279660",
+          "download": "383026080"
+        }
+      },
+      "dlcappid": "3778100"
+    },
+    "branches": {
+      "public": {
+        "buildid": "23660954",
+        "timeupdated": "1781094714",
+        "timebuildupdated": "1781094506"
+      },
+      "3.20": {
+        "buildid": "10984287",
+        "description": "Version 3.20 (legacy)",
+        "timeupdated": "1681294191",
+        "timebuildupdated": "1681294191"
+      },
+      "3.30": {
+        "buildid": "10984301",
+        "description": "Version 3.30 Hotfix 2 (legacy)",
+        "timeupdated": "1748357636",
+        "timebuildupdated": "1681294231"
+      },
+      "4.00": {
+        "buildid": "10984305",
+        "description": "Version 4.00 Hotfix 3 (legacy)",
+        "timeupdated": "1681294252",
+        "timebuildupdated": "1681294252"
+      },
+      "4.10": {
+        "buildid": "10984309",
+        "description": "Version 4.10 (legacy)",
+        "timeupdated": "1681294281",
+        "timebuildupdated": "1681294280"
+      },
+      "4.20": {
+        "buildid": "10984312",
+        "description": "Version 4.20 (legacy)",
+        "timeupdated": "1681294311",
+        "timebuildupdated": "1681294311"
+      },
+      "5.00": {
+        "buildid": "10984319",
+        "description": "Version 5.00 Hotfix 4 (legacy)",
+        "timeupdated": "1681294330",
+        "timebuildupdated": "1681294330"
+      },
+      "5.10": {
+        "buildid": "10984321",
+        "description": "Version 5.10 Hotfix 3 (legacy)",
+        "timeupdated": "1681294348",
+        "timebuildupdated": "1681294348"
+      },
+      "6.00": {
+        "buildid": "11235959",
+        "description": "Version 6.00 Hotfix 5 (legacy)",
+        "timeupdated": "1684166336",
+        "timebuildupdated": "1684165902"
+      },
+      "6.10": {
+        "buildid": "11775542",
+        "description": "Version 6.10 Hotfix 1 (legacy)",
+        "timeupdated": "1690296914",
+        "timebuildupdated": "1690219920"
+      },
+      "6.20": {
+        "buildid": "12023373",
+        "description": "Version 6.20 (legacy)",
+        "timeupdated": "1692886928",
+        "timebuildupdated": "1692886709"
+      },
+      "7.00": {
+        "buildid": "14832819",
+        "description": "Version 7.00 Hotfix 1 (legacy)",
+        "timeupdated": "1719326137",
+        "timebuildupdated": "1719325973"
+      },
+      "7.10": {
+        "buildid": "15888363",
+        "description": "Version 7.10 Hotfix 3 (legacy)",
+        "timeupdated": "1727796842",
+        "timebuildupdated": "1727784432"
+      },
+      "7.50": {
+        "buildid": "17442116",
+        "description": "Version 7.50 (legacy)",
+        "timeupdated": "1743007181",
+        "timebuildupdated": "1740068575"
+      },
+      "7.60": {
+        "buildid": "18629095",
+        "description": "Version 7.60 (legacy)",
+        "timeupdated": "1748365900",
+        "timebuildupdated": "1748365797"
+      },
+      "8.00": {
+        "buildid": "21408220",
+        "description": "Version 8.00 Hotfix 4 (legacy)",
+        "timeupdated": "1767782299",
+        "timebuildupdated": "1767782026"
+      },
+      "9.00": {
+        "buildid": "23660954",
+        "description": "Version 9.00 (legacy)",
+        "timeupdated": "1781094714",
+        "timebuildupdated": "1781094506"
+      }
+    }
+  }
+}

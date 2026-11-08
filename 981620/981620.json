@@ -1,0 +1,80 @@
+{
+  "name": "Hexa",
+  "source": "spectre",
+  "changenumber": 34842913,
+  "updated": "2026-11-07T21:02:12.526Z",
+  "branches": {
+    "public": {
+      "buildid": "4563288",
+      "timeupdated": "1578866122",
+      "timebuildupdated": "1578866097"
+    },
+    "beta": {
+      "buildid": "4563288",
+      "timeupdated": "1669026386",
+      "timebuildupdated": "1578866097"
+    },
+    "legacy": {
+      "buildid": "4563288",
+      "description": "Legacy build",
+      "timeupdated": "1669026481",
+      "timebuildupdated": "1578866097"
+    }
+  },
+  "depot": {
+    "981621": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8423228296945777591",
+          "size": "65521185",
+          "download": "18721472"
+        }
+      }
+    },
+    "981622": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8598672591306310531",
+          "size": "66494075",
+          "download": "18868336"
+        }
+      }
+    },
+    "981623": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8923105078092674278",
+          "size": "66939128",
+          "download": "19036720"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4563288",
+        "timeupdated": "1578866122",
+        "timebuildupdated": "1578866097"
+      },
+      "beta": {
+        "buildid": "4563288",
+        "timeupdated": "1669026386",
+        "timebuildupdated": "1578866097"
+      },
+      "legacy": {
+        "buildid": "4563288",
+        "description": "Legacy build",
+        "timeupdated": "1669026481",
+        "timebuildupdated": "1578866097"
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Evil Cult",
+  "source": "spectre",
+  "changenumber": 39554034,
+  "updated": "2026-11-06T21:03:48.815Z",
+  "branches": {
+    "public": {
+      "buildid": "7501501",
+      "timeupdated": "1634546976",
+      "timebuildupdated": "1633698230"
+    },
+    "test": {
+      "buildid": "7501501",
+      "timeupdated": "1633698230",
+      "timebuildupdated": "1633698230"
+    }
+  },
+  "depot": {
+    "1237261": {
+      "manifests": {
+        "public": {
+          "gid": "4456205401312994329",
+          "size": "576640064",
+          "download": "569822928"
+        }
+      }
+    },
+    "1237262": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2522482774832290182",
+          "size": "192359360",
+          "download": "57770960"
+        }
+      }
+    },
+    "1237263": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1409607102213918524",
+          "size": "137677379",
+          "download": "48143600"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7501501",
+        "timeupdated": "1634546976",
+        "timebuildupdated": "1633698230"
+      },
+      "test": {
+        "buildid": "7501501",
+        "timeupdated": "1633698230",
+        "timebuildupdated": "1633698230"
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "name": "RetroArch - A5200",
+  "source": "spectre",
+  "changenumber": 40667233,
+  "updated": "2026-11-06T23:15:40.172Z",
+  "branches": {
+    "public": {
+      "buildid": "20833892",
+      "timeupdated": "1763418534",
+      "timebuildupdated": "1763416491"
+    },
+    "nightly": {
+      "buildid": "26483667",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793966307",
+      "timebuildupdated": "1793966307"
+    }
+  },
+  "depot": {
+    "2066880": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4766650079504589527",
+          "size": "319341",
+          "download": "149632"
+        }
+      },
+      "dlcappid": "2066880"
+    },
+    "2066881": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7851772004683349201",
+          "size": "294155",
+          "download": "97040"
+        }
+      },
+      "dlcappid": "2066880"
+    },
+    "2066882": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6419899643293301820",
+          "size": "571339",
+          "download": "171056"
+        }
+      },
+      "dlcappid": "2066880"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833892",
+        "timeupdated": "1763418534",
+        "timebuildupdated": "1763416491"
+      },
+      "nightly": {
+        "buildid": "26483667",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793966307",
+        "timebuildupdated": "1793966307"
+      }
+    }
+  }
+}

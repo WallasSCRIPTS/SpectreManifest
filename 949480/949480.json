@@ -1,0 +1,125 @@
+{
+  "name": "BROK the InvestiGator",
+  "source": "spectre",
+  "changenumber": 40418931,
+  "updated": "2026-11-07T21:01:54.728Z",
+  "branches": {
+    "public": {
+      "buildid": "25141257",
+      "timeupdated": "1788623982",
+      "timebuildupdated": "1788614657"
+    },
+    "1.4.8": {
+      "buildid": "19292642",
+      "description": "Last version before The Brawl Bar update. Use this in case you encounter a blocking issue.",
+      "timeupdated": "1753036037",
+      "timebuildupdated": "1753036037"
+    },
+    "32bit": {
+      "buildid": "9514517",
+      "description": "Last 32 bit compatible version for BROK (1.0.13)",
+      "timeupdated": "1663192740",
+      "timebuildupdated": "1663158954"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "949481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5348640155212895867",
+          "size": "2580746429",
+          "download": "2315094944"
+        }
+      }
+    },
+    "949482": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "150981876772704644",
+          "size": "3374148948",
+          "download": "2899415712"
+        }
+      }
+    },
+    "2156870": {
+      "manifests": {
+        "public": {
+          "gid": "7528961184936029067",
+          "size": "466887269",
+          "download": "377050160"
+        }
+      },
+      "dlcappid": "2156870"
+    },
+    "2931330": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2502492945819223129",
+          "size": "719239355",
+          "download": "581113232"
+        }
+      },
+      "dlcappid": "2931330"
+    },
+    "4309650": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7445674995128563872",
+          "size": "833534986",
+          "download": "763850128"
+        }
+      },
+      "dlcappid": "4309650"
+    },
+    "4309651": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2097406473053041656",
+          "size": "808293025",
+          "download": "737044336"
+        }
+      },
+      "dlcappid": "4309650"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25141257",
+        "timeupdated": "1788623982",
+        "timebuildupdated": "1788614657"
+      },
+      "1.4.8": {
+        "buildid": "19292642",
+        "description": "Last version before The Brawl Bar update. Use this in case you encounter a blocking issue.",
+        "timeupdated": "1753036037",
+        "timebuildupdated": "1753036037"
+      },
+      "32bit": {
+        "buildid": "9514517",
+        "description": "Last 32 bit compatible version for BROK (1.0.13)",
+        "timeupdated": "1663192740",
+        "timebuildupdated": "1663158954"
+      }
+    }
+  }
+}

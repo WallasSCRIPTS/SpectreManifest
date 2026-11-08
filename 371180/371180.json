@@ -1,0 +1,115 @@
+{
+  "name": "Super 3-D Noah's Ark",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:15.361Z",
+  "branches": {
+    "public": {
+      "buildid": "2475593",
+      "timeupdated": "1517127419",
+      "timebuildupdated": "1517126420"
+    },
+    "previous": {
+      "buildid": "671653",
+      "description": "Rollback to previous release",
+      "timeupdated": "1476643914",
+      "timebuildupdated": "1435233097"
+    },
+    "testing": {
+      "buildid": "2475593",
+      "description": "Preview builds",
+      "timeupdated": "1517126518",
+      "timebuildupdated": "1517126420"
+    }
+  },
+  "depot": {
+    "371181": {
+      "manifests": {
+        "public": {
+          "gid": "6833854830194087433",
+          "size": "17556155",
+          "download": "15594640"
+        }
+      }
+    },
+    "371182": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7951230238137346947",
+          "size": "2212760",
+          "download": "816016"
+        }
+      }
+    },
+    "371183": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6786197148144544904",
+          "size": "2138793",
+          "download": "788128"
+        }
+      }
+    },
+    "371184": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1038654733278663114",
+          "size": "4144720",
+          "download": "1494016"
+        }
+      }
+    },
+    "371185": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3570389580492291975",
+          "size": "3489872",
+          "download": "1307216"
+        }
+      }
+    },
+    "371186": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4629857802457428377",
+          "size": "3755452",
+          "download": "1426432"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2475593",
+        "timeupdated": "1517127419",
+        "timebuildupdated": "1517126420"
+      },
+      "previous": {
+        "buildid": "671653",
+        "description": "Rollback to previous release",
+        "timeupdated": "1476643914",
+        "timebuildupdated": "1435233097"
+      },
+      "testing": {
+        "buildid": "2475593",
+        "description": "Preview builds",
+        "timeupdated": "1517126518",
+        "timebuildupdated": "1517126420"
+      }
+    }
+  }
+}

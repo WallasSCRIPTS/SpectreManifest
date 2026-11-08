@@ -1,0 +1,94 @@
+{
+  "name": "Border Pioneer",
+  "source": "spectre",
+  "changenumber": 40613616,
+  "updated": "2026-11-06T23:23:17.567Z",
+  "branches": {
+    "public": {
+      "buildid": "26448113",
+      "timeupdated": "1793846075",
+      "timebuildupdated": "1793846075"
+    },
+    "macos-universal-test": {
+      "buildid": "20009659",
+      "description": "MacOS-universal-TEST",
+      "timeupdated": "1758081998",
+      "timebuildupdated": "1758081998"
+    },
+    "windows7compatibility": {
+      "buildid": "26448097",
+      "description": "WIN7旧版本",
+      "timeupdated": "1793846028",
+      "timebuildupdated": "1793846028"
+    },
+    "windows11test": {
+      "buildid": "26448117",
+      "description": "WIN11测试版",
+      "timeupdated": "1793846085",
+      "timebuildupdated": "1793846085"
+    },
+    "macos-arm64": {
+      "buildid": "20009656",
+      "description": "MacOS-arm64",
+      "timeupdated": "1758081989",
+      "timebuildupdated": "1758081989"
+    }
+  },
+  "depot": {
+    "2346411": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5040618855327293256",
+          "size": "544421212",
+          "download": "312541248"
+        }
+      }
+    },
+    "2346412": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "65480994426382073",
+          "size": "525383430",
+          "download": "307352048"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26448113",
+        "timeupdated": "1793846075",
+        "timebuildupdated": "1793846075"
+      },
+      "macos-universal-test": {
+        "buildid": "20009659",
+        "description": "MacOS-universal-TEST",
+        "timeupdated": "1758081998",
+        "timebuildupdated": "1758081998"
+      },
+      "windows7compatibility": {
+        "buildid": "26448097",
+        "description": "WIN7旧版本",
+        "timeupdated": "1793846028",
+        "timebuildupdated": "1793846028"
+      },
+      "windows11test": {
+        "buildid": "26448117",
+        "description": "WIN11测试版",
+        "timeupdated": "1793846085",
+        "timebuildupdated": "1793846085"
+      },
+      "macos-arm64": {
+        "buildid": "20009656",
+        "description": "MacOS-arm64",
+        "timeupdated": "1758081989",
+        "timebuildupdated": "1758081989"
+      }
+    }
+  }
+}

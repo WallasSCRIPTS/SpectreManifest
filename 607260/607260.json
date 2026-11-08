@@ -1,0 +1,112 @@
+{
+  "name": "McOsu",
+  "source": "spectre",
+  "changenumber": 40624566,
+  "updated": "2026-11-07T20:59:13.065Z",
+  "branches": {
+    "public": {
+      "buildid": "25274529",
+      "timeupdated": "1789241788",
+      "timebuildupdated": "1789239091"
+    },
+    "cutting-edge": {
+      "buildid": "26116919",
+      "description": "Next version, update preview",
+      "timeupdated": "1792614990",
+      "timebuildupdated": "1792614961"
+    },
+    "wasapi-test": {
+      "buildid": "26116942",
+      "description": "Windows only, ultra low latency audio",
+      "timeupdated": "1792615157",
+      "timebuildupdated": "1792615016"
+    },
+    "previous-version": {
+      "buildid": "21183214",
+      "description": "Fallback if something breaks",
+      "timeupdated": "1771591007",
+      "timebuildupdated": "1765740301"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "607261": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3372609387182835768",
+          "size": "72203357",
+          "download": "21382480"
+        }
+      }
+    },
+    "607262": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4815585761923020711",
+          "size": "26622178",
+          "download": "10886256"
+        }
+      }
+    },
+    "607263": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2762289812211844710",
+          "size": "26622178",
+          "download": "10886256"
+        }
+      }
+    },
+    "607264": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5960928338905586369",
+          "size": "22772631",
+          "download": "6964240"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25274529",
+        "timeupdated": "1789241788",
+        "timebuildupdated": "1789239091"
+      },
+      "cutting-edge": {
+        "buildid": "26116919",
+        "description": "Next version, update preview",
+        "timeupdated": "1792614990",
+        "timebuildupdated": "1792614961"
+      },
+      "wasapi-test": {
+        "buildid": "26116942",
+        "description": "Windows only, ultra low latency audio",
+        "timeupdated": "1792615157",
+        "timebuildupdated": "1792615016"
+      },
+      "previous-version": {
+        "buildid": "21183214",
+        "description": "Fallback if something breaks",
+        "timeupdated": "1771591007",
+        "timebuildupdated": "1765740301"
+      }
+    }
+  }
+}

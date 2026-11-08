@@ -1,0 +1,58 @@
+{
+  "name": "Biletide",
+  "source": "spectre",
+  "changenumber": 37672625,
+  "updated": "2026-11-04T23:25:43.420Z",
+  "branches": {
+    "public": {
+      "buildid": "24491528",
+      "timeupdated": "1785497405",
+      "timebuildupdated": "1785496295"
+    },
+    "beta": {
+      "buildid": "24491528",
+      "description": "beta testing branch",
+      "timeupdated": "1785496295",
+      "timebuildupdated": "1785496295"
+    }
+  },
+  "depot": {
+    "4819201": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4731430168595152417",
+          "size": "362911846",
+          "download": "146349568"
+        }
+      }
+    },
+    "4819202": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1433314020780976243",
+          "size": "382935513",
+          "download": "156446544"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24491528",
+        "timeupdated": "1785497405",
+        "timebuildupdated": "1785496295"
+      },
+      "beta": {
+        "buildid": "24491528",
+        "description": "beta testing branch",
+        "timeupdated": "1785496295",
+        "timebuildupdated": "1785496295"
+      }
+    }
+  }
+}

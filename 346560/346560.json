@@ -1,0 +1,82 @@
+{
+  "name": "Hero of the Kingdom II",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:57.935Z",
+  "branches": {
+    "public": {
+      "buildid": "17130387",
+      "timeupdated": "1737812451",
+      "timebuildupdated": "1737811510"
+    },
+    "legacy": {
+      "buildid": "5676770",
+      "description": "The legacy version of the game.",
+      "timeupdated": "1713445482",
+      "timebuildupdated": "1602599028"
+    }
+  },
+  "depot": {
+    "346561": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "111651766379484452",
+          "size": "488511476",
+          "download": "235117104"
+        }
+      }
+    },
+    "346562": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "609121761233237289",
+          "size": "2643344",
+          "download": "729824"
+        }
+      }
+    },
+    "346563": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4183062581507186706",
+          "size": "506786270",
+          "download": "237763376"
+        }
+      }
+    },
+    "346564": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1725803056872729916",
+          "size": "1628113",
+          "download": "500624"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17130387",
+        "timeupdated": "1737812451",
+        "timebuildupdated": "1737811510"
+      },
+      "legacy": {
+        "buildid": "5676770",
+        "description": "The legacy version of the game.",
+        "timeupdated": "1713445482",
+        "timebuildupdated": "1602599028"
+      }
+    }
+  }
+}

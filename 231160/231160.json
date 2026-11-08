@@ -1,0 +1,82 @@
+{
+  "name": "The Swapper",
+  "source": "spectre",
+  "changenumber": 39716400,
+  "updated": "2026-11-07T20:56:07.589Z",
+  "branches": {
+    "public": {
+      "buildid": "18643156",
+      "timeupdated": "1748441691",
+      "timebuildupdated": "1748441525"
+    },
+    "beta2025": {
+      "buildid": "18643156",
+      "description": "Beta testing for new builds",
+      "timeupdated": "1748441702",
+      "timebuildupdated": "1748441525"
+    },
+    "legacy": {
+      "buildid": "18640845",
+      "description": "Stability and compatibility fixes only",
+      "timeupdated": "1748431579",
+      "timebuildupdated": "1748431241"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "231161": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5334393392610826601",
+          "size": "998692690",
+          "download": "785705456"
+        }
+      }
+    },
+    "231163": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3655365630960712052",
+          "size": "979425224",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18643156",
+        "timeupdated": "1748441691",
+        "timebuildupdated": "1748441525"
+      },
+      "beta2025": {
+        "buildid": "18643156",
+        "description": "Beta testing for new builds",
+        "timeupdated": "1748441702",
+        "timebuildupdated": "1748441525"
+      },
+      "legacy": {
+        "buildid": "18640845",
+        "description": "Stability and compatibility fixes only",
+        "timeupdated": "1748431579",
+        "timebuildupdated": "1748431241"
+      }
+    }
+  }
+}

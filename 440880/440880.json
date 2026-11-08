@@ -1,0 +1,100 @@
+{
+  "name": "The Count Lucanor",
+  "source": "spectre",
+  "changenumber": 40557742,
+  "updated": "2026-11-07T20:57:52.272Z",
+  "branches": {
+    "public": {
+      "buildid": "26073226",
+      "timeupdated": "1792482734",
+      "timebuildupdated": "1792482618"
+    },
+    "legacy": {
+      "buildid": "3137179",
+      "description": "Legacy branch",
+      "timeupdated": "1551257349",
+      "timebuildupdated": "1537379431"
+    },
+    "beta": {
+      "buildid": "26073226",
+      "description": "Beta Branch",
+      "timeupdated": "1792482684",
+      "timebuildupdated": "1792482618"
+    },
+    "older": {
+      "buildid": "8196250",
+      "description": "Older version",
+      "timeupdated": "1645431424",
+      "timebuildupdated": "1644786352"
+    }
+  },
+  "depot": {
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "440881": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6917467524998193343",
+          "size": "770114845",
+          "download": "454867104"
+        }
+      }
+    },
+    "440882": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4314566622019609981",
+          "size": "719783874",
+          "download": "436507536"
+        }
+      }
+    },
+    "440883": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1895557405996672571",
+          "size": "745387407",
+          "download": "435608032"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26073226",
+        "timeupdated": "1792482734",
+        "timebuildupdated": "1792482618"
+      },
+      "legacy": {
+        "buildid": "3137179",
+        "description": "Legacy branch",
+        "timeupdated": "1551257349",
+        "timebuildupdated": "1537379431"
+      },
+      "beta": {
+        "buildid": "26073226",
+        "description": "Beta Branch",
+        "timeupdated": "1792482684",
+        "timebuildupdated": "1792482618"
+      },
+      "older": {
+        "buildid": "8196250",
+        "description": "Older version",
+        "timeupdated": "1645431424",
+        "timebuildupdated": "1644786352"
+      }
+    }
+  }
+}

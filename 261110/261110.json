@@ -1,0 +1,76 @@
+{
+  "name": "Killer is Dead",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:15.493Z",
+  "branches": {
+    "public": {
+      "buildid": "263198",
+      "timebuildupdated": "1399870217"
+    },
+    "local": {
+      "buildid": "166526",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1389264658"
+    },
+    "retail": {
+      "buildid": "242852",
+      "timebuildupdated": "1398313094"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "261111": {
+      "manifests": {
+        "public": {
+          "gid": "3905575040944217321",
+          "size": "13446307622",
+          "download": "0"
+        }
+      }
+    },
+    "261112": {
+      "manifests": {
+        "public": {
+          "gid": "7207128822459363534",
+          "size": "89202328",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "263198",
+        "timebuildupdated": "1399870217"
+      },
+      "local": {
+        "buildid": "166526",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1389264658"
+      },
+      "retail": {
+        "buildid": "242852",
+        "timebuildupdated": "1398313094"
+      }
+    }
+  }
+}

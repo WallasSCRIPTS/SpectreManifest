@@ -1,0 +1,84 @@
+{
+  "name": "Mark of the Ninja: Remastered",
+  "source": "spectre",
+  "changenumber": 40486996,
+  "updated": "2026-11-07T21:01:14.385Z",
+  "branches": {
+    "public": {
+      "buildid": "5908561",
+      "timeupdated": "1606871854",
+      "timebuildupdated": "1606871402"
+    },
+    "beta": {
+      "buildid": "3555596",
+      "timeupdated": "1550015760",
+      "timebuildupdated": "1550015285"
+    },
+    "previous_build": {
+      "buildid": "3204930",
+      "timeupdated": "1540314585",
+      "timebuildupdated": "1539292297"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "860951": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2079761656899377231",
+          "size": "8096184287",
+          "download": "7274183344"
+        }
+      }
+    },
+    "860952": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1424750439569085556",
+          "size": "8113250833",
+          "download": "7274514864"
+        }
+      }
+    },
+    "860953": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6544161266413167188",
+          "size": "8097449465",
+          "download": "7272434944"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5908561",
+        "timeupdated": "1606871854",
+        "timebuildupdated": "1606871402"
+      },
+      "beta": {
+        "buildid": "3555596",
+        "timeupdated": "1550015760",
+        "timebuildupdated": "1550015285"
+      },
+      "previous_build": {
+        "buildid": "3204930",
+        "timeupdated": "1540314585",
+        "timebuildupdated": "1539292297"
+      }
+    }
+  }
+}

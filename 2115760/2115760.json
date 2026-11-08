@@ -1,0 +1,64 @@
+{
+  "name": "Oppidum",
+  "source": "spectre",
+  "changenumber": 40201432,
+  "updated": "2026-11-06T23:17:33.808Z",
+  "branches": {
+    "public": {
+      "buildid": "25441628",
+      "timeupdated": "1790010278",
+      "timebuildupdated": "1790010278"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2115761": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5846762952691689220",
+          "size": "5434426598",
+          "download": "2483705664"
+        }
+      }
+    },
+    "2115762": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4851329574317912075",
+          "size": "5559881807",
+          "download": "2500578768"
+        }
+      }
+    },
+    "2115763": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1353285950459171280",
+          "size": "5501847578",
+          "download": "2490048304"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25441628",
+        "timeupdated": "1790010278",
+        "timebuildupdated": "1790010278"
+      }
+    }
+  }
+}

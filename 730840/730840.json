@@ -1,0 +1,58 @@
+{
+  "name": "Burger Shop",
+  "source": "spectre",
+  "changenumber": 39928114,
+  "updated": "2026-11-07T21:00:13.625Z",
+  "branches": {
+    "public": {
+      "buildid": "20580129",
+      "timeupdated": "1775851303",
+      "timebuildupdated": "1761684548"
+    },
+    "beta": {
+      "buildid": "20580129",
+      "description": "Beta Test",
+      "timeupdated": "1761686230",
+      "timebuildupdated": "1761684548"
+    }
+  },
+  "depot": {
+    "730841": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "860234208479285248",
+          "size": "33101411",
+          "download": "27678064"
+        }
+      }
+    },
+    "730842": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "756984297671454140",
+          "size": "40180993",
+          "download": "30093504"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20580129",
+        "timeupdated": "1775851303",
+        "timebuildupdated": "1761684548"
+      },
+      "beta": {
+        "buildid": "20580129",
+        "description": "Beta Test",
+        "timeupdated": "1761686230",
+        "timebuildupdated": "1761684548"
+      }
+    }
+  }
+}

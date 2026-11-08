@@ -1,0 +1,94 @@
+{
+  "name": "Silo 2",
+  "source": "spectre",
+  "changenumber": 34705244,
+  "updated": "2026-11-07T20:55:58.831Z",
+  "branches": {
+    "public": {
+      "buildid": "3355820",
+      "timeupdated": "1543606409",
+      "timebuildupdated": "1543606409"
+    },
+    "public_beta": {
+      "buildid": "2840108",
+      "description": "beta test future versions of silo",
+      "timeupdated": "1528326248",
+      "timebuildupdated": "1528325180"
+    },
+    "silo_2.3": {
+      "buildid": "2059543",
+      "description": "legacy version of Silo",
+      "timeupdated": "1503446358",
+      "timebuildupdated": "1503440662"
+    }
+  },
+  "depot": {
+    "100401": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1876273129597395786",
+          "size": "54917535",
+          "download": "30681424"
+        }
+      }
+    },
+    "100402": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6284522975212261876",
+          "size": "43230808",
+          "download": "15489488"
+        }
+      }
+    },
+    "100403": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7208879428585128010",
+          "size": "55812932",
+          "download": "25932944"
+        }
+      }
+    },
+    "100404": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8365123159972153255",
+          "size": "54917535",
+          "download": "30680672"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3355820",
+        "timeupdated": "1543606409",
+        "timebuildupdated": "1543606409"
+      },
+      "public_beta": {
+        "buildid": "2840108",
+        "description": "beta test future versions of silo",
+        "timeupdated": "1528326248",
+        "timebuildupdated": "1528325180"
+      },
+      "silo_2.3": {
+        "buildid": "2059543",
+        "description": "legacy version of Silo",
+        "timeupdated": "1503446358",
+        "timebuildupdated": "1503440662"
+      }
+    }
+  }
+}

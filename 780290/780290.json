@@ -1,0 +1,87 @@
+{
+  "name": "Gloomhaven",
+  "source": "spectre",
+  "changenumber": 40680422,
+  "updated": "2026-11-07T21:00:38.763Z",
+  "branches": {
+    "public": {
+      "buildid": "20286313",
+      "timeupdated": "1760083979",
+      "timebuildupdated": "1759840784"
+    },
+    "beta_march2024": {
+      "buildid": "13715519",
+      "description": "beta version for community testing",
+      "timeupdated": "1710927169",
+      "timebuildupdated": "1710254456"
+    },
+    "v28009": {
+      "buildid": "9540540",
+      "description": "v28009 - Pre-crossplay branch",
+      "timeupdated": "1695127764",
+      "timebuildupdated": "1663513805"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "780291": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7912725515517904339",
+          "size": "17802703007",
+          "download": "14369649472"
+        }
+      }
+    },
+    "780292": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "780293": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5831945923162723995",
+          "size": "17820852017",
+          "download": "14355913952"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20286313",
+        "timeupdated": "1760083979",
+        "timebuildupdated": "1759840784"
+      },
+      "beta_march2024": {
+        "buildid": "13715519",
+        "description": "beta version for community testing",
+        "timeupdated": "1710927169",
+        "timebuildupdated": "1710254456"
+      },
+      "v28009": {
+        "buildid": "9540540",
+        "description": "v28009 - Pre-crossplay branch",
+        "timeupdated": "1695127764",
+        "timebuildupdated": "1663513805"
+      }
+    }
+  }
+}

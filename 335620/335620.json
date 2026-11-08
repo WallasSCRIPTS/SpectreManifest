@@ -1,0 +1,136 @@
+{
+  "name": "Star Traders: Frontiers",
+  "source": "spectre",
+  "changenumber": 40528103,
+  "updated": "2026-11-07T20:56:47.660Z",
+  "branches": {
+    "public": {
+      "buildid": "25108019",
+      "timeupdated": "1788459911",
+      "timebuildupdated": "1788459911"
+    },
+    "macos_legacy": {
+      "buildid": "16495484",
+      "description": "A branch for older versions of Mac OS that cannot run the current version of the game locked at version v3.3.59",
+      "timeupdated": "1732248920",
+      "timebuildupdated": "1732248920"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "335621": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "324837853968455534",
+          "size": "347258350",
+          "download": "318212096"
+        }
+      }
+    },
+    "335622": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8165106798402738322",
+          "size": "362199776",
+          "download": "290666928"
+        }
+      }
+    },
+    "335623": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2711866709305214281",
+          "size": "446177728",
+          "download": "344635584"
+        }
+      }
+    },
+    "335624": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4030404713201854141",
+          "size": "472992931",
+          "download": "345860592"
+        }
+      }
+    },
+    "335625": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4071144641127268429",
+          "size": "347266542",
+          "download": "316257632"
+        }
+      }
+    },
+    "335626": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "958763647545027271",
+          "size": "362103615",
+          "download": "288529648"
+        }
+      }
+    },
+    "335627": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2601970397838370672",
+          "size": "446465952",
+          "download": "342784272"
+        }
+      }
+    },
+    "335628": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4931163619861747590",
+          "size": "473400739",
+          "download": "344051712"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25108019",
+        "timeupdated": "1788459911",
+        "timebuildupdated": "1788459911"
+      },
+      "macos_legacy": {
+        "buildid": "16495484",
+        "description": "A branch for older versions of Mac OS that cannot run the current version of the game locked at version v3.3.59",
+        "timeupdated": "1732248920",
+        "timebuildupdated": "1732248920"
+      }
+    }
+  }
+}

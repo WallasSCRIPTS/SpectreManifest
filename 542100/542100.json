@@ -1,0 +1,52 @@
+{
+  "name": "Train Crisis",
+  "source": "spectre",
+  "changenumber": 39366304,
+  "updated": "2026-11-07T20:58:37.582Z",
+  "branches": {
+    "public": {
+      "buildid": "3641275",
+      "timeupdated": "1552476535",
+      "timebuildupdated": "1552475646"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "542101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7530184252083717809",
+          "size": "603124505",
+          "download": "157964160"
+        }
+      }
+    },
+    "542102": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7494151367750170505",
+          "size": "617652624",
+          "download": "160694128"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3641275",
+        "timeupdated": "1552476535",
+        "timebuildupdated": "1552475646"
+      }
+    }
+  }
+}

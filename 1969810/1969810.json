@@ -1,0 +1,58 @@
+{
+  "name": "Enter the Chronosphere",
+  "source": "spectre",
+  "changenumber": 40660258,
+  "updated": "2026-11-06T23:15:24.852Z",
+  "branches": {
+    "public": {
+      "buildid": "26263032",
+      "timeupdated": "1793166670",
+      "timebuildupdated": "1793166308"
+    },
+    "beta": {
+      "buildid": "26423221",
+      "description": "Public preview build",
+      "timeupdated": "1793834055",
+      "timebuildupdated": "1793765947"
+    }
+  },
+  "depot": {
+    "1969811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2119009451700614086",
+          "size": "2248365951",
+          "download": "576227728"
+        }
+      }
+    },
+    "1969812": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5708349988694431909",
+          "size": "2519272384",
+          "download": "640148592"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26263032",
+        "timeupdated": "1793166670",
+        "timebuildupdated": "1793166308"
+      },
+      "beta": {
+        "buildid": "26423221",
+        "description": "Public preview build",
+        "timeupdated": "1793834055",
+        "timebuildupdated": "1793765947"
+      }
+    }
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "name": "Don't Starve",
+  "source": "spectre",
+  "changenumber": 38906183,
+  "updated": "2026-11-07T20:56:04.940Z",
+  "branches": {
+    "public": {
+      "buildid": "12527201",
+      "timeupdated": "1698337335",
+      "timebuildupdated": "1698201306"
+    },
+    "local": {
+      "buildid": "774513",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1442269159"
+    },
+    "pre2023update": {
+      "buildid": "5500621",
+      "description": "Play an older version of the game",
+      "timeupdated": "1682617070",
+      "timebuildupdated": "1599180152"
+    }
+  },
+  "depot": {
+    "219741": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5671901464708035024",
+          "size": "1048089865",
+          "download": "649517120"
+        }
+      }
+    },
+    "219742": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3655952163592183953",
+          "size": "921494580",
+          "download": "534218208"
+        }
+      }
+    },
+    "219743": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "38669974034156206",
+          "size": "842893710",
+          "download": "499815536"
+        }
+      }
+    },
+    "219744": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5169458096710886865",
+          "size": "1118276321",
+          "download": "832541264"
+        }
+      },
+      "dlcappid": "712640"
+    },
+    "219745": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7238648121815552577",
+          "size": "1118253942",
+          "download": "832540720"
+        }
+      },
+      "dlcappid": "712640"
+    },
+    "219746": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5286211488836978777",
+          "size": "1118253942",
+          "download": "832540720"
+        }
+      },
+      "dlcappid": "712640"
+    },
+    "219750": {
+      "manifests": {
+        "public": {
+          "gid": "6558818855031758829",
+          "size": "576879467",
+          "download": "579166448"
+        }
+      }
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "282470": {
+      "dlcappid": "282470"
+    },
+    "282471": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4580706141887861536",
+          "size": "604653237",
+          "download": "434138608"
+        }
+      }
+    },
+    "282472": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5577712610765689412",
+          "size": "604639947",
+          "download": "434134720"
+        }
+      }
+    },
+    "282473": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3751400669884311226",
+          "size": "604639947",
+          "download": "434134720"
+        }
+      }
+    },
+    "393010": {
+      "dlcappid": "393010"
+    },
+    "393011": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6965739847178984679",
+          "size": "730401894",
+          "download": "509601568"
+        }
+      },
+      "dlcappid": "393010"
+    },
+    "393012": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "806521661209386161",
+          "size": "730385108",
+          "download": "509600752"
+        }
+      },
+      "dlcappid": "393010"
+    },
+    "393013": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8626671448895671703",
+          "size": "730385108",
+          "download": "509600752"
+        }
+      },
+      "dlcappid": "393010"
+    },
+    "712640": {
+      "dlcappid": "712640"
+    },
+    "branches": {
+      "public": {
+        "buildid": "12527201",
+        "timeupdated": "1698337335",
+        "timebuildupdated": "1698201306"
+      },
+      "local": {
+        "buildid": "774513",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1442269159"
+      },
+      "pre2023update": {
+        "buildid": "5500621",
+        "description": "Play an older version of the game",
+        "timeupdated": "1682617070",
+        "timebuildupdated": "1599180152"
+      }
+    }
+  }
+}

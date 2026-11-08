@@ -1,0 +1,60 @@
+{
+  "name": "Broombot Battlegrounds",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:21:22.570Z",
+  "branches": {
+    "public": {
+      "buildid": "11579191",
+      "timeupdated": "1687962581",
+      "timebuildupdated": "1687962472"
+    },
+    "local": {
+      "buildid": "10351651",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1674071345",
+      "timebuildupdated": "1674071345"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2262621": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1355282968807377308",
+          "size": "787302486",
+          "download": "676504992"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11579191",
+        "timeupdated": "1687962581",
+        "timebuildupdated": "1687962472"
+      },
+      "local": {
+        "buildid": "10351651",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1674071345",
+        "timebuildupdated": "1674071345"
+      }
+    }
+  }
+}

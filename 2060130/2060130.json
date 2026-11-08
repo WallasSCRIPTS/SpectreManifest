@@ -1,0 +1,64 @@
+{
+  "name": "Return to Monkey Island",
+  "source": "spectre",
+  "changenumber": 37454840,
+  "updated": "2026-11-06T23:15:39.372Z",
+  "branches": {
+    "public": {
+      "buildid": "10179092",
+      "timeupdated": "1675704730",
+      "timebuildupdated": "1671477961"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2060131": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6178753825160139259",
+          "size": "4604864840",
+          "download": "4528339696"
+        }
+      }
+    },
+    "2060132": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5102447518687683412",
+          "size": "4592088820",
+          "download": "4524586128"
+        }
+      }
+    },
+    "2060133": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2259332678987000234",
+          "size": "4583602440",
+          "download": "4521326832"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10179092",
+        "timeupdated": "1675704730",
+        "timebuildupdated": "1671477961"
+      }
+    }
+  }
+}

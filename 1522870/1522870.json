@@ -1,0 +1,67 @@
+{
+  "name": "Supraland Six Inches Under",
+  "source": "spectre",
+  "changenumber": 37629861,
+  "updated": "2026-11-06T21:05:53.447Z",
+  "branches": {
+    "public": {
+      "buildid": "14278447",
+      "timeupdated": "1715087464",
+      "timebuildupdated": "1715002564"
+    },
+    "experimental": {
+      "buildid": "17080850",
+      "description": "Untested version includes the latest changes.",
+      "timeupdated": "1737481695",
+      "timebuildupdated": "1737481695"
+    },
+    "testing": {
+      "buildid": "17080850",
+      "description": "Public testing for next version to be released.",
+      "timeupdated": "1737489399",
+      "timebuildupdated": "1737481695"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1522871": {
+      "manifests": {
+        "public": {
+          "gid": "4300392132672601936",
+          "size": "4485214060",
+          "download": "4346968784"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14278447",
+        "timeupdated": "1715087464",
+        "timebuildupdated": "1715002564"
+      },
+      "experimental": {
+        "buildid": "17080850",
+        "description": "Untested version includes the latest changes.",
+        "timeupdated": "1737481695",
+        "timebuildupdated": "1737481695"
+      },
+      "testing": {
+        "buildid": "17080850",
+        "description": "Public testing for next version to be released.",
+        "timeupdated": "1737489399",
+        "timebuildupdated": "1737481695"
+      }
+    }
+  }
+}

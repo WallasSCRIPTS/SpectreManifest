@@ -1,0 +1,62 @@
+{
+  "name": "Penumbra: Overture",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:48.391Z",
+  "branches": {
+    "public": {
+      "buildid": "459398",
+      "timebuildupdated": "1417456574"
+    }
+  },
+  "depot": {
+    "22181": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2633694780435938990",
+          "size": "827681045",
+          "download": "0"
+        }
+      }
+    },
+    "22182": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6506300935710744705",
+          "size": "851108816",
+          "download": "162586584682"
+        }
+      }
+    },
+    "22183": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5494634795949117498",
+          "size": "829959099",
+          "download": "163226515442"
+        }
+      }
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "459398",
+        "timebuildupdated": "1417456574"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Squiggle Football",
+  "source": "spectre",
+  "changenumber": 37810388,
+  "updated": "2026-11-06T21:06:01.510Z",
+  "branches": {
+    "public": {
+      "buildid": "24564156",
+      "timeupdated": "1785995147",
+      "timebuildupdated": "1785897649"
+    },
+    "testing": {
+      "buildid": "24564156",
+      "description": "For pre-release testing. Warning: Things may break!",
+      "timeupdated": "1785897649",
+      "timebuildupdated": "1785897649"
+    }
+  },
+  "depot": {
+    "1543961": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "331887569980516145",
+          "size": "913433307",
+          "download": "614062432"
+        }
+      }
+    },
+    "1543962": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2167334787099443020",
+          "size": "889547416",
+          "download": "594324752"
+        }
+      }
+    },
+    "1543963": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1899490243965954100",
+          "size": "1372434521",
+          "download": "580665104"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24564156",
+        "timeupdated": "1785995147",
+        "timebuildupdated": "1785897649"
+      },
+      "testing": {
+        "buildid": "24564156",
+        "description": "For pre-release testing. Warning: Things may break!",
+        "timeupdated": "1785897649",
+        "timebuildupdated": "1785897649"
+      }
+    }
+  }
+}

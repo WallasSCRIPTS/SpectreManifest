@@ -1,0 +1,131 @@
+{
+  "name": "Drawful 2",
+  "source": "spectre",
+  "changenumber": 40689268,
+  "updated": "2026-11-07T20:57:52.692Z",
+  "branches": {
+    "public": {
+      "buildid": "15292444",
+      "timeupdated": "1723045482",
+      "timebuildupdated": "1723045482"
+    },
+    "linux-beta": {
+      "buildid": "8810796",
+      "description": "Beta branch for Linux builds",
+      "timeupdated": "1653519634",
+      "timebuildupdated": "1653519634"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "442071": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1694979882752888921",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "442072": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8785530157319961695",
+          "size": "248585110",
+          "download": "169755424"
+        }
+      }
+    },
+    "442073": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1429822399686098255",
+          "size": "46849233",
+          "download": "13660112"
+        }
+      }
+    },
+    "442074": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4930664823652783270",
+          "size": "18481632",
+          "download": "10398288"
+        }
+      }
+    },
+    "442075": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1327771151893592278",
+          "size": "23066144",
+          "download": "12154016"
+        }
+      }
+    },
+    "442076": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1678559510194203104",
+          "size": "224827355",
+          "download": "164276352"
+        }
+      }
+    },
+    "2828508": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5145691608909662874",
+          "size": "2021",
+          "download": "848"
+        }
+      },
+      "depotfromapp": "2828500"
+    },
+    "branches": {
+      "public": {
+        "buildid": "15292444",
+        "timeupdated": "1723045482",
+        "timebuildupdated": "1723045482"
+      },
+      "linux-beta": {
+        "buildid": "8810796",
+        "description": "Beta branch for Linux builds",
+        "timeupdated": "1653519634",
+        "timebuildupdated": "1653519634"
+      }
+    }
+  }
+}

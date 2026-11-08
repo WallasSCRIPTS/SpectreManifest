@@ -1,0 +1,68 @@
+{
+  "name": "Capsule Force",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:10.448Z",
+  "branches": {
+    "public": {
+      "buildid": "703356",
+      "timebuildupdated": "1437525483"
+    }
+  },
+  "depot": {
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "364061": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6752849134513169566",
+          "size": "83389054",
+          "download": "49767216"
+        }
+      }
+    },
+    "364062": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3591786801652979496",
+          "size": "124720224",
+          "download": "61051296"
+        }
+      }
+    },
+    "364063": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6744181852657414595",
+          "size": "106435370",
+          "download": "55867584"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "703356",
+        "timebuildupdated": "1437525483"
+      }
+    }
+  }
+}

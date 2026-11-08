@@ -1,0 +1,70 @@
+{
+  "name": "Unknown Castle",
+  "source": "spectre",
+  "changenumber": 38605537,
+  "updated": "2026-11-07T21:03:09.936Z",
+  "branches": {
+    "public": {
+      "buildid": "25101201",
+      "timeupdated": "1788529636",
+      "timebuildupdated": "1788437154"
+    },
+    "beta-test": {
+      "buildid": "25101201",
+      "description": "Testing branch",
+      "timeupdated": "1788437154",
+      "timebuildupdated": "1788437154"
+    }
+  },
+  "depot": {
+    "1090651": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3563133824566212806",
+          "size": "25237000",
+          "download": "17470480"
+        }
+      }
+    },
+    "1090652": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7357774285658467760",
+          "size": "25237000",
+          "download": "17470480"
+        }
+      }
+    },
+    "1090653": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7621924129964320436",
+          "size": "27689440",
+          "download": "17601888"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25101201",
+        "timeupdated": "1788529636",
+        "timebuildupdated": "1788437154"
+      },
+      "beta-test": {
+        "buildid": "25101201",
+        "description": "Testing branch",
+        "timeupdated": "1788437154",
+        "timebuildupdated": "1788437154"
+      }
+    }
+  }
+}

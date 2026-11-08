@@ -1,0 +1,95 @@
+{
+  "name": "Cultist Simulator: The Dancer",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:19.474Z",
+  "branches": {
+    "public": {
+      "buildid": "9105044",
+      "timeupdated": "1657619348",
+      "timebuildupdated": "1657619251"
+    },
+    "cultist_classic_original_ui": {
+      "buildid": "6212730",
+      "description": "2021 version of the game. BEWARE: UNSUPPORTED",
+      "timeupdated": "1663766913",
+      "timebuildupdated": "1612876456"
+    },
+    "gateofhorn": {
+      "buildid": "9105044",
+      "timeupdated": "1657619339",
+      "timebuildupdated": "1657619251"
+    },
+    "ru_qa_revisit": {
+      "buildid": "6212730",
+      "description": "Preview of Russian loc files with partner fixes",
+      "timeupdated": "1612876492",
+      "timebuildupdated": "1612876456"
+    }
+  },
+  "depot": {
+    "871650": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8794054858940757083",
+          "size": "287077",
+          "download": "45568"
+        }
+      },
+      "dlcappid": "871650"
+    },
+    "871653": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8107024149212145256",
+          "size": "287077",
+          "download": "45568"
+        }
+      },
+      "dlcappid": "871650"
+    },
+    "871654": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2446249668517325547",
+          "size": "287077",
+          "download": "45568"
+        }
+      },
+      "dlcappid": "871650"
+    },
+    "branches": {
+      "public": {
+        "buildid": "9105044",
+        "timeupdated": "1657619348",
+        "timebuildupdated": "1657619251"
+      },
+      "cultist_classic_original_ui": {
+        "buildid": "6212730",
+        "description": "2021 version of the game. BEWARE: UNSUPPORTED",
+        "timeupdated": "1663766913",
+        "timebuildupdated": "1612876456"
+      },
+      "gateofhorn": {
+        "buildid": "9105044",
+        "timeupdated": "1657619339",
+        "timebuildupdated": "1657619251"
+      },
+      "ru_qa_revisit": {
+        "buildid": "6212730",
+        "description": "Preview of Russian loc files with partner fixes",
+        "timeupdated": "1612876492",
+        "timebuildupdated": "1612876456"
+      }
+    }
+  }
+}

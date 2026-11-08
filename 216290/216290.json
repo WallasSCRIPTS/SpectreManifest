@@ -1,0 +1,76 @@
+{
+  "name": "Gateways",
+  "source": "spectre",
+  "changenumber": 39353685,
+  "updated": "2026-11-07T20:56:04.328Z",
+  "branches": {
+    "public": {
+      "buildid": "8643531",
+      "timeupdated": "1651165533",
+      "timebuildupdated": "1651165533"
+    },
+    "linux32": {
+      "buildid": "4196692",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609452172",
+      "timebuildupdated": "1568480355"
+    }
+  },
+  "depot": {
+    "216291": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3428613182960051149",
+          "size": "124259900",
+          "download": "0"
+        }
+      }
+    },
+    "216292": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8287828397886031691",
+          "size": "86233502",
+          "download": "50187200"
+        }
+      }
+    },
+    "216293": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1404893551277320232",
+          "size": "72280057",
+          "download": "46062720"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "8643531",
+        "timeupdated": "1651165533",
+        "timebuildupdated": "1651165533"
+      },
+      "linux32": {
+        "buildid": "4196692",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609452172",
+        "timebuildupdated": "1568480355"
+      }
+    }
+  }
+}

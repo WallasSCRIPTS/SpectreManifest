@@ -1,0 +1,68 @@
+{
+  "name": "Kill The Bad Guy Demo",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:33.416Z",
+  "branches": {
+    "public": {
+      "buildid": "817023",
+      "timebuildupdated": "1444930229"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "306501": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7757818745537901892",
+          "size": "859881408",
+          "download": "197987040"
+        }
+      }
+    },
+    "306502": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3012093882284830224",
+          "size": "824119139",
+          "download": "175456224"
+        }
+      }
+    },
+    "306503": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2625752871206567039",
+          "size": "817217538",
+          "download": "179642272"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "817023",
+        "timebuildupdated": "1444930229"
+      }
+    }
+  }
+}

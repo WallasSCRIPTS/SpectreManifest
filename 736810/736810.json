@@ -1,0 +1,91 @@
+{
+  "name": "The Raven Remastered",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:16.877Z",
+  "branches": {
+    "public": {
+      "buildid": "2685923",
+      "timeupdated": "1523615185",
+      "timebuildupdated": "1523615185"
+    },
+    "local": {
+      "buildid": "2637023",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1522155045",
+      "timebuildupdated": "1522155045"
+    }
+  },
+  "depot": {
+    "736811": {
+      "manifests": {
+        "public": {
+          "gid": "7060095460624123947",
+          "size": "9730874649",
+          "download": "8991448752"
+        }
+      }
+    },
+    "736812": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "952221680153655759",
+          "size": "269222122",
+          "download": "107470144"
+        }
+      }
+    },
+    "736813": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2010276028106132025",
+          "size": "280813864",
+          "download": "109112112"
+        }
+      }
+    },
+    "736814": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5971073860585149376",
+          "size": "278174395",
+          "download": "109138800"
+        }
+      }
+    },
+    "822120": {
+      "manifests": {
+        "public": {
+          "gid": "4557840755848236862",
+          "size": "464730479",
+          "download": "410242976"
+        }
+      },
+      "dlcappid": "822120"
+    },
+    "branches": {
+      "public": {
+        "buildid": "2685923",
+        "timeupdated": "1523615185",
+        "timebuildupdated": "1523615185"
+      },
+      "local": {
+        "buildid": "2637023",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1522155045",
+        "timebuildupdated": "1522155045"
+      }
+    }
+  }
+}

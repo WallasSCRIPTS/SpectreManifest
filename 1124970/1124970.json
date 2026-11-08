@@ -1,0 +1,68 @@
+{
+  "name": "Mazgeon",
+  "source": "spectre",
+  "changenumber": 35946306,
+  "updated": "2026-11-07T21:03:32.959Z",
+  "branches": {
+    "public": {
+      "buildid": "21083312",
+      "timeupdated": "1765041535",
+      "timebuildupdated": "1765041535"
+    },
+    "beta": {
+      "buildid": "20312545",
+      "timeupdated": "1764960798",
+      "timebuildupdated": "1759972434"
+    }
+  },
+  "depot": {
+    "1124971": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "163046067013598439",
+          "size": "698293661",
+          "download": "514621248"
+        }
+      }
+    },
+    "1124972": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3606755684258350809",
+          "size": "233685351",
+          "download": "141435088"
+        }
+      }
+    },
+    "1124973": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7505843512429288329",
+          "size": "353233188",
+          "download": "237674320"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21083312",
+        "timeupdated": "1765041535",
+        "timebuildupdated": "1765041535"
+      },
+      "beta": {
+        "buildid": "20312545",
+        "timeupdated": "1764960798",
+        "timebuildupdated": "1759972434"
+      }
+    }
+  }
+}

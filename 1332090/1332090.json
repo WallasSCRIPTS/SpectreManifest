@@ -1,0 +1,65 @@
+{
+  "name": "Void Tyrant",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:28.866Z",
+  "branches": {
+    "public": {
+      "buildid": "7307714",
+      "timeupdated": "1630858298",
+      "timebuildupdated": "1630857926"
+    },
+    "local": {
+      "buildid": "6346525",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1615201325",
+      "timebuildupdated": "1615201325"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1332091": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8463875929783701069",
+          "size": "1611646648",
+          "download": "80601808"
+        }
+      }
+    },
+    "1332092": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7307714",
+        "timeupdated": "1630858298",
+        "timebuildupdated": "1630857926"
+      },
+      "local": {
+        "buildid": "6346525",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1615201325",
+        "timebuildupdated": "1615201325"
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Intralism",
+  "source": "spectre",
+  "changenumber": 37435436,
+  "updated": "2026-11-07T20:58:25.625Z",
+  "branches": {
+    "public": {
+      "buildid": "5302431",
+      "timeupdated": "1595012824",
+      "timebuildupdated": "1595012615"
+    },
+    "beta": {
+      "buildid": "5462591",
+      "description": "Public beta",
+      "timeupdated": "1598459682",
+      "timebuildupdated": "1598459682"
+    }
+  },
+  "depot": {
+    "513511": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3477660206879666675",
+          "size": "476541414",
+          "download": "149283168"
+        }
+      }
+    },
+    "513512": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2332161120118295674",
+          "size": "469032979",
+          "download": "149669568"
+        }
+      }
+    },
+    "513513": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7988075611806167473",
+          "size": "502601316",
+          "download": "161138784"
+        }
+      }
+    },
+    "678690": {
+      "dlcappid": "678690"
+    },
+    "branches": {
+      "public": {
+        "buildid": "5302431",
+        "timeupdated": "1595012824",
+        "timebuildupdated": "1595012615"
+      },
+      "beta": {
+        "buildid": "5462591",
+        "description": "Public beta",
+        "timeupdated": "1598459682",
+        "timebuildupdated": "1598459682"
+      }
+    }
+  }
+}

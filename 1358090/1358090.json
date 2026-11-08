@@ -1,0 +1,70 @@
+{
+  "name": "Open Hexagon",
+  "source": "spectre",
+  "changenumber": 40007050,
+  "updated": "2026-11-06T21:04:39.174Z",
+  "branches": {
+    "public": {
+      "buildid": "10950581",
+      "timeupdated": "1680824489",
+      "timebuildupdated": "1680819568"
+    },
+    "beta": {
+      "buildid": "10950581",
+      "description": "Public beta branch",
+      "timeupdated": "1680819568",
+      "timebuildupdated": "1680819568"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1358091": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4396570746105262556",
+          "size": "75785680",
+          "download": "70132864"
+        }
+      }
+    },
+    "1358092": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8528002437381504963",
+          "size": "81351920",
+          "download": "67110768"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10950581",
+        "timeupdated": "1680824489",
+        "timebuildupdated": "1680819568"
+      },
+      "beta": {
+        "buildid": "10950581",
+        "description": "Public beta branch",
+        "timeupdated": "1680819568",
+        "timebuildupdated": "1680819568"
+      }
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Delver",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:11.913Z",
+  "branches": {
+    "public": {
+      "buildid": "7583356",
+      "timeupdated": "1634927503",
+      "timebuildupdated": "1634923450"
+    },
+    "alpha": {
+      "buildid": "4862291",
+      "description": "Alpha Release",
+      "timeupdated": "1586119533",
+      "timebuildupdated": "1586119532"
+    },
+    "next": {
+      "buildid": "7583356",
+      "description": "Test branch",
+      "timeupdated": "1634923530",
+      "timebuildupdated": "1634923450"
+    },
+    "v1.04": {
+      "buildid": "5849924",
+      "description": "v1.04 Release",
+      "timeupdated": "1605736314",
+      "timebuildupdated": "1605736125"
+    }
+  },
+  "depot": {
+    "249631": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6680730644186394716",
+          "size": "236888200",
+          "download": "108179472"
+        }
+      }
+    },
+    "249632": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4223610947791596591",
+          "size": "489405987",
+          "download": "233791472"
+        }
+      }
+    },
+    "249633": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5590742085084855222",
+          "size": "248107465",
+          "download": "109967648"
+        }
+      }
+    },
+    "249634": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3163639334474236520",
+          "size": "231355392",
+          "download": "106992048"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7583356",
+        "timeupdated": "1634927503",
+        "timebuildupdated": "1634923450"
+      },
+      "alpha": {
+        "buildid": "4862291",
+        "description": "Alpha Release",
+        "timeupdated": "1586119533",
+        "timebuildupdated": "1586119532"
+      },
+      "next": {
+        "buildid": "7583356",
+        "description": "Test branch",
+        "timeupdated": "1634923530",
+        "timebuildupdated": "1634923450"
+      },
+      "v1.04": {
+        "buildid": "5849924",
+        "description": "v1.04 Release",
+        "timeupdated": "1605736314",
+        "timebuildupdated": "1605736125"
+      }
+    }
+  }
+}

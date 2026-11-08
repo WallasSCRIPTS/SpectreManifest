@@ -1,0 +1,70 @@
+{
+  "name": "Ever Seen A Cat? 2",
+  "source": "spectre",
+  "changenumber": 38485185,
+  "updated": "2026-11-06T23:15:25.196Z",
+  "branches": {
+    "public": {
+      "buildid": "9780001",
+      "timeupdated": "1685361491",
+      "timebuildupdated": "1666514553"
+    },
+    "2.1.3": {
+      "buildid": "9541586",
+      "description": "Older release.",
+      "timeupdated": "1685361475",
+      "timebuildupdated": "1663537159"
+    },
+    "freeze-fix": {
+      "buildid": "9568740",
+      "description": "Custom build that fixed game freezing at startup. New versions should have these changes.\t",
+      "timeupdated": "1666514595",
+      "timebuildupdated": "1663840348"
+    }
+  },
+  "depot": {
+    "1972711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8723543415669671965",
+          "size": "75875736",
+          "download": "69152400"
+        }
+      }
+    },
+    "1972712": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8709365753623432966",
+          "size": "77390296",
+          "download": "69900752"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9780001",
+        "timeupdated": "1685361491",
+        "timebuildupdated": "1666514553"
+      },
+      "2.1.3": {
+        "buildid": "9541586",
+        "description": "Older release.",
+        "timeupdated": "1685361475",
+        "timebuildupdated": "1663537159"
+      },
+      "freeze-fix": {
+        "buildid": "9568740",
+        "description": "Custom build that fixed game freezing at startup. New versions should have these changes.\t",
+        "timeupdated": "1666514595",
+        "timebuildupdated": "1663840348"
+      }
+    }
+  }
+}

@@ -1,0 +1,519 @@
+{
+  "name": "Farming Simulator 22",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:03:53.267Z",
+  "branches": {
+    "public": {
+      "buildid": "14439757",
+      "timeupdated": "1716882797",
+      "timebuildupdated": "1716283898"
+    },
+    "release1.10.1.0": {
+      "buildid": "11356716",
+      "description": "Version 1.10.1.0",
+      "timeupdated": "1686050908",
+      "timebuildupdated": "1685512385"
+    },
+    "release1.11.0.0": {
+      "buildid": "11488029",
+      "description": "Version 1.11.0.0",
+      "timeupdated": "1690187927",
+      "timebuildupdated": "1686917559"
+    },
+    "release1.12.0.0": {
+      "buildid": "12659574",
+      "description": "Version 1.12.0.0",
+      "timeupdated": "1699526170",
+      "timebuildupdated": "1699526170"
+    },
+    "release1.13.1.0": {
+      "buildid": "12672937",
+      "description": "Version 1.13.1.0",
+      "timeupdated": "1699632567",
+      "timebuildupdated": "1699632567"
+    },
+    "release1.2.0.2": {
+      "buildid": "7921104",
+      "description": "Version 1.2.0.2",
+      "timeupdated": "1645692016",
+      "timebuildupdated": "1640094694"
+    },
+    "release1.3.1.0": {
+      "buildid": "8346614",
+      "description": "Version 1.3.1.0",
+      "timeupdated": "1649147021",
+      "timebuildupdated": "1646909697"
+    },
+    "release1.4.1.0": {
+      "buildid": "8595864",
+      "description": "Version 1.4.1.0\t",
+      "timeupdated": "1651481627",
+      "timebuildupdated": "1650529638"
+    },
+    "release1.5.0.0": {
+      "buildid": "8761252",
+      "description": "Version 1.5.0.0",
+      "timeupdated": "1653390560",
+      "timebuildupdated": "1652864338"
+    },
+    "release1.6.0.0": {
+      "buildid": "9000052",
+      "description": "Version 1.6.0.0",
+      "timeupdated": "1656331012",
+      "timebuildupdated": "1656062084"
+    },
+    "release1.7.1.0": {
+      "buildid": "9458760",
+      "description": "Version 1.7.1.0",
+      "timeupdated": "1662453322",
+      "timebuildupdated": "1662452084"
+    },
+    "release1.8.1.0": {
+      "buildid": "9801735",
+      "description": "Version 1.8.1.0",
+      "timeupdated": "1666773699",
+      "timebuildupdated": "1666769719"
+    },
+    "release1.8.2.0": {
+      "buildid": "9868461",
+      "description": "Version 1.8.2.0",
+      "timeupdated": "1668418413",
+      "timebuildupdated": "1667549552"
+    },
+    "release1.9.0.0": {
+      "buildid": "10523517",
+      "description": "Version 1.9.0.0",
+      "timeupdated": "1678787253",
+      "timebuildupdated": "1676030236"
+    },
+    "release1.9.1.0": {
+      "buildid": "10992689",
+      "description": "Version 1.9.1.0",
+      "timeupdated": "1682412098",
+      "timebuildupdated": "1681373691"
+    },
+    "release1.13.1.1": {
+      "buildid": "13196140",
+      "description": "Version 1.13.1.1",
+      "timeupdated": "1705498857",
+      "timebuildupdated": "1705498857"
+    },
+    "release1.14.0.0": {
+      "buildid": "14439757",
+      "description": "Version 1.14.0.0",
+      "timeupdated": "1716882681",
+      "timebuildupdated": "1716283898"
+    }
+  },
+  "depot": {
+    "1248131": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "828510169982133884",
+          "size": "28721701368",
+          "download": "16188659856"
+        }
+      }
+    },
+    "1248132": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3500327048525161053",
+          "size": "27956719885",
+          "download": "15612945200"
+        }
+      }
+    },
+    "1248133": {
+      "manifests": {
+        "public": {
+          "gid": "4618561879047779171",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "1248134": {
+      "manifests": {
+        "public": {
+          "gid": "3422070113579301620",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "1248135": {
+      "manifests": {
+        "public": {
+          "gid": "4475626736983645437",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "1248136": {
+      "manifests": {
+        "public": {
+          "gid": "6834781470726443073",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "1248137": {
+      "manifests": {
+        "public": {
+          "gid": "1922945346341920237",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "1248138": {
+      "manifests": {
+        "public": {
+          "gid": "9092994224644967653",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "1248139": {},
+    "1673990": {
+      "manifests": {
+        "public": {
+          "gid": "1062251328472408350",
+          "size": "119972352",
+          "download": "89090080"
+        }
+      },
+      "dlcappid": "1673990"
+    },
+    "1673991": {},
+    "1673992": {},
+    "1673993": {},
+    "1673994": {},
+    "1673995": {},
+    "1673996": {},
+    "1673997": {},
+    "1673998": {},
+    "1673999": {},
+    "1731911": {},
+    "1731912": {},
+    "1731913": {},
+    "1731914": {},
+    "1731915": {},
+    "1731916": {},
+    "1731917": {},
+    "1767680": {
+      "manifests": {
+        "public": {
+          "gid": "3234084343676613818",
+          "size": "73728",
+          "download": "13408"
+        }
+      },
+      "dlcappid": "1767680"
+    },
+    "1767690": {
+      "manifests": {
+        "public": {
+          "gid": "8570258775106909972",
+          "size": "73728",
+          "download": "13408"
+        }
+      },
+      "dlcappid": "1767690"
+    },
+    "1767691": {
+      "manifests": {
+        "public": {
+          "gid": "5870147096462724396",
+          "size": "73728",
+          "download": "13360"
+        }
+      },
+      "dlcappid": "1767691"
+    },
+    "1879480": {
+      "manifests": {
+        "public": {
+          "gid": "5011842175521273659",
+          "size": "230761472",
+          "download": "181124320"
+        }
+      },
+      "dlcappid": "1879480"
+    },
+    "1967740": {
+      "manifests": {
+        "public": {
+          "gid": "9177020325140251542",
+          "size": "141666304",
+          "download": "102800416"
+        }
+      },
+      "dlcappid": "1967740"
+    },
+    "1988850": {
+      "manifests": {
+        "public": {
+          "gid": "6832232227991319596",
+          "size": "380427264",
+          "download": "253703088"
+        }
+      },
+      "dlcappid": "1988850"
+    },
+    "1992250": {
+      "manifests": {
+        "public": {
+          "gid": "3202945344734599974",
+          "size": "117081600",
+          "download": "80425712"
+        }
+      },
+      "dlcappid": "1992250"
+    },
+    "2024410": {
+      "manifests": {
+        "public": {
+          "gid": "5703765128383730924",
+          "size": "3997022720",
+          "download": "3382920240"
+        }
+      },
+      "dlcappid": "2024410"
+    },
+    "2052720": {
+      "manifests": {
+        "public": {
+          "gid": "2308112217163877561",
+          "size": "994855424",
+          "download": "688632448"
+        }
+      },
+      "dlcappid": "2052720"
+    },
+    "2060460": {
+      "manifests": {
+        "public": {
+          "gid": "6400597163278892789",
+          "size": "71339008",
+          "download": "55454880"
+        }
+      },
+      "dlcappid": "2060460"
+    },
+    "2118730": {
+      "manifests": {
+        "public": {
+          "gid": "6735190368104136657",
+          "size": "40960",
+          "download": "35088"
+        }
+      },
+      "dlcappid": "2118730"
+    },
+    "2118740": {
+      "manifests": {
+        "public": {
+          "gid": "3092276717910398577",
+          "size": "40960",
+          "download": "35056"
+        }
+      },
+      "dlcappid": "2118740"
+    },
+    "2171790": {
+      "manifests": {
+        "public": {
+          "gid": "2537414244908965707",
+          "size": "40960",
+          "download": "35104"
+        }
+      },
+      "dlcappid": "2171790"
+    },
+    "2243160": {
+      "manifests": {
+        "public": {
+          "gid": "2115387195750703084",
+          "size": "384012800",
+          "download": "296147104"
+        }
+      },
+      "dlcappid": "2243160"
+    },
+    "2243170": {
+      "manifests": {
+        "public": {
+          "gid": "7610373529691780140",
+          "size": "450280448",
+          "download": "326569808"
+        }
+      },
+      "dlcappid": "2243170"
+    },
+    "2243180": {
+      "manifests": {
+        "public": {
+          "gid": "5715031455963173775",
+          "size": "1235662848",
+          "download": "989587568"
+        }
+      },
+      "dlcappid": "2243180"
+    },
+    "2243190": {
+      "manifests": {
+        "public": {
+          "gid": "8191973273789748966",
+          "size": "358215680",
+          "download": "262965856"
+        }
+      },
+      "dlcappid": "2243190"
+    },
+    "2243200": {
+      "manifests": {
+        "public": {
+          "gid": "7525337098517332911",
+          "size": "3302638080",
+          "download": "2851467328"
+        }
+      },
+      "dlcappid": "2243200"
+    },
+    "2620980": {
+      "manifests": {
+        "public": {
+          "gid": "3199981134047764534",
+          "size": "40960",
+          "download": "35088"
+        }
+      },
+      "dlcappid": "2620980"
+    },
+    "2834020": {
+      "manifests": {
+        "public": {
+          "gid": "1967441239416157837",
+          "size": "349764608",
+          "download": "230782176"
+        }
+      },
+      "dlcappid": "2834020"
+    },
+    "branches": {
+      "public": {
+        "buildid": "14439757",
+        "timeupdated": "1716882797",
+        "timebuildupdated": "1716283898"
+      },
+      "release1.10.1.0": {
+        "buildid": "11356716",
+        "description": "Version 1.10.1.0",
+        "timeupdated": "1686050908",
+        "timebuildupdated": "1685512385"
+      },
+      "release1.11.0.0": {
+        "buildid": "11488029",
+        "description": "Version 1.11.0.0",
+        "timeupdated": "1690187927",
+        "timebuildupdated": "1686917559"
+      },
+      "release1.12.0.0": {
+        "buildid": "12659574",
+        "description": "Version 1.12.0.0",
+        "timeupdated": "1699526170",
+        "timebuildupdated": "1699526170"
+      },
+      "release1.13.1.0": {
+        "buildid": "12672937",
+        "description": "Version 1.13.1.0",
+        "timeupdated": "1699632567",
+        "timebuildupdated": "1699632567"
+      },
+      "release1.2.0.2": {
+        "buildid": "7921104",
+        "description": "Version 1.2.0.2",
+        "timeupdated": "1645692016",
+        "timebuildupdated": "1640094694"
+      },
+      "release1.3.1.0": {
+        "buildid": "8346614",
+        "description": "Version 1.3.1.0",
+        "timeupdated": "1649147021",
+        "timebuildupdated": "1646909697"
+      },
+      "release1.4.1.0": {
+        "buildid": "8595864",
+        "description": "Version 1.4.1.0\t",
+        "timeupdated": "1651481627",
+        "timebuildupdated": "1650529638"
+      },
+      "release1.5.0.0": {
+        "buildid": "8761252",
+        "description": "Version 1.5.0.0",
+        "timeupdated": "1653390560",
+        "timebuildupdated": "1652864338"
+      },
+      "release1.6.0.0": {
+        "buildid": "9000052",
+        "description": "Version 1.6.0.0",
+        "timeupdated": "1656331012",
+        "timebuildupdated": "1656062084"
+      },
+      "release1.7.1.0": {
+        "buildid": "9458760",
+        "description": "Version 1.7.1.0",
+        "timeupdated": "1662453322",
+        "timebuildupdated": "1662452084"
+      },
+      "release1.8.1.0": {
+        "buildid": "9801735",
+        "description": "Version 1.8.1.0",
+        "timeupdated": "1666773699",
+        "timebuildupdated": "1666769719"
+      },
+      "release1.8.2.0": {
+        "buildid": "9868461",
+        "description": "Version 1.8.2.0",
+        "timeupdated": "1668418413",
+        "timebuildupdated": "1667549552"
+      },
+      "release1.9.0.0": {
+        "buildid": "10523517",
+        "description": "Version 1.9.0.0",
+        "timeupdated": "1678787253",
+        "timebuildupdated": "1676030236"
+      },
+      "release1.9.1.0": {
+        "buildid": "10992689",
+        "description": "Version 1.9.1.0",
+        "timeupdated": "1682412098",
+        "timebuildupdated": "1681373691"
+      },
+      "release1.13.1.1": {
+        "buildid": "13196140",
+        "description": "Version 1.13.1.1",
+        "timeupdated": "1705498857",
+        "timebuildupdated": "1705498857"
+      },
+      "release1.14.0.0": {
+        "buildid": "14439757",
+        "description": "Version 1.14.0.0",
+        "timeupdated": "1716882681",
+        "timebuildupdated": "1716283898"
+      }
+    }
+  }
+}

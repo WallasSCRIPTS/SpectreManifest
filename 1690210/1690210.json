@@ -1,0 +1,70 @@
+{
+  "name": "Sea of Dreams",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:07:49.760Z",
+  "branches": {
+    "public": {
+      "buildid": "21723455",
+      "timeupdated": "1769810124",
+      "timebuildupdated": "1769810124"
+    },
+    "no-drm": {
+      "buildid": "21723510",
+      "description": "No DRM version of Sea of Dreams",
+      "timeupdated": "1769810510",
+      "timebuildupdated": "1769810510"
+    }
+  },
+  "depot": {
+    "1690211": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1897032006929318812",
+          "size": "226698393",
+          "download": "67593296"
+        }
+      }
+    },
+    "1690212": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4149892935322850641",
+          "size": "292816522",
+          "download": "84109248"
+        }
+      }
+    },
+    "1690213": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6513533826497465228",
+          "size": "259094934",
+          "download": "70374272"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21723455",
+        "timeupdated": "1769810124",
+        "timebuildupdated": "1769810124"
+      },
+      "no-drm": {
+        "buildid": "21723510",
+        "description": "No DRM version of Sea of Dreams",
+        "timeupdated": "1769810510",
+        "timebuildupdated": "1769810510"
+      }
+    }
+  }
+}

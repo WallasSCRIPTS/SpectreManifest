@@ -1,0 +1,66 @@
+{
+  "name": "Sigils of Elohim",
+  "source": "spectre",
+  "changenumber": 40671881,
+  "updated": "2026-11-07T20:56:40.258Z",
+  "branches": {
+    "public": {
+      "buildid": "473037",
+      "timebuildupdated": "1418650582"
+    },
+    "publicbeta": {
+      "buildid": "422140",
+      "description": "public beta",
+      "timebuildupdated": "1414326560"
+    }
+  },
+  "depot": {
+    "321481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4450472793635516685",
+          "size": "92165202",
+          "download": "55156670380"
+        }
+      }
+    },
+    "321482": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1121239075249942855",
+          "size": "99183635",
+          "download": "49731594044"
+        }
+      }
+    },
+    "321483": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5476534279749447572",
+          "size": "97561364",
+          "download": "57128042068"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "473037",
+        "timebuildupdated": "1418650582"
+      },
+      "publicbeta": {
+        "buildid": "422140",
+        "description": "public beta",
+        "timebuildupdated": "1414326560"
+      }
+    }
+  }
+}

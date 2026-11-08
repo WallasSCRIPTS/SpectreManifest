@@ -1,0 +1,122 @@
+{
+  "name": "Jamestown",
+  "source": "spectre",
+  "changenumber": 37432492,
+  "updated": "2026-11-07T20:55:58.360Z",
+  "branches": {
+    "public": {
+      "buildid": "4264501",
+      "timeupdated": "1570465080",
+      "timebuildupdated": "1570465026"
+    },
+    "beta": {
+      "buildid": "4264501",
+      "description": "Jamestown 1.0.3 Beta",
+      "timeupdated": "1570465026",
+      "timebuildupdated": "1570465026"
+    },
+    "legacy": {
+      "buildid": "35615",
+      "description": "Legacy Build (1.0.2)",
+      "timebuildupdated": "1357850951"
+    }
+  },
+  "depot": {
+    "94201": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4783094477790864971",
+          "size": "107003782",
+          "download": "91166000"
+        }
+      }
+    },
+    "94202": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1389048845544573429",
+          "size": "1128569",
+          "download": "918928"
+        }
+      },
+      "dlcappid": "94202"
+    },
+    "94203": {
+      "manifests": {
+        "public": {
+          "gid": "1795031119767123887",
+          "size": "108165547",
+          "download": "99034592"
+        }
+      },
+      "dlcappid": "94203"
+    },
+    "94204": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4018656020712890496",
+          "size": "126136030",
+          "download": "94998672"
+        }
+      }
+    },
+    "94205": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8301256287820981831",
+          "size": "1128569",
+          "download": "918928"
+        }
+      },
+      "dlcappid": "94205"
+    },
+    "228982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "4264501",
+        "timeupdated": "1570465080",
+        "timebuildupdated": "1570465026"
+      },
+      "beta": {
+        "buildid": "4264501",
+        "description": "Jamestown 1.0.3 Beta",
+        "timeupdated": "1570465026",
+        "timebuildupdated": "1570465026"
+      },
+      "legacy": {
+        "buildid": "35615",
+        "description": "Legacy Build (1.0.2)",
+        "timebuildupdated": "1357850951"
+      }
+    }
+  }
+}

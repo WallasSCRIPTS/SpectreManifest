@@ -1,0 +1,83 @@
+{
+  "name": "Evergate",
+  "source": "spectre",
+  "changenumber": 39860916,
+  "updated": "2026-11-07T21:01:07.695Z",
+  "branches": {
+    "public": {
+      "buildid": "7175648",
+      "timeupdated": "1628721848",
+      "timebuildupdated": "1628721494"
+    },
+    "letsmake": {
+      "buildid": "5536122",
+      "timeupdated": "1599932521",
+      "timebuildupdated": "1599932445"
+    },
+    "qa-branch": {
+      "buildid": "7175648",
+      "timeupdated": "1628721532",
+      "timebuildupdated": "1628721494"
+    },
+    "speedrun": {
+      "buildid": "5753454",
+      "description": "Version where the autosplitter works",
+      "timeupdated": "1629751412",
+      "timebuildupdated": "1603955632"
+    },
+    "v1.02": {
+      "buildid": "5487187",
+      "description": "Initial release of Evergate",
+      "timeupdated": "1603951602",
+      "timebuildupdated": "1598956274"
+    }
+  },
+  "depot": {
+    "845031": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1030582851812893452",
+          "size": "3204353954",
+          "download": "1766255584"
+        }
+      }
+    },
+    "845032": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7175648",
+        "timeupdated": "1628721848",
+        "timebuildupdated": "1628721494"
+      },
+      "letsmake": {
+        "buildid": "5536122",
+        "timeupdated": "1599932521",
+        "timebuildupdated": "1599932445"
+      },
+      "qa-branch": {
+        "buildid": "7175648",
+        "timeupdated": "1628721532",
+        "timebuildupdated": "1628721494"
+      },
+      "speedrun": {
+        "buildid": "5753454",
+        "description": "Version where the autosplitter works",
+        "timeupdated": "1629751412",
+        "timebuildupdated": "1603955632"
+      },
+      "v1.02": {
+        "buildid": "5487187",
+        "description": "Initial release of Evergate",
+        "timeupdated": "1603951602",
+        "timebuildupdated": "1598956274"
+      }
+    }
+  }
+}

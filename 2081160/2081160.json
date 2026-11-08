@@ -1,0 +1,60 @@
+{
+  "name": "Pawsecuted Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-06T23:17:29.278Z",
+  "branches": {
+    "public": {
+      "buildid": "12764855",
+      "timeupdated": "1700603707",
+      "timebuildupdated": "1700603425"
+    },
+    "local": {
+      "buildid": "9083480",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1657254859",
+      "timebuildupdated": "1657254859"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2081161": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1515241384800380975",
+          "size": "409550134",
+          "download": "394180064"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12764855",
+        "timeupdated": "1700603707",
+        "timebuildupdated": "1700603425"
+      },
+      "local": {
+        "buildid": "9083480",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1657254859",
+        "timebuildupdated": "1657254859"
+      }
+    }
+  }
+}

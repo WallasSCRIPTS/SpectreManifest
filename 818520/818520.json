@@ -1,0 +1,100 @@
+{
+  "name": "Builders Of Egypt",
+  "source": "spectre",
+  "changenumber": 39483065,
+  "updated": "2026-11-07T21:00:56.207Z",
+  "branches": {
+    "public": {
+      "buildid": "20986878",
+      "timeupdated": "1764436752",
+      "timebuildupdated": "1764378641"
+    },
+    "legacy_4_25_4": {
+      "buildid": "17549922",
+      "description": "Version before the engine change! Enable this version if the new one does not work!",
+      "timeupdated": "1753361745",
+      "timebuildupdated": "1740760223"
+    },
+    "patch_test": {
+      "buildid": "20986878",
+      "description": "The latest patch is being tested here. Warning, there may be bugs!",
+      "timeupdated": "1764434526",
+      "timebuildupdated": "1764378641"
+    },
+    "previous_version": {
+      "buildid": "17457264",
+      "description": "Did something go wrong? Do you want to go back to a previous version? Here you will find it",
+      "timeupdated": "1740765105",
+      "timebuildupdated": "1740152099"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229033": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "818521": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8726861381143225402",
+          "size": "14925743782",
+          "download": "14061259472"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20986878",
+        "timeupdated": "1764436752",
+        "timebuildupdated": "1764378641"
+      },
+      "legacy_4_25_4": {
+        "buildid": "17549922",
+        "description": "Version before the engine change! Enable this version if the new one does not work!",
+        "timeupdated": "1753361745",
+        "timebuildupdated": "1740760223"
+      },
+      "patch_test": {
+        "buildid": "20986878",
+        "description": "The latest patch is being tested here. Warning, there may be bugs!",
+        "timeupdated": "1764434526",
+        "timebuildupdated": "1764378641"
+      },
+      "previous_version": {
+        "buildid": "17457264",
+        "description": "Did something go wrong? Do you want to go back to a previous version? Here you will find it",
+        "timeupdated": "1740765105",
+        "timebuildupdated": "1740152099"
+      }
+    }
+  }
+}

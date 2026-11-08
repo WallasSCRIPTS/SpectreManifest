@@ -1,0 +1,70 @@
+{
+  "name": "Havendock",
+  "source": "spectre",
+  "changenumber": 40659238,
+  "updated": "2026-11-06T23:15:37.363Z",
+  "branches": {
+    "public": {
+      "buildid": "26051097",
+      "timeupdated": "1792661609",
+      "timebuildupdated": "1792418594"
+    },
+    "experimental": {
+      "buildid": "26363394",
+      "description": "Windows experimental builds",
+      "timeupdated": "1793949407",
+      "timebuildupdated": "1793553192"
+    }
+  },
+  "depot": {
+    "2020711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7652196396991636446",
+          "size": "1345159810",
+          "download": "434611056"
+        }
+      }
+    },
+    "2020712": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5837294362453343140",
+          "size": "1382861872",
+          "download": "446891728"
+        }
+      }
+    },
+    "2020713": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5239723535244884868",
+          "size": "1394734420",
+          "download": "463331792"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26051097",
+        "timeupdated": "1792661609",
+        "timebuildupdated": "1792418594"
+      },
+      "experimental": {
+        "buildid": "26363394",
+        "description": "Windows experimental builds",
+        "timeupdated": "1793949407",
+        "timebuildupdated": "1793553192"
+      }
+    }
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "name": "CBS: Desolation",
+  "source": "spectre",
+  "changenumber": 38513870,
+  "updated": "2026-11-06T23:11:36.368Z",
+  "branches": {
+    "public": {
+      "buildid": "25062199",
+      "timeupdated": "1788279628",
+      "timebuildupdated": "1788279628"
+    },
+    "build_1_2": {
+      "buildid": "19287901",
+      "description": "Build 1.2+",
+      "timeupdated": "1753188903",
+      "timebuildupdated": "1752962989"
+    },
+    "build_1_3_1_preroa": {
+      "buildid": "19459598",
+      "description": "Last build before roa",
+      "timeupdated": "1754206577",
+      "timebuildupdated": "1754206577"
+    },
+    "previous": {
+      "buildid": "19247072",
+      "description": "Load the build prior to latest",
+      "timeupdated": "1752835265",
+      "timebuildupdated": "1752679850"
+    },
+    "public32": {
+      "buildid": "24110742",
+      "description": "32bit build public branch",
+      "timeupdated": "1783520308",
+      "timebuildupdated": "1783520308"
+    },
+    "publiclix": {
+      "buildid": "25062203",
+      "description": "Linux build public branch",
+      "timeupdated": "1788279633",
+      "timebuildupdated": "1788279633"
+    },
+    "public64": {
+      "buildid": "25062189",
+      "description": "64bit build public branch",
+      "timeupdated": "1788279601",
+      "timebuildupdated": "1788279601"
+    },
+    "local": {
+      "buildid": "23895961",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1782313918",
+      "timebuildupdated": "1782313918"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1831401": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4108582849807367956",
+          "size": "2204773332",
+          "download": "1408052592"
+        }
+      }
+    },
+    "1831402": {
+      "config": {
+        "oslist": "android"
+      }
+    },
+    "1831405": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6467147174713490487",
+          "size": "1923881760",
+          "download": "1201202416"
+        }
+      }
+    },
+    "1831406": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "650066469935567090",
+          "size": "1888250933",
+          "download": "1127316224"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25062199",
+        "timeupdated": "1788279628",
+        "timebuildupdated": "1788279628"
+      },
+      "build_1_2": {
+        "buildid": "19287901",
+        "description": "Build 1.2+",
+        "timeupdated": "1753188903",
+        "timebuildupdated": "1752962989"
+      },
+      "build_1_3_1_preroa": {
+        "buildid": "19459598",
+        "description": "Last build before roa",
+        "timeupdated": "1754206577",
+        "timebuildupdated": "1754206577"
+      },
+      "previous": {
+        "buildid": "19247072",
+        "description": "Load the build prior to latest",
+        "timeupdated": "1752835265",
+        "timebuildupdated": "1752679850"
+      },
+      "public32": {
+        "buildid": "24110742",
+        "description": "32bit build public branch",
+        "timeupdated": "1783520308",
+        "timebuildupdated": "1783520308"
+      },
+      "publiclix": {
+        "buildid": "25062203",
+        "description": "Linux build public branch",
+        "timeupdated": "1788279633",
+        "timebuildupdated": "1788279633"
+      },
+      "public64": {
+        "buildid": "25062189",
+        "description": "64bit build public branch",
+        "timeupdated": "1788279601",
+        "timebuildupdated": "1788279601"
+      },
+      "local": {
+        "buildid": "23895961",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1782313918",
+        "timebuildupdated": "1782313918"
+      }
+    }
+  }
+}

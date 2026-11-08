@@ -1,0 +1,160 @@
+{
+  "name": "Salt and Sanctuary",
+  "source": "spectre",
+  "changenumber": 40412329,
+  "updated": "2026-11-07T20:56:22.786Z",
+  "branches": {
+    "public": {
+      "buildid": "22733741",
+      "timeupdated": "1775837555",
+      "timebuildupdated": "1775837555"
+    },
+    "preview": {
+      "buildid": "22733741",
+      "description": "preview build",
+      "timeupdated": "1775837555",
+      "timebuildupdated": "1775837555"
+    },
+    "1.0.2.1": {
+      "buildid": "16900612",
+      "description": "Previous Update",
+      "timeupdated": "1762274839",
+      "timebuildupdated": "1735919677"
+    },
+    "1.0.1.1b": {
+      "buildid": "11401007",
+      "description": "Enhanced - Pre-Monogame",
+      "timeupdated": "1717431674",
+      "timebuildupdated": "1686017816"
+    },
+    "1.0.0.9": {
+      "buildid": "9928493",
+      "description": "Repolish Update",
+      "timeupdated": "1681079812",
+      "timebuildupdated": "1668369080"
+    },
+    "1.0.0.8": {
+      "buildid": "6032523",
+      "description": "Legacy Version",
+      "timeupdated": "1666924753",
+      "timebuildupdated": "1609606327"
+    },
+    "fna-win32": {
+      "buildid": "22733686",
+      "description": "FNA for Windows - Unsupported!",
+      "timeupdated": "1775837393",
+      "timebuildupdated": "1775837393"
+    },
+    "linux32": {
+      "buildid": "2934521",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609456938",
+      "timebuildupdated": "1531251189"
+    },
+    "beta": {
+      "buildid": "1681747",
+      "description": "Old beta branch - Windows only",
+      "timeupdated": "1489109204",
+      "timebuildupdated": "1489109193"
+    }
+  },
+  "depot": {
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "283641": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4011154787757119917",
+          "size": "969248881",
+          "download": "455204192"
+        }
+      }
+    },
+    "283642": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2672969186393275660",
+          "size": "940411021",
+          "download": "455750400"
+        }
+      }
+    },
+    "283643": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1173490967298319513",
+          "size": "943625083",
+          "download": "456811328"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22733741",
+        "timeupdated": "1775837555",
+        "timebuildupdated": "1775837555"
+      },
+      "preview": {
+        "buildid": "22733741",
+        "description": "preview build",
+        "timeupdated": "1775837555",
+        "timebuildupdated": "1775837555"
+      },
+      "1.0.2.1": {
+        "buildid": "16900612",
+        "description": "Previous Update",
+        "timeupdated": "1762274839",
+        "timebuildupdated": "1735919677"
+      },
+      "1.0.1.1b": {
+        "buildid": "11401007",
+        "description": "Enhanced - Pre-Monogame",
+        "timeupdated": "1717431674",
+        "timebuildupdated": "1686017816"
+      },
+      "1.0.0.9": {
+        "buildid": "9928493",
+        "description": "Repolish Update",
+        "timeupdated": "1681079812",
+        "timebuildupdated": "1668369080"
+      },
+      "1.0.0.8": {
+        "buildid": "6032523",
+        "description": "Legacy Version",
+        "timeupdated": "1666924753",
+        "timebuildupdated": "1609606327"
+      },
+      "fna-win32": {
+        "buildid": "22733686",
+        "description": "FNA for Windows - Unsupported!",
+        "timeupdated": "1775837393",
+        "timebuildupdated": "1775837393"
+      },
+      "linux32": {
+        "buildid": "2934521",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609456938",
+        "timebuildupdated": "1531251189"
+      },
+      "beta": {
+        "buildid": "1681747",
+        "description": "Old beta branch - Windows only",
+        "timeupdated": "1489109204",
+        "timebuildupdated": "1489109193"
+      }
+    }
+  }
+}

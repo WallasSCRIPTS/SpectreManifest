@@ -1,0 +1,55 @@
+{
+  "name": "Landelver",
+  "source": "spectre",
+  "changenumber": 37929801,
+  "updated": "2026-11-06T23:23:18.697Z",
+  "branches": {
+    "public": {
+      "buildid": "16704906",
+      "timeupdated": "1733908086",
+      "timebuildupdated": "1733907486"
+    },
+    "fortest": {
+      "buildid": "24667927",
+      "description": "测试用分支",
+      "timeupdated": "1786435544",
+      "timebuildupdated": "1786435504"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2356531": {
+      "manifests": {
+        "public": {
+          "gid": "5779258322405870778",
+          "size": "16624945758",
+          "download": "7002106320"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16704906",
+        "timeupdated": "1733908086",
+        "timebuildupdated": "1733907486"
+      },
+      "fortest": {
+        "buildid": "24667927",
+        "description": "测试用分支",
+        "timeupdated": "1786435544",
+        "timebuildupdated": "1786435504"
+      }
+    }
+  }
+}

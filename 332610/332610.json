@@ -1,0 +1,94 @@
+{
+  "name": "Mystik Belle: Enchanted Edition",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:45.451Z",
+  "branches": {
+    "public": {
+      "buildid": "25441995",
+      "timeupdated": "1790011690",
+      "timebuildupdated": "1790011486"
+    },
+    "default_alt": {
+      "buildid": "25286052",
+      "description": "Uncompiled VM",
+      "timeupdated": "1789322349",
+      "timebuildupdated": "1789322349"
+    },
+    "legacy": {
+      "buildid": "6256483",
+      "description": "Final 32-bit DirectX9.0c release version",
+      "timeupdated": "1613621504",
+      "timebuildupdated": "1613621504"
+    },
+    "older": {
+      "buildid": "1018741",
+      "description": "Original release version",
+      "timeupdated": "1472699219",
+      "timebuildupdated": "1457645882"
+    }
+  },
+  "depot": {
+    "332611": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5343855080503408960",
+          "size": "53710711",
+          "download": "36209744"
+        }
+      }
+    },
+    "332612": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8130743729648985335",
+          "size": "26784596",
+          "download": "15048240"
+        }
+      }
+    },
+    "332613": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "941270243867847630",
+          "size": "89977153",
+          "download": "57942736"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25441995",
+        "timeupdated": "1790011690",
+        "timebuildupdated": "1790011486"
+      },
+      "default_alt": {
+        "buildid": "25286052",
+        "description": "Uncompiled VM",
+        "timeupdated": "1789322349",
+        "timebuildupdated": "1789322349"
+      },
+      "legacy": {
+        "buildid": "6256483",
+        "description": "Final 32-bit DirectX9.0c release version",
+        "timeupdated": "1613621504",
+        "timebuildupdated": "1613621504"
+      },
+      "older": {
+        "buildid": "1018741",
+        "description": "Original release version",
+        "timeupdated": "1472699219",
+        "timebuildupdated": "1457645882"
+      }
+    }
+  }
+}

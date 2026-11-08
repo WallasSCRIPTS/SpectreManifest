@@ -1,0 +1,73 @@
+{
+  "name": "Rift Wizard 2",
+  "source": "spectre",
+  "changenumber": 37454840,
+  "updated": "2026-11-06T23:15:39.214Z",
+  "branches": {
+    "public": {
+      "buildid": "23490321",
+      "timeupdated": "1781891357",
+      "timebuildupdated": "1780189099"
+    },
+    "beta": {
+      "buildid": "23490321",
+      "description": "beta branch",
+      "timeupdated": "1780189146",
+      "timebuildupdated": "1780189099"
+    },
+    "prev_beta": {
+      "buildid": "18653056",
+      "description": "previous beta build for save compat",
+      "timeupdated": "1754494864",
+      "timebuildupdated": "1748491919"
+    },
+    "prev_main": {
+      "buildid": "20397167",
+      "description": "previous main build for save compat",
+      "timeupdated": "1777754293",
+      "timebuildupdated": "1760506356"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2058571": {
+      "manifests": {
+        "public": {
+          "gid": "254143453753926646",
+          "size": "943014451",
+          "download": "711788400"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23490321",
+        "timeupdated": "1781891357",
+        "timebuildupdated": "1780189099"
+      },
+      "beta": {
+        "buildid": "23490321",
+        "description": "beta branch",
+        "timeupdated": "1780189146",
+        "timebuildupdated": "1780189099"
+      },
+      "prev_beta": {
+        "buildid": "18653056",
+        "description": "previous beta build for save compat",
+        "timeupdated": "1754494864",
+        "timebuildupdated": "1748491919"
+      },
+      "prev_main": {
+        "buildid": "20397167",
+        "description": "previous main build for save compat",
+        "timeupdated": "1777754293",
+        "timebuildupdated": "1760506356"
+      }
+    }
+  }
+}

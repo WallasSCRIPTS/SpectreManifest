@@ -1,0 +1,58 @@
+{
+  "name": "Z Arena",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-06T21:05:03.587Z",
+  "branches": {
+    "public": {
+      "buildid": "9615255",
+      "timeupdated": "1664444113",
+      "timebuildupdated": "1664434528"
+    },
+    "coldedge": {
+      "buildid": "16121685",
+      "description": "cold edge map",
+      "timeupdated": "1729511412",
+      "timebuildupdated": "1729511412"
+    }
+  },
+  "depot": {
+    "1411461": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "767293277109015009",
+          "size": "6190934341",
+          "download": "4672494288"
+        }
+      }
+    },
+    "1411463": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4007189243276010857",
+          "size": "6545988276",
+          "download": "4847761872"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9615255",
+        "timeupdated": "1664444113",
+        "timebuildupdated": "1664434528"
+      },
+      "coldedge": {
+        "buildid": "16121685",
+        "description": "cold edge map",
+        "timeupdated": "1729511412",
+        "timebuildupdated": "1729511412"
+      }
+    }
+  }
+}

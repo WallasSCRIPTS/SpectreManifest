@@ -1,0 +1,64 @@
+{
+  "name": "Block Heads: Instakill",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-07T21:00:37.407Z",
+  "branches": {
+    "public": {
+      "buildid": "6270753",
+      "timeupdated": "1613864037",
+      "timebuildupdated": "1613863969"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "778031": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7466099993634263266",
+          "size": "252455990",
+          "download": "189931568"
+        }
+      }
+    },
+    "778032": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6137482585083652479",
+          "size": "356314059",
+          "download": "236825728"
+        }
+      }
+    },
+    "778033": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1385956108258218000",
+          "size": "260334745",
+          "download": "193206944"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6270753",
+        "timeupdated": "1613864037",
+        "timebuildupdated": "1613863969"
+      }
+    }
+  }
+}

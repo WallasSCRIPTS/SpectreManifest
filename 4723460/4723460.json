@@ -1,0 +1,46 @@
+{
+  "name": "701病房",
+  "source": "spectre",
+  "changenumber": 37255184,
+  "updated": "2026-11-04T23:25:43.103Z",
+  "branches": {
+    "public": {
+      "buildid": "24203076",
+      "timeupdated": "1784039737",
+      "timebuildupdated": "1784039635"
+    }
+  },
+  "depot": {
+    "4723461": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "875171688423765727",
+          "size": "574082129",
+          "download": "302849056"
+        }
+      }
+    },
+    "4723462": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5759296276278500949",
+          "size": "597630436",
+          "download": "311750976"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24203076",
+        "timeupdated": "1784039737",
+        "timebuildupdated": "1784039635"
+      }
+    }
+  }
+}

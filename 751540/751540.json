@@ -1,0 +1,68 @@
+{
+  "name": "Duel Jousting",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:00:24.255Z",
+  "branches": {
+    "public": {
+      "buildid": "3044923",
+      "timeupdated": "1534659069",
+      "timebuildupdated": "1534658992"
+    },
+    "betatest": {
+      "buildid": "2421909",
+      "timeupdated": "1515464997",
+      "timebuildupdated": "1515464791"
+    }
+  },
+  "depot": {
+    "751541": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4629426963827763957",
+          "size": "164907737",
+          "download": "44603344"
+        }
+      }
+    },
+    "751542": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3788621968723108191",
+          "size": "175497704",
+          "download": "47619696"
+        }
+      }
+    },
+    "751543": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3957935570494280260",
+          "size": "175002282",
+          "download": "49029616"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3044923",
+        "timeupdated": "1534659069",
+        "timebuildupdated": "1534658992"
+      },
+      "betatest": {
+        "buildid": "2421909",
+        "timeupdated": "1515464997",
+        "timebuildupdated": "1515464791"
+      }
+    }
+  }
+}

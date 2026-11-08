@@ -1,0 +1,70 @@
+{
+  "name": "Scourge Of War - Remastered",
+  "source": "spectre",
+  "changenumber": 40502467,
+  "updated": "2026-11-06T23:19:31.034Z",
+  "branches": {
+    "public": {
+      "buildid": "25563970",
+      "timeupdated": "1790768408",
+      "timebuildupdated": "1790533616"
+    },
+    "beta": {
+      "buildid": "25563970",
+      "description": "test version",
+      "timeupdated": "1790533616",
+      "timebuildupdated": "1790533616"
+    },
+    "test": {
+      "buildid": "21359207",
+      "description": "test version",
+      "timeupdated": "1767282174",
+      "timebuildupdated": "1767281623"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2205332": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2945127006025816306",
+          "size": "3677309759",
+          "download": "852535184"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25563970",
+        "timeupdated": "1790768408",
+        "timebuildupdated": "1790533616"
+      },
+      "beta": {
+        "buildid": "25563970",
+        "description": "test version",
+        "timeupdated": "1790533616",
+        "timebuildupdated": "1790533616"
+      },
+      "test": {
+        "buildid": "21359207",
+        "description": "test version",
+        "timeupdated": "1767282174",
+        "timebuildupdated": "1767281623"
+      }
+    }
+  }
+}

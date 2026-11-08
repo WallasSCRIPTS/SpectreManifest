@@ -1,0 +1,70 @@
+{
+  "name": "Virtual Circuit Board",
+  "source": "spectre",
+  "changenumber": 39083115,
+  "updated": "2026-11-06T23:13:26.921Z",
+  "branches": {
+    "public": {
+      "buildid": "13251452",
+      "timeupdated": "1706033444",
+      "timebuildupdated": "1706032793"
+    },
+    "beta": {
+      "buildid": "13251452",
+      "description": "Public testing branch",
+      "timeupdated": "1706033397",
+      "timebuildupdated": "1706032793"
+    },
+    "previous": {
+      "buildid": "12330786",
+      "description": "Version 1.0",
+      "timeupdated": "1706033369",
+      "timebuildupdated": "1696203797"
+    }
+  },
+  "depot": {
+    "1885691": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "756626189575106712",
+          "size": "48189246",
+          "download": "14726192"
+        }
+      }
+    },
+    "1885692": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5770531642518915771",
+          "size": "50327942",
+          "download": "16324112"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13251452",
+        "timeupdated": "1706033444",
+        "timebuildupdated": "1706032793"
+      },
+      "beta": {
+        "buildid": "13251452",
+        "description": "Public testing branch",
+        "timeupdated": "1706033397",
+        "timebuildupdated": "1706032793"
+      },
+      "previous": {
+        "buildid": "12330786",
+        "description": "Version 1.0",
+        "timeupdated": "1706033369",
+        "timebuildupdated": "1696203797"
+      }
+    }
+  }
+}

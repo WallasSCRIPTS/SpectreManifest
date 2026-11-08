@@ -1,0 +1,67 @@
+{
+  "name": "Astronomics",
+  "source": "spectre",
+  "changenumber": 40622242,
+  "updated": "2026-11-06T23:15:25.525Z",
+  "branches": {
+    "public": {
+      "buildid": "26169846",
+      "timeupdated": "1792786734",
+      "timebuildupdated": "1792786708"
+    },
+    "demo": {
+      "buildid": "17255427",
+      "description": "demo",
+      "timeupdated": "1738778552",
+      "timebuildupdated": "1738778552"
+    },
+    "previous-version": {
+      "buildid": "25459721",
+      "description": "The previous version to fallback to",
+      "timeupdated": "1790082681",
+      "timebuildupdated": "1790082649"
+    },
+    "repair-test": {
+      "buildid": "25690114",
+      "description": "Testing Repair Tool",
+      "timeupdated": "1790991983",
+      "timebuildupdated": "1790991961"
+    }
+  },
+  "depot": {
+    "1975521": {
+      "manifests": {
+        "public": {
+          "gid": "5788619934810963991",
+          "size": "1398542852",
+          "download": "388382048"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26169846",
+        "timeupdated": "1792786734",
+        "timebuildupdated": "1792786708"
+      },
+      "demo": {
+        "buildid": "17255427",
+        "description": "demo",
+        "timeupdated": "1738778552",
+        "timebuildupdated": "1738778552"
+      },
+      "previous-version": {
+        "buildid": "25459721",
+        "description": "The previous version to fallback to",
+        "timeupdated": "1790082681",
+        "timebuildupdated": "1790082649"
+      },
+      "repair-test": {
+        "buildid": "25690114",
+        "description": "Testing Repair Tool",
+        "timeupdated": "1790991983",
+        "timebuildupdated": "1790991961"
+      }
+    }
+  }
+}

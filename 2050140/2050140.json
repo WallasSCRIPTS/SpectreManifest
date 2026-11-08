@@ -1,0 +1,105 @@
+{
+  "name": "CBS: Eftm 3D",
+  "source": "spectre",
+  "changenumber": 38453703,
+  "updated": "2026-11-06T23:15:38.255Z",
+  "branches": {
+    "public": {
+      "buildid": "25022581",
+      "timeupdated": "1788104966",
+      "timebuildupdated": "1788104966"
+    },
+    "nativebuild_latest": {
+      "buildid": "24649034",
+      "description": "Latest build update before functionality upgrades, this includes the original game structure, which was a light-weight html targeted game.",
+      "timeupdated": "1786349618",
+      "timebuildupdated": "1786349618"
+    },
+    "publicdefault": {
+      "buildid": "25022578",
+      "description": "branch 1",
+      "timeupdated": "1788104928",
+      "timebuildupdated": "1788104928"
+    },
+    "publiclin": {
+      "buildid": "25022563",
+      "description": "public default for linx",
+      "timeupdated": "1788104831",
+      "timebuildupdated": "1788104831"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2050141": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3733088187559711447",
+          "size": "198480366",
+          "download": "63403744"
+        }
+      }
+    },
+    "2050142": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6360166920836434585",
+          "size": "378090474",
+          "download": "170503824"
+        }
+      }
+    },
+    "2050143": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3356706602360136771",
+          "size": "399787138",
+          "download": "180167520"
+        }
+      }
+    },
+    "2050144": {
+      "config": {
+        "oslist": "android"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25022581",
+        "timeupdated": "1788104966",
+        "timebuildupdated": "1788104966"
+      },
+      "nativebuild_latest": {
+        "buildid": "24649034",
+        "description": "Latest build update before functionality upgrades, this includes the original game structure, which was a light-weight html targeted game.",
+        "timeupdated": "1786349618",
+        "timebuildupdated": "1786349618"
+      },
+      "publicdefault": {
+        "buildid": "25022578",
+        "description": "branch 1",
+        "timeupdated": "1788104928",
+        "timebuildupdated": "1788104928"
+      },
+      "publiclin": {
+        "buildid": "25022563",
+        "description": "public default for linx",
+        "timeupdated": "1788104831",
+        "timebuildupdated": "1788104831"
+      }
+    }
+  }
+}

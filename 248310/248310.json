@@ -1,0 +1,116 @@
+{
+  "name": "Freedom Planet",
+  "source": "spectre",
+  "changenumber": 39521456,
+  "updated": "2026-11-07T20:56:11.512Z",
+  "branches": {
+    "public": {
+      "buildid": "3078878",
+      "timeupdated": "1535650945",
+      "timebuildupdated": "1535650750"
+    },
+    "1.20.2": {
+      "buildid": "520326",
+      "description": "Older PC version of Freedom Planet",
+      "timebuildupdated": "1423527893"
+    },
+    "1.20.4": {
+      "buildid": "727579",
+      "description": "Right before the Milla Adventure update",
+      "timebuildupdated": "1439235370"
+    },
+    "1.21.5": {
+      "buildid": "1927647",
+      "description": "Release candidate for PS4 fixes/tweaks",
+      "timeupdated": "1498809296",
+      "timebuildupdated": "1498808935"
+    },
+    "beta": {
+      "buildid": "918017",
+      "description": "For testing new builds",
+      "timebuildupdated": "1451898346"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "248311": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6444498973894058520",
+          "size": "365333920",
+          "download": "327005088"
+        }
+      }
+    },
+    "248312": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3534019604702128632",
+          "size": "412782699",
+          "download": "336395328"
+        }
+      }
+    },
+    "248313": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4612675519341929155",
+          "size": "390477486",
+          "download": "329568320"
+        }
+      }
+    },
+    "316560": {
+      "manifests": {
+        "public": {
+          "gid": "3715661087146031304",
+          "size": "441020837",
+          "download": "427354464"
+        }
+      },
+      "dlcappid": "316560"
+    },
+    "branches": {
+      "public": {
+        "buildid": "3078878",
+        "timeupdated": "1535650945",
+        "timebuildupdated": "1535650750"
+      },
+      "1.20.2": {
+        "buildid": "520326",
+        "description": "Older PC version of Freedom Planet",
+        "timebuildupdated": "1423527893"
+      },
+      "1.20.4": {
+        "buildid": "727579",
+        "description": "Right before the Milla Adventure update",
+        "timebuildupdated": "1439235370"
+      },
+      "1.21.5": {
+        "buildid": "1927647",
+        "description": "Release candidate for PS4 fixes/tweaks",
+        "timeupdated": "1498809296",
+        "timebuildupdated": "1498808935"
+      },
+      "beta": {
+        "buildid": "918017",
+        "description": "For testing new builds",
+        "timebuildupdated": "1451898346"
+      }
+    }
+  }
+}

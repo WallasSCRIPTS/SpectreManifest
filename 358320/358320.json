@@ -1,0 +1,59 @@
+{
+  "name": "Realms of Chaos",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:07.589Z",
+  "branches": {
+    "public": {
+      "buildid": "606147",
+      "timebuildupdated": "1430315872"
+    }
+  },
+  "depot": {
+    "358282": {
+      "depotfromapp": "358280"
+    },
+    "358321": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8523526658645975417",
+          "size": "32444095",
+          "download": "14981840"
+        }
+      }
+    },
+    "358322": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6397077554772239098",
+          "size": "12636642",
+          "download": "6343296"
+        }
+      }
+    },
+    "358323": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5823246264576397970",
+          "size": "12366730",
+          "download": "7031248"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "606147",
+        "timebuildupdated": "1430315872"
+      }
+    }
+  }
+}

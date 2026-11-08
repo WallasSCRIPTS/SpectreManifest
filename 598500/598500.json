@@ -1,0 +1,64 @@
+{
+  "name": "Startide",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:08.727Z",
+  "branches": {
+    "public": {
+      "buildid": "2313139",
+      "timeupdated": "1511518855",
+      "timebuildupdated": "1511515709"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "598501": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8608697176600159838",
+          "size": "5754534826",
+          "download": "2288976912"
+        }
+      }
+    },
+    "598502": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4186366213792126260",
+          "size": "5769828874",
+          "download": "2294143952"
+        }
+      }
+    },
+    "598503": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5565968958454857745",
+          "size": "5763145673",
+          "download": "2291123648"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2313139",
+        "timeupdated": "1511518855",
+        "timebuildupdated": "1511515709"
+      }
+    }
+  }
+}

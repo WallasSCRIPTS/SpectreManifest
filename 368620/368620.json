@@ -1,0 +1,94 @@
+{
+  "name": "Timespinner",
+  "source": "spectre",
+  "changenumber": 39496710,
+  "updated": "2026-11-07T20:57:13.531Z",
+  "branches": {
+    "public": {
+      "buildid": "24077286",
+      "timeupdated": "1783360126",
+      "timebuildupdated": "1783360021"
+    },
+    "v1.033_archive": {
+      "buildid": "7288240",
+      "description": "Old stable build from 2021",
+      "timeupdated": "1630519731",
+      "timebuildupdated": "1630519703"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "368621": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5542408107649628442",
+          "size": "364548078",
+          "download": "270898736"
+        }
+      }
+    },
+    "368622": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "604907444742701941",
+          "size": "6763152",
+          "download": "2130368"
+        }
+      }
+    },
+    "368623": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1668037101218653735",
+          "size": "411051480",
+          "download": "283634624"
+        }
+      }
+    },
+    "368624": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3356593278109884441",
+          "size": "33871689",
+          "download": "10109376"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24077286",
+        "timeupdated": "1783360126",
+        "timebuildupdated": "1783360021"
+      },
+      "v1.033_archive": {
+        "buildid": "7288240",
+        "description": "Old stable build from 2021",
+        "timeupdated": "1630519731",
+        "timebuildupdated": "1630519703"
+      }
+    }
+  }
+}

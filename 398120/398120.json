@@ -1,0 +1,70 @@
+{
+  "name": "AGP::Epica",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:31.920Z",
+  "branches": {
+    "public": {
+      "buildid": "2901740",
+      "timeupdated": "1530191611",
+      "timebuildupdated": "1530176356"
+    },
+    "linuxrollback": {
+      "buildid": "2389903",
+      "description": "Linux Rollback",
+      "timeupdated": "1530390257",
+      "timebuildupdated": "1513861561"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "398121": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1035664680579683320",
+          "size": "5083192403",
+          "download": "4677137264"
+        }
+      }
+    },
+    "398122": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2250438266797134324",
+          "size": "7907175621",
+          "download": "7012790896"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2901740",
+        "timeupdated": "1530191611",
+        "timebuildupdated": "1530176356"
+      },
+      "linuxrollback": {
+        "buildid": "2389903",
+        "description": "Linux Rollback",
+        "timeupdated": "1530390257",
+        "timebuildupdated": "1513861561"
+      }
+    }
+  }
+}

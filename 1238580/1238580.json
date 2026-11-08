@@ -1,0 +1,73 @@
+{
+  "name": "A800",
+  "source": "spectre",
+  "changenumber": 40626479,
+  "updated": "2026-11-06T21:03:49.514Z",
+  "branches": {
+    "public": {
+      "buildid": "20833716",
+      "timeupdated": "1763418555",
+      "timebuildupdated": "1763415584"
+    },
+    "nightly": {
+      "buildid": "26456541",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793877998",
+      "timebuildupdated": "1793877998"
+    }
+  },
+  "depot": {
+    "1238580": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7100585893324316163",
+          "size": "846906",
+          "download": "372224"
+        }
+      },
+      "dlcappid": "1238580"
+    },
+    "1238581": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6522254772196245769",
+          "size": "870926",
+          "download": "288432"
+        }
+      },
+      "dlcappid": "1238580"
+    },
+    "1238582": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1335695704557925541",
+          "size": "1799614",
+          "download": "582768"
+        }
+      },
+      "dlcappid": "1238580"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833716",
+        "timeupdated": "1763418555",
+        "timebuildupdated": "1763415584"
+      },
+      "nightly": {
+        "buildid": "26456541",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793877998",
+        "timebuildupdated": "1793877998"
+      }
+    }
+  }
+}

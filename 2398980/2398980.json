@@ -1,0 +1,70 @@
+{
+  "name": "Avenger Sharks",
+  "source": "spectre",
+  "changenumber": 40643782,
+  "updated": "2026-11-06T23:23:23.715Z",
+  "branches": {
+    "public": {
+      "buildid": "16056801",
+      "timeupdated": "1729024847",
+      "timebuildupdated": "1729024497"
+    },
+    "beta": {
+      "buildid": "16056801",
+      "description": "Beta",
+      "timeupdated": "1729024497",
+      "timebuildupdated": "1729024497"
+    }
+  },
+  "depot": {
+    "2398981": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5368153113828968660",
+          "size": "187407712",
+          "download": "65298224"
+        }
+      }
+    },
+    "2398982": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6191736216970162358",
+          "size": "97477768",
+          "download": "45490128"
+        }
+      }
+    },
+    "2398983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2463181697177431587",
+          "size": "113856744",
+          "download": "49924736"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16056801",
+        "timeupdated": "1729024847",
+        "timebuildupdated": "1729024497"
+      },
+      "beta": {
+        "buildid": "16056801",
+        "description": "Beta",
+        "timeupdated": "1729024497",
+        "timebuildupdated": "1729024497"
+      }
+    }
+  }
+}

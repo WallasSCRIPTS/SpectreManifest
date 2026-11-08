@@ -1,0 +1,118 @@
+{
+  "name": "Cute Bite",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:06:23.155Z",
+  "branches": {
+    "public": {
+      "buildid": "20552648",
+      "timeupdated": "1761534333",
+      "timebuildupdated": "1761531891"
+    },
+    "beta": {
+      "buildid": "20552648",
+      "description": "Beta testing",
+      "timeupdated": "1761531925",
+      "timebuildupdated": "1761531891"
+    },
+    "oldstable": {
+      "buildid": "16157540",
+      "description": "The previous stable version",
+      "timeupdated": "1761534385",
+      "timebuildupdated": "1729723150"
+    }
+  },
+  "depot": {
+    "1586961": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5211805878253672672",
+          "size": "150890551",
+          "download": "109502608"
+        }
+      }
+    },
+    "1586962": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4180026869497604898",
+          "size": "131252719",
+          "download": "104699072"
+        }
+      }
+    },
+    "1586963": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6643526915340624876",
+          "size": "127842095",
+          "download": "103532784"
+        }
+      }
+    },
+    "1586964": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1649600554326160082",
+          "size": "400772",
+          "download": "88016"
+        }
+      }
+    },
+    "1586965": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "887272430335299244",
+          "size": "192417",
+          "download": "78128"
+        }
+      }
+    },
+    "1586966": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4684707501151905224",
+          "size": "420917",
+          "download": "51920"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20552648",
+        "timeupdated": "1761534333",
+        "timebuildupdated": "1761531891"
+      },
+      "beta": {
+        "buildid": "20552648",
+        "description": "Beta testing",
+        "timeupdated": "1761531925",
+        "timebuildupdated": "1761531891"
+      },
+      "oldstable": {
+        "buildid": "16157540",
+        "description": "The previous stable version",
+        "timeupdated": "1761534385",
+        "timebuildupdated": "1729723150"
+      }
+    }
+  }
+}

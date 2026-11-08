@@ -1,0 +1,136 @@
+{
+  "name": "Doom & Destiny Advanced",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:08.825Z",
+  "branches": {
+    "public": {
+      "buildid": "10161115",
+      "timeupdated": "1671277540",
+      "timebuildupdated": "1671182027"
+    },
+    "2.9.6.2_xna": {
+      "buildid": "9999198",
+      "description": "2.9.6.2 xna",
+      "timeupdated": "1671277529",
+      "timebuildupdated": "1669198244"
+    },
+    "opengl": {
+      "buildid": "8308498",
+      "description": "This is a build compatible with the steam deck",
+      "timeupdated": "1646322343",
+      "timebuildupdated": "1646322343"
+    },
+    "previous_stable": {
+      "buildid": "8841096",
+      "description": "The previous known working release",
+      "timeupdated": "1664886841",
+      "timebuildupdated": "1653983498"
+    },
+    "previous_stable2": {
+      "buildid": "7500675",
+      "description": "This is the version that previous stable was before.",
+      "timeupdated": "1664886901",
+      "timebuildupdated": "1633689113"
+    },
+    "public_beta": {
+      "buildid": "10161115",
+      "description": "beta channel",
+      "timeupdated": "1671183123",
+      "timebuildupdated": "1671182027"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "361041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3006306097694393344",
+          "size": "178492937",
+          "download": "173512352"
+        }
+      }
+    },
+    "361042": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1157980461743018650",
+          "size": "76525768",
+          "download": "20299648"
+        }
+      }
+    },
+    "361043": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4451214421891909769",
+          "size": "277144211",
+          "download": "131960032"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10161115",
+        "timeupdated": "1671277540",
+        "timebuildupdated": "1671182027"
+      },
+      "2.9.6.2_xna": {
+        "buildid": "9999198",
+        "description": "2.9.6.2 xna",
+        "timeupdated": "1671277529",
+        "timebuildupdated": "1669198244"
+      },
+      "opengl": {
+        "buildid": "8308498",
+        "description": "This is a build compatible with the steam deck",
+        "timeupdated": "1646322343",
+        "timebuildupdated": "1646322343"
+      },
+      "previous_stable": {
+        "buildid": "8841096",
+        "description": "The previous known working release",
+        "timeupdated": "1664886841",
+        "timebuildupdated": "1653983498"
+      },
+      "previous_stable2": {
+        "buildid": "7500675",
+        "description": "This is the version that previous stable was before.",
+        "timeupdated": "1664886901",
+        "timebuildupdated": "1633689113"
+      },
+      "public_beta": {
+        "buildid": "10161115",
+        "description": "beta channel",
+        "timeupdated": "1671183123",
+        "timebuildupdated": "1671182027"
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "F8S",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:28.559Z",
+  "branches": {
+    "public": {
+      "buildid": "5019903",
+      "timeupdated": "1589357739",
+      "timebuildupdated": "1589357739"
+    },
+    "macosx": {
+      "buildid": "3576083",
+      "description": "Per Mac",
+      "timeupdated": "1550614186",
+      "timebuildupdated": "1550614186"
+    }
+  },
+  "depot": {
+    "1014471": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7656796760083411538",
+          "size": "814419183",
+          "download": "455395568"
+        }
+      }
+    },
+    "1014472": {},
+    "1014473": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5448651241021420695",
+          "size": "1128533305",
+          "download": "455262416"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5019903",
+        "timeupdated": "1589357739",
+        "timebuildupdated": "1589357739"
+      },
+      "macosx": {
+        "buildid": "3576083",
+        "description": "Per Mac",
+        "timeupdated": "1550614186",
+        "timebuildupdated": "1550614186"
+      }
+    }
+  }
+}

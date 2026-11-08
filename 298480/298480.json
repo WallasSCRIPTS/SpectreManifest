@@ -1,0 +1,78 @@
+{
+  "name": "Victory At Sea",
+  "source": "spectre",
+  "changenumber": 35317853,
+  "updated": "2026-11-07T20:56:29.707Z",
+  "branches": {
+    "public": {
+      "buildid": "834641",
+      "timebuildupdated": "1446042474"
+    },
+    "linuxtest": {
+      "buildid": "677947",
+      "description": "Linux Testing",
+      "timebuildupdated": "1435663772"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "298481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4636512304203634593",
+          "size": "1230633299",
+          "download": "410478016"
+        }
+      }
+    },
+    "298482": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2577044910694442733",
+          "size": "1227738920",
+          "download": "411883792"
+        }
+      }
+    },
+    "298483": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2629338311030021075",
+          "size": "1226822944",
+          "download": "412325168"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "834641",
+        "timebuildupdated": "1446042474"
+      },
+      "linuxtest": {
+        "buildid": "677947",
+        "description": "Linux Testing",
+        "timebuildupdated": "1435663772"
+      }
+    }
+  }
+}

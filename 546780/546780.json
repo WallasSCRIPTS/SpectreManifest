@@ -1,0 +1,106 @@
+{
+  "name": "Anomalies",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:40.313Z",
+  "branches": {
+    "public": {
+      "buildid": "21560609",
+      "timeupdated": "1769104150",
+      "timebuildupdated": "1768857507"
+    },
+    "demo": {
+      "buildid": "2462524",
+      "timeupdated": "1516739886",
+      "timebuildupdated": "1516739886"
+    },
+    "legacy": {
+      "buildid": "2406802",
+      "timeupdated": "1514855788",
+      "timebuildupdated": "1514855788"
+    },
+    "testing": {
+      "buildid": "21560609",
+      "description": "Test before making default",
+      "timeupdated": "1768857559",
+      "timebuildupdated": "1768857507"
+    }
+  },
+  "depot": {
+    "546781": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8856168411372389614",
+          "size": "464027582",
+          "download": "242167280"
+        }
+      }
+    },
+    "546782": {
+      "manifests": {
+        "public": {
+          "gid": "2451160273496546064",
+          "size": "461706623",
+          "download": "238872976"
+        }
+      }
+    },
+    "546783": {},
+    "665990": {
+      "manifests": {
+        "public": {
+          "gid": "7060610812493822629",
+          "size": "31815553",
+          "download": "2775488"
+        }
+      },
+      "dlcappid": "665990"
+    },
+    "696340": {
+      "manifests": {
+        "public": {
+          "gid": "4246551070348581335",
+          "size": "309998061",
+          "download": "235084352"
+        }
+      },
+      "dlcappid": "696340"
+    },
+    "4349730": {
+      "manifests": {
+        "public": {
+          "gid": "8220486042642509966",
+          "size": "34037826",
+          "download": "9645840"
+        }
+      },
+      "dlcappid": "4349730"
+    },
+    "branches": {
+      "public": {
+        "buildid": "21560609",
+        "timeupdated": "1769104150",
+        "timebuildupdated": "1768857507"
+      },
+      "demo": {
+        "buildid": "2462524",
+        "timeupdated": "1516739886",
+        "timebuildupdated": "1516739886"
+      },
+      "legacy": {
+        "buildid": "2406802",
+        "timeupdated": "1514855788",
+        "timebuildupdated": "1514855788"
+      },
+      "testing": {
+        "buildid": "21560609",
+        "description": "Test before making default",
+        "timeupdated": "1768857559",
+        "timebuildupdated": "1768857507"
+      }
+    }
+  }
+}

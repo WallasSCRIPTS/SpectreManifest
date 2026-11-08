@@ -1,0 +1,59 @@
+{
+  "name": "Perpetuum",
+  "source": "spectre",
+  "changenumber": 40315868,
+  "updated": "2026-11-07T20:56:05.840Z",
+  "branches": {
+    "public": {
+      "buildid": "26115841",
+      "timeupdated": "1792611860",
+      "timebuildupdated": "1792611816"
+    },
+    "test": {
+      "buildid": "26115841",
+      "description": "Test (staging) client",
+      "timeupdated": "1792611860",
+      "timebuildupdated": "1792611816"
+    }
+  },
+  "depot": {
+    "223411": {
+      "manifests": {
+        "public": {
+          "gid": "9131513160643185671",
+          "size": "2028477644",
+          "download": "990142864"
+        }
+      }
+    },
+    "223412": {
+      "manifests": {
+        "public": {
+          "gid": "1917872201592225768",
+          "size": "1441169119",
+          "download": "1451069536"
+        }
+      },
+      "dlcappid": "426281"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26115841",
+        "timeupdated": "1792611860",
+        "timebuildupdated": "1792611816"
+      },
+      "test": {
+        "buildid": "26115841",
+        "description": "Test (staging) client",
+        "timeupdated": "1792611860",
+        "timebuildupdated": "1792611816"
+      }
+    }
+  }
+}

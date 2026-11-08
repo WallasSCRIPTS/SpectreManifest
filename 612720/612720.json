@@ -1,0 +1,88 @@
+{
+  "name": "SAELIG",
+  "source": "spectre",
+  "changenumber": 40388768,
+  "updated": "2026-11-07T20:59:15.446Z",
+  "branches": {
+    "public": {
+      "buildid": "25293360",
+      "timeupdated": "1789428149",
+      "timebuildupdated": "1789364871"
+    },
+    "debug": {
+      "buildid": "24829503",
+      "description": "debugging scrolling",
+      "timeupdated": "1787389970",
+      "timebuildupdated": "1787187013"
+    },
+    "testbuilds": {
+      "buildid": "26179249",
+      "description": "test builds",
+      "timeupdated": "1792829788",
+      "timebuildupdated": "1792829788"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "612721": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8430777885796143750",
+          "size": "15121057101",
+          "download": "6587699664"
+        }
+      }
+    },
+    "612723": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "821560541674832874",
+          "size": "15272984022",
+          "download": "6488206720"
+        }
+      }
+    },
+    "612724": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2431309280012414521",
+          "size": "15285240922",
+          "download": "6507928592"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25293360",
+        "timeupdated": "1789428149",
+        "timebuildupdated": "1789364871"
+      },
+      "debug": {
+        "buildid": "24829503",
+        "description": "debugging scrolling",
+        "timeupdated": "1787389970",
+        "timebuildupdated": "1787187013"
+      },
+      "testbuilds": {
+        "buildid": "26179249",
+        "description": "test builds",
+        "timeupdated": "1792829788",
+        "timebuildupdated": "1792829788"
+      }
+    }
+  }
+}

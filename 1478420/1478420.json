@@ -1,0 +1,103 @@
+{
+  "name": "Poco In Dungeon",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:34.227Z",
+  "branches": {
+    "public": {
+      "buildid": "6013398",
+      "timeupdated": "1608886934",
+      "timebuildupdated": "1608886777"
+    },
+    "version1.00": {
+      "buildid": "5994908",
+      "description": "Version 1.00 Initial release version",
+      "timeupdated": "1608700870",
+      "timebuildupdated": "1608490657"
+    },
+    "version1.01": {
+      "buildid": "6005472",
+      "description": "Version 1.01 Removed takedown(when unarmed))",
+      "timeupdated": "1608712662",
+      "timebuildupdated": "1608694739"
+    },
+    "version1.02": {
+      "buildid": "6006266",
+      "description": "Version 1.02 Fixed flying animations.",
+      "timeupdated": "1608737827",
+      "timebuildupdated": "1608712287"
+    },
+    "version1.03": {
+      "buildid": "6007735",
+      "description": "Version 1.03 Minor corrections.",
+      "timeupdated": "1608784722",
+      "timebuildupdated": "1608737317"
+    },
+    "version1.04": {
+      "buildid": "6009877",
+      "description": "Version 1.04 Prohibited flying while aiming with weapon.",
+      "timeupdated": "1608870334",
+      "timebuildupdated": "1608777649"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1478421": {
+      "manifests": {
+        "public": {
+          "gid": "8059431168348116254",
+          "size": "2812862653",
+          "download": "2162647936"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6013398",
+        "timeupdated": "1608886934",
+        "timebuildupdated": "1608886777"
+      },
+      "version1.00": {
+        "buildid": "5994908",
+        "description": "Version 1.00 Initial release version",
+        "timeupdated": "1608700870",
+        "timebuildupdated": "1608490657"
+      },
+      "version1.01": {
+        "buildid": "6005472",
+        "description": "Version 1.01 Removed takedown(when unarmed))",
+        "timeupdated": "1608712662",
+        "timebuildupdated": "1608694739"
+      },
+      "version1.02": {
+        "buildid": "6006266",
+        "description": "Version 1.02 Fixed flying animations.",
+        "timeupdated": "1608737827",
+        "timebuildupdated": "1608712287"
+      },
+      "version1.03": {
+        "buildid": "6007735",
+        "description": "Version 1.03 Minor corrections.",
+        "timeupdated": "1608784722",
+        "timebuildupdated": "1608737317"
+      },
+      "version1.04": {
+        "buildid": "6009877",
+        "description": "Version 1.04 Prohibited flying while aiming with weapon.",
+        "timeupdated": "1608870334",
+        "timebuildupdated": "1608777649"
+      }
+    }
+  }
+}

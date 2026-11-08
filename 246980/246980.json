@@ -1,0 +1,86 @@
+{
+  "name": "InFlux",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:11.220Z",
+  "branches": {
+    "public": {
+      "buildid": "289738",
+      "timebuildupdated": "1401940651"
+    },
+    "beta": {
+      "buildid": "121800",
+      "timebuildupdated": "1380696246"
+    },
+    "local": {
+      "buildid": "289680",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1401935316"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229000": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "246981": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8241552407730058344",
+          "size": "1005361108",
+          "download": "0"
+        }
+      }
+    },
+    "246982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5574135960212955721",
+          "size": "1211736888",
+          "download": "0"
+        }
+      }
+    },
+    "278720": {
+      "manifests": {
+        "public": {
+          "gid": "4849907674748109322",
+          "size": "140809364",
+          "download": "0"
+        }
+      },
+      "dlcappid": "278720"
+    },
+    "branches": {
+      "public": {
+        "buildid": "289738",
+        "timebuildupdated": "1401940651"
+      },
+      "beta": {
+        "buildid": "121800",
+        "timebuildupdated": "1380696246"
+      },
+      "local": {
+        "buildid": "289680",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1401935316"
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "name": "RuneScape",
+  "source": "spectre",
+  "changenumber": 40616040,
+  "updated": "2026-11-06T21:04:33.762Z",
+  "branches": {
+    "public": {
+      "buildid": "25878647",
+      "timeupdated": "1792488255",
+      "timebuildupdated": "1791796583"
+    },
+    "vulkan": {
+      "buildid": "24730611",
+      "description": "Vulkan Beta Build",
+      "timeupdated": "1786697334",
+      "timebuildupdated": "1786697334"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1343401": {
+      "manifests": {
+        "public": {
+          "gid": "5342684545327199526",
+          "size": "21568407",
+          "download": "9175552"
+        }
+      }
+    },
+    "1343402": {
+      "manifests": {
+        "public": {
+          "gid": "6409540644540252883",
+          "size": "3993432064",
+          "download": "3840693776"
+        }
+      }
+    },
+    "1343403": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25878647",
+        "timeupdated": "1792488255",
+        "timebuildupdated": "1791796583"
+      },
+      "vulkan": {
+        "buildid": "24730611",
+        "description": "Vulkan Beta Build",
+        "timeupdated": "1786697334",
+        "timebuildupdated": "1786697334"
+      }
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "name": "Ogre",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:27.610Z",
+  "branches": {
+    "public": {
+      "buildid": "20271494",
+      "timeupdated": "1759928509",
+      "timebuildupdated": "1759759788"
+    },
+    "osx32bit": {
+      "buildid": "6468100",
+      "description": "OSX 32 bit build",
+      "timeupdated": "1617180799",
+      "timebuildupdated": "1617180799"
+    },
+    "osx64bit": {
+      "buildid": "7022869",
+      "description": "OSX 64 bit build",
+      "timeupdated": "1626189508",
+      "timebuildupdated": "1626189508"
+    },
+    "win32bit": {
+      "buildid": "6475694",
+      "description": "Windows 32 bit build",
+      "timeupdated": "1617276857",
+      "timebuildupdated": "1617276857"
+    },
+    "win64bit": {
+      "buildid": "6932815",
+      "description": "Windows 64 bit build",
+      "timeupdated": "1624619852",
+      "timebuildupdated": "1624619852"
+    }
+  },
+  "depot": {
+    "517781": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "352850207119984870",
+          "size": "709339570",
+          "download": "175502512"
+        }
+      }
+    },
+    "517782": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7261268449785138138",
+          "size": "710913888",
+          "download": "176108528"
+        }
+      }
+    },
+    "677090": {
+      "manifests": {
+        "public": {
+          "gid": "6016215009350624057",
+          "size": "180961651",
+          "download": "160713408"
+        }
+      },
+      "dlcappid": "677090"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20271494",
+        "timeupdated": "1759928509",
+        "timebuildupdated": "1759759788"
+      },
+      "osx32bit": {
+        "buildid": "6468100",
+        "description": "OSX 32 bit build",
+        "timeupdated": "1617180799",
+        "timebuildupdated": "1617180799"
+      },
+      "osx64bit": {
+        "buildid": "7022869",
+        "description": "OSX 64 bit build",
+        "timeupdated": "1626189508",
+        "timebuildupdated": "1626189508"
+      },
+      "win32bit": {
+        "buildid": "6475694",
+        "description": "Windows 32 bit build",
+        "timeupdated": "1617276857",
+        "timebuildupdated": "1617276857"
+      },
+      "win64bit": {
+        "buildid": "6932815",
+        "description": "Windows 64 bit build",
+        "timeupdated": "1624619852",
+        "timebuildupdated": "1624619852"
+      }
+    }
+  }
+}

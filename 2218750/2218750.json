@@ -1,0 +1,88 @@
+{
+  "name": "Halls of Torment",
+  "source": "spectre",
+  "changenumber": 40574565,
+  "updated": "2026-11-06T23:19:32.553Z",
+  "branches": {
+    "public": {
+      "buildid": "26295339",
+      "timeupdated": "1793272680",
+      "timebuildupdated": "1793272313"
+    },
+    "experimental": {
+      "buildid": "26295339",
+      "description": "testing out few essential changes ahead of the time",
+      "timeupdated": "1793272473",
+      "timebuildupdated": "1793272313"
+    }
+  },
+  "depot": {
+    "2218751": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6382607342581763793",
+          "size": "1950409451",
+          "download": "696629856"
+        }
+      }
+    },
+    "2218752": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6017894764400575895",
+          "size": "1961067645",
+          "download": "700410672"
+        }
+      }
+    },
+    "3386980": {
+      "manifests": {
+        "public": {
+          "gid": "1775018805153484429",
+          "size": "251557936",
+          "download": "61288800"
+        }
+      },
+      "dlcappid": "3386980"
+    },
+    "3919420": {
+      "manifests": {
+        "public": {
+          "gid": "9013299381781877910",
+          "size": "384158624",
+          "download": "103969744"
+        }
+      },
+      "dlcappid": "3919420"
+    },
+    "4100210": {
+      "manifests": {
+        "public": {
+          "gid": "752817139926842921",
+          "size": "397087136",
+          "download": "93010144"
+        }
+      },
+      "dlcappid": "4100210"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26295339",
+        "timeupdated": "1793272680",
+        "timebuildupdated": "1793272313"
+      },
+      "experimental": {
+        "buildid": "26295339",
+        "description": "testing out few essential changes ahead of the time",
+        "timeupdated": "1793272473",
+        "timebuildupdated": "1793272313"
+      }
+    }
+  }
+}

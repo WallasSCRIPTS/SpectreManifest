@@ -1,0 +1,94 @@
+{
+  "name": "The Caribbean Sail",
+  "source": "spectre",
+  "changenumber": 37436921,
+  "updated": "2026-11-07T20:59:34.132Z",
+  "branches": {
+    "public": {
+      "buildid": "19378294",
+      "timeupdated": "1753662645",
+      "timebuildupdated": "1753662645"
+    },
+    "classic": {
+      "buildid": "2483071",
+      "description": "The complete classic V1.5.8.5",
+      "timeupdated": "1520975716",
+      "timebuildupdated": "1517349388"
+    },
+    "mac_offline": {
+      "buildid": "2951127",
+      "description": "an offline mac build",
+      "timeupdated": "1531797795",
+      "timebuildupdated": "1531797795"
+    },
+    "win11": {
+      "buildid": "13851739",
+      "description": "Windows 11 - GameMaker 2 Export",
+      "timeupdated": "1711419629",
+      "timebuildupdated": "1711419629"
+    }
+  },
+  "depot": {
+    "657691": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4388243398019828665",
+          "size": "253460834",
+          "download": "184635904"
+        }
+      }
+    },
+    "657692": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5700147118671406633",
+          "size": "252512648",
+          "download": "174565040"
+        }
+      }
+    },
+    "657693": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5408663699892319910",
+          "size": "245124807",
+          "download": "166970048"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19378294",
+        "timeupdated": "1753662645",
+        "timebuildupdated": "1753662645"
+      },
+      "classic": {
+        "buildid": "2483071",
+        "description": "The complete classic V1.5.8.5",
+        "timeupdated": "1520975716",
+        "timebuildupdated": "1517349388"
+      },
+      "mac_offline": {
+        "buildid": "2951127",
+        "description": "an offline mac build",
+        "timeupdated": "1531797795",
+        "timebuildupdated": "1531797795"
+      },
+      "win11": {
+        "buildid": "13851739",
+        "description": "Windows 11 - GameMaker 2 Export",
+        "timeupdated": "1711419629",
+        "timebuildupdated": "1711419629"
+      }
+    }
+  }
+}

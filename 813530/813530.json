@@ -1,0 +1,56 @@
+{
+  "name": "FPV Freerider Recharged",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:53.695Z",
+  "branches": {
+    "public": {
+      "buildid": "6501092",
+      "timeupdated": "1617790108",
+      "timebuildupdated": "1617787675"
+    },
+    "beta": {
+      "buildid": "3318326",
+      "timeupdated": "1542566864",
+      "timebuildupdated": "1542566793"
+    }
+  },
+  "depot": {
+    "813531": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1946778578826079469",
+          "size": "1186081664",
+          "download": "487304880"
+        }
+      }
+    },
+    "813532": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1482683252388657273",
+          "size": "1239804108",
+          "download": "506386272"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6501092",
+        "timeupdated": "1617790108",
+        "timebuildupdated": "1617787675"
+      },
+      "beta": {
+        "buildid": "3318326",
+        "timeupdated": "1542566864",
+        "timebuildupdated": "1542566793"
+      }
+    }
+  }
+}

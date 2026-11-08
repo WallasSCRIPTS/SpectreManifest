@@ -1,0 +1,59 @@
+{
+  "name": "Wacky Wheels",
+  "source": "spectre",
+  "changenumber": 39531776,
+  "updated": "2026-11-07T20:57:07.631Z",
+  "branches": {
+    "public": {
+      "buildid": "606170",
+      "timebuildupdated": "1430316438"
+    }
+  },
+  "depot": {
+    "358282": {
+      "depotfromapp": "358280"
+    },
+    "358381": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "185284526801152816",
+          "size": "38856582",
+          "download": "14601840"
+        }
+      }
+    },
+    "358382": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3698624388476794566",
+          "size": "17144414",
+          "download": "5953600"
+        }
+      }
+    },
+    "358383": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7625666206657946328",
+          "size": "18779212",
+          "download": "6651264"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "606170",
+        "timebuildupdated": "1430316438"
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Tetsumo Party",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:24.297Z",
+  "branches": {
+    "public": {
+      "buildid": "4065785",
+      "timeupdated": "1564667765",
+      "timebuildupdated": "1564666848"
+    },
+    "beta": {
+      "buildid": "4087150",
+      "description": "Automatic beta builds",
+      "timeupdated": "1565275241",
+      "timebuildupdated": "1565275241"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1006121": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1218191187505437847",
+          "size": "305999999",
+          "download": "56087216"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4065785",
+        "timeupdated": "1564667765",
+        "timebuildupdated": "1564666848"
+      },
+      "beta": {
+        "buildid": "4087150",
+        "description": "Automatic beta builds",
+        "timeupdated": "1565275241",
+        "timebuildupdated": "1565275241"
+      }
+    }
+  }
+}

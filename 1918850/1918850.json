@@ -1,0 +1,70 @@
+{
+  "name": "Sleepytime Village",
+  "source": "spectre",
+  "changenumber": 40453429,
+  "updated": "2026-11-06T23:13:30.986Z",
+  "branches": {
+    "public": {
+      "buildid": "26344167",
+      "timeupdated": "1793443720",
+      "timebuildupdated": "1793443541"
+    },
+    "beta": {
+      "buildid": "26160434",
+      "description": "testing",
+      "timeupdated": "1792759700",
+      "timebuildupdated": "1792759351"
+    }
+  },
+  "depot": {
+    "1918851": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2866319858099446424",
+          "size": "8156523310",
+          "download": "2081423296"
+        }
+      }
+    },
+    "1918852": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "424836168368195002",
+          "size": "8178626762",
+          "download": "2090241360"
+        }
+      }
+    },
+    "1918853": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4475540704626313869",
+          "size": "8153883751",
+          "download": "2079925856"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26344167",
+        "timeupdated": "1793443720",
+        "timebuildupdated": "1793443541"
+      },
+      "beta": {
+        "buildid": "26160434",
+        "description": "testing",
+        "timeupdated": "1792759700",
+        "timebuildupdated": "1792759351"
+      }
+    }
+  }
+}

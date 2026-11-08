@@ -1,0 +1,67 @@
+{
+  "name": "Wild Romance",
+  "source": "spectre",
+  "changenumber": 39328591,
+  "updated": "2026-11-07T20:58:15.150Z",
+  "branches": {
+    "public": {
+      "buildid": "8350188",
+      "timeupdated": "1669149312",
+      "timebuildupdated": "1646948330"
+    },
+    "classic": {
+      "buildid": "1366293",
+      "description": "Original 2016 release version",
+      "timeupdated": "1634683781",
+      "timebuildupdated": "1475217458"
+    }
+  },
+  "depot": {
+    "493451": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3826677353232150288",
+          "size": "704968983",
+          "download": "499465536"
+        }
+      }
+    },
+    "493452": {
+      "manifests": {
+        "public": {
+          "gid": "7283064544130740093",
+          "size": "564150284",
+          "download": "543049088"
+        }
+      }
+    },
+    "493453": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8427288389004490047",
+          "size": "965936507",
+          "download": "901771088"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8350188",
+        "timeupdated": "1669149312",
+        "timebuildupdated": "1646948330"
+      },
+      "classic": {
+        "buildid": "1366293",
+        "description": "Original 2016 release version",
+        "timeupdated": "1634683781",
+        "timebuildupdated": "1475217458"
+      }
+    }
+  }
+}

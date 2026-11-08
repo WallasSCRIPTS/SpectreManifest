@@ -1,0 +1,90 @@
+{
+  "name": "Super Arcade Racing",
+  "source": "spectre",
+  "changenumber": 37441117,
+  "updated": "2026-11-07T21:03:19.425Z",
+  "branches": {
+    "public": {
+      "buildid": "12403814",
+      "timeupdated": "1697451229",
+      "timebuildupdated": "1696944788"
+    },
+    "beta": {
+      "buildid": "12403814",
+      "timeupdated": "1697451255",
+      "timebuildupdated": "1696944788"
+    },
+    "nosdl": {
+      "buildid": "10078448",
+      "description": "win32 only version pre-sdl",
+      "timeupdated": "1705315067",
+      "timebuildupdated": "1670230084"
+    },
+    "prev": {
+      "buildid": "5328578",
+      "timeupdated": "1604508663",
+      "timebuildupdated": "1595603705"
+    }
+  },
+  "depot": {
+    "1103771": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1686738196498773225",
+          "size": "58254517",
+          "download": "6489200"
+        }
+      }
+    },
+    "1103772": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9158408850261607361",
+          "size": "61314294",
+          "download": "7533040"
+        }
+      }
+    },
+    "1103773": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6836136469603728995",
+          "size": "57934871",
+          "download": "6396128"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12403814",
+        "timeupdated": "1697451229",
+        "timebuildupdated": "1696944788"
+      },
+      "beta": {
+        "buildid": "12403814",
+        "timeupdated": "1697451255",
+        "timebuildupdated": "1696944788"
+      },
+      "nosdl": {
+        "buildid": "10078448",
+        "description": "win32 only version pre-sdl",
+        "timeupdated": "1705315067",
+        "timebuildupdated": "1670230084"
+      },
+      "prev": {
+        "buildid": "5328578",
+        "timeupdated": "1604508663",
+        "timebuildupdated": "1595603705"
+      }
+    }
+  }
+}

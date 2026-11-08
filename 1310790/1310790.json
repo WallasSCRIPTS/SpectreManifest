@@ -1,0 +1,51 @@
+{
+  "name": "The Adventures of Eggbert",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-06T21:04:21.427Z",
+  "branches": {
+    "public": {
+      "buildid": "17299409",
+      "timeupdated": "1739127633",
+      "timebuildupdated": "1739127597"
+    },
+    "beta": {
+      "buildid": "24246685",
+      "description": "Beta of the next major update",
+      "timeupdated": "1784231924",
+      "timebuildupdated": "1784231924"
+    }
+  },
+  "depot": {
+    "1310791": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5562264351554843639",
+          "size": "6124141",
+          "download": "2942512"
+        }
+      }
+    },
+    "1310792": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17299409",
+        "timeupdated": "1739127633",
+        "timebuildupdated": "1739127597"
+      },
+      "beta": {
+        "buildid": "24246685",
+        "description": "Beta of the next major update",
+        "timeupdated": "1784231924",
+        "timebuildupdated": "1784231924"
+      }
+    }
+  }
+}

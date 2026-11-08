@@ -1,0 +1,58 @@
+{
+  "name": "Richie's Plank Experience",
+  "source": "spectre",
+  "changenumber": 39132436,
+  "updated": "2026-11-07T20:58:27.254Z",
+  "branches": {
+    "public": {
+      "buildid": "25362784",
+      "timeupdated": "1789628398",
+      "timebuildupdated": "1789628398"
+    },
+    "beta": {
+      "buildid": "24940231",
+      "description": "Test channel",
+      "timeupdated": "1787708275",
+      "timebuildupdated": "1787708275"
+    }
+  },
+  "depot": {
+    "517161": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1397074661967096260",
+          "size": "2056458548",
+          "download": "838806016"
+        }
+      }
+    },
+    "517163": {
+      "config": {
+        "oslist": "android"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2567874118882935902",
+          "size": "1050300978",
+          "download": "911841376"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25362784",
+        "timeupdated": "1789628398",
+        "timebuildupdated": "1789628398"
+      },
+      "beta": {
+        "buildid": "24940231",
+        "description": "Test channel",
+        "timeupdated": "1787708275",
+        "timebuildupdated": "1787708275"
+      }
+    }
+  }
+}

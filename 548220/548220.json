@@ -1,0 +1,88 @@
+{
+  "name": "Paladin",
+  "source": "spectre",
+  "changenumber": 34833653,
+  "updated": "2026-11-07T20:58:41.075Z",
+  "branches": {
+    "public": {
+      "buildid": "3042441",
+      "timeupdated": "1534536283",
+      "timebuildupdated": "1534533974"
+    },
+    "beta1": {
+      "buildid": "1703362",
+      "description": "Public Beta",
+      "timeupdated": "1490041038",
+      "timebuildupdated": "1490041007"
+    },
+    "development": {
+      "buildid": "3042441",
+      "description": "Pre-release development",
+      "timeupdated": "1534534036",
+      "timebuildupdated": "1534533974"
+    }
+  },
+  "depot": {
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "548221": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "782173808409560989",
+          "size": "169340512",
+          "download": "61089264"
+        }
+      }
+    },
+    "548222": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7428559111296155412",
+          "size": "214903577",
+          "download": "74422224"
+        }
+      }
+    },
+    "548223": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6950506179152514970",
+          "size": "189602810",
+          "download": "66806784"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3042441",
+        "timeupdated": "1534536283",
+        "timebuildupdated": "1534533974"
+      },
+      "beta1": {
+        "buildid": "1703362",
+        "description": "Public Beta",
+        "timeupdated": "1490041038",
+        "timebuildupdated": "1490041007"
+      },
+      "development": {
+        "buildid": "3042441",
+        "description": "Pre-release development",
+        "timeupdated": "1534534036",
+        "timebuildupdated": "1534533974"
+      }
+    }
+  }
+}

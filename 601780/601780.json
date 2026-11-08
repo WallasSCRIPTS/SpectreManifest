@@ -1,0 +1,64 @@
+{
+  "name": "VoiceWarrior",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:10.346Z",
+  "branches": {
+    "public": {
+      "buildid": "2664045",
+      "timeupdated": "1522962073",
+      "timebuildupdated": "1522961972"
+    },
+    "beta": {
+      "buildid": "2664045",
+      "timeupdated": "1522962009",
+      "timebuildupdated": "1522961972"
+    },
+    "local": {
+      "buildid": "1655760",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1487996142",
+      "timebuildupdated": "1487996142"
+    }
+  },
+  "depot": {
+    "229005": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "601781": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "35442178021903570",
+          "size": "60189671",
+          "download": "10619968"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2664045",
+        "timeupdated": "1522962073",
+        "timebuildupdated": "1522961972"
+      },
+      "beta": {
+        "buildid": "2664045",
+        "timeupdated": "1522962009",
+        "timebuildupdated": "1522961972"
+      },
+      "local": {
+        "buildid": "1655760",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1487996142",
+        "timebuildupdated": "1487996142"
+      }
+    }
+  }
+}

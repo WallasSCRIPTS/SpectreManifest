@@ -1,0 +1,75 @@
+{
+  "name": "forma.8",
+  "source": "spectre",
+  "changenumber": 39582761,
+  "updated": "2026-11-07T20:58:23.735Z",
+  "branches": {
+    "public": {
+      "buildid": "1810055",
+      "timeupdated": "1511188467",
+      "timebuildupdated": "1494346473"
+    },
+    "beta": {
+      "buildid": "3075065",
+      "timeupdated": "1535563049",
+      "timebuildupdated": "1535562898"
+    },
+    "press": {
+      "buildid": "1810055",
+      "timeupdated": "1511188479",
+      "timebuildupdated": "1494346473"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "510241": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1858514944513132886",
+          "size": "579661212",
+          "download": "337185488"
+        }
+      }
+    },
+    "510242": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8306929886925546343",
+          "size": "615961745",
+          "download": "348257712"
+        }
+      }
+    },
+    "933780": {
+      "dlcappid": "933780"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1810055",
+        "timeupdated": "1511188467",
+        "timebuildupdated": "1494346473"
+      },
+      "beta": {
+        "buildid": "3075065",
+        "timeupdated": "1535563049",
+        "timebuildupdated": "1535562898"
+      },
+      "press": {
+        "buildid": "1810055",
+        "timeupdated": "1511188479",
+        "timebuildupdated": "1494346473"
+      }
+    }
+  }
+}

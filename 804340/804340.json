@@ -1,0 +1,127 @@
+{
+  "name": "Sable's Grimoire Demo",
+  "source": "spectre",
+  "changenumber": 34839133,
+  "updated": "2026-11-07T21:00:49.729Z",
+  "branches": {
+    "public": {
+      "buildid": "22221254",
+      "timeupdated": "1772763919",
+      "timebuildupdated": "1772753593"
+    },
+    "oldstable": {
+      "buildid": "10235793",
+      "description": "Old stable build - use if default build is broken",
+      "timeupdated": "1772763869",
+      "timebuildupdated": "1672463648"
+    },
+    "testing": {
+      "buildid": "22221254",
+      "description": "Beta builds",
+      "timeupdated": "1772757719",
+      "timebuildupdated": "1772753593"
+    },
+    "win7": {
+      "buildid": "10235793",
+      "description": "Windows 7 and 8 builds",
+      "timeupdated": "1772669748",
+      "timebuildupdated": "1672463648"
+    }
+  },
+  "depot": {
+    "804341": {
+      "manifests": {
+        "public": {
+          "gid": "8380250202584545681",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "804342": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3798238079530659201",
+          "size": "228646662",
+          "download": "174244096"
+        }
+      }
+    },
+    "804343": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3026087443056568228",
+          "size": "251519611",
+          "download": "182530016"
+        }
+      }
+    },
+    "804344": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1257533652649439869",
+          "size": "255810080",
+          "download": "183662112"
+        }
+      }
+    },
+    "804345": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8590244609575203229",
+          "size": "244234139",
+          "download": "179812944"
+        }
+      }
+    },
+    "804346": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1758723414649666532",
+          "size": "271284488",
+          "download": "190768672"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22221254",
+        "timeupdated": "1772763919",
+        "timebuildupdated": "1772753593"
+      },
+      "oldstable": {
+        "buildid": "10235793",
+        "description": "Old stable build - use if default build is broken",
+        "timeupdated": "1772763869",
+        "timebuildupdated": "1672463648"
+      },
+      "testing": {
+        "buildid": "22221254",
+        "description": "Beta builds",
+        "timeupdated": "1772757719",
+        "timebuildupdated": "1772753593"
+      },
+      "win7": {
+        "buildid": "10235793",
+        "description": "Windows 7 and 8 builds",
+        "timeupdated": "1772669748",
+        "timebuildupdated": "1672463648"
+      }
+    }
+  }
+}

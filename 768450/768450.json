@@ -1,0 +1,51 @@
+{
+  "name": "NUTS",
+  "source": "spectre",
+  "changenumber": 37437721,
+  "updated": "2026-11-07T21:00:32.753Z",
+  "branches": {
+    "public": {
+      "buildid": "6230374",
+      "timeupdated": "1613130540",
+      "timebuildupdated": "1613130066"
+    }
+  },
+  "depot": {
+    "768452": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7574717096259620370",
+          "size": "1715238706",
+          "download": "339453232"
+        }
+      }
+    },
+    "768453": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8678238403793561296",
+          "size": "1711718935",
+          "download": "336234032"
+        }
+      }
+    },
+    "768454": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6230374",
+        "timeupdated": "1613130540",
+        "timebuildupdated": "1613130066"
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Manifest 99",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:37.457Z",
+  "branches": {
+    "public": {
+      "buildid": "3196924",
+      "timeupdated": "1542046048",
+      "timebuildupdated": "1539110559"
+    },
+    "tobiieyetracking": {
+      "buildid": "3196924",
+      "description": "Tobii Branch",
+      "timeupdated": "1539110559",
+      "timebuildupdated": "1539110559"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "664451": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2454721757204865761",
+          "size": "2935604745",
+          "download": "783183216"
+        }
+      }
+    },
+    "664452": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "664453": {
+      "manifests": {
+        "public": {
+          "gid": "73386124234330027",
+          "size": "36373113",
+          "download": "24986704"
+        }
+      },
+      "dlcappid": "822170"
+    },
+    "branches": {
+      "public": {
+        "buildid": "3196924",
+        "timeupdated": "1542046048",
+        "timebuildupdated": "1539110559"
+      },
+      "tobiieyetracking": {
+        "buildid": "3196924",
+        "description": "Tobii Branch",
+        "timeupdated": "1539110559",
+        "timebuildupdated": "1539110559"
+      }
+    }
+  }
+}

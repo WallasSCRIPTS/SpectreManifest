@@ -1,0 +1,76 @@
+{
+  "name": "DiggerOnline",
+  "source": "spectre",
+  "changenumber": 40543386,
+  "updated": "2026-11-07T20:56:21.174Z",
+  "branches": {
+    "public": {
+      "buildid": "26135818",
+      "timeupdated": "1792679090",
+      "timebuildupdated": "1792678942"
+    },
+    "classic": {
+      "buildid": "21952226",
+      "description": "Классическая версия игры",
+      "timeupdated": "1771250616",
+      "timebuildupdated": "1771250535"
+    },
+    "newworld": {
+      "buildid": "26135818",
+      "description": "Бета нового мира",
+      "timeupdated": "1792679054",
+      "timebuildupdated": "1792678942"
+    },
+    "preview": {
+      "buildid": "23237735",
+      "description": "Превью версия будущего обноволения",
+      "timeupdated": "1778776793",
+      "timebuildupdated": "1778776551"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "278971": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2279563584522146660",
+          "size": "813276334",
+          "download": "271373120"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26135818",
+        "timeupdated": "1792679090",
+        "timebuildupdated": "1792678942"
+      },
+      "classic": {
+        "buildid": "21952226",
+        "description": "Классическая версия игры",
+        "timeupdated": "1771250616",
+        "timebuildupdated": "1771250535"
+      },
+      "newworld": {
+        "buildid": "26135818",
+        "description": "Бета нового мира",
+        "timeupdated": "1792679054",
+        "timebuildupdated": "1792678942"
+      },
+      "preview": {
+        "buildid": "23237735",
+        "description": "Превью версия будущего обноволения",
+        "timeupdated": "1778776793",
+        "timebuildupdated": "1778776551"
+      }
+    }
+  }
+}

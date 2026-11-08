@@ -1,0 +1,122 @@
+{
+  "name": "Reus",
+  "source": "spectre",
+  "changenumber": 39387003,
+  "updated": "2026-11-07T20:56:05.712Z",
+  "branches": {
+    "public": {
+      "buildid": "2775669",
+      "timeupdated": "1526395678",
+      "timebuildupdated": "1526392476"
+    },
+    "beta": {
+      "buildid": "2775673",
+      "description": "Protected Beta",
+      "timeupdated": "1526392772",
+      "timebuildupdated": "1526392567"
+    },
+    "fna-version": {
+      "buildid": "2775673",
+      "timeupdated": "1526394846",
+      "timebuildupdated": "1526392567"
+    },
+    "legacy": {
+      "buildid": "1229854",
+      "description": "version 1.4",
+      "timeupdated": "1495381419",
+      "timebuildupdated": "1468609664"
+    }
+  },
+  "depot": {
+    "222731": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1604796787456299289",
+          "size": "420638020",
+          "download": "327953776"
+        }
+      }
+    },
+    "222732": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6017845311170515329",
+          "size": "482690627",
+          "download": "348337248"
+        }
+      }
+    },
+    "222733": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5901751147624248075",
+          "size": "455055646",
+          "download": "340255696"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "2775669",
+        "timeupdated": "1526395678",
+        "timebuildupdated": "1526392476"
+      },
+      "beta": {
+        "buildid": "2775673",
+        "description": "Protected Beta",
+        "timeupdated": "1526392772",
+        "timebuildupdated": "1526392567"
+      },
+      "fna-version": {
+        "buildid": "2775673",
+        "timeupdated": "1526394846",
+        "timebuildupdated": "1526392567"
+      },
+      "legacy": {
+        "buildid": "1229854",
+        "description": "version 1.4",
+        "timeupdated": "1495381419",
+        "timebuildupdated": "1468609664"
+      }
+    }
+  }
+}

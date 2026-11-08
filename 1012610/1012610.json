@@ -1,0 +1,88 @@
+{
+  "name": "Buoyancy",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:27.557Z",
+  "branches": {
+    "public": {
+      "buildid": "7679321",
+      "timeupdated": "1636424023",
+      "timebuildupdated": "1636423902"
+    },
+    "devbranch": {
+      "buildid": "7679321",
+      "description": "The latest experimental builds.",
+      "timeupdated": "1636423902",
+      "timebuildupdated": "1636423902"
+    },
+    "prev_build": {
+      "buildid": "7517334",
+      "description": " v3.0.1104",
+      "timeupdated": "1636424184",
+      "timebuildupdated": "1634013515"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1012611": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8350566963001104732",
+          "size": "1731627353",
+          "download": "730432400"
+        }
+      }
+    },
+    "1012612": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5269174157375837620",
+          "size": "1772655711",
+          "download": "739256800"
+        }
+      }
+    },
+    "1012613": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5266864986160390876",
+          "size": "1812840075",
+          "download": "741357072"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7679321",
+        "timeupdated": "1636424023",
+        "timebuildupdated": "1636423902"
+      },
+      "devbranch": {
+        "buildid": "7679321",
+        "description": "The latest experimental builds.",
+        "timeupdated": "1636423902",
+        "timebuildupdated": "1636423902"
+      },
+      "prev_build": {
+        "buildid": "7517334",
+        "description": " v3.0.1104",
+        "timeupdated": "1636424184",
+        "timebuildupdated": "1634013515"
+      }
+    }
+  }
+}

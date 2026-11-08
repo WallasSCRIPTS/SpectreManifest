@@ -1,0 +1,104 @@
+{
+  "name": "Pinball Arcade",
+  "source": "spectre",
+  "changenumber": 40649538,
+  "updated": "2026-11-07T20:56:09.099Z",
+  "branches": {
+    "public": {
+      "buildid": "5650517",
+      "timeupdated": "1602111493",
+      "timebuildupdated": "1602088052"
+    },
+    "cabinet_beta": {
+      "buildid": "2983841",
+      "timeupdated": "1532713738",
+      "timebuildupdated": "1532713738"
+    },
+    "osx_default": {
+      "buildid": "1735085",
+      "description": "test release",
+      "timeupdated": "1491332255",
+      "timebuildupdated": "1491332255"
+    },
+    "public_beta": {
+      "buildid": "2912868",
+      "description": "Public UI Beta",
+      "timeupdated": "1530561803",
+      "timebuildupdated": "1530561781"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "238261": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6601832109856305996",
+          "size": "20461593304",
+          "download": "12102051920"
+        }
+      }
+    },
+    "238262": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1843759413542542912",
+          "size": "143000975",
+          "download": "105978352"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5650517",
+        "timeupdated": "1602111493",
+        "timebuildupdated": "1602088052"
+      },
+      "cabinet_beta": {
+        "buildid": "2983841",
+        "timeupdated": "1532713738",
+        "timebuildupdated": "1532713738"
+      },
+      "osx_default": {
+        "buildid": "1735085",
+        "description": "test release",
+        "timeupdated": "1491332255",
+        "timebuildupdated": "1491332255"
+      },
+      "public_beta": {
+        "buildid": "2912868",
+        "description": "Public UI Beta",
+        "timeupdated": "1530561803",
+        "timebuildupdated": "1530561781"
+      }
+    }
+  }
+}

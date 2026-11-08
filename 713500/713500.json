@@ -1,0 +1,52 @@
+{
+  "name": "Moto VR",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:00:03.053Z",
+  "branches": {
+    "2018": {
+      "buildid": "2563653",
+      "description": "ver. 2018",
+      "timeupdated": "1685833818",
+      "timebuildupdated": "1519819469"
+    },
+    "public": {
+      "buildid": "13485872",
+      "timeupdated": "1708184485",
+      "timebuildupdated": "1708182317"
+    }
+  },
+  "depot": {
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "713501": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2913247844963177757",
+          "size": "793851029",
+          "download": "315312768"
+        }
+      }
+    },
+    "branches": {
+      "2018": {
+        "buildid": "2563653",
+        "description": "ver. 2018",
+        "timeupdated": "1685833818",
+        "timebuildupdated": "1519819469"
+      },
+      "public": {
+        "buildid": "13485872",
+        "timeupdated": "1708184485",
+        "timebuildupdated": "1708182317"
+      }
+    }
+  }
+}

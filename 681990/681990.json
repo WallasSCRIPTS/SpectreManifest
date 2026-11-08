@@ -1,0 +1,76 @@
+{
+  "name": "Battle Squares",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:46.271Z",
+  "branches": {
+    "public": {
+      "buildid": "3776991",
+      "timeupdated": "1557897370",
+      "timebuildupdated": "1556512401"
+    },
+    "macbranch": {
+      "buildid": "3431131",
+      "description": "Public mac branch",
+      "timeupdated": "1545958916",
+      "timebuildupdated": "1545958915"
+    },
+    "prerelease_branch": {
+      "buildid": "3952035",
+      "description": "For testing changes before they go live -- closed beta.",
+      "timeupdated": "1561456973",
+      "timebuildupdated": "1561456973"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "681991": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "100894886984406311",
+          "size": "303720285",
+          "download": "202889184"
+        }
+      }
+    },
+    "681992": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7090931895764124319",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3776991",
+        "timeupdated": "1557897370",
+        "timebuildupdated": "1556512401"
+      },
+      "macbranch": {
+        "buildid": "3431131",
+        "description": "Public mac branch",
+        "timeupdated": "1545958916",
+        "timebuildupdated": "1545958915"
+      },
+      "prerelease_branch": {
+        "buildid": "3952035",
+        "description": "For testing changes before they go live -- closed beta.",
+        "timeupdated": "1561456973",
+        "timebuildupdated": "1561456973"
+      }
+    }
+  }
+}

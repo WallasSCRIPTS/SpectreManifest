@@ -1,0 +1,58 @@
+{
+  "name": "Ugmania",
+  "source": "spectre",
+  "changenumber": 34895232,
+  "updated": "2026-11-06T23:21:28.631Z",
+  "branches": {
+    "public": {
+      "buildid": "20236917",
+      "timeupdated": "1759486205",
+      "timebuildupdated": "1759486077"
+    },
+    "legacy": {
+      "buildid": "19257106",
+      "description": "Legacy build (1 version behind)",
+      "timeupdated": "1752804074",
+      "timebuildupdated": "1752742571"
+    }
+  },
+  "depot": {
+    "2316311": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3616601089209023984",
+          "size": "697131554",
+          "download": "194126592"
+        }
+      }
+    },
+    "2316312": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3378958190957299543",
+          "size": "697183717",
+          "download": "195823520"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20236917",
+        "timeupdated": "1759486205",
+        "timebuildupdated": "1759486077"
+      },
+      "legacy": {
+        "buildid": "19257106",
+        "description": "Legacy build (1 version behind)",
+        "timeupdated": "1752804074",
+        "timebuildupdated": "1752742571"
+      }
+    }
+  }
+}

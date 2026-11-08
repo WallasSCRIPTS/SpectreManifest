@@ -1,0 +1,82 @@
+{
+  "name": "Shadows on the Vatican - Act II: Wrath",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:20.663Z",
+  "branches": {
+    "public": {
+      "buildid": "23169057",
+      "timeupdated": "1778663681",
+      "timebuildupdated": "1778430908"
+    },
+    "legacy": {
+      "buildid": "2884510",
+      "description": "backwards compatibility",
+      "timeupdated": "1767629580",
+      "timebuildupdated": "1529619487"
+    },
+    "pubrelease_7": {
+      "buildid": "21372807",
+      "description": "DT release 2 (steam deck)",
+      "timeupdated": "1767629488",
+      "timebuildupdated": "1767464570"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "378638": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4912390093560001108",
+          "size": "941",
+          "download": "896"
+        }
+      }
+    },
+    "378639": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3523575511104047956",
+          "size": "2832308977",
+          "download": "2433158704"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23169057",
+        "timeupdated": "1778663681",
+        "timebuildupdated": "1778430908"
+      },
+      "legacy": {
+        "buildid": "2884510",
+        "description": "backwards compatibility",
+        "timeupdated": "1767629580",
+        "timebuildupdated": "1529619487"
+      },
+      "pubrelease_7": {
+        "buildid": "21372807",
+        "description": "DT release 2 (steam deck)",
+        "timeupdated": "1767629488",
+        "timebuildupdated": "1767464570"
+      }
+    }
+  }
+}

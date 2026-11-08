@@ -1,0 +1,94 @@
+{
+  "name": "Cold Space",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T20:59:07.005Z",
+  "branches": {
+    "public": {
+      "buildid": "4893366",
+      "timeupdated": "1586817816",
+      "timebuildupdated": "1586815928"
+    },
+    "beta": {
+      "buildid": "4893366",
+      "description": "Development & Beta Testing",
+      "timeupdated": "1586816822",
+      "timebuildupdated": "1586815928"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "595121": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8140398946643421735",
+          "size": "2816740539",
+          "download": "2669102368"
+        }
+      }
+    },
+    "595122": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2716343504271404995",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "595123": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2492810518490768661",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "595124": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2444015295101307266",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4893366",
+        "timeupdated": "1586817816",
+        "timebuildupdated": "1586815928"
+      },
+      "beta": {
+        "buildid": "4893366",
+        "description": "Development & Beta Testing",
+        "timeupdated": "1586816822",
+        "timebuildupdated": "1586815928"
+      }
+    }
+  }
+}

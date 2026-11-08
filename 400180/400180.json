@@ -1,0 +1,110 @@
+{
+  "name": "Okhlos: Omega",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:32.850Z",
+  "branches": {
+    "public": {
+      "buildid": "5422364",
+      "timeupdated": "1597673336",
+      "timebuildupdated": "1597673336"
+    },
+    "enginemigration": {
+      "buildid": "1367422",
+      "description": "Temporary branch to test the changes during the engine migration",
+      "timeupdated": "1475251901",
+      "timebuildupdated": "1475251901"
+    },
+    "linuxtest": {
+      "buildid": "1541401",
+      "timeupdated": "1482801170",
+      "timebuildupdated": "1482801170"
+    }
+  },
+  "depot": {
+    "400181": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8797657679652855208",
+          "size": "756748161",
+          "download": "423300816"
+        }
+      }
+    },
+    "400182": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8577985233923017311",
+          "size": "776860713",
+          "download": "428272240"
+        }
+      }
+    },
+    "400183": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4546460724092869163",
+          "size": "792934250",
+          "download": "433980176"
+        }
+      }
+    },
+    "509030": {
+      "manifests": {
+        "public": {
+          "gid": "7401725338163309860",
+          "size": "563438883",
+          "download": "569641696"
+        }
+      },
+      "dlcappid": "509030"
+    },
+    "509031": {
+      "manifests": {
+        "public": {
+          "gid": "4228387889230249256",
+          "size": "3453579",
+          "download": "3068688"
+        }
+      },
+      "dlcappid": "509031"
+    },
+    "509032": {
+      "manifests": {
+        "public": {
+          "gid": "6993828256353289897",
+          "size": "890984797",
+          "download": "180402240"
+        }
+      },
+      "dlcappid": "509032"
+    },
+    "branches": {
+      "public": {
+        "buildid": "5422364",
+        "timeupdated": "1597673336",
+        "timebuildupdated": "1597673336"
+      },
+      "enginemigration": {
+        "buildid": "1367422",
+        "description": "Temporary branch to test the changes during the engine migration",
+        "timeupdated": "1475251901",
+        "timebuildupdated": "1475251901"
+      },
+      "linuxtest": {
+        "buildid": "1541401",
+        "timeupdated": "1482801170",
+        "timebuildupdated": "1482801170"
+      }
+    }
+  }
+}

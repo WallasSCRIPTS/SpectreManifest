@@ -1,0 +1,58 @@
+{
+  "name": "Heroes of the Monkey Tavern",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:14.684Z",
+  "branches": {
+    "public": {
+      "buildid": "2717489",
+      "timeupdated": "1524588713",
+      "timebuildupdated": "1524588713"
+    },
+    "betawin": {
+      "buildid": "2447932",
+      "description": "Windows beta",
+      "timeupdated": "1516278461",
+      "timebuildupdated": "1516278461"
+    }
+  },
+  "depot": {
+    "492501": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4157711466547394179",
+          "size": "1109813482",
+          "download": "581378704"
+        }
+      }
+    },
+    "492502": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "484473648209288502",
+          "size": "1113020931",
+          "download": "585959600"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2717489",
+        "timeupdated": "1524588713",
+        "timebuildupdated": "1524588713"
+      },
+      "betawin": {
+        "buildid": "2447932",
+        "description": "Windows beta",
+        "timeupdated": "1516278461",
+        "timebuildupdated": "1516278461"
+      }
+    }
+  }
+}

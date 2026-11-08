@@ -1,0 +1,80 @@
+{
+  "name": "Cybershoes",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:03:41.845Z",
+  "branches": {
+    "public": {
+      "buildid": "14520645",
+      "timeupdated": "1716909068",
+      "timebuildupdated": "1716907290"
+    },
+    "dev_silabs": {
+      "buildid": "9855570",
+      "description": "adding silabs driver",
+      "timeupdated": "1667413501",
+      "timebuildupdated": "1667413446"
+    },
+    "legacy_ui": {
+      "buildid": "11290887",
+      "timeupdated": "1684791785",
+      "timebuildupdated": "1684791775"
+    },
+    "radeon": {
+      "buildid": "11290887",
+      "description": "AMD cards.  Connect monitor to the same GPU as the headset",
+      "timeupdated": "1684791797",
+      "timebuildupdated": "1684791775"
+    },
+    "beta": {
+      "buildid": "14520645",
+      "description": "BETA: public beta",
+      "timeupdated": "1716909039",
+      "timebuildupdated": "1716907290"
+    }
+  },
+  "depot": {
+    "1222361": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4688625748700064100",
+          "size": "97977577",
+          "download": "72430528"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14520645",
+        "timeupdated": "1716909068",
+        "timebuildupdated": "1716907290"
+      },
+      "dev_silabs": {
+        "buildid": "9855570",
+        "description": "adding silabs driver",
+        "timeupdated": "1667413501",
+        "timebuildupdated": "1667413446"
+      },
+      "legacy_ui": {
+        "buildid": "11290887",
+        "timeupdated": "1684791785",
+        "timebuildupdated": "1684791775"
+      },
+      "radeon": {
+        "buildid": "11290887",
+        "description": "AMD cards.  Connect monitor to the same GPU as the headset",
+        "timeupdated": "1684791797",
+        "timebuildupdated": "1684791775"
+      },
+      "beta": {
+        "buildid": "14520645",
+        "description": "BETA: public beta",
+        "timeupdated": "1716909039",
+        "timebuildupdated": "1716907290"
+      }
+    }
+  }
+}

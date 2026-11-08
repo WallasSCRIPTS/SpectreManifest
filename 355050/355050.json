@@ -1,0 +1,84 @@
+{
+  "name": "Sky Force Anniversary",
+  "source": "spectre",
+  "changenumber": 39931677,
+  "updated": "2026-11-07T20:57:05.742Z",
+  "branches": {
+    "public": {
+      "buildid": "2426076",
+      "timeupdated": "1548608419",
+      "timebuildupdated": "1515589348"
+    },
+    "public_beta": {
+      "buildid": "3497012",
+      "timeupdated": "1548315830",
+      "timebuildupdated": "1548315732"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "355051": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3231517885004022748",
+          "size": "330472662",
+          "download": "136807904"
+        }
+      }
+    },
+    "355052": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4832578492828908097",
+          "size": "353254356",
+          "download": "144242240"
+        }
+      }
+    },
+    "355053": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8923009451778287742",
+          "size": "354675295",
+          "download": "145324976"
+        }
+      }
+    },
+    "367810": {
+      "manifests": {
+        "public": {
+          "gid": "3517069522352958099",
+          "size": "36446749",
+          "download": "34915264"
+        }
+      },
+      "dlcappid": "367810"
+    },
+    "branches": {
+      "public": {
+        "buildid": "2426076",
+        "timeupdated": "1548608419",
+        "timebuildupdated": "1515589348"
+      },
+      "public_beta": {
+        "buildid": "3497012",
+        "timeupdated": "1548315830",
+        "timebuildupdated": "1548315732"
+      }
+    }
+  }
+}

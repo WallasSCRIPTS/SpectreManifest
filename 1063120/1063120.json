@@ -1,0 +1,46 @@
+{
+  "name": "Damaged In Transit",
+  "source": "spectre",
+  "changenumber": 34845077,
+  "updated": "2026-11-07T21:02:53.510Z",
+  "branches": {
+    "public": {
+      "buildid": "4834549",
+      "timeupdated": "1585542700",
+      "timebuildupdated": "1585534247"
+    }
+  },
+  "depot": {
+    "1063121": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3948503042443541944",
+          "size": "245790478",
+          "download": "101263568"
+        }
+      }
+    },
+    "1063122": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6839485129995172890",
+          "size": "246452467",
+          "download": "101374288"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4834549",
+        "timeupdated": "1585542700",
+        "timebuildupdated": "1585534247"
+      }
+    }
+  }
+}

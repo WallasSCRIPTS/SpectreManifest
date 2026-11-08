@@ -1,0 +1,67 @@
+{
+  "name": "Conqueror 940 AD",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:39.226Z",
+  "branches": {
+    "public": {
+      "buildid": "7108260",
+      "timeupdated": "1627574992",
+      "timebuildupdated": "1627574992"
+    },
+    "conqueror940ad": {
+      "buildid": "7078306",
+      "description": "Public custom branch",
+      "timeupdated": "1627059780",
+      "timebuildupdated": "1627059780"
+    }
+  },
+  "depot": {
+    "1358261": {
+      "manifests": {
+        "public": {
+          "gid": "5833993389982109844",
+          "size": "2126424477",
+          "download": "354137296"
+        }
+      }
+    },
+    "1358262": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7747401181943115004",
+          "size": "2126424477",
+          "download": "354137296"
+        }
+      }
+    },
+    "1358263": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4982384321832543988",
+          "size": "824709211",
+          "download": "172728400"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7108260",
+        "timeupdated": "1627574992",
+        "timebuildupdated": "1627574992"
+      },
+      "conqueror940ad": {
+        "buildid": "7078306",
+        "description": "Public custom branch",
+        "timeupdated": "1627059780",
+        "timebuildupdated": "1627059780"
+      }
+    }
+  }
+}

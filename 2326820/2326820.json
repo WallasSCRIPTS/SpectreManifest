@@ -1,0 +1,68 @@
+{
+  "name": "Shaper",
+  "source": "spectre",
+  "changenumber": 34630105,
+  "updated": "2026-11-06T23:21:29.796Z",
+  "branches": {
+    "public": {
+      "buildid": "13265747",
+      "timeupdated": "1746352123",
+      "timebuildupdated": "1706144338"
+    },
+    "preversion": {
+      "buildid": "22488310",
+      "description": "Beta of the game",
+      "timeupdated": "1774390252",
+      "timebuildupdated": "1774390250"
+    },
+    "release": {
+      "buildid": "15650742",
+      "description": "The release branch of the application",
+      "timeupdated": "1725969397",
+      "timebuildupdated": "1725969397"
+    }
+  },
+  "depot": {
+    "2326821": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1097308301781632146",
+          "size": "109822405",
+          "download": "43659248"
+        }
+      }
+    },
+    "2326822": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "2326823": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13265747",
+        "timeupdated": "1746352123",
+        "timebuildupdated": "1706144338"
+      },
+      "preversion": {
+        "buildid": "22488310",
+        "description": "Beta of the game",
+        "timeupdated": "1774390252",
+        "timebuildupdated": "1774390250"
+      },
+      "release": {
+        "buildid": "15650742",
+        "description": "The release branch of the application",
+        "timeupdated": "1725969397",
+        "timebuildupdated": "1725969397"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Koi Farm",
+  "source": "spectre",
+  "changenumber": 39465323,
+  "updated": "2026-11-06T21:05:51.731Z",
+  "branches": {
+    "public": {
+      "buildid": "21753629",
+      "timeupdated": "1770063197",
+      "timebuildupdated": "1770063197"
+    },
+    "beta": {
+      "buildid": "21753582",
+      "description": "beta versions",
+      "timeupdated": "1770062899",
+      "timebuildupdated": "1770062899"
+    }
+  },
+  "depot": {
+    "1518811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4627373275232663596",
+          "size": "313596525",
+          "download": "133356432"
+        }
+      }
+    },
+    "1518812": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7227628864785572516",
+          "size": "324844052",
+          "download": "131190608"
+        }
+      }
+    },
+    "1518813": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8199363149701983409",
+          "size": "319218468",
+          "download": "133513520"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21753629",
+        "timeupdated": "1770063197",
+        "timebuildupdated": "1770063197"
+      },
+      "beta": {
+        "buildid": "21753582",
+        "description": "beta versions",
+        "timeupdated": "1770062899",
+        "timebuildupdated": "1770062899"
+      }
+    }
+  }
+}

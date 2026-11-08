@@ -1,0 +1,70 @@
+{
+  "name": "CarX Street",
+  "source": "spectre",
+  "changenumber": 40668229,
+  "updated": "2026-11-07T21:03:25.957Z",
+  "branches": {
+    "public": {
+      "buildid": "26481722",
+      "timeupdated": "1793968235",
+      "timebuildupdated": "1793960769"
+    },
+    "public_test": {
+      "buildid": "25834113",
+      "description": "PTR",
+      "timeupdated": "1791632145",
+      "timebuildupdated": "1791562996"
+    }
+  },
+  "depot": {
+    "1114151": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7479814383089106034",
+          "size": "22904737747",
+          "download": "18847516240"
+        }
+      }
+    },
+    "1114152": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3457651328794214715",
+          "size": "22936298994",
+          "download": "18832716256"
+        }
+      }
+    },
+    "1114153": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7295022060921796448",
+          "size": "22987743739",
+          "download": "18751592704"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26481722",
+        "timeupdated": "1793968235",
+        "timebuildupdated": "1793960769"
+      },
+      "public_test": {
+        "buildid": "25834113",
+        "description": "PTR",
+        "timeupdated": "1791632145",
+        "timebuildupdated": "1791562996"
+      }
+    }
+  }
+}

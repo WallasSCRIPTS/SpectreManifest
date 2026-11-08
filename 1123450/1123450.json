@@ -1,0 +1,80 @@
+{
+  "name": "Chicory: A Colorful Tale",
+  "source": "spectre",
+  "changenumber": 37441117,
+  "updated": "2026-11-07T21:03:32.122Z",
+  "branches": {
+    "public": {
+      "buildid": "13534773",
+      "timeupdated": "1708628050",
+      "timebuildupdated": "1708627955"
+    },
+    "beta": {
+      "buildid": "6819860",
+      "description": "beta",
+      "timeupdated": "1624265281",
+      "timebuildupdated": "1622954455"
+    },
+    "testing_area": {
+      "buildid": "7041850",
+      "description": "for experimental changes",
+      "timeupdated": "1626453588",
+      "timebuildupdated": "1626453462"
+    }
+  },
+  "depot": {
+    "1123451": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3968246222362590880",
+          "size": "1491132487",
+          "download": "1129297024"
+        }
+      }
+    },
+    "1123452": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2911755491900749576",
+          "size": "1497265374",
+          "download": "1196889792"
+        }
+      }
+    },
+    "2446380": {
+      "manifests": {
+        "public": {
+          "gid": "6455313017870902760",
+          "size": "46033787",
+          "download": "41238096"
+        }
+      },
+      "dlcappid": "2446380"
+    },
+    "branches": {
+      "public": {
+        "buildid": "13534773",
+        "timeupdated": "1708628050",
+        "timebuildupdated": "1708627955"
+      },
+      "beta": {
+        "buildid": "6819860",
+        "description": "beta",
+        "timeupdated": "1624265281",
+        "timebuildupdated": "1622954455"
+      },
+      "testing_area": {
+        "buildid": "7041850",
+        "description": "for experimental changes",
+        "timeupdated": "1626453588",
+        "timebuildupdated": "1626453462"
+      }
+    }
+  }
+}

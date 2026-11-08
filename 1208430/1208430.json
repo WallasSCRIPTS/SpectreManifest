@@ -1,0 +1,57 @@
+{
+  "name": "Framing Dawes Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:04:15.948Z",
+  "branches": {
+    "public": {
+      "buildid": "4786956",
+      "timeupdated": "1584445007",
+      "timebuildupdated": "1584444958"
+    },
+    "fd_test": {
+      "buildid": "4786956",
+      "timeupdated": "1584444991",
+      "timebuildupdated": "1584444958"
+    }
+  },
+  "depot": {
+    "1208431": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "766597483601867789",
+          "size": "663239472",
+          "download": "449783616"
+        }
+      }
+    },
+    "1208432": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4955374764532725366",
+          "size": "680370799",
+          "download": "464185264"
+        }
+      }
+    },
+    "1208433": {},
+    "branches": {
+      "public": {
+        "buildid": "4786956",
+        "timeupdated": "1584445007",
+        "timebuildupdated": "1584444958"
+      },
+      "fd_test": {
+        "buildid": "4786956",
+        "timeupdated": "1584444991",
+        "timebuildupdated": "1584444958"
+      }
+    }
+  }
+}

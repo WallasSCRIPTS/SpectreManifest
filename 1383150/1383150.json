@@ -1,0 +1,106 @@
+{
+  "name": "Final Factory",
+  "source": "spectre",
+  "changenumber": 40606496,
+  "updated": "2026-11-06T21:04:50.316Z",
+  "branches": {
+    "public": {
+      "buildid": "26352375",
+      "timeupdated": "1793500780",
+      "timebuildupdated": "1793484657"
+    },
+    "multiplayer-beta": {
+      "buildid": "26316723",
+      "description": "The open beta for mp",
+      "timeupdated": "1793342465",
+      "timebuildupdated": "1793341630"
+    },
+    "rollback": {
+      "buildid": "25701262",
+      "description": "Contains the previous working version of the game",
+      "timeupdated": "1791060802",
+      "timebuildupdated": "1791059185"
+    },
+    "pre-release": {
+      "buildid": "26352375",
+      "description": "Early access release of the main production release",
+      "timeupdated": "1793486997",
+      "timebuildupdated": "1793484657"
+    },
+    "development": {
+      "buildid": "26442649",
+      "description": "May be unstable!  For playtesting the latest changes",
+      "timeupdated": "1793827434",
+      "timebuildupdated": "1793827434"
+    }
+  },
+  "depot": {
+    "1383151": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8382194706922667708",
+          "size": "2025996482",
+          "download": "600612656"
+        }
+      }
+    },
+    "1383152": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2939999355269902497",
+          "size": "1943064926",
+          "download": "572882816"
+        }
+      }
+    },
+    "1383153": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8533583894543508807",
+          "size": "2050343463",
+          "download": "706778880"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26352375",
+        "timeupdated": "1793500780",
+        "timebuildupdated": "1793484657"
+      },
+      "multiplayer-beta": {
+        "buildid": "26316723",
+        "description": "The open beta for mp",
+        "timeupdated": "1793342465",
+        "timebuildupdated": "1793341630"
+      },
+      "rollback": {
+        "buildid": "25701262",
+        "description": "Contains the previous working version of the game",
+        "timeupdated": "1791060802",
+        "timebuildupdated": "1791059185"
+      },
+      "pre-release": {
+        "buildid": "26352375",
+        "description": "Early access release of the main production release",
+        "timeupdated": "1793486997",
+        "timebuildupdated": "1793484657"
+      },
+      "development": {
+        "buildid": "26442649",
+        "description": "May be unstable!  For playtesting the latest changes",
+        "timeupdated": "1793827434",
+        "timebuildupdated": "1793827434"
+      }
+    }
+  }
+}

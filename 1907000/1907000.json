@@ -1,0 +1,70 @@
+{
+  "name": "Gloomgrave",
+  "source": "spectre",
+  "changenumber": 39734163,
+  "updated": "2026-11-06T23:13:29.384Z",
+  "branches": {
+    "public": {
+      "buildid": "24481089",
+      "timeupdated": "1785448440",
+      "timebuildupdated": "1785448406"
+    },
+    "beta": {
+      "buildid": "24322443",
+      "description": "Public beta branch",
+      "timeupdated": "1784668545",
+      "timebuildupdated": "1784668545"
+    }
+  },
+  "depot": {
+    "1907001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7840323602375528340",
+          "size": "147788124",
+          "download": "63423632"
+        }
+      }
+    },
+    "1907002": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4919704216821497301",
+          "size": "231523241",
+          "download": "86863120"
+        }
+      }
+    },
+    "1907003": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7415483986837676437",
+          "size": "115125932",
+          "download": "55493744"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24481089",
+        "timeupdated": "1785448440",
+        "timebuildupdated": "1785448406"
+      },
+      "beta": {
+        "buildid": "24322443",
+        "description": "Public beta branch",
+        "timeupdated": "1784668545",
+        "timebuildupdated": "1784668545"
+      }
+    }
+  }
+}

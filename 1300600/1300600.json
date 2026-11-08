@@ -1,0 +1,56 @@
+{
+  "name": "Blind Drive",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:16.907Z",
+  "branches": {
+    "public": {
+      "buildid": "7903153",
+      "timeupdated": "1640003309",
+      "timebuildupdated": "1639758110"
+    },
+    "beta": {
+      "buildid": "7903153",
+      "timeupdated": "1640003491",
+      "timebuildupdated": "1639758110"
+    }
+  },
+  "depot": {
+    "1300601": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5906328857600979446",
+          "size": "438881116",
+          "download": "156700320"
+        }
+      }
+    },
+    "1300602": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7695138462999963812",
+          "size": "440230130",
+          "download": "157273488"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7903153",
+        "timeupdated": "1640003309",
+        "timebuildupdated": "1639758110"
+      },
+      "beta": {
+        "buildid": "7903153",
+        "timeupdated": "1640003491",
+        "timebuildupdated": "1639758110"
+      }
+    }
+  }
+}

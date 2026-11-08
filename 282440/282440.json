@@ -1,0 +1,49 @@
+{
+  "name": "Quake Live",
+  "source": "spectre",
+  "changenumber": 40652772,
+  "updated": "2026-11-07T20:56:22.329Z",
+  "branches": {
+    "public": {
+      "buildid": "1168251",
+      "timeupdated": "1465312305",
+      "timebuildupdated": "1465312216"
+    },
+    "beta": {
+      "buildid": "1168251",
+      "description": "Staging for updates, may break compatibility!",
+      "timeupdated": "1465312319",
+      "timebuildupdated": "1465312216"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "282441": {
+      "manifests": {
+        "public": {
+          "gid": "8008275610516452897",
+          "size": "1129957635",
+          "download": "1097488976"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1168251",
+        "timeupdated": "1465312305",
+        "timebuildupdated": "1465312216"
+      },
+      "beta": {
+        "buildid": "1168251",
+        "description": "Staging for updates, may break compatibility!",
+        "timeupdated": "1465312319",
+        "timebuildupdated": "1465312216"
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Shelter 1",
+  "source": "spectre",
+  "changenumber": 40552615,
+  "updated": "2026-11-07T20:56:10.548Z",
+  "branches": {
+    "public": {
+      "buildid": "2429448",
+      "timeupdated": "1515680936",
+      "timebuildupdated": "1515680800"
+    },
+    "updatebranch": {
+      "buildid": "2429448",
+      "description": "Shelter beta updates",
+      "timeupdated": "1515680847",
+      "timebuildupdated": "1515680800"
+    }
+  },
+  "depot": {
+    "244711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7438100922102122642",
+          "size": "559641907",
+          "download": "258689344"
+        }
+      }
+    },
+    "244712": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3331340191186667019",
+          "size": "562675566",
+          "download": "259225840"
+        }
+      }
+    },
+    "244713": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2429448",
+        "timeupdated": "1515680936",
+        "timebuildupdated": "1515680800"
+      },
+      "updatebranch": {
+        "buildid": "2429448",
+        "description": "Shelter beta updates",
+        "timeupdated": "1515680847",
+        "timebuildupdated": "1515680800"
+      }
+    }
+  }
+}

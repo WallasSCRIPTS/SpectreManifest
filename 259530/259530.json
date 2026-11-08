@@ -1,0 +1,133 @@
+{
+  "name": "Savant - Ascent",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:14.972Z",
+  "branches": {
+    "public": {
+      "buildid": "2333193",
+      "timeupdated": "1512148089",
+      "timebuildupdated": "1512148089"
+    },
+    "local": {
+      "buildid": "144737",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1384796070"
+    },
+    "publicbeta": {
+      "buildid": "2333172",
+      "description": "Public Beta - Test new features",
+      "timeupdated": "1512147354",
+      "timebuildupdated": "1512147354"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "259531": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4148669846917807698",
+          "size": "104166639",
+          "download": "75930448"
+        }
+      }
+    },
+    "259532": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "132238365678190632",
+          "size": "87912710",
+          "download": "75537920"
+        }
+      }
+    },
+    "259533": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3810259025721719658",
+          "size": "81351367",
+          "download": "71922512"
+        }
+      }
+    },
+    "656760": {
+      "manifests": {
+        "public": {
+          "gid": "5580035132805009302",
+          "size": "223689560",
+          "download": "222530080"
+        }
+      }
+    },
+    "656810": {
+      "manifests": {
+        "public": {
+          "gid": "4459164537762377809",
+          "size": "180649849",
+          "download": "180455152"
+        }
+      }
+    },
+    "657270": {
+      "manifests": {
+        "public": {
+          "gid": "8134794806861589496",
+          "size": "155457439",
+          "download": "154769056"
+        }
+      }
+    },
+    "657360": {
+      "manifests": {
+        "public": {
+          "gid": "5992617444961751407",
+          "size": "177427017",
+          "download": "176563360"
+        }
+      }
+    },
+    "657361": {
+      "manifests": {
+        "public": {
+          "gid": "8372690970812257316",
+          "size": "192056817",
+          "download": "191356832"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2333193",
+        "timeupdated": "1512148089",
+        "timebuildupdated": "1512148089"
+      },
+      "local": {
+        "buildid": "144737",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1384796070"
+      },
+      "publicbeta": {
+        "buildid": "2333172",
+        "description": "Public Beta - Test new features",
+        "timeupdated": "1512147354",
+        "timebuildupdated": "1512147354"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Mountaincore",
+  "source": "spectre",
+  "changenumber": 40643467,
+  "updated": "2026-11-06T23:23:20.359Z",
+  "branches": {
+    "public": {
+      "buildid": "11451770",
+      "timeupdated": "1746125130",
+      "timebuildupdated": "1686597249"
+    },
+    "testing": {
+      "buildid": "11344983",
+      "description": "Early early access to the next patch",
+      "timeupdated": "1685396419",
+      "timebuildupdated": "1685396400"
+    }
+  },
+  "depot": {
+    "2370311": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3483219399514914945",
+          "size": "961063818",
+          "download": "494959584"
+        }
+      }
+    },
+    "2370312": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8248953021799896122",
+          "size": "893799529",
+          "download": "475313440"
+        }
+      }
+    },
+    "2370313": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3419089302473263781",
+          "size": "903029464",
+          "download": "478634464"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11451770",
+        "timeupdated": "1746125130",
+        "timebuildupdated": "1686597249"
+      },
+      "testing": {
+        "buildid": "11344983",
+        "description": "Early early access to the next patch",
+        "timeupdated": "1685396419",
+        "timebuildupdated": "1685396400"
+      }
+    }
+  }
+}

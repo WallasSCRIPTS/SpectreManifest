@@ -1,0 +1,64 @@
+{
+  "name": "Deadsiege",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:54.278Z",
+  "branches": {
+    "public": {
+      "buildid": "4680682",
+      "timeupdated": "1581794120",
+      "timebuildupdated": "1581793941"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "948471": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8396853774214837202",
+          "size": "3943044355",
+          "download": "1985574848"
+        }
+      }
+    },
+    "948472": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3428407603906905000",
+          "size": "4299044307",
+          "download": "2161539120"
+        }
+      }
+    },
+    "948473": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6672170969082791300",
+          "size": "4132587915",
+          "download": "2043297488"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4680682",
+        "timeupdated": "1581794120",
+        "timebuildupdated": "1581793941"
+      }
+    }
+  }
+}

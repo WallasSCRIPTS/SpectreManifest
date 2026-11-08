@@ -1,0 +1,84 @@
+{
+  "name": "Really Bad Flying Machine",
+  "source": "spectre",
+  "changenumber": 34855813,
+  "updated": "2026-11-06T21:04:37.813Z",
+  "branches": {
+    "public": {
+      "buildid": "5814715",
+      "timeupdated": "1605094630",
+      "timebuildupdated": "1605091041"
+    },
+    "beta": {
+      "buildid": "5814715",
+      "description": "test builds",
+      "timeupdated": "1608849500",
+      "timebuildupdated": "1605091041"
+    },
+    "local": {
+      "buildid": "5191619",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1592608014",
+      "timebuildupdated": "1592608014"
+    }
+  },
+  "depot": {
+    "1354801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1480203044554872333",
+          "size": "121559126",
+          "download": "35869632"
+        }
+      }
+    },
+    "1354802": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7189074939454896461",
+          "size": "122705843",
+          "download": "36163312"
+        }
+      }
+    },
+    "1354803": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8650711227058790441",
+          "size": "132168492",
+          "download": "37527264"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5814715",
+        "timeupdated": "1605094630",
+        "timebuildupdated": "1605091041"
+      },
+      "beta": {
+        "buildid": "5814715",
+        "description": "test builds",
+        "timeupdated": "1608849500",
+        "timebuildupdated": "1605091041"
+      },
+      "local": {
+        "buildid": "5191619",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1592608014",
+        "timebuildupdated": "1592608014"
+      }
+    }
+  }
+}

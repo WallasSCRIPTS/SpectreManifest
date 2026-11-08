@@ -1,0 +1,82 @@
+{
+  "name": "Meat Beating: No More Horny",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:06:20.578Z",
+  "branches": {
+    "public": {
+      "buildid": "22653008",
+      "timeupdated": "1775365176",
+      "timebuildupdated": "1775365136"
+    },
+    "oldbeta": {
+      "buildid": "21839518",
+      "description": "OldlerVersion",
+      "timeupdated": "1770576972",
+      "timebuildupdated": "1770576971"
+    },
+    "performance_mode": {
+      "buildid": "22859654",
+      "description": "Performance mode for computers that can't handle the trees with the meat.",
+      "timeupdated": "1776646666",
+      "timebuildupdated": "1776641953"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1583391": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7481637673936492304",
+          "size": "1590182248",
+          "download": "1431912192"
+        }
+      }
+    },
+    "1583392": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1851574028485838371",
+          "size": "1567238336",
+          "download": "1347631648"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22653008",
+        "timeupdated": "1775365176",
+        "timebuildupdated": "1775365136"
+      },
+      "oldbeta": {
+        "buildid": "21839518",
+        "description": "OldlerVersion",
+        "timeupdated": "1770576972",
+        "timebuildupdated": "1770576971"
+      },
+      "performance_mode": {
+        "buildid": "22859654",
+        "description": "Performance mode for computers that can't handle the trees with the meat.",
+        "timeupdated": "1776646666",
+        "timebuildupdated": "1776641953"
+      }
+    }
+  }
+}

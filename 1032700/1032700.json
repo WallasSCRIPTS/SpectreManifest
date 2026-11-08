@@ -1,0 +1,60 @@
+{
+  "name": "Bus Driving Sim 22",
+  "source": "spectre",
+  "changenumber": 37439940,
+  "updated": "2026-11-07T21:02:38.602Z",
+  "branches": {
+    "public": {
+      "buildid": "10451810",
+      "timeupdated": "1675252576",
+      "timebuildupdated": "1675252576"
+    },
+    "local": {
+      "buildid": "3620793",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1551870380",
+      "timebuildupdated": "1551870380"
+    }
+  },
+  "depot": {
+    "1032701": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5327669058055321689",
+          "size": "9181815034",
+          "download": "2793085024"
+        }
+      }
+    },
+    "1032702": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2709895807967614755",
+          "size": "9296594188",
+          "download": "2818241904"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10451810",
+        "timeupdated": "1675252576",
+        "timebuildupdated": "1675252576"
+      },
+      "local": {
+        "buildid": "3620793",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1551870380",
+        "timebuildupdated": "1551870380"
+      }
+    }
+  }
+}

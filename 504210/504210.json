@@ -1,0 +1,64 @@
+{
+  "name": "SHENZHEN I/O",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:21.480Z",
+  "branches": {
+    "public": {
+      "buildid": "9646624",
+      "timeupdated": "1664842020",
+      "timebuildupdated": "1664841994"
+    }
+  },
+  "depot": {
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "504211": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2471918496284947296",
+          "size": "404906730",
+          "download": "249172864"
+        }
+      }
+    },
+    "504212": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1521896588101398132",
+          "size": "430041231",
+          "download": "255647408"
+        }
+      }
+    },
+    "504213": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2959163667112803030",
+          "size": "458845960",
+          "download": "264132112"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9646624",
+        "timeupdated": "1664842020",
+        "timebuildupdated": "1664841994"
+      }
+    }
+  }
+}

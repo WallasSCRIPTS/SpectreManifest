@@ -1,0 +1,74 @@
+{
+  "name": "iBomber Defense Pacific",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:01.820Z",
+  "branches": {
+    "public": {
+      "buildid": "814691",
+      "timebuildupdated": "1444824334"
+    }
+  },
+  "depot": {
+    "206691": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5292737655295090146",
+          "size": "146367583",
+          "download": "118136720"
+        }
+      }
+    },
+    "206692": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1753601648640002669",
+          "size": "152403129",
+          "download": "122278176"
+        }
+      }
+    },
+    "206693": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6037575719226579979",
+          "size": "146881184",
+          "download": "117844272"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "814691",
+        "timebuildupdated": "1444824334"
+      }
+    }
+  }
+}

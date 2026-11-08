@@ -1,0 +1,80 @@
+{
+  "name": "Virtual-O",
+  "source": "spectre",
+  "changenumber": 40703842,
+  "updated": "2026-11-07T20:58:32.286Z",
+  "branches": {
+    "public": {
+      "buildid": "3438294",
+      "timeupdated": "1546635843",
+      "timebuildupdated": "1546444111"
+    },
+    "beta": {
+      "buildid": "5155562",
+      "timeupdated": "1591964818",
+      "timebuildupdated": "1591964291"
+    },
+    "legacy": {
+      "buildid": "1601973",
+      "timeupdated": "1510664838",
+      "timebuildupdated": "1485895161"
+    },
+    "trail_experimental": {
+      "buildid": "4906519",
+      "timeupdated": "1587062689",
+      "timebuildupdated": "1587059137"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "529021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1793945287026902477",
+          "size": "7972848069",
+          "download": "2651385824"
+        }
+      }
+    },
+    "529022": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "529023": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3438294",
+        "timeupdated": "1546635843",
+        "timebuildupdated": "1546444111"
+      },
+      "beta": {
+        "buildid": "5155562",
+        "timeupdated": "1591964818",
+        "timebuildupdated": "1591964291"
+      },
+      "legacy": {
+        "buildid": "1601973",
+        "timeupdated": "1510664838",
+        "timebuildupdated": "1485895161"
+      },
+      "trail_experimental": {
+        "buildid": "4906519",
+        "timeupdated": "1587062689",
+        "timebuildupdated": "1587059137"
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Heroes of Science and Fiction",
+  "source": "spectre",
+  "changenumber": 40629168,
+  "updated": "2026-11-06T23:17:37.517Z",
+  "branches": {
+    "public": {
+      "buildid": "26164665",
+      "timeupdated": "1792794942",
+      "timebuildupdated": "1792771117"
+    },
+    "test": {
+      "buildid": "26458421",
+      "description": "staging branch for builds",
+      "timeupdated": "1793883365",
+      "timebuildupdated": "1793883262"
+    }
+  },
+  "depot": {
+    "2147381": {},
+    "2147382": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7499553089005932883",
+          "size": "4877530488",
+          "download": "1956822752"
+        }
+      }
+    },
+    "2147383": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5309191810954473206",
+          "size": "4891376474",
+          "download": "1958182656"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26164665",
+        "timeupdated": "1792794942",
+        "timebuildupdated": "1792771117"
+      },
+      "test": {
+        "buildid": "26458421",
+        "description": "staging branch for builds",
+        "timeupdated": "1793883365",
+        "timebuildupdated": "1793883262"
+      }
+    }
+  }
+}

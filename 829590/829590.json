@@ -1,0 +1,173 @@
+{
+  "name": "CryoFall",
+  "source": "spectre",
+  "changenumber": 37437721,
+  "updated": "2026-11-07T21:01:00.914Z",
+  "branches": {
+    "public": {
+      "buildid": "9211694",
+      "timeupdated": "1659051231",
+      "timebuildupdated": "1659051231"
+    },
+    "legacy-a25": {
+      "buildid": "4855693",
+      "description": "Old (A25) version of the game client.",
+      "timeupdated": "1601726393",
+      "timebuildupdated": "1585921814"
+    },
+    "legacy-a26": {
+      "buildid": "5107198",
+      "description": "Old (A26) version of the game client.",
+      "timeupdated": "1601726558",
+      "timebuildupdated": "1591053996"
+    },
+    "legacy-a27": {
+      "buildid": "5381558",
+      "description": "Old (A27) version of the game client.",
+      "timeupdated": "1601726590",
+      "timebuildupdated": "1596749528"
+    },
+    "legacy-a28": {
+      "buildid": "5881899",
+      "description": "Old (A28) version of the game client.",
+      "timeupdated": "1611060396",
+      "timebuildupdated": "1606328004"
+    },
+    "legacy-a29": {
+      "buildid": "6367797",
+      "description": "Old (A29) version of the game client.",
+      "timeupdated": "1618570911",
+      "timebuildupdated": "1615496993"
+    },
+    "legacy-r30": {
+      "buildid": "6977335",
+      "description": "Old (R30) version of the game client.",
+      "timeupdated": "1633693524",
+      "timebuildupdated": "1625402657"
+    },
+    "legacy-r31": {
+      "buildid": "7826819",
+      "description": "Legacy version (R31) for compatibility with servers that were not updated.",
+      "timeupdated": "1640955385",
+      "timebuildupdated": "1638586999"
+    },
+    "legacy-r31-1.31.7.2": {
+      "buildid": "7553419",
+      "description": "Legacy version (R31 Patch #4) for compatibility with servers that were not updated.",
+      "timeupdated": "1635379222",
+      "timebuildupdated": "1634565556"
+    },
+    "legacy-r31-1.31.8.7": {
+      "buildid": "7723117",
+      "description": "Legacy version (R31 Patch #7) for compatibility with servers that were not updated.",
+      "timeupdated": "1638563880",
+      "timebuildupdated": "1637082319"
+    },
+    "legacy-r32": {
+      "buildid": "7962481",
+      "description": "Legacy version (R32) for compatibility with servers that were not updated.",
+      "timeupdated": "1645065295",
+      "timebuildupdated": "1641153044"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "829591": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4099247285123110628",
+          "size": "853757357",
+          "download": "533196560"
+        }
+      }
+    },
+    "1178321": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3915988355857129570",
+          "size": "61488781",
+          "download": "60752640"
+        }
+      },
+      "dlcappid": "1178321"
+    },
+    "branches": {
+      "public": {
+        "buildid": "9211694",
+        "timeupdated": "1659051231",
+        "timebuildupdated": "1659051231"
+      },
+      "legacy-a25": {
+        "buildid": "4855693",
+        "description": "Old (A25) version of the game client.",
+        "timeupdated": "1601726393",
+        "timebuildupdated": "1585921814"
+      },
+      "legacy-a26": {
+        "buildid": "5107198",
+        "description": "Old (A26) version of the game client.",
+        "timeupdated": "1601726558",
+        "timebuildupdated": "1591053996"
+      },
+      "legacy-a27": {
+        "buildid": "5381558",
+        "description": "Old (A27) version of the game client.",
+        "timeupdated": "1601726590",
+        "timebuildupdated": "1596749528"
+      },
+      "legacy-a28": {
+        "buildid": "5881899",
+        "description": "Old (A28) version of the game client.",
+        "timeupdated": "1611060396",
+        "timebuildupdated": "1606328004"
+      },
+      "legacy-a29": {
+        "buildid": "6367797",
+        "description": "Old (A29) version of the game client.",
+        "timeupdated": "1618570911",
+        "timebuildupdated": "1615496993"
+      },
+      "legacy-r30": {
+        "buildid": "6977335",
+        "description": "Old (R30) version of the game client.",
+        "timeupdated": "1633693524",
+        "timebuildupdated": "1625402657"
+      },
+      "legacy-r31": {
+        "buildid": "7826819",
+        "description": "Legacy version (R31) for compatibility with servers that were not updated.",
+        "timeupdated": "1640955385",
+        "timebuildupdated": "1638586999"
+      },
+      "legacy-r31-1.31.7.2": {
+        "buildid": "7553419",
+        "description": "Legacy version (R31 Patch #4) for compatibility with servers that were not updated.",
+        "timeupdated": "1635379222",
+        "timebuildupdated": "1634565556"
+      },
+      "legacy-r31-1.31.8.7": {
+        "buildid": "7723117",
+        "description": "Legacy version (R31 Patch #7) for compatibility with servers that were not updated.",
+        "timeupdated": "1638563880",
+        "timebuildupdated": "1637082319"
+      },
+      "legacy-r32": {
+        "buildid": "7962481",
+        "description": "Legacy version (R32) for compatibility with servers that were not updated.",
+        "timeupdated": "1645065295",
+        "timebuildupdated": "1641153044"
+      }
+    }
+  }
+}

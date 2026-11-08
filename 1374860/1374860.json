@@ -1,0 +1,84 @@
+{
+  "name": "Nocturne",
+  "source": "spectre",
+  "changenumber": 40620263,
+  "updated": "2026-11-05T14:53:28.039Z",
+  "branches": {
+    "public": {
+      "buildid": "25808143",
+      "timeupdated": "1791495344",
+      "timebuildupdated": "1791474493"
+    },
+    "patch1.0.2": {
+      "buildid": "25684815",
+      "description": "a previous release",
+      "timeupdated": "1791003409",
+      "timebuildupdated": "1790968902"
+    },
+    "patch1.0.1": {
+      "buildid": "25487568",
+      "description": "a previous release",
+      "timeupdated": "1790202116",
+      "timebuildupdated": "1790184412"
+    },
+    "release1.0.0": {
+      "buildid": "25460029",
+      "description": "original launch build",
+      "timeupdated": "1790090881",
+      "timebuildupdated": "1790083562"
+    },
+    "local": {
+      "buildid": "11949927",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1692140988",
+      "timebuildupdated": "1692140988"
+    }
+  },
+  "depot": {
+    "1374861": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3898600985879800559",
+          "size": "14705707437",
+          "download": "5671251584"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25808143",
+        "timeupdated": "1791495344",
+        "timebuildupdated": "1791474493"
+      },
+      "patch1.0.2": {
+        "buildid": "25684815",
+        "description": "a previous release",
+        "timeupdated": "1791003409",
+        "timebuildupdated": "1790968902"
+      },
+      "patch1.0.1": {
+        "buildid": "25487568",
+        "description": "a previous release",
+        "timeupdated": "1790202116",
+        "timebuildupdated": "1790184412"
+      },
+      "release1.0.0": {
+        "buildid": "25460029",
+        "description": "original launch build",
+        "timeupdated": "1790090881",
+        "timebuildupdated": "1790083562"
+      },
+      "local": {
+        "buildid": "11949927",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1692140988",
+        "timebuildupdated": "1692140988"
+      }
+    }
+  }
+}

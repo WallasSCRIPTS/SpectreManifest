@@ -1,0 +1,67 @@
+{
+  "name": "Axis Football 2023",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:17:32.397Z",
+  "branches": {
+    "public": {
+      "buildid": "10139374",
+      "timeupdated": "1670952976",
+      "timebuildupdated": "1670952976"
+    },
+    "patch_test": {
+      "buildid": "9501154",
+      "description": "Testing grounds for new patch",
+      "timeupdated": "1663012454",
+      "timebuildupdated": "1663012454"
+    }
+  },
+  "depot": {
+    "2103641": {
+      "manifests": {
+        "public": {
+          "gid": "6623913768428673835",
+          "size": "4693602866",
+          "download": "1361850912"
+        }
+      }
+    },
+    "2103642": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1122480393646441974",
+          "size": "4686813708",
+          "download": "1358767984"
+        }
+      }
+    },
+    "2103643": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6744599792671324684",
+          "size": "4748315355",
+          "download": "1368117488"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10139374",
+        "timeupdated": "1670952976",
+        "timebuildupdated": "1670952976"
+      },
+      "patch_test": {
+        "buildid": "9501154",
+        "description": "Testing grounds for new patch",
+        "timeupdated": "1663012454",
+        "timebuildupdated": "1663012454"
+      }
+    }
+  }
+}

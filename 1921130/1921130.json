@@ -1,0 +1,70 @@
+{
+  "name": "Disinfection",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:13:31.297Z",
+  "branches": {
+    "public": {
+      "buildid": "24070025",
+      "timeupdated": "1783328742",
+      "timebuildupdated": "1783328679"
+    },
+    "testing": {
+      "buildid": "24795632",
+      "description": "Testing Beta",
+      "timeupdated": "1787053152",
+      "timebuildupdated": "1787053152"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1921131": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8086283442548448336",
+          "size": "1732260176",
+          "download": "631547216"
+        }
+      }
+    },
+    "1921132": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3656373940369235275",
+          "size": "1698872440",
+          "download": "623530720"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24070025",
+        "timeupdated": "1783328742",
+        "timebuildupdated": "1783328679"
+      },
+      "testing": {
+        "buildid": "24795632",
+        "description": "Testing Beta",
+        "timeupdated": "1787053152",
+        "timebuildupdated": "1787053152"
+      }
+    }
+  }
+}

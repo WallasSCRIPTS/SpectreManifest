@@ -1,0 +1,70 @@
+{
+  "name": "My Night Job",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:50.861Z",
+  "branches": {
+    "public": {
+      "buildid": "17124462",
+      "timeupdated": "1737749521",
+      "timebuildupdated": "1737749521"
+    },
+    "mnjbeta": {
+      "buildid": "17122830",
+      "description": "Public test build",
+      "timeupdated": "1737739724",
+      "timebuildupdated": "1737739724"
+    }
+  },
+  "depot": {
+    "437101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5731242680489723734",
+          "size": "552497634",
+          "download": "116621296"
+        }
+      }
+    },
+    "437102": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6590720630603469640",
+          "size": "578254201",
+          "download": "124212656"
+        }
+      }
+    },
+    "437103": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6261412698605525298",
+          "size": "433564889",
+          "download": "84491504"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17124462",
+        "timeupdated": "1737749521",
+        "timebuildupdated": "1737749521"
+      },
+      "mnjbeta": {
+        "buildid": "17122830",
+        "description": "Public test build",
+        "timeupdated": "1737739724",
+        "timebuildupdated": "1737739724"
+      }
+    }
+  }
+}

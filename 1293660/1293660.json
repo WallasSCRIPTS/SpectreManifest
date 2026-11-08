@@ -1,0 +1,76 @@
+{
+  "name": "Gemini: Binary Conflict",
+  "source": "spectre",
+  "changenumber": 39554034,
+  "updated": "2026-11-06T21:04:13.580Z",
+  "branches": {
+    "public": {
+      "buildid": "14679402",
+      "timeupdated": "1718122193",
+      "timebuildupdated": "1718118125"
+    },
+    "testing": {
+      "buildid": "14679402",
+      "description": "testing branch",
+      "timeupdated": "1718118168",
+      "timebuildupdated": "1718118125"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229005": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1293661": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2960155584046060445",
+          "size": "10730515852",
+          "download": "4181127088"
+        }
+      }
+    },
+    "1293662": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6998076120822741166",
+          "size": "10877049597",
+          "download": "4178124752"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14679402",
+        "timeupdated": "1718122193",
+        "timebuildupdated": "1718118125"
+      },
+      "testing": {
+        "buildid": "14679402",
+        "description": "testing branch",
+        "timeupdated": "1718118168",
+        "timebuildupdated": "1718118125"
+      }
+    }
+  }
+}

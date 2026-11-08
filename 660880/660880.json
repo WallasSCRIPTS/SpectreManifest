@@ -1,0 +1,295 @@
+{
+  "name": "b",
+  "source": "spectre",
+  "changenumber": 40636700,
+  "updated": "2026-11-07T20:59:35.542Z",
+  "branches": {
+    "public": {
+      "buildid": "24055521",
+      "timeupdated": "1783197366",
+      "timebuildupdated": "1783196525"
+    },
+    "10_update8version": {
+      "buildid": "2798484",
+      "description": "the version of update #8 (internal revision f14.1)",
+      "timeupdated": "1528486001",
+      "timebuildupdated": "1527053246"
+    },
+    "11_update9version": {
+      "buildid": "2846917",
+      "description": "the version of update #9 (internal revision f15)",
+      "timeupdated": "1534004154",
+      "timebuildupdated": "1528485246"
+    },
+    "12_update10version": {
+      "buildid": "3025228",
+      "description": "the version of update #10 (internal revision f15.1)",
+      "timeupdated": "1551015740",
+      "timebuildupdated": "1534003782"
+    },
+    "13_update11version": {
+      "buildid": "3589921",
+      "description": "the version of update #11 (internal revision f16)",
+      "timeupdated": "1554565072",
+      "timebuildupdated": "1551015260"
+    },
+    "14_update12version": {
+      "buildid": "3715205",
+      "description": "the version of update #12 (internal revision f16.1)",
+      "timeupdated": "1596898482",
+      "timebuildupdated": "1554564582"
+    },
+    "15_update13version": {
+      "buildid": "5388174",
+      "description": "the version of update #13 (internal revision f17)",
+      "timeupdated": "1656027110",
+      "timebuildupdated": "1596898125"
+    },
+    "16_update14version_rc": {
+      "buildid": "8576704",
+      "description": "ir f17.1",
+      "timeupdated": "1650306566",
+      "timebuildupdated": "1650305784"
+    },
+    "17_update14version": {
+      "buildid": "8997435",
+      "description": "the version of update #14 (internal revision f18)",
+      "timeupdated": "1659490723",
+      "timebuildupdated": "1656026735"
+    },
+    "18_update15version_mod_support_beta": {
+      "buildid": "9011994",
+      "description": "mod support beta",
+      "timeupdated": "1656311847",
+      "timebuildupdated": "1656311402"
+    },
+    "19_update15version": {
+      "buildid": "9241205",
+      "description": "the version of update #15 (internal revision f20)",
+      "timeupdated": "1682027046",
+      "timebuildupdated": "1659490162"
+    },
+    "20_update16version": {
+      "buildid": "11053750",
+      "description": "the version of update #16 (internal revision f21)",
+      "timeupdated": "1693768291",
+      "timebuildupdated": "1682026548"
+    },
+    "7_update6version": {
+      "buildid": "1964850",
+      "description": "the version of update #6 (internal revision f9)",
+      "timeupdated": "1501925305",
+      "timebuildupdated": "1500215731"
+    },
+    "8_experimental": {
+      "buildid": "2642525",
+      "description": "3D flowers, new lighting (internal revision b13)",
+      "timeupdated": "1522264419",
+      "timebuildupdated": "1522264347"
+    },
+    "9_update7version": {
+      "buildid": "2027008",
+      "description": "the version of update #7 (internal revision f12.1)",
+      "timeupdated": "1526927731",
+      "timebuildupdated": "1502345728"
+    },
+    "lastunity5": {
+      "buildid": "1950795",
+      "description": "last Unity 5 version, is update #5 (internal revision f8)",
+      "timeupdated": "1500216158",
+      "timebuildupdated": "1499727711"
+    },
+    "modcandidate": {
+      "buildid": "1998248",
+      "description": "candidate for mod support (internal revision f10)",
+      "timeupdated": "1501439860",
+      "timebuildupdated": "1501439600"
+    },
+    "originalreleasedversion": {
+      "buildid": "1908076",
+      "description": "the original released version (internal revision f4)",
+      "timeupdated": "1498939101",
+      "timebuildupdated": "1498107386"
+    },
+    "preliminaryvr": {
+      "buildid": "2007172",
+      "description": "VR support alpha (internal revision f11.1)",
+      "timeupdated": "1501704139",
+      "timebuildupdated": "1501703951"
+    },
+    "unity2017": {
+      "buildid": "1956016",
+      "description": "version after fresh release of Unity 2017 (internal revision f8 - b1)",
+      "timeupdated": "1499893125",
+      "timebuildupdated": "1499892788"
+    },
+    "update3version": {
+      "buildid": "1931904",
+      "description": "the version of update #3 (internal revision f6)",
+      "timeupdated": "1499630240",
+      "timebuildupdated": "1499027774"
+    },
+    "21_update17version": {
+      "buildid": "12100249",
+      "description": "the version of update #17 (internal revision f22) -- last version before Unity CVE-2025-59489",
+      "timeupdated": "1759504791",
+      "timebuildupdated": "1693766923"
+    },
+    "22_update17version": {
+      "buildid": "20241021",
+      "description": "the version of patched update #17 (internal revision f22 also) -- first version after fix of Unity CVE-2025-59489",
+      "timeupdated": "1759503675",
+      "timebuildupdated": "1759503488"
+    }
+  },
+  "depot": {
+    "660881": {
+      "manifests": {
+        "public": {
+          "gid": "98533320616904149",
+          "size": "434970561",
+          "download": "295970272"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24055521",
+        "timeupdated": "1783197366",
+        "timebuildupdated": "1783196525"
+      },
+      "10_update8version": {
+        "buildid": "2798484",
+        "description": "the version of update #8 (internal revision f14.1)",
+        "timeupdated": "1528486001",
+        "timebuildupdated": "1527053246"
+      },
+      "11_update9version": {
+        "buildid": "2846917",
+        "description": "the version of update #9 (internal revision f15)",
+        "timeupdated": "1534004154",
+        "timebuildupdated": "1528485246"
+      },
+      "12_update10version": {
+        "buildid": "3025228",
+        "description": "the version of update #10 (internal revision f15.1)",
+        "timeupdated": "1551015740",
+        "timebuildupdated": "1534003782"
+      },
+      "13_update11version": {
+        "buildid": "3589921",
+        "description": "the version of update #11 (internal revision f16)",
+        "timeupdated": "1554565072",
+        "timebuildupdated": "1551015260"
+      },
+      "14_update12version": {
+        "buildid": "3715205",
+        "description": "the version of update #12 (internal revision f16.1)",
+        "timeupdated": "1596898482",
+        "timebuildupdated": "1554564582"
+      },
+      "15_update13version": {
+        "buildid": "5388174",
+        "description": "the version of update #13 (internal revision f17)",
+        "timeupdated": "1656027110",
+        "timebuildupdated": "1596898125"
+      },
+      "16_update14version_rc": {
+        "buildid": "8576704",
+        "description": "ir f17.1",
+        "timeupdated": "1650306566",
+        "timebuildupdated": "1650305784"
+      },
+      "17_update14version": {
+        "buildid": "8997435",
+        "description": "the version of update #14 (internal revision f18)",
+        "timeupdated": "1659490723",
+        "timebuildupdated": "1656026735"
+      },
+      "18_update15version_mod_support_beta": {
+        "buildid": "9011994",
+        "description": "mod support beta",
+        "timeupdated": "1656311847",
+        "timebuildupdated": "1656311402"
+      },
+      "19_update15version": {
+        "buildid": "9241205",
+        "description": "the version of update #15 (internal revision f20)",
+        "timeupdated": "1682027046",
+        "timebuildupdated": "1659490162"
+      },
+      "20_update16version": {
+        "buildid": "11053750",
+        "description": "the version of update #16 (internal revision f21)",
+        "timeupdated": "1693768291",
+        "timebuildupdated": "1682026548"
+      },
+      "7_update6version": {
+        "buildid": "1964850",
+        "description": "the version of update #6 (internal revision f9)",
+        "timeupdated": "1501925305",
+        "timebuildupdated": "1500215731"
+      },
+      "8_experimental": {
+        "buildid": "2642525",
+        "description": "3D flowers, new lighting (internal revision b13)",
+        "timeupdated": "1522264419",
+        "timebuildupdated": "1522264347"
+      },
+      "9_update7version": {
+        "buildid": "2027008",
+        "description": "the version of update #7 (internal revision f12.1)",
+        "timeupdated": "1526927731",
+        "timebuildupdated": "1502345728"
+      },
+      "lastunity5": {
+        "buildid": "1950795",
+        "description": "last Unity 5 version, is update #5 (internal revision f8)",
+        "timeupdated": "1500216158",
+        "timebuildupdated": "1499727711"
+      },
+      "modcandidate": {
+        "buildid": "1998248",
+        "description": "candidate for mod support (internal revision f10)",
+        "timeupdated": "1501439860",
+        "timebuildupdated": "1501439600"
+      },
+      "originalreleasedversion": {
+        "buildid": "1908076",
+        "description": "the original released version (internal revision f4)",
+        "timeupdated": "1498939101",
+        "timebuildupdated": "1498107386"
+      },
+      "preliminaryvr": {
+        "buildid": "2007172",
+        "description": "VR support alpha (internal revision f11.1)",
+        "timeupdated": "1501704139",
+        "timebuildupdated": "1501703951"
+      },
+      "unity2017": {
+        "buildid": "1956016",
+        "description": "version after fresh release of Unity 2017 (internal revision f8 - b1)",
+        "timeupdated": "1499893125",
+        "timebuildupdated": "1499892788"
+      },
+      "update3version": {
+        "buildid": "1931904",
+        "description": "the version of update #3 (internal revision f6)",
+        "timeupdated": "1499630240",
+        "timebuildupdated": "1499027774"
+      },
+      "21_update17version": {
+        "buildid": "12100249",
+        "description": "the version of update #17 (internal revision f22) -- last version before Unity CVE-2025-59489",
+        "timeupdated": "1759504791",
+        "timebuildupdated": "1693766923"
+      },
+      "22_update17version": {
+        "buildid": "20241021",
+        "description": "the version of patched update #17 (internal revision f22 also) -- first version after fix of Unity CVE-2025-59489",
+        "timeupdated": "1759503675",
+        "timebuildupdated": "1759503488"
+      }
+    }
+  }
+}

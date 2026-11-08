@@ -1,0 +1,58 @@
+{
+  "name": "The House of Da Vinci 2",
+  "source": "spectre",
+  "changenumber": 37443736,
+  "updated": "2026-11-06T21:03:58.387Z",
+  "branches": {
+    "public": {
+      "buildid": "21005906",
+      "timeupdated": "1765529991",
+      "timebuildupdated": "1764591533"
+    },
+    "low-end": {
+      "buildid": "6381418",
+      "description": "for low-end hardware",
+      "timeupdated": "1615793392",
+      "timebuildupdated": "1615793392"
+    }
+  },
+  "depot": {
+    "1259841": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1227875885545364275",
+          "size": "6744774209",
+          "download": "2752846400"
+        }
+      }
+    },
+    "1259842": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8042219494142852225",
+          "size": "6769351645",
+          "download": "3089251184"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21005906",
+        "timeupdated": "1765529991",
+        "timebuildupdated": "1764591533"
+      },
+      "low-end": {
+        "buildid": "6381418",
+        "description": "for low-end hardware",
+        "timeupdated": "1615793392",
+        "timebuildupdated": "1615793392"
+      }
+    }
+  }
+}

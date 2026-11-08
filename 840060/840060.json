@@ -1,0 +1,70 @@
+{
+  "name": "Good Doggo",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T21:01:05.325Z",
+  "branches": {
+    "public": {
+      "buildid": "2793195",
+      "timeupdated": "1526921427",
+      "timebuildupdated": "1526916322"
+    },
+    "beta": {
+      "buildid": "2793195",
+      "description": "beta test for next patch",
+      "timeupdated": "1526916645",
+      "timebuildupdated": "1526916322"
+    }
+  },
+  "depot": {
+    "840061": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3556104804014949753",
+          "size": "55677369",
+          "download": "22230832"
+        }
+      }
+    },
+    "840062": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7938468448063698379",
+          "size": "76239774",
+          "download": "26380384"
+        }
+      }
+    },
+    "840063": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6938158940793219449",
+          "size": "107977337",
+          "download": "38384848"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2793195",
+        "timeupdated": "1526921427",
+        "timebuildupdated": "1526916322"
+      },
+      "beta": {
+        "buildid": "2793195",
+        "description": "beta test for next patch",
+        "timeupdated": "1526916645",
+        "timebuildupdated": "1526916322"
+      }
+    }
+  }
+}

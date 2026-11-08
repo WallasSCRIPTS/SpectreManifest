@@ -1,0 +1,90 @@
+{
+  "name": "Waves 2: Notorious",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:04.401Z",
+  "branches": {
+    "public": {
+      "buildid": "6788920",
+      "timeupdated": "1622560310",
+      "timebuildupdated": "1622489788"
+    },
+    "alpha7": {
+      "buildid": "4072744",
+      "timeupdated": "1565889772",
+      "timebuildupdated": "1564861020"
+    },
+    "local": {
+      "buildid": "950912",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1453994909"
+    },
+    "preview": {
+      "buildid": "5357819",
+      "timeupdated": "1596222699",
+      "timebuildupdated": "1596222012"
+    }
+  },
+  "depot": {
+    "217121": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5369516543322501846",
+          "size": "460687449",
+          "download": "287461408"
+        }
+      }
+    },
+    "217122": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3642224462417286389",
+          "size": "542336806",
+          "download": "274603136"
+        }
+      }
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "6788920",
+        "timeupdated": "1622560310",
+        "timebuildupdated": "1622489788"
+      },
+      "alpha7": {
+        "buildid": "4072744",
+        "timeupdated": "1565889772",
+        "timebuildupdated": "1564861020"
+      },
+      "local": {
+        "buildid": "950912",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1453994909"
+      },
+      "preview": {
+        "buildid": "5357819",
+        "timeupdated": "1596222699",
+        "timebuildupdated": "1596222012"
+      }
+    }
+  }
+}

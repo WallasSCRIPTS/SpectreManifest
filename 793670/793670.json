@@ -1,0 +1,79 @@
+{
+  "name": "The Wastes",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:45.007Z",
+  "branches": {
+    "public": {
+      "buildid": "9016306",
+      "timeupdated": "1656360267",
+      "timebuildupdated": "1656359178"
+    },
+    "1.3beta": {
+      "buildid": "8915081",
+      "description": "1.3 beta",
+      "timeupdated": "1654901608",
+      "timebuildupdated": "1654901608"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "793671": {
+      "manifests": {
+        "public": {
+          "gid": "7354967532841918679",
+          "size": "632775251",
+          "download": "222240848"
+        }
+      }
+    },
+    "793672": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8003693679418318254",
+          "size": "13885989",
+          "download": "4971248"
+        }
+      }
+    },
+    "793673": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "47556486230675027",
+          "size": "13104375",
+          "download": "4637920"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9016306",
+        "timeupdated": "1656360267",
+        "timebuildupdated": "1656359178"
+      },
+      "1.3beta": {
+        "buildid": "8915081",
+        "description": "1.3 beta",
+        "timeupdated": "1654901608",
+        "timebuildupdated": "1654901608"
+      }
+    }
+  }
+}

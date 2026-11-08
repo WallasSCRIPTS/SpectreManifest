@@ -1,0 +1,108 @@
+{
+  "name": "Paralyzed",
+  "source": "spectre",
+  "changenumber": 36631845,
+  "updated": "2026-11-06T21:05:04.026Z",
+  "branches": {
+    "public": {
+      "buildid": "6300783",
+      "timeupdated": "1614356526",
+      "timebuildupdated": "1614356496"
+    },
+    "local": {
+      "buildid": "5484383",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1598905054",
+      "timebuildupdated": "1598905054"
+    }
+  },
+  "depot": {
+    "1412501": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2179575141781273234",
+          "size": "132992910",
+          "download": "97243072"
+        }
+      }
+    },
+    "1412502": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6242121252999889081",
+          "size": "129437872",
+          "download": "96266176"
+        }
+      }
+    },
+    "1412503": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4957821251163576406",
+          "size": "152425480",
+          "download": "99586576"
+        }
+      }
+    },
+    "1412504": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3657025774431331027",
+          "size": "132992910",
+          "download": "97259648"
+        }
+      }
+    },
+    "1412505": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7252834300284865003",
+          "size": "129437872",
+          "download": "96282752"
+        }
+      }
+    },
+    "1412506": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6676121645949430207",
+          "size": "152425480",
+          "download": "99625248"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6300783",
+        "timeupdated": "1614356526",
+        "timebuildupdated": "1614356496"
+      },
+      "local": {
+        "buildid": "5484383",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1598905054",
+        "timebuildupdated": "1598905054"
+      }
+    }
+  }
+}

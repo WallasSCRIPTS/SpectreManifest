@@ -1,0 +1,82 @@
+{
+  "name": "Block Story",
+  "source": "spectre",
+  "changenumber": 40696940,
+  "updated": "2026-11-07T20:56:18.712Z",
+  "branches": {
+    "public": {
+      "buildid": "26502591",
+      "timeupdated": "1794037336",
+      "timebuildupdated": "1794037336"
+    },
+    "14.0beta": {
+      "buildid": "23654172",
+      "description": "Block Story 14.0 Beta",
+      "timeupdated": "1781065291",
+      "timebuildupdated": "1781065027"
+    },
+    "beta": {
+      "buildid": "1531702",
+      "description": "beta branch",
+      "timeupdated": "1482257132",
+      "timebuildupdated": "1482256879"
+    }
+  },
+  "depot": {
+    "270111": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7589104121071534965",
+          "size": "1689348645",
+          "download": "820924288"
+        }
+      }
+    },
+    "270112": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5014518440757922473",
+          "size": "1694127877",
+          "download": "822465072"
+        }
+      }
+    },
+    "270113": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "33453662325617584",
+          "size": "1706261942",
+          "download": "819879184"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26502591",
+        "timeupdated": "1794037336",
+        "timebuildupdated": "1794037336"
+      },
+      "14.0beta": {
+        "buildid": "23654172",
+        "description": "Block Story 14.0 Beta",
+        "timeupdated": "1781065291",
+        "timebuildupdated": "1781065027"
+      },
+      "beta": {
+        "buildid": "1531702",
+        "description": "beta branch",
+        "timeupdated": "1482257132",
+        "timebuildupdated": "1482256879"
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "name": "TurBot",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:07:01.474Z",
+  "branches": {
+    "public": {
+      "buildid": "8435820",
+      "timeupdated": "1648178763",
+      "timebuildupdated": "1648178660"
+    },
+    "beta": {
+      "buildid": "8435820",
+      "description": "Used for testing unreleased builds of TurBot",
+      "timeupdated": "1648178696",
+      "timebuildupdated": "1648178660"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1677621": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4024184775899987593",
+          "size": "4970879710",
+          "download": "1098110656"
+        }
+      }
+    },
+    "1677622": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8435820",
+        "timeupdated": "1648178763",
+        "timebuildupdated": "1648178660"
+      },
+      "beta": {
+        "buildid": "8435820",
+        "description": "Used for testing unreleased builds of TurBot",
+        "timeupdated": "1648178696",
+        "timebuildupdated": "1648178660"
+      }
+    }
+  }
+}

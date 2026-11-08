@@ -1,0 +1,51 @@
+{
+  "name": "VOLTED",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:12.506Z",
+  "branches": {
+    "public": {
+      "buildid": "6916986",
+      "timeupdated": "1624652247",
+      "timebuildupdated": "1624431362"
+    },
+    "public_beta": {
+      "buildid": "6916986",
+      "description": "at your own risk",
+      "timeupdated": "1624646303",
+      "timebuildupdated": "1624431362"
+    }
+  },
+  "depot": {
+    "605921": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3988409020184357085",
+          "size": "103775821",
+          "download": "28411136"
+        }
+      }
+    },
+    "605922": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6916986",
+        "timeupdated": "1624652247",
+        "timebuildupdated": "1624431362"
+      },
+      "public_beta": {
+        "buildid": "6916986",
+        "description": "at your own risk",
+        "timeupdated": "1624646303",
+        "timebuildupdated": "1624431362"
+      }
+    }
+  }
+}

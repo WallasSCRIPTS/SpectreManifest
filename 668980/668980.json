@@ -1,0 +1,97 @@
+{
+  "name": "Forsaken Remastered",
+  "source": "spectre",
+  "changenumber": 40230359,
+  "updated": "2026-11-07T20:59:39.788Z",
+  "branches": {
+    "public": {
+      "buildid": "3156111",
+      "timeupdated": "1537912043",
+      "timebuildupdated": "1537910825"
+    },
+    "beta": {
+      "buildid": "3329465",
+      "description": "Public Beta",
+      "timeupdated": "1542844190",
+      "timebuildupdated": "1542844135"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "668981": {
+      "manifests": {
+        "public": {
+          "gid": "5329037690666682771",
+          "size": "394852373",
+          "download": "394343024"
+        }
+      }
+    },
+    "668982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4326531237240404586",
+          "size": "12658906",
+          "download": "4452368"
+        }
+      }
+    },
+    "668983": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "301001135560871478",
+          "size": "19799413",
+          "download": "4950368"
+        }
+      }
+    },
+    "668984": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "867002805512701553",
+          "size": "12394979",
+          "download": "3597728"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3156111",
+        "timeupdated": "1537912043",
+        "timebuildupdated": "1537910825"
+      },
+      "beta": {
+        "buildid": "3329465",
+        "description": "Public Beta",
+        "timeupdated": "1542844190",
+        "timebuildupdated": "1542844135"
+      }
+    }
+  }
+}

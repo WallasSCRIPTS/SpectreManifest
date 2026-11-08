@@ -1,0 +1,110 @@
+{
+  "name": "!Anyway!",
+  "source": "spectre",
+  "changenumber": 40528179,
+  "updated": "2026-11-07T21:01:16.986Z",
+  "branches": {
+    "public": {
+      "buildid": "16401529",
+      "timeupdated": "1731560543",
+      "timebuildupdated": "1731560543"
+    },
+    "anyway_lite": {
+      "buildid": "12333067",
+      "description": "Lite version",
+      "timeupdated": "1696237968",
+      "timebuildupdated": "1696237968"
+    },
+    "v12_stable": {
+      "buildid": "8207697",
+      "description": "anyway v12",
+      "timeupdated": "1657671425",
+      "timebuildupdated": "1644941802"
+    }
+  },
+  "depot": {
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "866511": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "117069480116169429",
+          "size": "84437915",
+          "download": "59082752"
+        }
+      }
+    },
+    "866512": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9089783337599984629",
+          "size": "10655946",
+          "download": "4896848"
+        }
+      }
+    },
+    "866513": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8078108702814522566",
+          "size": "13486957",
+          "download": "3916928"
+        }
+      }
+    },
+    "866515": {},
+    "866516": {
+      "manifests": {
+        "public": {
+          "gid": "6040706876715324802",
+          "size": "309973974",
+          "download": "262961552"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16401529",
+        "timeupdated": "1731560543",
+        "timebuildupdated": "1731560543"
+      },
+      "anyway_lite": {
+        "buildid": "12333067",
+        "description": "Lite version",
+        "timeupdated": "1696237968",
+        "timebuildupdated": "1696237968"
+      },
+      "v12_stable": {
+        "buildid": "8207697",
+        "description": "anyway v12",
+        "timeupdated": "1657671425",
+        "timebuildupdated": "1644941802"
+      }
+    }
+  }
+}

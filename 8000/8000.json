@@ -1,0 +1,92 @@
+{
+  "name": "Tomb Raider: Anniversary",
+  "source": "spectre",
+  "changenumber": 38635991,
+  "updated": "2026-11-07T20:55:43.880Z",
+  "branches": {
+    "public": {
+      "buildid": "842717",
+      "timebuildupdated": "1446559933"
+    },
+    "local": {
+      "buildid": "862675",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1447813048"
+    }
+  },
+  "depot": {
+    "8001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "673843596600290444",
+          "size": "1467169752",
+          "download": "0"
+        }
+      }
+    },
+    "8002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3539074135745778285",
+          "size": "1399744512",
+          "download": "0"
+        }
+      }
+    },
+    "8003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1511543773474975845",
+          "size": "1285703680",
+          "download": "0"
+        }
+      }
+    },
+    "8004": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7764973269043582719",
+          "size": "35188605",
+          "download": "18549104"
+        }
+      }
+    },
+    "8005": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5094234521168121858",
+          "size": "4107463924",
+          "download": "2479190608"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "842717",
+        "timebuildupdated": "1446559933"
+      },
+      "local": {
+        "buildid": "862675",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1447813048"
+      }
+    }
+  }
+}

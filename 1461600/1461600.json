@@ -1,0 +1,84 @@
+{
+  "name": "Project Sparrow",
+  "source": "spectre",
+  "changenumber": 40571543,
+  "updated": "2026-11-06T21:05:27.017Z",
+  "branches": {
+    "public": {
+      "buildid": "26091205",
+      "timeupdated": "1792534380",
+      "timebuildupdated": "1792533175"
+    },
+    "local": {
+      "buildid": "12739867",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1700312291",
+      "timebuildupdated": "1700312291"
+    },
+    "beta": {
+      "buildid": "21166102",
+      "description": "public preview",
+      "timeupdated": "1792524117",
+      "timebuildupdated": "1765556335"
+    },
+    "og-sparrow": {
+      "buildid": "23967881",
+      "description": "Original version of Project Sparrow",
+      "timeupdated": "1782747658",
+      "timebuildupdated": "1782745196"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1461601": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5586510852946432248",
+          "size": "5140250553",
+          "download": "4299819184"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26091205",
+        "timeupdated": "1792534380",
+        "timebuildupdated": "1792533175"
+      },
+      "local": {
+        "buildid": "12739867",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1700312291",
+        "timebuildupdated": "1700312291"
+      },
+      "beta": {
+        "buildid": "21166102",
+        "description": "public preview",
+        "timeupdated": "1792524117",
+        "timebuildupdated": "1765556335"
+      },
+      "og-sparrow": {
+        "buildid": "23967881",
+        "description": "Original version of Project Sparrow",
+        "timeupdated": "1782747658",
+        "timebuildupdated": "1782745196"
+      }
+    }
+  }
+}

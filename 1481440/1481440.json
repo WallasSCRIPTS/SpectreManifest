@@ -1,0 +1,64 @@
+{
+  "name": "Guardians Frontline",
+  "source": "spectre",
+  "changenumber": 40199456,
+  "updated": "2026-11-06T21:05:35.575Z",
+  "branches": {
+    "public": {
+      "buildid": "25455402",
+      "timeupdated": "1790077927",
+      "timebuildupdated": "1790068042"
+    },
+    "local": {
+      "buildid": "6147277",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1611769128",
+      "timebuildupdated": "1611769128"
+    },
+    "test": {
+      "buildid": "25455402",
+      "description": "Beta",
+      "timeupdated": "1790068900",
+      "timebuildupdated": "1790068042"
+    }
+  },
+  "depot": {
+    "1481441": {
+      "manifests": {
+        "public": {
+          "gid": "5682385285645743349",
+          "size": "13921369276",
+          "download": "7642587792"
+        }
+      }
+    },
+    "1481442": {},
+    "3273200": {
+      "dlcappid": "3273200"
+    },
+    "3376420": {
+      "dlcappid": "3376420"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25455402",
+        "timeupdated": "1790077927",
+        "timebuildupdated": "1790068042"
+      },
+      "local": {
+        "buildid": "6147277",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1611769128",
+        "timebuildupdated": "1611769128"
+      },
+      "test": {
+        "buildid": "25455402",
+        "description": "Beta",
+        "timeupdated": "1790068900",
+        "timebuildupdated": "1790068042"
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Kingdoms",
+  "source": "spectre",
+  "changenumber": 38036415,
+  "updated": "2026-11-07T20:57:36.816Z",
+  "branches": {
+    "public": {
+      "buildid": "7431952",
+      "timeupdated": "1632757157",
+      "timebuildupdated": "1632756539"
+    },
+    "october_2015": {
+      "buildid": "823927",
+      "timeupdated": "1554368149",
+      "timebuildupdated": "1445380012"
+    },
+    "update_17.1": {
+      "buildid": "1835481",
+      "timeupdated": "1497517609",
+      "timebuildupdated": "1495286777"
+    },
+    "update_testing": {
+      "buildid": "7431952",
+      "timeupdated": "1632756539",
+      "timebuildupdated": "1632756539"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "409591": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5202137473339462310",
+          "size": "3832503741",
+          "download": "1734939072"
+        }
+      }
+    },
+    "409592": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7962008074091394625",
+          "size": "6021404573",
+          "download": "2216634768"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7431952",
+        "timeupdated": "1632757157",
+        "timebuildupdated": "1632756539"
+      },
+      "october_2015": {
+        "buildid": "823927",
+        "timeupdated": "1554368149",
+        "timebuildupdated": "1445380012"
+      },
+      "update_17.1": {
+        "buildid": "1835481",
+        "timeupdated": "1497517609",
+        "timebuildupdated": "1495286777"
+      },
+      "update_testing": {
+        "buildid": "7431952",
+        "timeupdated": "1632756539",
+        "timebuildupdated": "1632756539"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "MakerKing",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-06T21:05:51.659Z",
+  "branches": {
+    "public": {
+      "buildid": "26124269",
+      "timeupdated": "1792641071",
+      "timebuildupdated": "1792641012"
+    },
+    "beta": {
+      "buildid": "26314484",
+      "description": "Beta branch",
+      "timeupdated": "1793331600",
+      "timebuildupdated": "1793331506"
+    }
+  },
+  "depot": {
+    "1518442": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4772194326904037554",
+          "size": "611079443",
+          "download": "508184352"
+        }
+      }
+    },
+    "1518443": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4189363711836528055",
+          "size": "569501789",
+          "download": "495522544"
+        }
+      }
+    },
+    "1518444": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1746286759462818346",
+          "size": "604062393",
+          "download": "513423392"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26124269",
+        "timeupdated": "1792641071",
+        "timebuildupdated": "1792641012"
+      },
+      "beta": {
+        "buildid": "26314484",
+        "description": "Beta branch",
+        "timeupdated": "1793331600",
+        "timebuildupdated": "1793331506"
+      }
+    }
+  }
+}

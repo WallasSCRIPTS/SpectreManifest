@@ -1,0 +1,70 @@
+{
+  "name": "BrambleLash",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:57.961Z",
+  "branches": {
+    "public": {
+      "buildid": "2115935",
+      "timeupdated": "1505363046",
+      "timebuildupdated": "1505320791"
+    },
+    "beta": {
+      "buildid": "2115935",
+      "description": "Branch for testing new features",
+      "timeupdated": "1505320838",
+      "timebuildupdated": "1505320791"
+    }
+  },
+  "depot": {
+    "453221": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3368086901968143165",
+          "size": "399648170",
+          "download": "79900944"
+        }
+      }
+    },
+    "453222": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4153535641262907547",
+          "size": "444373337",
+          "download": "91896176"
+        }
+      }
+    },
+    "453223": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6311987574850628680",
+          "size": "394432426",
+          "download": "78468016"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2115935",
+        "timeupdated": "1505363046",
+        "timebuildupdated": "1505320791"
+      },
+      "beta": {
+        "buildid": "2115935",
+        "description": "Branch for testing new features",
+        "timeupdated": "1505320838",
+        "timebuildupdated": "1505320791"
+      }
+    }
+  }
+}

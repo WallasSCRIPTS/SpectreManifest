@@ -1,0 +1,76 @@
+{
+  "name": "Adventurezator: When Pigs Fly",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:30.465Z",
+  "branches": {
+    "public": {
+      "buildid": "6418098",
+      "timeupdated": "1616397445",
+      "timebuildupdated": "1616396365"
+    },
+    "beta": {
+      "buildid": "6418098",
+      "description": "Beta-testing branch",
+      "timeupdated": "1616397431",
+      "timebuildupdated": "1616396365"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "300290": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7148635001131699545",
+          "size": "2339004949",
+          "download": "1185287120"
+        }
+      }
+    },
+    "300291": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1065857475714287890",
+          "size": "2381082773",
+          "download": "1199290752"
+        }
+      }
+    },
+    "300292": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "357404773631418251",
+          "size": "2384562816",
+          "download": "1200239264"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6418098",
+        "timeupdated": "1616397445",
+        "timebuildupdated": "1616396365"
+      },
+      "beta": {
+        "buildid": "6418098",
+        "description": "Beta-testing branch",
+        "timeupdated": "1616397431",
+        "timebuildupdated": "1616396365"
+      }
+    }
+  }
+}

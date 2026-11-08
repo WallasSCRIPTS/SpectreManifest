@@ -1,0 +1,89 @@
+{
+  "name": "Serious Sam Classics: Revolution",
+  "source": "spectre",
+  "changenumber": 40692236,
+  "updated": "2026-11-07T20:56:06.983Z",
+  "branches": {
+    "public": {
+      "buildid": "4672894",
+      "timeupdated": "1582211365",
+      "timebuildupdated": "1581604882"
+    },
+    "publicbeta": {
+      "buildid": "4672894",
+      "description": "Public testing",
+      "timeupdated": "1581943404",
+      "timebuildupdated": "1581604882"
+    },
+    "revo-1.02": {
+      "buildid": "4246664",
+      "timeupdated": "1581943414",
+      "timebuildupdated": "1569942181"
+    }
+  },
+  "depot": {
+    "227781": {
+      "manifests": {
+        "public": {
+          "gid": "2400175749642483884",
+          "size": "1846721502",
+          "download": "1188113712"
+        }
+      }
+    },
+    "227782": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7889209798886523815",
+          "size": "953344",
+          "download": "209456"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "4672894",
+        "timeupdated": "1582211365",
+        "timebuildupdated": "1581604882"
+      },
+      "publicbeta": {
+        "buildid": "4672894",
+        "description": "Public testing",
+        "timeupdated": "1581943404",
+        "timebuildupdated": "1581604882"
+      },
+      "revo-1.02": {
+        "buildid": "4246664",
+        "timeupdated": "1581943414",
+        "timebuildupdated": "1569942181"
+      }
+    }
+  }
+}

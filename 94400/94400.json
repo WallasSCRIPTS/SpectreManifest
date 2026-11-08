@@ -1,0 +1,61 @@
+{
+  "name": "Nidhogg",
+  "source": "spectre",
+  "changenumber": 40467325,
+  "updated": "2026-11-07T20:55:58.383Z",
+  "branches": {
+    "public": {
+      "buildid": "26331175",
+      "timeupdated": "1793384851",
+      "timebuildupdated": "1793384784"
+    }
+  },
+  "depot": {
+    "94401": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7888810409887230558",
+          "size": "176791381",
+          "download": "134586784"
+        }
+      }
+    },
+    "94402": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5015887323254678842",
+          "size": "210853506",
+          "download": "154716896"
+        }
+      }
+    },
+    "94403": {
+      "manifests": {
+        "public": {
+          "gid": "3792339498980210200",
+          "size": "31431658",
+          "download": "27382624"
+        }
+      }
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26331175",
+        "timeupdated": "1793384851",
+        "timebuildupdated": "1793384784"
+      }
+    }
+  }
+}

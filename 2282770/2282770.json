@@ -1,0 +1,70 @@
+{
+  "name": "Jack the Ripper: Hunter Clan",
+  "source": "spectre",
+  "changenumber": 40412737,
+  "updated": "2026-11-06T23:21:24.701Z",
+  "branches": {
+    "public": {
+      "buildid": "26069481",
+      "timeupdated": "1792558482",
+      "timebuildupdated": "1792467344"
+    },
+    "alpha": {
+      "buildid": "26317549",
+      "description": "Developer internal testing version",
+      "timeupdated": "1793344980",
+      "timebuildupdated": "1793344980"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2282771": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4263546279298041271",
+          "size": "696301581",
+          "download": "504138592"
+        }
+      }
+    },
+    "2282772": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8350993884869503879",
+          "size": "1403957894",
+          "download": "616910784"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26069481",
+        "timeupdated": "1792558482",
+        "timebuildupdated": "1792467344"
+      },
+      "alpha": {
+        "buildid": "26317549",
+        "description": "Developer internal testing version",
+        "timeupdated": "1793344980",
+        "timebuildupdated": "1793344980"
+      }
+    }
+  }
+}

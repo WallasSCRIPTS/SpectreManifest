@@ -1,0 +1,63 @@
+{
+  "name": "Soul Saga",
+  "source": "spectre",
+  "changenumber": 40550859,
+  "updated": "2026-11-07T20:56:12.630Z",
+  "branches": {
+    "public": {
+      "buildid": "4837746",
+      "timeupdated": "1585597530",
+      "timebuildupdated": "1585596443"
+    },
+    "beta": {
+      "buildid": "2881722",
+      "description": "Unstable build",
+      "timeupdated": "1529595847",
+      "timebuildupdated": "1529565463"
+    }
+  },
+  "depot": {
+    "251591": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9018623992660963225",
+          "size": "2083175482",
+          "download": "849691184"
+        }
+      }
+    },
+    "251592": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1758744996877829618",
+          "size": "2104049259",
+          "download": "855174832"
+        }
+      }
+    },
+    "251593": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4837746",
+        "timeupdated": "1585597530",
+        "timebuildupdated": "1585596443"
+      },
+      "beta": {
+        "buildid": "2881722",
+        "description": "Unstable build",
+        "timeupdated": "1529595847",
+        "timebuildupdated": "1529565463"
+      }
+    }
+  }
+}

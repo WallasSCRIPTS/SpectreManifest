@@ -1,0 +1,58 @@
+{
+  "name": "Drake Hollow",
+  "source": "spectre",
+  "changenumber": 37437721,
+  "updated": "2026-11-07T21:00:18.286Z",
+  "branches": {
+    "public": {
+      "buildid": "7250853",
+      "timeupdated": "1630082541",
+      "timebuildupdated": "1629928958"
+    },
+    "public_test_realm": {
+      "buildid": "7113599",
+      "description": "Experimental build for public testing",
+      "timeupdated": "1628711909",
+      "timebuildupdated": "1627650573"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "739651": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6679317760156277051",
+          "size": "6708475725",
+          "download": "2198294064"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7250853",
+        "timeupdated": "1630082541",
+        "timebuildupdated": "1629928958"
+      },
+      "public_test_realm": {
+        "buildid": "7113599",
+        "description": "Experimental build for public testing",
+        "timeupdated": "1628711909",
+        "timebuildupdated": "1627650573"
+      }
+    }
+  }
+}

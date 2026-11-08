@@ -1,0 +1,108 @@
+{
+  "name": "Signal Decay",
+  "source": "spectre",
+  "changenumber": 40662523,
+  "updated": "2026-11-07T20:58:22.887Z",
+  "branches": {
+    "public": {
+      "buildid": "6584108",
+      "timeupdated": "1619104946",
+      "timebuildupdated": "1619104886"
+    },
+    "beta": {
+      "buildid": "6584108",
+      "description": "newest features",
+      "timeupdated": "1619104962",
+      "timebuildupdated": "1619104886"
+    },
+    "compare": {
+      "buildid": "5241378",
+      "timeupdated": "1594089461",
+      "timebuildupdated": "1593667137"
+    },
+    "jury": {
+      "buildid": "4723467",
+      "description": "for jury",
+      "timeupdated": "1582830867",
+      "timebuildupdated": "1582830635"
+    },
+    "stable": {
+      "buildid": "4911513",
+      "timeupdated": "1593662450",
+      "timebuildupdated": "1587148178"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229000": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "508651": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5950268452390643152",
+          "size": "873565154",
+          "download": "476625760"
+        }
+      }
+    },
+    "508652": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "785410382048624336",
+          "size": "859981121",
+          "download": "473562992"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6584108",
+        "timeupdated": "1619104946",
+        "timebuildupdated": "1619104886"
+      },
+      "beta": {
+        "buildid": "6584108",
+        "description": "newest features",
+        "timeupdated": "1619104962",
+        "timebuildupdated": "1619104886"
+      },
+      "compare": {
+        "buildid": "5241378",
+        "timeupdated": "1594089461",
+        "timebuildupdated": "1593667137"
+      },
+      "jury": {
+        "buildid": "4723467",
+        "description": "for jury",
+        "timeupdated": "1582830867",
+        "timebuildupdated": "1582830635"
+      },
+      "stable": {
+        "buildid": "4911513",
+        "timeupdated": "1593662450",
+        "timebuildupdated": "1587148178"
+      }
+    }
+  }
+}

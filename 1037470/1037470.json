@@ -1,0 +1,94 @@
+{
+  "name": "Jormungandr",
+  "source": "spectre",
+  "changenumber": 36631845,
+  "updated": "2026-11-07T21:02:41.324Z",
+  "branches": {
+    "public": {
+      "buildid": "21059716",
+      "timeupdated": "1764883734",
+      "timebuildupdated": "1764881526"
+    },
+    "archived-09152019": {
+      "buildid": "4198096",
+      "description": "Sep 2019 Build",
+      "timeupdated": "1619262380",
+      "timebuildupdated": "1568561622"
+    },
+    "preview": {
+      "buildid": "21059716",
+      "description": "This branch is a preview of the next version of Jormungandr",
+      "timeupdated": "1764881665",
+      "timebuildupdated": "1764881526"
+    },
+    "previous": {
+      "buildid": "7081667",
+      "description": "An earlier stable version of the game, in case you need to go back.",
+      "timeupdated": "1764880646",
+      "timebuildupdated": "1627127964"
+    }
+  },
+  "depot": {
+    "1037471": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2661911766307215050",
+          "size": "246373183",
+          "download": "75031456"
+        }
+      }
+    },
+    "1037472": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3978295777826161535",
+          "size": "258559698",
+          "download": "79863408"
+        }
+      }
+    },
+    "1037473": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4611033056011279198",
+          "size": "255576209",
+          "download": "78451504"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21059716",
+        "timeupdated": "1764883734",
+        "timebuildupdated": "1764881526"
+      },
+      "archived-09152019": {
+        "buildid": "4198096",
+        "description": "Sep 2019 Build",
+        "timeupdated": "1619262380",
+        "timebuildupdated": "1568561622"
+      },
+      "preview": {
+        "buildid": "21059716",
+        "description": "This branch is a preview of the next version of Jormungandr",
+        "timeupdated": "1764881665",
+        "timebuildupdated": "1764881526"
+      },
+      "previous": {
+        "buildid": "7081667",
+        "description": "An earlier stable version of the game, in case you need to go back.",
+        "timeupdated": "1764880646",
+        "timebuildupdated": "1627127964"
+      }
+    }
+  }
+}

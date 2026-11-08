@@ -1,0 +1,73 @@
+{
+  "name": "BPM: BULLETS PER MINUTE",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:10.663Z",
+  "branches": {
+    "public": {
+      "buildid": "9606939",
+      "timeupdated": "1664353275",
+      "timebuildupdated": "1664352788"
+    },
+    "rollback_pre_translations": {
+      "buildid": "6189448",
+      "description": "Feb 4 build",
+      "timeupdated": "1631717540",
+      "timebuildupdated": "1612450429"
+    },
+    "rollback_sept_23_2020": {
+      "buildid": "5583991",
+      "description": "sept_23_2020 build",
+      "timeupdated": "1619903355",
+      "timebuildupdated": "1600862428"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1286351": {
+      "manifests": {
+        "public": {
+          "gid": "2472693128966650368",
+          "size": "13234358924",
+          "download": "6567352224"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9606939",
+        "timeupdated": "1664353275",
+        "timebuildupdated": "1664352788"
+      },
+      "rollback_pre_translations": {
+        "buildid": "6189448",
+        "description": "Feb 4 build",
+        "timeupdated": "1631717540",
+        "timebuildupdated": "1612450429"
+      },
+      "rollback_sept_23_2020": {
+        "buildid": "5583991",
+        "description": "sept_23_2020 build",
+        "timeupdated": "1619903355",
+        "timebuildupdated": "1600862428"
+      }
+    }
+  }
+}

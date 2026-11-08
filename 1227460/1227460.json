@@ -1,0 +1,73 @@
+{
+  "name": "Picodrive",
+  "source": "spectre",
+  "changenumber": 40626794,
+  "updated": "2026-11-06T21:03:44.236Z",
+  "branches": {
+    "public": {
+      "buildid": "20833775",
+      "timeupdated": "1763418504",
+      "timebuildupdated": "1763415990"
+    },
+    "nightly": {
+      "buildid": "26456754",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793878615",
+      "timebuildupdated": "1793878615"
+    }
+  },
+  "depot": {
+    "1227460": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "103631979465081849",
+          "size": "2155018",
+          "download": "938848"
+        }
+      },
+      "dlcappid": "1227460"
+    },
+    "1789940": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5551706279713997939",
+          "size": "2023564",
+          "download": "864560"
+        }
+      },
+      "dlcappid": "1227460"
+    },
+    "1789941": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8000381995840016901",
+          "size": "3816964",
+          "download": "1476848"
+        }
+      },
+      "dlcappid": "1227460"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833775",
+        "timeupdated": "1763418504",
+        "timebuildupdated": "1763415990"
+      },
+      "nightly": {
+        "buildid": "26456754",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793878615",
+        "timebuildupdated": "1793878615"
+      }
+    }
+  }
+}

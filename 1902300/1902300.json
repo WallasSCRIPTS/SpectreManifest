@@ -1,0 +1,46 @@
+{
+  "name": "Drop - System Breach",
+  "source": "spectre",
+  "changenumber": 40483394,
+  "updated": "2026-11-06T23:13:28.820Z",
+  "branches": {
+    "public": {
+      "buildid": "13076591",
+      "timeupdated": "1704289856",
+      "timebuildupdated": "1704195409"
+    }
+  },
+  "depot": {
+    "1902301": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2174166261428008009",
+          "size": "646309991",
+          "download": "460955856"
+        }
+      }
+    },
+    "1902302": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7536924103423360331",
+          "size": "667794215",
+          "download": "467067984"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13076591",
+        "timeupdated": "1704289856",
+        "timebuildupdated": "1704195409"
+      }
+    }
+  }
+}

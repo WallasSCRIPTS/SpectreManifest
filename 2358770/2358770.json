@@ -1,0 +1,63 @@
+{
+  "name": "Million Monster Militia",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:23:18.918Z",
+  "branches": {
+    "public": {
+      "buildid": "15242477",
+      "timeupdated": "1723492538",
+      "timebuildupdated": "1722615667"
+    },
+    "public-beta": {
+      "buildid": "15242477",
+      "description": "Public Beta",
+      "timeupdated": "1722615667",
+      "timebuildupdated": "1722615667"
+    }
+  },
+  "depot": {
+    "2358771": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "113779882269074868",
+          "size": "292961610",
+          "download": "127378912"
+        }
+      }
+    },
+    "2358772": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3966377580080529521",
+          "size": "391150620",
+          "download": "135011792"
+        }
+      }
+    },
+    "2358773": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15242477",
+        "timeupdated": "1723492538",
+        "timebuildupdated": "1722615667"
+      },
+      "public-beta": {
+        "buildid": "15242477",
+        "description": "Public Beta",
+        "timeupdated": "1722615667",
+        "timebuildupdated": "1722615667"
+      }
+    }
+  }
+}

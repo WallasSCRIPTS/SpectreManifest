@@ -1,0 +1,70 @@
+{
+  "name": "Logic Town",
+  "source": "spectre",
+  "changenumber": 40148398,
+  "updated": "2026-11-06T23:23:15.982Z",
+  "branches": {
+    "public": {
+      "buildid": "25984206",
+      "timeupdated": "1792149379",
+      "timebuildupdated": "1792147113"
+    },
+    "beta": {
+      "buildid": "25345312",
+      "description": "Public beta branch",
+      "timeupdated": "1789561698",
+      "timebuildupdated": "1789560085"
+    },
+    "legacy": {
+      "buildid": "24115780",
+      "description": "The previous version of the game",
+      "timeupdated": "1783936966",
+      "timebuildupdated": "1783540553"
+    }
+  },
+  "depot": {
+    "2333241": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6521757717614309915",
+          "size": "518444512",
+          "download": "232600320"
+        }
+      }
+    },
+    "2333242": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6174445428291456273",
+          "size": "734172798",
+          "download": "267244288"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25984206",
+        "timeupdated": "1792149379",
+        "timebuildupdated": "1792147113"
+      },
+      "beta": {
+        "buildid": "25345312",
+        "description": "Public beta branch",
+        "timeupdated": "1789561698",
+        "timebuildupdated": "1789560085"
+      },
+      "legacy": {
+        "buildid": "24115780",
+        "description": "The previous version of the game",
+        "timeupdated": "1783936966",
+        "timebuildupdated": "1783540553"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Odd Realm",
+  "source": "spectre",
+  "changenumber": 40643932,
+  "updated": "2026-11-07T20:59:48.986Z",
+  "branches": {
+    "public": {
+      "buildid": "23786403",
+      "timeupdated": "1781712791",
+      "timebuildupdated": "1781712791"
+    },
+    "beta": {
+      "buildid": "26467502",
+      "description": "Public test branch",
+      "timeupdated": "1793908632",
+      "timebuildupdated": "1793908632"
+    }
+  },
+  "depot": {
+    "688061": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7113272283403325919",
+          "size": "504142958",
+          "download": "250709952"
+        }
+      }
+    },
+    "688062": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "113711921139898307",
+          "size": "650477914",
+          "download": "277805744"
+        }
+      }
+    },
+    "688063": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3539640324318611897",
+          "size": "515628851",
+          "download": "248775072"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23786403",
+        "timeupdated": "1781712791",
+        "timebuildupdated": "1781712791"
+      },
+      "beta": {
+        "buildid": "26467502",
+        "description": "Public test branch",
+        "timeupdated": "1793908632",
+        "timebuildupdated": "1793908632"
+      }
+    }
+  }
+}

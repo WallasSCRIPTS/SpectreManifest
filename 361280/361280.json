@@ -1,0 +1,119 @@
+{
+  "name": "Turmoil",
+  "source": "spectre",
+  "changenumber": 37433691,
+  "updated": "2026-11-07T20:57:08.991Z",
+  "branches": {
+    "public": {
+      "buildid": "19270738",
+      "timeupdated": "1752821243",
+      "timebuildupdated": "1752820939"
+    },
+    "old_campaign_compatible": {
+      "buildid": "5090105",
+      "description": "Disable this beta after finishing your old campaign!",
+      "timeupdated": "1629204949",
+      "timebuildupdated": "1590674004"
+    },
+    "v1.2.15": {
+      "buildid": "2599966",
+      "description": "Last version before the The Heat is On DLC",
+      "timeupdated": "1522312952",
+      "timebuildupdated": "1520948735"
+    },
+    "v3.1.3": {
+      "buildid": "15187278",
+      "description": "Last version before the Underground DLC",
+      "timeupdated": "1725547773",
+      "timebuildupdated": "1722262738"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "361281": {
+      "manifests": {
+        "public": {
+          "gid": "8360851581581202786",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "361282": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2286441314048220410",
+          "size": "1889283979",
+          "download": "180107968"
+        }
+      }
+    },
+    "361283": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7914660986575820966",
+          "size": "1980196419",
+          "download": "187128000"
+        }
+      }
+    },
+    "361284": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7156024269728039852",
+          "size": "1906668464",
+          "download": "184971312"
+        }
+      }
+    },
+    "539310": {
+      "manifests": {
+        "public": {
+          "gid": "9081265976220666080",
+          "size": "37960661",
+          "download": "37448448"
+        }
+      },
+      "dlcappid": "539310"
+    },
+    "branches": {
+      "public": {
+        "buildid": "19270738",
+        "timeupdated": "1752821243",
+        "timebuildupdated": "1752820939"
+      },
+      "old_campaign_compatible": {
+        "buildid": "5090105",
+        "description": "Disable this beta after finishing your old campaign!",
+        "timeupdated": "1629204949",
+        "timebuildupdated": "1590674004"
+      },
+      "v1.2.15": {
+        "buildid": "2599966",
+        "description": "Last version before the The Heat is On DLC",
+        "timeupdated": "1522312952",
+        "timebuildupdated": "1520948735"
+      },
+      "v3.1.3": {
+        "buildid": "15187278",
+        "description": "Last version before the Underground DLC",
+        "timeupdated": "1725547773",
+        "timebuildupdated": "1722262738"
+      }
+    }
+  }
+}

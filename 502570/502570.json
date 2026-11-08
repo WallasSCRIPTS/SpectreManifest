@@ -1,0 +1,274 @@
+{
+  "name": "Houdini Indie",
+  "source": "spectre",
+  "changenumber": 40705981,
+  "updated": "2026-11-07T20:58:20.277Z",
+  "branches": {
+    "public": {
+      "buildid": "25813869",
+      "timeupdated": "1791493275",
+      "timebuildupdated": "1791492056"
+    },
+    "daily_20.0": {
+      "buildid": "26200411",
+      "description": "Daily Houdini 20.0 build",
+      "timeupdated": "1792949253",
+      "timebuildupdated": "1792949253"
+    },
+    "daily_20.0_apple_arm64": {
+      "buildid": "26193493",
+      "description": "Daily Houdini 20.0 build (Apple Silicon)",
+      "timeupdated": "1792907950",
+      "timebuildupdated": "1792907950"
+    },
+    "daily_20.5": {
+      "buildid": "26356869",
+      "description": "Daily Houdini 20.5 builds",
+      "timeupdated": "1793513213",
+      "timebuildupdated": "1793513213"
+    },
+    "daily_20.5_apple_arm64": {
+      "buildid": "26356444",
+      "description": "Daily Houdini 20.5 build (Apple Silicon)",
+      "timeupdated": "1793509775",
+      "timebuildupdated": "1793509774"
+    },
+    "daily_21.0": {
+      "buildid": "26503401",
+      "description": "Daily Houdini 21.0 builds",
+      "timeupdated": "1794042481",
+      "timebuildupdated": "1794042481"
+    },
+    "daily_21.0_apple_x64": {
+      "buildid": "26508134",
+      "description": "Daily Houdini 21.0 build (Mac x64)",
+      "timeupdated": "1794067793",
+      "timebuildupdated": "1794067792"
+    },
+    "daily_22.0": {
+      "buildid": "26505413",
+      "description": "Daily Houdini 22.0 build",
+      "timeupdated": "1794053652",
+      "timebuildupdated": "1794053652"
+    },
+    "houdini_20.5_apple_arm64": {
+      "buildid": "19523147",
+      "description": "Houdini 20.5 Production Build (Apple Silicon)",
+      "timeupdated": "1754674104",
+      "timebuildupdated": "1754629796"
+    },
+    "houdini_21.0": {
+      "buildid": "24470988",
+      "description": "Houdini 21.0 Production Build",
+      "timeupdated": "1785434430",
+      "timebuildupdated": "1785410671"
+    },
+    "houdini_21.0_apple_x64": {
+      "buildid": "24471722",
+      "description": "Houdini 21.0 Production Build (Mac x64)",
+      "timeupdated": "1785435146",
+      "timebuildupdated": "1785413407"
+    },
+    "houdini20.0": {
+      "buildid": "14863338",
+      "description": "Houdini 20.0 Production Build",
+      "timeupdated": "1719519687",
+      "timebuildupdated": "1719518719"
+    },
+    "houdini20.5": {
+      "buildid": "19529198",
+      "description": "Houdini 20.5 Production Build",
+      "timeupdated": "1754674000",
+      "timebuildupdated": "1754661965"
+    },
+    "houdini20.5.410": {
+      "buildid": "16328860",
+      "description": "Houdini 20.5.410",
+      "timeupdated": "1749220442",
+      "timebuildupdated": "1730990110"
+    },
+    "houdini20.5_previous": {
+      "buildid": "19162267",
+      "description": "Previous 20.5 Production Build",
+      "timeupdated": "1754674601",
+      "timebuildupdated": "1752072987"
+    },
+    "houdini21.0.512": {
+      "buildid": "20514083",
+      "description": "Houdini 21.0.512",
+      "timeupdated": "1768245443",
+      "timebuildupdated": "1761229690"
+    },
+    "houdini21.0_previous": {
+      "buildid": "23454035",
+      "description": "Previous 21.0 Production Build",
+      "timeupdated": "1779999562",
+      "timebuildupdated": "1779980944"
+    },
+    "houdini22.0": {
+      "buildid": "25813869",
+      "description": "Houdini 22.0 Production build",
+      "timeupdated": "1791493205",
+      "timebuildupdated": "1791492056"
+    },
+    "houdini22.0_previous": {
+      "buildid": "25056914",
+      "description": "Previous 22.0 production build.",
+      "timeupdated": "1788285291",
+      "timebuildupdated": "1788262856"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "502571": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2171821581977534398",
+          "size": "8205432644",
+          "download": "3883683280"
+        }
+      }
+    },
+    "502572": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1288193051243361794",
+          "size": "6158316584",
+          "download": "2351089376"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25813869",
+        "timeupdated": "1791493275",
+        "timebuildupdated": "1791492056"
+      },
+      "daily_20.0": {
+        "buildid": "26200411",
+        "description": "Daily Houdini 20.0 build",
+        "timeupdated": "1792949253",
+        "timebuildupdated": "1792949253"
+      },
+      "daily_20.0_apple_arm64": {
+        "buildid": "26193493",
+        "description": "Daily Houdini 20.0 build (Apple Silicon)",
+        "timeupdated": "1792907950",
+        "timebuildupdated": "1792907950"
+      },
+      "daily_20.5": {
+        "buildid": "26356869",
+        "description": "Daily Houdini 20.5 builds",
+        "timeupdated": "1793513213",
+        "timebuildupdated": "1793513213"
+      },
+      "daily_20.5_apple_arm64": {
+        "buildid": "26356444",
+        "description": "Daily Houdini 20.5 build (Apple Silicon)",
+        "timeupdated": "1793509775",
+        "timebuildupdated": "1793509774"
+      },
+      "daily_21.0": {
+        "buildid": "26503401",
+        "description": "Daily Houdini 21.0 builds",
+        "timeupdated": "1794042481",
+        "timebuildupdated": "1794042481"
+      },
+      "daily_21.0_apple_x64": {
+        "buildid": "26508134",
+        "description": "Daily Houdini 21.0 build (Mac x64)",
+        "timeupdated": "1794067793",
+        "timebuildupdated": "1794067792"
+      },
+      "daily_22.0": {
+        "buildid": "26505413",
+        "description": "Daily Houdini 22.0 build",
+        "timeupdated": "1794053652",
+        "timebuildupdated": "1794053652"
+      },
+      "houdini_20.5_apple_arm64": {
+        "buildid": "19523147",
+        "description": "Houdini 20.5 Production Build (Apple Silicon)",
+        "timeupdated": "1754674104",
+        "timebuildupdated": "1754629796"
+      },
+      "houdini_21.0": {
+        "buildid": "24470988",
+        "description": "Houdini 21.0 Production Build",
+        "timeupdated": "1785434430",
+        "timebuildupdated": "1785410671"
+      },
+      "houdini_21.0_apple_x64": {
+        "buildid": "24471722",
+        "description": "Houdini 21.0 Production Build (Mac x64)",
+        "timeupdated": "1785435146",
+        "timebuildupdated": "1785413407"
+      },
+      "houdini20.0": {
+        "buildid": "14863338",
+        "description": "Houdini 20.0 Production Build",
+        "timeupdated": "1719519687",
+        "timebuildupdated": "1719518719"
+      },
+      "houdini20.5": {
+        "buildid": "19529198",
+        "description": "Houdini 20.5 Production Build",
+        "timeupdated": "1754674000",
+        "timebuildupdated": "1754661965"
+      },
+      "houdini20.5.410": {
+        "buildid": "16328860",
+        "description": "Houdini 20.5.410",
+        "timeupdated": "1749220442",
+        "timebuildupdated": "1730990110"
+      },
+      "houdini20.5_previous": {
+        "buildid": "19162267",
+        "description": "Previous 20.5 Production Build",
+        "timeupdated": "1754674601",
+        "timebuildupdated": "1752072987"
+      },
+      "houdini21.0.512": {
+        "buildid": "20514083",
+        "description": "Houdini 21.0.512",
+        "timeupdated": "1768245443",
+        "timebuildupdated": "1761229690"
+      },
+      "houdini21.0_previous": {
+        "buildid": "23454035",
+        "description": "Previous 21.0 Production Build",
+        "timeupdated": "1779999562",
+        "timebuildupdated": "1779980944"
+      },
+      "houdini22.0": {
+        "buildid": "25813869",
+        "description": "Houdini 22.0 Production build",
+        "timeupdated": "1791493205",
+        "timebuildupdated": "1791492056"
+      },
+      "houdini22.0_previous": {
+        "buildid": "25056914",
+        "description": "Previous 22.0 production build.",
+        "timeupdated": "1788285291",
+        "timebuildupdated": "1788262856"
+      }
+    }
+  }
+}

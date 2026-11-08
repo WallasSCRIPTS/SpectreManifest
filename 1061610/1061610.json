@@ -1,0 +1,80 @@
+{
+  "name": "Tenderfoot Tactics",
+  "source": "spectre",
+  "changenumber": 40601800,
+  "updated": "2026-11-07T21:02:52.587Z",
+  "branches": {
+    "public": {
+      "buildid": "26439446",
+      "timeupdated": "1793818132",
+      "timebuildupdated": "1793817788"
+    },
+    "festival": {
+      "buildid": "5652230",
+      "timeupdated": "1602112927",
+      "timebuildupdated": "1602112927"
+    },
+    "prev": {
+      "buildid": "23081626",
+      "description": "A previous build, in case the live build breaks for you",
+      "timeupdated": "1777920589",
+      "timebuildupdated": "1777920270"
+    }
+  },
+  "depot": {
+    "1061611": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4425951661584089386",
+          "size": "2129908315",
+          "download": "695515136"
+        }
+      }
+    },
+    "1061612": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3227036899001266364",
+          "size": "1033904346",
+          "download": "661130512"
+        }
+      }
+    },
+    "1061613": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5801598147691098990",
+          "size": "2066340962",
+          "download": "650963696"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26439446",
+        "timeupdated": "1793818132",
+        "timebuildupdated": "1793817788"
+      },
+      "festival": {
+        "buildid": "5652230",
+        "timeupdated": "1602112927",
+        "timebuildupdated": "1602112927"
+      },
+      "prev": {
+        "buildid": "23081626",
+        "description": "A previous build, in case the live build breaks for you",
+        "timeupdated": "1777920589",
+        "timebuildupdated": "1777920270"
+      }
+    }
+  }
+}

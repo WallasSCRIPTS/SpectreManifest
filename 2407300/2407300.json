@@ -1,0 +1,70 @@
+{
+  "name": "Asteroids ++",
+  "source": "spectre",
+  "changenumber": 40643782,
+  "updated": "2026-11-06T23:23:24.792Z",
+  "branches": {
+    "public": {
+      "buildid": "25895491",
+      "timeupdated": "1791851215",
+      "timebuildupdated": "1791851147"
+    },
+    "publicbeta": {
+      "buildid": "25895491",
+      "description": "Public Beta of Asteroids ++",
+      "timeupdated": "1791851147",
+      "timebuildupdated": "1791851147"
+    },
+    "arm_branch": {
+      "buildid": "16572400",
+      "description": "Only for Windows ARM computers",
+      "timeupdated": "1732836477",
+      "timebuildupdated": "1732836477"
+    }
+  },
+  "depot": {
+    "2407301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "455240781484909084",
+          "size": "387675352",
+          "download": "345642528"
+        }
+      }
+    },
+    "2407302": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8111016151835477959",
+          "size": "382462899",
+          "download": "343582608"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25895491",
+        "timeupdated": "1791851215",
+        "timebuildupdated": "1791851147"
+      },
+      "publicbeta": {
+        "buildid": "25895491",
+        "description": "Public Beta of Asteroids ++",
+        "timeupdated": "1791851147",
+        "timebuildupdated": "1791851147"
+      },
+      "arm_branch": {
+        "buildid": "16572400",
+        "description": "Only for Windows ARM computers",
+        "timeupdated": "1732836477",
+        "timebuildupdated": "1732836477"
+      }
+    }
+  }
+}

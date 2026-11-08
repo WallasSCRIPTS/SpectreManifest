@@ -1,0 +1,80 @@
+{
+  "name": "Woodpunk",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:23.089Z",
+  "branches": {
+    "public": {
+      "buildid": "4515370",
+      "timeupdated": "1576852347",
+      "timebuildupdated": "1576846484"
+    },
+    "test_beta": {
+      "buildid": "4515370",
+      "description": "Open beta testing branch",
+      "timeupdated": "1576846484",
+      "timebuildupdated": "1576846484"
+    }
+  },
+  "depot": {
+    "878421": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9157190970212749615",
+          "size": "1539642548",
+          "download": "184572896"
+        }
+      }
+    },
+    "878422": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4135768689442724643",
+          "size": "1508035668",
+          "download": "177151344"
+        }
+      }
+    },
+    "878423": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3981509827137043806",
+          "size": "1504769896",
+          "download": "177215840"
+        }
+      }
+    },
+    "1033800": {
+      "manifests": {
+        "public": {
+          "gid": "9159678463323434755",
+          "size": "80784611",
+          "download": "80801552"
+        }
+      },
+      "dlcappid": "1033800"
+    },
+    "branches": {
+      "public": {
+        "buildid": "4515370",
+        "timeupdated": "1576852347",
+        "timebuildupdated": "1576846484"
+      },
+      "test_beta": {
+        "buildid": "4515370",
+        "description": "Open beta testing branch",
+        "timeupdated": "1576846484",
+        "timebuildupdated": "1576846484"
+      }
+    }
+  }
+}

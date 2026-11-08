@@ -1,0 +1,95 @@
+{
+  "name": "Project Wingman",
+  "source": "spectre",
+  "changenumber": 40640100,
+  "updated": "2026-11-07T21:01:31.253Z",
+  "branches": {
+    "public": {
+      "buildid": "16671873",
+      "timeupdated": "1733817107",
+      "timebuildupdated": "1733653137"
+    },
+    "beta-branch": {
+      "buildid": "16671873",
+      "description": "Public Beta Branch For Testing",
+      "timeupdated": "1733654803",
+      "timebuildupdated": "1733653137"
+    },
+    "fallback": {
+      "buildid": "5965936",
+      "description": "Legacy Build [1.0.4D] [NO DLC SUPPORT]",
+      "timeupdated": "1733550216",
+      "timebuildupdated": "1607966617"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "895871": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2208154344462263035",
+          "size": "17847353077",
+          "download": "6388559328"
+        }
+      }
+    },
+    "2536180": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8519105561406181350",
+          "size": "13",
+          "download": "64"
+        }
+      },
+      "dlcappid": "2536180"
+    },
+    "branches": {
+      "public": {
+        "buildid": "16671873",
+        "timeupdated": "1733817107",
+        "timebuildupdated": "1733653137"
+      },
+      "beta-branch": {
+        "buildid": "16671873",
+        "description": "Public Beta Branch For Testing",
+        "timeupdated": "1733654803",
+        "timebuildupdated": "1733653137"
+      },
+      "fallback": {
+        "buildid": "5965936",
+        "description": "Legacy Build [1.0.4D] [NO DLC SUPPORT]",
+        "timeupdated": "1733550216",
+        "timebuildupdated": "1607966617"
+      }
+    }
+  }
+}

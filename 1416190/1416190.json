@@ -1,0 +1,58 @@
+{
+  "name": "Fatiao Agent",
+  "source": "spectre",
+  "changenumber": 40611711,
+  "updated": "2026-11-06T21:05:05.909Z",
+  "branches": {
+    "public": {
+      "buildid": "26371951",
+      "timeupdated": "1793593246",
+      "timebuildupdated": "1793592948"
+    },
+    "oldversion": {
+      "buildid": "8805755",
+      "description": "old version for 2.X.X",
+      "timeupdated": "1788353183",
+      "timebuildupdated": "1653471008"
+    }
+  },
+  "depot": {
+    "1416191": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8925154899921834592",
+          "size": "2218512305",
+          "download": "934649456"
+        }
+      }
+    },
+    "1416192": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2024003522560339485",
+          "size": "2099430212",
+          "download": "866934784"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26371951",
+        "timeupdated": "1793593246",
+        "timebuildupdated": "1793592948"
+      },
+      "oldversion": {
+        "buildid": "8805755",
+        "description": "old version for 2.X.X",
+        "timeupdated": "1788353183",
+        "timebuildupdated": "1653471008"
+      }
+    }
+  }
+}

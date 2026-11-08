@@ -1,0 +1,87 @@
+{
+  "name": "Sumer",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:05.630Z",
+  "branches": {
+    "public": {
+      "buildid": "3197349",
+      "timeupdated": "1549513799",
+      "timebuildupdated": "1539120818"
+    },
+    "multiplayer": {
+      "buildid": "4091722",
+      "description": "online multiplayer testing",
+      "timeupdated": "1565369522",
+      "timebuildupdated": "1565369482"
+    },
+    "beta": {
+      "buildid": "20353621",
+      "description": "not stable",
+      "timeupdated": "1760223432",
+      "timebuildupdated": "1760223432"
+    }
+  },
+  "depot": {
+    "464951": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "464952": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "787040735537995387",
+          "size": "460984955",
+          "download": "66309968"
+        }
+      }
+    },
+    "464953": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2936013455453557868",
+          "size": "478849300",
+          "download": "70515440"
+        }
+      }
+    },
+    "464954": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5936782015399289747",
+          "size": "475558902",
+          "download": "69834128"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3197349",
+        "timeupdated": "1549513799",
+        "timebuildupdated": "1539120818"
+      },
+      "multiplayer": {
+        "buildid": "4091722",
+        "description": "online multiplayer testing",
+        "timeupdated": "1565369522",
+        "timebuildupdated": "1565369482"
+      },
+      "beta": {
+        "buildid": "20353621",
+        "description": "not stable",
+        "timeupdated": "1760223432",
+        "timebuildupdated": "1760223432"
+      }
+    }
+  }
+}

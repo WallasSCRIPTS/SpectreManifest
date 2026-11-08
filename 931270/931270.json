@@ -1,0 +1,94 @@
+{
+  "name": "MicroTown",
+  "source": "spectre",
+  "changenumber": 40663961,
+  "updated": "2026-11-07T21:01:46.307Z",
+  "branches": {
+    "public": {
+      "buildid": "26214683",
+      "timeupdated": "1793011300",
+      "timebuildupdated": "1793011256"
+    },
+    "saveupgrade": {
+      "buildid": "5929175",
+      "description": "Upgrade earlier saves to 0.6.x+ format",
+      "timeupdated": "1607262567",
+      "timebuildupdated": "1607262567"
+    },
+    "lastunity": {
+      "buildid": "26214683",
+      "description": "Last Unity version",
+      "timeupdated": "1793011300",
+      "timebuildupdated": "1793011256"
+    },
+    "lastversion": {
+      "buildid": "21764083",
+      "description": "Previous version before latest update",
+      "timeupdated": "1770123029",
+      "timebuildupdated": "1770122865"
+    }
+  },
+  "depot": {
+    "931271": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5606646077991222403",
+          "size": "195852527",
+          "download": "78450176"
+        }
+      }
+    },
+    "931272": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "460552487885347633",
+          "size": "174634268",
+          "download": "70768368"
+        }
+      }
+    },
+    "931273": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "245813318554345800",
+          "size": "195194942",
+          "download": "75253344"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26214683",
+        "timeupdated": "1793011300",
+        "timebuildupdated": "1793011256"
+      },
+      "saveupgrade": {
+        "buildid": "5929175",
+        "description": "Upgrade earlier saves to 0.6.x+ format",
+        "timeupdated": "1607262567",
+        "timebuildupdated": "1607262567"
+      },
+      "lastunity": {
+        "buildid": "26214683",
+        "description": "Last Unity version",
+        "timeupdated": "1793011300",
+        "timebuildupdated": "1793011256"
+      },
+      "lastversion": {
+        "buildid": "21764083",
+        "description": "Previous version before latest update",
+        "timeupdated": "1770123029",
+        "timebuildupdated": "1770122865"
+      }
+    }
+  }
+}

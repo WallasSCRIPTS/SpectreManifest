@@ -1,0 +1,85 @@
+{
+  "name": "Wraithbinder",
+  "source": "spectre",
+  "changenumber": 40685877,
+  "updated": "2026-11-06T23:17:35.019Z",
+  "branches": {
+    "public": {
+      "buildid": "26491252",
+      "timeupdated": "1794001887",
+      "timebuildupdated": "1793987700"
+    },
+    "beta": {
+      "buildid": "26491252",
+      "description": "Wraithbinder for beta testing",
+      "timeupdated": "1793988115",
+      "timebuildupdated": "1793987700"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2126371": {
+      "manifests": {
+        "public": {
+          "gid": "186983883920013867",
+          "size": "759824862",
+          "download": "221475920"
+        }
+      }
+    },
+    "2126372": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4716086512871007944",
+          "size": "22468664",
+          "download": "8800688"
+        }
+      }
+    },
+    "2126373": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "707429093521455732",
+          "size": "23153775",
+          "download": "8304112"
+        }
+      }
+    },
+    "2126374": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7365158749351628888",
+          "size": "33811744",
+          "download": "9498368"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26491252",
+        "timeupdated": "1794001887",
+        "timebuildupdated": "1793987700"
+      },
+      "beta": {
+        "buildid": "26491252",
+        "description": "Wraithbinder for beta testing",
+        "timeupdated": "1793988115",
+        "timebuildupdated": "1793987700"
+      }
+    }
+  }
+}

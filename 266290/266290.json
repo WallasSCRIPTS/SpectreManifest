@@ -1,0 +1,53 @@
+{
+  "name": "Helicopter Simulator 2014: Search and Rescue",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:17.695Z",
+  "branches": {
+    "public": {
+      "buildid": "275125",
+      "timebuildupdated": "1400668546"
+    },
+    "local": {
+      "buildid": "662558",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1434540043"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "266291": {
+      "manifests": {
+        "public": {
+          "gid": "5917040644961680482",
+          "size": "1773916859",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "275125",
+        "timebuildupdated": "1400668546"
+      },
+      "local": {
+        "buildid": "662558",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1434540043"
+      }
+    }
+  }
+}

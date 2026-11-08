@@ -1,0 +1,64 @@
+{
+  "name": "View From Below",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:04:16.097Z",
+  "branches": {
+    "2021": {
+      "buildid": "7454222",
+      "description": "2021 Build.",
+      "timeupdated": "1698142634",
+      "timebuildupdated": "1633015993"
+    },
+    "public": {
+      "buildid": "12592443",
+      "timeupdated": "1698846668",
+      "timebuildupdated": "1698846654"
+    },
+    "beta": {
+      "buildid": "19732931",
+      "description": "Latest build. May not be stable.",
+      "timeupdated": "1756167545",
+      "timebuildupdated": "1756167515"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1208761": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2062048273971878453",
+          "size": "290568274",
+          "download": "250483200"
+        }
+      }
+    },
+    "branches": {
+      "2021": {
+        "buildid": "7454222",
+        "description": "2021 Build.",
+        "timeupdated": "1698142634",
+        "timebuildupdated": "1633015993"
+      },
+      "public": {
+        "buildid": "12592443",
+        "timeupdated": "1698846668",
+        "timebuildupdated": "1698846654"
+      },
+      "beta": {
+        "buildid": "19732931",
+        "description": "Latest build. May not be stable.",
+        "timeupdated": "1756167545",
+        "timebuildupdated": "1756167515"
+      }
+    }
+  }
+}

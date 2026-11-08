@@ -1,0 +1,58 @@
+{
+  "name": "The SOL Device",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:37.375Z",
+  "branches": {
+    "public": {
+      "buildid": "7016263",
+      "timeupdated": "1626097457",
+      "timebuildupdated": "1626097053"
+    }
+  },
+  "depot": {
+    "778001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1419142036847751058",
+          "size": "227216772",
+          "download": "193563808"
+        }
+      }
+    },
+    "778002": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7087060040603101320",
+          "size": "228312896",
+          "download": "193750976"
+        }
+      }
+    },
+    "778003": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4609743274666948111",
+          "size": "244806063",
+          "download": "198366704"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7016263",
+        "timeupdated": "1626097457",
+        "timebuildupdated": "1626097053"
+      }
+    }
+  }
+}

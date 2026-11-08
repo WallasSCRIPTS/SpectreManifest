@@ -1,0 +1,80 @@
+{
+  "name": "Terraformers",
+  "source": "spectre",
+  "changenumber": 40251014,
+  "updated": "2026-11-06T21:03:51.790Z",
+  "branches": {
+    "public": {
+      "buildid": "24233750",
+      "timeupdated": "1784545066",
+      "timebuildupdated": "1784181083"
+    },
+    "public_beta": {
+      "buildid": "21193606",
+      "description": "Help us test patches",
+      "timeupdated": "1765814303",
+      "timebuildupdated": "1765814303"
+    }
+  },
+  "depot": {
+    "1244801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "211207324436488583",
+          "size": "1093570597",
+          "download": "565938192"
+        }
+      }
+    },
+    "1244802": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "546445207139570419",
+          "size": "1165638300",
+          "download": "571334160"
+        }
+      }
+    },
+    "1244803": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1832852439612991295",
+          "size": "1050618341",
+          "download": "553133184"
+        }
+      }
+    },
+    "1783650": {
+      "manifests": {
+        "public": {
+          "gid": "1158856776405195381",
+          "size": "1313687659",
+          "download": "1156022976"
+        }
+      },
+      "dlcappid": "1783650"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24233750",
+        "timeupdated": "1784545066",
+        "timebuildupdated": "1784181083"
+      },
+      "public_beta": {
+        "buildid": "21193606",
+        "description": "Help us test patches",
+        "timeupdated": "1765814303",
+        "timebuildupdated": "1765814303"
+      }
+    }
+  }
+}

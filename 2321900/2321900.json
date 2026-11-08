@@ -1,0 +1,58 @@
+{
+  "name": "Archons: Arena",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:21:29.224Z",
+  "branches": {
+    "public": {
+      "buildid": "15838307",
+      "timeupdated": "1727370119",
+      "timebuildupdated": "1727362082"
+    },
+    "beta": {
+      "buildid": "15838307",
+      "description": "beta branch",
+      "timeupdated": "1727362082",
+      "timebuildupdated": "1727362082"
+    }
+  },
+  "depot": {
+    "2321901": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "427103294307351939",
+          "size": "1055776152",
+          "download": "739026080"
+        }
+      }
+    },
+    "2321902": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2161139463447106804",
+          "size": "1056043008",
+          "download": "738497728"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15838307",
+        "timeupdated": "1727370119",
+        "timebuildupdated": "1727362082"
+      },
+      "beta": {
+        "buildid": "15838307",
+        "description": "beta branch",
+        "timeupdated": "1727362082",
+        "timebuildupdated": "1727362082"
+      }
+    }
+  }
+}

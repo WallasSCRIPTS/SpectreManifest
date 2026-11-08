@@ -1,0 +1,70 @@
+{
+  "name": "Chess Survivors",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:15:39.965Z",
+  "branches": {
+    "public": {
+      "buildid": "19916996",
+      "timeupdated": "1757451014",
+      "timebuildupdated": "1757450773"
+    },
+    "beta": {
+      "buildid": "19916996",
+      "description": "Beta",
+      "timeupdated": "1757450998",
+      "timebuildupdated": "1757450773"
+    }
+  },
+  "depot": {
+    "2065001": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5845283174516991259",
+          "size": "970292129",
+          "download": "235470064"
+        }
+      }
+    },
+    "2065003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "937049448390541056",
+          "size": "453277208",
+          "download": "220394736"
+        }
+      }
+    },
+    "2065004": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6560786943923495377",
+          "size": "458567837",
+          "download": "221911760"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19916996",
+        "timeupdated": "1757451014",
+        "timebuildupdated": "1757450773"
+      },
+      "beta": {
+        "buildid": "19916996",
+        "description": "Beta",
+        "timeupdated": "1757450998",
+        "timebuildupdated": "1757450773"
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "ZomB: Battlegrounds",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:25.848Z",
+  "branches": {
+    "public": {
+      "buildid": "20346258",
+      "timeupdated": "1760148464",
+      "timebuildupdated": "1760148373"
+    },
+    "public-beta-test": {
+      "buildid": "10944069",
+      "description": "Test build of the game made to the public",
+      "timeupdated": "1680763970",
+      "timebuildupdated": "1680763969"
+    },
+    "oldversion": {
+      "buildid": "20346303",
+      "description": "Version 3.0.0 (Outdated)",
+      "timeupdated": "1760148919",
+      "timebuildupdated": "1760148917"
+    }
+  },
+  "depot": {
+    "1114021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5707231263803791740",
+          "size": "1245422027",
+          "download": "869738848"
+        }
+      }
+    },
+    "1114022": {
+      "manifests": {
+        "public": {
+          "gid": "6653029216057423807",
+          "size": "1245422027",
+          "download": "869738848"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20346258",
+        "timeupdated": "1760148464",
+        "timebuildupdated": "1760148373"
+      },
+      "public-beta-test": {
+        "buildid": "10944069",
+        "description": "Test build of the game made to the public",
+        "timeupdated": "1680763970",
+        "timebuildupdated": "1680763969"
+      },
+      "oldversion": {
+        "buildid": "20346303",
+        "description": "Version 3.0.0 (Outdated)",
+        "timeupdated": "1760148919",
+        "timebuildupdated": "1760148917"
+      }
+    }
+  }
+}

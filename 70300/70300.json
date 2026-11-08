@@ -1,0 +1,110 @@
+{
+  "name": "VVVVVV",
+  "source": "spectre",
+  "changenumber": 39316821,
+  "updated": "2026-11-07T20:55:57.653Z",
+  "branches": {
+    "public": {
+      "buildid": "23079831",
+      "timeupdated": "1777911613",
+      "timebuildupdated": "1777911576"
+    },
+    "2.2-archive": {
+      "buildid": "4404957",
+      "description": "Version 2.2, for archiving",
+      "timeupdated": "1616993841",
+      "timebuildupdated": "1574178837"
+    },
+    "2.3-archive": {
+      "buildid": "7927143",
+      "description": "Version 2.3, for archiving",
+      "timeupdated": "1704938792",
+      "timebuildupdated": "1640179643"
+    },
+    "glitchrunners": {
+      "buildid": "18024",
+      "description": "Version 2.0, for archiving",
+      "timebuildupdated": "1349907993"
+    },
+    "2.5-testing": {
+      "buildid": "24891945",
+      "description": "Version 2.5 Prerelease, for testing",
+      "timeupdated": "1787498144",
+      "timebuildupdated": "1787498144"
+    }
+  },
+  "depot": {
+    "70301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3215646771753309991",
+          "size": "73771149",
+          "download": "64748496"
+        }
+      }
+    },
+    "70302": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2185620364384721163",
+          "size": "75412368",
+          "download": "65204064"
+        }
+      }
+    },
+    "70303": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "908250514855716874",
+          "size": "75883262",
+          "download": "65268256"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "23079831",
+        "timeupdated": "1777911613",
+        "timebuildupdated": "1777911576"
+      },
+      "2.2-archive": {
+        "buildid": "4404957",
+        "description": "Version 2.2, for archiving",
+        "timeupdated": "1616993841",
+        "timebuildupdated": "1574178837"
+      },
+      "2.3-archive": {
+        "buildid": "7927143",
+        "description": "Version 2.3, for archiving",
+        "timeupdated": "1704938792",
+        "timebuildupdated": "1640179643"
+      },
+      "glitchrunners": {
+        "buildid": "18024",
+        "description": "Version 2.0, for archiving",
+        "timebuildupdated": "1349907993"
+      },
+      "2.5-testing": {
+        "buildid": "24891945",
+        "description": "Version 2.5 Prerelease, for testing",
+        "timeupdated": "1787498144",
+        "timebuildupdated": "1787498144"
+      }
+    }
+  }
+}

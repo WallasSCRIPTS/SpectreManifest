@@ -1,0 +1,76 @@
+{
+  "name": "Deficis",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:57:19.469Z",
+  "branches": {
+    "public": {
+      "buildid": "715122",
+      "timebuildupdated": "1438320082"
+    },
+    "beta": {
+      "buildid": "830633",
+      "description": "Beta Development",
+      "timebuildupdated": "1445817370"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "377221": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7183942024798469486",
+          "size": "126408870",
+          "download": "66422656"
+        }
+      }
+    },
+    "377222": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2825162448326817998",
+          "size": "141302315",
+          "download": "71346496"
+        }
+      }
+    },
+    "377223": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "377224": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "715122",
+        "timebuildupdated": "1438320082"
+      },
+      "beta": {
+        "buildid": "830633",
+        "description": "Beta Development",
+        "timebuildupdated": "1445817370"
+      }
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "name": "Making History: The Second World War",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:04.425Z",
+  "branches": {
+    "public": {
+      "buildid": "11012666",
+      "timeupdated": "1681596556",
+      "timebuildupdated": "1681595856"
+    },
+    "edge": {
+      "buildid": "8974196",
+      "description": "Public Test Branch",
+      "timeupdated": "1655763733",
+      "timebuildupdated": "1655761139"
+    },
+    "linux": {
+      "buildid": "3207699",
+      "description": "Contains the Linux Build",
+      "timeupdated": "1620211956",
+      "timebuildupdated": "1539356197"
+    },
+    "playmac": {
+      "buildid": "6604559",
+      "description": "Contains the mac Build",
+      "timeupdated": "1625571056",
+      "timebuildupdated": "1619484600"
+    }
+  },
+  "depot": {
+    "228982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "462941": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1742538994752815969",
+          "size": "1778655797",
+          "download": "397200656"
+        }
+      }
+    },
+    "462942": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3425712290715460005",
+          "size": "1741358687",
+          "download": "391260928"
+        }
+      }
+    },
+    "462943": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1091840760435437516",
+          "size": "1841698388",
+          "download": "417170288"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11012666",
+        "timeupdated": "1681596556",
+        "timebuildupdated": "1681595856"
+      },
+      "edge": {
+        "buildid": "8974196",
+        "description": "Public Test Branch",
+        "timeupdated": "1655763733",
+        "timebuildupdated": "1655761139"
+      },
+      "linux": {
+        "buildid": "3207699",
+        "description": "Contains the Linux Build",
+        "timeupdated": "1620211956",
+        "timebuildupdated": "1539356197"
+      },
+      "playmac": {
+        "buildid": "6604559",
+        "description": "Contains the mac Build",
+        "timeupdated": "1625571056",
+        "timebuildupdated": "1619484600"
+      }
+    }
+  }
+}

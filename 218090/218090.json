@@ -1,0 +1,120 @@
+{
+  "name": "Unity of Command",
+  "source": "spectre",
+  "changenumber": 39686752,
+  "updated": "2026-11-07T20:56:04.555Z",
+  "branches": {
+    "public": {
+      "buildid": "7887286",
+      "timeupdated": "1640275425",
+      "timebuildupdated": "1639563174"
+    },
+    "beta": {
+      "buildid": "155342",
+      "timebuildupdated": "1386594508"
+    },
+    "legacy": {
+      "buildid": "4281561",
+      "description": "The original 2013 build",
+      "timeupdated": "1640275369",
+      "timebuildupdated": "1570874990"
+    },
+    "osx64bit": {
+      "buildid": "4271323",
+      "timeupdated": "1570629885",
+      "timebuildupdated": "1570629885"
+    },
+    "test": {
+      "buildid": "7887286",
+      "description": "Test branch",
+      "timeupdated": "1639563174",
+      "timebuildupdated": "1639563174"
+    }
+  },
+  "depot": {
+    "218091": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2653566543341899303",
+          "size": "143276264",
+          "download": "114013408"
+        }
+      }
+    },
+    "218092": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3794160515295427154",
+          "size": "148320473",
+          "download": "118371456"
+        }
+      }
+    },
+    "218093": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1632104490260793791",
+          "size": "162610906",
+          "download": "123711648"
+        }
+      }
+    },
+    "218100": {
+      "manifests": {
+        "public": {
+          "gid": "3150862532458596357",
+          "size": "69275668",
+          "download": "0"
+        }
+      },
+      "dlcappid": "218100"
+    },
+    "258420": {
+      "manifests": {
+        "public": {
+          "gid": "6713635211139588563",
+          "size": "69341013",
+          "download": "0"
+        }
+      },
+      "dlcappid": "258420"
+    },
+    "branches": {
+      "public": {
+        "buildid": "7887286",
+        "timeupdated": "1640275425",
+        "timebuildupdated": "1639563174"
+      },
+      "beta": {
+        "buildid": "155342",
+        "timebuildupdated": "1386594508"
+      },
+      "legacy": {
+        "buildid": "4281561",
+        "description": "The original 2013 build",
+        "timeupdated": "1640275369",
+        "timebuildupdated": "1570874990"
+      },
+      "osx64bit": {
+        "buildid": "4271323",
+        "timeupdated": "1570629885",
+        "timebuildupdated": "1570629885"
+      },
+      "test": {
+        "buildid": "7887286",
+        "description": "Test branch",
+        "timeupdated": "1639563174",
+        "timebuildupdated": "1639563174"
+      }
+    }
+  }
+}

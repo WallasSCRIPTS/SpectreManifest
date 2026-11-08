@@ -1,0 +1,50 @@
+{
+  "name": "1000 Amps",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:01.507Z",
+  "branches": {
+    "public": {
+      "buildid": "691898",
+      "timebuildupdated": "1436649610"
+    }
+  },
+  "depot": {
+    "205691": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8315016517249262104",
+          "size": "17223192",
+          "download": "9484864"
+        }
+      }
+    },
+    "205692": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1389802835271932215",
+          "size": "28481196",
+          "download": "8716672"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "691898",
+        "timebuildupdated": "1436649610"
+      }
+    }
+  }
+}

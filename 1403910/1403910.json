@@ -1,0 +1,70 @@
+{
+  "name": "Marble Age: Remastered Demo",
+  "source": "spectre",
+  "changenumber": 39156876,
+  "updated": "2026-11-05T14:53:31.480Z",
+  "branches": {
+    "public": {
+      "buildid": "25501307",
+      "timeupdated": "1790242040",
+      "timebuildupdated": "1790241111"
+    },
+    "beta": {
+      "buildid": "5947786",
+      "description": "Beta version",
+      "timeupdated": "1607580943",
+      "timebuildupdated": "1607580744"
+    }
+  },
+  "depot": {
+    "1403912": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5104484357304791148",
+          "size": "312416280",
+          "download": "167353568"
+        }
+      }
+    },
+    "1403913": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "501933468717158525",
+          "size": "293912661",
+          "download": "161464592"
+        }
+      }
+    },
+    "1403914": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5795979231808594902",
+          "size": "305617350",
+          "download": "163196176"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25501307",
+        "timeupdated": "1790242040",
+        "timebuildupdated": "1790241111"
+      },
+      "beta": {
+        "buildid": "5947786",
+        "description": "Beta version",
+        "timeupdated": "1607580943",
+        "timebuildupdated": "1607580744"
+      }
+    }
+  }
+}

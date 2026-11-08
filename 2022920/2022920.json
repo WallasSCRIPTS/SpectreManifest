@@ -1,0 +1,64 @@
+{
+  "name": "Out Zone",
+  "source": "spectre",
+  "changenumber": 37454840,
+  "updated": "2026-11-06T23:15:37.639Z",
+  "branches": {
+    "public": {
+      "buildid": "14082573",
+      "timeupdated": "1713356290",
+      "timebuildupdated": "1713355963"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2022921": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3708842498714685428",
+          "size": "3744777",
+          "download": "3139088"
+        }
+      }
+    },
+    "2022922": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8764140355760909607",
+          "size": "5565598",
+          "download": "2459168"
+        }
+      }
+    },
+    "2022923": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3453543765930717441",
+          "size": "4253186",
+          "download": "2237088"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14082573",
+        "timeupdated": "1713356290",
+        "timebuildupdated": "1713355963"
+      }
+    }
+  }
+}

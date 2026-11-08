@@ -1,0 +1,95 @@
+{
+  "name": "Nyaa-kuza!!",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:06:17.867Z",
+  "branches": {
+    "public": {
+      "buildid": "6649716",
+      "timeupdated": "1620191476",
+      "timebuildupdated": "1620191476"
+    },
+    "local": {
+      "buildid": "6397051",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1616009978",
+      "timebuildupdated": "1616009978"
+    },
+    "testing": {
+      "buildid": "6396876",
+      "description": "just for testing purposes",
+      "lcsrequired": "1",
+      "timeupdated": "1616008598",
+      "timebuildupdated": "1616007595"
+    }
+  },
+  "depot": {
+    "1577451": {
+      "manifests": {
+        "public": {
+          "gid": "1928717258473540069",
+          "size": "993401534",
+          "download": "96969408"
+        }
+      }
+    },
+    "1577452": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4849359725275544795",
+          "size": "976437490",
+          "download": "232074048"
+        }
+      }
+    },
+    "1577453": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4554966963001500686",
+          "size": "997558782",
+          "download": "245553376"
+        }
+      }
+    },
+    "1577454": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3812769279375268025",
+          "size": "986489479",
+          "download": "233341328"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6649716",
+        "timeupdated": "1620191476",
+        "timebuildupdated": "1620191476"
+      },
+      "local": {
+        "buildid": "6397051",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1616009978",
+        "timebuildupdated": "1616009978"
+      },
+      "testing": {
+        "buildid": "6396876",
+        "description": "just for testing purposes",
+        "lcsrequired": "1",
+        "timeupdated": "1616008598",
+        "timebuildupdated": "1616007595"
+      }
+    }
+  }
+}

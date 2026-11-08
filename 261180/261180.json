@@ -1,0 +1,85 @@
+{
+  "name": "Lethal League",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:15.503Z",
+  "branches": {
+    "public": {
+      "buildid": "1305526",
+      "timeupdated": "1472472310",
+      "timebuildupdated": "1472471783"
+    },
+    "public_beta": {
+      "buildid": "4659337",
+      "description": "public beta branch, everyone can access",
+      "timeupdated": "1581434792",
+      "timebuildupdated": "1581330804"
+    },
+    "tourney_v2": {
+      "buildid": "692317",
+      "timebuildupdated": "1436721341"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "261181": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8139535435715100688",
+          "size": "98473934",
+          "download": "79461296"
+        }
+      }
+    },
+    "261182": {},
+    "261183": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6841789313969051756",
+          "size": "103944147",
+          "download": "74378480"
+        }
+      }
+    },
+    "261184": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6098241712489772654",
+          "size": "193241635",
+          "download": "98604768"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1305526",
+        "timeupdated": "1472472310",
+        "timebuildupdated": "1472471783"
+      },
+      "public_beta": {
+        "buildid": "4659337",
+        "description": "public beta branch, everyone can access",
+        "timeupdated": "1581434792",
+        "timebuildupdated": "1581330804"
+      },
+      "tourney_v2": {
+        "buildid": "692317",
+        "timebuildupdated": "1436721341"
+      }
+    }
+  }
+}

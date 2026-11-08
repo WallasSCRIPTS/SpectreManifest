@@ -1,0 +1,64 @@
+{
+  "name": "BEACHED",
+  "source": "spectre",
+  "changenumber": 40616882,
+  "updated": "2026-11-06T21:05:03.919Z",
+  "branches": {
+    "public": {
+      "buildid": "18921259",
+      "timeupdated": "1750303321",
+      "timebuildupdated": "1750303321"
+    },
+    "beta": {
+      "buildid": "17581305",
+      "description": "Public beta branch",
+      "timeupdated": "1741045773",
+      "timebuildupdated": "1741045773"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1412191": {
+      "manifests": {
+        "public": {
+          "gid": "1181708736195816698",
+          "size": "5309425240",
+          "download": "4731155184"
+        }
+      }
+    },
+    "1412192": {
+      "manifests": {
+        "public": {
+          "gid": "7749642526577558730",
+          "size": "1696459257",
+          "download": "475039472"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18921259",
+        "timeupdated": "1750303321",
+        "timebuildupdated": "1750303321"
+      },
+      "beta": {
+        "buildid": "17581305",
+        "description": "Public beta branch",
+        "timeupdated": "1741045773",
+        "timebuildupdated": "1741045773"
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "name": "The Whisperer in Darkness",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:49.917Z",
+  "branches": {
+    "public": {
+      "buildid": "15611184",
+      "timeupdated": "1725594168",
+      "timebuildupdated": "1725593820"
+    },
+    "legacy": {
+      "buildid": "1655118",
+      "description": "Legacy version of The Whisperer in Darkness, for compatibility with older OSes. English-only.",
+      "timeupdated": "1712333958",
+      "timebuildupdated": "1487972326"
+    },
+    "beta": {
+      "buildid": "15611184",
+      "timeupdated": "1725593820",
+      "timebuildupdated": "1725593820"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "435001": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3760982923305070871",
+          "size": "334385994",
+          "download": "102743920"
+        }
+      }
+    },
+    "435002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "340959692164424525",
+          "size": "134587143",
+          "download": "92674912"
+        }
+      }
+    },
+    "435003": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1173066036833970798",
+          "size": "242931321",
+          "download": "94902848"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15611184",
+        "timeupdated": "1725594168",
+        "timebuildupdated": "1725593820"
+      },
+      "legacy": {
+        "buildid": "1655118",
+        "description": "Legacy version of The Whisperer in Darkness, for compatibility with older OSes. English-only.",
+        "timeupdated": "1712333958",
+        "timebuildupdated": "1487972326"
+      },
+      "beta": {
+        "buildid": "15611184",
+        "timeupdated": "1725593820",
+        "timebuildupdated": "1725593820"
+      }
+    }
+  }
+}

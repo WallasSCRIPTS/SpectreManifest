@@ -1,0 +1,70 @@
+{
+  "name": "Quest for Runia",
+  "source": "spectre",
+  "changenumber": 37819337,
+  "updated": "2026-11-06T21:04:58.956Z",
+  "branches": {
+    "public": {
+      "buildid": "24304278",
+      "timeupdated": "1785694906",
+      "timebuildupdated": "1784588365"
+    },
+    "publicbeta": {
+      "buildid": "24304278",
+      "description": "This is a public beta available to anyone",
+      "timeupdated": "1784588448",
+      "timebuildupdated": "1784588365"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1401071": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "216176244420517786",
+          "size": "1734024103",
+          "download": "1565933440"
+        }
+      }
+    },
+    "1401072": {
+      "config": {
+        "oslist": "android"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6552721335175817063",
+          "size": "760347688",
+          "download": "739189360"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24304278",
+        "timeupdated": "1785694906",
+        "timebuildupdated": "1784588365"
+      },
+      "publicbeta": {
+        "buildid": "24304278",
+        "description": "This is a public beta available to anyone",
+        "timeupdated": "1784588448",
+        "timebuildupdated": "1784588365"
+      }
+    }
+  }
+}

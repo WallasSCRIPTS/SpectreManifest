@@ -1,0 +1,70 @@
+{
+  "name": "Into the Breach",
+  "source": "spectre",
+  "changenumber": 40007013,
+  "updated": "2026-11-07T20:59:04.887Z",
+  "branches": {
+    "public": {
+      "buildid": "21601364",
+      "timeupdated": "1769082277",
+      "timebuildupdated": "1769082277"
+    },
+    "beta": {
+      "buildid": "21557729",
+      "description": "Testing for unverified fixes",
+      "timeupdated": "1768842000",
+      "timebuildupdated": "1768842000"
+    }
+  },
+  "depot": {
+    "590381": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8335438558621014449",
+          "size": "550774114",
+          "download": "434494272"
+        }
+      }
+    },
+    "590382": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2336337887533649473",
+          "size": "558921392",
+          "download": "439843888"
+        }
+      }
+    },
+    "590383": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8584573075182422035",
+          "size": "556040899",
+          "download": "436713184"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21601364",
+        "timeupdated": "1769082277",
+        "timebuildupdated": "1769082277"
+      },
+      "beta": {
+        "buildid": "21557729",
+        "description": "Testing for unverified fixes",
+        "timeupdated": "1768842000",
+        "timebuildupdated": "1768842000"
+      }
+    }
+  }
+}

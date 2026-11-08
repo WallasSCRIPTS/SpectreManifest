@@ -1,0 +1,58 @@
+{
+  "name": "SnakeByte",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:13:30.603Z",
+  "branches": {
+    "public": {
+      "buildid": "8443221",
+      "timeupdated": "1648280976",
+      "timebuildupdated": "1648280899"
+    },
+    "local": {
+      "buildid": "8260248",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1645630604",
+      "timebuildupdated": "1645630604"
+    }
+  },
+  "depot": {
+    "1916151": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4502027443542315143",
+          "size": "91918098",
+          "download": "27264032"
+        }
+      }
+    },
+    "1916152": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "1916153": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8443221",
+        "timeupdated": "1648280976",
+        "timebuildupdated": "1648280899"
+      },
+      "local": {
+        "buildid": "8260248",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1645630604",
+        "timebuildupdated": "1645630604"
+      }
+    }
+  }
+}

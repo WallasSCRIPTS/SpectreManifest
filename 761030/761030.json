@@ -1,0 +1,79 @@
+{
+  "name": "EARTHLOCK",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:28.938Z",
+  "branches": {
+    "public": {
+      "buildid": "5859985",
+      "timeupdated": "1605887439",
+      "timebuildupdated": "1605887202"
+    },
+    "languagetest": {
+      "buildid": "2778708",
+      "description": "Localization testing",
+      "timeupdated": "1526472074",
+      "timebuildupdated": "1526472074"
+    }
+  },
+  "depot": {
+    "761031": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5054176010644236168",
+          "size": "4049513606",
+          "download": "1544856544"
+        }
+      }
+    },
+    "761032": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4697325949736628903",
+          "size": "4085604186",
+          "download": "1552329040"
+        }
+      }
+    },
+    "761033": {
+      "manifests": {
+        "public": {
+          "gid": "7193137209712718002",
+          "size": "305234704",
+          "download": "255022832"
+        }
+      }
+    },
+    "761035": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6819846418867001148",
+          "size": "4074585718",
+          "download": "1560863792"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5859985",
+        "timeupdated": "1605887439",
+        "timebuildupdated": "1605887202"
+      },
+      "languagetest": {
+        "buildid": "2778708",
+        "description": "Localization testing",
+        "timeupdated": "1526472074",
+        "timebuildupdated": "1526472074"
+      }
+    }
+  }
+}

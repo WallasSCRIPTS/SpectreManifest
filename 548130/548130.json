@@ -1,0 +1,94 @@
+{
+  "name": "Scribble Ships",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:41.045Z",
+  "branches": {
+    "public": {
+      "buildid": "16869261",
+      "timeupdated": "1735460445",
+      "timebuildupdated": "1735458872"
+    },
+    "linux_branch": {
+      "buildid": "1716302",
+      "timeupdated": "1490573543",
+      "timebuildupdated": "1490573534"
+    },
+    "mac_branch2": {
+      "buildid": "1716302",
+      "timeupdated": "1490573552",
+      "timebuildupdated": "1490573534"
+    },
+    "beta": {
+      "buildid": "16869261",
+      "timeupdated": "1735458872",
+      "timebuildupdated": "1735458872"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "548131": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3567598000979561264",
+          "size": "57224704",
+          "download": "57897312"
+        }
+      }
+    },
+    "548132": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4159415030903352117",
+          "size": "72435371",
+          "download": "57256288"
+        }
+      }
+    },
+    "548133": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8828519561143092756",
+          "size": "66842509",
+          "download": "55361600"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16869261",
+        "timeupdated": "1735460445",
+        "timebuildupdated": "1735458872"
+      },
+      "linux_branch": {
+        "buildid": "1716302",
+        "timeupdated": "1490573543",
+        "timebuildupdated": "1490573534"
+      },
+      "mac_branch2": {
+        "buildid": "1716302",
+        "timeupdated": "1490573552",
+        "timebuildupdated": "1490573534"
+      },
+      "beta": {
+        "buildid": "16869261",
+        "timeupdated": "1735458872",
+        "timebuildupdated": "1735458872"
+      }
+    }
+  }
+}

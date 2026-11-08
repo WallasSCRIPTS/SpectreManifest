@@ -1,0 +1,63 @@
+{
+  "name": "STARVAULT VR",
+  "source": "spectre",
+  "changenumber": 40495004,
+  "updated": "2026-11-04T23:24:44.615Z",
+  "branches": {
+    "public": {
+      "buildid": "25611447",
+      "timeupdated": "1790712221",
+      "timebuildupdated": "1790711402"
+    },
+    "publictest": {
+      "buildid": "24866980",
+      "description": "Public test environment for upcoming patches. Play early, report issues, and help us polish the update before full release.",
+      "timeupdated": "1787331852",
+      "timebuildupdated": "1787331675"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "4020321": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7476474357384277483",
+          "size": "9087349053",
+          "download": "7437109328"
+        }
+      }
+    },
+    "4020322": {
+      "config": {
+        "oslist": "android"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25611447",
+        "timeupdated": "1790712221",
+        "timebuildupdated": "1790711402"
+      },
+      "publictest": {
+        "buildid": "24866980",
+        "description": "Public test environment for upcoming patches. Play early, report issues, and help us polish the update before full release.",
+        "timeupdated": "1787331852",
+        "timebuildupdated": "1787331675"
+      }
+    }
+  }
+}

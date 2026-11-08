@@ -1,0 +1,76 @@
+{
+  "name": "Holomento",
+  "source": "spectre",
+  "changenumber": 38639329,
+  "updated": "2026-11-07T21:00:07.234Z",
+  "branches": {
+    "public": {
+      "buildid": "13676746",
+      "timeupdated": "1709924402",
+      "timebuildupdated": "1709866320"
+    },
+    "alpha": {
+      "buildid": "8624854",
+      "description": "Limited release alpha branch.",
+      "timeupdated": "1650965848",
+      "timebuildupdated": "1650965413"
+    },
+    "gamescom-demo": {
+      "buildid": "12007071",
+      "description": "Demo for Gamescom 2023",
+      "timeupdated": "1692740551",
+      "timebuildupdated": "1692740279"
+    },
+    "public-test-branch": {
+      "buildid": "21198127",
+      "description": "Branch for public accessible test builds.",
+      "timeupdated": "1765837851",
+      "timebuildupdated": "1765837578"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "721702": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9181995999263125261",
+          "size": "22704898981",
+          "download": "7764255600"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13676746",
+        "timeupdated": "1709924402",
+        "timebuildupdated": "1709866320"
+      },
+      "alpha": {
+        "buildid": "8624854",
+        "description": "Limited release alpha branch.",
+        "timeupdated": "1650965848",
+        "timebuildupdated": "1650965413"
+      },
+      "gamescom-demo": {
+        "buildid": "12007071",
+        "description": "Demo for Gamescom 2023",
+        "timeupdated": "1692740551",
+        "timebuildupdated": "1692740279"
+      },
+      "public-test-branch": {
+        "buildid": "21198127",
+        "description": "Branch for public accessible test builds.",
+        "timeupdated": "1765837851",
+        "timebuildupdated": "1765837578"
+      }
+    }
+  }
+}

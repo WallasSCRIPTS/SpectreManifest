@@ -1,0 +1,125 @@
+{
+  "name": "Charlie Murder",
+  "source": "spectre",
+  "changenumber": 40671888,
+  "updated": "2026-11-07T20:57:34.914Z",
+  "branches": {
+    "public": {
+      "buildid": "8270183",
+      "timeupdated": "1645735180",
+      "timebuildupdated": "1645735128"
+    },
+    "lastupdate": {
+      "buildid": "2149213",
+      "timeupdated": "1543275861",
+      "timebuildupdated": "1506441181"
+    },
+    "linux32": {
+      "buildid": "4348341",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609457170",
+      "timebuildupdated": "1572622512"
+    },
+    "nothrottle": {
+      "buildid": "8270193",
+      "timeupdated": "1645735280",
+      "timebuildupdated": "1645735253"
+    },
+    "network": {
+      "buildid": "25013050",
+      "description": "Network Fixes and Content Additions",
+      "timeupdated": "1788029461",
+      "timebuildupdated": "1788029004"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "405291": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7119626080133177785",
+          "size": "944060394",
+          "download": "740244304"
+        }
+      }
+    },
+    "405292": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5065121577069151855",
+          "size": "965593929",
+          "download": "746233056"
+        }
+      }
+    },
+    "405293": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2851496303216217754",
+          "size": "978707415",
+          "download": "749259456"
+        }
+      }
+    },
+    "405294": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8270183",
+        "timeupdated": "1645735180",
+        "timebuildupdated": "1645735128"
+      },
+      "lastupdate": {
+        "buildid": "2149213",
+        "timeupdated": "1543275861",
+        "timebuildupdated": "1506441181"
+      },
+      "linux32": {
+        "buildid": "4348341",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609457170",
+        "timebuildupdated": "1572622512"
+      },
+      "nothrottle": {
+        "buildid": "8270193",
+        "timeupdated": "1645735280",
+        "timebuildupdated": "1645735253"
+      },
+      "network": {
+        "buildid": "25013050",
+        "description": "Network Fixes and Content Additions",
+        "timeupdated": "1788029461",
+        "timebuildupdated": "1788029004"
+      }
+    }
+  }
+}

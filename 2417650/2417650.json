@@ -1,0 +1,70 @@
+{
+  "name": "Carrom Slam!",
+  "source": "spectre",
+  "changenumber": 35945323,
+  "updated": "2026-11-06T23:25:07.434Z",
+  "branches": {
+    "public": {
+      "buildid": "20787799",
+      "timeupdated": "1763058460",
+      "timebuildupdated": "1763057345"
+    },
+    "beta": {
+      "buildid": "20787799",
+      "description": "Public beta branch",
+      "timeupdated": "1763057347",
+      "timebuildupdated": "1763057345"
+    }
+  },
+  "depot": {
+    "2417651": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7311896059473731669",
+          "size": "537231056",
+          "download": "207973296"
+        }
+      }
+    },
+    "2417652": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8498961691637373884",
+          "size": "537133425",
+          "download": "212163216"
+        }
+      }
+    },
+    "2417653": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7904830885392748",
+          "size": "512463636",
+          "download": "205389424"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20787799",
+        "timeupdated": "1763058460",
+        "timebuildupdated": "1763057345"
+      },
+      "beta": {
+        "buildid": "20787799",
+        "description": "Public beta branch",
+        "timeupdated": "1763057347",
+        "timebuildupdated": "1763057345"
+      }
+    }
+  }
+}

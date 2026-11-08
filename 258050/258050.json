@@ -1,0 +1,106 @@
+{
+  "name": "Survivor Squad",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:14.632Z",
+  "branches": {
+    "public": {
+      "buildid": "563506",
+      "timebuildupdated": "1427116777"
+    },
+    "test": {
+      "buildid": "540058",
+      "timebuildupdated": "1425050853"
+    }
+  },
+  "depot": {
+    "258051": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "844760425490600465",
+          "size": "822369750",
+          "download": "182059872"
+        }
+      }
+    },
+    "258052": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8293821644711941343",
+          "size": "925194889",
+          "download": "194106512"
+        }
+      }
+    },
+    "258053": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4564716640524155116",
+          "size": "830281909",
+          "download": "183855600"
+        }
+      }
+    },
+    "344510": {
+      "dlcappid": "344510"
+    },
+    "344511": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2591268884176362852",
+          "size": "36574177",
+          "download": "15571136"
+        }
+      },
+      "dlcappid": "344510"
+    },
+    "344512": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8287788740313105573",
+          "size": "44655659",
+          "download": "16693392"
+        }
+      },
+      "dlcappid": "344510"
+    },
+    "344513": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4062031328613848713",
+          "size": "43270348",
+          "download": "17454496"
+        }
+      },
+      "dlcappid": "344510"
+    },
+    "branches": {
+      "public": {
+        "buildid": "563506",
+        "timebuildupdated": "1427116777"
+      },
+      "test": {
+        "buildid": "540058",
+        "timebuildupdated": "1425050853"
+      }
+    }
+  }
+}

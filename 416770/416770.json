@@ -1,0 +1,84 @@
+{
+  "name": "SquareCells",
+  "source": "spectre",
+  "changenumber": 37844005,
+  "updated": "2026-11-07T20:57:40.154Z",
+  "branches": {
+    "public": {
+      "buildid": "4365372",
+      "timeupdated": "1573130825",
+      "timebuildupdated": "1573120007"
+    },
+    "beta": {
+      "buildid": "4365372",
+      "description": "Test Builds",
+      "timeupdated": "1573120067",
+      "timebuildupdated": "1573120007"
+    },
+    "version1.0": {
+      "buildid": "889716",
+      "timebuildupdated": "1449573341"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "416771": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6195267060234843925",
+          "size": "62101598",
+          "download": "31790768"
+        }
+      }
+    },
+    "416772": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8847123318824106213",
+          "size": "99003610",
+          "download": "41311696"
+        }
+      }
+    },
+    "416773": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4155101642585998728",
+          "size": "71448124",
+          "download": "33969408"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4365372",
+        "timeupdated": "1573130825",
+        "timebuildupdated": "1573120007"
+      },
+      "beta": {
+        "buildid": "4365372",
+        "description": "Test Builds",
+        "timeupdated": "1573120067",
+        "timebuildupdated": "1573120007"
+      },
+      "version1.0": {
+        "buildid": "889716",
+        "timebuildupdated": "1449573341"
+      }
+    }
+  }
+}

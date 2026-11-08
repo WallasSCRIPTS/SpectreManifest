@@ -1,0 +1,76 @@
+{
+  "name": "WarBirds 2026",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:11.644Z",
+  "branches": {
+    "public": {
+      "buildid": "23100800",
+      "timeupdated": "1778018587",
+      "timebuildupdated": "1778018587"
+    },
+    "warbirdsmac": {
+      "buildid": "5409410",
+      "description": "Mac Version",
+      "timeupdated": "1765828721",
+      "timebuildupdated": "1597344986"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "365621": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "853213968096696039",
+          "size": "5863474062",
+          "download": "2120406512"
+        }
+      }
+    },
+    "365622": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5732729751576228495",
+          "size": "4756806223",
+          "download": "1738427648"
+        }
+      }
+    },
+    "365623": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2290516146058321927",
+          "size": "10822077504",
+          "download": "5776773392"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23100800",
+        "timeupdated": "1778018587",
+        "timebuildupdated": "1778018587"
+      },
+      "warbirdsmac": {
+        "buildid": "5409410",
+        "description": "Mac Version",
+        "timeupdated": "1765828721",
+        "timebuildupdated": "1597344986"
+      }
+    }
+  }
+}

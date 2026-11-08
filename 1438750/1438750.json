@@ -1,0 +1,81 @@
+{
+  "name": "Halloween Decoration Sandbox",
+  "source": "spectre",
+  "changenumber": 34859138,
+  "updated": "2026-11-06T21:05:16.297Z",
+  "branches": {
+    "public": {
+      "buildid": "12541661",
+      "timeupdated": "1698319065",
+      "timebuildupdated": "1698318987"
+    },
+    "default_linux": {
+      "buildid": "10230416",
+      "description": "for linux builds",
+      "timeupdated": "1672358422",
+      "timebuildupdated": "1672358306"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1438751": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3406607850766569009",
+          "size": "910642895",
+          "download": "730379792"
+        }
+      }
+    },
+    "1438752": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "885769534874410302",
+          "size": "922412276",
+          "download": "738092256"
+        }
+      }
+    },
+    "1438759": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12541661",
+        "timeupdated": "1698319065",
+        "timebuildupdated": "1698318987"
+      },
+      "default_linux": {
+        "buildid": "10230416",
+        "description": "for linux builds",
+        "timeupdated": "1672358422",
+        "timebuildupdated": "1672358306"
+      }
+    }
+  }
+}

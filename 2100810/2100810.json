@@ -1,0 +1,68 @@
+{
+  "name": "cheesequest",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:17:32.064Z",
+  "branches": {
+    "public": {
+      "buildid": "9922286",
+      "timeupdated": "1668225468",
+      "timebuildupdated": "1668225454"
+    },
+    "cheese": {
+      "buildid": "9829878",
+      "description": "cheese",
+      "timeupdated": "1667092723",
+      "timebuildupdated": "1667092712"
+    }
+  },
+  "depot": {
+    "2100811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2735547209954789088",
+          "size": "33490265",
+          "download": "23807664"
+        }
+      }
+    },
+    "2100812": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2027711186176435791",
+          "size": "27612352",
+          "download": "27707280"
+        }
+      }
+    },
+    "2100813": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "2100814": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9922286",
+        "timeupdated": "1668225468",
+        "timebuildupdated": "1668225454"
+      },
+      "cheese": {
+        "buildid": "9829878",
+        "description": "cheese",
+        "timeupdated": "1667092723",
+        "timebuildupdated": "1667092712"
+      }
+    }
+  }
+}

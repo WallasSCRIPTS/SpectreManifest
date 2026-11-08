@@ -1,0 +1,64 @@
+{
+  "name": "Nova Roma",
+  "source": "spectre",
+  "changenumber": 40542977,
+  "updated": "2026-11-06T23:25:09.359Z",
+  "branches": {
+    "public": {
+      "buildid": "26284254",
+      "timeupdated": "1793229662",
+      "timebuildupdated": "1793229456"
+    },
+    "next-version-preview": {
+      "buildid": "26284261",
+      "description": "beta of next build",
+      "timeupdated": "1793229596",
+      "timebuildupdated": "1793229480"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2426533": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2524588088164951612",
+          "size": "970571498",
+          "download": "325948960"
+        }
+      }
+    },
+    "2426534": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1354202896502042233",
+          "size": "1039295191",
+          "download": "351268304"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26284254",
+        "timeupdated": "1793229662",
+        "timebuildupdated": "1793229456"
+      },
+      "next-version-preview": {
+        "buildid": "26284261",
+        "description": "beta of next build",
+        "timeupdated": "1793229596",
+        "timebuildupdated": "1793229480"
+      }
+    }
+  }
+}

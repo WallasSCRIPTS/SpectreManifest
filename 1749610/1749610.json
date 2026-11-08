@@ -1,0 +1,58 @@
+{
+  "name": "The Colorful Creature Demo",
+  "source": "spectre",
+  "changenumber": 34779570,
+  "updated": "2026-11-06T23:09:42.521Z",
+  "branches": {
+    "public": {
+      "buildid": "22593743",
+      "timeupdated": "1775001997",
+      "timebuildupdated": "1775001522"
+    },
+    "32bit": {
+      "buildid": "9264093",
+      "description": "32-bit branch which supports 32-bit systems. NOT RECOMMENDED FOR 64-BIT, THIS BRANCH WON'T BE UPDATED!",
+      "timeupdated": "1661991064",
+      "timebuildupdated": "1659741790"
+    }
+  },
+  "depot": {
+    "1749611": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4864148942277035926",
+          "size": "146884743",
+          "download": "120905216"
+        }
+      }
+    },
+    "1749612": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9213099916256527093",
+          "size": "137317514",
+          "download": "117973632"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22593743",
+        "timeupdated": "1775001997",
+        "timebuildupdated": "1775001522"
+      },
+      "32bit": {
+        "buildid": "9264093",
+        "description": "32-bit branch which supports 32-bit systems. NOT RECOMMENDED FOR 64-BIT, THIS BRANCH WON'T BE UPDATED!",
+        "timeupdated": "1661991064",
+        "timebuildupdated": "1659741790"
+      }
+    }
+  }
+}

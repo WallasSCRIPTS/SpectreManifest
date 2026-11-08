@@ -1,0 +1,58 @@
+{
+  "name": "Passageway of the Ancients",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:28.424Z",
+  "branches": {
+    "public": {
+      "buildid": "19437330",
+      "timeupdated": "1754011284",
+      "timebuildupdated": "1754011165"
+    },
+    "prerelease": {
+      "buildid": "20340571",
+      "description": "Testing for Prerelease",
+      "timeupdated": "1760114366",
+      "timebuildupdated": "1760114027"
+    }
+  },
+  "depot": {
+    "1014261": {
+      "config": {
+        "oslist": "windows,macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2777809492868897545",
+          "size": "25856300342",
+          "download": "16938169760"
+        }
+      }
+    },
+    "1014262": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2613498139681192373",
+          "size": "25853429460",
+          "download": "16938229152"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19437330",
+        "timeupdated": "1754011284",
+        "timebuildupdated": "1754011165"
+      },
+      "prerelease": {
+        "buildid": "20340571",
+        "description": "Testing for Prerelease",
+        "timeupdated": "1760114366",
+        "timebuildupdated": "1760114027"
+      }
+    }
+  }
+}

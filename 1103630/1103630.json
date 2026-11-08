@@ -1,0 +1,70 @@
+{
+  "name": "Event Horizon - Frontier",
+  "source": "spectre",
+  "changenumber": 40206779,
+  "updated": "2026-11-07T21:03:19.199Z",
+  "branches": {
+    "public": {
+      "buildid": "14586270",
+      "timeupdated": "1717424974",
+      "timebuildupdated": "1717424897"
+    },
+    "beta": {
+      "buildid": "18332220",
+      "description": "Beta version",
+      "timeupdated": "1746280552",
+      "timebuildupdated": "1746279719"
+    }
+  },
+  "depot": {
+    "1103631": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "868809136742172661",
+          "size": "142842166",
+          "download": "54499504"
+        }
+      }
+    },
+    "1103632": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5927968088175082266",
+          "size": "135534180",
+          "download": "56527824"
+        }
+      }
+    },
+    "1103633": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7276559292398820967",
+          "size": "176278053",
+          "download": "56491904"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14586270",
+        "timeupdated": "1717424974",
+        "timebuildupdated": "1717424897"
+      },
+      "beta": {
+        "buildid": "18332220",
+        "description": "Beta version",
+        "timeupdated": "1746280552",
+        "timebuildupdated": "1746279719"
+      }
+    }
+  }
+}

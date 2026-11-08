@@ -1,0 +1,70 @@
+{
+  "name": "Soak & Splash",
+  "source": "spectre",
+  "changenumber": 40640920,
+  "updated": "2026-11-06T23:15:38.411Z",
+  "branches": {
+    "public": {
+      "buildid": "13358144",
+      "timeupdated": "1707041009",
+      "timebuildupdated": "1706989024"
+    },
+    "christmas": {
+      "buildid": "13057041",
+      "description": "old christmas version",
+      "timeupdated": "1766953387",
+      "timebuildupdated": "1703766256"
+    },
+    "first-version": {
+      "buildid": "12743433",
+      "description": "first-version",
+      "timeupdated": "1767278414",
+      "timebuildupdated": "1700385899"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2051502": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5960070028485693693",
+          "size": "664762693",
+          "download": "354634608"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13358144",
+        "timeupdated": "1707041009",
+        "timebuildupdated": "1706989024"
+      },
+      "christmas": {
+        "buildid": "13057041",
+        "description": "old christmas version",
+        "timeupdated": "1766953387",
+        "timebuildupdated": "1703766256"
+      },
+      "first-version": {
+        "buildid": "12743433",
+        "description": "first-version",
+        "timeupdated": "1767278414",
+        "timebuildupdated": "1700385899"
+      }
+    }
+  }
+}

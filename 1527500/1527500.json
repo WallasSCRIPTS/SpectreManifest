@@ -1,0 +1,82 @@
+{
+  "name": "Pro Strategy Football 2022",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:55.061Z",
+  "branches": {
+    "public": {
+      "buildid": "7749058",
+      "timeupdated": "1637438391",
+      "timebuildupdated": "1637433679"
+    },
+    "depot": {
+      "buildid": "7749058",
+      "description": "testing new depot",
+      "timeupdated": "1637433679",
+      "timebuildupdated": "1637433679"
+    },
+    "test": {
+      "buildid": "7305517",
+      "description": "testing updates",
+      "timeupdated": "1630779891",
+      "timebuildupdated": "1630779866"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1527501": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5332390243287371938",
+          "size": "435536695",
+          "download": "335889312"
+        }
+      }
+    },
+    "1527502": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5760252936490682753",
+          "size": "385059264",
+          "download": "327408384"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7749058",
+        "timeupdated": "1637438391",
+        "timebuildupdated": "1637433679"
+      },
+      "depot": {
+        "buildid": "7749058",
+        "description": "testing new depot",
+        "timeupdated": "1637433679",
+        "timebuildupdated": "1637433679"
+      },
+      "test": {
+        "buildid": "7305517",
+        "description": "testing updates",
+        "timeupdated": "1630779891",
+        "timebuildupdated": "1630779866"
+      }
+    }
+  }
+}

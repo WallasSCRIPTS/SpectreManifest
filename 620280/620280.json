@@ -1,0 +1,69 @@
+{
+  "name": "Freefall",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:18.856Z",
+  "branches": {
+    "public": {
+      "buildid": "3053301",
+      "timeupdated": "1534915555",
+      "timebuildupdated": "1534915485"
+    },
+    "tangerine": {
+      "buildid": "3053301",
+      "description": "Public beta branch",
+      "timeupdated": "1534915485",
+      "timebuildupdated": "1534915485"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "620281": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2714652672676356806",
+          "size": "90627675",
+          "download": "71271184"
+        }
+      }
+    },
+    "620282": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "562771149170169988",
+          "size": "184367644",
+          "download": "74034496"
+        }
+      }
+    },
+    "620283": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3053301",
+        "timeupdated": "1534915555",
+        "timebuildupdated": "1534915485"
+      },
+      "tangerine": {
+        "buildid": "3053301",
+        "description": "Public beta branch",
+        "timeupdated": "1534915485",
+        "timebuildupdated": "1534915485"
+      }
+    }
+  }
+}

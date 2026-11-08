@@ -1,0 +1,113 @@
+{
+  "name": "Crest",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:51.289Z",
+  "branches": {
+    "public": {
+      "buildid": "4416967",
+      "timeupdated": "1574436279",
+      "timebuildupdated": "1574435536"
+    },
+    "public-testing": {
+      "buildid": "4416967",
+      "description": "Public testing",
+      "timeupdated": "1574436246",
+      "timebuildupdated": "1574435536"
+    },
+    "unstable": {
+      "buildid": "4416967",
+      "description": "Unstable build",
+      "timeupdated": "1574436268",
+      "timebuildupdated": "1574435536"
+    }
+  },
+  "depot": {
+    "341711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5580686525498639032",
+          "size": "715779395",
+          "download": "248079760"
+        }
+      }
+    },
+    "341712": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4857271761983719201",
+          "size": "785419133",
+          "download": "282517088"
+        }
+      }
+    },
+    "341713": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3520984285118232841",
+          "size": "783120247",
+          "download": "279444608"
+        }
+      }
+    },
+    "341714": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8338817175042567591",
+          "size": "720664715",
+          "download": "249490384"
+        }
+      }
+    },
+    "386570": {
+      "manifests": {
+        "public": {
+          "gid": "8741516357284016045",
+          "size": "464960167",
+          "download": "461814288"
+        }
+      }
+    },
+    "386580": {
+      "manifests": {
+        "public": {
+          "gid": "4119597518659874483",
+          "size": "22092762",
+          "download": "20308784"
+        }
+      },
+      "dlcappid": "386580"
+    },
+    "branches": {
+      "public": {
+        "buildid": "4416967",
+        "timeupdated": "1574436279",
+        "timebuildupdated": "1574435536"
+      },
+      "public-testing": {
+        "buildid": "4416967",
+        "description": "Public testing",
+        "timeupdated": "1574436246",
+        "timebuildupdated": "1574435536"
+      },
+      "unstable": {
+        "buildid": "4416967",
+        "description": "Unstable build",
+        "timeupdated": "1574436268",
+        "timebuildupdated": "1574435536"
+      }
+    }
+  }
+}

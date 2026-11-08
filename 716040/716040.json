@@ -1,0 +1,82 @@
+{
+  "name": "Hide and go boom",
+  "source": "spectre",
+  "changenumber": 39795199,
+  "updated": "2026-11-07T21:00:04.463Z",
+  "branches": {
+    "public": {
+      "buildid": "3368238",
+      "timeupdated": "1544628056",
+      "timebuildupdated": "1544006263"
+    },
+    "beta": {
+      "buildid": "3368238",
+      "description": "Next patch of the game, experiMENTAL",
+      "timeupdated": "1544006263",
+      "timebuildupdated": "1544006263"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "716041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6400391967226752586",
+          "size": "514562414",
+          "download": "145599248"
+        }
+      }
+    },
+    "716042": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "415510252041293028",
+          "size": "668707992",
+          "download": "170356224"
+        }
+      }
+    },
+    "716043": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1019889800778990256",
+          "size": "599142712",
+          "download": "178564752"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3368238",
+        "timeupdated": "1544628056",
+        "timebuildupdated": "1544006263"
+      },
+      "beta": {
+        "buildid": "3368238",
+        "description": "Next patch of the game, experiMENTAL",
+        "timeupdated": "1544006263",
+        "timebuildupdated": "1544006263"
+      }
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "name": "Rexaura",
+  "source": "spectre",
+  "changenumber": 40657772,
+  "updated": "2026-11-07T20:56:38.453Z",
+  "branches": {
+    "public": {
+      "buildid": "22028746",
+      "timeupdated": "1771640208",
+      "timebuildupdated": "1771634540"
+    },
+    "original_release": {
+      "buildid": "468125",
+      "description": "The first Steam release (for speedrunners)",
+      "timebuildupdated": "1418203035"
+    },
+    "test": {
+      "buildid": "22028746",
+      "description": "Test branch for release candidates",
+      "timeupdated": "1771635241",
+      "timebuildupdated": "1771634540"
+    }
+  },
+  "depot": {
+    "317791": {
+      "manifests": {
+        "public": {
+          "gid": "542889971713892032",
+          "size": "444526827",
+          "download": "249271776"
+        }
+      }
+    },
+    "317792": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4946569701843058271",
+          "size": "3080103701",
+          "download": "1747968176"
+        }
+      }
+    },
+    "317793": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "317211817723465452",
+          "size": "3044803809",
+          "download": "1722556880"
+        }
+      }
+    },
+    "317794": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4156104527353206318",
+          "size": "3064375828",
+          "download": "1735979200"
+        }
+      }
+    },
+    "317795": {
+      "manifests": {
+        "public": {
+          "gid": "6894583057817702290",
+          "size": "1732",
+          "download": "2320"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22028746",
+        "timeupdated": "1771640208",
+        "timebuildupdated": "1771634540"
+      },
+      "original_release": {
+        "buildid": "468125",
+        "description": "The first Steam release (for speedrunners)",
+        "timebuildupdated": "1418203035"
+      },
+      "test": {
+        "buildid": "22028746",
+        "description": "Test branch for release candidates",
+        "timeupdated": "1771635241",
+        "timebuildupdated": "1771634540"
+      }
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "name": "Realpolitiks",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:43.845Z",
+  "branches": {
+    "public": {
+      "buildid": "19853684",
+      "timeupdated": "1757075142",
+      "timebuildupdated": "1756978939"
+    },
+    "133build": {
+      "buildid": "1669656",
+      "timeupdated": "1488580408",
+      "timebuildupdated": "1488580408"
+    },
+    "134build": {
+      "buildid": "1668561",
+      "timeupdated": "1489683835",
+      "timebuildupdated": "1488550382"
+    },
+    "feb21build": {
+      "buildid": "1645362",
+      "timeupdated": "1487859875",
+      "timebuildupdated": "1487667552"
+    },
+    "separatismtest": {
+      "buildid": "1683594",
+      "description": "Beta patch with 'Separatism' mechanics",
+      "timeupdated": "1489168302",
+      "timebuildupdated": "1489168302"
+    }
+  },
+  "depot": {
+    "553261": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5550001930101504474",
+          "size": "647844322",
+          "download": "356899008"
+        }
+      }
+    },
+    "553262": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8555509723326439593",
+          "size": "546546651",
+          "download": "236815584"
+        }
+      }
+    },
+    "553263": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6180806613138219198",
+          "size": "487252733",
+          "download": "221859616"
+        }
+      }
+    },
+    "553264": {
+      "dlcappid": "622360"
+    },
+    "branches": {
+      "public": {
+        "buildid": "19853684",
+        "timeupdated": "1757075142",
+        "timebuildupdated": "1756978939"
+      },
+      "133build": {
+        "buildid": "1669656",
+        "timeupdated": "1488580408",
+        "timebuildupdated": "1488580408"
+      },
+      "134build": {
+        "buildid": "1668561",
+        "timeupdated": "1489683835",
+        "timebuildupdated": "1488550382"
+      },
+      "feb21build": {
+        "buildid": "1645362",
+        "timeupdated": "1487859875",
+        "timebuildupdated": "1487667552"
+      },
+      "separatismtest": {
+        "buildid": "1683594",
+        "description": "Beta patch with 'Separatism' mechanics",
+        "timeupdated": "1489168302",
+        "timebuildupdated": "1489168302"
+      }
+    }
+  }
+}

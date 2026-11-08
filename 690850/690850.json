@@ -1,0 +1,68 @@
+{
+  "name": "Magibot",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:50.537Z",
+  "branches": {
+    "public": {
+      "buildid": "2345191",
+      "timeupdated": "1512575636",
+      "timebuildupdated": "1512575492"
+    },
+    "testdrm": {
+      "buildid": "2321340",
+      "timeupdated": "1511858597",
+      "timebuildupdated": "1511858147"
+    }
+  },
+  "depot": {
+    "690851": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2821144182388164614",
+          "size": "274960335",
+          "download": "87201888"
+        }
+      }
+    },
+    "690852": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4415969580704102049",
+          "size": "288479250",
+          "download": "78342800"
+        }
+      }
+    },
+    "690853": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8696066745644290785",
+          "size": "312681883",
+          "download": "87302512"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2345191",
+        "timeupdated": "1512575636",
+        "timebuildupdated": "1512575492"
+      },
+      "testdrm": {
+        "buildid": "2321340",
+        "timeupdated": "1511858597",
+        "timebuildupdated": "1511858147"
+      }
+    }
+  }
+}

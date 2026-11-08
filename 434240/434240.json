@@ -1,0 +1,70 @@
+{
+  "name": "Alien Blitz",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:49.383Z",
+  "branches": {
+    "public": {
+      "buildid": "1394863",
+      "timeupdated": "1480028579",
+      "timebuildupdated": "1476625350"
+    },
+    "beta": {
+      "buildid": "1394863",
+      "description": "Beta branch",
+      "timeupdated": "1476625416",
+      "timebuildupdated": "1476625350"
+    }
+  },
+  "depot": {
+    "434241": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5112435714047284048",
+          "size": "192366590",
+          "download": "122529424"
+        }
+      }
+    },
+    "434242": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1013106138222390163",
+          "size": "197272283",
+          "download": "122713952"
+        }
+      }
+    },
+    "434243": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5524996044658084077",
+          "size": "241521144",
+          "download": "133340080"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1394863",
+        "timeupdated": "1480028579",
+        "timebuildupdated": "1476625350"
+      },
+      "beta": {
+        "buildid": "1394863",
+        "description": "Beta branch",
+        "timeupdated": "1476625416",
+        "timebuildupdated": "1476625350"
+      }
+    }
+  }
+}

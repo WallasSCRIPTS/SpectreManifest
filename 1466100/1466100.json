@@ -1,0 +1,70 @@
+{
+  "name": "RavenWeald",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:29.255Z",
+  "branches": {
+    "public": {
+      "buildid": "6924816",
+      "timeupdated": "1624518085",
+      "timebuildupdated": "1624517781"
+    },
+    "beta_testing": {
+      "buildid": "6223027",
+      "description": "For beta builds",
+      "timeupdated": "1613025463",
+      "timebuildupdated": "1613023666"
+    }
+  },
+  "depot": {
+    "1466102": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4473637340207916336",
+          "size": "306565139",
+          "download": "75926304"
+        }
+      }
+    },
+    "1466103": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5355374730598841428",
+          "size": "322341740",
+          "download": "79360896"
+        }
+      }
+    },
+    "1466104": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4881987317825400974",
+          "size": "316967797",
+          "download": "79160128"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6924816",
+        "timeupdated": "1624518085",
+        "timebuildupdated": "1624517781"
+      },
+      "beta_testing": {
+        "buildid": "6223027",
+        "description": "For beta builds",
+        "timeupdated": "1613025463",
+        "timebuildupdated": "1613023666"
+      }
+    }
+  }
+}

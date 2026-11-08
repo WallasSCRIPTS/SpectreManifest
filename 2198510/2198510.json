@@ -1,0 +1,98 @@
+{
+  "name": "New Cycle",
+  "source": "spectre",
+  "changenumber": 40309227,
+  "updated": "2026-11-06T23:19:30.279Z",
+  "branches": {
+    "public": {
+      "buildid": "25830619",
+      "timeupdated": "1791554238",
+      "timebuildupdated": "1791553632"
+    },
+    "public-hotfix": {
+      "buildid": "13211656",
+      "description": "for public hotfix evaluation",
+      "timeupdated": "1705609493",
+      "timebuildupdated": "1705609471"
+    },
+    "public-experimental": {
+      "buildid": "18029824",
+      "description": "unstable builds with experimental features",
+      "timeupdated": "1744134158",
+      "timebuildupdated": "1744134093"
+    },
+    "public-legacy": {
+      "buildid": "15033761",
+      "description": "oldest stable version available",
+      "timeupdated": "1769191693",
+      "timebuildupdated": "1721030592"
+    },
+    "public-rollback": {
+      "buildid": "22500225",
+      "description": "latest stable build before update",
+      "timeupdated": "1774452795",
+      "timebuildupdated": "1774451355"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2198511": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6201510718030522936",
+          "size": "12437080445",
+          "download": "6672049584"
+        }
+      }
+    },
+    "2731240": {
+      "manifests": {
+        "public": {
+          "gid": "3435710286209944019",
+          "size": "19808191",
+          "download": "19627056"
+        }
+      },
+      "dlcappid": "2731240"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25830619",
+        "timeupdated": "1791554238",
+        "timebuildupdated": "1791553632"
+      },
+      "public-hotfix": {
+        "buildid": "13211656",
+        "description": "for public hotfix evaluation",
+        "timeupdated": "1705609493",
+        "timebuildupdated": "1705609471"
+      },
+      "public-experimental": {
+        "buildid": "18029824",
+        "description": "unstable builds with experimental features",
+        "timeupdated": "1744134158",
+        "timebuildupdated": "1744134093"
+      },
+      "public-legacy": {
+        "buildid": "15033761",
+        "description": "oldest stable version available",
+        "timeupdated": "1769191693",
+        "timebuildupdated": "1721030592"
+      },
+      "public-rollback": {
+        "buildid": "22500225",
+        "description": "latest stable build before update",
+        "timeupdated": "1774452795",
+        "timebuildupdated": "1774451355"
+      }
+    }
+  }
+}

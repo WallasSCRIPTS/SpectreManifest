@@ -1,0 +1,82 @@
+{
+  "name": "Misericorde: Volume One",
+  "source": "spectre",
+  "changenumber": 37450809,
+  "updated": "2026-11-06T23:07:52.025Z",
+  "branches": {
+    "public": {
+      "buildid": "11022854",
+      "timeupdated": "1682010679",
+      "timebuildupdated": "1681754830"
+    },
+    "1.11": {
+      "buildid": "11022854",
+      "description": "beta testing for version 1.11",
+      "timeupdated": "1681754830",
+      "timebuildupdated": "1681754830"
+    },
+    "beta": {
+      "buildid": "10843190",
+      "description": "Deck testing, save errors, etc",
+      "timeupdated": "1680858212",
+      "timebuildupdated": "1679614143"
+    },
+    "beta2": {
+      "buildid": "11177899",
+      "description": "Testing Mac version and Deck fixes",
+      "timeupdated": "1683526068",
+      "timebuildupdated": "1683526068"
+    }
+  },
+  "depot": {
+    "1708112": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2812813987645364828",
+          "size": "906098404",
+          "download": "823954416"
+        }
+      }
+    },
+    "1708113": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3891833924137229809",
+          "size": "906098404",
+          "download": "823954416"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11022854",
+        "timeupdated": "1682010679",
+        "timebuildupdated": "1681754830"
+      },
+      "1.11": {
+        "buildid": "11022854",
+        "description": "beta testing for version 1.11",
+        "timeupdated": "1681754830",
+        "timebuildupdated": "1681754830"
+      },
+      "beta": {
+        "buildid": "10843190",
+        "description": "Deck testing, save errors, etc",
+        "timeupdated": "1680858212",
+        "timebuildupdated": "1679614143"
+      },
+      "beta2": {
+        "buildid": "11177899",
+        "description": "Testing Mac version and Deck fixes",
+        "timeupdated": "1683526068",
+        "timebuildupdated": "1683526068"
+      }
+    }
+  }
+}

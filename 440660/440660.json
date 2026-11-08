@@ -1,0 +1,58 @@
+{
+  "name": "Void Vikings",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:52.142Z",
+  "branches": {
+    "public": {
+      "buildid": "4140383",
+      "timeupdated": "1566851479",
+      "timebuildupdated": "1566849842"
+    },
+    "beta": {
+      "buildid": "4140383",
+      "description": "beta builds",
+      "timeupdated": "1566849895",
+      "timebuildupdated": "1566849842"
+    }
+  },
+  "depot": {
+    "440661": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9114076601326704293",
+          "size": "320274895",
+          "download": "92873216"
+        }
+      }
+    },
+    "440662": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1727721825153018220",
+          "size": "333260320",
+          "download": "96250496"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4140383",
+        "timeupdated": "1566851479",
+        "timebuildupdated": "1566849842"
+      },
+      "beta": {
+        "buildid": "4140383",
+        "description": "beta builds",
+        "timeupdated": "1566849895",
+        "timebuildupdated": "1566849842"
+      }
+    }
+  }
+}

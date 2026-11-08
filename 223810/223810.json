@@ -1,0 +1,70 @@
+{
+  "name": "Ys I",
+  "source": "spectre",
+  "changenumber": 39231340,
+  "updated": "2026-11-07T20:56:05.998Z",
+  "branches": {
+    "public": {
+      "buildid": "7966314",
+      "timeupdated": "1641249561",
+      "timebuildupdated": "1641249539"
+    },
+    "2018-05-30": {
+      "buildid": "2820805",
+      "description": "May 30th, 2018 version",
+      "timeupdated": "1597050936",
+      "timebuildupdated": "1527735547"
+    },
+    "2020-08-10": {
+      "buildid": "5392158",
+      "description": "August 10th, 2020 version",
+      "timeupdated": "1641249362",
+      "timebuildupdated": "1597050639"
+    }
+  },
+  "depot": {
+    "223811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5263943299446780124",
+          "size": "709620413",
+          "download": "584396048"
+        }
+      }
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "7966314",
+        "timeupdated": "1641249561",
+        "timebuildupdated": "1641249539"
+      },
+      "2018-05-30": {
+        "buildid": "2820805",
+        "description": "May 30th, 2018 version",
+        "timeupdated": "1597050936",
+        "timebuildupdated": "1527735547"
+      },
+      "2020-08-10": {
+        "buildid": "5392158",
+        "description": "August 10th, 2020 version",
+        "timeupdated": "1641249362",
+        "timebuildupdated": "1597050639"
+      }
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "name": "Liftoff",
+  "source": "spectre",
+  "changenumber": 40678989,
+  "updated": "2026-11-07T20:57:37.156Z",
+  "branches": {
+    "public": {
+      "buildid": "26274072",
+      "timeupdated": "1793201033",
+      "timebuildupdated": "1793200453"
+    },
+    "experimentalbranch": {
+      "buildid": "26490995",
+      "description": "Public experimental testing",
+      "timeupdated": "1793987166",
+      "timebuildupdated": "1793986842"
+    },
+    "liftoff_1.7.1": {
+      "buildid": "22413076",
+      "description": "Liftoff Legacy v1.7.1",
+      "timeupdated": "1774433993",
+      "timebuildupdated": "1773915440"
+    },
+    "liftoff_1.2.11": {
+      "buildid": "4910637",
+      "description": "Liftoff Legacy v1.2",
+      "timeupdated": "1600870269",
+      "timebuildupdated": "1587135911"
+    },
+    "liftoff_1.3.15": {
+      "buildid": "7562069",
+      "description": "Liftoff Legacy v1.3",
+      "timeupdated": "1641290252",
+      "timebuildupdated": "1634670380"
+    },
+    "liftoff_1.4.10": {
+      "buildid": "9951046",
+      "description": "Liftoff Legacy v1.4",
+      "timeupdated": "1674033728",
+      "timebuildupdated": "1668610658"
+    },
+    "liftoff_physics5.0": {
+      "buildid": "20675209",
+      "description": "Liftoff Legacy v1.6 (Physics 5.0)",
+      "timeupdated": "1770288235",
+      "timebuildupdated": "1762325525"
+    }
+  },
+  "depot": {
+    "410341": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8305800646910824302",
+          "size": "22228670637",
+          "download": "18670742672"
+        }
+      }
+    },
+    "410342": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2385544282272088099",
+          "size": "21817627936",
+          "download": "18353533824"
+        }
+      }
+    },
+    "410343": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3103648398584458426",
+          "size": "22157880685",
+          "download": "18619936448"
+        }
+      }
+    },
+    "410344": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7217323552862899201",
+          "size": "14207276419",
+          "download": "10298183296"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26274072",
+        "timeupdated": "1793201033",
+        "timebuildupdated": "1793200453"
+      },
+      "experimentalbranch": {
+        "buildid": "26490995",
+        "description": "Public experimental testing",
+        "timeupdated": "1793987166",
+        "timebuildupdated": "1793986842"
+      },
+      "liftoff_1.7.1": {
+        "buildid": "22413076",
+        "description": "Liftoff Legacy v1.7.1",
+        "timeupdated": "1774433993",
+        "timebuildupdated": "1773915440"
+      },
+      "liftoff_1.2.11": {
+        "buildid": "4910637",
+        "description": "Liftoff Legacy v1.2",
+        "timeupdated": "1600870269",
+        "timebuildupdated": "1587135911"
+      },
+      "liftoff_1.3.15": {
+        "buildid": "7562069",
+        "description": "Liftoff Legacy v1.3",
+        "timeupdated": "1641290252",
+        "timebuildupdated": "1634670380"
+      },
+      "liftoff_1.4.10": {
+        "buildid": "9951046",
+        "description": "Liftoff Legacy v1.4",
+        "timeupdated": "1674033728",
+        "timebuildupdated": "1668610658"
+      },
+      "liftoff_physics5.0": {
+        "buildid": "20675209",
+        "description": "Liftoff Legacy v1.6 (Physics 5.0)",
+        "timeupdated": "1770288235",
+        "timebuildupdated": "1762325525"
+      }
+    }
+  }
+}

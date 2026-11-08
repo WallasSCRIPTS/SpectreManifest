@@ -1,0 +1,74 @@
+{
+  "name": "Search for Surf",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:59.472Z",
+  "branches": {
+    "public": {
+      "buildid": "8520236",
+      "timeupdated": "1649394702",
+      "timebuildupdated": "1649394702"
+    },
+    "test": {
+      "buildid": "8520140",
+      "description": "alternate to default",
+      "timeupdated": "1710283361",
+      "timebuildupdated": "1649393148"
+    },
+    "testdemo": {
+      "buildid": "10103248",
+      "timeupdated": "1670479125",
+      "timebuildupdated": "1670479125"
+    }
+  },
+  "depot": {
+    "958221": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3481134209846734128",
+          "size": "1713194829",
+          "download": "880166816"
+        }
+      }
+    },
+    "958222": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "363997109545105703",
+          "size": "1767137011",
+          "download": "897321040"
+        }
+      }
+    },
+    "958223": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "958224": {},
+    "branches": {
+      "public": {
+        "buildid": "8520236",
+        "timeupdated": "1649394702",
+        "timebuildupdated": "1649394702"
+      },
+      "test": {
+        "buildid": "8520140",
+        "description": "alternate to default",
+        "timeupdated": "1710283361",
+        "timebuildupdated": "1649393148"
+      },
+      "testdemo": {
+        "buildid": "10103248",
+        "timeupdated": "1670479125",
+        "timebuildupdated": "1670479125"
+      }
+    }
+  }
+}

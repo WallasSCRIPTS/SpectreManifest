@@ -1,0 +1,100 @@
+{
+  "name": "Devader",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:59.269Z",
+  "branches": {
+    "public": {
+      "buildid": "4730247",
+      "timeupdated": "1583011192",
+      "timebuildupdated": "1583011192"
+    },
+    "alpha": {
+      "buildid": "9196395",
+      "description": "revised ALPHA version",
+      "timeupdated": "1658881031",
+      "timebuildupdated": "1658881031"
+    },
+    "debug": {
+      "buildid": "6497726",
+      "timeupdated": "1617733479",
+      "timebuildupdated": "1617733478"
+    },
+    "experiment": {
+      "buildid": "4742951",
+      "timeupdated": "1583345120",
+      "timebuildupdated": "1583345120"
+    },
+    "fallback": {
+      "buildid": "4693392",
+      "timeupdated": "1583003371",
+      "timebuildupdated": "1582134557"
+    }
+  },
+  "depot": {
+    "706851": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2222448004533974334",
+          "size": "499938363",
+          "download": "326843456"
+        }
+      }
+    },
+    "706852": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4612326231222689631",
+          "size": "594546525",
+          "download": "398853808"
+        }
+      }
+    },
+    "706853": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2597259667225727406",
+          "size": "579237074",
+          "download": "384761936"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4730247",
+        "timeupdated": "1583011192",
+        "timebuildupdated": "1583011192"
+      },
+      "alpha": {
+        "buildid": "9196395",
+        "description": "revised ALPHA version",
+        "timeupdated": "1658881031",
+        "timebuildupdated": "1658881031"
+      },
+      "debug": {
+        "buildid": "6497726",
+        "timeupdated": "1617733479",
+        "timebuildupdated": "1617733478"
+      },
+      "experiment": {
+        "buildid": "4742951",
+        "timeupdated": "1583345120",
+        "timebuildupdated": "1583345120"
+      },
+      "fallback": {
+        "buildid": "4693392",
+        "timeupdated": "1583003371",
+        "timebuildupdated": "1582134557"
+      }
+    }
+  }
+}

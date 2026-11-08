@@ -1,0 +1,61 @@
+{
+  "name": "RealFlight Evolution",
+  "source": "spectre",
+  "changenumber": 40682598,
+  "updated": "2026-11-06T23:15:40.535Z",
+  "branches": {
+    "public": {
+      "buildid": "25636652",
+      "timeupdated": "1790805232",
+      "timebuildupdated": "1790798050"
+    },
+    "directx9_deprecated": {
+      "buildid": "12704724",
+      "description": "Final DirectX 9-based version for computers that don't support DirectX 11",
+      "timeupdated": "1700011806",
+      "timebuildupdated": "1700008440"
+    },
+    "publicbeta": {
+      "buildid": "25636652",
+      "description": "Distribution of public beta versions",
+      "timeupdated": "1790805232",
+      "timebuildupdated": "1790798050"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2069311": {
+      "manifests": {
+        "public": {
+          "gid": "1795966866947440783",
+          "size": "18687689192",
+          "download": "9885196624"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25636652",
+        "timeupdated": "1790805232",
+        "timebuildupdated": "1790798050"
+      },
+      "directx9_deprecated": {
+        "buildid": "12704724",
+        "description": "Final DirectX 9-based version for computers that don't support DirectX 11",
+        "timeupdated": "1700011806",
+        "timebuildupdated": "1700008440"
+      },
+      "publicbeta": {
+        "buildid": "25636652",
+        "description": "Distribution of public beta versions",
+        "timeupdated": "1790805232",
+        "timebuildupdated": "1790798050"
+      }
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "name": "Robo Instructus",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:38.359Z",
+  "branches": {
+    "public": {
+      "buildid": "25140881",
+      "timeupdated": "1788612601",
+      "timebuildupdated": "1788612081"
+    },
+    "glibc-2.23": {
+      "buildid": "10908962",
+      "description": "v1.34.2 supporting glibc 2.23, ubuntu 16.04",
+      "timeupdated": "1703457114",
+      "timebuildupdated": "1680353565"
+    },
+    "win7": {
+      "buildid": "5662670",
+      "description": "v1.30 Supporting Windows 7 & 8",
+      "timeupdated": "1602328091",
+      "timebuildupdated": "1602271394"
+    },
+    "test": {
+      "buildid": "25140881",
+      "description": "test builds",
+      "timeupdated": "1788612434",
+      "timebuildupdated": "1788612081"
+    },
+    "v1.36.1": {
+      "buildid": "20351810",
+      "description": "v1.36.1",
+      "timeupdated": "1760205519",
+      "timebuildupdated": "1760205159"
+    }
+  },
+  "depot": {
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1032171": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1587316163712952842",
+          "size": "153416158",
+          "download": "132634352"
+        }
+      }
+    },
+    "1032173": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "284690724813633967",
+          "size": "147372519",
+          "download": "129263184"
+        }
+      }
+    },
+    "1032174": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2774889788288098717",
+          "size": "149485167",
+          "download": "129435696"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25140881",
+        "timeupdated": "1788612601",
+        "timebuildupdated": "1788612081"
+      },
+      "glibc-2.23": {
+        "buildid": "10908962",
+        "description": "v1.34.2 supporting glibc 2.23, ubuntu 16.04",
+        "timeupdated": "1703457114",
+        "timebuildupdated": "1680353565"
+      },
+      "win7": {
+        "buildid": "5662670",
+        "description": "v1.30 Supporting Windows 7 & 8",
+        "timeupdated": "1602328091",
+        "timebuildupdated": "1602271394"
+      },
+      "test": {
+        "buildid": "25140881",
+        "description": "test builds",
+        "timeupdated": "1788612434",
+        "timebuildupdated": "1788612081"
+      },
+      "v1.36.1": {
+        "buildid": "20351810",
+        "description": "v1.36.1",
+        "timeupdated": "1760205519",
+        "timebuildupdated": "1760205159"
+      }
+    }
+  }
+}

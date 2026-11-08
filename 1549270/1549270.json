@@ -1,0 +1,60 @@
+{
+  "name": "Marooned",
+  "source": "spectre",
+  "changenumber": 34863481,
+  "updated": "2026-11-06T21:06:04.071Z",
+  "branches": {
+    "public": {
+      "buildid": "6499894",
+      "timeupdated": "1617767728",
+      "timebuildupdated": "1617767699"
+    },
+    "local": {
+      "buildid": "6210983",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1612854262",
+      "timebuildupdated": "1612852750"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1549271": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1161513045905331738",
+          "size": "4123223074",
+          "download": "1795643280"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6499894",
+        "timeupdated": "1617767728",
+        "timebuildupdated": "1617767699"
+      },
+      "local": {
+        "buildid": "6210983",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1612854262",
+        "timebuildupdated": "1612852750"
+      }
+    }
+  }
+}

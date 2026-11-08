@@ -1,0 +1,73 @@
+{
+  "name": "Colony Ship: A Post-Earth Role Playing Game",
+  "source": "spectre",
+  "changenumber": 40476482,
+  "updated": "2026-11-07T20:59:29.456Z",
+  "branches": {
+    "public": {
+      "buildid": "25062111",
+      "timeupdated": "1788470599",
+      "timebuildupdated": "1788279353"
+    },
+    "loctest": {
+      "buildid": "25062111",
+      "description": "Branch containing recent translations for testing.",
+      "timeupdated": "1788284097",
+      "timebuildupdated": "1788279353"
+    },
+    "previous_version": {
+      "buildid": "14899189",
+      "description": "Contains a previous major version of the game you can rollback to, to finish your playthrough with unmodified balance or for other reasons.",
+      "timeupdated": "1731371491",
+      "timebuildupdated": "1719868170"
+    },
+    "public_test": {
+      "buildid": "25062111",
+      "description": "Public testing branch",
+      "timeupdated": "1788284070",
+      "timebuildupdated": "1788279353"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "648411": {
+      "manifests": {
+        "public": {
+          "gid": "8955376552713867011",
+          "size": "18684154454",
+          "download": "7512351328"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25062111",
+        "timeupdated": "1788470599",
+        "timebuildupdated": "1788279353"
+      },
+      "loctest": {
+        "buildid": "25062111",
+        "description": "Branch containing recent translations for testing.",
+        "timeupdated": "1788284097",
+        "timebuildupdated": "1788279353"
+      },
+      "previous_version": {
+        "buildid": "14899189",
+        "description": "Contains a previous major version of the game you can rollback to, to finish your playthrough with unmodified balance or for other reasons.",
+        "timeupdated": "1731371491",
+        "timebuildupdated": "1719868170"
+      },
+      "public_test": {
+        "buildid": "25062111",
+        "description": "Public testing branch",
+        "timeupdated": "1788284070",
+        "timebuildupdated": "1788279353"
+      }
+    }
+  }
+}

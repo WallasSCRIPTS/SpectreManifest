@@ -1,0 +1,105 @@
+{
+  "name": "Full Metal Furies",
+  "source": "spectre",
+  "changenumber": 39573062,
+  "updated": "2026-11-07T20:57:40.049Z",
+  "branches": {
+    "public": {
+      "buildid": "17282479",
+      "timeupdated": "1738945989",
+      "timebuildupdated": "1738945988"
+    },
+    "fna-unstable": {
+      "buildid": "3908046",
+      "description": "Experimental FNA Windows Build",
+      "timeupdated": "1560260543",
+      "timebuildupdated": "1560260543"
+    },
+    "linux32": {
+      "buildid": "4200147",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609454969",
+      "timebuildupdated": "1568643152"
+    }
+  },
+  "depot": {
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229005": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "416601": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7831465145943718530",
+          "size": "1004676194",
+          "download": "512431840"
+        }
+      }
+    },
+    "416602": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "416603": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4195763655917725745",
+          "size": "910704346",
+          "download": "407091776"
+        }
+      }
+    },
+    "416604": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8867927482410406387",
+          "size": "926058390",
+          "download": "410590432"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17282479",
+        "timeupdated": "1738945989",
+        "timebuildupdated": "1738945988"
+      },
+      "fna-unstable": {
+        "buildid": "3908046",
+        "description": "Experimental FNA Windows Build",
+        "timeupdated": "1560260543",
+        "timebuildupdated": "1560260543"
+      },
+      "linux32": {
+        "buildid": "4200147",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609454969",
+        "timebuildupdated": "1568643152"
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "name": "Pool Ball Battle Royale",
+  "source": "spectre",
+  "changenumber": 38821388,
+  "updated": "2026-11-06T23:19:29.615Z",
+  "branches": {
+    "public": {
+      "buildid": "11686194",
+      "timeupdated": "1689180860",
+      "timebuildupdated": "1689180860"
+    },
+    "beta": {
+      "buildid": "13909374",
+      "description": "testing branch",
+      "timeupdated": "1711933980",
+      "timebuildupdated": "1711933980"
+    },
+    "local": {
+      "buildid": "10052866",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1669864160",
+      "timebuildupdated": "1669864160"
+    }
+  },
+  "depot": {
+    "2193041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6493290961311553084",
+          "size": "414425926",
+          "download": "122296576"
+        }
+      }
+    },
+    "2193042": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "591184731655814576",
+          "size": "443849056",
+          "download": "125521680"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11686194",
+        "timeupdated": "1689180860",
+        "timebuildupdated": "1689180860"
+      },
+      "beta": {
+        "buildid": "13909374",
+        "description": "testing branch",
+        "timeupdated": "1711933980",
+        "timebuildupdated": "1711933980"
+      },
+      "local": {
+        "buildid": "10052866",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1669864160",
+        "timebuildupdated": "1669864160"
+      }
+    }
+  }
+}

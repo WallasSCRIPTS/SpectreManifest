@@ -1,0 +1,70 @@
+{
+  "name": "Jetboard Joust",
+  "source": "spectre",
+  "changenumber": 37442455,
+  "updated": "2026-11-07T21:04:01.529Z",
+  "branches": {
+    "public": {
+      "buildid": "8062525",
+      "timeupdated": "1642780382",
+      "timebuildupdated": "1642779415"
+    },
+    "public-beta": {
+      "buildid": "8062525",
+      "description": "Beta builds that are available to the public for testing",
+      "timeupdated": "1642779492",
+      "timebuildupdated": "1642779415"
+    }
+  },
+  "depot": {
+    "1181601": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4866970515860291839",
+          "size": "293751986",
+          "download": "114719408"
+        }
+      }
+    },
+    "1181602": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1535601984551572661",
+          "size": "300139501",
+          "download": "115494624"
+        }
+      }
+    },
+    "1181603": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2089458011753465431",
+          "size": "303187647",
+          "download": "115143360"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8062525",
+        "timeupdated": "1642780382",
+        "timebuildupdated": "1642779415"
+      },
+      "public-beta": {
+        "buildid": "8062525",
+        "description": "Beta builds that are available to the public for testing",
+        "timeupdated": "1642779492",
+        "timebuildupdated": "1642779415"
+      }
+    }
+  }
+}

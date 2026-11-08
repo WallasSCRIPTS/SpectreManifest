@@ -1,0 +1,51 @@
+{
+  "name": "Playing Both Sides",
+  "source": "spectre",
+  "changenumber": 37381506,
+  "updated": "2026-11-07T21:03:40.848Z",
+  "branches": {
+    "public": {
+      "buildid": "5244784",
+      "timeupdated": "1593725309",
+      "timebuildupdated": "1593724825"
+    },
+    "linux": {
+      "buildid": "5244854",
+      "description": "formatted for linux",
+      "timeupdated": "1593726142",
+      "timebuildupdated": "1593726142"
+    }
+  },
+  "depot": {
+    "1142091": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1222081116275145093",
+          "size": "537175669",
+          "download": "410738560"
+        }
+      }
+    },
+    "1142092": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5244784",
+        "timeupdated": "1593725309",
+        "timebuildupdated": "1593724825"
+      },
+      "linux": {
+        "buildid": "5244854",
+        "description": "formatted for linux",
+        "timeupdated": "1593726142",
+        "timebuildupdated": "1593726142"
+      }
+    }
+  }
+}

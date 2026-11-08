@@ -1,0 +1,67 @@
+{
+  "name": "Dead Effect 2",
+  "source": "spectre",
+  "changenumber": 37434570,
+  "updated": "2026-11-07T20:57:30.313Z",
+  "branches": {
+    "public": {
+      "buildid": "3767605",
+      "timeupdated": "1557156498",
+      "timebuildupdated": "1556182561"
+    },
+    "testing_external": {
+      "buildid": "3767605",
+      "description": "External Testing",
+      "timeupdated": "1557156127",
+      "timebuildupdated": "1556182561"
+    }
+  },
+  "depot": {
+    "394761": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8106557795096402932",
+          "size": "15414244664",
+          "download": "7106973328"
+        }
+      }
+    },
+    "394762": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7962561033422018433",
+          "size": "15442385951",
+          "download": "7116390448"
+        }
+      }
+    },
+    "394769": {
+      "manifests": {
+        "public": {
+          "gid": "2017271910791196494",
+          "size": "316327831",
+          "download": "287918784"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3767605",
+        "timeupdated": "1557156498",
+        "timebuildupdated": "1556182561"
+      },
+      "testing_external": {
+        "buildid": "3767605",
+        "description": "External Testing",
+        "timeupdated": "1557156127",
+        "timebuildupdated": "1556182561"
+      }
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "Imposters",
+  "source": "spectre",
+  "changenumber": 40616882,
+  "updated": "2026-11-06T21:05:19.520Z",
+  "branches": {
+    "public": {
+      "buildid": "11675999",
+      "timeupdated": "1689090949",
+      "timebuildupdated": "1689090859"
+    },
+    "alpha": {
+      "buildid": "6550562",
+      "description": "head branch (LIKELY unstable)",
+      "lcsrequired": "1",
+      "timeupdated": "1618552436",
+      "timebuildupdated": "1618552147"
+    },
+    "beta": {
+      "buildid": "10685712",
+      "description": "pre-release (can be unstable)",
+      "timeupdated": "1677865100",
+      "timebuildupdated": "1677861800"
+    },
+    "local": {
+      "buildid": "6556080",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1618628961",
+      "timebuildupdated": "1618628961"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1445371": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2228909987962089573",
+          "size": "5624102928",
+          "download": "640820240"
+        }
+      }
+    },
+    "1445372": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "1445373": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11675999",
+        "timeupdated": "1689090949",
+        "timebuildupdated": "1689090859"
+      },
+      "alpha": {
+        "buildid": "6550562",
+        "description": "head branch (LIKELY unstable)",
+        "lcsrequired": "1",
+        "timeupdated": "1618552436",
+        "timebuildupdated": "1618552147"
+      },
+      "beta": {
+        "buildid": "10685712",
+        "description": "pre-release (can be unstable)",
+        "timeupdated": "1677865100",
+        "timebuildupdated": "1677861800"
+      },
+      "local": {
+        "buildid": "6556080",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1618628961",
+        "timebuildupdated": "1618628961"
+      }
+    }
+  }
+}

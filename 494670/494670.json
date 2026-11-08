@@ -1,0 +1,127 @@
+{
+  "name": "TransRoad: USA",
+  "source": "spectre",
+  "changenumber": 40138402,
+  "updated": "2026-11-07T20:58:15.741Z",
+  "branches": {
+    "public": {
+      "buildid": "2512424",
+      "timeupdated": "1535722358",
+      "timebuildupdated": "1518187412"
+    },
+    "public_test_version": {
+      "buildid": "2512312",
+      "description": "Open test version for new patches and updates",
+      "timeupdated": "1519049666",
+      "timebuildupdated": "1518185470"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "494671": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6396486027607384851",
+          "size": "4064191254",
+          "download": "1206286080"
+        }
+      }
+    },
+    "494672": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8681410100098366046",
+          "size": "4066200451",
+          "download": "1209207552"
+        }
+      }
+    },
+    "494673": {
+      "manifests": {
+        "public": {
+          "gid": "5482226457420992424",
+          "size": "395754",
+          "download": "51776"
+        }
+      }
+    },
+    "494674": {
+      "manifests": {
+        "public": {
+          "gid": "5712299070641295570",
+          "size": "398618",
+          "download": "52480"
+        }
+      }
+    },
+    "494675": {
+      "manifests": {
+        "public": {
+          "gid": "922793523376479204",
+          "size": "364970",
+          "download": "46528"
+        }
+      }
+    },
+    "494676": {
+      "manifests": {
+        "public": {
+          "gid": "1377761107935804739",
+          "size": "394314",
+          "download": "50288"
+        }
+      }
+    },
+    "494677": {
+      "manifests": {
+        "public": {
+          "gid": "7537288170058024505",
+          "size": "427130",
+          "download": "51696"
+        }
+      }
+    },
+    "494678": {
+      "manifests": {
+        "public": {
+          "gid": "2449402988707946906",
+          "size": "601018",
+          "download": "56224"
+        }
+      }
+    },
+    "494679": {
+      "manifests": {
+        "public": {
+          "gid": "754863795491882547",
+          "size": "396138",
+          "download": "48448"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2512424",
+        "timeupdated": "1535722358",
+        "timebuildupdated": "1518187412"
+      },
+      "public_test_version": {
+        "buildid": "2512312",
+        "description": "Open test version for new patches and updates",
+        "timeupdated": "1519049666",
+        "timebuildupdated": "1518185470"
+      }
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "name": "Titan Station",
+  "source": "spectre",
+  "changenumber": 39710503,
+  "updated": "2026-11-06T23:13:26.371Z",
+  "branches": {
+    "public": {
+      "buildid": "14655494",
+      "timeupdated": "1717932482",
+      "timebuildupdated": "1717932288"
+    },
+    "beta": {
+      "buildid": "8143940",
+      "description": "betatest",
+      "lcsrequired": "1",
+      "timeupdated": "1643963040",
+      "timebuildupdated": "1643962920"
+    },
+    "local": {
+      "buildid": "8143940",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1643962920",
+      "timebuildupdated": "1643962920"
+    },
+    "playtest": {
+      "buildid": "8143940",
+      "description": "Playtest",
+      "lcsrequired": "1",
+      "timeupdated": "1643963120",
+      "timebuildupdated": "1643962920"
+    },
+    "vrbeta": {
+      "buildid": "14655494",
+      "description": "Build to test VR",
+      "timeupdated": "1717932463",
+      "timebuildupdated": "1717932288"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1881121": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6840668909821245682",
+          "size": "9156899656",
+          "download": "8837950896"
+        }
+      }
+    },
+    "2663810": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5308636472601567631",
+          "size": "3046312042",
+          "download": "2928134496"
+        }
+      },
+      "dlcappid": "2663810"
+    },
+    "branches": {
+      "public": {
+        "buildid": "14655494",
+        "timeupdated": "1717932482",
+        "timebuildupdated": "1717932288"
+      },
+      "beta": {
+        "buildid": "8143940",
+        "description": "betatest",
+        "lcsrequired": "1",
+        "timeupdated": "1643963040",
+        "timebuildupdated": "1643962920"
+      },
+      "local": {
+        "buildid": "8143940",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1643962920",
+        "timebuildupdated": "1643962920"
+      },
+      "playtest": {
+        "buildid": "8143940",
+        "description": "Playtest",
+        "lcsrequired": "1",
+        "timeupdated": "1643963120",
+        "timebuildupdated": "1643962920"
+      },
+      "vrbeta": {
+        "buildid": "14655494",
+        "description": "Build to test VR",
+        "timeupdated": "1717932463",
+        "timebuildupdated": "1717932288"
+      }
+    }
+  }
+}

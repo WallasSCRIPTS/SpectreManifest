@@ -1,0 +1,72 @@
+{
+  "name": "Slice & Dice",
+  "source": "spectre",
+  "changenumber": 40640706,
+  "updated": "2026-11-06T23:09:45.952Z",
+  "branches": {
+    "public": {
+      "buildid": "26465297",
+      "timeupdated": "1793902481",
+      "timebuildupdated": "1793902036"
+    },
+    "local": {
+      "buildid": "12416679",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1697050193",
+      "timebuildupdated": "1697050193"
+    }
+  },
+  "depot": {
+    "1775491": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2852692685716890841",
+          "size": "163395099",
+          "download": "124929616"
+        }
+      }
+    },
+    "1775492": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6645315479660603562",
+          "size": "188406763",
+          "download": "132153984"
+        }
+      }
+    },
+    "1775493": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8523317843402241069",
+          "size": "178247780",
+          "download": "132910800"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26465297",
+        "timeupdated": "1793902481",
+        "timebuildupdated": "1793902036"
+      },
+      "local": {
+        "buildid": "12416679",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1697050193",
+        "timebuildupdated": "1697050193"
+      }
+    }
+  }
+}

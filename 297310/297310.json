@@ -1,0 +1,76 @@
+{
+  "name": "Pro Wrestling X",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:29.220Z",
+  "branches": {
+    "public": {
+      "buildid": "15360292",
+      "timeupdated": "1725472661",
+      "timebuildupdated": "1723583130"
+    },
+    "bleeding-edge-build": {
+      "buildid": "2530580",
+      "description": "Final update for Unity 4 engine",
+      "timeupdated": "1518744863",
+      "timebuildupdated": "1518744838"
+    },
+    "local": {
+      "buildid": "293128",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1402289058"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "297311": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6062223424657564527",
+          "size": "1848635183",
+          "download": "595151424"
+        }
+      }
+    },
+    "297329": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6802750685600872873",
+          "size": "1027048032",
+          "download": "307632320"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15360292",
+        "timeupdated": "1725472661",
+        "timebuildupdated": "1723583130"
+      },
+      "bleeding-edge-build": {
+        "buildid": "2530580",
+        "description": "Final update for Unity 4 engine",
+        "timeupdated": "1518744863",
+        "timebuildupdated": "1518744838"
+      },
+      "local": {
+        "buildid": "293128",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1402289058"
+      }
+    }
+  }
+}

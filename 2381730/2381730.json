@@ -1,0 +1,77 @@
+{
+  "name": "Airship",
+  "source": "spectre",
+  "changenumber": 40315868,
+  "updated": "2026-11-06T23:23:21.757Z",
+  "branches": {
+    "public": {
+      "buildid": "25591201",
+      "timeupdated": "1790641715",
+      "timebuildupdated": "1790641637"
+    },
+    "dev-build": {
+      "buildid": "22524082",
+      "description": "Build with profiler enabled",
+      "timeupdated": "1774564208",
+      "timebuildupdated": "1774564208"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2381731": {},
+    "2381732": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6694304219748433868",
+          "size": "1876907429",
+          "download": "428023408"
+        }
+      }
+    },
+    "2381733": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3918256372076163553",
+          "size": "776267701",
+          "download": "100393360"
+        }
+      }
+    },
+    "2381734": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3172930397124396007",
+          "size": "1233399624",
+          "download": "341364912"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25591201",
+        "timeupdated": "1790641715",
+        "timebuildupdated": "1790641637"
+      },
+      "dev-build": {
+        "buildid": "22524082",
+        "description": "Build with profiler enabled",
+        "timeupdated": "1774564208",
+        "timebuildupdated": "1774564208"
+      }
+    }
+  }
+}

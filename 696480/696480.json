@@ -1,0 +1,114 @@
+{
+  "name": "The Norwood Suite",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:53.558Z",
+  "branches": {
+    "public": {
+      "buildid": "3084824",
+      "timeupdated": "1535980596",
+      "timebuildupdated": "1535832570"
+    },
+    "32-bit_mode": {
+      "buildid": "9832994",
+      "description": "try this if your game crashes at start",
+      "timeupdated": "1667168419",
+      "timebuildupdated": "1667167059"
+    },
+    "32-bit_mode_dx11": {
+      "buildid": "13072748",
+      "description": "Try this if your game crashes during game.",
+      "timeupdated": "1704123644",
+      "timebuildupdated": "1704123644"
+    },
+    "v_1.35": {
+      "buildid": "2506460",
+      "description": "Volume, Head Bob and Arrow Key Control",
+      "timeupdated": "1518041941",
+      "timebuildupdated": "1518041228"
+    },
+    "v_1.37": {
+      "buildid": "3084824",
+      "timeupdated": "1535980747",
+      "timebuildupdated": "1535832570"
+    }
+  },
+  "depot": {
+    "696481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4587081873118673660",
+          "size": "1802915027",
+          "download": "822298400"
+        }
+      }
+    },
+    "696482": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8881752711596752879",
+          "size": "1843538929",
+          "download": "824217824"
+        }
+      }
+    },
+    "696483": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "696484": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2724004695392295478",
+          "size": "1798629483",
+          "download": "821265136"
+        }
+      }
+    },
+    "696485": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3084824",
+        "timeupdated": "1535980596",
+        "timebuildupdated": "1535832570"
+      },
+      "32-bit_mode": {
+        "buildid": "9832994",
+        "description": "try this if your game crashes at start",
+        "timeupdated": "1667168419",
+        "timebuildupdated": "1667167059"
+      },
+      "32-bit_mode_dx11": {
+        "buildid": "13072748",
+        "description": "Try this if your game crashes during game.",
+        "timeupdated": "1704123644",
+        "timebuildupdated": "1704123644"
+      },
+      "v_1.35": {
+        "buildid": "2506460",
+        "description": "Volume, Head Bob and Arrow Key Control",
+        "timeupdated": "1518041941",
+        "timebuildupdated": "1518041228"
+      },
+      "v_1.37": {
+        "buildid": "3084824",
+        "timeupdated": "1535980747",
+        "timebuildupdated": "1535832570"
+      }
+    }
+  }
+}

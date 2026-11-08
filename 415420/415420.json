@@ -1,0 +1,79 @@
+{
+  "name": "Nyan Cat: Lost In Space",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:39.388Z",
+  "branches": {
+    "public": {
+      "buildid": "2567711",
+      "timeupdated": "1519918594",
+      "timebuildupdated": "1519917403"
+    },
+    "local": {
+      "buildid": "836614",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1446132664"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "415421": {
+      "manifests": {
+        "public": {
+          "gid": "6991666460020760590",
+          "size": "89021482",
+          "download": "88348288"
+        }
+      }
+    },
+    "415422": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7923369923543721584",
+          "size": "2842166",
+          "download": "863024"
+        }
+      }
+    },
+    "415423": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "237262177702448809",
+          "size": "5226213",
+          "download": "1516000"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2567711",
+        "timeupdated": "1519918594",
+        "timebuildupdated": "1519917403"
+      },
+      "local": {
+        "buildid": "836614",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1446132664"
+      }
+    }
+  }
+}

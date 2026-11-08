@@ -1,0 +1,64 @@
+{
+  "name": "Crashlands",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:28.872Z",
+  "branches": {
+    "public": {
+      "buildid": "20483884",
+      "timeupdated": "1761182358",
+      "timebuildupdated": "1761065131"
+    },
+    "beta": {
+      "buildid": "13522026",
+      "description": "Beta - For testing changes",
+      "timeupdated": "1708535540",
+      "timebuildupdated": "1708535540"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "391731": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8455360675739640188",
+          "size": "116871800",
+          "download": "81053328"
+        }
+      }
+    },
+    "391732": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5160663558593528303",
+          "size": "99499946",
+          "download": "76010288"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20483884",
+        "timeupdated": "1761182358",
+        "timebuildupdated": "1761065131"
+      },
+      "beta": {
+        "buildid": "13522026",
+        "description": "Beta - For testing changes",
+        "timeupdated": "1708535540",
+        "timebuildupdated": "1708535540"
+      }
+    }
+  }
+}

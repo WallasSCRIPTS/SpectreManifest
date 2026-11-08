@@ -1,0 +1,130 @@
+{
+  "name": "Flotilla",
+  "source": "spectre",
+  "changenumber": 39431097,
+  "updated": "2026-11-07T20:55:56.388Z",
+  "branches": {
+    "public": {
+      "buildid": "12090120",
+      "timeupdated": "1693678736",
+      "timebuildupdated": "1693581996"
+    },
+    "linux32": {
+      "buildid": "3736809",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609455099",
+      "timebuildupdated": "1555260784"
+    },
+    "nextversion": {
+      "buildid": "12096444",
+      "description": "Next Version",
+      "timeupdated": "1693672830",
+      "timebuildupdated": "1693672818"
+    },
+    "prev_build": {
+      "buildid": "7110918",
+      "description": "Previous build",
+      "timeupdated": "1693671645",
+      "timebuildupdated": "1627612869"
+    },
+    "xna3_legacy": {
+      "buildid": "12004290",
+      "description": "Original 2012 build",
+      "timeupdated": "1692716441",
+      "timebuildupdated": "1692716441"
+    },
+    "sdl3": {
+      "buildid": "25682994",
+      "description": "SDL 3.0 Testing, UNSTABLE",
+      "timeupdated": "1790962463",
+      "timebuildupdated": "1790962463"
+    }
+  },
+  "depot": {
+    "55001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "167261428972550581",
+          "size": "46591606",
+          "download": "36766496"
+        }
+      }
+    },
+    "55002": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3248135805637759669",
+          "size": "78485204",
+          "download": "45399840"
+        }
+      }
+    },
+    "55003": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "737760183643160185",
+          "size": "83495476",
+          "download": "45584272"
+        }
+      }
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "12090120",
+        "timeupdated": "1693678736",
+        "timebuildupdated": "1693581996"
+      },
+      "linux32": {
+        "buildid": "3736809",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609455099",
+        "timebuildupdated": "1555260784"
+      },
+      "nextversion": {
+        "buildid": "12096444",
+        "description": "Next Version",
+        "timeupdated": "1693672830",
+        "timebuildupdated": "1693672818"
+      },
+      "prev_build": {
+        "buildid": "7110918",
+        "description": "Previous build",
+        "timeupdated": "1693671645",
+        "timebuildupdated": "1627612869"
+      },
+      "xna3_legacy": {
+        "buildid": "12004290",
+        "description": "Original 2012 build",
+        "timeupdated": "1692716441",
+        "timebuildupdated": "1692716441"
+      },
+      "sdl3": {
+        "buildid": "25682994",
+        "description": "SDL 3.0 Testing, UNSTABLE",
+        "timeupdated": "1790962463",
+        "timebuildupdated": "1790962463"
+      }
+    }
+  }
+}

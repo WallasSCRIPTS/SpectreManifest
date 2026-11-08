@@ -1,0 +1,73 @@
+{
+  "name": "RetroArch - BlueMSX",
+  "source": "spectre",
+  "changenumber": 40666606,
+  "updated": "2026-11-06T23:15:36.074Z",
+  "branches": {
+    "public": {
+      "buildid": "25994184",
+      "timeupdated": "1792174338",
+      "timebuildupdated": "1792173505"
+    },
+    "nightly": {
+      "buildid": "26483187",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793964997",
+      "timebuildupdated": "1793964997"
+    }
+  },
+  "depot": {
+    "2010121": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6595357394682783918",
+          "size": "1730492",
+          "download": "814768"
+        }
+      },
+      "dlcappid": "2010121"
+    },
+    "2079440": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2003777402642517288",
+          "size": "3232821",
+          "download": "1496912"
+        }
+      },
+      "dlcappid": "2010121"
+    },
+    "2079441": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6857199559670683332",
+          "size": "3403815",
+          "download": "1500848"
+        }
+      },
+      "dlcappid": "2010121"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25994184",
+        "timeupdated": "1792174338",
+        "timebuildupdated": "1792173505"
+      },
+      "nightly": {
+        "buildid": "26483187",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793964997",
+        "timebuildupdated": "1793964997"
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "name": "ClickRaid2",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:14.919Z",
+  "branches": {
+    "public": {
+      "buildid": "16490347",
+      "timeupdated": "1732217940",
+      "timebuildupdated": "1732213282"
+    },
+    "livebeta": {
+      "buildid": "5259921",
+      "timeupdated": "1594117587",
+      "timebuildupdated": "1594117572"
+    },
+    "betatesting": {
+      "buildid": "16490347",
+      "timeupdated": "1732213299",
+      "timebuildupdated": "1732213282"
+    },
+    "legacy": {
+      "buildid": "16294963",
+      "description": "Old Server",
+      "timeupdated": "1730930305",
+      "timebuildupdated": "1730771246"
+    }
+  },
+  "depot": {
+    "1097961": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8073884889579844077",
+          "size": "473933258",
+          "download": "362606784"
+        }
+      }
+    },
+    "1097962": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2971872953653968283",
+          "size": "495271548",
+          "download": "372254336"
+        }
+      }
+    },
+    "1097963": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8183281790743848143",
+          "size": "473429396",
+          "download": "363058176"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16490347",
+        "timeupdated": "1732217940",
+        "timebuildupdated": "1732213282"
+      },
+      "livebeta": {
+        "buildid": "5259921",
+        "timeupdated": "1594117587",
+        "timebuildupdated": "1594117572"
+      },
+      "betatesting": {
+        "buildid": "16490347",
+        "timeupdated": "1732213299",
+        "timebuildupdated": "1732213282"
+      },
+      "legacy": {
+        "buildid": "16294963",
+        "description": "Old Server",
+        "timeupdated": "1730930305",
+        "timebuildupdated": "1730771246"
+      }
+    }
+  }
+}

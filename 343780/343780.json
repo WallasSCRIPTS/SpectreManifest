@@ -1,0 +1,82 @@
+{
+  "name": "Cat Goes Fishing",
+  "source": "spectre",
+  "changenumber": 37855639,
+  "updated": "2026-11-07T20:56:54.373Z",
+  "branches": {
+    "public": {
+      "buildid": "15262279",
+      "timeupdated": "1722851236",
+      "timebuildupdated": "1722851138"
+    },
+    "gamma": {
+      "buildid": "11941609",
+      "description": "Fewer updates, known issues.",
+      "timeupdated": "1692057942",
+      "timebuildupdated": "1692057719"
+    },
+    "beta": {
+      "buildid": "15262279",
+      "description": "Latest updates, unstable.",
+      "timeupdated": "1722851138",
+      "timebuildupdated": "1722851138"
+    },
+    "fast": {
+      "buildid": "15262279",
+      "description": "Runs faster, but may have bugs.",
+      "timeupdated": "1722851183",
+      "timebuildupdated": "1722851138"
+    }
+  },
+  "depot": {
+    "343781": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2708293152369153241",
+          "size": "33199157",
+          "download": "18248416"
+        }
+      }
+    },
+    "343782": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3104444665715272859",
+          "size": "56856261",
+          "download": "29741760"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15262279",
+        "timeupdated": "1722851236",
+        "timebuildupdated": "1722851138"
+      },
+      "gamma": {
+        "buildid": "11941609",
+        "description": "Fewer updates, known issues.",
+        "timeupdated": "1692057942",
+        "timebuildupdated": "1692057719"
+      },
+      "beta": {
+        "buildid": "15262279",
+        "description": "Latest updates, unstable.",
+        "timeupdated": "1722851138",
+        "timebuildupdated": "1722851138"
+      },
+      "fast": {
+        "buildid": "15262279",
+        "description": "Runs faster, but may have bugs.",
+        "timeupdated": "1722851183",
+        "timebuildupdated": "1722851138"
+      }
+    }
+  }
+}

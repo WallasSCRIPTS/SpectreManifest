@@ -1,0 +1,49 @@
+{
+  "name": "Spooky Night Demo",
+  "source": "spectre",
+  "changenumber": 34961089,
+  "updated": "2026-11-04T23:24:41.920Z",
+  "branches": {},
+  "depot": {
+    "3443651": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8680899992049519071",
+          "size": "281880580",
+          "download": "155952816"
+        }
+      },
+      "depotfromapp": "3443650"
+    },
+    "3443652": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6384059615214730346",
+          "size": "263488613",
+          "download": "150649984"
+        }
+      },
+      "depotfromapp": "3443650"
+    },
+    "3443653": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4260653400105879125",
+          "size": "462722789",
+          "download": "197815328"
+        }
+      },
+      "depotfromapp": "3443650"
+    },
+    "branches": {}
+  }
+}

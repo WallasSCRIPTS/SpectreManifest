@@ -1,0 +1,112 @@
+{
+  "name": "Sunless Sea",
+  "source": "spectre",
+  "changenumber": 38375604,
+  "updated": "2026-11-07T20:56:32.744Z",
+  "branches": {
+    "public": {
+      "buildid": "24946998",
+      "timeupdated": "1787828746",
+      "timebuildupdated": "1787739377"
+    },
+    "legacy": {
+      "buildid": "24949779",
+      "description": "Unity 5.5 version",
+      "timeupdated": "1787749012",
+      "timebuildupdated": "1787749012"
+    }
+  },
+  "depot": {
+    "304651": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3777491160654089486",
+          "size": "755714715",
+          "download": "306455776"
+        }
+      }
+    },
+    "304652": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "221534124276427066",
+          "size": "860142062",
+          "download": "339602832"
+        }
+      }
+    },
+    "304653": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9021741538535760209",
+          "size": "773504183",
+          "download": "310914816"
+        }
+      }
+    },
+    "452530": {
+      "dlcappid": "452530"
+    },
+    "452531": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3619656317164151289",
+          "size": "927400939",
+          "download": "372295808"
+        }
+      },
+      "dlcappid": "452530"
+    },
+    "452532": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2137120213666023890",
+          "size": "1031828062",
+          "download": "405441152"
+        }
+      },
+      "dlcappid": "452530"
+    },
+    "452533": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "403894994201738050",
+          "size": "945190567",
+          "download": "376947568"
+        }
+      },
+      "dlcappid": "452530"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24946998",
+        "timeupdated": "1787828746",
+        "timebuildupdated": "1787739377"
+      },
+      "legacy": {
+        "buildid": "24949779",
+        "description": "Unity 5.5 version",
+        "timeupdated": "1787749012",
+        "timebuildupdated": "1787749012"
+      }
+    }
+  }
+}

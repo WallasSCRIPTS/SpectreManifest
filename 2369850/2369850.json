@@ -1,0 +1,82 @@
+{
+  "name": "Dolven",
+  "source": "spectre",
+  "changenumber": 40537106,
+  "updated": "2026-11-06T23:23:20.268Z",
+  "branches": {
+    "public": {
+      "buildid": "21376495",
+      "timeupdated": "1767569223",
+      "timebuildupdated": "1767519334"
+    },
+    "closed_beta": {
+      "buildid": "23027124",
+      "description": "Branch for closed betas",
+      "timeupdated": "1777543523",
+      "timebuildupdated": "1777543522"
+    },
+    "experimental": {
+      "buildid": "23229754",
+      "description": "Branch for experimental features",
+      "timeupdated": "1778741526",
+      "timebuildupdated": "1778741526"
+    },
+    "expermental": {
+      "buildid": "21374535",
+      "description": "Branch for experimental features",
+      "timeupdated": "1767489794",
+      "timebuildupdated": "1767489794"
+    }
+  },
+  "depot": {
+    "2369851": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6791142402250149553",
+          "size": "3251760713",
+          "download": "1222717856"
+        }
+      }
+    },
+    "2369852": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3456966421438381390",
+          "size": "3302993199",
+          "download": "1323048800"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21376495",
+        "timeupdated": "1767569223",
+        "timebuildupdated": "1767519334"
+      },
+      "closed_beta": {
+        "buildid": "23027124",
+        "description": "Branch for closed betas",
+        "timeupdated": "1777543523",
+        "timebuildupdated": "1777543522"
+      },
+      "experimental": {
+        "buildid": "23229754",
+        "description": "Branch for experimental features",
+        "timeupdated": "1778741526",
+        "timebuildupdated": "1778741526"
+      },
+      "expermental": {
+        "buildid": "21374535",
+        "description": "Branch for experimental features",
+        "timeupdated": "1767489794",
+        "timebuildupdated": "1767489794"
+      }
+    }
+  }
+}

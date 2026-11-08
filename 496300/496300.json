@@ -1,0 +1,86 @@
+{
+  "name": "Kingdom: New Lands",
+  "source": "spectre",
+  "changenumber": 40427118,
+  "updated": "2026-11-07T20:58:16.582Z",
+  "branches": {
+    "public": {
+      "buildid": "4412667",
+      "timeupdated": "1574930083",
+      "timebuildupdated": "1574344071"
+    },
+    "beta": {
+      "buildid": "4412667",
+      "description": "Test Upcoming Patch",
+      "timeupdated": "1574412127",
+      "timebuildupdated": "1574344071"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "496301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3872450498041949631",
+          "size": "413362091",
+          "download": "294973232"
+        }
+      }
+    },
+    "496302": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "99912734096114169",
+          "size": "425230103",
+          "download": "297307568"
+        }
+      }
+    },
+    "496303": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1172845252453470058",
+          "size": "455037822",
+          "download": "308991440"
+        }
+      }
+    },
+    "496304": {
+      "manifests": {
+        "public": {
+          "gid": "1350565684893008780",
+          "size": "811776342",
+          "download": "808470352"
+        }
+      },
+      "dlcappid": "509430"
+    },
+    "branches": {
+      "public": {
+        "buildid": "4412667",
+        "timeupdated": "1574930083",
+        "timebuildupdated": "1574344071"
+      },
+      "beta": {
+        "buildid": "4412667",
+        "description": "Test Upcoming Patch",
+        "timeupdated": "1574412127",
+        "timebuildupdated": "1574344071"
+      }
+    }
+  }
+}

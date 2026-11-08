@@ -1,0 +1,44 @@
+{
+  "name": "NeuroNet: Mendax Proxy",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-05T14:53:33.485Z",
+  "branches": {
+    "public": {
+      "buildid": "11167417",
+      "timeupdated": "1683318715",
+      "timebuildupdated": "1683318263"
+    }
+  },
+  "depot": {
+    "1423001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8111038162638900077",
+          "size": "1238524221",
+          "download": "1027672832"
+        }
+      }
+    },
+    "1423002": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "1423003": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11167417",
+        "timeupdated": "1683318715",
+        "timebuildupdated": "1683318263"
+      }
+    }
+  }
+}

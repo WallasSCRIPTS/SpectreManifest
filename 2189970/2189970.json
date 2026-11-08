@@ -1,0 +1,58 @@
+{
+  "name": "Exhibitors",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:19:29.209Z",
+  "branches": {
+    "public": {
+      "buildid": "18743093",
+      "timeupdated": "1749085813",
+      "timebuildupdated": "1749085635"
+    },
+    "testing": {
+      "buildid": "11183078",
+      "description": "testing",
+      "timeupdated": "1741990328",
+      "timebuildupdated": "1683576014"
+    }
+  },
+  "depot": {
+    "2189971": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7103742707396568925",
+          "size": "276391641",
+          "download": "139452240"
+        }
+      }
+    },
+    "2189972": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5909995868303335709",
+          "size": "300068153",
+          "download": "146503744"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18743093",
+        "timeupdated": "1749085813",
+        "timebuildupdated": "1749085635"
+      },
+      "testing": {
+        "buildid": "11183078",
+        "description": "testing",
+        "timeupdated": "1741990328",
+        "timebuildupdated": "1683576014"
+      }
+    }
+  }
+}

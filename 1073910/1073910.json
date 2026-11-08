@@ -1,0 +1,76 @@
+{
+  "name": "Before We Leave",
+  "source": "spectre",
+  "changenumber": 37441117,
+  "updated": "2026-11-07T21:03:00.464Z",
+  "branches": {
+    "public": {
+      "buildid": "20404307",
+      "timeupdated": "1761825794",
+      "timebuildupdated": "1760539830"
+    },
+    "experimental": {
+      "buildid": "9160346",
+      "description": "Experimental branch for in-development features of Before We Leave",
+      "timeupdated": "1658362757",
+      "timebuildupdated": "1658362757"
+    },
+    "patch_1": {
+      "buildid": "6722182",
+      "description": "Before We Leave with only Patch 1 (version 1.0238) applied",
+      "timeupdated": "1625104228",
+      "timebuildupdated": "1621397736"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1073911": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6683415832756600450",
+          "size": "1694692374",
+          "download": "807888672"
+        }
+      }
+    },
+    "1073912": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7208388063764609961",
+          "size": "1686341744",
+          "download": "806304016"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20404307",
+        "timeupdated": "1761825794",
+        "timebuildupdated": "1760539830"
+      },
+      "experimental": {
+        "buildid": "9160346",
+        "description": "Experimental branch for in-development features of Before We Leave",
+        "timeupdated": "1658362757",
+        "timebuildupdated": "1658362757"
+      },
+      "patch_1": {
+        "buildid": "6722182",
+        "description": "Before We Leave with only Patch 1 (version 1.0238) applied",
+        "timeupdated": "1625104228",
+        "timebuildupdated": "1621397736"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Chief Emoji Officer",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:21:25.338Z",
+  "branches": {
+    "public": {
+      "buildid": "11138938",
+      "timeupdated": "1683046242",
+      "timebuildupdated": "1683043223"
+    },
+    "test": {
+      "buildid": "11138938",
+      "description": "for testing",
+      "timeupdated": "1683043316",
+      "timebuildupdated": "1683043223"
+    }
+  },
+  "depot": {
+    "2287351": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4327032985958709301",
+          "size": "184829978",
+          "download": "46079104"
+        }
+      }
+    },
+    "2287352": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7822784065876182313",
+          "size": "105549450",
+          "download": "28481888"
+        }
+      }
+    },
+    "2287353": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5218954232250406314",
+          "size": "135751627",
+          "download": "30664496"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11138938",
+        "timeupdated": "1683046242",
+        "timebuildupdated": "1683043223"
+      },
+      "test": {
+        "buildid": "11138938",
+        "description": "for testing",
+        "timeupdated": "1683043316",
+        "timebuildupdated": "1683043223"
+      }
+    }
+  }
+}

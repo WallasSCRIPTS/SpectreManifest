@@ -1,0 +1,107 @@
+{
+  "name": "Eternower Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:03:18.061Z",
+  "branches": {
+    "public": {
+      "buildid": "6017729",
+      "timeupdated": "1609110684",
+      "timebuildupdated": "1609110623"
+    },
+    "beta_demo": {
+      "buildid": "6017691",
+      "timeupdated": "1609109020",
+      "timebuildupdated": "1609108919"
+    }
+  },
+  "depot": {
+    "1031791": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3847738984713707670",
+          "size": "62719728",
+          "download": "16700880"
+        }
+      },
+      "depotfromapp": "1031790"
+    },
+    "1031792": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4489165454050532974",
+          "size": "140759374",
+          "download": "32562096"
+        }
+      },
+      "depotfromapp": "1031790"
+    },
+    "1031793": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8471090846635212927",
+          "size": "86320511",
+          "download": "20364320"
+        }
+      },
+      "depotfromapp": "1031790"
+    },
+    "1102561": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "866955562097245487",
+          "size": "62719712",
+          "download": "16700640"
+        }
+      }
+    },
+    "1102562": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1087164886440694025",
+          "size": "140759358",
+          "download": "32561824"
+        }
+      }
+    },
+    "1102563": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5067468912419651232",
+          "size": "86320495",
+          "download": "20348848"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6017729",
+        "timeupdated": "1609110684",
+        "timebuildupdated": "1609110623"
+      },
+      "beta_demo": {
+        "buildid": "6017691",
+        "timeupdated": "1609109020",
+        "timebuildupdated": "1609108919"
+      }
+    }
+  }
+}

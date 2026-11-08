@@ -1,0 +1,70 @@
+{
+  "name": "Thibalryn",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T21:01:44.482Z",
+  "branches": {
+    "public": {
+      "buildid": "20257118",
+      "timeupdated": "1759637150",
+      "timebuildupdated": "1759634575"
+    },
+    "testing": {
+      "buildid": "20257118",
+      "description": "May contain traces of bug",
+      "timeupdated": "1759635127",
+      "timebuildupdated": "1759634575"
+    }
+  },
+  "depot": {
+    "926451": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5613246256836935053",
+          "size": "475247533",
+          "download": "115804064"
+        }
+      }
+    },
+    "926452": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "507668465473081808",
+          "size": "490120768",
+          "download": "115782720"
+        }
+      }
+    },
+    "926453": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4973003983958177088",
+          "size": "475144134",
+          "download": "114693968"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20257118",
+        "timeupdated": "1759637150",
+        "timebuildupdated": "1759634575"
+      },
+      "testing": {
+        "buildid": "20257118",
+        "description": "May contain traces of bug",
+        "timeupdated": "1759635127",
+        "timebuildupdated": "1759634575"
+      }
+    }
+  }
+}

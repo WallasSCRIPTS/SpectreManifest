@@ -1,0 +1,63 @@
+{
+  "name": "Paleo Pines Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-06T23:21:26.358Z",
+  "branches": {
+    "public": {
+      "buildid": "12664355",
+      "timeupdated": "1701261725",
+      "timebuildupdated": "1699560649"
+    },
+    "beta": {
+      "buildid": "13189435",
+      "description": "Public beta testing",
+      "timeupdated": "1708446288",
+      "timebuildupdated": "1705441598"
+    }
+  },
+  "depot": {
+    "2296431": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7364099634683536869",
+          "size": "4007442742",
+          "download": "1130323360"
+        }
+      }
+    },
+    "2296432": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "2296433": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2304954595249955409",
+          "size": "4106324884",
+          "download": "1169321280"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12664355",
+        "timeupdated": "1701261725",
+        "timebuildupdated": "1699560649"
+      },
+      "beta": {
+        "buildid": "13189435",
+        "description": "Public beta testing",
+        "timeupdated": "1708446288",
+        "timebuildupdated": "1705441598"
+      }
+    }
+  }
+}

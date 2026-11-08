@@ -1,0 +1,86 @@
+{
+  "name": "Hexcells",
+  "source": "spectre",
+  "changenumber": 37432709,
+  "updated": "2026-11-07T20:56:17.453Z",
+  "branches": {
+    "public": {
+      "buildid": "5451597",
+      "timeupdated": "1598274069",
+      "timebuildupdated": "1598273347"
+    },
+    "rollback": {
+      "buildid": "4366010",
+      "description": "Previous version.",
+      "timeupdated": "1597827759",
+      "timebuildupdated": "1573132836"
+    },
+    "test": {
+      "buildid": "5451597",
+      "timeupdated": "1598273512",
+      "timebuildupdated": "1598273347"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "265891": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2748739197482395780",
+          "size": "107630079",
+          "download": "59453744"
+        }
+      }
+    },
+    "265892": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "301226358786990846",
+          "size": "158242544",
+          "download": "73089648"
+        }
+      }
+    },
+    "265893": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3393176406961105607",
+          "size": "156762408",
+          "download": "74577888"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5451597",
+        "timeupdated": "1598274069",
+        "timebuildupdated": "1598273347"
+      },
+      "rollback": {
+        "buildid": "4366010",
+        "description": "Previous version.",
+        "timeupdated": "1597827759",
+        "timebuildupdated": "1573132836"
+      },
+      "test": {
+        "buildid": "5451597",
+        "timeupdated": "1598273512",
+        "timebuildupdated": "1598273347"
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Black Powder Red Earth®",
+  "source": "spectre",
+  "changenumber": 40468319,
+  "updated": "2026-11-07T21:02:15.897Z",
+  "branches": {
+    "public": {
+      "buildid": "22085112",
+      "timeupdated": "1771990768",
+      "timebuildupdated": "1771990529"
+    },
+    "canary": {
+      "buildid": "16602511",
+      "description": "test branch",
+      "timeupdated": "1733153446",
+      "timebuildupdated": "1733153230"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "988491": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8997819412319303005",
+          "size": "681889379",
+          "download": "444022688"
+        }
+      }
+    },
+    "988492": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2742853484279525866",
+          "size": "656002565",
+          "download": "436412848"
+        }
+      }
+    },
+    "988493": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8962399460356661636",
+          "size": "674295563",
+          "download": "435453904"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22085112",
+        "timeupdated": "1771990768",
+        "timebuildupdated": "1771990529"
+      },
+      "canary": {
+        "buildid": "16602511",
+        "description": "test branch",
+        "timeupdated": "1733153446",
+        "timebuildupdated": "1733153230"
+      }
+    }
+  }
+}

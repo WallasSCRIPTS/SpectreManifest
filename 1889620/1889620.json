@@ -1,0 +1,111 @@
+{
+  "name": "AI Roguelite",
+  "source": "spectre",
+  "changenumber": 40320694,
+  "updated": "2026-11-06T23:13:27.365Z",
+  "branches": {
+    "public": {
+      "buildid": "25898662",
+      "timeupdated": "1791863843",
+      "timebuildupdated": "1791863843"
+    },
+    "alpha": {
+      "buildid": "25969732",
+      "description": "Alpha: Use at your own risk. May get features earlier than Beta, at the cost of possible bugs or broken saves.",
+      "timeupdated": "1792095092",
+      "timebuildupdated": "1792095092"
+    },
+    "beta": {
+      "buildid": "25785322",
+      "description": "Beta: Get new features sooner than default, with less chance of broken saves than Alpha",
+      "timeupdated": "1791398266",
+      "timebuildupdated": "1791398266"
+    },
+    "debug": {
+      "buildid": "20909499",
+      "description": "For debugging specific issues",
+      "timeupdated": "1763904835",
+      "timebuildupdated": "1763904804"
+    },
+    "older_build": {
+      "buildid": "25898629",
+      "description": "older build without new features",
+      "timeupdated": "1791863674",
+      "timebuildupdated": "1791863674"
+    }
+  },
+  "depot": {
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1889621": {
+      "manifests": {
+        "public": {
+          "gid": "4704575147982726903",
+          "size": "909880166",
+          "download": "422667872"
+        }
+      }
+    },
+    "4792270": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "151187000019348339",
+          "size": "9313940030",
+          "download": "6467089872"
+        }
+      },
+      "dlcappid": "4792270"
+    },
+    "4792280": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1912035018419297772",
+          "size": "9272121238",
+          "download": "6449108752"
+        }
+      },
+      "dlcappid": "4792280"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25898662",
+        "timeupdated": "1791863843",
+        "timebuildupdated": "1791863843"
+      },
+      "alpha": {
+        "buildid": "25969732",
+        "description": "Alpha: Use at your own risk. May get features earlier than Beta, at the cost of possible bugs or broken saves.",
+        "timeupdated": "1792095092",
+        "timebuildupdated": "1792095092"
+      },
+      "beta": {
+        "buildid": "25785322",
+        "description": "Beta: Get new features sooner than default, with less chance of broken saves than Alpha",
+        "timeupdated": "1791398266",
+        "timebuildupdated": "1791398266"
+      },
+      "debug": {
+        "buildid": "20909499",
+        "description": "For debugging specific issues",
+        "timeupdated": "1763904835",
+        "timebuildupdated": "1763904804"
+      },
+      "older_build": {
+        "buildid": "25898629",
+        "description": "older build without new features",
+        "timeupdated": "1791863674",
+        "timebuildupdated": "1791863674"
+      }
+    }
+  }
+}

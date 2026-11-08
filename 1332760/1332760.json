@@ -1,0 +1,70 @@
+{
+  "name": "Nienix",
+  "source": "spectre",
+  "changenumber": 38098582,
+  "updated": "2026-11-06T21:04:29.161Z",
+  "branches": {
+    "public": {
+      "buildid": "21269839",
+      "timeupdated": "1766247061",
+      "timebuildupdated": "1766246484"
+    },
+    "beta": {
+      "buildid": "21269818",
+      "description": "Test branch",
+      "timeupdated": "1766246582",
+      "timebuildupdated": "1766246242"
+    }
+  },
+  "depot": {
+    "1332761": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5863953666443114798",
+          "size": "1060788082",
+          "download": "839352432"
+        }
+      }
+    },
+    "1332762": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5035951319438252541",
+          "size": "1060807698",
+          "download": "838580832"
+        }
+      }
+    },
+    "1332763": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4297520387267593244",
+          "size": "1059482866",
+          "download": "838254448"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21269839",
+        "timeupdated": "1766247061",
+        "timebuildupdated": "1766246484"
+      },
+      "beta": {
+        "buildid": "21269818",
+        "description": "Test branch",
+        "timeupdated": "1766246582",
+        "timebuildupdated": "1766246242"
+      }
+    }
+  }
+}

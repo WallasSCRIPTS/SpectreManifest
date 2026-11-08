@@ -1,0 +1,64 @@
+{
+  "name": "Shapik: The Moon Quest",
+  "source": "spectre",
+  "changenumber": 37981223,
+  "updated": "2026-11-07T21:03:00.362Z",
+  "branches": {
+    "public": {
+      "buildid": "17640495",
+      "timeupdated": "1741378004",
+      "timebuildupdated": "1741377886"
+    },
+    "macos": {
+      "buildid": "4743343",
+      "description": "Mac Os",
+      "timeupdated": "1583353048",
+      "timebuildupdated": "1583353048"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1073811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1656478512828813537",
+          "size": "838505367",
+          "download": "821628640"
+        }
+      }
+    },
+    "1073812": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6868422131744556779",
+          "size": "860788371",
+          "download": "830174640"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17640495",
+        "timeupdated": "1741378004",
+        "timebuildupdated": "1741377886"
+      },
+      "macos": {
+        "buildid": "4743343",
+        "description": "Mac Os",
+        "timeupdated": "1583353048",
+        "timebuildupdated": "1583353048"
+      }
+    }
+  }
+}

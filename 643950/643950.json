@@ -1,0 +1,60 @@
+{
+  "name": "A Handful of Keflings",
+  "source": "spectre",
+  "changenumber": 40647473,
+  "updated": "2026-11-07T20:59:27.501Z",
+  "branches": {
+    "public": {
+      "buildid": "26328959",
+      "timeupdated": "1793916044",
+      "timebuildupdated": "1793378949"
+    },
+    "local": {
+      "buildid": "23183714",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1778519933",
+      "timebuildupdated": "1778519932"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "643951": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1539442091318842459",
+          "size": "1241442735",
+          "download": "856484576"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26328959",
+        "timeupdated": "1793916044",
+        "timebuildupdated": "1793378949"
+      },
+      "local": {
+        "buildid": "23183714",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1778519933",
+        "timebuildupdated": "1778519932"
+      }
+    }
+  }
+}

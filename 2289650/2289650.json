@@ -1,0 +1,94 @@
+{
+  "name": "Mini Airways",
+  "source": "spectre",
+  "changenumber": 39886025,
+  "updated": "2026-11-06T23:21:25.588Z",
+  "branches": {
+    "public": {
+      "buildid": "25668248",
+      "timeupdated": "1790910960",
+      "timebuildupdated": "1790910960"
+    },
+    "beta": {
+      "buildid": "25595834",
+      "description": "blackbox test",
+      "timeupdated": "1790665780",
+      "timebuildupdated": "1790662500"
+    },
+    "compatibility": {
+      "buildid": "19271831",
+      "description": "July 2025 version, for certain specific cases",
+      "timeupdated": "1752852656",
+      "timebuildupdated": "1752826855"
+    },
+    "mod_feat": {
+      "buildid": "25809774",
+      "description": "Mod Branch",
+      "timeupdated": "1791479872",
+      "timebuildupdated": "1791479068"
+    }
+  },
+  "depot": {
+    "2289651": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "609570259618497593",
+          "size": "1653032386",
+          "download": "1140982960"
+        }
+      }
+    },
+    "2289652": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2750362622228222355",
+          "size": "1152864714",
+          "download": "904151776"
+        }
+      }
+    },
+    "2289653": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "746680656601654511",
+          "size": "1066956906",
+          "download": "875233248"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25668248",
+        "timeupdated": "1790910960",
+        "timebuildupdated": "1790910960"
+      },
+      "beta": {
+        "buildid": "25595834",
+        "description": "blackbox test",
+        "timeupdated": "1790665780",
+        "timebuildupdated": "1790662500"
+      },
+      "compatibility": {
+        "buildid": "19271831",
+        "description": "July 2025 version, for certain specific cases",
+        "timeupdated": "1752852656",
+        "timebuildupdated": "1752826855"
+      },
+      "mod_feat": {
+        "buildid": "25809774",
+        "description": "Mod Branch",
+        "timeupdated": "1791479872",
+        "timebuildupdated": "1791479068"
+      }
+    }
+  }
+}

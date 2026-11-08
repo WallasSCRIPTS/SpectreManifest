@@ -1,0 +1,69 @@
+{
+  "name": "Yosemite Forest Ranger",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:13:29.666Z",
+  "branches": {
+    "public": {
+      "buildid": "17829235",
+      "timeupdated": "1742770234",
+      "timebuildupdated": "1742770159"
+    },
+    "legacy": {
+      "buildid": "9487194",
+      "description": "Old First Version of YFR",
+      "timeupdated": "1695916036",
+      "timebuildupdated": "1662752580"
+    },
+    "experimental": {
+      "buildid": "17829235",
+      "description": "This Branch will hold Experimental builds that might have some Bugs left to squash.",
+      "timeupdated": "1742770159",
+      "timebuildupdated": "1742770159"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1909151": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4513155756597644926",
+          "size": "21609656133",
+          "download": "20021784384"
+        }
+      }
+    },
+    "1909152": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17829235",
+        "timeupdated": "1742770234",
+        "timebuildupdated": "1742770159"
+      },
+      "legacy": {
+        "buildid": "9487194",
+        "description": "Old First Version of YFR",
+        "timeupdated": "1695916036",
+        "timebuildupdated": "1662752580"
+      },
+      "experimental": {
+        "buildid": "17829235",
+        "description": "This Branch will hold Experimental builds that might have some Bugs left to squash.",
+        "timeupdated": "1742770159",
+        "timebuildupdated": "1742770159"
+      }
+    }
+  }
+}

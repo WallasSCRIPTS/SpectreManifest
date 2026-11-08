@@ -1,0 +1,66 @@
+{
+  "name": "English Country Tune",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:02.058Z",
+  "branches": {
+    "public": {
+      "buildid": "75654",
+      "timebuildupdated": "1370020868"
+    },
+    "testing": {
+      "buildid": "85162",
+      "description": "bugfixing",
+      "timebuildupdated": "1372243107"
+    }
+  },
+  "depot": {
+    "207571": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8307359918131710219",
+          "size": "283851287",
+          "download": "0"
+        }
+      }
+    },
+    "207572": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2232712507818075851",
+          "size": "285655771",
+          "download": "0"
+        }
+      }
+    },
+    "207573": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5681144404624345672",
+          "size": "339455910",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "75654",
+        "timebuildupdated": "1370020868"
+      },
+      "testing": {
+        "buildid": "85162",
+        "description": "bugfixing",
+        "timebuildupdated": "1372243107"
+      }
+    }
+  }
+}

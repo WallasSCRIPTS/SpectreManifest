@@ -1,0 +1,82 @@
+{
+  "name": "NotiVR",
+  "source": "spectre",
+  "changenumber": 40538201,
+  "updated": "2026-11-06T23:09:46.742Z",
+  "branches": {
+    "public": {
+      "buildid": "25871612",
+      "timeupdated": "1791810000",
+      "timebuildupdated": "1791761182"
+    },
+    "beta": {
+      "buildid": "25871612",
+      "description": "Unstable builds",
+      "timeupdated": "1791761284",
+      "timebuildupdated": "1791761182"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1781431": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8617985523779907832",
+          "size": "448121865",
+          "download": "176548448"
+        }
+      }
+    },
+    "1781432": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5847401147652678704",
+          "size": "447046814",
+          "download": "172606720"
+        }
+      }
+    },
+    "1781433": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5281872539011290118",
+          "size": "467006307",
+          "download": "171789872"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25871612",
+        "timeupdated": "1791810000",
+        "timebuildupdated": "1791761182"
+      },
+      "beta": {
+        "buildid": "25871612",
+        "description": "Unstable builds",
+        "timeupdated": "1791761284",
+        "timebuildupdated": "1791761182"
+      }
+    }
+  }
+}

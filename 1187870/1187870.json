@@ -1,0 +1,65 @@
+{
+  "name": "FORZA POLPO",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:04:04.465Z",
+  "branches": {
+    "public": {
+      "buildid": "12808575",
+      "timeupdated": "1737031348",
+      "timebuildupdated": "1701099666"
+    },
+    "newengine_test": {
+      "buildid": "16339668",
+      "description": "Forza Polpo early access new engine",
+      "timeupdated": "1731059965",
+      "timebuildupdated": "1731059740"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1187871": {
+      "manifests": {
+        "public": {
+          "gid": "6522527824103599224",
+          "size": "4035920338",
+          "download": "1180425264"
+        }
+      }
+    },
+    "1187872": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "1187873": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12808575",
+        "timeupdated": "1737031348",
+        "timebuildupdated": "1701099666"
+      },
+      "newengine_test": {
+        "buildid": "16339668",
+        "description": "Forza Polpo early access new engine",
+        "timeupdated": "1731059965",
+        "timebuildupdated": "1731059740"
+      }
+    }
+  }
+}

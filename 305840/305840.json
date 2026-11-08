@@ -1,0 +1,88 @@
+{
+  "name": "Shallow Space",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:33.142Z",
+  "branches": {
+    "public": {
+      "buildid": "1543254",
+      "timeupdated": "1482943443",
+      "timebuildupdated": "1482943443"
+    },
+    "old_alpha": {
+      "buildid": "1500685",
+      "description": "Old Alpha",
+      "timeupdated": "1481016299",
+      "timebuildupdated": "1481016299"
+    },
+    "testing": {
+      "buildid": "1543257",
+      "description": "Overhaul Beta",
+      "timeupdated": "1482943481",
+      "timebuildupdated": "1482943481"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "305850": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4896892142089962594",
+          "size": "1841575254",
+          "download": "583418400"
+        }
+      }
+    },
+    "305851": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8248420258499584729",
+          "size": "1842392725",
+          "download": "582657568"
+        }
+      }
+    },
+    "305852": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6016453642504641150",
+          "size": "1857528041",
+          "download": "589599088"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1543254",
+        "timeupdated": "1482943443",
+        "timebuildupdated": "1482943443"
+      },
+      "old_alpha": {
+        "buildid": "1500685",
+        "description": "Old Alpha",
+        "timeupdated": "1481016299",
+        "timebuildupdated": "1481016299"
+      },
+      "testing": {
+        "buildid": "1543257",
+        "description": "Overhaul Beta",
+        "timeupdated": "1482943481",
+        "timebuildupdated": "1482943481"
+      }
+    }
+  }
+}

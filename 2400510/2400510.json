@@ -1,0 +1,70 @@
+{
+  "name": "Dungeons & Degenerate Gamblers",
+  "source": "spectre",
+  "changenumber": 40638390,
+  "updated": "2026-11-06T23:23:23.961Z",
+  "branches": {
+    "public": {
+      "buildid": "26420793",
+      "timeupdated": "1793898459",
+      "timebuildupdated": "1793756446"
+    },
+    "public_beta": {
+      "buildid": "26420793",
+      "description": "public beta",
+      "timeupdated": "1793757273",
+      "timebuildupdated": "1793756446"
+    }
+  },
+  "depot": {
+    "2400511": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8461931209537922173",
+          "size": "810689038",
+          "download": "643621280"
+        }
+      }
+    },
+    "2400512": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1072325464899319439",
+          "size": "728312556",
+          "download": "622022752"
+        }
+      }
+    },
+    "2400513": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5064869006608841652",
+          "size": "694828164",
+          "download": "613985952"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26420793",
+        "timeupdated": "1793898459",
+        "timebuildupdated": "1793756446"
+      },
+      "public_beta": {
+        "buildid": "26420793",
+        "description": "public beta",
+        "timeupdated": "1793757273",
+        "timebuildupdated": "1793756446"
+      }
+    }
+  }
+}

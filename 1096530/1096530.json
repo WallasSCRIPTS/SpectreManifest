@@ -1,0 +1,94 @@
+{
+  "name": "Solasta: Crown of the Magister",
+  "source": "spectre",
+  "changenumber": 39664871,
+  "updated": "2026-11-07T21:03:13.456Z",
+  "branches": {
+    "public": {
+      "buildid": "13657322",
+      "timeupdated": "1709730659",
+      "timebuildupdated": "1709730659"
+    },
+    "local": {
+      "buildid": "6169164",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1612179939",
+      "timebuildupdated": "1612179939"
+    },
+    "pre_ins_version": {
+      "buildid": "9934200",
+      "description": "Version before INS",
+      "timeupdated": "1668442773",
+      "timebuildupdated": "1668442773"
+    }
+  },
+  "depot": {
+    "1096531": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3535345957412496849",
+          "size": "29630647333",
+          "download": "25695759584"
+        }
+      }
+    },
+    "1096532": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4186960125558906065",
+          "size": "29670346539",
+          "download": "25715137968"
+        }
+      }
+    },
+    "1438980": {
+      "manifests": {
+        "public": {
+          "gid": "1512023796800140346",
+          "size": "1321333634",
+          "download": "1330024928"
+        }
+      },
+      "dlcappid": "1438980"
+    },
+    "1581690": {
+      "dlcappid": "1581690"
+    },
+    "1581691": {
+      "dlcappid": "1581691"
+    },
+    "1581692": {
+      "dlcappid": "1581692"
+    },
+    "1722280": {
+      "dlcappid": "1722280"
+    },
+    "branches": {
+      "public": {
+        "buildid": "13657322",
+        "timeupdated": "1709730659",
+        "timebuildupdated": "1709730659"
+      },
+      "local": {
+        "buildid": "6169164",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1612179939",
+        "timebuildupdated": "1612179939"
+      },
+      "pre_ins_version": {
+        "buildid": "9934200",
+        "description": "Version before INS",
+        "timeupdated": "1668442773",
+        "timebuildupdated": "1668442773"
+      }
+    }
+  }
+}

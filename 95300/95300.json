@@ -1,0 +1,102 @@
+{
+  "name": "Capsized",
+  "source": "spectre",
+  "changenumber": 39512022,
+  "updated": "2026-11-07T20:55:58.432Z",
+  "branches": {
+    "public": {
+      "buildid": "7875636",
+      "timeupdated": "1639415064",
+      "timebuildupdated": "1639415064"
+    },
+    "dev": {
+      "buildid": "522342",
+      "timebuildupdated": "1423672718"
+    },
+    "linux32": {
+      "buildid": "3986957",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609451964",
+      "timebuildupdated": "1562364707"
+    },
+    "sdl3": {
+      "buildid": "25395495",
+      "description": "Linux AArch64 Testing, UNSTABLE",
+      "timeupdated": "1789749063",
+      "timebuildupdated": "1789749063"
+    }
+  },
+  "depot": {
+    "95301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4244609555620767930",
+          "size": "684936300",
+          "download": "0"
+        }
+      }
+    },
+    "95302": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9117920745374050492",
+          "size": "19543697",
+          "download": "0"
+        }
+      }
+    },
+    "95303": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6804494539945614703",
+          "size": "656925213",
+          "download": "605193552"
+        }
+      }
+    },
+    "95304": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3254713898794302239",
+          "size": "644275596",
+          "download": "602354080"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7875636",
+        "timeupdated": "1639415064",
+        "timebuildupdated": "1639415064"
+      },
+      "dev": {
+        "buildid": "522342",
+        "timebuildupdated": "1423672718"
+      },
+      "linux32": {
+        "buildid": "3986957",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609451964",
+        "timebuildupdated": "1562364707"
+      },
+      "sdl3": {
+        "buildid": "25395495",
+        "description": "Linux AArch64 Testing, UNSTABLE",
+        "timeupdated": "1789749063",
+        "timebuildupdated": "1789749063"
+      }
+    }
+  }
+}

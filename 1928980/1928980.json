@@ -1,0 +1,67 @@
+{
+  "name": "Nightingale",
+  "source": "spectre",
+  "changenumber": 40466518,
+  "updated": "2026-11-06T23:13:34.708Z",
+  "branches": {
+    "public": {
+      "buildid": "22204097",
+      "timeupdated": "1772727915",
+      "timebuildupdated": "1772670785"
+    },
+    "nightingale-0.3.2": {
+      "buildid": "14837574",
+      "description": "Use this branch to access the pre-0.5 (Realms Rebuilt) version of Nightingale including characters and estates exported via our website.",
+      "timeupdated": "1724963313",
+      "timebuildupdated": "1719356242"
+    },
+    "public-test-realm": {
+      "buildid": "20597112",
+      "description": "Test branch for upcoming releases",
+      "timeupdated": "1761777112",
+      "timebuildupdated": "1761777112"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1928981": {
+      "manifests": {
+        "public": {
+          "gid": "5325777679741329099",
+          "size": "58364621247",
+          "download": "57355493152"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22204097",
+        "timeupdated": "1772727915",
+        "timebuildupdated": "1772670785"
+      },
+      "nightingale-0.3.2": {
+        "buildid": "14837574",
+        "description": "Use this branch to access the pre-0.5 (Realms Rebuilt) version of Nightingale including characters and estates exported via our website.",
+        "timeupdated": "1724963313",
+        "timebuildupdated": "1719356242"
+      },
+      "public-test-realm": {
+        "buildid": "20597112",
+        "description": "Test branch for upcoming releases",
+        "timeupdated": "1761777112",
+        "timebuildupdated": "1761777112"
+      }
+    }
+  }
+}

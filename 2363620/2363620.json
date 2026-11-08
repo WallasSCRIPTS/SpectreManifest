@@ -1,0 +1,70 @@
+{
+  "name": "RoboSquad Revolution",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:07:17.104Z",
+  "branches": {
+    "public": {
+      "buildid": "15775957",
+      "timeupdated": "1726867797",
+      "timebuildupdated": "1726866919"
+    },
+    "featuretesting_01": {
+      "buildid": "12894145",
+      "description": "To test features internallly",
+      "timeupdated": "1701898909",
+      "timebuildupdated": "1701898908"
+    },
+    "zorans-internal-testing": {
+      "buildid": "15246552",
+      "description": "For internal dev testing",
+      "timeupdated": "1722643121",
+      "timebuildupdated": "1722643121"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2363621": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6783527810086579101",
+          "size": "6725231563",
+          "download": "5616669904"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15775957",
+        "timeupdated": "1726867797",
+        "timebuildupdated": "1726866919"
+      },
+      "featuretesting_01": {
+        "buildid": "12894145",
+        "description": "To test features internallly",
+        "timeupdated": "1701898909",
+        "timebuildupdated": "1701898908"
+      },
+      "zorans-internal-testing": {
+        "buildid": "15246552",
+        "description": "For internal dev testing",
+        "timeupdated": "1722643121",
+        "timebuildupdated": "1722643121"
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Megapolis",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:11.216Z",
+  "branches": {
+    "public": {
+      "buildid": "17107493",
+      "timeupdated": "1737649158",
+      "timebuildupdated": "1737648031"
+    },
+    "legacy": {
+      "buildid": "5027255",
+      "description": "The legacy version of the game.",
+      "timeupdated": "1713880856",
+      "timebuildupdated": "1589463919"
+    }
+  },
+  "depot": {
+    "485081": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8215517065786510728",
+          "size": "193676634",
+          "download": "97462384"
+        }
+      }
+    },
+    "485082": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7912533659973192584",
+          "size": "2773392",
+          "download": "733232"
+        }
+      }
+    },
+    "485083": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "230921883073773586",
+          "size": "210724958",
+          "download": "101243744"
+        }
+      }
+    },
+    "485084": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3057296167716801456",
+          "size": "1755617",
+          "download": "503808"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17107493",
+        "timeupdated": "1737649158",
+        "timebuildupdated": "1737648031"
+      },
+      "legacy": {
+        "buildid": "5027255",
+        "description": "The legacy version of the game.",
+        "timeupdated": "1713880856",
+        "timebuildupdated": "1589463919"
+      }
+    }
+  }
+}

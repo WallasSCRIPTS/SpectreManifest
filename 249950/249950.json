@@ -1,0 +1,120 @@
+{
+  "name": "Forge Quest",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:56:11.973Z",
+  "branches": {
+    "public": {
+      "buildid": "980302",
+      "timebuildupdated": "1455683420"
+    },
+    "1_55_10": {
+      "buildid": "651033",
+      "timebuildupdated": "1433737388"
+    },
+    "1_55_8": {
+      "buildid": "641790",
+      "timebuildupdated": "1433044187"
+    },
+    "1_55_9": {
+      "buildid": "642282",
+      "timebuildupdated": "1433124262"
+    },
+    "1_56": {
+      "buildid": "760236",
+      "timebuildupdated": "1441252333"
+    },
+    "1_56_5": {
+      "buildid": "830733",
+      "timebuildupdated": "1445830381"
+    },
+    "local": {
+      "buildid": "109597",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1378077294"
+    }
+  },
+  "depot": {
+    "249951": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7031916316368118668",
+          "size": "163752064",
+          "download": "93163392"
+        }
+      }
+    },
+    "249952": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6796228807497719919",
+          "size": "333590530",
+          "download": "93476752"
+        }
+      }
+    },
+    "249953": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5946515778788664077",
+          "size": "204570290",
+          "download": "95419696"
+        }
+      }
+    },
+    "249954": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4211761294437028986",
+          "size": "200715046",
+          "download": "95956784"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "980302",
+        "timebuildupdated": "1455683420"
+      },
+      "1_55_10": {
+        "buildid": "651033",
+        "timebuildupdated": "1433737388"
+      },
+      "1_55_8": {
+        "buildid": "641790",
+        "timebuildupdated": "1433044187"
+      },
+      "1_55_9": {
+        "buildid": "642282",
+        "timebuildupdated": "1433124262"
+      },
+      "1_56": {
+        "buildid": "760236",
+        "timebuildupdated": "1441252333"
+      },
+      "1_56_5": {
+        "buildid": "830733",
+        "timebuildupdated": "1445830381"
+      },
+      "local": {
+        "buildid": "109597",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1378077294"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Dream Busters Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-06T23:13:27.334Z",
+  "branches": {
+    "public": {
+      "buildid": "8372883",
+      "timeupdated": "1647321740",
+      "timebuildupdated": "1647321740"
+    },
+    "local": {
+      "buildid": "8361710",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1647176794",
+      "timebuildupdated": "1647160768"
+    }
+  },
+  "depot": {
+    "1889211": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7399783941799500069",
+          "size": "733511140",
+          "download": "118730976"
+        }
+      }
+    },
+    "1889212": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1659349209574267372",
+          "size": "756632279",
+          "download": "126007744"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8372883",
+        "timeupdated": "1647321740",
+        "timebuildupdated": "1647321740"
+      },
+      "local": {
+        "buildid": "8361710",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1647176794",
+        "timebuildupdated": "1647160768"
+      }
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "name": "ISLANDERS",
+  "source": "spectre",
+  "changenumber": 39595543,
+  "updated": "2026-11-07T21:02:45.045Z",
+  "branches": {
+    "public": {
+      "buildid": "17942654",
+      "timeupdated": "1743526202",
+      "timebuildupdated": "1743526202"
+    },
+    "public_beta": {
+      "buildid": "5975123",
+      "description": "Public beta branch for testing.",
+      "timeupdated": "1608116403",
+      "timebuildupdated": "1608116390"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1046031": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3301101123772349192",
+          "size": "698502301",
+          "download": "270927264"
+        }
+      }
+    },
+    "1046032": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3084849915599169765",
+          "size": "143159558",
+          "download": "42116544"
+        }
+      }
+    },
+    "1046033": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6849514547580334911",
+          "size": "156807082",
+          "download": "47085008"
+        }
+      }
+    },
+    "1046034": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3055632661187445746",
+          "size": "144120805",
+          "download": "43375712"
+        }
+      }
+    },
+    "1046035": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1298122687058836910",
+          "size": "722976529",
+          "download": "278455680"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17942654",
+        "timeupdated": "1743526202",
+        "timebuildupdated": "1743526202"
+      },
+      "public_beta": {
+        "buildid": "5975123",
+        "description": "Public beta branch for testing.",
+        "timeupdated": "1608116403",
+        "timebuildupdated": "1608116390"
+      }
+    }
+  }
+}

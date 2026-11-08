@@ -1,0 +1,130 @@
+{
+  "name": "Monaco",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:59.891Z",
+  "branches": {
+    "public": {
+      "buildid": "3895240",
+      "timeupdated": "1559846980",
+      "timebuildupdated": "1559844034"
+    },
+    "beta": {
+      "buildid": "902336",
+      "description": "pc WIP",
+      "timebuildupdated": "1450305169"
+    },
+    "v1.01": {
+      "buildid": "906030",
+      "timeupdated": "1530031854",
+      "timebuildupdated": "1450475817"
+    },
+    "v1.02": {
+      "buildid": "2893234",
+      "timeupdated": "1530031843",
+      "timebuildupdated": "1529946944"
+    },
+    "v1.03": {
+      "buildid": "2916135",
+      "timeupdated": "1530650496",
+      "timebuildupdated": "1530650000"
+    },
+    "v1.04(beta)": {
+      "buildid": "3551490",
+      "timeupdated": "1549914624",
+      "timebuildupdated": "1549914624"
+    },
+    "v1.05(beta)": {
+      "buildid": "3895240",
+      "timeupdated": "1559844034",
+      "timebuildupdated": "1559844034"
+    }
+  },
+  "depot": {
+    "113021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7460809290223692384",
+          "size": "1846262561",
+          "download": "513461712"
+        }
+      }
+    },
+    "113023": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1473315898753390591",
+          "size": "1068179754",
+          "download": "206736128"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "234451": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8842562714510434324",
+          "size": "1071788927",
+          "download": "207888272"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3895240",
+        "timeupdated": "1559846980",
+        "timebuildupdated": "1559844034"
+      },
+      "beta": {
+        "buildid": "902336",
+        "description": "pc WIP",
+        "timebuildupdated": "1450305169"
+      },
+      "v1.01": {
+        "buildid": "906030",
+        "timeupdated": "1530031854",
+        "timebuildupdated": "1450475817"
+      },
+      "v1.02": {
+        "buildid": "2893234",
+        "timeupdated": "1530031843",
+        "timebuildupdated": "1529946944"
+      },
+      "v1.03": {
+        "buildid": "2916135",
+        "timeupdated": "1530650496",
+        "timebuildupdated": "1530650000"
+      },
+      "v1.04(beta)": {
+        "buildid": "3551490",
+        "timeupdated": "1549914624",
+        "timebuildupdated": "1549914624"
+      },
+      "v1.05(beta)": {
+        "buildid": "3895240",
+        "timeupdated": "1559844034",
+        "timebuildupdated": "1559844034"
+      }
+    }
+  }
+}

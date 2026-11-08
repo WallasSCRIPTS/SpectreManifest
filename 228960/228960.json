@@ -1,0 +1,88 @@
+{
+  "name": "Skulls of the Shogun",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:07.195Z",
+  "branches": {
+    "public": {
+      "buildid": "10098244",
+      "timeupdated": "1670427171",
+      "timebuildupdated": "1670427171"
+    },
+    "linux32": {
+      "buildid": "4239489",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609453928",
+      "timebuildupdated": "1569718289"
+    }
+  },
+  "depot": {
+    "228961": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8230862686002551789",
+          "size": "387219036",
+          "download": "354268000"
+        }
+      }
+    },
+    "228962": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1500759631516264869",
+          "size": "767958741",
+          "download": "581383264"
+        }
+      }
+    },
+    "228963": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6988946315235443708",
+          "size": "780429620",
+          "download": "584314928"
+        }
+      }
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "10098244",
+        "timeupdated": "1670427171",
+        "timebuildupdated": "1670427171"
+      },
+      "linux32": {
+        "buildid": "4239489",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609453928",
+        "timebuildupdated": "1569718289"
+      }
+    }
+  }
+}

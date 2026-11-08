@@ -1,0 +1,68 @@
+{
+  "name": "Sinking Simulator",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:52.649Z",
+  "branches": {
+    "public": {
+      "buildid": "15185067",
+      "timeupdated": "1722249550",
+      "timebuildupdated": "1722249495"
+    },
+    "testing": {
+      "buildid": "15185067",
+      "description": "Test branch, so we don't break the base game",
+      "timeupdated": "1722249495",
+      "timebuildupdated": "1722249495"
+    }
+  },
+  "depot": {
+    "1164851": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8708583980934799582",
+          "size": "117947484",
+          "download": "97504000"
+        }
+      }
+    },
+    "1164852": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8597799518528832835",
+          "size": "114705486",
+          "download": "97105664"
+        }
+      }
+    },
+    "1171190": {
+      "manifests": {
+        "public": {
+          "gid": "4906083125093728005",
+          "size": "1338075",
+          "download": "1003424"
+        }
+      },
+      "dlcappid": "1171190"
+    },
+    "branches": {
+      "public": {
+        "buildid": "15185067",
+        "timeupdated": "1722249550",
+        "timebuildupdated": "1722249495"
+      },
+      "testing": {
+        "buildid": "15185067",
+        "description": "Test branch, so we don't break the base game",
+        "timeupdated": "1722249495",
+        "timebuildupdated": "1722249495"
+      }
+    }
+  }
+}

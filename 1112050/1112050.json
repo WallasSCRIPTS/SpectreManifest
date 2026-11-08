@@ -1,0 +1,100 @@
+{
+  "name": "Time for Quest",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:24.542Z",
+  "branches": {
+    "public": {
+      "buildid": "8858601",
+      "timeupdated": "1654170816",
+      "timebuildupdated": "1654168034"
+    },
+    "linux": {
+      "buildid": "4914543",
+      "timeupdated": "1587230260",
+      "timebuildupdated": "1587230260"
+    },
+    "macos": {
+      "buildid": "4914542",
+      "timeupdated": "1587230249",
+      "timebuildupdated": "1587230249"
+    },
+    "windows": {
+      "buildid": "4914522",
+      "timeupdated": "1587230270",
+      "timebuildupdated": "1587229689"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1112051": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2043762022253820116",
+          "size": "440086406",
+          "download": "265465376"
+        }
+      }
+    },
+    "1112052": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7132335909748367183",
+          "size": "579493568",
+          "download": "295376112"
+        }
+      }
+    },
+    "1112053": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4190991012357437695",
+          "size": "784760206",
+          "download": "273591456"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8858601",
+        "timeupdated": "1654170816",
+        "timebuildupdated": "1654168034"
+      },
+      "linux": {
+        "buildid": "4914543",
+        "timeupdated": "1587230260",
+        "timebuildupdated": "1587230260"
+      },
+      "macos": {
+        "buildid": "4914542",
+        "timeupdated": "1587230249",
+        "timebuildupdated": "1587230249"
+      },
+      "windows": {
+        "buildid": "4914522",
+        "timeupdated": "1587230270",
+        "timebuildupdated": "1587229689"
+      }
+    }
+  }
+}

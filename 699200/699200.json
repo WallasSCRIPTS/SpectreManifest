@@ -1,0 +1,61 @@
+{
+  "name": "Darkarta - Collector Edition Upgrade DLC",
+  "source": "spectre",
+  "changenumber": 35946306,
+  "updated": "2026-11-07T20:59:55.160Z",
+  "branches": {
+    "public": {
+      "buildid": "5969623",
+      "timeupdated": "1608030667",
+      "timebuildupdated": "1608030380"
+    }
+  },
+  "depot": {
+    "699201": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5613211069430293854",
+          "size": "7595520",
+          "download": "2190256"
+        }
+      },
+      "dlcappid": "699200"
+    },
+    "699202": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1659878088304239652",
+          "size": "18455608",
+          "download": "9755392"
+        }
+      },
+      "dlcappid": "699200"
+    },
+    "699203": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8862814321204715649",
+          "size": "10901840",
+          "download": "3223840"
+        }
+      },
+      "dlcappid": "699200"
+    },
+    "branches": {
+      "public": {
+        "buildid": "5969623",
+        "timeupdated": "1608030667",
+        "timebuildupdated": "1608030380"
+      }
+    }
+  }
+}

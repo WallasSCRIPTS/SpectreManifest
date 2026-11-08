@@ -1,0 +1,92 @@
+{
+  "name": "MythForce",
+  "source": "spectre",
+  "changenumber": 40424848,
+  "updated": "2026-11-07T20:57:10.261Z",
+  "branches": {
+    "public": {
+      "buildid": "19418418",
+      "timeupdated": "1753986736",
+      "timebuildupdated": "1753901805"
+    },
+    "mf_1.0.5.2": {
+      "buildid": "14393276",
+      "description": "MythForce version 1.0.5.2",
+      "timeupdated": "1715897021",
+      "timebuildupdated": "1715884288"
+    },
+    "publictest": {
+      "buildid": "19418418",
+      "description": "Beta builds for testing",
+      "timeupdated": "1753985943",
+      "timebuildupdated": "1753901805"
+    },
+    "mythforcepreview": {
+      "buildid": "14393276",
+      "description": "MythForce Preview",
+      "timeupdated": "1715897021",
+      "timebuildupdated": "1715884288"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "363862": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "469654346688015621",
+          "size": "9454632110",
+          "download": "8948978720"
+        }
+      }
+    },
+    "2586060": {
+      "manifests": {
+        "public": {
+          "gid": "6567350903637025109",
+          "size": "339272663",
+          "download": "322825744"
+        }
+      },
+      "dlcappid": "2586060"
+    },
+    "branches": {
+      "public": {
+        "buildid": "19418418",
+        "timeupdated": "1753986736",
+        "timebuildupdated": "1753901805"
+      },
+      "mf_1.0.5.2": {
+        "buildid": "14393276",
+        "description": "MythForce version 1.0.5.2",
+        "timeupdated": "1715897021",
+        "timebuildupdated": "1715884288"
+      },
+      "publictest": {
+        "buildid": "19418418",
+        "description": "Beta builds for testing",
+        "timeupdated": "1753985943",
+        "timebuildupdated": "1753901805"
+      },
+      "mythforcepreview": {
+        "buildid": "14393276",
+        "description": "MythForce Preview",
+        "timeupdated": "1715897021",
+        "timebuildupdated": "1715884288"
+      }
+    }
+  }
+}

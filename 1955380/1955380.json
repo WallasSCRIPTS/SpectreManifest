@@ -1,0 +1,84 @@
+{
+  "name": "Sarissa and the Legendary Sword",
+  "source": "spectre",
+  "changenumber": 39029210,
+  "updated": "2026-11-06T23:13:37.923Z",
+  "branches": {
+    "public": {
+      "buildid": "9175316",
+      "timeupdated": "1658536584",
+      "timebuildupdated": "1658536334"
+    },
+    "local": {
+      "buildid": "9175153",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1658533591",
+      "timebuildupdated": "1658533591"
+    },
+    "uptade": {
+      "buildid": "9175271",
+      "description": "Atualiazacao",
+      "timeupdated": "1658535341",
+      "timebuildupdated": "1658535341"
+    }
+  },
+  "depot": {
+    "1955381": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8266212367920814034",
+          "size": "598395949",
+          "download": "476760688"
+        }
+      }
+    },
+    "1955382": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5126754869941079074",
+          "size": "943069748",
+          "download": "483267488"
+        }
+      }
+    },
+    "1955383": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3995295281730393087",
+          "size": "737803110",
+          "download": "506744000"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9175316",
+        "timeupdated": "1658536584",
+        "timebuildupdated": "1658536334"
+      },
+      "local": {
+        "buildid": "9175153",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1658533591",
+        "timebuildupdated": "1658533591"
+      },
+      "uptade": {
+        "buildid": "9175271",
+        "description": "Atualiazacao",
+        "timeupdated": "1658535341",
+        "timebuildupdated": "1658535341"
+      }
+    }
+  }
+}

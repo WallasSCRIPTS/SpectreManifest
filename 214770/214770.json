@@ -1,0 +1,88 @@
+{
+  "name": "Guacamelee! Gold Edition",
+  "source": "spectre",
+  "changenumber": 37432492,
+  "updated": "2026-11-07T20:56:03.902Z",
+  "branches": {
+    "public": {
+      "buildid": "207076",
+      "timebuildupdated": "1394134641"
+    },
+    "test2": {
+      "buildid": "195427",
+      "description": "osx",
+      "timebuildupdated": "1392924113"
+    },
+    "test3": {
+      "buildid": "207074",
+      "description": "linux",
+      "timebuildupdated": "1394134441"
+    }
+  },
+  "depot": {
+    "214771": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5773040644636234744",
+          "size": "643636847",
+          "download": "0"
+        }
+      }
+    },
+    "214772": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5683447560709107711",
+          "size": "607949396",
+          "download": "0"
+        }
+      }
+    },
+    "214773": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5604305725406154095",
+          "size": "591648786",
+          "download": "0"
+        }
+      }
+    },
+    "228982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "207076",
+        "timebuildupdated": "1394134641"
+      },
+      "test2": {
+        "buildid": "195427",
+        "description": "osx",
+        "timebuildupdated": "1392924113"
+      },
+      "test3": {
+        "buildid": "207074",
+        "description": "linux",
+        "timebuildupdated": "1394134441"
+      }
+    }
+  }
+}

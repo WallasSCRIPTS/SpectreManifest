@@ -1,0 +1,70 @@
+{
+  "name": "Galaxicus",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:31.039Z",
+  "branches": {
+    "public": {
+      "buildid": "15056872",
+      "timeupdated": "1721251806",
+      "timebuildupdated": "1721184929"
+    },
+    "beta": {
+      "buildid": "15056872",
+      "description": "Public beta branch",
+      "timeupdated": "1721185028",
+      "timebuildupdated": "1721184929"
+    }
+  },
+  "depot": {
+    "1019821": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "859143710487464911",
+          "size": "89624049",
+          "download": "24021552"
+        }
+      }
+    },
+    "1019822": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2649426658719399835",
+          "size": "89248941",
+          "download": "22743456"
+        }
+      }
+    },
+    "1019823": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8971274890292001698",
+          "size": "91895779",
+          "download": "25361696"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15056872",
+        "timeupdated": "1721251806",
+        "timebuildupdated": "1721184929"
+      },
+      "beta": {
+        "buildid": "15056872",
+        "description": "Public beta branch",
+        "timeupdated": "1721185028",
+        "timebuildupdated": "1721184929"
+      }
+    }
+  }
+}

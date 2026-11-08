@@ -1,0 +1,68 @@
+{
+  "name": "Militia 2",
+  "source": "spectre",
+  "changenumber": 34845314,
+  "updated": "2026-11-07T21:02:58.559Z",
+  "branches": {
+    "public": {
+      "buildid": "12556466",
+      "timeupdated": "1698432898",
+      "timebuildupdated": "1698430982"
+    },
+    "beta": {
+      "buildid": "12556466",
+      "timeupdated": "1698430993",
+      "timebuildupdated": "1698430982"
+    }
+  },
+  "depot": {
+    "1070511": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2312423210953878034",
+          "size": "173012815",
+          "download": "46441552"
+        }
+      }
+    },
+    "1070512": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1640453825444926410",
+          "size": "155583462",
+          "download": "41427904"
+        }
+      }
+    },
+    "1070513": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3637900817016059226",
+          "size": "459865460",
+          "download": "108165984"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12556466",
+        "timeupdated": "1698432898",
+        "timebuildupdated": "1698430982"
+      },
+      "beta": {
+        "buildid": "12556466",
+        "timeupdated": "1698430993",
+        "timebuildupdated": "1698430982"
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "EVE Online",
+  "source": "spectre",
+  "changenumber": 40616995,
+  "updated": "2026-11-07T20:55:44.013Z",
+  "branches": {
+    "public": {
+      "buildid": "26406435",
+      "timeupdated": "1793716401",
+      "timebuildupdated": "1793712013"
+    }
+  },
+  "depot": {
+    "8501": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2527191244766590731",
+          "size": "485330933",
+          "download": "216718016"
+        }
+      }
+    },
+    "8503": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "815003566135665775",
+          "size": "678067083",
+          "download": "291204128"
+        }
+      }
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8782296191957114623",
+          "size": "29759921",
+          "download": "23045488"
+        }
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26406435",
+        "timeupdated": "1793716401",
+        "timebuildupdated": "1793712013"
+      }
+    }
+  }
+}

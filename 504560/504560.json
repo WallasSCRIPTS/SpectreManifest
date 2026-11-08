@@ -1,0 +1,76 @@
+{
+  "name": "The Unwelcomed",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:21.698Z",
+  "branches": {
+    "public": {
+      "buildid": "2661382",
+      "timeupdated": "1522901325",
+      "timebuildupdated": "1522901282"
+    },
+    "oculusonly": {
+      "buildid": "2476318",
+      "description": "Oculus Only (no SteamVR or Steamworks)",
+      "timeupdated": "1517166358",
+      "timebuildupdated": "1517166358"
+    }
+  },
+  "depot": {
+    "504561": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4296245434540447637",
+          "size": "3509220113",
+          "download": "1477441280"
+        }
+      }
+    },
+    "504562": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4125146769587798686",
+          "size": "3537247664",
+          "download": "1487173552"
+        }
+      }
+    },
+    "504563": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8070677668572030669",
+          "size": "3529626963",
+          "download": "1495574720"
+        }
+      }
+    },
+    "783730": {
+      "config": {
+        "oslist": "windows"
+      },
+      "dlcappid": "783730"
+    },
+    "branches": {
+      "public": {
+        "buildid": "2661382",
+        "timeupdated": "1522901325",
+        "timebuildupdated": "1522901282"
+      },
+      "oculusonly": {
+        "buildid": "2476318",
+        "description": "Oculus Only (no SteamVR or Steamworks)",
+        "timeupdated": "1517166358",
+        "timebuildupdated": "1517166358"
+      }
+    }
+  }
+}

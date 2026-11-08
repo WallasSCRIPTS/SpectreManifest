@@ -1,0 +1,82 @@
+{
+  "name": "No Time",
+  "source": "spectre",
+  "changenumber": 40702251,
+  "updated": "2026-11-07T21:02:43.782Z",
+  "branches": {
+    "public": {
+      "buildid": "26505165",
+      "timeupdated": "1794056114",
+      "timebuildupdated": "1794052479"
+    },
+    "legacy": {
+      "buildid": "14727878",
+      "description": "2020 Build, pre ACT III Release, Before Save File Revamp",
+      "timeupdated": "1718444293",
+      "timebuildupdated": "1718444263"
+    },
+    "legacy2019_prelaunch": {
+      "buildid": "14727009",
+      "description": "ANCIENT, seriously old. This is one of the first builds where No Time was only a few months old, before it's launch in April 2019",
+      "timeupdated": "1718433625",
+      "timebuildupdated": "1718433594"
+    },
+    "public-testing": {
+      "buildid": "26505165",
+      "description": "Open for the public -- UNSTABLE -- Always backup your saves!",
+      "timeupdated": "1794052515",
+      "timebuildupdated": "1794052479"
+    }
+  },
+  "depot": {
+    "1043341": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7054169464801559135",
+          "size": "2163141024",
+          "download": "1258821808"
+        }
+      }
+    },
+    "1043343": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "569679682117140579",
+          "size": "2219772164",
+          "download": "1295797248"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26505165",
+        "timeupdated": "1794056114",
+        "timebuildupdated": "1794052479"
+      },
+      "legacy": {
+        "buildid": "14727878",
+        "description": "2020 Build, pre ACT III Release, Before Save File Revamp",
+        "timeupdated": "1718444293",
+        "timebuildupdated": "1718444263"
+      },
+      "legacy2019_prelaunch": {
+        "buildid": "14727009",
+        "description": "ANCIENT, seriously old. This is one of the first builds where No Time was only a few months old, before it's launch in April 2019",
+        "timeupdated": "1718433625",
+        "timebuildupdated": "1718433594"
+      },
+      "public-testing": {
+        "buildid": "26505165",
+        "description": "Open for the public -- UNSTABLE -- Always backup your saves!",
+        "timeupdated": "1794052515",
+        "timebuildupdated": "1794052479"
+      }
+    }
+  }
+}

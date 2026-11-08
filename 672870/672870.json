@@ -1,0 +1,69 @@
+{
+  "name": "ScreenPlay",
+  "source": "spectre",
+  "changenumber": 40669582,
+  "updated": "2026-11-07T20:59:41.648Z",
+  "branches": {
+    "public": {
+      "buildid": "12042470",
+      "timeupdated": "1693128715",
+      "timebuildupdated": "1693126803"
+    },
+    "internal": {
+      "buildid": "26485176",
+      "description": "internal testing only",
+      "timeupdated": "1793970768",
+      "timebuildupdated": "1793970768"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "672871": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4578332785647069246",
+          "size": "558117389",
+          "download": "210281040"
+        }
+      }
+    },
+    "672872": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8986567078860472061",
+          "size": "841673971",
+          "download": "255553440"
+        }
+      }
+    },
+    "672873": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12042470",
+        "timeupdated": "1693128715",
+        "timebuildupdated": "1693126803"
+      },
+      "internal": {
+        "buildid": "26485176",
+        "description": "internal testing only",
+        "timeupdated": "1793970768",
+        "timebuildupdated": "1793970768"
+      }
+    }
+  }
+}

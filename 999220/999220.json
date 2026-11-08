@@ -1,0 +1,118 @@
+{
+  "name": "Amnesia: Rebirth",
+  "source": "spectre",
+  "changenumber": 40685066,
+  "updated": "2026-11-07T21:02:20.764Z",
+  "branches": {
+    "public": {
+      "buildid": "7398003",
+      "timeupdated": "1632378198",
+      "timebuildupdated": "1632236061"
+    },
+    "linux_test": {
+      "buildid": "5776109",
+      "description": "Test branch for Linux build",
+      "timeupdated": "1604393552",
+      "timebuildupdated": "1604393184"
+    },
+    "public_beta": {
+      "buildid": "6257379",
+      "description": "public pre release patch",
+      "timeupdated": "1613637575",
+      "timebuildupdated": "1613637575"
+    },
+    "speedrun": {
+      "buildid": "6257379",
+      "description": "Speedrun build of the game",
+      "timeupdated": "1629700631",
+      "timebuildupdated": "1613637575"
+    }
+  },
+  "depot": {
+    "228981": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "999221": {
+      "manifests": {
+        "public": {
+          "gid": "6367385268830867872",
+          "size": "31951098807",
+          "download": "15407508976"
+        }
+      }
+    },
+    "999222": {
+      "manifests": {
+        "public": {
+          "gid": "2499092913725044937",
+          "size": "21415439",
+          "download": "3500592"
+        }
+      }
+    },
+    "999223": {
+      "manifests": {
+        "public": {
+          "gid": "5654132178725832886",
+          "size": "5124323112",
+          "download": "1224061872"
+        }
+      }
+    },
+    "999224": {
+      "manifests": {
+        "public": {
+          "gid": "4592770642210317741",
+          "size": "276682323",
+          "download": "63771232"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7398003",
+        "timeupdated": "1632378198",
+        "timebuildupdated": "1632236061"
+      },
+      "linux_test": {
+        "buildid": "5776109",
+        "description": "Test branch for Linux build",
+        "timeupdated": "1604393552",
+        "timebuildupdated": "1604393184"
+      },
+      "public_beta": {
+        "buildid": "6257379",
+        "description": "public pre release patch",
+        "timeupdated": "1613637575",
+        "timebuildupdated": "1613637575"
+      },
+      "speedrun": {
+        "buildid": "6257379",
+        "description": "Speedrun build of the game",
+        "timeupdated": "1629700631",
+        "timebuildupdated": "1613637575"
+      }
+    }
+  }
+}

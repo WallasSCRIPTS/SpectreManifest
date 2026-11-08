@@ -1,0 +1,75 @@
+{
+  "name": "STREET UNi X",
+  "source": "spectre",
+  "changenumber": 37457512,
+  "updated": "2026-11-06T23:19:30.975Z",
+  "branches": {
+    "public": {
+      "buildid": "23919358",
+      "timeupdated": "1782418642",
+      "timebuildupdated": "1782418126"
+    },
+    "beta": {
+      "buildid": "23919358",
+      "description": "Beta Update Staging",
+      "timeupdated": "1782418216",
+      "timebuildupdated": "1782418126"
+    },
+    "previousversion": {
+      "buildid": "20807182",
+      "description": "last main live build",
+      "timeupdated": "1763168354",
+      "timebuildupdated": "1763167017"
+    }
+  },
+  "depot": {
+    "2204901": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5610734884919836420",
+          "size": "696838353",
+          "download": "562406800"
+        }
+      }
+    },
+    "2204902": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8923909216134534794",
+          "size": "591337396",
+          "download": "451654480"
+        }
+      }
+    },
+    "2204903": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23919358",
+        "timeupdated": "1782418642",
+        "timebuildupdated": "1782418126"
+      },
+      "beta": {
+        "buildid": "23919358",
+        "description": "Beta Update Staging",
+        "timeupdated": "1782418216",
+        "timebuildupdated": "1782418126"
+      },
+      "previousversion": {
+        "buildid": "20807182",
+        "description": "last main live build",
+        "timeupdated": "1763168354",
+        "timebuildupdated": "1763167017"
+      }
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Switchcars",
+  "source": "spectre",
+  "changenumber": 34831526,
+  "updated": "2026-11-07T20:57:52.785Z",
+  "branches": {
+    "public": {
+      "buildid": "6629929",
+      "timeupdated": "1619801749",
+      "timebuildupdated": "1619798479"
+    },
+    "remote-play": {
+      "buildid": "6629929",
+      "description": "Enables Remote Play (game is still singleplayer though)",
+      "timeupdated": "1619941209",
+      "timebuildupdated": "1619798479"
+    }
+  },
+  "depot": {
+    "442211": {
+      "manifests": {
+        "public": {
+          "gid": "4027387774032179120",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "442212": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "296190796718447005",
+          "size": "130510038",
+          "download": "64543680"
+        }
+      }
+    },
+    "442213": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8665612679625360440",
+          "size": "69225366",
+          "download": "47013056"
+        }
+      }
+    },
+    "442214": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6157216492115348257",
+          "size": "64838486",
+          "download": "46711024"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6629929",
+        "timeupdated": "1619801749",
+        "timebuildupdated": "1619798479"
+      },
+      "remote-play": {
+        "buildid": "6629929",
+        "description": "Enables Remote Play (game is still singleplayer though)",
+        "timeupdated": "1619941209",
+        "timebuildupdated": "1619798479"
+      }
+    }
+  }
+}

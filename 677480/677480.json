@@ -1,0 +1,61 @@
+{
+  "name": "Outpost Zero",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:44.212Z",
+  "branches": {
+    "public": {
+      "buildid": "4464638",
+      "timeupdated": "1575751126",
+      "timebuildupdated": "1575591453"
+    },
+    "test": {
+      "buildid": "4464638",
+      "description": "Test Server build for public testing",
+      "timeupdated": "1575596524",
+      "timebuildupdated": "1575591453"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229005": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "677481": {
+      "manifests": {
+        "public": {
+          "gid": "6415783684012878410",
+          "size": "6971322021",
+          "download": "2530236544"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4464638",
+        "timeupdated": "1575751126",
+        "timebuildupdated": "1575591453"
+      },
+      "test": {
+        "buildid": "4464638",
+        "description": "Test Server build for public testing",
+        "timeupdated": "1575596524",
+        "timebuildupdated": "1575591453"
+      }
+    }
+  }
+}

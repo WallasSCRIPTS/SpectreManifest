@@ -1,0 +1,58 @@
+{
+  "name": "Clone Drone in the Danger Zone",
+  "source": "spectre",
+  "changenumber": 40427603,
+  "updated": "2026-11-07T20:59:08.136Z",
+  "branches": {
+    "public": {
+      "buildid": "25044987",
+      "timeupdated": "1790870298",
+      "timebuildupdated": "1788211153"
+    },
+    "multiplayer-test": {
+      "buildid": "25044987",
+      "description": "Experimental multiplayer changes aimed at fixing the current player death-spectator bug",
+      "timeupdated": "1788284027",
+      "timebuildupdated": "1788211153"
+    }
+  },
+  "depot": {
+    "597171": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7174628109691275248",
+          "size": "1809728662",
+          "download": "1217632800"
+        }
+      }
+    },
+    "597172": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5278800938064908105",
+          "size": "1873906014",
+          "download": "1240227776"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25044987",
+        "timeupdated": "1790870298",
+        "timebuildupdated": "1788211153"
+      },
+      "multiplayer-test": {
+        "buildid": "25044987",
+        "description": "Experimental multiplayer changes aimed at fixing the current player death-spectator bug",
+        "timeupdated": "1788284027",
+        "timebuildupdated": "1788211153"
+      }
+    }
+  }
+}

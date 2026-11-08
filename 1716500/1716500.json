@@ -1,0 +1,110 @@
+{
+  "name": "Blue Fish Yokohama",
+  "source": "spectre",
+  "changenumber": 38550244,
+  "updated": "2026-11-06T23:09:38.042Z",
+  "branches": {
+    "public": {
+      "buildid": "23065876",
+      "timeupdated": "1777820981",
+      "timebuildupdated": "1777807410"
+    },
+    "32bit": {
+      "buildid": "10636546",
+      "description": "default 32 bit",
+      "timeupdated": "1677326529",
+      "timebuildupdated": "1677326529"
+    },
+    "controller": {
+      "buildid": "22033334",
+      "description": "controller branch",
+      "timeupdated": "1771678661",
+      "timebuildupdated": "1771678661"
+    },
+    "linux": {
+      "buildid": "23065876",
+      "description": "release",
+      "timeupdated": "1777807410",
+      "timebuildupdated": "1777807410"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1716501": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3958108029757753609",
+          "size": "293466744",
+          "download": "198028160"
+        }
+      }
+    },
+    "1716502": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "1716503": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7969143194544306234",
+          "size": "368428590",
+          "download": "240509488"
+        }
+      }
+    },
+    "1716505": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1168439281910421910",
+          "size": "331818593",
+          "download": "226340000"
+        }
+      }
+    },
+    "1716508": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23065876",
+        "timeupdated": "1777820981",
+        "timebuildupdated": "1777807410"
+      },
+      "32bit": {
+        "buildid": "10636546",
+        "description": "default 32 bit",
+        "timeupdated": "1677326529",
+        "timebuildupdated": "1677326529"
+      },
+      "controller": {
+        "buildid": "22033334",
+        "description": "controller branch",
+        "timeupdated": "1771678661",
+        "timebuildupdated": "1771678661"
+      },
+      "linux": {
+        "buildid": "23065876",
+        "description": "release",
+        "timeupdated": "1777807410",
+        "timebuildupdated": "1777807410"
+      }
+    }
+  }
+}

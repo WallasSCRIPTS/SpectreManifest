@@ -1,0 +1,83 @@
+{
+  "name": "Hidden Deep",
+  "source": "spectre",
+  "changenumber": 40143553,
+  "updated": "2026-11-07T21:02:09.860Z",
+  "branches": {
+    "public": {
+      "buildid": "21457985",
+      "timeupdated": "1768171044",
+      "timebuildupdated": "1768170642"
+    },
+    "experimental-public": {
+      "buildid": "21457985",
+      "description": "unstable builds and previews",
+      "timeupdated": "1768171027",
+      "timebuildupdated": "1768170642"
+    },
+    "legacy-public": {
+      "buildid": "14174691",
+      "description": "latest stable version for optional rollback",
+      "timeupdated": "1761236421",
+      "timebuildupdated": "1714058817"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "976891": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4819230928958105138",
+          "size": "1559830163",
+          "download": "1444864560"
+        }
+      }
+    },
+    "1670550": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3011372649278130353",
+          "size": "47356689",
+          "download": "43397136"
+        }
+      },
+      "dlcappid": "1670550"
+    },
+    "branches": {
+      "public": {
+        "buildid": "21457985",
+        "timeupdated": "1768171044",
+        "timebuildupdated": "1768170642"
+      },
+      "experimental-public": {
+        "buildid": "21457985",
+        "description": "unstable builds and previews",
+        "timeupdated": "1768171027",
+        "timebuildupdated": "1768170642"
+      },
+      "legacy-public": {
+        "buildid": "14174691",
+        "description": "latest stable version for optional rollback",
+        "timeupdated": "1761236421",
+        "timebuildupdated": "1714058817"
+      }
+    }
+  }
+}

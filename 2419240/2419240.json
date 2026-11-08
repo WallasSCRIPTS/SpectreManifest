@@ -1,0 +1,70 @@
+{
+  "name": "Sushi Ben",
+  "source": "spectre",
+  "changenumber": 39971543,
+  "updated": "2026-11-06T23:25:07.608Z",
+  "branches": {
+    "public": {
+      "buildid": "24422863",
+      "timeupdated": "1785201034",
+      "timebuildupdated": "1785200399"
+    },
+    "beta": {
+      "buildid": "24422863",
+      "description": "Public beta branch",
+      "timeupdated": "1785201011",
+      "timebuildupdated": "1785200399"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2419241": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "276927333751947360",
+          "size": "5251567707",
+          "download": "3637699408"
+        }
+      }
+    },
+    "2419242": {
+      "config": {
+        "oslist": "android"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5848248983685077571",
+          "size": "2915345401",
+          "download": "2431838912"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24422863",
+        "timeupdated": "1785201034",
+        "timebuildupdated": "1785200399"
+      },
+      "beta": {
+        "buildid": "24422863",
+        "description": "Public beta branch",
+        "timeupdated": "1785201011",
+        "timebuildupdated": "1785200399"
+      }
+    }
+  }
+}

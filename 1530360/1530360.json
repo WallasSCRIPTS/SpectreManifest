@@ -1,0 +1,60 @@
+{
+  "name": "endlessCorona",
+  "source": "spectre",
+  "changenumber": 34862790,
+  "updated": "2026-11-06T21:05:56.226Z",
+  "branches": {
+    "public": {
+      "buildid": "6156914",
+      "timeupdated": "1611911577",
+      "timebuildupdated": "1611911526"
+    },
+    "local": {
+      "buildid": "6113964",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1611184548",
+      "timebuildupdated": "1611184548"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1530361": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1006583967942215355",
+          "size": "696588741",
+          "download": "179259200"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6156914",
+        "timeupdated": "1611911577",
+        "timebuildupdated": "1611911526"
+      },
+      "local": {
+        "buildid": "6113964",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1611184548",
+        "timebuildupdated": "1611184548"
+      }
+    }
+  }
+}

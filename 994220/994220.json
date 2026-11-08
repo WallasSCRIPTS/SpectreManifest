@@ -1,0 +1,70 @@
+{
+  "name": "NEOVERSE",
+  "source": "spectre",
+  "changenumber": 37439940,
+  "updated": "2026-11-07T21:02:18.596Z",
+  "branches": {
+    "public": {
+      "buildid": "7499024",
+      "timeupdated": "1634796948",
+      "timebuildupdated": "1633664991"
+    },
+    "beta": {
+      "buildid": "7499024",
+      "description": "beta test",
+      "timeupdated": "1634796937",
+      "timebuildupdated": "1633664991"
+    },
+    "classic": {
+      "buildid": "4277366",
+      "description": "V0.985",
+      "timeupdated": "1570779944",
+      "timebuildupdated": "1570765926"
+    }
+  },
+  "depot": {
+    "994221": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1334745261082354281",
+          "size": "4266168924",
+          "download": "2046134176"
+        }
+      }
+    },
+    "994222": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8956456217180101141",
+          "size": "4815379846",
+          "download": "2106586208"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7499024",
+        "timeupdated": "1634796948",
+        "timebuildupdated": "1633664991"
+      },
+      "beta": {
+        "buildid": "7499024",
+        "description": "beta test",
+        "timeupdated": "1634796937",
+        "timebuildupdated": "1633664991"
+      },
+      "classic": {
+        "buildid": "4277366",
+        "description": "V0.985",
+        "timeupdated": "1570779944",
+        "timebuildupdated": "1570765926"
+      }
+    }
+  }
+}

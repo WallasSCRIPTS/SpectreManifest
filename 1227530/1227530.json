@@ -1,0 +1,105 @@
+{
+  "name": "Partisans 1941",
+  "source": "spectre",
+  "changenumber": 39733024,
+  "updated": "2026-11-06T21:03:44.337Z",
+  "branches": {
+    "public": {
+      "buildid": "7643598",
+      "timeupdated": "1635871205",
+      "timebuildupdated": "1635863911"
+    },
+    "fallback-june-21": {
+      "buildid": "6629979",
+      "description": "current stable version",
+      "timeupdated": "1624452160",
+      "timebuildupdated": "1619799006"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1227531": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8295985447710611353",
+          "size": "9151271687",
+          "download": "6708782496"
+        }
+      }
+    },
+    "1227532": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2766667624934453540",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "1227533": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4655084448987284426",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "1439000": {
+      "manifests": {
+        "public": {
+          "gid": "7234534406938901124",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "1439000"
+    },
+    "1439001": {
+      "manifests": {
+        "public": {
+          "gid": "2325770295636776668",
+          "size": "406043998",
+          "download": "264009616"
+        }
+      },
+      "dlcappid": "1439001"
+    },
+    "1573740": {
+      "dlcappid": "1573740"
+    },
+    "branches": {
+      "public": {
+        "buildid": "7643598",
+        "timeupdated": "1635871205",
+        "timebuildupdated": "1635863911"
+      },
+      "fallback-june-21": {
+        "buildid": "6629979",
+        "description": "current stable version",
+        "timeupdated": "1624452160",
+        "timebuildupdated": "1619799006"
+      }
+    }
+  }
+}

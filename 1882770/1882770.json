@@ -1,0 +1,48 @@
+{
+  "name": "Deliver Us From Evil (DUFE) - Keldran Poly Route",
+  "source": "spectre",
+  "changenumber": 36631845,
+  "updated": "2026-11-06T23:13:26.589Z",
+  "branches": {
+    "public": {
+      "buildid": "8477706",
+      "timeupdated": "1648779971",
+      "timebuildupdated": "1648779971"
+    }
+  },
+  "depot": {
+    "1882771": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2708555085125072793",
+          "size": "100532668",
+          "download": "99417504"
+        }
+      },
+      "dlcappid": "1882770"
+    },
+    "1882772": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4116112301018999776",
+          "size": "100532668",
+          "download": "99417504"
+        }
+      },
+      "dlcappid": "1882770"
+    },
+    "branches": {
+      "public": {
+        "buildid": "8477706",
+        "timeupdated": "1648779971",
+        "timebuildupdated": "1648779971"
+      }
+    }
+  }
+}

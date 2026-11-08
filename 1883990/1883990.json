@@ -1,0 +1,70 @@
+{
+  "name": "The Hepatica Spring",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:13:26.733Z",
+  "branches": {
+    "public": {
+      "buildid": "8290238",
+      "timeupdated": "1646094091",
+      "timebuildupdated": "1646094052"
+    },
+    "beta": {
+      "buildid": "8290238",
+      "description": "beta testing",
+      "timeupdated": "1646094052",
+      "timebuildupdated": "1646094052"
+    }
+  },
+  "depot": {
+    "1883991": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3915631622024257322",
+          "size": "507486577",
+          "download": "138357936"
+        }
+      }
+    },
+    "1883992": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6213785555306038151",
+          "size": "532378948",
+          "download": "146226320"
+        }
+      }
+    },
+    "1883993": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5987658117076807179",
+          "size": "550783896",
+          "download": "139487552"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8290238",
+        "timeupdated": "1646094091",
+        "timebuildupdated": "1646094052"
+      },
+      "beta": {
+        "buildid": "8290238",
+        "description": "beta testing",
+        "timeupdated": "1646094052",
+        "timebuildupdated": "1646094052"
+      }
+    }
+  }
+}

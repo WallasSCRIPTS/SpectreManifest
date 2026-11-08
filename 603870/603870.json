@@ -1,0 +1,64 @@
+{
+  "name": "A Tale of Two Kingdoms",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:11.567Z",
+  "branches": {
+    "public": {
+      "buildid": "17150100",
+      "timeupdated": "1738607016",
+      "timebuildupdated": "1738012494"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "603871": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "706133416893152354",
+          "size": "363547000",
+          "download": "302713328"
+        }
+      }
+    },
+    "603872": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5349593281648707682",
+          "size": "384228746",
+          "download": "308011456"
+        }
+      }
+    },
+    "603873": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5553117734348642051",
+          "size": "368602129",
+          "download": "302444928"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17150100",
+        "timeupdated": "1738607016",
+        "timebuildupdated": "1738012494"
+      }
+    }
+  }
+}

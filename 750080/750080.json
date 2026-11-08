@@ -1,0 +1,65 @@
+{
+  "name": "Dead Climb",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:23.643Z",
+  "branches": {
+    "public": {
+      "buildid": "4515040",
+      "timeupdated": "1576840509",
+      "timebuildupdated": "1576840509"
+    },
+    "test": {
+      "buildid": "4458804",
+      "timeupdated": "1575473223",
+      "timebuildupdated": "1575473223"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "750081": {
+      "manifests": {
+        "public": {
+          "gid": "3050781187269233456",
+          "size": "5391260954",
+          "download": "2499086768"
+        }
+      }
+    },
+    "750082": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1458229558683980181",
+          "size": "2205029",
+          "download": "1613248"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4515040",
+        "timeupdated": "1576840509",
+        "timebuildupdated": "1576840509"
+      },
+      "test": {
+        "buildid": "4458804",
+        "timeupdated": "1575473223",
+        "timebuildupdated": "1575473223"
+      }
+    }
+  }
+}

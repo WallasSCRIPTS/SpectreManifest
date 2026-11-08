@@ -1,0 +1,82 @@
+{
+  "name": "DinoPlanet VR",
+  "source": "spectre",
+  "changenumber": 35946306,
+  "updated": "2026-11-06T23:15:29.961Z",
+  "branches": {
+    "public": {
+      "buildid": "12890616",
+      "timeupdated": "1701883296",
+      "timebuildupdated": "1701872085"
+    },
+    "alpha": {
+      "buildid": "11353801",
+      "description": "branch for alpha testing",
+      "timeupdated": "1685638194",
+      "timebuildupdated": "1685480624"
+    },
+    "beta": {
+      "buildid": "12890616",
+      "description": "branch for public beta testing",
+      "timeupdated": "1701873031",
+      "timebuildupdated": "1701872085"
+    },
+    "rift": {
+      "buildid": "12890616",
+      "description": "branch for rift headset",
+      "timeupdated": "1701873041",
+      "timebuildupdated": "1701872085"
+    },
+    "steamvr": {
+      "buildid": "11353801",
+      "description": "branch for steamvr headsets",
+      "timeupdated": "1701883205",
+      "timebuildupdated": "1685480624"
+    }
+  },
+  "depot": {
+    "1993391": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8946655144011736003",
+          "size": "3002508477",
+          "download": "901791408"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12890616",
+        "timeupdated": "1701883296",
+        "timebuildupdated": "1701872085"
+      },
+      "alpha": {
+        "buildid": "11353801",
+        "description": "branch for alpha testing",
+        "timeupdated": "1685638194",
+        "timebuildupdated": "1685480624"
+      },
+      "beta": {
+        "buildid": "12890616",
+        "description": "branch for public beta testing",
+        "timeupdated": "1701873031",
+        "timebuildupdated": "1701872085"
+      },
+      "rift": {
+        "buildid": "12890616",
+        "description": "branch for rift headset",
+        "timeupdated": "1701873041",
+        "timebuildupdated": "1701872085"
+      },
+      "steamvr": {
+        "buildid": "11353801",
+        "description": "branch for steamvr headsets",
+        "timeupdated": "1701883205",
+        "timebuildupdated": "1685480624"
+      }
+    }
+  }
+}

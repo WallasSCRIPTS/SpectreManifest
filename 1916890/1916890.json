@@ -1,0 +1,70 @@
+{
+  "name": "Slider",
+  "source": "spectre",
+  "changenumber": 40624579,
+  "updated": "2026-11-06T23:13:30.705Z",
+  "branches": {
+    "public": {
+      "buildid": "25413742",
+      "timeupdated": "1790033558",
+      "timebuildupdated": "1789855812"
+    },
+    "beta": {
+      "buildid": "25413742",
+      "description": "open beta",
+      "timeupdated": "1789857527",
+      "timebuildupdated": "1789855812"
+    }
+  },
+  "depot": {
+    "1916891": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2462638182930273780",
+          "size": "490068458",
+          "download": "140338160"
+        }
+      }
+    },
+    "1916892": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2631184677271402866",
+          "size": "509296893",
+          "download": "147800832"
+        }
+      }
+    },
+    "1916893": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5740131357801099192",
+          "size": "488692539",
+          "download": "137647952"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25413742",
+        "timeupdated": "1790033558",
+        "timebuildupdated": "1789855812"
+      },
+      "beta": {
+        "buildid": "25413742",
+        "description": "open beta",
+        "timeupdated": "1789857527",
+        "timebuildupdated": "1789855812"
+      }
+    }
+  }
+}

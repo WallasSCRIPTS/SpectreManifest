@@ -1,0 +1,100 @@
+{
+  "name": "Rewrite+",
+  "source": "spectre",
+  "changenumber": 37449347,
+  "updated": "2026-11-06T21:07:02.559Z",
+  "branches": {
+    "20220127": {
+      "buildid": "8095833",
+      "description": "20220127-1 build 8095833",
+      "timeupdated": "1669067710",
+      "timebuildupdated": "1643273733"
+    },
+    "public": {
+      "buildid": "9931954",
+      "timeupdated": "1669068001",
+      "timebuildupdated": "1668421765"
+    },
+    "backup": {
+      "buildid": "7912363",
+      "description": "backup",
+      "timeupdated": "1640301042",
+      "timebuildupdated": "1639987129"
+    },
+    "legacy": {
+      "buildid": "8095820",
+      "description": "legacy",
+      "timeupdated": "1643309562",
+      "timebuildupdated": "1643273537"
+    },
+    "staging": {
+      "buildid": "7912381",
+      "description": "branch for public testing",
+      "timeupdated": "1639987539",
+      "timebuildupdated": "1639987523"
+    },
+    "step1": {
+      "buildid": "7912381",
+      "description": "Save migration",
+      "timeupdated": "1640242249",
+      "timebuildupdated": "1639987523"
+    }
+  },
+  "depot": {
+    "1680001": {
+      "manifests": {
+        "public": {
+          "gid": "5612779521423029409",
+          "size": "8473850890",
+          "download": "7691154000"
+        }
+      }
+    },
+    "1680002": {
+      "manifests": {
+        "public": {
+          "gid": "5844151009421836893",
+          "size": "537",
+          "download": "368"
+        }
+      }
+    },
+    "branches": {
+      "20220127": {
+        "buildid": "8095833",
+        "description": "20220127-1 build 8095833",
+        "timeupdated": "1669067710",
+        "timebuildupdated": "1643273733"
+      },
+      "public": {
+        "buildid": "9931954",
+        "timeupdated": "1669068001",
+        "timebuildupdated": "1668421765"
+      },
+      "backup": {
+        "buildid": "7912363",
+        "description": "backup",
+        "timeupdated": "1640301042",
+        "timebuildupdated": "1639987129"
+      },
+      "legacy": {
+        "buildid": "8095820",
+        "description": "legacy",
+        "timeupdated": "1643309562",
+        "timebuildupdated": "1643273537"
+      },
+      "staging": {
+        "buildid": "7912381",
+        "description": "branch for public testing",
+        "timeupdated": "1639987539",
+        "timebuildupdated": "1639987523"
+      },
+      "step1": {
+        "buildid": "7912381",
+        "description": "Save migration",
+        "timeupdated": "1640242249",
+        "timebuildupdated": "1639987523"
+      }
+    }
+  }
+}

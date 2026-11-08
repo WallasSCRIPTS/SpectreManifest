@@ -1,0 +1,100 @@
+{
+  "name": "Last Dream: World Unknown Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:57:56.107Z",
+  "branches": {
+    "public": {
+      "buildid": "1851163",
+      "timeupdated": "1496009569",
+      "timebuildupdated": "1496006050"
+    },
+    "testing": {
+      "buildid": "1851163",
+      "description": "For testing",
+      "timeupdated": "1496006109",
+      "timebuildupdated": "1496006050"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "449191": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1589998560087696443",
+          "size": "1361664729",
+          "download": "1062862176"
+        }
+      }
+    },
+    "449192": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "307783145007480517",
+          "size": "1361664729",
+          "download": "1062862176"
+        }
+      }
+    },
+    "449193": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8405379950080159080",
+          "size": "1148231767",
+          "download": "1011310880"
+        }
+      }
+    },
+    "449194": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1012521665173872678",
+          "size": "1119042638",
+          "download": "1004687680"
+        }
+      }
+    },
+    "449195": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5421743909008274030",
+          "size": "1110715109",
+          "download": "1001719616"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1851163",
+        "timeupdated": "1496009569",
+        "timebuildupdated": "1496006050"
+      },
+      "testing": {
+        "buildid": "1851163",
+        "description": "For testing",
+        "timeupdated": "1496006109",
+        "timebuildupdated": "1496006050"
+      }
+    }
+  }
+}

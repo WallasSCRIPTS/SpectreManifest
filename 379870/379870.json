@@ -1,0 +1,65 @@
+{
+  "name": "Alteil: Horizons",
+  "source": "spectre",
+  "changenumber": 40062413,
+  "updated": "2026-11-07T20:57:21.617Z",
+  "branches": {
+    "public": {
+      "buildid": "1458840",
+      "timeupdated": "1479180852",
+      "timebuildupdated": "1479180641"
+    },
+    "testing": {
+      "buildid": "1426869",
+      "timeupdated": "1477836635",
+      "timebuildupdated": "1477832050"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "379871": {
+      "manifests": {
+        "public": {
+          "gid": "9004541761208349974",
+          "size": "293433011",
+          "download": "244825280"
+        }
+      }
+    },
+    "379872": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5761917421782751699",
+          "size": "87348212",
+          "download": "29594016"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1458840",
+        "timeupdated": "1479180852",
+        "timebuildupdated": "1479180641"
+      },
+      "testing": {
+        "buildid": "1426869",
+        "timeupdated": "1477836635",
+        "timebuildupdated": "1477832050"
+      }
+    }
+  }
+}

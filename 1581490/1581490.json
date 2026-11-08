@@ -1,0 +1,82 @@
+{
+  "name": "The Phantom Fellows",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-05T14:57:24.462Z",
+  "branches": {
+    "public": {
+      "buildid": "25540278",
+      "timeupdated": "1790381738",
+      "timebuildupdated": "1790381662"
+    },
+    "previous_version": {
+      "buildid": "19288343",
+      "description": "If you experience problems with an update, this is the previous build.",
+      "timeupdated": "1752969853",
+      "timebuildupdated": "1752969798"
+    },
+    "review_build": {
+      "buildid": "15802602",
+      "description": "If you received an early copy of the game for review and your save games don't work, play this build",
+      "timeupdated": "1727404819",
+      "timebuildupdated": "1727142934"
+    }
+  },
+  "depot": {
+    "1581491": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2786982056803395683",
+          "size": "3209712046",
+          "download": "674366656"
+        }
+      }
+    },
+    "1581492": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7530308393472373709",
+          "size": "3170181418",
+          "download": "666046016"
+        }
+      }
+    },
+    "1581493": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5149422265462673033",
+          "size": "3183825547",
+          "download": "669079840"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25540278",
+        "timeupdated": "1790381738",
+        "timebuildupdated": "1790381662"
+      },
+      "previous_version": {
+        "buildid": "19288343",
+        "description": "If you experience problems with an update, this is the previous build.",
+        "timeupdated": "1752969853",
+        "timebuildupdated": "1752969798"
+      },
+      "review_build": {
+        "buildid": "15802602",
+        "description": "If you received an early copy of the game for review and your save games don't work, play this build",
+        "timeupdated": "1727404819",
+        "timebuildupdated": "1727142934"
+      }
+    }
+  }
+}

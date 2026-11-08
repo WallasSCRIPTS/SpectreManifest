@@ -1,0 +1,83 @@
+{
+  "name": "LOCOSOCCER 2",
+  "source": "spectre",
+  "changenumber": 40569579,
+  "updated": "2026-11-06T23:19:27.206Z",
+  "branches": {
+    "public": {
+      "buildid": "10138489",
+      "timeupdated": "1670945860",
+      "timebuildupdated": "1670945789"
+    },
+    "linux": {
+      "buildid": "10138489",
+      "description": "Linux",
+      "timeupdated": "1670945869",
+      "timebuildupdated": "1670945789"
+    },
+    "macos": {
+      "buildid": "10125316",
+      "description": "MacOS",
+      "timeupdated": "1670800916",
+      "timebuildupdated": "1670800877"
+    }
+  },
+  "depot": {
+    "2173531": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7030518181729821039",
+          "size": "268293979",
+          "download": "84135584"
+        }
+      }
+    },
+    "2173532": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1251871760238203955",
+          "size": "369851057",
+          "download": "153009232"
+        }
+      }
+    },
+    "2173533": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5559912717969815166",
+          "size": "363325899",
+          "download": "107979584"
+        }
+      }
+    },
+    "2173534": {},
+    "branches": {
+      "public": {
+        "buildid": "10138489",
+        "timeupdated": "1670945860",
+        "timebuildupdated": "1670945789"
+      },
+      "linux": {
+        "buildid": "10138489",
+        "description": "Linux",
+        "timeupdated": "1670945869",
+        "timebuildupdated": "1670945789"
+      },
+      "macos": {
+        "buildid": "10125316",
+        "description": "MacOS",
+        "timeupdated": "1670800916",
+        "timebuildupdated": "1670800877"
+      }
+    }
+  }
+}

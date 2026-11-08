@@ -1,0 +1,107 @@
+{
+  "name": "The Last Federation",
+  "source": "spectre",
+  "changenumber": 40439370,
+  "updated": "2026-11-07T20:56:19.454Z",
+  "branches": {
+    "public": {
+      "buildid": "2782842",
+      "timeupdated": "1526571146",
+      "timebuildupdated": "1526571106"
+    },
+    "prearcenasyncfile": {
+      "buildid": "483091",
+      "description": "Version 2.011 of the game, from before the new ArcenAsyncFile update.  Circa December 30th, 2014.",
+      "timebuildupdated": "1419953424"
+    },
+    "wayoldprenewrenderpipeline": {
+      "buildid": "383634",
+      "description": "Version 1.038 of the game, from before the new Sprite Batching update.  Circa September 16th, 2014.",
+      "timebuildupdated": "1410872433"
+    }
+  },
+  "depot": {
+    "273071": {
+      "manifests": {
+        "public": {
+          "gid": "2351974863739839148",
+          "size": "359925634",
+          "download": "352285488"
+        }
+      }
+    },
+    "273072": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8558042103703524313",
+          "size": "72080768",
+          "download": "26606320"
+        }
+      }
+    },
+    "273073": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9069974396724994621",
+          "size": "139892380",
+          "download": "40867712"
+        }
+      }
+    },
+    "273074": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8217201616247452073",
+          "size": "125208811",
+          "download": "36862320"
+        }
+      }
+    },
+    "304480": {
+      "manifests": {
+        "public": {
+          "gid": "1907910745295891061",
+          "size": "154265916",
+          "download": "152941424"
+        }
+      },
+      "dlcappid": "304480"
+    },
+    "414310": {
+      "manifests": {
+        "public": {
+          "gid": "1948818419021847728",
+          "size": "5351291",
+          "download": "5340256"
+        }
+      },
+      "dlcappid": "414310"
+    },
+    "branches": {
+      "public": {
+        "buildid": "2782842",
+        "timeupdated": "1526571146",
+        "timebuildupdated": "1526571106"
+      },
+      "prearcenasyncfile": {
+        "buildid": "483091",
+        "description": "Version 2.011 of the game, from before the new ArcenAsyncFile update.  Circa December 30th, 2014.",
+        "timebuildupdated": "1419953424"
+      },
+      "wayoldprenewrenderpipeline": {
+        "buildid": "383634",
+        "description": "Version 1.038 of the game, from before the new Sprite Batching update.  Circa September 16th, 2014.",
+        "timebuildupdated": "1410872433"
+      }
+    }
+  }
+}

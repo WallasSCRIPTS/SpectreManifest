@@ -1,0 +1,72 @@
+{
+  "name": "Idol Hands",
+  "source": "spectre",
+  "changenumber": 39802581,
+  "updated": "2026-11-07T20:56:56.864Z",
+  "branches": {
+    "public": {
+      "buildid": "893310",
+      "timebuildupdated": "1449755014"
+    },
+    "ranbeertest": {
+      "buildid": "704628",
+      "description": "This is for testers to test",
+      "timebuildupdated": "1437592636"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "345751": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2071644272948950554",
+          "size": "628261974",
+          "download": "186352944"
+        }
+      }
+    },
+    "345752": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5044823405881609464",
+          "size": "649363601",
+          "download": "196321632"
+        }
+      }
+    },
+    "345753": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7704449712783187798",
+          "size": "650351146",
+          "download": "195271776"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "893310",
+        "timebuildupdated": "1449755014"
+      },
+      "ranbeertest": {
+        "buildid": "704628",
+        "description": "This is for testers to test",
+        "timebuildupdated": "1437592636"
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Star Trek: Voyager - Across the Unknown",
+  "source": "spectre",
+  "changenumber": 40596609,
+  "updated": "2026-11-06T21:07:21.665Z",
+  "branches": {
+    "public": {
+      "buildid": "26128946",
+      "timeupdated": "1793202742",
+      "timebuildupdated": "1792659072"
+    },
+    "fallback": {
+      "buildid": "25752387",
+      "description": "Public fallback branch - use this to revert to the previous build",
+      "timeupdated": "1791301297",
+      "timebuildupdated": "1791291764"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2643391": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1577558124835262422",
+          "size": "10714322962",
+          "download": "10073996224"
+        }
+      }
+    },
+    "2643392": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26128946",
+        "timeupdated": "1793202742",
+        "timebuildupdated": "1792659072"
+      },
+      "fallback": {
+        "buildid": "25752387",
+        "description": "Public fallback branch - use this to revert to the previous build",
+        "timeupdated": "1791301297",
+        "timebuildupdated": "1791291764"
+      }
+    }
+  }
+}

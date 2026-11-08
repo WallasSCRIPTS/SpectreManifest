@@ -1,0 +1,58 @@
+{
+  "name": "PRIM",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:48.439Z",
+  "branches": {
+    "public": {
+      "buildid": "20303074",
+      "timeupdated": "1760431941",
+      "timebuildupdated": "1759926563"
+    }
+  },
+  "depot": {
+    "1510471": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "900667404900506497",
+          "size": "1125160583",
+          "download": "956242800"
+        }
+      }
+    },
+    "1510472": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5320028432838339438",
+          "size": "1135831475",
+          "download": "957603712"
+        }
+      }
+    },
+    "1510473": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4424322808155351165",
+          "size": "1252829110",
+          "download": "983253504"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20303074",
+        "timeupdated": "1760431941",
+        "timebuildupdated": "1759926563"
+      }
+    }
+  }
+}

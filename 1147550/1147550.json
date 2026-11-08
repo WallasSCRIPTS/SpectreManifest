@@ -1,0 +1,118 @@
+{
+  "name": "Not For Broadcast",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:43.887Z",
+  "branches": {
+    "public": {
+      "buildid": "15932446",
+      "timeupdated": "1728064732",
+      "timebuildupdated": "1728058824"
+    },
+    "experimental2": {
+      "buildid": "10879169",
+      "description": "Build that uses VP8 encoded videos.",
+      "timeupdated": "1680086037",
+      "timebuildupdated": "1680055722"
+    },
+    "alternatevideo": {
+      "buildid": "15932558",
+      "description": "Build that uses an alternate internal video player, for people experiencing issues with videos not playing in the primary build.",
+      "timeupdated": "1728064822",
+      "timebuildupdated": "1728059505"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1147551": {
+      "manifests": {
+        "public": {
+          "gid": "4179142375280234066",
+          "size": "54808234187",
+          "download": "42381433888"
+        }
+      }
+    },
+    "1147552": {
+      "manifests": {
+        "public": {
+          "gid": "8364623276885752920",
+          "size": "1676007318",
+          "download": "1698859648"
+        }
+      }
+    },
+    "1147553": {
+      "manifests": {
+        "public": {
+          "gid": "5070434569740297865",
+          "size": "1769327464",
+          "download": "1793460560"
+        }
+      }
+    },
+    "1147554": {
+      "manifests": {
+        "public": {
+          "gid": "4673560301910716582",
+          "size": "1668433856",
+          "download": "1691188848"
+        }
+      }
+    },
+    "2199310": {
+      "manifests": {
+        "public": {
+          "gid": "8383074283729566403",
+          "size": "7434884679",
+          "download": "7536432672"
+        }
+      },
+      "dlcappid": "2199310"
+    },
+    "2303600": {
+      "manifests": {
+        "public": {
+          "gid": "4295815718717691497",
+          "size": "15994775366",
+          "download": "16213422560"
+        }
+      },
+      "dlcappid": "2303600"
+    },
+    "2303601": {
+      "manifests": {
+        "public": {
+          "gid": "292618191568686625",
+          "size": "13903035183",
+          "download": "14093164720"
+        }
+      },
+      "dlcappid": "2303601"
+    },
+    "branches": {
+      "public": {
+        "buildid": "15932446",
+        "timeupdated": "1728064732",
+        "timebuildupdated": "1728058824"
+      },
+      "experimental2": {
+        "buildid": "10879169",
+        "description": "Build that uses VP8 encoded videos.",
+        "timeupdated": "1680086037",
+        "timebuildupdated": "1680055722"
+      },
+      "alternatevideo": {
+        "buildid": "15932558",
+        "description": "Build that uses an alternate internal video player, for people experiencing issues with videos not playing in the primary build.",
+        "timeupdated": "1728064822",
+        "timebuildupdated": "1728059505"
+      }
+    }
+  }
+}

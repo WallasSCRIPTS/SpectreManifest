@@ -1,0 +1,59 @@
+{
+  "name": "Natural Locomotion",
+  "source": "spectre",
+  "changenumber": 38979887,
+  "updated": "2026-11-07T21:00:47.166Z",
+  "branches": {
+    "public": {
+      "buildid": "20244943",
+      "timeupdated": "1759521050",
+      "timebuildupdated": "1759521018"
+    },
+    "old_wmr_driver": {
+      "buildid": "5101983",
+      "description": "Very old WMR driver (Use it only if default or legacy are not working with a Windows Mixed Reality Headset)",
+      "timeupdated": "1590936095",
+      "timebuildupdated": "1590936056"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "798811": {
+      "manifests": {
+        "public": {
+          "gid": "7442644756863942448",
+          "size": "215490374",
+          "download": "106689920"
+        }
+      }
+    },
+    "798812": {},
+    "798813": {
+      "manifests": {
+        "public": {
+          "gid": "4822066055160568423",
+          "size": "66501518",
+          "download": "67288864"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20244943",
+        "timeupdated": "1759521050",
+        "timebuildupdated": "1759521018"
+      },
+      "old_wmr_driver": {
+        "buildid": "5101983",
+        "description": "Very old WMR driver (Use it only if default or legacy are not working with a Windows Mixed Reality Headset)",
+        "timeupdated": "1590936095",
+        "timebuildupdated": "1590936056"
+      }
+    }
+  }
+}

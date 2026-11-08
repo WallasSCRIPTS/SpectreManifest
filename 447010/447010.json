@@ -1,0 +1,76 @@
+{
+  "name": "Bird of Light",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:54.910Z",
+  "branches": {
+    "public": {
+      "buildid": "1310172",
+      "timeupdated": "1472648187",
+      "timebuildupdated": "1472646372"
+    },
+    "beta": {
+      "buildid": "1310172",
+      "description": "Public testing",
+      "timeupdated": "1472646463",
+      "timebuildupdated": "1472646372"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "447011": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8202967991548096095",
+          "size": "223008194",
+          "download": "50635296"
+        }
+      }
+    },
+    "447012": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3854444557130476746",
+          "size": "268600513",
+          "download": "63209232"
+        }
+      }
+    },
+    "447013": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "165427632542273168",
+          "size": "229904163",
+          "download": "52431248"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1310172",
+        "timeupdated": "1472648187",
+        "timebuildupdated": "1472646372"
+      },
+      "beta": {
+        "buildid": "1310172",
+        "description": "Public testing",
+        "timeupdated": "1472646463",
+        "timebuildupdated": "1472646372"
+      }
+    }
+  }
+}

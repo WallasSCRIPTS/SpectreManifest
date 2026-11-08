@@ -1,0 +1,70 @@
+{
+  "name": "Fourtex Jugo",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:18.551Z",
+  "branches": {
+    "public": {
+      "buildid": "1720069",
+      "timeupdated": "1492094901",
+      "timebuildupdated": "1490712218"
+    },
+    "beta": {
+      "buildid": "1720069",
+      "description": "Public beta branch",
+      "timeupdated": "1490712218",
+      "timebuildupdated": "1490712218"
+    }
+  },
+  "depot": {
+    "499561": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5403283702564170294",
+          "size": "71593596",
+          "download": "19129616"
+        }
+      }
+    },
+    "499562": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1715934001508820337",
+          "size": "114377461",
+          "download": "29773504"
+        }
+      }
+    },
+    "499563": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8509400564027901207",
+          "size": "109400262",
+          "download": "29721856"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1720069",
+        "timeupdated": "1492094901",
+        "timebuildupdated": "1490712218"
+      },
+      "beta": {
+        "buildid": "1720069",
+        "description": "Public beta branch",
+        "timeupdated": "1490712218",
+        "timebuildupdated": "1490712218"
+      }
+    }
+  }
+}

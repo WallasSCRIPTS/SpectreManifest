@@ -1,0 +1,58 @@
+{
+  "name": "Prescience",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:15:40.047Z",
+  "branches": {
+    "public": {
+      "buildid": "14383695",
+      "timeupdated": "1715826688",
+      "timebuildupdated": "1715826169"
+    },
+    "test": {
+      "buildid": "14383695",
+      "description": "Playtest",
+      "timeupdated": "1715826659",
+      "timebuildupdated": "1715826169"
+    }
+  },
+  "depot": {
+    "2065871": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4165044265369590504",
+          "size": "386385283",
+          "download": "169173024"
+        }
+      }
+    },
+    "2065872": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "467786146351877509",
+          "size": "410138642",
+          "download": "176167616"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14383695",
+        "timeupdated": "1715826688",
+        "timebuildupdated": "1715826169"
+      },
+      "test": {
+        "buildid": "14383695",
+        "description": "Playtest",
+        "timeupdated": "1715826659",
+        "timebuildupdated": "1715826169"
+      }
+    }
+  }
+}

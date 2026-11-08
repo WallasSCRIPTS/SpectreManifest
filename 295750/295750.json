@@ -1,0 +1,73 @@
+{
+  "name": "The Floor is Jelly",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:56:28.374Z",
+  "branches": {
+    "public": {
+      "buildid": "2527657",
+      "timeupdated": "1518676035",
+      "timebuildupdated": "1518676035"
+    },
+    "mac": {
+      "buildid": "2526637",
+      "description": "mac build",
+      "timeupdated": "1518645764",
+      "timebuildupdated": "1518645764"
+    },
+    "windows": {
+      "buildid": "2526590",
+      "description": "windows build",
+      "timeupdated": "1518644810",
+      "timebuildupdated": "1518644630"
+    }
+  },
+  "depot": {
+    "295751": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4761248186413369202",
+          "size": "217181803",
+          "download": "188266976"
+        }
+      }
+    },
+    "295753": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7453324820874301667",
+          "size": "219961670",
+          "download": "185895088"
+        }
+      }
+    },
+    "365830": {
+      "dlcappid": "365830"
+    },
+    "branches": {
+      "public": {
+        "buildid": "2527657",
+        "timeupdated": "1518676035",
+        "timebuildupdated": "1518676035"
+      },
+      "mac": {
+        "buildid": "2526637",
+        "description": "mac build",
+        "timeupdated": "1518645764",
+        "timebuildupdated": "1518645764"
+      },
+      "windows": {
+        "buildid": "2526590",
+        "description": "windows build",
+        "timeupdated": "1518644810",
+        "timebuildupdated": "1518644630"
+      }
+    }
+  }
+}

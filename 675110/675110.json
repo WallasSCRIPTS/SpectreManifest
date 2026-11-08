@@ -1,0 +1,76 @@
+{
+  "name": "KILL YOUR FRIENDS",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:42.857Z",
+  "branches": {
+    "public": {
+      "buildid": "8748752",
+      "timeupdated": "1652717218",
+      "timebuildupdated": "1652717022"
+    },
+    "beta": {
+      "buildid": "8748752",
+      "description": "Testing branch for updates (unstable, use at own risk)",
+      "timeupdated": "1667130154",
+      "timebuildupdated": "1652717022"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "675111": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3086158839042811428",
+          "size": "32479186",
+          "download": "23174544"
+        }
+      }
+    },
+    "675112": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3007591374651432885",
+          "size": "39954540",
+          "download": "24338032"
+        }
+      }
+    },
+    "675113": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4866643218144356123",
+          "size": "67795470",
+          "download": "28536016"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8748752",
+        "timeupdated": "1652717218",
+        "timebuildupdated": "1652717022"
+      },
+      "beta": {
+        "buildid": "8748752",
+        "description": "Testing branch for updates (unstable, use at own risk)",
+        "timeupdated": "1667130154",
+        "timebuildupdated": "1652717022"
+      }
+    }
+  }
+}

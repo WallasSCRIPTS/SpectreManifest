@@ -1,0 +1,94 @@
+{
+  "name": "ENTROPOLY",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:19:33.381Z",
+  "branches": {
+    "public": {
+      "buildid": "21270592",
+      "timeupdated": "1766256343",
+      "timebuildupdated": "1766256267"
+    },
+    "1.0.2": {
+      "buildid": "10721250",
+      "description": "v1.0.2",
+      "timeupdated": "1678380467",
+      "timebuildupdated": "1678293384"
+    },
+    "1.0.5": {
+      "buildid": "10812016",
+      "description": "v1.0.5",
+      "timeupdated": "1689512514",
+      "timebuildupdated": "1679325419"
+    },
+    "1.1.3": {
+      "buildid": "12844500",
+      "description": "v1.1.3",
+      "timeupdated": "1732743949",
+      "timebuildupdated": "1701389146"
+    },
+    "fully_stripped_version": {
+      "buildid": "24273075",
+      "description": "latest version without native gcc, gmlive or steamworks",
+      "timeupdated": "1784373034",
+      "timebuildupdated": "1784372941"
+    },
+    "no_native_gcc": {
+      "buildid": "24272766",
+      "description": "latest version without native gcc driver",
+      "timeupdated": "1784370304",
+      "timebuildupdated": "1784370230"
+    }
+  },
+  "depot": {
+    "2226161": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6694501717006396220",
+          "size": "141941155",
+          "download": "105945488"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21270592",
+        "timeupdated": "1766256343",
+        "timebuildupdated": "1766256267"
+      },
+      "1.0.2": {
+        "buildid": "10721250",
+        "description": "v1.0.2",
+        "timeupdated": "1678380467",
+        "timebuildupdated": "1678293384"
+      },
+      "1.0.5": {
+        "buildid": "10812016",
+        "description": "v1.0.5",
+        "timeupdated": "1689512514",
+        "timebuildupdated": "1679325419"
+      },
+      "1.1.3": {
+        "buildid": "12844500",
+        "description": "v1.1.3",
+        "timeupdated": "1732743949",
+        "timebuildupdated": "1701389146"
+      },
+      "fully_stripped_version": {
+        "buildid": "24273075",
+        "description": "latest version without native gcc, gmlive or steamworks",
+        "timeupdated": "1784373034",
+        "timebuildupdated": "1784372941"
+      },
+      "no_native_gcc": {
+        "buildid": "24272766",
+        "description": "latest version without native gcc driver",
+        "timeupdated": "1784370304",
+        "timebuildupdated": "1784370230"
+      }
+    }
+  }
+}

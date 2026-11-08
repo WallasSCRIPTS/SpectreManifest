@@ -1,0 +1,95 @@
+{
+  "name": "仙旅异闻录",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:07:47.761Z",
+  "branches": {
+    "public": {
+      "buildid": "21775023",
+      "timeupdated": "1770175074",
+      "timebuildupdated": "1770175074"
+    },
+    "1.01.42": {
+      "buildid": "21238352",
+      "description": "1.01.42版本",
+      "timeupdated": "1766412885",
+      "timebuildupdated": "1766052264"
+    },
+    "1.01.44": {
+      "buildid": "21680597",
+      "description": "1.01.44版本",
+      "timeupdated": "1769596330",
+      "timebuildupdated": "1769596330"
+    },
+    "dlc_test": {
+      "buildid": "21581705",
+      "description": "测试dlc模式",
+      "timeupdated": "1768978572",
+      "timebuildupdated": "1768978572"
+    },
+    "vulkan": {
+      "buildid": "21774968",
+      "description": "vulkan渲染器版本",
+      "timeupdated": "1770174763",
+      "timebuildupdated": "1770174763"
+    }
+  },
+  "depot": {
+    "3952931": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7314906417421484528",
+          "size": "729753384",
+          "download": "624497088"
+        }
+      }
+    },
+    "4223010": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2295604454874275402",
+          "size": "18",
+          "download": "80"
+        }
+      },
+      "dlcappid": "4223010"
+    },
+    "branches": {
+      "public": {
+        "buildid": "21775023",
+        "timeupdated": "1770175074",
+        "timebuildupdated": "1770175074"
+      },
+      "1.01.42": {
+        "buildid": "21238352",
+        "description": "1.01.42版本",
+        "timeupdated": "1766412885",
+        "timebuildupdated": "1766052264"
+      },
+      "1.01.44": {
+        "buildid": "21680597",
+        "description": "1.01.44版本",
+        "timeupdated": "1769596330",
+        "timebuildupdated": "1769596330"
+      },
+      "dlc_test": {
+        "buildid": "21581705",
+        "description": "测试dlc模式",
+        "timeupdated": "1768978572",
+        "timebuildupdated": "1768978572"
+      },
+      "vulkan": {
+        "buildid": "21774968",
+        "description": "vulkan渲染器版本",
+        "timeupdated": "1770174763",
+        "timebuildupdated": "1770174763"
+      }
+    }
+  }
+}

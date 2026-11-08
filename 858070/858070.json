@@ -1,0 +1,49 @@
+{
+  "name": "Leviathan's Sword",
+  "source": "spectre",
+  "changenumber": 39473003,
+  "updated": "2026-11-07T21:01:13.173Z",
+  "branches": {
+    "public": {
+      "buildid": "23179529",
+      "timeupdated": "1778503430",
+      "timebuildupdated": "1778503430"
+    }
+  },
+  "depot": {
+    "858071": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5779158973152718068",
+          "size": "1205906420",
+          "download": "216632112"
+        }
+      }
+    },
+    "858072": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7389649174266500504",
+          "size": "630861536",
+          "download": "124740224"
+        }
+      }
+    },
+    "1307791": {
+      "depotfromapp": "1307790"
+    },
+    "branches": {
+      "public": {
+        "buildid": "23179529",
+        "timeupdated": "1778503430",
+        "timebuildupdated": "1778503430"
+      }
+    }
+  }
+}

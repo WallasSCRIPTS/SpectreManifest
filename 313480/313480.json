@@ -1,0 +1,70 @@
+{
+  "name": "Blitzkrieg Anthology",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:36.382Z",
+  "branches": {
+    "public": {
+      "buildid": "2969225",
+      "timeupdated": "1532695794",
+      "timebuildupdated": "1532358545"
+    },
+    "local": {
+      "buildid": "350338",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1407491158"
+    }
+  },
+  "depot": {
+    "313481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6138950786934825086",
+          "size": "4841231979",
+          "download": "2041053696"
+        }
+      }
+    },
+    "313482": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5253902432902419552",
+          "size": "4854925607",
+          "download": "2047752544"
+        }
+      }
+    },
+    "313483": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7720743453562762830",
+          "size": "9242400152",
+          "download": "3976863072"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2969225",
+        "timeupdated": "1532695794",
+        "timebuildupdated": "1532358545"
+      },
+      "local": {
+        "buildid": "350338",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1407491158"
+      }
+    }
+  }
+}

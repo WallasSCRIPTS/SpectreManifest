@@ -1,0 +1,55 @@
+{
+  "name": "Rollout",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T20:58:23.252Z",
+  "branches": {
+    "public": {
+      "buildid": "2415291",
+      "timeupdated": "1515164284",
+      "timebuildupdated": "1515162871"
+    }
+  },
+  "depot": {
+    "509191": {
+      "manifests": {
+        "public": {
+          "gid": "1197415300901565346",
+          "size": "130645594",
+          "download": "10029776"
+        }
+      }
+    },
+    "509192": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1537207850329840643",
+          "size": "163520362",
+          "download": "20849200"
+        }
+      }
+    },
+    "509193": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "755361912824913629",
+          "size": "211890376",
+          "download": "33475360"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2415291",
+        "timeupdated": "1515164284",
+        "timebuildupdated": "1515162871"
+      }
+    }
+  }
+}

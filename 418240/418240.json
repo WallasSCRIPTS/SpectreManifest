@@ -1,0 +1,110 @@
+{
+  "name": "Shadow Tactics: Blades of the Shogun",
+  "source": "spectre",
+  "changenumber": 38193885,
+  "updated": "2026-11-07T20:57:40.703Z",
+  "branches": {
+    "public": {
+      "buildid": "8181738",
+      "timeupdated": "1646126338",
+      "timebuildupdated": "1644517699"
+    },
+    "1.4.4": {
+      "buildid": "2099785",
+      "description": "Release Version v1",
+      "timeupdated": "1512988165",
+      "timebuildupdated": "1504788163"
+    },
+    "2.2.2": {
+      "buildid": "2525365",
+      "description": "Release Version v2.2.2",
+      "timeupdated": "1528360185",
+      "timebuildupdated": "1518617053"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "418241": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2234455499182889617",
+          "size": "7792493860",
+          "download": "3323937664"
+        }
+      }
+    },
+    "418242": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8855741290430538859",
+          "size": "7825549111",
+          "download": "3330932656"
+        }
+      }
+    },
+    "418243": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2079282393073667094",
+          "size": "7896193075",
+          "download": "3337547552"
+        }
+      }
+    },
+    "571410": {
+      "manifests": {
+        "public": {
+          "gid": "6524828579651589822",
+          "size": "108018528",
+          "download": "99723488"
+        }
+      },
+      "dlcappid": "571410"
+    },
+    "branches": {
+      "public": {
+        "buildid": "8181738",
+        "timeupdated": "1646126338",
+        "timebuildupdated": "1644517699"
+      },
+      "1.4.4": {
+        "buildid": "2099785",
+        "description": "Release Version v1",
+        "timeupdated": "1512988165",
+        "timebuildupdated": "1504788163"
+      },
+      "2.2.2": {
+        "buildid": "2525365",
+        "description": "Release Version v2.2.2",
+        "timeupdated": "1528360185",
+        "timebuildupdated": "1518617053"
+      }
+    }
+  }
+}

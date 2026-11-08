@@ -1,0 +1,73 @@
+{
+  "name": "Micron",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:25.714Z",
+  "branches": {
+    "public": {
+      "buildid": "369791",
+      "timebuildupdated": "1409536785"
+    },
+    "beta": {
+      "buildid": "369791",
+      "timebuildupdated": "1409536785"
+    }
+  },
+  "depot": {
+    "290381": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2613885025294598446",
+          "size": "82729511",
+          "download": "33918216052"
+        }
+      }
+    },
+    "290382": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8732562398986457623",
+          "size": "115478592",
+          "download": "231698642187"
+        }
+      }
+    },
+    "290383": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8612959813160915164",
+          "size": "109580194",
+          "download": "8520643064"
+        }
+      }
+    },
+    "290384": {
+      "manifests": {
+        "public": {
+          "gid": "9032435285473810761",
+          "size": "117873",
+          "download": "245137728"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "369791",
+        "timebuildupdated": "1409536785"
+      },
+      "beta": {
+        "buildid": "369791",
+        "timebuildupdated": "1409536785"
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Cathedral",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:49.662Z",
+  "branches": {
+    "public": {
+      "buildid": "6428724",
+      "timeupdated": "1617278496",
+      "timebuildupdated": "1616541964"
+    },
+    "edge": {
+      "buildid": "6428724",
+      "description": "Public beta branch",
+      "timeupdated": "1617278435",
+      "timebuildupdated": "1616541964"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1056181": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4698962624297233439",
+          "size": "59563427",
+          "download": "47613600"
+        }
+      }
+    },
+    "1056182": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3007103905392619914",
+          "size": "57261046",
+          "download": "47276496"
+        }
+      }
+    },
+    "1056183": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "352953153920122360",
+          "size": "59140846",
+          "download": "47076512"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6428724",
+        "timeupdated": "1617278496",
+        "timebuildupdated": "1616541964"
+      },
+      "edge": {
+        "buildid": "6428724",
+        "description": "Public beta branch",
+        "timeupdated": "1617278435",
+        "timebuildupdated": "1616541964"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "4Prot",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-06T21:06:42.727Z",
+  "branches": {
+    "public": {
+      "buildid": "23826973",
+      "timeupdated": "1781895748",
+      "timebuildupdated": "1781895748"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1632021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1037840529678577512",
+          "size": "1352472228",
+          "download": "951831264"
+        }
+      }
+    },
+    "1632022": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6413582958000124776",
+          "size": "1359206668",
+          "download": "1048554752"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23826973",
+        "timeupdated": "1781895748",
+        "timebuildupdated": "1781895748"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Red Hands",
+  "source": "spectre",
+  "changenumber": 35945467,
+  "updated": "2026-11-06T21:05:35.183Z",
+  "branches": {
+    "public": {
+      "buildid": "13027800",
+      "timeupdated": "1703583629",
+      "timebuildupdated": "1703234322"
+    },
+    "testgrana": {
+      "buildid": "13027800",
+      "description": "test",
+      "timeupdated": "1703234335",
+      "timebuildupdated": "1703234322"
+    }
+  },
+  "depot": {
+    "1480602": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2211983757042069450",
+          "size": "183079184",
+          "download": "27297520"
+        }
+      }
+    },
+    "1480603": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6913683395905047170",
+          "size": "184569967",
+          "download": "27991136"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13027800",
+        "timeupdated": "1703583629",
+        "timebuildupdated": "1703234322"
+      },
+      "testgrana": {
+        "buildid": "13027800",
+        "description": "test",
+        "timeupdated": "1703234335",
+        "timebuildupdated": "1703234322"
+      }
+    }
+  }
+}

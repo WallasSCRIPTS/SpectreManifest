@@ -1,0 +1,58 @@
+{
+  "name": "Thread",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:15:27.194Z",
+  "branches": {
+    "public": {
+      "buildid": "10230480",
+      "timeupdated": "1672359897",
+      "timebuildupdated": "1672359897"
+    },
+    "add_linux": {
+      "buildid": "9928033",
+      "description": "added linux",
+      "timeupdated": "1668359854",
+      "timebuildupdated": "1668359854"
+    }
+  },
+  "depot": {
+    "1989151": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5755207151138493748",
+          "size": "143206721",
+          "download": "69946144"
+        }
+      }
+    },
+    "1989152": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8021006434545265311",
+          "size": "138077088",
+          "download": "68592640"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10230480",
+        "timeupdated": "1672359897",
+        "timebuildupdated": "1672359897"
+      },
+      "add_linux": {
+        "buildid": "9928033",
+        "description": "added linux",
+        "timeupdated": "1668359854",
+        "timebuildupdated": "1668359854"
+      }
+    }
+  }
+}

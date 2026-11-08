@@ -1,0 +1,65 @@
+{
+  "name": "OrbWars Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-06T23:09:44.670Z",
+  "branches": {
+    "public": {
+      "buildid": "11720046",
+      "timeupdated": "1689602515",
+      "timebuildupdated": "1689602018"
+    },
+    "local": {
+      "buildid": "8139359",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1643902384",
+      "timebuildupdated": "1643902384"
+    }
+  },
+  "depot": {
+    "1766171": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6680366435967113679",
+          "size": "2239083184",
+          "download": "464824048"
+        }
+      }
+    },
+    "1766172": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8333341916568531294",
+          "size": "2263679549",
+          "download": "472482384"
+        }
+      }
+    },
+    "1766173": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11720046",
+        "timeupdated": "1689602515",
+        "timebuildupdated": "1689602018"
+      },
+      "local": {
+        "buildid": "8139359",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1643902384",
+        "timebuildupdated": "1643902384"
+      }
+    }
+  }
+}

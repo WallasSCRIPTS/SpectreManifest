@@ -1,0 +1,66 @@
+{
+  "name": "学生时代",
+  "source": "spectre",
+  "changenumber": 40510672,
+  "updated": "2026-11-06T23:15:27.449Z",
+  "branches": {
+    "public": {
+      "buildid": "22391614",
+      "timeupdated": "1773820493",
+      "timebuildupdated": "1773808032"
+    },
+    "local": {
+      "buildid": "9964151",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1668737126",
+      "timebuildupdated": "1668737125"
+    },
+    "test": {
+      "buildid": "25592041",
+      "description": "测试版",
+      "timeupdated": "1790645413",
+      "timebuildupdated": "1790645186"
+    }
+  },
+  "depot": {
+    "1991041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3603293379663554307",
+          "size": "4727215612",
+          "download": "4247744672"
+        }
+      }
+    },
+    "4110130": {
+      "config": {
+        "oslist": "windows"
+      },
+      "dlcappid": "4110130"
+    },
+    "branches": {
+      "public": {
+        "buildid": "22391614",
+        "timeupdated": "1773820493",
+        "timebuildupdated": "1773808032"
+      },
+      "local": {
+        "buildid": "9964151",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1668737126",
+        "timebuildupdated": "1668737125"
+      },
+      "test": {
+        "buildid": "25592041",
+        "description": "测试版",
+        "timeupdated": "1790645413",
+        "timebuildupdated": "1790645186"
+      }
+    }
+  }
+}

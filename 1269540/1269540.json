@@ -1,0 +1,91 @@
+{
+  "name": "Slash Roll",
+  "source": "spectre",
+  "changenumber": 34852649,
+  "updated": "2026-11-06T21:04:02.971Z",
+  "branches": {
+    "public": {
+      "buildid": "5461035",
+      "timeupdated": "1598445796",
+      "timebuildupdated": "1598437327"
+    },
+    "beta": {
+      "buildid": "5461035",
+      "description": "Public beta branch",
+      "timeupdated": "1598437396",
+      "timebuildupdated": "1598437327"
+    },
+    "playmakers": {
+      "buildid": "13763467",
+      "description": "PlayMakers testing branch",
+      "timeupdated": "1710614836",
+      "timebuildupdated": "1710614836"
+    }
+  },
+  "depot": {
+    "1269541": {
+      "manifests": {
+        "public": {
+          "gid": "1404668725702426948",
+          "size": "369030713",
+          "download": "250206368"
+        }
+      }
+    },
+    "1269542": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2412833458980947639",
+          "size": "31711808",
+          "download": "8755888"
+        }
+      }
+    },
+    "1269543": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6220892637111248589",
+          "size": "37310790",
+          "download": "11248240"
+        }
+      }
+    },
+    "1269544": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7683523332835191267",
+          "size": "50091486",
+          "download": "12083984"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5461035",
+        "timeupdated": "1598445796",
+        "timebuildupdated": "1598437327"
+      },
+      "beta": {
+        "buildid": "5461035",
+        "description": "Public beta branch",
+        "timeupdated": "1598437396",
+        "timebuildupdated": "1598437327"
+      },
+      "playmakers": {
+        "buildid": "13763467",
+        "description": "PlayMakers testing branch",
+        "timeupdated": "1710614836",
+        "timebuildupdated": "1710614836"
+      }
+    }
+  }
+}

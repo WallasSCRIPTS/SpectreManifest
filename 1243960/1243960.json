@@ -1,0 +1,106 @@
+{
+  "name": "Unspottable",
+  "source": "spectre",
+  "changenumber": 39522666,
+  "updated": "2026-11-06T21:03:51.527Z",
+  "branches": {
+    "public": {
+      "buildid": "22175301",
+      "timeupdated": "1773653537",
+      "timebuildupdated": "1772530358"
+    },
+    "beta_testing": {
+      "buildid": "19773735",
+      "description": "Beta testing",
+      "timeupdated": "1756454609",
+      "timebuildupdated": "1756399559"
+    },
+    "buggy-branch": {
+      "buildid": "15758482",
+      "description": "Buggy branch",
+      "timeupdated": "1757316944",
+      "timebuildupdated": "1726758651"
+    },
+    "onlinebeta": {
+      "buildid": "22163331",
+      "description": "Beta branch for Unspottable - Online mode",
+      "timeupdated": "1772471954",
+      "timebuildupdated": "1772467112"
+    },
+    "prerelease": {
+      "buildid": "22175301",
+      "description": "prerelease branch",
+      "timeupdated": "1772530358",
+      "timebuildupdated": "1772530358"
+    }
+  },
+  "depot": {
+    "1243961": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1541527795211162547",
+          "size": "1273421102",
+          "download": "251401664"
+        }
+      }
+    },
+    "1243962": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9208468806245634746",
+          "size": "1328623974",
+          "download": "259832080"
+        }
+      }
+    },
+    "1243963": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8736357124907740370",
+          "size": "1300927812",
+          "download": "261885008"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22175301",
+        "timeupdated": "1773653537",
+        "timebuildupdated": "1772530358"
+      },
+      "beta_testing": {
+        "buildid": "19773735",
+        "description": "Beta testing",
+        "timeupdated": "1756454609",
+        "timebuildupdated": "1756399559"
+      },
+      "buggy-branch": {
+        "buildid": "15758482",
+        "description": "Buggy branch",
+        "timeupdated": "1757316944",
+        "timebuildupdated": "1726758651"
+      },
+      "onlinebeta": {
+        "buildid": "22163331",
+        "description": "Beta branch for Unspottable - Online mode",
+        "timeupdated": "1772471954",
+        "timebuildupdated": "1772467112"
+      },
+      "prerelease": {
+        "buildid": "22175301",
+        "description": "prerelease branch",
+        "timeupdated": "1772530358",
+        "timebuildupdated": "1772530358"
+      }
+    }
+  }
+}

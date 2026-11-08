@@ -1,0 +1,82 @@
+{
+  "name": "Beastieball",
+  "source": "spectre",
+  "changenumber": 40682376,
+  "updated": "2026-11-06T23:11:40.519Z",
+  "branches": {
+    "public": {
+      "buildid": "26493207",
+      "timeupdated": "1793993788",
+      "timebuildupdated": "1793993754"
+    },
+    "experimental": {
+      "buildid": "26493207",
+      "description": "For frequent updates + experimental changes",
+      "timeupdated": "1793993754",
+      "timebuildupdated": "1793993754"
+    },
+    "milestone-2026-06": {
+      "buildid": "24132362",
+      "description": "the build on balance patch from milestone 5",
+      "timeupdated": "1783618567",
+      "timebuildupdated": "1783618567"
+    },
+    "april-fools": {
+      "buildid": "22600961",
+      "description": "april fools!",
+      "timeupdated": "1775041282",
+      "timebuildupdated": "1775041048"
+    }
+  },
+  "depot": {
+    "1864951": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2712833970818037275",
+          "size": "1903011592",
+          "download": "1414017856"
+        }
+      }
+    },
+    "1864952": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6883884069714650889",
+          "size": "1985790949",
+          "download": "1438212992"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26493207",
+        "timeupdated": "1793993788",
+        "timebuildupdated": "1793993754"
+      },
+      "experimental": {
+        "buildid": "26493207",
+        "description": "For frequent updates + experimental changes",
+        "timeupdated": "1793993754",
+        "timebuildupdated": "1793993754"
+      },
+      "milestone-2026-06": {
+        "buildid": "24132362",
+        "description": "the build on balance patch from milestone 5",
+        "timeupdated": "1783618567",
+        "timebuildupdated": "1783618567"
+      },
+      "april-fools": {
+        "buildid": "22600961",
+        "description": "april fools!",
+        "timeupdated": "1775041282",
+        "timebuildupdated": "1775041048"
+      }
+    }
+  }
+}

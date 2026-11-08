@@ -1,0 +1,82 @@
+{
+  "name": "Frogs vs. Storks",
+  "source": "spectre",
+  "changenumber": 35032777,
+  "updated": "2026-11-06T23:17:29.099Z",
+  "branches": {
+    "public": {
+      "buildid": "22650181",
+      "timeupdated": "1775330180",
+      "timebuildupdated": "1775330119"
+    },
+    "previous_version": {
+      "buildid": "17475111",
+      "description": "Contains the previous version of the game, to be used in case the new update doesn't work well.",
+      "timeupdated": "1740335278",
+      "timebuildupdated": "1740334852"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2079081": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4057490035321880616",
+          "size": "51120150",
+          "download": "35596928"
+        }
+      }
+    },
+    "2079082": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6400581826860103671",
+          "size": "61421931",
+          "download": "40941856"
+        }
+      }
+    },
+    "2079083": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1107907534348043913",
+          "size": "54423881",
+          "download": "36481888"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22650181",
+        "timeupdated": "1775330180",
+        "timebuildupdated": "1775330119"
+      },
+      "previous_version": {
+        "buildid": "17475111",
+        "description": "Contains the previous version of the game, to be used in case the new update doesn't work well.",
+        "timeupdated": "1740335278",
+        "timebuildupdated": "1740334852"
+      }
+    }
+  }
+}

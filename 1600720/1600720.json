@@ -1,0 +1,60 @@
+{
+  "name": "a curse from beyond",
+  "source": "spectre",
+  "changenumber": 37449347,
+  "updated": "2026-11-06T21:06:31.075Z",
+  "branches": {
+    "public": {
+      "buildid": "7359048",
+      "timeupdated": "1631650537",
+      "timebuildupdated": "1631649765"
+    },
+    "local": {
+      "buildid": "7252761",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1629957254",
+      "timebuildupdated": "1629956758"
+    }
+  },
+  "depot": {
+    "1600721": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1043048008661404750",
+          "size": "121949847",
+          "download": "55361344"
+        }
+      }
+    },
+    "1600722": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7263763445115594759",
+          "size": "228769208",
+          "download": "74185184"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7359048",
+        "timeupdated": "1631650537",
+        "timebuildupdated": "1631649765"
+      },
+      "local": {
+        "buildid": "7252761",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1629957254",
+        "timebuildupdated": "1629956758"
+      }
+    }
+  }
+}

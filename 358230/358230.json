@@ -1,0 +1,59 @@
+{
+  "name": "Paganitzu",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:07.505Z",
+  "branches": {
+    "public": {
+      "buildid": "606141",
+      "timebuildupdated": "1430315777"
+    }
+  },
+  "depot": {
+    "358231": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2309959763365453688",
+          "size": "29851456",
+          "download": "12188976"
+        }
+      }
+    },
+    "358232": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2386402038828800473",
+          "size": "8243237",
+          "download": "3583984"
+        }
+      }
+    },
+    "358233": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7714883418821508702",
+          "size": "9874648",
+          "download": "4281136"
+        }
+      }
+    },
+    "358282": {
+      "depotfromapp": "358280"
+    },
+    "branches": {
+      "public": {
+        "buildid": "606141",
+        "timebuildupdated": "1430315777"
+      }
+    }
+  }
+}

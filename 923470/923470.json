@@ -1,0 +1,70 @@
+{
+  "name": "MOMO.EXE",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:43.081Z",
+  "branches": {
+    "public": {
+      "buildid": "3237039",
+      "timeupdated": "1540250449",
+      "timebuildupdated": "1540248871"
+    },
+    "beta": {
+      "buildid": "3237039",
+      "description": "Beta",
+      "timeupdated": "1540250509",
+      "timebuildupdated": "1540248871"
+    }
+  },
+  "depot": {
+    "923471": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "344319781343629961",
+          "size": "282117021",
+          "download": "103216752"
+        }
+      }
+    },
+    "923472": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5370405763243922487",
+          "size": "295411341",
+          "download": "106501216"
+        }
+      }
+    },
+    "923473": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "824823932647222321",
+          "size": "317900696",
+          "download": "115667376"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3237039",
+        "timeupdated": "1540250449",
+        "timebuildupdated": "1540248871"
+      },
+      "beta": {
+        "buildid": "3237039",
+        "description": "Beta",
+        "timeupdated": "1540250509",
+        "timebuildupdated": "1540248871"
+      }
+    }
+  }
+}

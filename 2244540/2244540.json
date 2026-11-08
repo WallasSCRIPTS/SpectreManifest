@@ -1,0 +1,106 @@
+{
+  "name": "Marvelous Marbles",
+  "source": "spectre",
+  "changenumber": 34891866,
+  "updated": "2026-11-06T23:21:20.427Z",
+  "branches": {
+    "public": {
+      "buildid": "11003069",
+      "timeupdated": "1681468546",
+      "timebuildupdated": "1681468195"
+    },
+    "previous_version": {
+      "buildid": "10955221",
+      "description": "This will contain the previous version of the game",
+      "timeupdated": "1681468561",
+      "timebuildupdated": "1680871446"
+    },
+    "test": {
+      "buildid": "11228746",
+      "description": "Test branch. Upcoming versions are tested here",
+      "timeupdated": "1684067014",
+      "timebuildupdated": "1684066972"
+    },
+    "v1.01_legacy": {
+      "buildid": "10899397",
+      "description": "fallback branch",
+      "timeupdated": "1680548394",
+      "timebuildupdated": "1680243166"
+    }
+  },
+  "depot": {
+    "2244541": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2624615214798332165",
+          "size": "302216348",
+          "download": "201117920"
+        }
+      }
+    },
+    "2244542": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "296341578413394286",
+          "size": "312999926",
+          "download": "202985520"
+        }
+      }
+    },
+    "2244543": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5293870756842238827",
+          "size": "287477126",
+          "download": "199245408"
+        }
+      }
+    },
+    "2244544": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "966295661612418024",
+          "size": "308334140",
+          "download": "201415328"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11003069",
+        "timeupdated": "1681468546",
+        "timebuildupdated": "1681468195"
+      },
+      "previous_version": {
+        "buildid": "10955221",
+        "description": "This will contain the previous version of the game",
+        "timeupdated": "1681468561",
+        "timebuildupdated": "1680871446"
+      },
+      "test": {
+        "buildid": "11228746",
+        "description": "Test branch. Upcoming versions are tested here",
+        "timeupdated": "1684067014",
+        "timebuildupdated": "1684066972"
+      },
+      "v1.01_legacy": {
+        "buildid": "10899397",
+        "description": "fallback branch",
+        "timeupdated": "1680548394",
+        "timebuildupdated": "1680243166"
+      }
+    }
+  }
+}

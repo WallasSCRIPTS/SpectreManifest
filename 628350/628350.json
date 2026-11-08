@@ -1,0 +1,56 @@
+{
+  "name": "Lazaretto",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:21.897Z",
+  "branches": {
+    "public": {
+      "buildid": "2509720",
+      "timeupdated": "1518118433",
+      "timebuildupdated": "1518117951"
+    },
+    "update_test": {
+      "buildid": "2217511",
+      "timeupdated": "1508538061",
+      "timebuildupdated": "1508537683"
+    }
+  },
+  "depot": {
+    "628351": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6216994465181235637",
+          "size": "2376206315",
+          "download": "1122467888"
+        }
+      }
+    },
+    "628352": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5446661057868709194",
+          "size": "2405140268",
+          "download": "1135082640"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2509720",
+        "timeupdated": "1518118433",
+        "timebuildupdated": "1518117951"
+      },
+      "update_test": {
+        "buildid": "2217511",
+        "timeupdated": "1508538061",
+        "timebuildupdated": "1508537683"
+      }
+    }
+  }
+}

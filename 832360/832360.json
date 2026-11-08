@@ -1,0 +1,82 @@
+{
+  "name": "Hotel Magnate",
+  "source": "spectre",
+  "changenumber": 37437721,
+  "updated": "2026-11-07T21:01:01.793Z",
+  "branches": {
+    "public": {
+      "buildid": "20311588",
+      "timeupdated": "1759971681",
+      "timebuildupdated": "1759966799"
+    },
+    "previous-version": {
+      "buildid": "10150362",
+      "description": "older version of game than current",
+      "timeupdated": "1686651818",
+      "timebuildupdated": "1671065787"
+    },
+    "experimental": {
+      "buildid": "20311588",
+      "description": "public testing",
+      "timeupdated": "1759971654",
+      "timebuildupdated": "1759966799"
+    }
+  },
+  "depot": {
+    "832361": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5631131088296290463",
+          "size": "3364398240",
+          "download": "819847440"
+        }
+      }
+    },
+    "832362": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6280222078605172231",
+          "size": "3399954012",
+          "download": "831331712"
+        }
+      }
+    },
+    "832363": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "183947465749910078",
+          "size": "3428166360",
+          "download": "843974240"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20311588",
+        "timeupdated": "1759971681",
+        "timebuildupdated": "1759966799"
+      },
+      "previous-version": {
+        "buildid": "10150362",
+        "description": "older version of game than current",
+        "timeupdated": "1686651818",
+        "timebuildupdated": "1671065787"
+      },
+      "experimental": {
+        "buildid": "20311588",
+        "description": "public testing",
+        "timeupdated": "1759971654",
+        "timebuildupdated": "1759966799"
+      }
+    }
+  }
+}

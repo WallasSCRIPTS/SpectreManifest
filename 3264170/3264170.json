@@ -1,0 +1,58 @@
+{
+  "name": "Birdigo",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:07:34.682Z",
+  "branches": {
+    "public": {
+      "buildid": "21995443",
+      "timeupdated": "1771476861",
+      "timebuildupdated": "1771473284"
+    },
+    "beta": {
+      "buildid": "21995443",
+      "description": "for testing new features",
+      "timeupdated": "1771473326",
+      "timebuildupdated": "1771473284"
+    }
+  },
+  "depot": {
+    "3264171": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1153934782971463038",
+          "size": "659032321",
+          "download": "322304720"
+        }
+      }
+    },
+    "3264172": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4306345363118312042",
+          "size": "646899853",
+          "download": "318838768"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21995443",
+        "timeupdated": "1771476861",
+        "timebuildupdated": "1771473284"
+      },
+      "beta": {
+        "buildid": "21995443",
+        "description": "for testing new features",
+        "timeupdated": "1771473326",
+        "timebuildupdated": "1771473284"
+      }
+    }
+  }
+}

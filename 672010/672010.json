@@ -1,0 +1,68 @@
+{
+  "name": "CANARI",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:59:41.214Z",
+  "branches": {
+    "public": {
+      "buildid": "2535203",
+      "timeupdated": "1518908094",
+      "timebuildupdated": "1518908094"
+    },
+    "develop": {
+      "buildid": "2535186",
+      "description": "test branch",
+      "timeupdated": "1518907602",
+      "timebuildupdated": "1518907602"
+    }
+  },
+  "depot": {
+    "672012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7523881804402343232",
+          "size": "734146530",
+          "download": "389403888"
+        }
+      }
+    },
+    "672013": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5628324290149558482",
+          "size": "746817654",
+          "download": "392202000"
+        }
+      }
+    },
+    "672014": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "672015": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2535203",
+        "timeupdated": "1518908094",
+        "timebuildupdated": "1518908094"
+      },
+      "develop": {
+        "buildid": "2535186",
+        "description": "test branch",
+        "timeupdated": "1518907602",
+        "timebuildupdated": "1518907602"
+      }
+    }
+  }
+}

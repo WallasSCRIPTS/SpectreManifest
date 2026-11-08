@@ -1,0 +1,82 @@
+{
+  "name": "Farlanders",
+  "source": "spectre",
+  "changenumber": 38489004,
+  "updated": "2026-11-06T21:04:24.073Z",
+  "branches": {
+    "public": {
+      "buildid": "22455202",
+      "timeupdated": "1774209510",
+      "timebuildupdated": "1774209510"
+    },
+    "beta": {
+      "buildid": "21502968",
+      "description": "Public beta testing",
+      "timeupdated": "1768441402",
+      "timebuildupdated": "1768441299"
+    },
+    "old-version": {
+      "buildid": "12144352",
+      "description": " A branch with an older game version",
+      "timeupdated": "1729632229",
+      "timebuildupdated": "1694193455"
+    }
+  },
+  "depot": {
+    "1318741": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6158438167086523982",
+          "size": "724770770",
+          "download": "287842208"
+        }
+      }
+    },
+    "1318742": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4129279366948379079",
+          "size": "725913698",
+          "download": "291737296"
+        }
+      }
+    },
+    "1318743": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1514411991815019510",
+          "size": "758229660",
+          "download": "291429568"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22455202",
+        "timeupdated": "1774209510",
+        "timebuildupdated": "1774209510"
+      },
+      "beta": {
+        "buildid": "21502968",
+        "description": "Public beta testing",
+        "timeupdated": "1768441402",
+        "timebuildupdated": "1768441299"
+      },
+      "old-version": {
+        "buildid": "12144352",
+        "description": " A branch with an older game version",
+        "timeupdated": "1729632229",
+        "timebuildupdated": "1694193455"
+      }
+    }
+  }
+}

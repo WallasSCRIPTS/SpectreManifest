@@ -1,0 +1,60 @@
+{
+  "name": "Evasilix",
+  "source": "spectre",
+  "changenumber": 35946306,
+  "updated": "2026-11-05T14:57:18.953Z",
+  "branches": {
+    "public": {
+      "buildid": "7947442",
+      "timeupdated": "1640701797",
+      "timebuildupdated": "1640688871"
+    },
+    "local": {
+      "buildid": "6325701",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1614805954",
+      "timebuildupdated": "1614805954"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1552931": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1336826995289699608",
+          "size": "17649355820",
+          "download": "10130270288"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7947442",
+        "timeupdated": "1640701797",
+        "timebuildupdated": "1640688871"
+      },
+      "local": {
+        "buildid": "6325701",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1614805954",
+        "timebuildupdated": "1614805954"
+      }
+    }
+  }
+}

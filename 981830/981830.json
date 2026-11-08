@@ -1,0 +1,58 @@
+{
+  "name": "GIGABUSTER",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:12.614Z",
+  "branches": {
+    "public": {
+      "buildid": "14919729",
+      "timeupdated": "1720014685",
+      "timebuildupdated": "1720014417"
+    },
+    "deck": {
+      "buildid": "14017141",
+      "description": "steam deck compatible build",
+      "timeupdated": "1719310563",
+      "timebuildupdated": "1712801781"
+    }
+  },
+  "depot": {
+    "981831": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3565966572331591092",
+          "size": "775684589",
+          "download": "603967392"
+        }
+      }
+    },
+    "981832": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "878862985680815651",
+          "size": "894235488",
+          "download": "615464416"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14919729",
+        "timeupdated": "1720014685",
+        "timebuildupdated": "1720014417"
+      },
+      "deck": {
+        "buildid": "14017141",
+        "description": "steam deck compatible build",
+        "timeupdated": "1719310563",
+        "timebuildupdated": "1712801781"
+      }
+    }
+  }
+}

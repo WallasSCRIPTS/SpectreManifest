@@ -1,0 +1,135 @@
+{
+  "name": "Scourge: Outbreak",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:06.919Z",
+  "branches": {
+    "public": {
+      "buildid": "395838",
+      "timebuildupdated": "1411992160"
+    },
+    "beta": {
+      "buildid": "455671",
+      "description": "beta branch - New Quality Modes",
+      "timebuildupdated": "1417026005"
+    },
+    "beta_bots": {
+      "buildid": "253706",
+      "description": "Bots Beta - Work In Progress",
+      "timebuildupdated": "1399047301"
+    },
+    "local": {
+      "buildid": "291613",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1402055059"
+    }
+  },
+  "depot": {
+    "227561": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5741810753456216487",
+          "size": "4300763931",
+          "download": "7586102060691"
+        }
+      }
+    },
+    "227562": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8081211845497923571",
+          "size": "748342718",
+          "download": "1237311597576"
+        }
+      }
+    },
+    "227563": {
+      "manifests": {
+        "public": {
+          "gid": "6510205594679343277",
+          "size": "878596286",
+          "download": "1322267590902"
+        }
+      },
+      "dlcappid": "227563"
+    },
+    "227569": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "652942647963490837",
+          "size": "4366995344",
+          "download": "6354010162605"
+        }
+      }
+    },
+    "228981": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229031": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "270650": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8263308232012987290",
+          "size": "748342718",
+          "download": "342423300988"
+        }
+      },
+      "dlcappid": "270650"
+    },
+    "branches": {
+      "public": {
+        "buildid": "395838",
+        "timebuildupdated": "1411992160"
+      },
+      "beta": {
+        "buildid": "455671",
+        "description": "beta branch - New Quality Modes",
+        "timebuildupdated": "1417026005"
+      },
+      "beta_bots": {
+        "buildid": "253706",
+        "description": "Bots Beta - Work In Progress",
+        "timebuildupdated": "1399047301"
+      },
+      "local": {
+        "buildid": "291613",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1402055059"
+      }
+    }
+  }
+}

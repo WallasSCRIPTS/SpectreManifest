@@ -1,0 +1,60 @@
+{
+  "name": "Fireteam",
+  "source": "spectre",
+  "changenumber": 40315868,
+  "updated": "2026-11-06T23:11:38.702Z",
+  "branches": {
+    "public": {
+      "buildid": "8689923",
+      "timeupdated": "1651828532",
+      "timebuildupdated": "1651827452"
+    },
+    "local": {
+      "buildid": "7997453",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1641840465",
+      "timebuildupdated": "1641840465"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1850071": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3351295239693970713",
+          "size": "14000287745",
+          "download": "3628192176"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8689923",
+        "timeupdated": "1651828532",
+        "timebuildupdated": "1651827452"
+      },
+      "local": {
+        "buildid": "7997453",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1641840465",
+        "timebuildupdated": "1641840465"
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Sneaky Sneaky",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:14.922Z",
+  "branches": {
+    "public": {
+      "buildid": "454925",
+      "timebuildupdated": "1416973267"
+    },
+    "dev": {
+      "buildid": "454925",
+      "description": "Dev branch for automated builds",
+      "timebuildupdated": "1416973267"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "259411": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6825453072329393605",
+          "size": "330922143",
+          "download": "47258848480"
+        }
+      }
+    },
+    "259412": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1111443451063943591",
+          "size": "347753059",
+          "download": "3080007032"
+        }
+      }
+    },
+    "333320": {
+      "manifests": {
+        "public": {
+          "gid": "1970269820726812828",
+          "size": "28256100",
+          "download": "1097571288"
+        }
+      },
+      "dlcappid": "333320"
+    },
+    "branches": {
+      "public": {
+        "buildid": "454925",
+        "timebuildupdated": "1416973267"
+      },
+      "dev": {
+        "buildid": "454925",
+        "description": "Dev branch for automated builds",
+        "timebuildupdated": "1416973267"
+      }
+    }
+  }
+}

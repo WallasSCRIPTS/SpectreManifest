@@ -1,0 +1,73 @@
+{
+  "name": "Startopia",
+  "source": "spectre",
+  "changenumber": 40344225,
+  "updated": "2026-11-07T20:56:10.188Z",
+  "branches": {
+    "public": {
+      "buildid": "6307568",
+      "timeupdated": "1614533334",
+      "timebuildupdated": "1614533260"
+    },
+    "beta": {
+      "buildid": "6672773",
+      "description": "Startopia 1.01.1-b3",
+      "timeupdated": "1620600315",
+      "timebuildupdated": "1620600315"
+    },
+    "beta_debug": {
+      "buildid": "8569185",
+      "description": "Startopia 1.01.1-b3 (Logging Enabled)",
+      "timeupdated": "1650116083",
+      "timebuildupdated": "1650116083"
+    }
+  },
+  "depot": {
+    "243041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3696855512980811143",
+          "size": "593885512",
+          "download": "409605152"
+        }
+      }
+    },
+    "243042": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "243043": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "243044": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6307568",
+        "timeupdated": "1614533334",
+        "timebuildupdated": "1614533260"
+      },
+      "beta": {
+        "buildid": "6672773",
+        "description": "Startopia 1.01.1-b3",
+        "timeupdated": "1620600315",
+        "timebuildupdated": "1620600315"
+      },
+      "beta_debug": {
+        "buildid": "8569185",
+        "description": "Startopia 1.01.1-b3 (Logging Enabled)",
+        "timeupdated": "1650116083",
+        "timebuildupdated": "1650116083"
+      }
+    }
+  }
+}

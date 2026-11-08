@@ -1,0 +1,68 @@
+{
+  "name": "Droid Assault",
+  "source": "spectre",
+  "changenumber": 34826829,
+  "updated": "2026-11-07T20:56:04.838Z",
+  "branches": {
+    "public": {
+      "buildid": "3972209",
+      "timeupdated": "1562020708",
+      "timebuildupdated": "1562020329"
+    },
+    "test": {
+      "buildid": "3972209",
+      "timeupdated": "1562020360",
+      "timebuildupdated": "1562020329"
+    }
+  },
+  "depot": {
+    "219201": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9007305943643076241",
+          "size": "361298759",
+          "download": "68765600"
+        }
+      }
+    },
+    "219202": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4777138310481306334",
+          "size": "391523526",
+          "download": "79264016"
+        }
+      }
+    },
+    "219203": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7342626240241649313",
+          "size": "393250469",
+          "download": "81838608"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3972209",
+        "timeupdated": "1562020708",
+        "timebuildupdated": "1562020329"
+      },
+      "test": {
+        "buildid": "3972209",
+        "timeupdated": "1562020360",
+        "timebuildupdated": "1562020329"
+      }
+    }
+  }
+}

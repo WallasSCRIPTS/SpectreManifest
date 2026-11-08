@@ -1,0 +1,96 @@
+{
+  "name": "Weapon Shop Fantasy",
+  "source": "spectre",
+  "changenumber": 38284870,
+  "updated": "2026-11-07T20:59:09.142Z",
+  "branches": {
+    "public": {
+      "buildid": "1769573",
+      "timeupdated": "1492680403",
+      "timebuildupdated": "1492680226"
+    },
+    "beta": {
+      "buildid": "1769573",
+      "description": "test only",
+      "timeupdated": "1492680428",
+      "timebuildupdated": "1492680226"
+    },
+    "linux": {
+      "buildid": "1769573",
+      "timeupdated": "1492680412",
+      "timebuildupdated": "1492680226"
+    },
+    "macos": {
+      "buildid": "1769573",
+      "timeupdated": "1492680420",
+      "timebuildupdated": "1492680226"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "599461": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7506090757026305119",
+          "size": "151115880",
+          "download": "34373984"
+        }
+      }
+    },
+    "599462": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7761101542671804376",
+          "size": "227552320",
+          "download": "46802576"
+        }
+      }
+    },
+    "599463": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6876843448868748314",
+          "size": "191920532",
+          "download": "46567808"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1769573",
+        "timeupdated": "1492680403",
+        "timebuildupdated": "1492680226"
+      },
+      "beta": {
+        "buildid": "1769573",
+        "description": "test only",
+        "timeupdated": "1492680428",
+        "timebuildupdated": "1492680226"
+      },
+      "linux": {
+        "buildid": "1769573",
+        "timeupdated": "1492680412",
+        "timebuildupdated": "1492680226"
+      },
+      "macos": {
+        "buildid": "1769573",
+        "timeupdated": "1492680420",
+        "timebuildupdated": "1492680226"
+      }
+    }
+  }
+}

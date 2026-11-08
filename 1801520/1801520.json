@@ -1,0 +1,67 @@
+{
+  "name": "Zombieville USA 3D",
+  "source": "spectre",
+  "changenumber": 39465325,
+  "updated": "2026-11-06T23:11:32.470Z",
+  "branches": {
+    "public": {
+      "buildid": "17888343",
+      "timeupdated": "1743107633",
+      "timebuildupdated": "1743105576"
+    },
+    "backuptest": {
+      "buildid": "17888343",
+      "description": "1.07 Test",
+      "timeupdated": "1743105628",
+      "timebuildupdated": "1743105576"
+    },
+    "openbeta": {
+      "buildid": "17861886",
+      "description": "Debug",
+      "timeupdated": "1742964107",
+      "timebuildupdated": "1742964086"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1801521": {
+      "manifests": {
+        "public": {
+          "gid": "4976194514490593181",
+          "size": "2180810463",
+          "download": "1975165200"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17888343",
+        "timeupdated": "1743107633",
+        "timebuildupdated": "1743105576"
+      },
+      "backuptest": {
+        "buildid": "17888343",
+        "description": "1.07 Test",
+        "timeupdated": "1743105628",
+        "timebuildupdated": "1743105576"
+      },
+      "openbeta": {
+        "buildid": "17861886",
+        "description": "Debug",
+        "timeupdated": "1742964107",
+        "timebuildupdated": "1742964086"
+      }
+    }
+  }
+}

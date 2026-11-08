@@ -1,0 +1,111 @@
+{
+  "name": "Arakion: Book One",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:32.264Z",
+  "branches": {
+    "public": {
+      "buildid": "5271934",
+      "timeupdated": "1606314086",
+      "timebuildupdated": "1594334530"
+    },
+    "alpha": {
+      "buildid": "5423608",
+      "timeupdated": "1597695574",
+      "timebuildupdated": "1597694182"
+    },
+    "beta": {
+      "buildid": "5271934",
+      "description": "Beta test branch",
+      "timeupdated": "1594334589",
+      "timebuildupdated": "1594334530"
+    },
+    "ea01": {
+      "buildid": "2773141",
+      "timeupdated": "1530033787",
+      "timebuildupdated": "1526325227"
+    },
+    "stable": {
+      "buildid": "3960286",
+      "description": "Most stable branch",
+      "timeupdated": "1606314108",
+      "timebuildupdated": "1561633857"
+    }
+  },
+  "depot": {
+    "528981": {
+      "manifests": {
+        "public": {
+          "gid": "3209364048499487172",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "528982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3273112629323377435",
+          "size": "7835443462",
+          "download": "3649770480"
+        }
+      }
+    },
+    "528983": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7933757955200709711",
+          "size": "4612048739",
+          "download": "2192790912"
+        }
+      }
+    },
+    "528984": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6738473538721772284",
+          "size": "5859378286",
+          "download": "2617699488"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5271934",
+        "timeupdated": "1606314086",
+        "timebuildupdated": "1594334530"
+      },
+      "alpha": {
+        "buildid": "5423608",
+        "timeupdated": "1597695574",
+        "timebuildupdated": "1597694182"
+      },
+      "beta": {
+        "buildid": "5271934",
+        "description": "Beta test branch",
+        "timeupdated": "1594334589",
+        "timebuildupdated": "1594334530"
+      },
+      "ea01": {
+        "buildid": "2773141",
+        "timeupdated": "1530033787",
+        "timebuildupdated": "1526325227"
+      },
+      "stable": {
+        "buildid": "3960286",
+        "description": "Most stable branch",
+        "timeupdated": "1606314108",
+        "timebuildupdated": "1561633857"
+      }
+    }
+  }
+}

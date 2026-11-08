@@ -1,0 +1,58 @@
+{
+  "name": "Super Raft Boat Classic",
+  "source": "spectre",
+  "changenumber": 39554034,
+  "updated": "2026-11-06T21:06:00.384Z",
+  "branches": {
+    "public": {
+      "buildid": "24137051",
+      "timeupdated": "1783640006",
+      "timebuildupdated": "1783640006"
+    },
+    "win32": {
+      "buildid": "10529512",
+      "description": "Works on Windows 32",
+      "timeupdated": "1676090213",
+      "timebuildupdated": "1676090213"
+    }
+  },
+  "depot": {
+    "1541251": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7057412237217119122",
+          "size": "76850055",
+          "download": "59770576"
+        }
+      }
+    },
+    "1541252": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5211720386250570011",
+          "size": "91543021",
+          "download": "62049328"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24137051",
+        "timeupdated": "1783640006",
+        "timebuildupdated": "1783640006"
+      },
+      "win32": {
+        "buildid": "10529512",
+        "description": "Works on Windows 32",
+        "timeupdated": "1676090213",
+        "timebuildupdated": "1676090213"
+      }
+    }
+  }
+}

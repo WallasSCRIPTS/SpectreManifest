@@ -1,0 +1,76 @@
+{
+  "name": "Last Will",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:58.223Z",
+  "branches": {
+    "public": {
+      "buildid": "3241154",
+      "timeupdated": "1540343669",
+      "timebuildupdated": "1540343572"
+    },
+    "playtest": {
+      "buildid": "3241154",
+      "description": "For testing out the latest dev builds. Probably super unstable.",
+      "timeupdated": "1540343729",
+      "timebuildupdated": "1540343572"
+    }
+  },
+  "depot": {
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "453721": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8098223678966290325",
+          "size": "2142943525",
+          "download": "822794000"
+        }
+      }
+    },
+    "453722": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4712995455826902222",
+          "size": "2161546334",
+          "download": "830699328"
+        }
+      }
+    },
+    "453724": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4692120496110746708",
+          "size": "2151888815",
+          "download": "830768128"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3241154",
+        "timeupdated": "1540343669",
+        "timebuildupdated": "1540343572"
+      },
+      "playtest": {
+        "buildid": "3241154",
+        "description": "For testing out the latest dev builds. Probably super unstable.",
+        "timeupdated": "1540343729",
+        "timebuildupdated": "1540343572"
+      }
+    }
+  }
+}

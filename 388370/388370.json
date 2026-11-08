@@ -1,0 +1,70 @@
+{
+  "name": "Nova Blitz",
+  "source": "spectre",
+  "changenumber": 40694182,
+  "updated": "2026-11-07T20:57:26.970Z",
+  "branches": {
+    "public": {
+      "buildid": "4277503",
+      "timeupdated": "1570779151",
+      "timebuildupdated": "1570770451"
+    },
+    "beta": {
+      "buildid": "4277503",
+      "description": "Beta test branch",
+      "timeupdated": "1570770620",
+      "timebuildupdated": "1570770451"
+    }
+  },
+  "depot": {
+    "388371": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4943097708884701581",
+          "size": "708576171",
+          "download": "511836640"
+        }
+      }
+    },
+    "388372": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1334214519844831731",
+          "size": "659190835",
+          "download": "496017296"
+        }
+      }
+    },
+    "388373": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8841354070182721460",
+          "size": "676708228",
+          "download": "500822736"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4277503",
+        "timeupdated": "1570779151",
+        "timebuildupdated": "1570770451"
+      },
+      "beta": {
+        "buildid": "4277503",
+        "description": "Beta test branch",
+        "timeupdated": "1570770620",
+        "timebuildupdated": "1570770451"
+      }
+    }
+  }
+}

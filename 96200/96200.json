@@ -1,0 +1,107 @@
+{
+  "name": "Steel Storm: Burning Retribution",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:58.515Z",
+  "branches": {
+    "public": {
+      "buildid": "674922",
+      "timebuildupdated": "1435508650"
+    },
+    "ssbr_test": {
+      "buildid": "683074",
+      "description": "SS:BR updates testing branch",
+      "timebuildupdated": "1435961076"
+    }
+  },
+  "depot": {
+    "96201": {
+      "manifests": {
+        "public": {
+          "gid": "7737161883198659508",
+          "size": "874437424",
+          "download": "853883728"
+        }
+      }
+    },
+    "96202": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2012277145030000639",
+          "size": "34184913",
+          "download": "0"
+        }
+      }
+    },
+    "96203": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7188877881918711924",
+          "size": "7110734",
+          "download": "2375120"
+        }
+      }
+    },
+    "96204": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6543455038990953710",
+          "size": "92168693",
+          "download": "31037232"
+        }
+      }
+    },
+    "202651": {
+      "manifests": {
+        "public": {
+          "gid": "3266460687684784846",
+          "size": "2324272",
+          "download": "0"
+        }
+      },
+      "dlcappid": "202651"
+    },
+    "202652": {
+      "manifests": {
+        "public": {
+          "gid": "8297040719268597069",
+          "size": "35285961",
+          "download": "34967568"
+        }
+      },
+      "dlcappid": "202652"
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "674922",
+        "timebuildupdated": "1435508650"
+      },
+      "ssbr_test": {
+        "buildid": "683074",
+        "description": "SS:BR updates testing branch",
+        "timebuildupdated": "1435961076"
+      }
+    }
+  }
+}

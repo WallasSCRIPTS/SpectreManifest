@@ -1,0 +1,58 @@
+{
+  "name": "Curved Space",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:24.631Z",
+  "branches": {
+    "public": {
+      "buildid": "7513832",
+      "timeupdated": "1635781080",
+      "timebuildupdated": "1633962854"
+    },
+    "demo2021": {
+      "buildid": "6113250",
+      "description": "Test branch for the 2021 demo",
+      "timeupdated": "1611173963",
+      "timebuildupdated": "1611173929"
+    }
+  },
+  "depot": {
+    "1320231": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "303586173608908501",
+          "size": "1832534004",
+          "download": "643724800"
+        }
+      }
+    },
+    "1320232": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3010751625611787696",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7513832",
+        "timeupdated": "1635781080",
+        "timebuildupdated": "1633962854"
+      },
+      "demo2021": {
+        "buildid": "6113250",
+        "description": "Test branch for the 2021 demo",
+        "timeupdated": "1611173963",
+        "timebuildupdated": "1611173929"
+      }
+    }
+  }
+}

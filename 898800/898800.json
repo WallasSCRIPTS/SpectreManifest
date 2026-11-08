@@ -1,0 +1,64 @@
+{
+  "name": "Constructor Plus",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:32.729Z",
+  "branches": {
+    "public": {
+      "buildid": "3898407",
+      "timeupdated": "1559925685",
+      "timebuildupdated": "1559920272"
+    },
+    "s3public_beta": {
+      "buildid": "4665304",
+      "description": "Beta Branch For Next Patch",
+      "timeupdated": "1581698561",
+      "timebuildupdated": "1581448484"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "898801": {
+      "manifests": {
+        "public": {
+          "gid": "1326755509104412213",
+          "size": "8457163435",
+          "download": "2843825712"
+        }
+      }
+    },
+    "898802": {
+      "manifests": {
+        "public": {
+          "gid": "5817126844739134723",
+          "size": "2915984",
+          "download": "1988400"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3898407",
+        "timeupdated": "1559925685",
+        "timebuildupdated": "1559920272"
+      },
+      "s3public_beta": {
+        "buildid": "4665304",
+        "description": "Beta Branch For Next Patch",
+        "timeupdated": "1581698561",
+        "timebuildupdated": "1581448484"
+      }
+    }
+  }
+}

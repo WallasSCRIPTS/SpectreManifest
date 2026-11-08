@@ -1,0 +1,97 @@
+{
+  "name": "Particulars",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:14.946Z",
+  "branches": {
+    "public": {
+      "buildid": "5830254",
+      "timeupdated": "1605335466",
+      "timebuildupdated": "1605335005"
+    },
+    "beta": {
+      "buildid": "2507708",
+      "description": "for the adventurous (bugs likely be here!)",
+      "timeupdated": "1518070322",
+      "timebuildupdated": "1518070322"
+    },
+    "notfullscreen": {
+      "buildid": "204348",
+      "timebuildupdated": "1393890982"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "259471": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4551164518697448535",
+          "size": "1398376977",
+          "download": "928708176"
+        }
+      }
+    },
+    "259472": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "225310746013416546",
+          "size": "1417994670",
+          "download": "932844176"
+        }
+      }
+    },
+    "259473": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1344844659391204705",
+          "size": "1340262367",
+          "download": "894168016"
+        }
+      }
+    },
+    "266810": {
+      "manifests": {
+        "public": {
+          "gid": "3730320073513055405",
+          "size": "102313353",
+          "download": "87785184"
+        }
+      },
+      "dlcappid": "266810"
+    },
+    "267870": {
+      "dlcappid": "267870"
+    },
+    "branches": {
+      "public": {
+        "buildid": "5830254",
+        "timeupdated": "1605335466",
+        "timebuildupdated": "1605335005"
+      },
+      "beta": {
+        "buildid": "2507708",
+        "description": "for the adventurous (bugs likely be here!)",
+        "timeupdated": "1518070322",
+        "timebuildupdated": "1518070322"
+      },
+      "notfullscreen": {
+        "buildid": "204348",
+        "timebuildupdated": "1393890982"
+      }
+    }
+  }
+}

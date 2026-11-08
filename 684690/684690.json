@@ -1,0 +1,85 @@
+{
+  "name": "Grid Cartographer",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:47.573Z",
+  "branches": {
+    "public": {
+      "buildid": "22233207",
+      "timeupdated": "1772813813",
+      "timebuildupdated": "1772813446"
+    },
+    "beta": {
+      "buildid": "22233207",
+      "description": "Testing Branch",
+      "timeupdated": "1772813546",
+      "timebuildupdated": "1772813446"
+    }
+  },
+  "depot": {
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "684691": {
+      "manifests": {
+        "public": {
+          "gid": "2642769157302456704",
+          "size": "3655800",
+          "download": "1420128"
+        }
+      }
+    },
+    "684692": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2205243798205814672",
+          "size": "23881647",
+          "download": "18583088"
+        }
+      }
+    },
+    "684693": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "155409199619573483",
+          "size": "20026695",
+          "download": "14440448"
+        }
+      }
+    },
+    "684694": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8863126435913345099",
+          "size": "19171287",
+          "download": "14556416"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22233207",
+        "timeupdated": "1772813813",
+        "timebuildupdated": "1772813446"
+      },
+      "beta": {
+        "buildid": "22233207",
+        "description": "Testing Branch",
+        "timeupdated": "1772813546",
+        "timebuildupdated": "1772813446"
+      }
+    }
+  }
+}

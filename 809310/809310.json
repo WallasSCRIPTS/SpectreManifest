@@ -1,0 +1,100 @@
+{
+  "name": "Sipho",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:51.952Z",
+  "branches": {
+    "public": {
+      "buildid": "14092244",
+      "timeupdated": "1713463046",
+      "timebuildupdated": "1713421076"
+    },
+    "devtest": {
+      "buildid": "16476801",
+      "description": "All kinds of testing",
+      "timeupdated": "1732130720",
+      "timebuildupdated": "1732130720"
+    },
+    "staging": {
+      "buildid": "14092244",
+      "description": "Testing branch",
+      "timeupdated": "1717337219",
+      "timebuildupdated": "1713421076"
+    },
+    "version_1.2.0": {
+      "buildid": "13071802",
+      "description": "Archived version 1.2.0",
+      "timeupdated": "1713166650",
+      "timebuildupdated": "1704097682"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "809311": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5846124011572288679",
+          "size": "1387487390",
+          "download": "408769376"
+        }
+      }
+    },
+    "809312": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4967647904203404340",
+          "size": "1418382759",
+          "download": "416509856"
+        }
+      }
+    },
+    "809313": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5695736146252248139",
+          "size": "1439923499",
+          "download": "410594688"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14092244",
+        "timeupdated": "1713463046",
+        "timebuildupdated": "1713421076"
+      },
+      "devtest": {
+        "buildid": "16476801",
+        "description": "All kinds of testing",
+        "timeupdated": "1732130720",
+        "timebuildupdated": "1732130720"
+      },
+      "staging": {
+        "buildid": "14092244",
+        "description": "Testing branch",
+        "timeupdated": "1717337219",
+        "timebuildupdated": "1713421076"
+      },
+      "version_1.2.0": {
+        "buildid": "13071802",
+        "description": "Archived version 1.2.0",
+        "timeupdated": "1713166650",
+        "timebuildupdated": "1704097682"
+      }
+    }
+  }
+}

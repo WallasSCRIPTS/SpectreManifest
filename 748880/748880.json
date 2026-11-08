@@ -1,0 +1,92 @@
+{
+  "name": "External Visions",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T21:00:23.046Z",
+  "branches": {
+    "public": {
+      "buildid": "3325014",
+      "timeupdated": "1542747693",
+      "timebuildupdated": "1542745756"
+    },
+    "beta_branch": {
+      "buildid": "3325014",
+      "description": "Branch for beta testing",
+      "timeupdated": "1542745831",
+      "timebuildupdated": "1542745756"
+    },
+    "compatibility_branch": {
+      "buildid": "2580145",
+      "timeupdated": "1542723452",
+      "timebuildupdated": "1520344577"
+    }
+  },
+  "depot": {
+    "748881": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2360920642279327518",
+          "size": "315845272",
+          "download": "106992272"
+        }
+      }
+    },
+    "748882": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6856861106894970787",
+          "size": "139048092",
+          "download": "93503648"
+        }
+      }
+    },
+    "748883": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2152073107524867964",
+          "size": "322876824",
+          "download": "109711472"
+        }
+      }
+    },
+    "748884": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "661125064840978926",
+          "size": "149047012",
+          "download": "95097872"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3325014",
+        "timeupdated": "1542747693",
+        "timebuildupdated": "1542745756"
+      },
+      "beta_branch": {
+        "buildid": "3325014",
+        "description": "Branch for beta testing",
+        "timeupdated": "1542745831",
+        "timebuildupdated": "1542745756"
+      },
+      "compatibility_branch": {
+        "buildid": "2580145",
+        "timeupdated": "1542723452",
+        "timebuildupdated": "1520344577"
+      }
+    }
+  }
+}

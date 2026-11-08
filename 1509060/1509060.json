@@ -1,0 +1,70 @@
+{
+  "name": "Dungeon Team",
+  "source": "spectre",
+  "changenumber": 40619423,
+  "updated": "2026-11-06T21:05:47.891Z",
+  "branches": {
+    "public": {
+      "buildid": "24524876",
+      "timeupdated": "1785722149",
+      "timebuildupdated": "1785721872"
+    },
+    "dev_test": {
+      "buildid": "24524876",
+      "description": "for developer testing",
+      "timeupdated": "1785721872",
+      "timebuildupdated": "1785721872"
+    }
+  },
+  "depot": {
+    "1509061": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6121534359142848450",
+          "size": "343263223",
+          "download": "112156304"
+        }
+      }
+    },
+    "1509062": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4712391866327564197",
+          "size": "318939791",
+          "download": "111594000"
+        }
+      }
+    },
+    "1509063": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7497615419783800620",
+          "size": "289383646",
+          "download": "114253808"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24524876",
+        "timeupdated": "1785722149",
+        "timebuildupdated": "1785721872"
+      },
+      "dev_test": {
+        "buildid": "24524876",
+        "description": "for developer testing",
+        "timeupdated": "1785721872",
+        "timebuildupdated": "1785721872"
+      }
+    }
+  }
+}

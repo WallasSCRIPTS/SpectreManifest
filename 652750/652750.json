@@ -1,0 +1,70 @@
+{
+  "name": "Polygon Hero",
+  "source": "spectre",
+  "changenumber": 40315868,
+  "updated": "2026-11-07T20:59:31.343Z",
+  "branches": {
+    "public": {
+      "buildid": "2013799",
+      "timeupdated": "1501881896",
+      "timebuildupdated": "1501881572"
+    },
+    "beta": {
+      "buildid": "2013799",
+      "description": "For testing before releases",
+      "timeupdated": "1501881602",
+      "timebuildupdated": "1501881572"
+    }
+  },
+  "depot": {
+    "652755": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1033143615543360580",
+          "size": "246913703",
+          "download": "77147344"
+        }
+      }
+    },
+    "652756": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5021099297232594778",
+          "size": "200429318",
+          "download": "64324224"
+        }
+      }
+    },
+    "652757": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4885198114299934642",
+          "size": "194908686",
+          "download": "62707056"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2013799",
+        "timeupdated": "1501881896",
+        "timebuildupdated": "1501881572"
+      },
+      "beta": {
+        "buildid": "2013799",
+        "description": "For testing before releases",
+        "timeupdated": "1501881602",
+        "timebuildupdated": "1501881572"
+      }
+    }
+  }
+}

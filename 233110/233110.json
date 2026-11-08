@@ -1,0 +1,50 @@
+{
+  "name": "Defense Technica",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:07.877Z",
+  "branches": {
+    "public": {
+      "buildid": "141215",
+      "timebuildupdated": "1384144245"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "233111": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1938338694098074173",
+          "size": "755451536",
+          "download": "0"
+        }
+      }
+    },
+    "233112": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5443511485359103665",
+          "size": "772075312",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "141215",
+        "timebuildupdated": "1384144245"
+      }
+    }
+  }
+}

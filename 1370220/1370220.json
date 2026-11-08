@@ -1,0 +1,68 @@
+{
+  "name": "BAO",
+  "source": "spectre",
+  "changenumber": 34856420,
+  "updated": "2026-11-06T21:04:44.113Z",
+  "branches": {
+    "public": {
+      "buildid": "7630654",
+      "timeupdated": "1635608552",
+      "timebuildupdated": "1635608552"
+    },
+    "betatesting": {
+      "buildid": "7630654",
+      "timeupdated": "1635608581",
+      "timebuildupdated": "1635608552"
+    }
+  },
+  "depot": {
+    "1370221": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6115514834695678955",
+          "size": "634800193",
+          "download": "525625744"
+        }
+      }
+    },
+    "1370222": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5209324709930134622",
+          "size": "649176778",
+          "download": "531242912"
+        }
+      }
+    },
+    "1370223": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1250413969668077255",
+          "size": "692881080",
+          "download": "546465680"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7630654",
+        "timeupdated": "1635608552",
+        "timebuildupdated": "1635608552"
+      },
+      "betatesting": {
+        "buildid": "7630654",
+        "timeupdated": "1635608581",
+        "timebuildupdated": "1635608552"
+      }
+    }
+  }
+}

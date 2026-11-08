@@ -1,0 +1,68 @@
+{
+  "name": "Brawl",
+  "source": "spectre",
+  "changenumber": 39554034,
+  "updated": "2026-11-07T21:02:25.055Z",
+  "branches": {
+    "public": {
+      "buildid": "3449444",
+      "timeupdated": "1547049635",
+      "timebuildupdated": "1546894295"
+    },
+    "beta": {
+      "buildid": "3449444",
+      "timeupdated": "1546894995",
+      "timebuildupdated": "1546894295"
+    }
+  },
+  "depot": {
+    "1007821": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2484437632228307421",
+          "size": "98347310",
+          "download": "79480880"
+        }
+      }
+    },
+    "1007822": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3768506250814492119",
+          "size": "100277171",
+          "download": "79901840"
+        }
+      }
+    },
+    "1007823": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1107052420943476476",
+          "size": "96805706",
+          "download": "78977536"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3449444",
+        "timeupdated": "1547049635",
+        "timebuildupdated": "1546894295"
+      },
+      "beta": {
+        "buildid": "3449444",
+        "timeupdated": "1546894995",
+        "timebuildupdated": "1546894295"
+      }
+    }
+  }
+}

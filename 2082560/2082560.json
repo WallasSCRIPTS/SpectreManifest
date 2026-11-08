@@ -1,0 +1,58 @@
+{
+  "name": "Mutagenic",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:17:29.518Z",
+  "branches": {
+    "public": {
+      "buildid": "14447316",
+      "timeupdated": "1716328528",
+      "timebuildupdated": "1716328528"
+    },
+    "pre05": {
+      "buildid": "10816633",
+      "description": "Pre05",
+      "timeupdated": "1699311920",
+      "timebuildupdated": "1679368801"
+    }
+  },
+  "depot": {
+    "2082561": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6968461277876407099",
+          "size": "103592248",
+          "download": "45863616"
+        }
+      }
+    },
+    "2082562": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "236058604270153279",
+          "size": "160879889",
+          "download": "58456896"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14447316",
+        "timeupdated": "1716328528",
+        "timebuildupdated": "1716328528"
+      },
+      "pre05": {
+        "buildid": "10816633",
+        "description": "Pre05",
+        "timeupdated": "1699311920",
+        "timebuildupdated": "1679368801"
+      }
+    }
+  }
+}

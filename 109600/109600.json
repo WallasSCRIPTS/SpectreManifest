@@ -1,0 +1,47 @@
+{
+  "name": "Neverwinter",
+  "source": "spectre",
+  "changenumber": 40626330,
+  "updated": "2026-11-07T20:55:59.581Z",
+  "branches": {
+    "public": {
+      "buildid": "11833704",
+      "timeupdated": "1690851402",
+      "timebuildupdated": "1690851374"
+    }
+  },
+  "depot": {
+    "109601": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7633242158297156214",
+          "size": "443182085",
+          "download": "100547296"
+        }
+      }
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1829726630299308803",
+          "size": "102931551",
+          "download": "100658080"
+        }
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "11833704",
+        "timeupdated": "1690851402",
+        "timebuildupdated": "1690851374"
+      }
+    }
+  }
+}

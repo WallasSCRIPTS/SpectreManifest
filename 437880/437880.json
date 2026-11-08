@@ -1,0 +1,68 @@
+{
+  "name": "Project Graviton",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:51.118Z",
+  "branches": {
+    "public": {
+      "buildid": "1554527",
+      "timeupdated": "1507971796",
+      "timebuildupdated": "1483700589"
+    },
+    "beta": {
+      "buildid": "2087775",
+      "description": "Beta testing",
+      "timeupdated": "1504365271",
+      "timebuildupdated": "1504365255"
+    }
+  },
+  "depot": {
+    "437881": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3756446973892736749",
+          "size": "51385925",
+          "download": "47395152"
+        }
+      }
+    },
+    "437882": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7549835099683410084",
+          "size": "30662468",
+          "download": "23484560"
+        }
+      }
+    },
+    "442020": {
+      "manifests": {
+        "public": {
+          "gid": "1003048447885497731",
+          "size": "47438753",
+          "download": "46044016"
+        }
+      },
+      "dlcappid": "442020"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1554527",
+        "timeupdated": "1507971796",
+        "timebuildupdated": "1483700589"
+      },
+      "beta": {
+        "buildid": "2087775",
+        "description": "Beta testing",
+        "timeupdated": "1504365271",
+        "timebuildupdated": "1504365255"
+      }
+    }
+  }
+}

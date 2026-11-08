@@ -1,0 +1,84 @@
+{
+  "name": "Frequent Flyer",
+  "source": "spectre",
+  "changenumber": 36239967,
+  "updated": "2026-11-07T20:58:44.285Z",
+  "branches": {
+    "public": {
+      "buildid": "2222605",
+      "timeupdated": "1508774850",
+      "timebuildupdated": "1508774850"
+    },
+    "test": {
+      "buildid": "1453107",
+      "timeupdated": "1478865184",
+      "timebuildupdated": "1478862905"
+    },
+    "test2": {
+      "buildid": "1453252",
+      "timeupdated": "1478867495",
+      "timebuildupdated": "1478867332"
+    }
+  },
+  "depot": {
+    "229000": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "554152": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "591601233379656592",
+          "size": "223670835",
+          "download": "79925984"
+        }
+      }
+    },
+    "554153": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8568646382411549337",
+          "size": "223866102",
+          "download": "83974368"
+        }
+      }
+    },
+    "554154": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7074370242783909806",
+          "size": "199006837",
+          "download": "72158320"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2222605",
+        "timeupdated": "1508774850",
+        "timebuildupdated": "1508774850"
+      },
+      "test": {
+        "buildid": "1453107",
+        "timeupdated": "1478865184",
+        "timebuildupdated": "1478862905"
+      },
+      "test2": {
+        "buildid": "1453252",
+        "timeupdated": "1478867495",
+        "timebuildupdated": "1478867332"
+      }
+    }
+  }
+}

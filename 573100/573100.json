@@ -1,0 +1,61 @@
+{
+  "name": "Battlefleet Gothic: Armada 2",
+  "source": "spectre",
+  "changenumber": 39479676,
+  "updated": "2026-11-07T20:58:55.248Z",
+  "branches": {
+    "public": {
+      "buildid": "15810022",
+      "timeupdated": "1727189292",
+      "timebuildupdated": "1727189143"
+    },
+    "fhi_latestpatch_restore": {
+      "buildid": "5078975",
+      "description": "Restore_LIVE_NoXplaySupport",
+      "timeupdated": "1599483150",
+      "timebuildupdated": "1590498531"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "573101": {
+      "manifests": {
+        "public": {
+          "gid": "7435580317119742848",
+          "size": "46172881724",
+          "download": "14823341216"
+        }
+      }
+    },
+    "573102": {},
+    "573103": {},
+    "573104": {},
+    "573105": {},
+    "573106": {},
+    "573107": {},
+    "branches": {
+      "public": {
+        "buildid": "15810022",
+        "timeupdated": "1727189292",
+        "timebuildupdated": "1727189143"
+      },
+      "fhi_latestpatch_restore": {
+        "buildid": "5078975",
+        "description": "Restore_LIVE_NoXplaySupport",
+        "timeupdated": "1599483150",
+        "timebuildupdated": "1590498531"
+      }
+    }
+  }
+}

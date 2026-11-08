@@ -1,0 +1,70 @@
+{
+  "name": "Cardboard Town",
+  "source": "spectre",
+  "changenumber": 37457512,
+  "updated": "2026-11-06T23:19:30.231Z",
+  "branches": {
+    "public": {
+      "buildid": "18087242",
+      "timeupdated": "1749268148",
+      "timebuildupdated": "1744511289"
+    },
+    "beta": {
+      "buildid": "18087242",
+      "description": "Staging branch of Cardboard Town, usually full of bugs",
+      "timeupdated": "1744511583",
+      "timebuildupdated": "1744511289"
+    }
+  },
+  "depot": {
+    "2198071": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1032774497900160932",
+          "size": "1095272155",
+          "download": "342399184"
+        }
+      }
+    },
+    "2198072": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2330488259920873701",
+          "size": "1119136692",
+          "download": "349569440"
+        }
+      }
+    },
+    "2198073": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6979199991069740792",
+          "size": "1093782477",
+          "download": "340830848"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18087242",
+        "timeupdated": "1749268148",
+        "timebuildupdated": "1744511289"
+      },
+      "beta": {
+        "buildid": "18087242",
+        "description": "Staging branch of Cardboard Town, usually full of bugs",
+        "timeupdated": "1744511583",
+        "timebuildupdated": "1744511289"
+      }
+    }
+  }
+}

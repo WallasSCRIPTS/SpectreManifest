@@ -1,0 +1,92 @@
+{
+  "name": "Time Warpers",
+  "source": "spectre",
+  "changenumber": 37436921,
+  "updated": "2026-11-07T20:59:43.695Z",
+  "branches": {
+    "public": {
+      "buildid": "8505278",
+      "timeupdated": "1649388420",
+      "timebuildupdated": "1649221005"
+    },
+    "2018_nov_update_1": {
+      "buildid": "3314490",
+      "description": "Update 1",
+      "timeupdated": "1620434705",
+      "timebuildupdated": "1542387457"
+    },
+    "2020_mar": {
+      "buildid": "4751878",
+      "description": "March 2020",
+      "timeupdated": "1620436384",
+      "timebuildupdated": "1583524929"
+    },
+    "phenom": {
+      "buildid": "8505278",
+      "description": "AMD Phenom Patch",
+      "timeupdated": "1649388411",
+      "timebuildupdated": "1649221005"
+    },
+    "testing": {
+      "buildid": "8505278",
+      "timeupdated": "1649388377",
+      "timebuildupdated": "1649221005"
+    }
+  },
+  "depot": {
+    "676501": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7892122431765608634",
+          "size": "1720210465",
+          "download": "467126016"
+        }
+      }
+    },
+    "676502": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5701339281746718286",
+          "size": "1772203594",
+          "download": "479579264"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8505278",
+        "timeupdated": "1649388420",
+        "timebuildupdated": "1649221005"
+      },
+      "2018_nov_update_1": {
+        "buildid": "3314490",
+        "description": "Update 1",
+        "timeupdated": "1620434705",
+        "timebuildupdated": "1542387457"
+      },
+      "2020_mar": {
+        "buildid": "4751878",
+        "description": "March 2020",
+        "timeupdated": "1620436384",
+        "timebuildupdated": "1583524929"
+      },
+      "phenom": {
+        "buildid": "8505278",
+        "description": "AMD Phenom Patch",
+        "timeupdated": "1649388411",
+        "timebuildupdated": "1649221005"
+      },
+      "testing": {
+        "buildid": "8505278",
+        "timeupdated": "1649388377",
+        "timebuildupdated": "1649221005"
+      }
+    }
+  }
+}

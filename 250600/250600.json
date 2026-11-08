@@ -1,0 +1,56 @@
+{
+  "name": "The Plan",
+  "source": "spectre",
+  "changenumber": 40671875,
+  "updated": "2026-11-07T20:56:12.265Z",
+  "branches": {
+    "public": {
+      "buildid": "520865",
+      "timebuildupdated": "1423575367"
+    }
+  },
+  "depot": {
+    "250601": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6846363568760392696",
+          "size": "119613732",
+          "download": "56263216"
+        }
+      }
+    },
+    "250602": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1119855906983281969",
+          "size": "128880462",
+          "download": "60545120"
+        }
+      }
+    },
+    "250603": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1758603001808262122",
+          "size": "146881461",
+          "download": "67261248"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "520865",
+        "timebuildupdated": "1423575367"
+      }
+    }
+  }
+}

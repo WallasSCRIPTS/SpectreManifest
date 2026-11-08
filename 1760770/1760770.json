@@ -1,0 +1,82 @@
+{
+  "name": "Crystal Project Demo",
+  "source": "spectre",
+  "changenumber": 36122618,
+  "updated": "2026-11-06T23:09:43.948Z",
+  "branches": {
+    "public": {
+      "buildid": "23419156",
+      "timeupdated": "1779826412",
+      "timebuildupdated": "1779821086"
+    },
+    "beta": {
+      "buildid": "23419156",
+      "description": "For testing the latest build before it goes live.",
+      "timeupdated": "1779826386",
+      "timebuildupdated": "1779821086"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1760771": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7608273035469281053",
+          "size": "327053659",
+          "download": "304121152"
+        }
+      }
+    },
+    "1760772": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8734774359883042581",
+          "size": "349231115",
+          "download": "310568592"
+        }
+      }
+    },
+    "1760773": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3772327829817422669",
+          "size": "363659500",
+          "download": "313761392"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23419156",
+        "timeupdated": "1779826412",
+        "timebuildupdated": "1779821086"
+      },
+      "beta": {
+        "buildid": "23419156",
+        "description": "For testing the latest build before it goes live.",
+        "timeupdated": "1779826386",
+        "timebuildupdated": "1779821086"
+      }
+    }
+  }
+}

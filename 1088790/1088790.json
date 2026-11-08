@@ -1,0 +1,82 @@
+{
+  "name": "Rebel Inc: Escalation",
+  "source": "spectre",
+  "changenumber": 40167384,
+  "updated": "2026-11-07T21:03:08.029Z",
+  "branches": {
+    "public": {
+      "buildid": "23107042",
+      "timeupdated": "1778061798",
+      "timebuildupdated": "1778057771"
+    },
+    "experimental": {
+      "buildid": "22989090",
+      "description": "Open Testing for New Patches",
+      "timeupdated": "1777367639",
+      "timebuildupdated": "1777364869"
+    }
+  },
+  "depot": {
+    "1088791": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3415240804576997206",
+          "size": "1799675504",
+          "download": "592979952"
+        }
+      }
+    },
+    "1088792": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8747952274352158450",
+          "size": "143618153",
+          "download": "54491632"
+        }
+      }
+    },
+    "1088793": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7759834959815635259",
+          "size": "1878175882",
+          "download": "618096352"
+        }
+      }
+    },
+    "1088794": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5151455874700667487",
+          "size": "196626874",
+          "download": "70920192"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23107042",
+        "timeupdated": "1778061798",
+        "timebuildupdated": "1778057771"
+      },
+      "experimental": {
+        "buildid": "22989090",
+        "description": "Open Testing for New Patches",
+        "timeupdated": "1777367639",
+        "timebuildupdated": "1777364869"
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Fearmonium",
+  "source": "spectre",
+  "changenumber": 40503275,
+  "updated": "2026-11-07T21:02:56.992Z",
+  "branches": {
+    "public": {
+      "buildid": "11505256",
+      "timeupdated": "1687175369",
+      "timebuildupdated": "1687175369"
+    },
+    "1.0.5test": {
+      "buildid": "9862857",
+      "description": "test",
+      "timeupdated": "1667488970",
+      "timebuildupdated": "1667488970"
+    },
+    "legacy": {
+      "buildid": "6812969",
+      "description": "old version of the game",
+      "timeupdated": "1626504791",
+      "timebuildupdated": "1622807361"
+    }
+  },
+  "depot": {
+    "1068361": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7620125546431199482",
+          "size": "732246506",
+          "download": "656895136"
+        }
+      }
+    },
+    "1068362": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8568217055144399414",
+          "size": "815497776",
+          "download": "644823136"
+        }
+      }
+    },
+    "1068363": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1744285372257870254",
+          "size": "768078514",
+          "download": "652875664"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11505256",
+        "timeupdated": "1687175369",
+        "timebuildupdated": "1687175369"
+      },
+      "1.0.5test": {
+        "buildid": "9862857",
+        "description": "test",
+        "timeupdated": "1667488970",
+        "timebuildupdated": "1667488970"
+      },
+      "legacy": {
+        "buildid": "6812969",
+        "description": "old version of the game",
+        "timeupdated": "1626504791",
+        "timebuildupdated": "1622807361"
+      }
+    }
+  }
+}

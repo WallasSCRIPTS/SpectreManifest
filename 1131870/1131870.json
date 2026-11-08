@@ -1,0 +1,46 @@
+{
+  "name": "Evergreen Blues",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-07T21:03:36.266Z",
+  "branches": {
+    "public": {
+      "buildid": "4695334",
+      "timeupdated": "1582178332",
+      "timebuildupdated": "1582178224"
+    }
+  },
+  "depot": {
+    "1131871": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3060326457495307339",
+          "size": "135030063",
+          "download": "50884176"
+        }
+      }
+    },
+    "1131872": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6284712444019831691",
+          "size": "167610908",
+          "download": "58302608"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4695334",
+        "timeupdated": "1582178332",
+        "timebuildupdated": "1582178224"
+      }
+    }
+  }
+}

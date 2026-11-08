@@ -1,0 +1,57 @@
+{
+  "name": "First Strike",
+  "source": "spectre",
+  "changenumber": 40583769,
+  "updated": "2026-11-07T20:59:03.076Z",
+  "branches": {
+    "public": {
+      "buildid": "20337603",
+      "timeupdated": "1763037082",
+      "timebuildupdated": "1760102102"
+    }
+  },
+  "depot": {
+    "587001": {},
+    "587002": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2426325942768394398",
+          "size": "285827424",
+          "download": "94438256"
+        }
+      }
+    },
+    "587003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1819179443608333435",
+          "size": "364996818",
+          "download": "128205680"
+        }
+      }
+    },
+    "639701": {
+      "manifests": {
+        "public": {
+          "gid": "7236127191054507849",
+          "size": "73496444",
+          "download": "72263040"
+        }
+      },
+      "dlcappid": "639701"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20337603",
+        "timeupdated": "1763037082",
+        "timebuildupdated": "1760102102"
+      }
+    }
+  }
+}

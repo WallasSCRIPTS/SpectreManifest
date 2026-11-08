@@ -1,0 +1,106 @@
+{
+  "name": "Fly Dangerous",
+  "source": "spectre",
+  "changenumber": 40646858,
+  "updated": "2026-11-06T23:09:46.772Z",
+  "branches": {
+    "public": {
+      "buildid": "19723674",
+      "timeupdated": "1756118683",
+      "timebuildupdated": "1756118284"
+    },
+    "input_debug": {
+      "buildid": "12905379",
+      "description": "adds an input OSD toggle",
+      "timeupdated": "1701989199",
+      "timebuildupdated": "1701989129"
+    },
+    "osx_terrain_test": {
+      "buildid": "12159503",
+      "description": "Trying to fix an annoying lib bug",
+      "timeupdated": "1694438653",
+      "timebuildupdated": "1694438653"
+    },
+    "lastbuild": {
+      "buildid": "19382357",
+      "description": "The previous release of the game incase any issues creep in",
+      "timeupdated": "1753695456",
+      "timebuildupdated": "1753695456"
+    },
+    "public_beta": {
+      "buildid": "26469436",
+      "description": "Used for public tests, leaderboards are typically disabled in these dev builds",
+      "timeupdated": "1793914670",
+      "timebuildupdated": "1793914670"
+    }
+  },
+  "depot": {
+    "1781751": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5377889708542479858",
+          "size": "3314640120",
+          "download": "1889665488"
+        }
+      }
+    },
+    "1781752": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1121212552410079655",
+          "size": "3083935727",
+          "download": "1872132096"
+        }
+      }
+    },
+    "1781753": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1971008452041703047",
+          "size": "3330515901",
+          "download": "1891945104"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19723674",
+        "timeupdated": "1756118683",
+        "timebuildupdated": "1756118284"
+      },
+      "input_debug": {
+        "buildid": "12905379",
+        "description": "adds an input OSD toggle",
+        "timeupdated": "1701989199",
+        "timebuildupdated": "1701989129"
+      },
+      "osx_terrain_test": {
+        "buildid": "12159503",
+        "description": "Trying to fix an annoying lib bug",
+        "timeupdated": "1694438653",
+        "timebuildupdated": "1694438653"
+      },
+      "lastbuild": {
+        "buildid": "19382357",
+        "description": "The previous release of the game incase any issues creep in",
+        "timeupdated": "1753695456",
+        "timebuildupdated": "1753695456"
+      },
+      "public_beta": {
+        "buildid": "26469436",
+        "description": "Used for public tests, leaderboards are typically disabled in these dev builds",
+        "timeupdated": "1793914670",
+        "timebuildupdated": "1793914670"
+      }
+    }
+  }
+}

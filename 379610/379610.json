@@ -1,0 +1,141 @@
+{
+  "name": "Animated Puzzles",
+  "source": "spectre",
+  "changenumber": 40425362,
+  "updated": "2026-11-07T20:57:21.505Z",
+  "branches": {
+    "public": {
+      "buildid": "12000762",
+      "timeupdated": "1692691425",
+      "timebuildupdated": "1692690973"
+    },
+    "compability": {
+      "buildid": "4561249",
+      "description": "Compability support (Old version of the game)",
+      "timeupdated": "1603803587",
+      "timebuildupdated": "1578754389"
+    },
+    "publicbeta": {
+      "buildid": "12000762",
+      "description": "Public beta",
+      "timeupdated": "1692691398",
+      "timebuildupdated": "1692690973"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "379611": {
+      "manifests": {
+        "public": {
+          "gid": "2046917834522070486",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "379612": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3157241881838555262",
+          "size": "1146671557",
+          "download": "833819920"
+        }
+      }
+    },
+    "379613": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2420491170117111798",
+          "size": "1141448877",
+          "download": "837862384"
+        }
+      }
+    },
+    "379614": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7012606789323809273",
+          "size": "1106829150",
+          "download": "842811776"
+        }
+      }
+    },
+    "1449460": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8423588862554901257",
+          "size": "183894552",
+          "download": "149206384"
+        }
+      },
+      "dlcappid": "1449460"
+    },
+    "1449461": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2367475666549168253",
+          "size": "183894552",
+          "download": "148937232"
+        }
+      },
+      "dlcappid": "1449460"
+    },
+    "5521870": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "dlcappid": "5521870"
+    },
+    "5521871": {
+      "config": {
+        "oslist": "macos"
+      },
+      "dlcappid": "5521870"
+    },
+    "branches": {
+      "public": {
+        "buildid": "12000762",
+        "timeupdated": "1692691425",
+        "timebuildupdated": "1692690973"
+      },
+      "compability": {
+        "buildid": "4561249",
+        "description": "Compability support (Old version of the game)",
+        "timeupdated": "1603803587",
+        "timebuildupdated": "1578754389"
+      },
+      "publicbeta": {
+        "buildid": "12000762",
+        "description": "Public beta",
+        "timeupdated": "1692691398",
+        "timebuildupdated": "1692690973"
+      }
+    }
+  }
+}

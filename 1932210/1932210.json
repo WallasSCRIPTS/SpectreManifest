@@ -1,0 +1,79 @@
+{
+  "name": "Takara Cards",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:13:35.069Z",
+  "branches": {
+    "public": {
+      "buildid": "22469431",
+      "timeupdated": "1774978420",
+      "timebuildupdated": "1774296029"
+    },
+    "old_stable": {
+      "buildid": "18074748",
+      "description": "Older stable releases",
+      "timeupdated": "1744806903",
+      "timebuildupdated": "1744387695"
+    },
+    "open_beta": {
+      "buildid": "22975429",
+      "description": "Open beta for players",
+      "timeupdated": "1777295895",
+      "timebuildupdated": "1777295857"
+    }
+  },
+  "depot": {
+    "1932211": {
+      "manifests": {
+        "public": {
+          "gid": "7876322995081303139",
+          "size": "677926456",
+          "download": "205451952"
+        }
+      }
+    },
+    "1932212": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2205701249164812178",
+          "size": "58541942",
+          "download": "17706640"
+        }
+      }
+    },
+    "1932213": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1377873584294960256",
+          "size": "42620728",
+          "download": "14874288"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22469431",
+        "timeupdated": "1774978420",
+        "timebuildupdated": "1774296029"
+      },
+      "old_stable": {
+        "buildid": "18074748",
+        "description": "Older stable releases",
+        "timeupdated": "1744806903",
+        "timebuildupdated": "1744387695"
+      },
+      "open_beta": {
+        "buildid": "22975429",
+        "description": "Open beta for players",
+        "timeupdated": "1777295895",
+        "timebuildupdated": "1777295857"
+      }
+    }
+  }
+}

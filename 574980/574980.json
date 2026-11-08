@@ -1,0 +1,144 @@
+{
+  "name": "Them's Fightin' Herds",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:56.412Z",
+  "branches": {
+    "public": {
+      "buildid": "13825464",
+      "timeupdated": "1712077180",
+      "timebuildupdated": "1711127300"
+    },
+    "macos_public": {
+      "buildid": "9124890",
+      "description": "temp branch for macos, rollback to before console release",
+      "timeupdated": "1666285094",
+      "timebuildupdated": "1657847482"
+    },
+    "stable": {
+      "buildid": "12763824",
+      "description": "stable branch",
+      "timeupdated": "1702525667",
+      "timebuildupdated": "1700595149"
+    },
+    "december_patch": {
+      "buildid": "16786953",
+      "description": "Q4 2024 Patch",
+      "timeupdated": "1734529445",
+      "timebuildupdated": "1734526438"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "574981": {
+      "manifests": {
+        "public": {
+          "gid": "632770488193039984",
+          "size": "8400862419",
+          "download": "3385030160"
+        }
+      }
+    },
+    "574982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "272092765317589852",
+          "size": "47409944",
+          "download": "38023040"
+        }
+      }
+    },
+    "574983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4216879368293389798",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "574984": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "574985": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5818790652591806924",
+          "size": "89464724",
+          "download": "22088592"
+        }
+      }
+    },
+    "574986": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4895436445403680844",
+          "size": "113431778",
+          "download": "29227056"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13825464",
+        "timeupdated": "1712077180",
+        "timebuildupdated": "1711127300"
+      },
+      "macos_public": {
+        "buildid": "9124890",
+        "description": "temp branch for macos, rollback to before console release",
+        "timeupdated": "1666285094",
+        "timebuildupdated": "1657847482"
+      },
+      "stable": {
+        "buildid": "12763824",
+        "description": "stable branch",
+        "timeupdated": "1702525667",
+        "timebuildupdated": "1700595149"
+      },
+      "december_patch": {
+        "buildid": "16786953",
+        "description": "Q4 2024 Patch",
+        "timeupdated": "1734529445",
+        "timebuildupdated": "1734526438"
+      }
+    }
+  }
+}

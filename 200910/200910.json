@@ -1,0 +1,70 @@
+{
+  "name": "Before the Echo",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:00.365Z",
+  "branches": {
+    "public": {
+      "buildid": "6032512",
+      "timeupdated": "1609606103",
+      "timebuildupdated": "1609606097"
+    },
+    "linux32": {
+      "buildid": "821538",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609454836",
+      "timebuildupdated": "1445264963"
+    }
+  },
+  "depot": {
+    "200911": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7278078270785826029",
+          "size": "342244430",
+          "download": "286203312"
+        }
+      }
+    },
+    "200912": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6417954085282353108",
+          "size": "310566597",
+          "download": "228746032"
+        }
+      }
+    },
+    "200913": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8775340936432278938",
+          "size": "323642270",
+          "download": "231958272"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6032512",
+        "timeupdated": "1609606103",
+        "timebuildupdated": "1609606097"
+      },
+      "linux32": {
+        "buildid": "821538",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609454836",
+        "timebuildupdated": "1445264963"
+      }
+    }
+  }
+}

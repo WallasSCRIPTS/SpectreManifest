@@ -1,0 +1,70 @@
+{
+  "name": "LOVE",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:18.420Z",
+  "branches": {
+    "public": {
+      "buildid": "13228418",
+      "timeupdated": "1705784346",
+      "timebuildupdated": "1705781556"
+    },
+    "testing": {
+      "buildid": "13228418",
+      "description": "Testing Branch",
+      "timeupdated": "1705781556",
+      "timebuildupdated": "1705781556"
+    }
+  },
+  "depot": {
+    "269271": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4188439412055950676",
+          "size": "204925907",
+          "download": "162846064"
+        }
+      }
+    },
+    "269272": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5941363362479379485",
+          "size": "57711684",
+          "download": "44826704"
+        }
+      }
+    },
+    "269274": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6838157977652584969",
+          "size": "52094241",
+          "download": "42432976"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13228418",
+        "timeupdated": "1705784346",
+        "timebuildupdated": "1705781556"
+      },
+      "testing": {
+        "buildid": "13228418",
+        "description": "Testing Branch",
+        "timeupdated": "1705781556",
+        "timebuildupdated": "1705781556"
+      }
+    }
+  }
+}

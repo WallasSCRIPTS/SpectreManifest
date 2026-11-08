@@ -1,0 +1,70 @@
+{
+  "name": "So to Speak",
+  "source": "spectre",
+  "changenumber": 37762669,
+  "updated": "2026-11-06T23:09:46.383Z",
+  "branches": {
+    "public": {
+      "buildid": "18267496",
+      "timeupdated": "1745856416",
+      "timebuildupdated": "1745855182"
+    },
+    "debug": {
+      "buildid": "18348686",
+      "description": "Testing",
+      "timeupdated": "1746463268",
+      "timebuildupdated": "1746463137"
+    }
+  },
+  "depot": {
+    "1779031": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7868433271030213297",
+          "size": "714832494",
+          "download": "362569552"
+        }
+      }
+    },
+    "1779032": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6262888223431898258",
+          "size": "718146874",
+          "download": "362935744"
+        }
+      }
+    },
+    "1779033": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2428670875713177078",
+          "size": "715267909",
+          "download": "362381168"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18267496",
+        "timeupdated": "1745856416",
+        "timebuildupdated": "1745855182"
+      },
+      "debug": {
+        "buildid": "18348686",
+        "description": "Testing",
+        "timeupdated": "1746463268",
+        "timebuildupdated": "1746463137"
+      }
+    }
+  }
+}

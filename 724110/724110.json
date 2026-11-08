@@ -1,0 +1,57 @@
+{
+  "name": "PlayUSA",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-07T21:00:08.874Z",
+  "branches": {
+    "public": {
+      "buildid": "2977276",
+      "timeupdated": "1532553707",
+      "timebuildupdated": "1532553707"
+    }
+  },
+  "depot": {
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "724111": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4599230718982369222",
+          "size": "14562508",
+          "download": "6513136"
+        }
+      }
+    },
+    "724112": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7101240851770728724",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "724113": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2977276",
+        "timeupdated": "1532553707",
+        "timebuildupdated": "1532553707"
+      }
+    }
+  }
+}

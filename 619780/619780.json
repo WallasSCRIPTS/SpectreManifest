@@ -1,0 +1,110 @@
+{
+  "name": "The Swords of Ditto: Mormo's Curse",
+  "source": "spectre",
+  "changenumber": 37436216,
+  "updated": "2026-11-07T20:59:18.620Z",
+  "branches": {
+    "public": {
+      "buildid": "4368964",
+      "timeupdated": "1573201791",
+      "timebuildupdated": "1573201196"
+    },
+    "debug_public": {
+      "buildid": "5344429",
+      "description": "For uploading test builds to players to help fix issues on their PCs",
+      "timeupdated": "1595994085",
+      "timebuildupdated": "1595990928"
+    },
+    "nonemesissfx": {
+      "buildid": "5112327",
+      "description": "Special build with no Nemesis footsteps",
+      "timeupdated": "1591141390",
+      "timebuildupdated": "1591141219"
+    },
+    "previous": {
+      "buildid": "4272878",
+      "description": "Previous safe build",
+      "timeupdated": "1573201740",
+      "timebuildupdated": "1570663534"
+    }
+  },
+  "depot": {
+    "228982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "619781": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3718440189718024937",
+          "size": "1227589856",
+          "download": "723027776"
+        }
+      }
+    },
+    "619782": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3355578940562975485",
+          "size": "1243796111",
+          "download": "728250048"
+        }
+      }
+    },
+    "619783": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8456426909060176327",
+          "size": "1247727848",
+          "download": "727450096"
+        }
+      }
+    },
+    "846860": {
+      "manifests": {
+        "public": {
+          "gid": "3389133467896369617",
+          "size": "226871324",
+          "download": "224634816"
+        }
+      },
+      "dlcappid": "846860"
+    },
+    "branches": {
+      "public": {
+        "buildid": "4368964",
+        "timeupdated": "1573201791",
+        "timebuildupdated": "1573201196"
+      },
+      "debug_public": {
+        "buildid": "5344429",
+        "description": "For uploading test builds to players to help fix issues on their PCs",
+        "timeupdated": "1595994085",
+        "timebuildupdated": "1595990928"
+      },
+      "nonemesissfx": {
+        "buildid": "5112327",
+        "description": "Special build with no Nemesis footsteps",
+        "timeupdated": "1591141390",
+        "timebuildupdated": "1591141219"
+      },
+      "previous": {
+        "buildid": "4272878",
+        "description": "Previous safe build",
+        "timeupdated": "1573201740",
+        "timebuildupdated": "1570663534"
+      }
+    }
+  }
+}

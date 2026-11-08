@@ -1,0 +1,60 @@
+{
+  "name": "EreaDrone",
+  "source": "spectre",
+  "changenumber": 40599691,
+  "updated": "2026-11-06T21:04:17.107Z",
+  "branches": {
+    "public": {
+      "buildid": "26166365",
+      "timeupdated": "1792797346",
+      "timebuildupdated": "1792775771"
+    },
+    "local": {
+      "buildid": "9239523",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1659468969",
+      "timebuildupdated": "1659468969"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229033": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1301061": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6674717933204400571",
+          "size": "36802552753",
+          "download": "28474584656"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26166365",
+        "timeupdated": "1792797346",
+        "timebuildupdated": "1792775771"
+      },
+      "local": {
+        "buildid": "9239523",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1659468969",
+        "timebuildupdated": "1659468969"
+      }
+    }
+  }
+}

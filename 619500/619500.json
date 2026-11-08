@@ -1,0 +1,75 @@
+{
+  "name": "cyubeVR",
+  "source": "spectre",
+  "changenumber": 40616441,
+  "updated": "2026-11-07T20:59:18.485Z",
+  "branches": {
+    "public": {
+      "buildid": "24232383",
+      "timeupdated": "1784331946",
+      "timebuildupdated": "1784173220"
+    },
+    "ue4-update58": {
+      "buildid": "17286602",
+      "description": "Update 58 with Unreal Engine 4. You can use this if you encounter issues with the new Unreal Engine 5 update.",
+      "timeupdated": "1738969732",
+      "timebuildupdated": "1738968960"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "619501": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6599732483110077804",
+          "size": "21810881886",
+          "download": "11195876560"
+        }
+      }
+    },
+    "619502": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24232383",
+        "timeupdated": "1784331946",
+        "timebuildupdated": "1784173220"
+      },
+      "ue4-update58": {
+        "buildid": "17286602",
+        "description": "Update 58 with Unreal Engine 4. You can use this if you encounter issues with the new Unreal Engine 5 update.",
+        "timeupdated": "1738969732",
+        "timebuildupdated": "1738968960"
+      }
+    }
+  }
+}

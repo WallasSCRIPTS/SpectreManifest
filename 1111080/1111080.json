@@ -1,0 +1,74 @@
+{
+  "name": "Ghost Feed",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:23.912Z",
+  "branches": {
+    "public": {
+      "buildid": "12769301",
+      "timeupdated": "1700645752",
+      "timebuildupdated": "1700645329"
+    },
+    "local": {
+      "buildid": "10828625",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1679490932",
+      "timebuildupdated": "1679486307"
+    },
+    "test0322": {
+      "buildid": "10828625",
+      "description": "FOR TEST",
+      "lcsrequired": "1",
+      "timeupdated": "1679489102",
+      "timebuildupdated": "1679486307"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1111081": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5187045191428938874",
+          "size": "1238504585",
+          "download": "1158088368"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12769301",
+        "timeupdated": "1700645752",
+        "timebuildupdated": "1700645329"
+      },
+      "local": {
+        "buildid": "10828625",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1679490932",
+        "timebuildupdated": "1679486307"
+      },
+      "test0322": {
+        "buildid": "10828625",
+        "description": "FOR TEST",
+        "lcsrequired": "1",
+        "timeupdated": "1679489102",
+        "timebuildupdated": "1679486307"
+      }
+    }
+  }
+}

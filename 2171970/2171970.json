@@ -1,0 +1,82 @@
+{
+  "name": "Unified",
+  "source": "spectre",
+  "changenumber": 40062413,
+  "updated": "2026-11-06T23:19:27.045Z",
+  "branches": {
+    "public": {
+      "buildid": "9637185",
+      "timeupdated": "1664721871",
+      "timebuildupdated": "1664721850"
+    },
+    "linux": {
+      "buildid": "9637036",
+      "description": "linux",
+      "timeupdated": "1664718286",
+      "timebuildupdated": "1664718286"
+    },
+    "macos": {
+      "buildid": "9637026",
+      "description": "macos",
+      "timeupdated": "1664718078",
+      "timebuildupdated": "1664718078"
+    },
+    "windows": {
+      "buildid": "9637021",
+      "description": "windows",
+      "timeupdated": "1664721200",
+      "timebuildupdated": "1664718010"
+    }
+  },
+  "depot": {
+    "2171971": {
+      "manifests": {
+        "public": {
+          "gid": "8407032495273383809",
+          "size": "185282542",
+          "download": "136207584"
+        }
+      }
+    },
+    "2171972": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "2171973": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "2171974": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9637185",
+        "timeupdated": "1664721871",
+        "timebuildupdated": "1664721850"
+      },
+      "linux": {
+        "buildid": "9637036",
+        "description": "linux",
+        "timeupdated": "1664718286",
+        "timebuildupdated": "1664718286"
+      },
+      "macos": {
+        "buildid": "9637026",
+        "description": "macos",
+        "timeupdated": "1664718078",
+        "timebuildupdated": "1664718078"
+      },
+      "windows": {
+        "buildid": "9637021",
+        "description": "windows",
+        "timeupdated": "1664721200",
+        "timebuildupdated": "1664718010"
+      }
+    }
+  }
+}

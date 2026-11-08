@@ -1,0 +1,78 @@
+{
+  "name": "Space Warp",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:42.416Z",
+  "branches": {
+    "public": {
+      "buildid": "452476",
+      "timebuildupdated": "1416805404"
+    },
+    "beta": {
+      "buildid": "452476",
+      "description": "Latest Hotfixes",
+      "timebuildupdated": "1416805404"
+    },
+    "local": {
+      "buildid": "419007",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1414075615"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "326471": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "564896276839292277",
+          "size": "65948740",
+          "download": "62800720"
+        }
+      }
+    },
+    "326472": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3149867544493098221",
+          "size": "70158497",
+          "download": "64904176"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "452476",
+        "timebuildupdated": "1416805404"
+      },
+      "beta": {
+        "buildid": "452476",
+        "description": "Latest Hotfixes",
+        "timebuildupdated": "1416805404"
+      },
+      "local": {
+        "buildid": "419007",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1414075615"
+      }
+    }
+  }
+}

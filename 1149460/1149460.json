@@ -1,0 +1,91 @@
+{
+  "name": "Icarus",
+  "source": "spectre",
+  "changenumber": 40645771,
+  "updated": "2026-11-07T21:03:45.096Z",
+  "branches": {
+    "public": {
+      "buildid": "26425211",
+      "timeupdated": "1793912317",
+      "timebuildupdated": "1793775056"
+    },
+    "2.2.57": {
+      "buildid": "18602912",
+      "description": "Pre-Ring Lake Change",
+      "timeupdated": "1749248035",
+      "timebuildupdated": "1748202525"
+    },
+    "experimental": {
+      "buildid": "26425211",
+      "description": "Predeployment Testing",
+      "timeupdated": "1793826216",
+      "timebuildupdated": "1793775056"
+    },
+    "gamescom": {
+      "buildid": "25494131",
+      "description": "Build for Gamescom 2026",
+      "timeupdated": "1790287273",
+      "timebuildupdated": "1790208897"
+    },
+    "pre-dangerous-horizons": {
+      "buildid": "22132020",
+      "description": "Pre-Dangerous Horizons Release",
+      "timeupdated": "1772708176",
+      "timebuildupdated": "1772213367"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1149461": {
+      "manifests": {
+        "public": {
+          "gid": "617998030451869623",
+          "size": "54521383209",
+          "download": "43616515776"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26425211",
+        "timeupdated": "1793912317",
+        "timebuildupdated": "1793775056"
+      },
+      "2.2.57": {
+        "buildid": "18602912",
+        "description": "Pre-Ring Lake Change",
+        "timeupdated": "1749248035",
+        "timebuildupdated": "1748202525"
+      },
+      "experimental": {
+        "buildid": "26425211",
+        "description": "Predeployment Testing",
+        "timeupdated": "1793826216",
+        "timebuildupdated": "1793775056"
+      },
+      "gamescom": {
+        "buildid": "25494131",
+        "description": "Build for Gamescom 2026",
+        "timeupdated": "1790287273",
+        "timebuildupdated": "1790208897"
+      },
+      "pre-dangerous-horizons": {
+        "buildid": "22132020",
+        "description": "Pre-Dangerous Horizons Release",
+        "timeupdated": "1772708176",
+        "timebuildupdated": "1772213367"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Limited Lifetime Corp",
+  "source": "spectre",
+  "changenumber": 37629685,
+  "updated": "2026-11-06T23:15:38.855Z",
+  "branches": {
+    "public": {
+      "buildid": "20635596",
+      "timeupdated": "1762029295",
+      "timebuildupdated": "1762029110"
+    },
+    "beta": {
+      "buildid": "20635596",
+      "description": "Test branch for future release builds",
+      "timeupdated": "1762029163",
+      "timebuildupdated": "1762029110"
+    }
+  },
+  "depot": {
+    "2055721": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5235046525281068448",
+          "size": "470707149",
+          "download": "151601968"
+        }
+      }
+    },
+    "2055722": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1350804332635873660",
+          "size": "471034615",
+          "download": "151861744"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20635596",
+        "timeupdated": "1762029295",
+        "timebuildupdated": "1762029110"
+      },
+      "beta": {
+        "buildid": "20635596",
+        "description": "Test branch for future release builds",
+        "timeupdated": "1762029163",
+        "timebuildupdated": "1762029110"
+      }
+    }
+  }
+}

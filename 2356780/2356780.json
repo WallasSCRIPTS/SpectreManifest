@@ -1,0 +1,70 @@
+{
+  "name": "Dungeon Clawler",
+  "source": "spectre",
+  "changenumber": 40299653,
+  "updated": "2026-11-06T23:23:18.715Z",
+  "branches": {
+    "public": {
+      "buildid": "25599882",
+      "timeupdated": "1792481328",
+      "timebuildupdated": "1790676770"
+    },
+    "testing": {
+      "buildid": "26241398",
+      "description": "Test upcoming updates",
+      "timeupdated": "1793110140",
+      "timebuildupdated": "1793098843"
+    }
+  },
+  "depot": {
+    "2356782": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8338923804257003143",
+          "size": "2453382891",
+          "download": "370768736"
+        }
+      }
+    },
+    "2356783": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3420431661798745547",
+          "size": "2468764260",
+          "download": "378379840"
+        }
+      }
+    },
+    "2356784": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6804068163137889092",
+          "size": "2494493864",
+          "download": "369447792"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25599882",
+        "timeupdated": "1792481328",
+        "timebuildupdated": "1790676770"
+      },
+      "testing": {
+        "buildid": "26241398",
+        "description": "Test upcoming updates",
+        "timeupdated": "1793110140",
+        "timebuildupdated": "1793098843"
+      }
+    }
+  }
+}

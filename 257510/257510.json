@@ -1,0 +1,241 @@
+{
+  "name": "The Talos Principle",
+  "source": "spectre",
+  "changenumber": 40181920,
+  "updated": "2026-11-07T20:56:14.452Z",
+  "branches": {
+    "public": {
+      "buildid": "3897867",
+      "timeupdated": "1560427262",
+      "timebuildupdated": "1559909989"
+    },
+    "legacy": {
+      "buildid": "2228502",
+      "description": "pre-SE2017 build",
+      "timeupdated": "1558528587",
+      "timebuildupdated": "1508934635"
+    },
+    "legacy_winxp": {
+      "buildid": "941253",
+      "description": "For Windows XP",
+      "timeupdated": "1461245712",
+      "timebuildupdated": "1453389343"
+    },
+    "legacylinux": {
+      "buildid": "941253",
+      "description": "For Ubuntu 13.10 or older",
+      "timebuildupdated": "1453389343"
+    },
+    "legacyosx": {
+      "buildid": "844671",
+      "description": "For Mac OS X 10.6 Snow Leopard",
+      "timebuildupdated": "1446654205"
+    },
+    "previousversion": {
+      "buildid": "2228502",
+      "timeupdated": "1553807920",
+      "timebuildupdated": "1508934635"
+    },
+    "publicbeta": {
+      "buildid": "3897867",
+      "description": "Public testing",
+      "timeupdated": "1559913678",
+      "timebuildupdated": "1559909989"
+    },
+    "speedrun-244371": {
+      "buildid": "4713431",
+      "description": "A legacy build for the Speed Running Community - Last Instant Portals version",
+      "timeupdated": "1582637636",
+      "timebuildupdated": "1582637636"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "257511": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "799213806328220919",
+          "size": "66117856",
+          "download": "19726960"
+        }
+      }
+    },
+    "257512": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5631337394047896505",
+          "size": "83260912",
+          "download": "22532000"
+        }
+      }
+    },
+    "257513": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5434093492489172671",
+          "size": "111183056",
+          "download": "28163808"
+        }
+      }
+    },
+    "257515": {
+      "manifests": {
+        "public": {
+          "gid": "3279814669572335644",
+          "size": "5667320739",
+          "download": "5680724128"
+        }
+      }
+    },
+    "257516": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7924825898116512954",
+          "size": "34207184",
+          "download": "9959456"
+        }
+      }
+    },
+    "257517": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5072312544050288384",
+          "size": "457332",
+          "download": "60384"
+        }
+      }
+    },
+    "257518": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4116596187390052645",
+          "size": "197498",
+          "download": "41856"
+        }
+      }
+    },
+    "257519": {
+      "manifests": {
+        "public": {
+          "gid": "1170103677162582368",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "257521": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "322021": {
+      "manifests": {
+        "public": {
+          "gid": "8713693664225184971",
+          "size": "793612662",
+          "download": "778682304"
+        }
+      },
+      "dlcappid": "322021"
+    },
+    "322022": {
+      "manifests": {
+        "public": {
+          "gid": "8229910699963260352",
+          "size": "201589569",
+          "download": "202628640"
+        }
+      },
+      "dlcappid": "322022"
+    },
+    "358470": {
+      "manifests": {
+        "public": {
+          "gid": "981576150363927305",
+          "size": "883262060",
+          "download": "884965072"
+        }
+      },
+      "dlcappid": "358470"
+    },
+    "360820": {
+      "manifests": {
+        "public": {
+          "gid": "924741356918057377",
+          "size": "50114871",
+          "download": "50654192"
+        }
+      },
+      "dlcappid": "360820"
+    },
+    "branches": {
+      "public": {
+        "buildid": "3897867",
+        "timeupdated": "1560427262",
+        "timebuildupdated": "1559909989"
+      },
+      "legacy": {
+        "buildid": "2228502",
+        "description": "pre-SE2017 build",
+        "timeupdated": "1558528587",
+        "timebuildupdated": "1508934635"
+      },
+      "legacy_winxp": {
+        "buildid": "941253",
+        "description": "For Windows XP",
+        "timeupdated": "1461245712",
+        "timebuildupdated": "1453389343"
+      },
+      "legacylinux": {
+        "buildid": "941253",
+        "description": "For Ubuntu 13.10 or older",
+        "timebuildupdated": "1453389343"
+      },
+      "legacyosx": {
+        "buildid": "844671",
+        "description": "For Mac OS X 10.6 Snow Leopard",
+        "timebuildupdated": "1446654205"
+      },
+      "previousversion": {
+        "buildid": "2228502",
+        "timeupdated": "1553807920",
+        "timebuildupdated": "1508934635"
+      },
+      "publicbeta": {
+        "buildid": "3897867",
+        "description": "Public testing",
+        "timeupdated": "1559913678",
+        "timebuildupdated": "1559909989"
+      },
+      "speedrun-244371": {
+        "buildid": "4713431",
+        "description": "A legacy build for the Speed Running Community - Last Instant Portals version",
+        "timeupdated": "1582637636",
+        "timebuildupdated": "1582637636"
+      }
+    }
+  }
+}

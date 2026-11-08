@@ -1,0 +1,55 @@
+{
+  "name": "DOOM + DOOM II",
+  "source": "spectre",
+  "changenumber": 39176880,
+  "updated": "2026-11-07T20:55:41.215Z",
+  "branches": {
+    "public": {
+      "buildid": "18101668",
+      "timeupdated": "1745939347",
+      "timebuildupdated": "1744647058"
+    },
+    "previous-re-rerelease": {
+      "buildid": "5619887",
+      "description": "2019 version of DOOM (1993)",
+      "timeupdated": "1723143965",
+      "timebuildupdated": "1601519444"
+    }
+  },
+  "depot": {
+    "2281": {
+      "manifests": {
+        "public": {
+          "gid": "557527948370603647",
+          "size": "1224795563",
+          "download": "939560880"
+        }
+      }
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "18101668",
+        "timeupdated": "1745939347",
+        "timebuildupdated": "1744647058"
+      },
+      "previous-re-rerelease": {
+        "buildid": "5619887",
+        "description": "2019 version of DOOM (1993)",
+        "timeupdated": "1723143965",
+        "timebuildupdated": "1601519444"
+      }
+    }
+  }
+}

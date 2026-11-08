@@ -1,0 +1,64 @@
+{
+  "name": "Towertale",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:11.990Z",
+  "branches": {
+    "public": {
+      "buildid": "5146926",
+      "timeupdated": "1591814583",
+      "timebuildupdated": "1591814583"
+    }
+  },
+  "depot": {
+    "229000": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "980481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5260668217366193073",
+          "size": "1951006908",
+          "download": "486240208"
+        }
+      }
+    },
+    "980482": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1538485243032628361",
+          "size": "2004401970",
+          "download": "504681792"
+        }
+      }
+    },
+    "980483": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1536515731338281321",
+          "size": "1360418665",
+          "download": "414056128"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5146926",
+        "timeupdated": "1591814583",
+        "timebuildupdated": "1591814583"
+      }
+    }
+  }
+}

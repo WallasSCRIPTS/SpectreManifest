@@ -1,0 +1,80 @@
+{
+  "name": "Satellite Repairman",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:51.716Z",
+  "branches": {
+    "public": {
+      "buildid": "1827242",
+      "timeupdated": "1495014404",
+      "timebuildupdated": "1495014348"
+    },
+    "beta": {
+      "buildid": "1812785",
+      "description": "Upcoming features and fixes",
+      "timeupdated": "1494432896",
+      "timebuildupdated": "1494432886"
+    },
+    "macos": {
+      "buildid": "1630052",
+      "timeupdated": "1495272480",
+      "timebuildupdated": "1487069051"
+    }
+  },
+  "depot": {
+    "567781": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3379639400652885020",
+          "size": "87906343",
+          "download": "70226512"
+        }
+      }
+    },
+    "567782": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "49098532589210434",
+          "size": "98607153",
+          "download": "72804624"
+        }
+      }
+    },
+    "567783": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4556812799047523225",
+          "size": "101120336",
+          "download": "72949920"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1827242",
+        "timeupdated": "1495014404",
+        "timebuildupdated": "1495014348"
+      },
+      "beta": {
+        "buildid": "1812785",
+        "description": "Upcoming features and fixes",
+        "timeupdated": "1494432896",
+        "timebuildupdated": "1494432886"
+      },
+      "macos": {
+        "buildid": "1630052",
+        "timeupdated": "1495272480",
+        "timebuildupdated": "1487069051"
+      }
+    }
+  }
+}

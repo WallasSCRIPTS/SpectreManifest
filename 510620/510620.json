@@ -1,0 +1,67 @@
+{
+  "name": "THOTH",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:23.990Z",
+  "branches": {
+    "public": {
+      "buildid": "4183420",
+      "timeupdated": "1568629404",
+      "timebuildupdated": "1568130811"
+    },
+    "legacy": {
+      "buildid": "1930476",
+      "description": "2016 version",
+      "timeupdated": "1498918571",
+      "timebuildupdated": "1498918571"
+    }
+  },
+  "depot": {
+    "510621": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "487112835047435538",
+          "size": "205161472",
+          "download": "163056352"
+        }
+      }
+    },
+    "510622": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5105590251342007834",
+          "size": "218988858",
+          "download": "165704976"
+        }
+      }
+    },
+    "667860": {
+      "manifests": {
+        "public": {
+          "gid": "4441113238494228668",
+          "size": "435956434",
+          "download": "440493136"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4183420",
+        "timeupdated": "1568629404",
+        "timebuildupdated": "1568130811"
+      },
+      "legacy": {
+        "buildid": "1930476",
+        "description": "2016 version",
+        "timeupdated": "1498918571",
+        "timebuildupdated": "1498918571"
+      }
+    }
+  }
+}

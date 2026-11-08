@@ -1,0 +1,94 @@
+{
+  "name": "Kin's Chronicle",
+  "source": "spectre",
+  "changenumber": 40062413,
+  "updated": "2026-11-06T21:06:37.508Z",
+  "branches": {
+    "public": {
+      "buildid": "12566478",
+      "timeupdated": "1698606440",
+      "timebuildupdated": "1698606406"
+    },
+    "beta": {
+      "buildid": "12566478",
+      "description": "Playtest Branch",
+      "timeupdated": "1698606406",
+      "timebuildupdated": "1698606406"
+    },
+    "v0.42": {
+      "buildid": "7631688",
+      "description": "Previous Stable Version",
+      "timeupdated": "1695493240",
+      "timebuildupdated": "1635642518"
+    }
+  },
+  "depot": {
+    "1617801": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7674578534086949194",
+          "size": "540111113",
+          "download": "312521392"
+        }
+      }
+    },
+    "1617802": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5824734308844511250",
+          "size": "554497488",
+          "download": "132325856"
+        }
+      }
+    },
+    "1617803": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2967512044181101175",
+          "size": "428398468",
+          "download": "119510848"
+        }
+      }
+    },
+    "1617804": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7782837726293028771",
+          "size": "897298908",
+          "download": "421372768"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12566478",
+        "timeupdated": "1698606440",
+        "timebuildupdated": "1698606406"
+      },
+      "beta": {
+        "buildid": "12566478",
+        "description": "Playtest Branch",
+        "timeupdated": "1698606406",
+        "timebuildupdated": "1698606406"
+      },
+      "v0.42": {
+        "buildid": "7631688",
+        "description": "Previous Stable Version",
+        "timeupdated": "1695493240",
+        "timebuildupdated": "1635642518"
+      }
+    }
+  }
+}

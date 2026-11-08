@@ -1,0 +1,102 @@
+{
+  "name": "Holy Potatoes! A Weapon Shop?!",
+  "source": "spectre",
+  "changenumber": 37433691,
+  "updated": "2026-11-07T20:57:10.121Z",
+  "branches": {
+    "public": {
+      "buildid": "4285085",
+      "timeupdated": "1601419803",
+      "timebuildupdated": "1571051552"
+    },
+    "beta1": {
+      "buildid": "1047810",
+      "description": "Beta Testing Branch",
+      "timeupdated": "1489737252",
+      "timebuildupdated": "1459311637"
+    },
+    "live_test": {
+      "buildid": "1821662",
+      "description": "testing v1.1.0",
+      "timeupdated": "1494822573",
+      "timebuildupdated": "1494822063"
+    },
+    "previous_version": {
+      "buildid": "2854110",
+      "timeupdated": "1541785076",
+      "timebuildupdated": "1528787511"
+    }
+  },
+  "depot": {
+    "363601": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7387767993653648079",
+          "size": "2688308926",
+          "download": "232051088"
+        }
+      }
+    },
+    "363602": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "378556502422087475",
+          "size": "2637209552",
+          "download": "217302128"
+        }
+      }
+    },
+    "363603": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1424806365044070048",
+          "size": "2684180759",
+          "download": "232289872"
+        }
+      }
+    },
+    "391860": {
+      "manifests": {
+        "public": {
+          "gid": "6950478326005789511",
+          "size": "6153",
+          "download": "272"
+        }
+      },
+      "dlcappid": "391860"
+    },
+    "branches": {
+      "public": {
+        "buildid": "4285085",
+        "timeupdated": "1601419803",
+        "timebuildupdated": "1571051552"
+      },
+      "beta1": {
+        "buildid": "1047810",
+        "description": "Beta Testing Branch",
+        "timeupdated": "1489737252",
+        "timebuildupdated": "1459311637"
+      },
+      "live_test": {
+        "buildid": "1821662",
+        "description": "testing v1.1.0",
+        "timeupdated": "1494822573",
+        "timebuildupdated": "1494822063"
+      },
+      "previous_version": {
+        "buildid": "2854110",
+        "timeupdated": "1541785076",
+        "timebuildupdated": "1528787511"
+      }
+    }
+  }
+}

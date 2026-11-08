@@ -1,0 +1,68 @@
+{
+  "name": "Midnight Ultra",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:14.018Z",
+  "branches": {
+    "public": {
+      "buildid": "3737350",
+      "timeupdated": "1555300958",
+      "timebuildupdated": "1555290324"
+    },
+    "testing": {
+      "buildid": "2263486",
+      "timeupdated": "1510045860",
+      "timebuildupdated": "1510045727"
+    }
+  },
+  "depot": {
+    "731591": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2963549459887553770",
+          "size": "773505961",
+          "download": "444063328"
+        }
+      }
+    },
+    "731593": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8488932303861012629",
+          "size": "778349643",
+          "download": "448108416"
+        }
+      }
+    },
+    "731594": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7858429210878447647",
+          "size": "819807750",
+          "download": "462348672"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3737350",
+        "timeupdated": "1555300958",
+        "timebuildupdated": "1555290324"
+      },
+      "testing": {
+        "buildid": "2263486",
+        "timeupdated": "1510045860",
+        "timebuildupdated": "1510045727"
+      }
+    }
+  }
+}

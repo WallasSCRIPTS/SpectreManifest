@@ -1,0 +1,58 @@
+{
+  "name": "STARVAULT: PC Spectator",
+  "source": "spectre",
+  "changenumber": 39320115,
+  "updated": "2026-11-04T23:24:45.083Z",
+  "branches": {
+    "public": {
+      "buildid": "25611442",
+      "timeupdated": "1790712243",
+      "timebuildupdated": "1790711346"
+    },
+    "publictest": {
+      "buildid": "24866968",
+      "description": "Public test environment for upcoming patches. Play early, report issues, and help us polish the update before full release.",
+      "timeupdated": "1787331871",
+      "timebuildupdated": "1787331619"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "4112091": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8444250589860583628",
+          "size": "9087234366",
+          "download": "7437244768"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25611442",
+        "timeupdated": "1790712243",
+        "timebuildupdated": "1790711346"
+      },
+      "publictest": {
+        "buildid": "24866968",
+        "description": "Public test environment for upcoming patches. Play early, report issues, and help us polish the update before full release.",
+        "timeupdated": "1787331871",
+        "timebuildupdated": "1787331619"
+      }
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Bridge Project",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:07.818Z",
+  "branches": {
+    "public": {
+      "buildid": "372509",
+      "timebuildupdated": "1409781144"
+    },
+    "beta_bridge": {
+      "buildid": "349753",
+      "description": "Beta test Bridge project",
+      "timebuildupdated": "1407441578"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "232951": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7302655242693195370",
+          "size": "1398427584",
+          "download": "0"
+        }
+      }
+    },
+    "232952": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5030705341791908759",
+          "size": "1309827065",
+          "download": "1569896725642"
+        }
+      }
+    },
+    "232953": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6847338792248629973",
+          "size": "1402976564",
+          "download": "0"
+        }
+      }
+    },
+    "232954": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8023858929821230220",
+          "size": "1398671168",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "372509",
+        "timebuildupdated": "1409781144"
+      },
+      "beta_bridge": {
+        "buildid": "349753",
+        "description": "Beta test Bridge project",
+        "timebuildupdated": "1407441578"
+      }
+    }
+  }
+}

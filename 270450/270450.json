@@ -1,0 +1,80 @@
+{
+  "name": "Robot Roller-Derby Disco Dodgeball",
+  "source": "spectre",
+  "changenumber": 40682293,
+  "updated": "2026-11-07T20:56:18.843Z",
+  "branches": {
+    "public": {
+      "buildid": "26492867",
+      "timeupdated": "1793993580",
+      "timebuildupdated": "1793992700"
+    },
+    "beta": {
+      "buildid": "26492867",
+      "timeupdated": "1793992700",
+      "timebuildupdated": "1793992700"
+    },
+    "legacy": {
+      "buildid": "21748506",
+      "description": "Version 9 that allows Windows 7",
+      "timeupdated": "1770041180",
+      "timebuildupdated": "1770040995"
+    }
+  },
+  "depot": {
+    "270451": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4932404285454397699",
+          "size": "609958779",
+          "download": "331862208"
+        }
+      }
+    },
+    "270452": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8575559439380590787",
+          "size": "625541946",
+          "download": "339534912"
+        }
+      }
+    },
+    "270453": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3965856915596245263",
+          "size": "608134435",
+          "download": "328642656"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26492867",
+        "timeupdated": "1793993580",
+        "timebuildupdated": "1793992700"
+      },
+      "beta": {
+        "buildid": "26492867",
+        "timeupdated": "1793992700",
+        "timebuildupdated": "1793992700"
+      },
+      "legacy": {
+        "buildid": "21748506",
+        "description": "Version 9 that allows Windows 7",
+        "timeupdated": "1770041180",
+        "timebuildupdated": "1770040995"
+      }
+    }
+  }
+}

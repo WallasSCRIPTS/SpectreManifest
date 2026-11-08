@@ -1,0 +1,70 @@
+{
+  "name": "Aztez",
+  "source": "spectre",
+  "changenumber": 39464035,
+  "updated": "2026-11-07T20:56:10.571Z",
+  "branches": {
+    "public": {
+      "buildid": "2076781",
+      "timeupdated": "1504025532",
+      "timebuildupdated": "1504025513"
+    },
+    "testing": {
+      "buildid": "2076781",
+      "description": "Early access to new builds",
+      "timeupdated": "1504025515",
+      "timebuildupdated": "1504025513"
+    }
+  },
+  "depot": {
+    "244751": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2678048563883934718",
+          "size": "704115889",
+          "download": "195716720"
+        }
+      }
+    },
+    "244752": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3825413971018726222",
+          "size": "720529270",
+          "download": "199360016"
+        }
+      }
+    },
+    "244753": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6799952101758754826",
+          "size": "722380853",
+          "download": "200931760"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2076781",
+        "timeupdated": "1504025532",
+        "timebuildupdated": "1504025513"
+      },
+      "testing": {
+        "buildid": "2076781",
+        "description": "Early access to new builds",
+        "timeupdated": "1504025515",
+        "timebuildupdated": "1504025513"
+      }
+    }
+  }
+}

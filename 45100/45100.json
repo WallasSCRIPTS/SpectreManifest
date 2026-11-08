@@ -1,0 +1,72 @@
+{
+  "name": "Secret of the Magic Crystal",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:54.894Z",
+  "branches": {
+    "public": {
+      "buildid": "421940",
+      "timebuildupdated": "1414265733"
+    }
+  },
+  "depot": {
+    "45101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7144414359961295069",
+          "size": "399027736",
+          "download": "222789248"
+        }
+      }
+    },
+    "45102": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5385733301666267658",
+          "size": "401356656",
+          "download": "224045408"
+        }
+      }
+    },
+    "45103": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1447734209618435468",
+          "size": "399125518",
+          "download": "224373488"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "321420": {
+      "manifests": {
+        "public": {
+          "gid": "6637710186577139563",
+          "size": "51121019",
+          "download": "49540528"
+        }
+      },
+      "dlcappid": "321420"
+    },
+    "branches": {
+      "public": {
+        "buildid": "421940",
+        "timebuildupdated": "1414265733"
+      }
+    }
+  }
+}

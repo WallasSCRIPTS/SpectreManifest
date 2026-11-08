@@ -1,0 +1,58 @@
+{
+  "name": "The Puppet Master",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T20:58:38.986Z",
+  "branches": {
+    "public": {
+      "buildid": "1397953",
+      "timeupdated": "1476777146",
+      "timebuildupdated": "1476776537"
+    }
+  },
+  "depot": {
+    "544521": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6537893218479696463",
+          "size": "824431270",
+          "download": "74973120"
+        }
+      }
+    },
+    "544522": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7381852704156876511",
+          "size": "866140957",
+          "download": "85945968"
+        }
+      }
+    },
+    "544523": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2071158950399952861",
+          "size": "857676175",
+          "download": "84808528"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1397953",
+        "timeupdated": "1476777146",
+        "timebuildupdated": "1476776537"
+      }
+    }
+  }
+}

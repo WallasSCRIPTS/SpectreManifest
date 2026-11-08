@@ -1,0 +1,80 @@
+{
+  "name": "Iron Armada",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-07T20:59:00.623Z",
+  "branches": {
+    "public": {
+      "buildid": "6369450",
+      "timeupdated": "1615520870",
+      "timebuildupdated": "1615520381"
+    },
+    "stable": {
+      "buildid": "5391434",
+      "description": "Latest stable build",
+      "timeupdated": "1597032162",
+      "timebuildupdated": "1597032161"
+    },
+    "testing": {
+      "buildid": "6369450",
+      "description": "Latest stable build for testing",
+      "timeupdated": "1615520381",
+      "timebuildupdated": "1615520381"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "581911": {
+      "manifests": {
+        "public": {
+          "gid": "687359688162001759",
+          "size": "240876696",
+          "download": "204925376"
+        }
+      }
+    },
+    "770341": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2713877492519086479",
+          "size": "105070411",
+          "download": "63265760"
+        }
+      },
+      "depotfromapp": "770340"
+    },
+    "branches": {
+      "public": {
+        "buildid": "6369450",
+        "timeupdated": "1615520870",
+        "timebuildupdated": "1615520381"
+      },
+      "stable": {
+        "buildid": "5391434",
+        "description": "Latest stable build",
+        "timeupdated": "1597032162",
+        "timebuildupdated": "1597032161"
+      },
+      "testing": {
+        "buildid": "6369450",
+        "description": "Latest stable build for testing",
+        "timeupdated": "1615520381",
+        "timebuildupdated": "1615520381"
+      }
+    }
+  }
+}

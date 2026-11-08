@@ -1,0 +1,94 @@
+{
+  "name": "Pichon",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:17.147Z",
+  "branches": {
+    "public": {
+      "buildid": "11489353",
+      "timeupdated": "1686927013",
+      "timebuildupdated": "1686926632"
+    },
+    "v162": {
+      "buildid": "3030034",
+      "description": "Old version 1.6.2",
+      "timeupdated": "1644205834",
+      "timebuildupdated": "1534210565"
+    },
+    "public_beta": {
+      "buildid": "21549971",
+      "description": "public beta",
+      "timeupdated": "1768796641",
+      "timebuildupdated": "1768796641"
+    },
+    "v182": {
+      "buildid": "11489353",
+      "description": "Last Phaser version",
+      "timeupdated": "1768784845",
+      "timebuildupdated": "1686926632"
+    }
+  },
+  "depot": {
+    "497191": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4776444440497795682",
+          "size": "192298561",
+          "download": "68045952"
+        }
+      }
+    },
+    "497192": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8176484662486551146",
+          "size": "234413315",
+          "download": "69011616"
+        }
+      }
+    },
+    "497193": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1313184053083903012",
+          "size": "244631467",
+          "download": "79605552"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11489353",
+        "timeupdated": "1686927013",
+        "timebuildupdated": "1686926632"
+      },
+      "v162": {
+        "buildid": "3030034",
+        "description": "Old version 1.6.2",
+        "timeupdated": "1644205834",
+        "timebuildupdated": "1534210565"
+      },
+      "public_beta": {
+        "buildid": "21549971",
+        "description": "public beta",
+        "timeupdated": "1768796641",
+        "timebuildupdated": "1768796641"
+      },
+      "v182": {
+        "buildid": "11489353",
+        "description": "Last Phaser version",
+        "timeupdated": "1768784845",
+        "timebuildupdated": "1686926632"
+      }
+    }
+  }
+}

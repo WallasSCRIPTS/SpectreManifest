@@ -1,0 +1,46 @@
+{
+  "name": "Operation: Harsh Doorstop - Dedicated Server",
+  "source": "spectre",
+  "changenumber": 40069508,
+  "updated": "2026-11-07T21:01:55.359Z",
+  "branches": {
+    "public": {
+      "buildid": "26092802",
+      "timeupdated": "1792552386",
+      "timebuildupdated": "1792538456"
+    }
+  },
+  "depot": {
+    "950901": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6059290602462995224",
+          "size": "6955623553",
+          "download": "3162787376"
+        }
+      }
+    },
+    "950902": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5567983248134770252",
+          "size": "7006652644",
+          "download": "3176767120"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26092802",
+        "timeupdated": "1792552386",
+        "timebuildupdated": "1792538456"
+      }
+    }
+  }
+}

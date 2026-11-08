@@ -1,0 +1,55 @@
+{
+  "name": "Deadside",
+  "source": "spectre",
+  "changenumber": 40689050,
+  "updated": "2026-11-07T21:01:31.027Z",
+  "branches": {
+    "public": {
+      "buildid": "26158882",
+      "timeupdated": "1792760592",
+      "timebuildupdated": "1792755113"
+    },
+    "public_test_server": {
+      "buildid": "26158882",
+      "description": "PTS",
+      "timeupdated": "1792755113",
+      "timebuildupdated": "1792755113"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "895401": {
+      "manifests": {
+        "public": {
+          "gid": "1733503114355621568",
+          "size": "36458616882",
+          "download": "17599293744"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26158882",
+        "timeupdated": "1792760592",
+        "timebuildupdated": "1792755113"
+      },
+      "public_test_server": {
+        "buildid": "26158882",
+        "description": "PTS",
+        "timeupdated": "1792755113",
+        "timebuildupdated": "1792755113"
+      }
+    }
+  }
+}

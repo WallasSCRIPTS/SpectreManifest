@@ -1,0 +1,83 @@
+{
+  "name": "Roto Force",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:04:01.540Z",
+  "branches": {
+    "public": {
+      "buildid": "16836387",
+      "timeupdated": "1764895249",
+      "timebuildupdated": "1734971465"
+    },
+    "beta": {
+      "buildid": "16836387",
+      "description": "New Changes will be available here first.",
+      "timeupdated": "1734971465",
+      "timebuildupdated": "1734971465"
+    },
+    "gamma": {
+      "buildid": "24317686",
+      "description": "Bleeding edge experimental branch",
+      "timeupdated": "1784649099",
+      "timebuildupdated": "1784649099"
+    }
+  },
+  "depot": {
+    "1181611": {},
+    "1181612": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5590419929137719961",
+          "size": "217314607",
+          "download": "134297632"
+        }
+      }
+    },
+    "1181613": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1824006665968606705",
+          "size": "181385090",
+          "download": "144638160"
+        }
+      }
+    },
+    "1181614": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5488344044588607966",
+          "size": "176922392",
+          "download": "147983328"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16836387",
+        "timeupdated": "1764895249",
+        "timebuildupdated": "1734971465"
+      },
+      "beta": {
+        "buildid": "16836387",
+        "description": "New Changes will be available here first.",
+        "timeupdated": "1734971465",
+        "timebuildupdated": "1734971465"
+      },
+      "gamma": {
+        "buildid": "24317686",
+        "description": "Bleeding edge experimental branch",
+        "timeupdated": "1784649099",
+        "timebuildupdated": "1784649099"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Hazard Levels",
+  "source": "spectre",
+  "changenumber": 40631482,
+  "updated": "2026-11-06T21:04:46.253Z",
+  "branches": {
+    "public": {
+      "buildid": "26440527",
+      "timeupdated": "1793829133",
+      "timebuildupdated": "1793821211"
+    },
+    "publictest": {
+      "buildid": "26440527",
+      "description": "Public test branch",
+      "timeupdated": "1793828761",
+      "timebuildupdated": "1793821211"
+    }
+  },
+  "depot": {
+    "1374681": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3551680071126545715",
+          "size": "19110378489",
+          "download": "8898650816"
+        }
+      }
+    },
+    "1374682": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6980633100853061941",
+          "size": "61057213",
+          "download": "57546704"
+        }
+      }
+    },
+    "1374683": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8191422575043049452",
+          "size": "45868",
+          "download": "57264"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26440527",
+        "timeupdated": "1793829133",
+        "timebuildupdated": "1793821211"
+      },
+      "publictest": {
+        "buildid": "26440527",
+        "description": "Public test branch",
+        "timeupdated": "1793828761",
+        "timebuildupdated": "1793821211"
+      }
+    }
+  }
+}

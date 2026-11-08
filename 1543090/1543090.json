@@ -1,0 +1,60 @@
+{
+  "name": "LiBER",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:06:01.116Z",
+  "branches": {
+    "public": {
+      "buildid": "11759384",
+      "timeupdated": "1689963768",
+      "timebuildupdated": "1689956719"
+    },
+    "local": {
+      "buildid": "9787896",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1666631474",
+      "timebuildupdated": "1666630707"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1543091": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4516990550996914408",
+          "size": "20834213066",
+          "download": "17846832112"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11759384",
+        "timeupdated": "1689963768",
+        "timebuildupdated": "1689956719"
+      },
+      "local": {
+        "buildid": "9787896",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1666631474",
+        "timebuildupdated": "1666630707"
+      }
+    }
+  }
+}

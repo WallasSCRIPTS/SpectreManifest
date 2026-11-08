@@ -1,0 +1,76 @@
+{
+  "name": "Super Hexagon",
+  "source": "spectre",
+  "changenumber": 39505653,
+  "updated": "2026-11-07T20:56:05.477Z",
+  "branches": {
+    "public": {
+      "buildid": "8838351",
+      "timeupdated": "1653946120",
+      "timebuildupdated": "1653946098"
+    },
+    "pre-neo": {
+      "buildid": "981853",
+      "description": "Pre-Neo version (openFrameworks)",
+      "timeupdated": "1653946473",
+      "timebuildupdated": "1455749822"
+    }
+  },
+  "depot": {
+    "221641": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3466647956312300491",
+          "size": "22708311",
+          "download": "19870000"
+        }
+      }
+    },
+    "221642": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1709752638055709001",
+          "size": "37436200",
+          "download": "23284288"
+        }
+      }
+    },
+    "221643": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7186315654381968499",
+          "size": "23805735",
+          "download": "20290848"
+        }
+      }
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "8838351",
+        "timeupdated": "1653946120",
+        "timebuildupdated": "1653946098"
+      },
+      "pre-neo": {
+        "buildid": "981853",
+        "description": "Pre-Neo version (openFrameworks)",
+        "timeupdated": "1653946473",
+        "timebuildupdated": "1455749822"
+      }
+    }
+  }
+}

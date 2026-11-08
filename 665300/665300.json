@@ -1,0 +1,76 @@
+{
+  "name": "Stream Avatars",
+  "source": "spectre",
+  "changenumber": 40610813,
+  "updated": "2026-11-07T20:59:37.792Z",
+  "branches": {
+    "public": {
+      "buildid": "26290981",
+      "timeupdated": "1793257615",
+      "timebuildupdated": "1793257536"
+    },
+    "beta--1": {
+      "buildid": "25949714",
+      "description": "beta1",
+      "timeupdated": "1792032564",
+      "timebuildupdated": "1792032263"
+    },
+    "beta--3": {
+      "buildid": "19284487",
+      "description": "hotkeys",
+      "timeupdated": "1752917169",
+      "timebuildupdated": "1752917136"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "665301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3790180729304801371",
+          "size": "224158714",
+          "download": "54745264"
+        }
+      }
+    },
+    "665302": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5000918490844822676",
+          "size": "247275073",
+          "download": "63834192"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26290981",
+        "timeupdated": "1793257615",
+        "timebuildupdated": "1793257536"
+      },
+      "beta--1": {
+        "buildid": "25949714",
+        "description": "beta1",
+        "timeupdated": "1792032564",
+        "timebuildupdated": "1792032263"
+      },
+      "beta--3": {
+        "buildid": "19284487",
+        "description": "hotkeys",
+        "timeupdated": "1752917169",
+        "timebuildupdated": "1752917136"
+      }
+    }
+  }
+}

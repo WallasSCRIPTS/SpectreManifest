@@ -1,0 +1,94 @@
+{
+  "name": "Soulcaster: Part I & II",
+  "source": "spectre",
+  "changenumber": 40063266,
+  "updated": "2026-11-07T20:58:02.981Z",
+  "branches": {
+    "public": {
+      "buildid": "6029155",
+      "timeupdated": "1609452709",
+      "timebuildupdated": "1609452709"
+    },
+    "linux32": {
+      "buildid": "1144212",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609452700",
+      "timebuildupdated": "1464107235"
+    },
+    "sdl3": {
+      "buildid": "26092142",
+      "description": "SDL 3.0 Testing, UNSTABLE",
+      "timeupdated": "1792536210",
+      "timebuildupdated": "1792536210"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "460971": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "539775849761564620",
+          "size": "131101185",
+          "download": "87669408"
+        }
+      }
+    },
+    "460972": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2795997899360863595",
+          "size": "149244638",
+          "download": "93733232"
+        }
+      }
+    },
+    "460973": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1674516574710610367",
+          "size": "160924824",
+          "download": "96541456"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6029155",
+        "timeupdated": "1609452709",
+        "timebuildupdated": "1609452709"
+      },
+      "linux32": {
+        "buildid": "1144212",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609452700",
+        "timebuildupdated": "1464107235"
+      },
+      "sdl3": {
+        "buildid": "26092142",
+        "description": "SDL 3.0 Testing, UNSTABLE",
+        "timeupdated": "1792536210",
+        "timebuildupdated": "1792536210"
+      }
+    }
+  }
+}

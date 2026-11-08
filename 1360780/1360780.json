@@ -1,0 +1,70 @@
+{
+  "name": "Roll Ball Adventures",
+  "source": "spectre",
+  "changenumber": 34856061,
+  "updated": "2026-11-06T21:04:40.183Z",
+  "branches": {
+    "public": {
+      "buildid": "8065044",
+      "timeupdated": "1642842479",
+      "timebuildupdated": "1642809949"
+    },
+    "ubuntu": {
+      "buildid": "8010379",
+      "description": "Linux",
+      "timeupdated": "1642019111",
+      "timebuildupdated": "1642018740"
+    }
+  },
+  "depot": {
+    "1360781": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8650878875387005689",
+          "size": "525307272",
+          "download": "223317728"
+        }
+      }
+    },
+    "1360782": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7746693871905771530",
+          "size": "337138519",
+          "download": "211015184"
+        }
+      }
+    },
+    "1360783": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5631310098844993999",
+          "size": "356154472",
+          "download": "214294912"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8065044",
+        "timeupdated": "1642842479",
+        "timebuildupdated": "1642809949"
+      },
+      "ubuntu": {
+        "buildid": "8010379",
+        "description": "Linux",
+        "timeupdated": "1642019111",
+        "timebuildupdated": "1642018740"
+      }
+    }
+  }
+}

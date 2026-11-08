@@ -1,0 +1,58 @@
+{
+  "name": "Mezzanine",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:06:37.299Z",
+  "branches": {
+    "public": {
+      "buildid": "9928517",
+      "timeupdated": "1668369503",
+      "timebuildupdated": "1668369503"
+    },
+    "windoze": {
+      "buildid": "9928513",
+      "description": "windows",
+      "timeupdated": "1668369469",
+      "timebuildupdated": "1668369469"
+    }
+  },
+  "depot": {
+    "1617281": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3027099490589268862",
+          "size": "1053328024",
+          "download": "1045844208"
+        }
+      }
+    },
+    "1617282": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6459304175765201070",
+          "size": "1791640128",
+          "download": "910502304"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9928517",
+        "timeupdated": "1668369503",
+        "timebuildupdated": "1668369503"
+      },
+      "windoze": {
+        "buildid": "9928513",
+        "description": "windows",
+        "timeupdated": "1668369469",
+        "timebuildupdated": "1668369469"
+      }
+    }
+  }
+}

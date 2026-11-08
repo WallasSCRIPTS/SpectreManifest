@@ -1,0 +1,58 @@
+{
+  "name": "Golf Party",
+  "source": "spectre",
+  "changenumber": 40315868,
+  "updated": "2026-11-06T21:05:06.227Z",
+  "branches": {
+    "public": {
+      "buildid": "11356232",
+      "timeupdated": "1685506957",
+      "timebuildupdated": "1685506338"
+    },
+    "test": {
+      "buildid": "13439632",
+      "description": "Public Test Server",
+      "timeupdated": "1707797518",
+      "timebuildupdated": "1707796933"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1417001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2804564436170782324",
+          "size": "6630236357",
+          "download": "6260467456"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11356232",
+        "timeupdated": "1685506957",
+        "timebuildupdated": "1685506338"
+      },
+      "test": {
+        "buildid": "13439632",
+        "description": "Public Test Server",
+        "timeupdated": "1707797518",
+        "timebuildupdated": "1707796933"
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "name": "WhiteClothes",
+  "source": "spectre",
+  "changenumber": 40616040,
+  "updated": "2026-11-06T21:05:42.441Z",
+  "branches": {
+    "public": {
+      "buildid": "26400880",
+      "timeupdated": "1793694587",
+      "timebuildupdated": "1793694587"
+    },
+    "local": {
+      "buildid": "11255410",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1684339679",
+      "timebuildupdated": "1684339679"
+    }
+  },
+  "depot": {
+    "1495941": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7074036820431554846",
+          "size": "494956232",
+          "download": "404741040"
+        }
+      }
+    },
+    "1495943": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1312248410375497141",
+          "size": "494508950",
+          "download": "405178896"
+        }
+      }
+    },
+    "2398511": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7165445876275037926",
+          "size": "173222716",
+          "download": "136002128"
+        }
+      },
+      "dlcappid": "2398510"
+    },
+    "2398512": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2124787806175620039",
+          "size": "176100360",
+          "download": "138091264"
+        }
+      },
+      "dlcappid": "2398510"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26400880",
+        "timeupdated": "1793694587",
+        "timebuildupdated": "1793694587"
+      },
+      "local": {
+        "buildid": "11255410",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1684339679",
+        "timebuildupdated": "1684339679"
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Triple Town",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:02.959Z",
+  "branches": {
+    "public": {
+      "buildid": "52769",
+      "timebuildupdated": "1363637994"
+    },
+    "beta": {
+      "buildid": "377752",
+      "timebuildupdated": "1410318878"
+    }
+  },
+  "depot": {
+    "209951": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3344394767044186230",
+          "size": "66733725",
+          "download": "0"
+        }
+      }
+    },
+    "209952": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2661612423038018863",
+          "size": "53438326",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "52769",
+        "timebuildupdated": "1363637994"
+      },
+      "beta": {
+        "buildid": "377752",
+        "timebuildupdated": "1410318878"
+      }
+    }
+  }
+}

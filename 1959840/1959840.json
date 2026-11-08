@@ -1,0 +1,82 @@
+{
+  "name": "The Rewind Factory",
+  "source": "spectre",
+  "changenumber": 35223201,
+  "updated": "2026-11-06T23:13:38.542Z",
+  "branches": {
+    "public": {
+      "buildid": "22243894",
+      "timeupdated": "1772891983",
+      "timebuildupdated": "1772891983"
+    },
+    "experimental": {
+      "buildid": "22786648",
+      "description": "Experimental build of the game",
+      "timeupdated": "1776194695",
+      "timebuildupdated": "1776194534"
+    },
+    "linux-test": {
+      "buildid": "22214607",
+      "description": "Test version of a linux build",
+      "timeupdated": "1772722973",
+      "timebuildupdated": "1772722973"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1959841": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9113934509768662696",
+          "size": "3565826599",
+          "download": "3346314768"
+        }
+      }
+    },
+    "1959842": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4132235293772487091",
+          "size": "3484527152",
+          "download": "3254613696"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22243894",
+        "timeupdated": "1772891983",
+        "timebuildupdated": "1772891983"
+      },
+      "experimental": {
+        "buildid": "22786648",
+        "description": "Experimental build of the game",
+        "timeupdated": "1776194695",
+        "timebuildupdated": "1776194534"
+      },
+      "linux-test": {
+        "buildid": "22214607",
+        "description": "Test version of a linux build",
+        "timeupdated": "1772722973",
+        "timebuildupdated": "1772722973"
+      }
+    }
+  }
+}

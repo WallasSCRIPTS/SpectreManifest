@@ -1,0 +1,56 @@
+{
+  "name": "Garfield Kart",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:09.743Z",
+  "branches": {
+    "public": {
+      "buildid": "805329",
+      "timebuildupdated": "1444236342"
+    },
+    "multi_test": {
+      "buildid": "2991941",
+      "description": "Test multiplayer P2P",
+      "timeupdated": "1533030016",
+      "timebuildupdated": "1533030016"
+    }
+  },
+  "depot": {
+    "362931": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6806963823418817848",
+          "size": "930826204",
+          "download": "185229264"
+        }
+      }
+    },
+    "362932": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4526576541575148841",
+          "size": "949063352",
+          "download": "183438688"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "805329",
+        "timebuildupdated": "1444236342"
+      },
+      "multi_test": {
+        "buildid": "2991941",
+        "description": "Test multiplayer P2P",
+        "timeupdated": "1533030016",
+        "timebuildupdated": "1533030016"
+      }
+    }
+  }
+}

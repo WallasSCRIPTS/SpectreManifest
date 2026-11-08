@@ -1,0 +1,76 @@
+{
+  "name": "PASVAN",
+  "source": "spectre",
+  "changenumber": 34851845,
+  "updated": "2026-11-06T21:03:54.086Z",
+  "branches": {
+    "1250041": {
+      "buildid": "10072334",
+      "description": "Pasvan windows",
+      "timeupdated": "1670093352",
+      "timebuildupdated": "1670093352"
+    },
+    "1250043": {
+      "buildid": "10072376",
+      "description": "Pasvan mac",
+      "timeupdated": "1670093978",
+      "timebuildupdated": "1670093978"
+    },
+    "public": {
+      "buildid": "10072389",
+      "timeupdated": "1670094277",
+      "timebuildupdated": "1670094277"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1250041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "786690842448070645",
+          "size": "582176162",
+          "download": "377961024"
+        }
+      }
+    },
+    "1250043": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1262190544337629034",
+          "size": "604728473",
+          "download": "384272832"
+        }
+      }
+    },
+    "branches": {
+      "1250041": {
+        "buildid": "10072334",
+        "description": "Pasvan windows",
+        "timeupdated": "1670093352",
+        "timebuildupdated": "1670093352"
+      },
+      "1250043": {
+        "buildid": "10072376",
+        "description": "Pasvan mac",
+        "timeupdated": "1670093978",
+        "timebuildupdated": "1670093978"
+      },
+      "public": {
+        "buildid": "10072389",
+        "timeupdated": "1670094277",
+        "timebuildupdated": "1670094277"
+      }
+    }
+  }
+}

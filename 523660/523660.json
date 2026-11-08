@@ -1,0 +1,80 @@
+{
+  "name": "HYPERCHARGE: Unboxed",
+  "source": "spectre",
+  "changenumber": 40638736,
+  "updated": "2026-11-07T20:58:29.889Z",
+  "branches": {
+    "public": {
+      "buildid": "18311839",
+      "timeupdated": "1747932262",
+      "timebuildupdated": "1746120402"
+    },
+    "legacy_linux": {
+      "buildid": "10948722",
+      "description": "Last working linux2linux multiplayer branch",
+      "timeupdated": "1699642153",
+      "timebuildupdated": "1680802463"
+    },
+    "testing": {
+      "buildid": "18311839",
+      "timeupdated": "1747932234",
+      "timebuildupdated": "1746120402"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "523661": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3471618788797198376",
+          "size": "14892036972",
+          "download": "6141686688"
+        }
+      }
+    },
+    "523662": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1002335455343497276",
+          "size": "15984943554",
+          "download": "6687409472"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18311839",
+        "timeupdated": "1747932262",
+        "timebuildupdated": "1746120402"
+      },
+      "legacy_linux": {
+        "buildid": "10948722",
+        "description": "Last working linux2linux multiplayer branch",
+        "timeupdated": "1699642153",
+        "timebuildupdated": "1680802463"
+      },
+      "testing": {
+        "buildid": "18311839",
+        "timeupdated": "1747932234",
+        "timebuildupdated": "1746120402"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Guppy",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:54.726Z",
+  "branches": {
+    "public": {
+      "buildid": "2690240",
+      "timeupdated": "1523901060",
+      "timebuildupdated": "1523784376"
+    },
+    "beta": {
+      "buildid": "5970547",
+      "description": "testing",
+      "timeupdated": "1608041596",
+      "timebuildupdated": "1608041596"
+    }
+  },
+  "depot": {
+    "698501": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6326933089172267406",
+          "size": "21164547",
+          "download": "21352400"
+        }
+      }
+    },
+    "698502": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1209106032236191963",
+          "size": "25124162",
+          "download": "20254256"
+        }
+      }
+    },
+    "698503": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6444156451263708084",
+          "size": "40595488",
+          "download": "25024928"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2690240",
+        "timeupdated": "1523901060",
+        "timebuildupdated": "1523784376"
+      },
+      "beta": {
+        "buildid": "5970547",
+        "description": "testing",
+        "timeupdated": "1608041596",
+        "timebuildupdated": "1608041596"
+      }
+    }
+  }
+}

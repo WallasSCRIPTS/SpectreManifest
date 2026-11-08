@@ -1,0 +1,189 @@
+{
+  "name": "West of Loathing",
+  "source": "spectre",
+  "changenumber": 39865697,
+  "updated": "2026-11-07T20:59:08.210Z",
+  "branches": {
+    "public": {
+      "buildid": "20487204",
+      "timeupdated": "1761157680",
+      "timebuildupdated": "1761082660"
+    },
+    "public_patch_testing": {
+      "buildid": "5749834",
+      "timeupdated": "1603899140",
+      "timebuildupdated": "1603898978"
+    },
+    "test_xbox_controllers": {
+      "buildid": "7986832",
+      "description": "An update to our controller support might allow Xbox X controllers to work",
+      "timeupdated": "1641587260",
+      "timebuildupdated": "1641585932"
+    }
+  },
+  "depot": {
+    "597221": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5232330165630484566",
+          "size": "280103044",
+          "download": "203235872"
+        }
+      }
+    },
+    "597222": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5041556463779027538",
+          "size": "262209840",
+          "download": "200894976"
+        }
+      }
+    },
+    "597223": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "819786439536560923",
+          "size": "290998155",
+          "download": "193641744"
+        }
+      }
+    },
+    "597224": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6607129469714701277",
+          "size": "312115350",
+          "download": "202629632"
+        }
+      }
+    },
+    "597225": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "644363695892823984",
+          "size": "271044033",
+          "download": "202641888"
+        }
+      }
+    },
+    "597226": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6859928952985109771",
+          "size": "285225867",
+          "download": "192769920"
+        }
+      }
+    },
+    "597227": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2723733996375391440",
+          "size": "254529680",
+          "download": "196575072"
+        }
+      }
+    },
+    "597228": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7093391889548612916",
+          "size": "271044033",
+          "download": "202246384"
+        }
+      }
+    },
+    "686420": {
+      "manifests": {
+        "public": {
+          "gid": "4545870147110956346",
+          "size": "4",
+          "download": "48"
+        }
+      },
+      "dlcappid": "686420"
+    },
+    "954060": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4704820467427850972",
+          "size": "57694279",
+          "download": "54963136"
+        }
+      },
+      "dlcappid": "954060"
+    },
+    "954061": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "792363520525912735",
+          "size": "57694279",
+          "download": "54963040"
+        }
+      },
+      "dlcappid": "954060"
+    },
+    "954062": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7646565991543430813",
+          "size": "57694280",
+          "download": "54963072"
+        }
+      },
+      "dlcappid": "954060"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20487204",
+        "timeupdated": "1761157680",
+        "timebuildupdated": "1761082660"
+      },
+      "public_patch_testing": {
+        "buildid": "5749834",
+        "timeupdated": "1603899140",
+        "timebuildupdated": "1603898978"
+      },
+      "test_xbox_controllers": {
+        "buildid": "7986832",
+        "description": "An update to our controller support might allow Xbox X controllers to work",
+        "timeupdated": "1641587260",
+        "timebuildupdated": "1641585932"
+      }
+    }
+  }
+}

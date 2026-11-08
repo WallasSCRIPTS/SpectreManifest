@@ -1,0 +1,82 @@
+{
+  "name": "New Stars",
+  "source": "spectre",
+  "changenumber": 38228659,
+  "updated": "2026-11-06T23:19:34.116Z",
+  "branches": {
+    "2022": {
+      "buildid": "12726558",
+      "description": "The 2022 version of New Stars.",
+      "timeupdated": "1700185799",
+      "timebuildupdated": "1700185799"
+    },
+    "public": {
+      "buildid": "24628536",
+      "timeupdated": "1786193280",
+      "timebuildupdated": "1786191328"
+    },
+    "beta": {
+      "buildid": "24628536",
+      "description": "Beta branch.",
+      "timeupdated": "1786191666",
+      "timebuildupdated": "1786191328"
+    }
+  },
+  "depot": {
+    "2231271": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1044118604989192144",
+          "size": "2258281463",
+          "download": "1971746768"
+        }
+      }
+    },
+    "2231272": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6928641421271249492",
+          "size": "2421061222",
+          "download": "2063194736"
+        }
+      }
+    },
+    "2231273": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6749994369644464784",
+          "size": "3863969224",
+          "download": "2235546224"
+        }
+      }
+    },
+    "branches": {
+      "2022": {
+        "buildid": "12726558",
+        "description": "The 2022 version of New Stars.",
+        "timeupdated": "1700185799",
+        "timebuildupdated": "1700185799"
+      },
+      "public": {
+        "buildid": "24628536",
+        "timeupdated": "1786193280",
+        "timebuildupdated": "1786191328"
+      },
+      "beta": {
+        "buildid": "24628536",
+        "description": "Beta branch.",
+        "timeupdated": "1786191666",
+        "timebuildupdated": "1786191328"
+      }
+    }
+  }
+}

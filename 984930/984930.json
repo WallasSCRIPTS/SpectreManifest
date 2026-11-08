@@ -1,0 +1,49 @@
+{
+  "name": "The Black Widow",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:02:14.106Z",
+  "branches": {
+    "public": {
+      "buildid": "3389502",
+      "timeupdated": "1544607343",
+      "timebuildupdated": "1544607307"
+    }
+  },
+  "depot": {
+    "984931": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8690377876391967865",
+          "size": "100355001",
+          "download": "36016272"
+        }
+      }
+    },
+    "984935": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7153794228018595286",
+          "size": "421810875",
+          "download": "90091344"
+        }
+      }
+    },
+    "987751": {
+      "depotfromapp": "987750"
+    },
+    "branches": {
+      "public": {
+        "buildid": "3389502",
+        "timeupdated": "1544607343",
+        "timebuildupdated": "1544607307"
+      }
+    }
+  }
+}

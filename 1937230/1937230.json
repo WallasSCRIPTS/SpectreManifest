@@ -1,0 +1,78 @@
+{
+  "name": "Shatter Remastered Deluxe",
+  "source": "spectre",
+  "changenumber": 40403572,
+  "updated": "2026-11-06T23:13:35.678Z",
+  "branches": {
+    "public": {
+      "buildid": "20374792",
+      "timeupdated": "1760645028",
+      "timebuildupdated": "1760383460"
+    },
+    "local": {
+      "buildid": "20374744",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1760383155",
+      "timebuildupdated": "1760383155"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1937231": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6067896580515611868",
+          "size": "1194487165",
+          "download": "962478528"
+        }
+      }
+    },
+    "1937232": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8070059188637530551",
+          "size": "1272010297",
+          "download": "984246704"
+        }
+      }
+    },
+    "1937233": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7558282880792277405",
+          "size": "1220932927",
+          "download": "964747824"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20374792",
+        "timeupdated": "1760645028",
+        "timebuildupdated": "1760383460"
+      },
+      "local": {
+        "buildid": "20374744",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1760383155",
+        "timebuildupdated": "1760383155"
+      }
+    }
+  }
+}

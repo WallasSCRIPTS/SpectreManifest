@@ -1,0 +1,70 @@
+{
+  "name": "Induction",
+  "source": "spectre",
+  "changenumber": 37434570,
+  "updated": "2026-11-07T20:57:22.664Z",
+  "branches": {
+    "public": {
+      "buildid": "21275923",
+      "timeupdated": "1766331331",
+      "timebuildupdated": "1766331237"
+    },
+    "legacy": {
+      "buildid": "1665714",
+      "description": "Legacy branch",
+      "timeupdated": "1611936602",
+      "timebuildupdated": "1488452541"
+    }
+  },
+  "depot": {
+    "381891": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8212064629143862241",
+          "size": "197187369",
+          "download": "138860112"
+        }
+      }
+    },
+    "381892": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4304849987809173591",
+          "size": "204778396",
+          "download": "141022896"
+        }
+      }
+    },
+    "381893": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3822436716951962399",
+          "size": "213962905",
+          "download": "142112256"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21275923",
+        "timeupdated": "1766331331",
+        "timebuildupdated": "1766331237"
+      },
+      "legacy": {
+        "buildid": "1665714",
+        "description": "Legacy branch",
+        "timeupdated": "1611936602",
+        "timebuildupdated": "1488452541"
+      }
+    }
+  }
+}

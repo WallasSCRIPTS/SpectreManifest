@@ -1,0 +1,58 @@
+{
+  "name": "Far Star",
+  "source": "spectre",
+  "changenumber": 34877819,
+  "updated": "2026-11-06T23:13:31.569Z",
+  "branches": {
+    "public": {
+      "buildid": "16777636",
+      "timeupdated": "1734531647",
+      "timebuildupdated": "1734464118"
+    },
+    "beta": {
+      "buildid": "16777636",
+      "description": "Test builds",
+      "timeupdated": "1734464158",
+      "timebuildupdated": "1734464118"
+    }
+  },
+  "depot": {
+    "1922991": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5097915924559583298",
+          "size": "103431720",
+          "download": "44708848"
+        }
+      }
+    },
+    "1922992": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4010110872106155995",
+          "size": "113252272",
+          "download": "47227888"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16777636",
+        "timeupdated": "1734531647",
+        "timebuildupdated": "1734464118"
+      },
+      "beta": {
+        "buildid": "16777636",
+        "description": "Test builds",
+        "timeupdated": "1734464158",
+        "timebuildupdated": "1734464118"
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Spy Chameleon - RGB Agent",
+  "source": "spectre",
+  "changenumber": 39431111,
+  "updated": "2026-11-07T20:56:29.316Z",
+  "branches": {
+    "public": {
+      "buildid": "443567",
+      "timebuildupdated": "1415976761"
+    },
+    "local": {
+      "buildid": "260616",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1399569962"
+    }
+  },
+  "depot": {
+    "297491": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3662551735683204742",
+          "size": "335443134",
+          "download": "308770486325"
+        }
+      }
+    },
+    "297492": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3088425138049511746",
+          "size": "355866727",
+          "download": "700188310138"
+        }
+      }
+    },
+    "297493": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1520429509515256982",
+          "size": "346085491",
+          "download": "318009919106"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "443567",
+        "timebuildupdated": "1415976761"
+      },
+      "local": {
+        "buildid": "260616",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1399569962"
+      }
+    }
+  }
+}

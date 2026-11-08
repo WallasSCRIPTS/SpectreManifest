@@ -1,0 +1,68 @@
+{
+  "name": "Rusty Lake: Roots",
+  "source": "spectre",
+  "changenumber": 39935951,
+  "updated": "2026-11-07T20:58:33.733Z",
+  "branches": {
+    "public": {
+      "buildid": "25629044",
+      "timeupdated": "1790775450",
+      "timebuildupdated": "1790775450"
+    },
+    "betatest": {
+      "buildid": "1895765",
+      "timeupdated": "1497633413",
+      "timebuildupdated": "1497633413"
+    },
+    "fallback": {
+      "buildid": "1889186",
+      "description": "beta branch",
+      "timeupdated": "1497436615",
+      "timebuildupdated": "1497436615"
+    }
+  },
+  "depot": {
+    "532111": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "432837392420397598",
+          "size": "87996548",
+          "download": "77731824"
+        }
+      }
+    },
+    "532112": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2035467590348571595",
+          "size": "107431305",
+          "download": "84584144"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25629044",
+        "timeupdated": "1790775450",
+        "timebuildupdated": "1790775450"
+      },
+      "betatest": {
+        "buildid": "1895765",
+        "timeupdated": "1497633413",
+        "timebuildupdated": "1497633413"
+      },
+      "fallback": {
+        "buildid": "1889186",
+        "description": "beta branch",
+        "timeupdated": "1497436615",
+        "timebuildupdated": "1497436615"
+      }
+    }
+  }
+}

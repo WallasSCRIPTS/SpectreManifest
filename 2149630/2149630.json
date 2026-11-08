@@ -1,0 +1,58 @@
+{
+  "name": "1 Trait Escape",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:07:14.350Z",
+  "branches": {
+    "public": {
+      "buildid": "20198654",
+      "timeupdated": "1759282190",
+      "timebuildupdated": "1759282154"
+    },
+    "test": {
+      "buildid": "20192020",
+      "description": "Test builds",
+      "timeupdated": "1759279250",
+      "timebuildupdated": "1759246838"
+    }
+  },
+  "depot": {
+    "2149631": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8390558227007811714",
+          "size": "9142760083",
+          "download": "2535381312"
+        }
+      }
+    },
+    "2149632": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3769836743000631726",
+          "size": "9223387699",
+          "download": "2563956848"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20198654",
+        "timeupdated": "1759282190",
+        "timebuildupdated": "1759282154"
+      },
+      "test": {
+        "buildid": "20192020",
+        "description": "Test builds",
+        "timeupdated": "1759279250",
+        "timebuildupdated": "1759246838"
+      }
+    }
+  }
+}

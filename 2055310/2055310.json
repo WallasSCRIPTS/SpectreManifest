@@ -1,0 +1,81 @@
+{
+  "name": "Hidden Champion",
+  "source": "spectre",
+  "changenumber": 40583524,
+  "updated": "2026-11-06T23:15:38.815Z",
+  "branches": {
+    "public": {
+      "buildid": "25507179",
+      "timeupdated": "1790258775",
+      "timebuildupdated": "1790258702"
+    },
+    "2025.20.09": {
+      "buildid": "19411602",
+      "description": "compatibility with old saves",
+      "timeupdated": "1763979683",
+      "timebuildupdated": "1753867885"
+    },
+    "2025.48.02": {
+      "buildid": "21240633",
+      "description": "Old Objective System",
+      "timeupdated": "1770993462",
+      "timebuildupdated": "1766061997"
+    },
+    "public_test": {
+      "buildid": "25507179",
+      "description": "Public Tests of the next Patch",
+      "timeupdated": "1790258775",
+      "timebuildupdated": "1790258702"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2055311": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1922913963708992517",
+          "size": "1837738716",
+          "download": "1332107936"
+        }
+      }
+    },
+    "2055312": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25507179",
+        "timeupdated": "1790258775",
+        "timebuildupdated": "1790258702"
+      },
+      "2025.20.09": {
+        "buildid": "19411602",
+        "description": "compatibility with old saves",
+        "timeupdated": "1763979683",
+        "timebuildupdated": "1753867885"
+      },
+      "2025.48.02": {
+        "buildid": "21240633",
+        "description": "Old Objective System",
+        "timeupdated": "1770993462",
+        "timebuildupdated": "1766061997"
+      },
+      "public_test": {
+        "buildid": "25507179",
+        "description": "Public Tests of the next Patch",
+        "timeupdated": "1790258775",
+        "timebuildupdated": "1790258702"
+      }
+    }
+  }
+}

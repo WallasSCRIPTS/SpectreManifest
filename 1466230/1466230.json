@@ -1,0 +1,82 @@
+{
+  "name": "The Holy Gosh Darn",
+  "source": "spectre",
+  "changenumber": 37446306,
+  "updated": "2026-11-06T21:05:29.321Z",
+  "branches": {
+    "public": {
+      "buildid": "20308354",
+      "timeupdated": "1760366859",
+      "timebuildupdated": "1759949152"
+    },
+    "demo": {
+      "buildid": "12739252",
+      "description": "demo",
+      "timeupdated": "1700301606",
+      "timebuildupdated": "1700301561"
+    },
+    "ustabilt": {
+      "buildid": "20308354",
+      "description": "ustbilt",
+      "timeupdated": "1759949152",
+      "timebuildupdated": "1759949152"
+    }
+  },
+  "depot": {
+    "1466231": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5049741015703920744",
+          "size": "1609834626",
+          "download": "1291367168"
+        }
+      }
+    },
+    "1466232": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6069352141712774829",
+          "size": "1899150536",
+          "download": "1370219776"
+        }
+      }
+    },
+    "1466233": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3237173221789477022",
+          "size": "1423177382",
+          "download": "1084844288"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20308354",
+        "timeupdated": "1760366859",
+        "timebuildupdated": "1759949152"
+      },
+      "demo": {
+        "buildid": "12739252",
+        "description": "demo",
+        "timeupdated": "1700301606",
+        "timebuildupdated": "1700301561"
+      },
+      "ustabilt": {
+        "buildid": "20308354",
+        "description": "ustbilt",
+        "timeupdated": "1759949152",
+        "timebuildupdated": "1759949152"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Color Jumper",
+  "source": "spectre",
+  "changenumber": 40015648,
+  "updated": "2026-11-07T20:59:06.887Z",
+  "branches": {
+    "public": {
+      "buildid": "5467670",
+      "timeupdated": "1598528291",
+      "timebuildupdated": "1598527957"
+    },
+    "testing": {
+      "buildid": "5467670",
+      "description": "Public testing",
+      "timeupdated": "1598528136",
+      "timebuildupdated": "1598527957"
+    }
+  },
+  "depot": {
+    "594811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3298310053081011261",
+          "size": "264344370",
+          "download": "118897952"
+        }
+      }
+    },
+    "594812": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3332700058500018466",
+          "size": "265295612",
+          "download": "118872000"
+        }
+      }
+    },
+    "594813": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1428263044041024901",
+          "size": "274815953",
+          "download": "120270992"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5467670",
+        "timeupdated": "1598528291",
+        "timebuildupdated": "1598527957"
+      },
+      "testing": {
+        "buildid": "5467670",
+        "description": "Public testing",
+        "timeupdated": "1598528136",
+        "timebuildupdated": "1598527957"
+      }
+    }
+  }
+}

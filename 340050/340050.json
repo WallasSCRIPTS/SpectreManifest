@@ -1,0 +1,55 @@
+{
+  "name": "Survivalist",
+  "source": "spectre",
+  "changenumber": 37433691,
+  "updated": "2026-11-07T20:56:50.134Z",
+  "branches": {
+    "public": {
+      "buildid": "18958419",
+      "timeupdated": "1751202512",
+      "timebuildupdated": "1750632359"
+    },
+    "publicbeta": {
+      "buildid": "21764482",
+      "description": "Public beta",
+      "timeupdated": "1770126234",
+      "timebuildupdated": "1770124813"
+    }
+  },
+  "depot": {
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "340051": {
+      "manifests": {
+        "public": {
+          "gid": "259255412659958827",
+          "size": "293654320",
+          "download": "163037120"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18958419",
+        "timeupdated": "1751202512",
+        "timebuildupdated": "1750632359"
+      },
+      "publicbeta": {
+        "buildid": "21764482",
+        "description": "Public beta",
+        "timeupdated": "1770126234",
+        "timebuildupdated": "1770124813"
+      }
+    }
+  }
+}

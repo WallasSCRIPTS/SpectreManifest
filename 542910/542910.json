@@ -1,0 +1,79 @@
+{
+  "name": "Crumbled World",
+  "source": "spectre",
+  "changenumber": 34833519,
+  "updated": "2026-11-07T20:58:38.088Z",
+  "branches": {
+    "public": {
+      "buildid": "3231275",
+      "timeupdated": "1540020952",
+      "timebuildupdated": "1540020925"
+    },
+    "experimental": {
+      "buildid": "3674018",
+      "description": "Unstable test version",
+      "timeupdated": "1553355964",
+      "timebuildupdated": "1553355821"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "542911": {
+      "manifests": {
+        "public": {
+          "gid": "4370520580732621209",
+          "size": "1723487123",
+          "download": "1499635136"
+        }
+      }
+    },
+    "542912": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "11055522489294906",
+          "size": "38814105",
+          "download": "10499584"
+        }
+      }
+    },
+    "542913": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6758465833459717344",
+          "size": "234877905",
+          "download": "55581600"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3231275",
+        "timeupdated": "1540020952",
+        "timebuildupdated": "1540020925"
+      },
+      "experimental": {
+        "buildid": "3674018",
+        "description": "Unstable test version",
+        "timeupdated": "1553355964",
+        "timebuildupdated": "1553355821"
+      }
+    }
+  }
+}

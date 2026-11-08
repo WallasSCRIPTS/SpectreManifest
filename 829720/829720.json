@@ -1,0 +1,74 @@
+{
+  "name": "The Nature",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:00.986Z",
+  "branches": {
+    "public": {
+      "buildid": "4254997",
+      "timeupdated": "1570130879",
+      "timebuildupdated": "1570130857"
+    },
+    "linux": {
+      "buildid": "3147189",
+      "description": "LINUX",
+      "timeupdated": "1538215000",
+      "timebuildupdated": "1537606916"
+    },
+    "test": {
+      "buildid": "3168044",
+      "timeupdated": "1538214625",
+      "timebuildupdated": "1538214603"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "829721": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3749018766082676877",
+          "size": "139434127",
+          "download": "69163920"
+        }
+      }
+    },
+    "829722": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1520619571426817609",
+          "size": "138696512",
+          "download": "69361280"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4254997",
+        "timeupdated": "1570130879",
+        "timebuildupdated": "1570130857"
+      },
+      "linux": {
+        "buildid": "3147189",
+        "description": "LINUX",
+        "timeupdated": "1538215000",
+        "timebuildupdated": "1537606916"
+      },
+      "test": {
+        "buildid": "3168044",
+        "timeupdated": "1538214625",
+        "timebuildupdated": "1538214603"
+      }
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "name": "Another Star",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:07.400Z",
+  "branches": {
+    "public": {
+      "buildid": "1501356",
+      "timeupdated": "1481037213",
+      "timebuildupdated": "1481037004"
+    },
+    "beta": {
+      "buildid": "1501356",
+      "description": "Open beta testing branch",
+      "timeupdated": "1481037078",
+      "timebuildupdated": "1481037004"
+    },
+    "version3a": {
+      "buildid": "877173",
+      "description": "old version 3A",
+      "timebuildupdated": "1448726146"
+    },
+    "version3b": {
+      "buildid": "988744",
+      "description": "old version 3B",
+      "timeupdated": "1481037157",
+      "timebuildupdated": "1456164005"
+    }
+  },
+  "depot": {
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "358031": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1076459924697606967",
+          "size": "49039314",
+          "download": "32352336"
+        }
+      }
+    },
+    "358032": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7553063811876816216",
+          "size": "160228519",
+          "download": "62572208"
+        }
+      }
+    },
+    "358033": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4914433344860362516",
+          "size": "65669432",
+          "download": "38017216"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1501356",
+        "timeupdated": "1481037213",
+        "timebuildupdated": "1481037004"
+      },
+      "beta": {
+        "buildid": "1501356",
+        "description": "Open beta testing branch",
+        "timeupdated": "1481037078",
+        "timebuildupdated": "1481037004"
+      },
+      "version3a": {
+        "buildid": "877173",
+        "description": "old version 3A",
+        "timebuildupdated": "1448726146"
+      },
+      "version3b": {
+        "buildid": "988744",
+        "description": "old version 3B",
+        "timeupdated": "1481037157",
+        "timebuildupdated": "1456164005"
+      }
+    }
+  }
+}

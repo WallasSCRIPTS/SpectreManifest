@@ -1,0 +1,73 @@
+{
+  "name": "RetroArch - PocketCDG",
+  "source": "spectre",
+  "changenumber": 40627174,
+  "updated": "2026-11-06T21:03:46.483Z",
+  "branches": {
+    "public": {
+      "buildid": "20833929",
+      "timeupdated": "1763418584",
+      "timebuildupdated": "1763416631"
+    },
+    "nightly": {
+      "buildid": "26457041",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793879412",
+      "timebuildupdated": "1793879412"
+    }
+  },
+  "depot": {
+    "1232621": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8470514441164345622",
+          "size": "227162",
+          "download": "111696"
+        }
+      },
+      "dlcappid": "1232621"
+    },
+    "1789750": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "634181324774155846",
+          "size": "185874",
+          "download": "71280"
+        }
+      },
+      "dlcappid": "1232621"
+    },
+    "1789751": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6498393810005296762",
+          "size": "450226",
+          "download": "111360"
+        }
+      },
+      "dlcappid": "1232621"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833929",
+        "timeupdated": "1763418584",
+        "timebuildupdated": "1763416631"
+      },
+      "nightly": {
+        "buildid": "26457041",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793879412",
+        "timebuildupdated": "1793879412"
+      }
+    }
+  }
+}

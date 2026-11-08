@@ -1,0 +1,79 @@
+{
+  "name": "Cave Story+",
+  "source": "spectre",
+  "changenumber": 39208422,
+  "updated": "2026-11-07T20:56:00.355Z",
+  "branches": {
+    "public": {
+      "buildid": "25133280",
+      "timeupdated": "1788568804",
+      "timebuildupdated": "1788560167"
+    },
+    "legacy": {
+      "buildid": "22447",
+      "description": "Legacy Build of CaveStory+",
+      "timeupdated": "1351561482",
+      "timebuildupdated": "1351561439"
+    }
+  },
+  "depot": {
+    "200902": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9070663006689096970",
+          "size": "3664895",
+          "download": "0"
+        }
+      }
+    },
+    "200903": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1420789391075080371",
+          "size": "255637653",
+          "download": "224513296"
+        }
+      }
+    },
+    "200905": {
+      "manifests": {
+        "public": {
+          "gid": "724838489648706149",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25133280",
+        "timeupdated": "1788568804",
+        "timebuildupdated": "1788560167"
+      },
+      "legacy": {
+        "buildid": "22447",
+        "description": "Legacy Build of CaveStory+",
+        "timeupdated": "1351561482",
+        "timebuildupdated": "1351561439"
+      }
+    }
+  }
+}

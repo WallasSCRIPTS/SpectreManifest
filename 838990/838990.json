@@ -1,0 +1,70 @@
+{
+  "name": "Endhall",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:04.586Z",
+  "branches": {
+    "public": {
+      "buildid": "3367293",
+      "timeupdated": "1544029775",
+      "timebuildupdated": "1543980990"
+    },
+    "beta": {
+      "buildid": "3369518",
+      "description": "Endhall Beta Branch",
+      "timeupdated": "1544029789",
+      "timebuildupdated": "1544029720"
+    }
+  },
+  "depot": {
+    "838991": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4679924587535071633",
+          "size": "86642097",
+          "download": "72185888"
+        }
+      }
+    },
+    "838992": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3516242496681870614",
+          "size": "130960164",
+          "download": "82492256"
+        }
+      }
+    },
+    "838993": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4514227274638894799",
+          "size": "95280099",
+          "download": "74180448"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3367293",
+        "timeupdated": "1544029775",
+        "timebuildupdated": "1543980990"
+      },
+      "beta": {
+        "buildid": "3369518",
+        "description": "Endhall Beta Branch",
+        "timeupdated": "1544029789",
+        "timebuildupdated": "1544029720"
+      }
+    }
+  }
+}

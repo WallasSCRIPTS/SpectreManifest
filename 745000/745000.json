@@ -1,0 +1,58 @@
+{
+  "name": "Card Crawl",
+  "source": "spectre",
+  "changenumber": 40248739,
+  "updated": "2026-11-07T21:00:20.688Z",
+  "branches": {
+    "public": {
+      "buildid": "26212878",
+      "timeupdated": "1793005274",
+      "timebuildupdated": "1793005274"
+    },
+    "beta": {
+      "buildid": "26184373",
+      "description": "Beta",
+      "timeupdated": "1792857389",
+      "timebuildupdated": "1792857389"
+    }
+  },
+  "depot": {
+    "745001": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8536184594568663419",
+          "size": "259280748",
+          "download": "79632976"
+        }
+      }
+    },
+    "745002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "258657024459490589",
+          "size": "276186213",
+          "download": "84958816"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26212878",
+        "timeupdated": "1793005274",
+        "timebuildupdated": "1793005274"
+      },
+      "beta": {
+        "buildid": "26184373",
+        "description": "Beta",
+        "timeupdated": "1792857389",
+        "timebuildupdated": "1792857389"
+      }
+    }
+  }
+}

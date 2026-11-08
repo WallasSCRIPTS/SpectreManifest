@@ -1,0 +1,82 @@
+{
+  "name": "Fantasy Fairways",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:58:43.524Z",
+  "branches": {
+    "public": {
+      "buildid": "3858646",
+      "timeupdated": "1558824016",
+      "timebuildupdated": "1558824016"
+    },
+    "beta": {
+      "buildid": "2185163",
+      "description": "Beta Branch",
+      "timeupdated": "1507606786",
+      "timebuildupdated": "1507606770"
+    },
+    "magfest": {
+      "buildid": "2185163",
+      "timeupdated": "1507606793",
+      "timebuildupdated": "1507606770"
+    }
+  },
+  "depot": {
+    "552691": {
+      "manifests": {
+        "public": {
+          "gid": "8740642534544101368",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "552692": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8598168235211737032",
+          "size": "2475900554",
+          "download": "163908080"
+        }
+      }
+    },
+    "552693": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "804554125525100870",
+          "size": "2461285824",
+          "download": "160621088"
+        }
+      }
+    },
+    "552694": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3858646",
+        "timeupdated": "1558824016",
+        "timebuildupdated": "1558824016"
+      },
+      "beta": {
+        "buildid": "2185163",
+        "description": "Beta Branch",
+        "timeupdated": "1507606786",
+        "timebuildupdated": "1507606770"
+      },
+      "magfest": {
+        "buildid": "2185163",
+        "timeupdated": "1507606793",
+        "timebuildupdated": "1507606770"
+      }
+    }
+  }
+}

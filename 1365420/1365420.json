@@ -1,0 +1,57 @@
+{
+  "name": "Magic Fluids",
+  "source": "spectre",
+  "changenumber": 38610632,
+  "updated": "2026-11-06T21:04:41.838Z",
+  "branches": {
+    "public": {
+      "buildid": "25129022",
+      "timeupdated": "1788541886",
+      "timebuildupdated": "1788541823"
+    },
+    "local": {
+      "buildid": "6292799",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1614251323",
+      "timebuildupdated": "1614251323"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1365421": {
+      "manifests": {
+        "public": {
+          "gid": "3748958403956619243",
+          "size": "30806767",
+          "download": "27828480"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25129022",
+        "timeupdated": "1788541886",
+        "timebuildupdated": "1788541823"
+      },
+      "local": {
+        "buildid": "6292799",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1614251323",
+        "timebuildupdated": "1614251323"
+      }
+    }
+  }
+}

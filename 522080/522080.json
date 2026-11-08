@@ -1,0 +1,82 @@
+{
+  "name": "Gemstone Keeper",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:29.272Z",
+  "branches": {
+    "public": {
+      "buildid": "9873806",
+      "timeupdated": "1668623962",
+      "timebuildupdated": "1667599250"
+    },
+    "beta": {
+      "buildid": "9873806",
+      "description": "Unstable build",
+      "timeupdated": "1667599250",
+      "timebuildupdated": "1667599250"
+    },
+    "legacy": {
+      "buildid": "2830316",
+      "description": "Use if new build doesn't work.",
+      "timeupdated": "1554839442",
+      "timebuildupdated": "1528057644"
+    }
+  },
+  "depot": {
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "522081": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1789153394003106008",
+          "size": "19903409",
+          "download": "16540368"
+        }
+      }
+    },
+    "522082": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2905695114007364837",
+          "size": "18676609",
+          "download": "15974592"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9873806",
+        "timeupdated": "1668623962",
+        "timebuildupdated": "1667599250"
+      },
+      "beta": {
+        "buildid": "9873806",
+        "description": "Unstable build",
+        "timeupdated": "1667599250",
+        "timebuildupdated": "1667599250"
+      },
+      "legacy": {
+        "buildid": "2830316",
+        "description": "Use if new build doesn't work.",
+        "timeupdated": "1554839442",
+        "timebuildupdated": "1528057644"
+      }
+    }
+  }
+}

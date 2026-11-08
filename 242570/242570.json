@@ -1,0 +1,86 @@
+{
+  "name": "Space Hulk (Classic)",
+  "source": "spectre",
+  "changenumber": 37432709,
+  "updated": "2026-11-07T20:56:09.953Z",
+  "branches": {
+    "public": {
+      "buildid": "22729148",
+      "timeupdated": "1776096617",
+      "timebuildupdated": "1775819223"
+    },
+    "linuxbeta": {
+      "buildid": "181107",
+      "description": "Beta for SH Linux",
+      "timebuildupdated": "1391440140"
+    },
+    "legacy": {
+      "buildid": "411783",
+      "description": "Last pre-SNEG build",
+      "timeupdated": "1413458954",
+      "timebuildupdated": "1413458954"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "242571": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2971344817050105361",
+          "size": "4705920533",
+          "download": "4511080269475"
+        }
+      }
+    },
+    "242572": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8851598754559630777",
+          "size": "4705172756",
+          "download": "2404604448"
+        }
+      }
+    },
+    "242573": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4051843723387741357",
+          "size": "4703043849",
+          "download": "4928162684362"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22729148",
+        "timeupdated": "1776096617",
+        "timebuildupdated": "1775819223"
+      },
+      "linuxbeta": {
+        "buildid": "181107",
+        "description": "Beta for SH Linux",
+        "timebuildupdated": "1391440140"
+      },
+      "legacy": {
+        "buildid": "411783",
+        "description": "Last pre-SNEG build",
+        "timeupdated": "1413458954",
+        "timebuildupdated": "1413458954"
+      }
+    }
+  }
+}

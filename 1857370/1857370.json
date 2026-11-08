@@ -1,0 +1,91 @@
+{
+  "name": "LEZ",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-06T23:11:39.597Z",
+  "branches": {
+    "public": {
+      "buildid": "20363867",
+      "timeupdated": "1760333010",
+      "timebuildupdated": "1760333010"
+    },
+    "0.18.0-before-patch": {
+      "buildid": "18267504",
+      "description": "Same 0.18.0 without security patch, use this if you have issues to launch the game",
+      "timeupdated": "1759519172",
+      "timebuildupdated": "1745855251"
+    },
+    "public-beta": {
+      "buildid": "17134763",
+      "description": "The public beta of LEZ. It may contain some errors.",
+      "timeupdated": "1737871551",
+      "timebuildupdated": "1737871551"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1857371": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6442574040345482764",
+          "size": "794442574",
+          "download": "576536272"
+        }
+      }
+    },
+    "1857373": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "1857376": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7371468884143190373",
+          "size": "111009185",
+          "download": "33105280"
+        }
+      }
+    },
+    "2364711": {
+      "manifests": {
+        "public": {
+          "gid": "4122022327396356786",
+          "size": "28955355",
+          "download": "25865648"
+        }
+      },
+      "dlcappid": "2364710"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20363867",
+        "timeupdated": "1760333010",
+        "timebuildupdated": "1760333010"
+      },
+      "0.18.0-before-patch": {
+        "buildid": "18267504",
+        "description": "Same 0.18.0 without security patch, use this if you have issues to launch the game",
+        "timeupdated": "1759519172",
+        "timebuildupdated": "1745855251"
+      },
+      "public-beta": {
+        "buildid": "17134763",
+        "description": "The public beta of LEZ. It may contain some errors.",
+        "timeupdated": "1737871551",
+        "timebuildupdated": "1737871551"
+      }
+    }
+  }
+}

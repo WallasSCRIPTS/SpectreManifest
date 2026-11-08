@@ -1,0 +1,68 @@
+{
+  "name": "The Hero with a Thousand Arms",
+  "source": "spectre",
+  "changenumber": 34853496,
+  "updated": "2026-11-06T21:04:11.884Z",
+  "branches": {
+    "public": {
+      "buildid": "10213954",
+      "timeupdated": "1672023359",
+      "timebuildupdated": "1671983329"
+    },
+    "beta": {
+      "buildid": "10213957",
+      "timeupdated": "1671983424",
+      "timebuildupdated": "1671983409"
+    }
+  },
+  "depot": {
+    "1289481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7694552405180780868",
+          "size": "110117119",
+          "download": "69486928"
+        }
+      }
+    },
+    "1289482": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "400148709695009633",
+          "size": "457711184",
+          "download": "158483424"
+        }
+      }
+    },
+    "1289483": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5456363686184160827",
+          "size": "184577710",
+          "download": "84466016"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10213954",
+        "timeupdated": "1672023359",
+        "timebuildupdated": "1671983329"
+      },
+      "beta": {
+        "buildid": "10213957",
+        "timeupdated": "1671983424",
+        "timebuildupdated": "1671983409"
+      }
+    }
+  }
+}

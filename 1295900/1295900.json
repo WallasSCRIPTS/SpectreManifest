@@ -1,0 +1,80 @@
+{
+  "name": "Draconia",
+  "source": "spectre",
+  "changenumber": 40601221,
+  "updated": "2026-11-06T21:04:14.659Z",
+  "branches": {
+    "public": {
+      "buildid": "26439130",
+      "timeupdated": "1793817077",
+      "timebuildupdated": "1793816891"
+    },
+    "legacy": {
+      "buildid": "8503300",
+      "timeupdated": "1650185500",
+      "timebuildupdated": "1649193432"
+    },
+    "buildtest": {
+      "buildid": "26439130",
+      "description": "public developer build branch",
+      "timeupdated": "1793817062",
+      "timebuildupdated": "1793816891"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1295901": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7545398512712662730",
+          "size": "6812734744",
+          "download": "6103108480"
+        }
+      }
+    },
+    "1295902": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "667942243654278954",
+          "size": "7994536497",
+          "download": "5332789392"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26439130",
+        "timeupdated": "1793817077",
+        "timebuildupdated": "1793816891"
+      },
+      "legacy": {
+        "buildid": "8503300",
+        "timeupdated": "1650185500",
+        "timebuildupdated": "1649193432"
+      },
+      "buildtest": {
+        "buildid": "26439130",
+        "description": "public developer build branch",
+        "timeupdated": "1793817062",
+        "timebuildupdated": "1793816891"
+      }
+    }
+  }
+}

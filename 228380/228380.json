@@ -1,0 +1,89 @@
+{
+  "name": "Wreckfest",
+  "source": "spectre",
+  "changenumber": 39770795,
+  "updated": "2026-11-07T20:56:07.130Z",
+  "branches": {
+    "public": {
+      "buildid": "16986367",
+      "timeupdated": "1738527866",
+      "timebuildupdated": "1736767988"
+    },
+    "community_preconsole": {
+      "buildid": "3487034",
+      "description": "community_preconsole",
+      "timeupdated": "1632913060",
+      "timebuildupdated": "1548069580"
+    },
+    "community_preencrypt": {
+      "buildid": "6864837",
+      "description": "community_preencrypt",
+      "timeupdated": "1632914470",
+      "timebuildupdated": "1623675741"
+    },
+    "community_prehealthbars": {
+      "buildid": "7444993",
+      "description": "community_prehealthbars",
+      "timeupdated": "1632914504",
+      "timebuildupdated": "1632914504"
+    }
+  },
+  "depot": {
+    "228381": {
+      "manifests": {
+        "public": {
+          "gid": "3017425792384820539",
+          "size": "34162267810",
+          "download": "28775827184"
+        }
+      }
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "272880": {
+      "manifests": {
+        "public": {
+          "gid": "8165984606867483938",
+          "size": "243865577",
+          "download": "216389264"
+        }
+      },
+      "dlcappid": "272880"
+    },
+    "branches": {
+      "public": {
+        "buildid": "16986367",
+        "timeupdated": "1738527866",
+        "timebuildupdated": "1736767988"
+      },
+      "community_preconsole": {
+        "buildid": "3487034",
+        "description": "community_preconsole",
+        "timeupdated": "1632913060",
+        "timebuildupdated": "1548069580"
+      },
+      "community_preencrypt": {
+        "buildid": "6864837",
+        "description": "community_preencrypt",
+        "timeupdated": "1632914470",
+        "timebuildupdated": "1623675741"
+      },
+      "community_prehealthbars": {
+        "buildid": "7444993",
+        "description": "community_prehealthbars",
+        "timeupdated": "1632914504",
+        "timebuildupdated": "1632914504"
+      }
+    }
+  }
+}

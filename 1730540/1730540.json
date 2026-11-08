@@ -1,0 +1,106 @@
+{
+  "name": "Alchemistry",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:09:40.055Z",
+  "branches": {
+    "public": {
+      "buildid": "22183440",
+      "timeupdated": "1772902577",
+      "timebuildupdated": "1772566964"
+    },
+    "beta": {
+      "buildid": "23646104",
+      "description": "Public beta branch",
+      "timeupdated": "1781026258",
+      "timebuildupdated": "1781026258"
+    },
+    "pre-1.6.0": {
+      "buildid": "16502779",
+      "description": "pre 1.6.0 version (for compatibility with older systems)",
+      "timeupdated": "1772470720",
+      "timebuildupdated": "1732292989"
+    }
+  },
+  "depot": {
+    "1730542": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4669811204419007614",
+          "size": "467050384",
+          "download": "169735584"
+        }
+      }
+    },
+    "1730543": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "349496532734533609",
+          "size": "301782035",
+          "download": "118369296"
+        }
+      }
+    },
+    "1730544": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6696262796376559724",
+          "size": "1072351406",
+          "download": "159323664"
+        }
+      }
+    },
+    "1730545": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8866269343400074327",
+          "size": "559509300",
+          "download": "174487088"
+        }
+      }
+    },
+    "1730546": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2419349463466529655",
+          "size": "398571621",
+          "download": "129883936"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22183440",
+        "timeupdated": "1772902577",
+        "timebuildupdated": "1772566964"
+      },
+      "beta": {
+        "buildid": "23646104",
+        "description": "Public beta branch",
+        "timeupdated": "1781026258",
+        "timebuildupdated": "1781026258"
+      },
+      "pre-1.6.0": {
+        "buildid": "16502779",
+        "description": "pre 1.6.0 version (for compatibility with older systems)",
+        "timeupdated": "1772470720",
+        "timebuildupdated": "1732292989"
+      }
+    }
+  }
+}

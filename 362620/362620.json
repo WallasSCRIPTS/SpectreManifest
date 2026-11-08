@@ -1,0 +1,106 @@
+{
+  "name": "Software Inc.",
+  "source": "spectre",
+  "changenumber": 38370048,
+  "updated": "2026-11-07T20:57:09.530Z",
+  "branches": {
+    "public": {
+      "buildid": "24837201",
+      "timeupdated": "1787221333",
+      "timebuildupdated": "1787220917"
+    },
+    "unstable": {
+      "buildid": "24837201",
+      "description": "Beta 1.8",
+      "timeupdated": "1787221314",
+      "timebuildupdated": "1787220917"
+    },
+    "legacy": {
+      "buildid": "6986292",
+      "description": "Alpha 11",
+      "timeupdated": "1649707414",
+      "timebuildupdated": "1625573556"
+    },
+    "legacy2": {
+      "buildid": "3602760",
+      "description": "Alpha 10",
+      "timeupdated": "1649707389",
+      "timebuildupdated": "1551344384"
+    }
+  },
+  "depot": {
+    "362621": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5926179124568434134",
+          "size": "776652158",
+          "download": "260778800"
+        }
+      }
+    },
+    "362622": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8416953944918299177",
+          "size": "787618096",
+          "download": "269968816"
+        }
+      }
+    },
+    "362623": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "879565581850174211",
+          "size": "745933746",
+          "download": "252565824"
+        }
+      }
+    },
+    "362624": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "314641046375153832",
+          "size": "779610254",
+          "download": "262516928"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24837201",
+        "timeupdated": "1787221333",
+        "timebuildupdated": "1787220917"
+      },
+      "unstable": {
+        "buildid": "24837201",
+        "description": "Beta 1.8",
+        "timeupdated": "1787221314",
+        "timebuildupdated": "1787220917"
+      },
+      "legacy": {
+        "buildid": "6986292",
+        "description": "Alpha 11",
+        "timeupdated": "1649707414",
+        "timebuildupdated": "1625573556"
+      },
+      "legacy2": {
+        "buildid": "3602760",
+        "description": "Alpha 10",
+        "timeupdated": "1649707389",
+        "timebuildupdated": "1551344384"
+      }
+    }
+  }
+}

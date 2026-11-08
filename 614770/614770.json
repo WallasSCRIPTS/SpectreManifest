@@ -1,0 +1,52 @@
+{
+  "name": "Beachhead: DESERT WAR",
+  "source": "spectre",
+  "changenumber": 39703993,
+  "updated": "2026-11-07T20:59:16.395Z",
+  "branches": {
+    "public": {
+      "buildid": "21657627",
+      "timeupdated": "1769475010",
+      "timebuildupdated": "1769474566"
+    },
+    "beachheadlegacy": {
+      "buildid": "1726161",
+      "description": "Final build before compatibility changes.",
+      "timeupdated": "1787838929",
+      "timebuildupdated": "1490905828"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "614771": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4121427710422547421",
+          "size": "233887253",
+          "download": "73809200"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21657627",
+        "timeupdated": "1769475010",
+        "timebuildupdated": "1769474566"
+      },
+      "beachheadlegacy": {
+        "buildid": "1726161",
+        "description": "Final build before compatibility changes.",
+        "timeupdated": "1787838929",
+        "timebuildupdated": "1490905828"
+      }
+    }
+  }
+}

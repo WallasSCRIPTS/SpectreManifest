@@ -1,0 +1,103 @@
+{
+  "name": "The Forgotten Ones",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T20:56:36.824Z",
+  "branches": {
+    "public": {
+      "buildid": "11915023",
+      "timeupdated": "1691698894",
+      "timebuildupdated": "1691698340"
+    },
+    "previous": {
+      "buildid": "900369",
+      "description": "Previous Patch",
+      "timeupdated": "1685998123",
+      "timebuildupdated": "1450216207"
+    },
+    "upcoming": {
+      "buildid": "11915023",
+      "description": "Upcoming Patch",
+      "timeupdated": "1691698423",
+      "timebuildupdated": "1691698340"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "314281": {
+      "manifests": {
+        "public": {
+          "gid": "863258459981625701",
+          "size": "5376937591",
+          "download": "2903429552"
+        }
+      }
+    },
+    "314282": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5930191788542604514",
+          "size": "138133699",
+          "download": "44908336"
+        }
+      }
+    },
+    "314283": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5574622206306578512",
+          "size": "121151271",
+          "download": "31495984"
+        }
+      }
+    },
+    "314284": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7387737807324021932",
+          "size": "109920640",
+          "download": "26115984"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11915023",
+        "timeupdated": "1691698894",
+        "timebuildupdated": "1691698340"
+      },
+      "previous": {
+        "buildid": "900369",
+        "description": "Previous Patch",
+        "timeupdated": "1685998123",
+        "timebuildupdated": "1450216207"
+      },
+      "upcoming": {
+        "buildid": "11915023",
+        "description": "Upcoming Patch",
+        "timeupdated": "1691698423",
+        "timebuildupdated": "1691698340"
+      }
+    }
+  }
+}

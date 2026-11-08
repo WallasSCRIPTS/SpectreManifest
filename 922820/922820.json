@@ -1,0 +1,70 @@
+{
+  "name": "Lotus Bloom",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:42.741Z",
+  "branches": {
+    "public": {
+      "buildid": "6320717",
+      "timeupdated": "1615313314",
+      "timebuildupdated": "1614737415"
+    },
+    "beta": {
+      "buildid": "6679504",
+      "description": "Tests before going live",
+      "timeupdated": "1620708622",
+      "timebuildupdated": "1620708590"
+    }
+  },
+  "depot": {
+    "922822": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6427430922497043563",
+          "size": "204891798",
+          "download": "69959568"
+        }
+      }
+    },
+    "922823": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1963825792827091877",
+          "size": "206137851",
+          "download": "70080928"
+        }
+      }
+    },
+    "922824": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6828708705377481323",
+          "size": "216325370",
+          "download": "71698272"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6320717",
+        "timeupdated": "1615313314",
+        "timebuildupdated": "1614737415"
+      },
+      "beta": {
+        "buildid": "6679504",
+        "description": "Tests before going live",
+        "timeupdated": "1620708622",
+        "timebuildupdated": "1620708590"
+      }
+    }
+  }
+}

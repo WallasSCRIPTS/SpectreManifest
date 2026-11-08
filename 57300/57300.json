@@ -1,0 +1,107 @@
+{
+  "name": "Amnesia: The Dark Descent",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:56.581Z",
+  "branches": {
+    "public": {
+      "buildid": "12590639",
+      "timeupdated": "1698830984",
+      "timebuildupdated": "1698830905"
+    },
+    "achievement_beta": {
+      "buildid": "1558434",
+      "description": "Achievement Beta",
+      "timeupdated": "1483971633",
+      "timebuildupdated": "1483971633"
+    },
+    "public_beta": {
+      "buildid": "14695213",
+      "description": "Public total conversion support beta",
+      "timeupdated": "1718213254",
+      "timebuildupdated": "1718213254"
+    }
+  },
+  "depot": {
+    "57301": {
+      "manifests": {
+        "public": {
+          "gid": "8176595565127463406",
+          "size": "2470990313",
+          "download": "1319906384"
+        }
+      }
+    },
+    "57302": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1043555087927484063",
+          "size": "66636327",
+          "download": "22666544"
+        }
+      }
+    },
+    "57303": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7774437381089252368",
+          "size": "56373921",
+          "download": "15207616"
+        }
+      }
+    },
+    "57304": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4923969545681340455",
+          "size": "115025638",
+          "download": "34131216"
+        }
+      }
+    },
+    "98002": {
+      "manifests": {
+        "public": {
+          "gid": "4299781513279356317",
+          "size": "9624576",
+          "download": "0"
+        }
+      },
+      "dlcappid": "98002"
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "12590639",
+        "timeupdated": "1698830984",
+        "timebuildupdated": "1698830905"
+      },
+      "achievement_beta": {
+        "buildid": "1558434",
+        "description": "Achievement Beta",
+        "timeupdated": "1483971633",
+        "timebuildupdated": "1483971633"
+      },
+      "public_beta": {
+        "buildid": "14695213",
+        "description": "Public total conversion support beta",
+        "timeupdated": "1718213254",
+        "timebuildupdated": "1718213254"
+      }
+    }
+  }
+}

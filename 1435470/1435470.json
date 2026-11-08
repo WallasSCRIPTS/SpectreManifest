@@ -1,0 +1,76 @@
+{
+  "name": "Space Bandit",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:14.980Z",
+  "branches": {
+    "public": {
+      "buildid": "24257333",
+      "timeupdated": "1784297027",
+      "timebuildupdated": "1784284833"
+    },
+    "fix-bosses": {
+      "buildid": "23991660",
+      "description": "test branch for better bosses",
+      "timeupdated": "1782855493",
+      "timebuildupdated": "1782855169"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1435471": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3758790933765746789",
+          "size": "219154430",
+          "download": "146322992"
+        }
+      }
+    },
+    "1435472": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7046463137940983063",
+          "size": "210750152",
+          "download": "144945984"
+        }
+      }
+    },
+    "1435473": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "950422526644097405",
+          "size": "107022091",
+          "download": "40719056"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24257333",
+        "timeupdated": "1784297027",
+        "timebuildupdated": "1784284833"
+      },
+      "fix-bosses": {
+        "buildid": "23991660",
+        "description": "test branch for better bosses",
+        "timeupdated": "1782855493",
+        "timebuildupdated": "1782855169"
+      }
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Age of History II",
+  "source": "spectre",
+  "changenumber": 39027516,
+  "updated": "2026-11-07T20:59:11.557Z",
+  "branches": {
+    "public": {
+      "buildid": "18908901",
+      "timeupdated": "1750233270",
+      "timebuildupdated": "1750233270"
+    },
+    "test": {
+      "buildid": "3329562",
+      "timeupdated": "1542847429",
+      "timebuildupdated": "1542847429"
+    },
+    "victories": {
+      "buildid": "18908744",
+      "timeupdated": "1750232354",
+      "timebuildupdated": "1750232353"
+    }
+  },
+  "depot": {
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "603851": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2654718545113390213",
+          "size": "477728650",
+          "download": "290857648"
+        }
+      }
+    },
+    "603852": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4901373421410482285",
+          "size": "362759517",
+          "download": "210110592"
+        }
+      }
+    },
+    "603853": {
+      "config": {
+        "oslist": "macos,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3901882567425026533",
+          "size": "167715996",
+          "download": "140953936"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18908901",
+        "timeupdated": "1750233270",
+        "timebuildupdated": "1750233270"
+      },
+      "test": {
+        "buildid": "3329562",
+        "timeupdated": "1542847429",
+        "timebuildupdated": "1542847429"
+      },
+      "victories": {
+        "buildid": "18908744",
+        "timeupdated": "1750232354",
+        "timebuildupdated": "1750232353"
+      }
+    }
+  }
+}

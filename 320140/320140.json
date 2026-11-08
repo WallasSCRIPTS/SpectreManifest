@@ -1,0 +1,74 @@
+{
+  "name": "Absolute Drift",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:39.680Z",
+  "branches": {
+    "public": {
+      "buildid": "7879130",
+      "timeupdated": "1684205854",
+      "timebuildupdated": "1639463411"
+    },
+    "beta": {
+      "buildid": "12448944",
+      "timeupdated": "1697437343",
+      "timebuildupdated": "1697437170"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "320141": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5389423999088490459",
+          "size": "355860084",
+          "download": "134155808"
+        }
+      }
+    },
+    "320142": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2688677701709527850",
+          "size": "376303844",
+          "download": "138269520"
+        }
+      }
+    },
+    "320143": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4421506249304054846",
+          "size": "355483518",
+          "download": "135329008"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7879130",
+        "timeupdated": "1684205854",
+        "timebuildupdated": "1639463411"
+      },
+      "beta": {
+        "buildid": "12448944",
+        "timeupdated": "1697437343",
+        "timebuildupdated": "1697437170"
+      }
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "name": "CAT Interstellar",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:24.569Z",
+  "branches": {
+    "public": {
+      "buildid": "9561906",
+      "timeupdated": "1663769055",
+      "timebuildupdated": "1663769055"
+    },
+    "_ue5": {
+      "buildid": "8151251",
+      "description": "UE5 branch",
+      "timeupdated": "1644074065",
+      "timebuildupdated": "1644074064"
+    },
+    "beta": {
+      "buildid": "9561906",
+      "description": "Beta Branch",
+      "timeupdated": "1663769070",
+      "timebuildupdated": "1663769055"
+    },
+    "vr_alpha": {
+      "buildid": "2116119",
+      "description": "VR Testing",
+      "timeupdated": "1505324987",
+      "timebuildupdated": "1505324987"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "384741": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "68296013487170446",
+          "size": "4705049834",
+          "download": "1488885184"
+        }
+      }
+    },
+    "384742": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2608326973590079303",
+          "size": "2379459656",
+          "download": "1997816512"
+        }
+      }
+    },
+    "384743": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7107830394213366114",
+          "size": "2369384178",
+          "download": "2053557760"
+        }
+      }
+    },
+    "509460": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "656772094056828391",
+          "size": "4251144913",
+          "download": "1390015504"
+        }
+      },
+      "dlcappid": "509460"
+    },
+    "693760": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2044457797857238775",
+          "size": "140593150",
+          "download": "77826000"
+        }
+      },
+      "dlcappid": "693760"
+    },
+    "branches": {
+      "public": {
+        "buildid": "9561906",
+        "timeupdated": "1663769055",
+        "timebuildupdated": "1663769055"
+      },
+      "_ue5": {
+        "buildid": "8151251",
+        "description": "UE5 branch",
+        "timeupdated": "1644074065",
+        "timebuildupdated": "1644074064"
+      },
+      "beta": {
+        "buildid": "9561906",
+        "description": "Beta Branch",
+        "timeupdated": "1663769070",
+        "timebuildupdated": "1663769055"
+      },
+      "vr_alpha": {
+        "buildid": "2116119",
+        "description": "VR Testing",
+        "timeupdated": "1505324987",
+        "timebuildupdated": "1505324987"
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "name": "First Cut: Samurai Duel",
+  "source": "spectre",
+  "changenumber": 40278537,
+  "updated": "2026-11-06T23:19:29.656Z",
+  "branches": {
+    "public": {
+      "buildid": "24734660",
+      "timeupdated": "1786712748",
+      "timebuildupdated": "1786711551"
+    },
+    "previousbuild": {
+      "buildid": "13877983",
+      "description": "Rollback if required",
+      "timeupdated": "1712973932",
+      "timebuildupdated": "1711595970"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2193491": {
+      "manifests": {
+        "public": {
+          "gid": "6715326814064460310",
+          "size": "346633780",
+          "download": "309475984"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24734660",
+        "timeupdated": "1786712748",
+        "timebuildupdated": "1786711551"
+      },
+      "previousbuild": {
+        "buildid": "13877983",
+        "description": "Rollback if required",
+        "timeupdated": "1712973932",
+        "timebuildupdated": "1711595970"
+      }
+    }
+  }
+}

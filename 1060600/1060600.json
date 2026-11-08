@@ -1,0 +1,75 @@
+{
+  "name": "Lair of the Clockwork God",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:52.173Z",
+  "branches": {
+    "public": {
+      "buildid": "5140800",
+      "timeupdated": "1591712801",
+      "timebuildupdated": "1591712614"
+    },
+    "betatesting": {
+      "buildid": "4863934",
+      "timeupdated": "1586167402",
+      "timebuildupdated": "1586167348"
+    },
+    "rollback": {
+      "buildid": "4766636",
+      "timeupdated": "1585915047",
+      "timebuildupdated": "1583939288"
+    }
+  },
+  "depot": {
+    "1060601": {
+      "manifests": {
+        "public": {
+          "gid": "3505653274734787854",
+          "size": "1751961411",
+          "download": "509884928"
+        }
+      }
+    },
+    "1060602": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5253051956107770444",
+          "size": "1763884340",
+          "download": "512472096"
+        }
+      }
+    },
+    "1060603": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3905904890076483674",
+          "size": "1763333738",
+          "download": "515169264"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5140800",
+        "timeupdated": "1591712801",
+        "timebuildupdated": "1591712614"
+      },
+      "betatesting": {
+        "buildid": "4863934",
+        "timeupdated": "1586167402",
+        "timebuildupdated": "1586167348"
+      },
+      "rollback": {
+        "buildid": "4766636",
+        "timeupdated": "1585915047",
+        "timebuildupdated": "1583939288"
+      }
+    }
+  }
+}

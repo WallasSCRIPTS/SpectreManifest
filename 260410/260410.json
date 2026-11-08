@@ -1,0 +1,50 @@
+{
+  "name": "Get Off My Lawn!",
+  "source": "spectre",
+  "changenumber": 40315868,
+  "updated": "2026-11-07T20:56:15.331Z",
+  "branches": {
+    "public": {
+      "buildid": "447201",
+      "timebuildupdated": "1416345360"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "260411": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6997118277962760025",
+          "size": "861198057",
+          "download": "923464688453"
+        }
+      }
+    },
+    "260412": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6473993048334527088",
+          "size": "800417538",
+          "download": "349463084480"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "447201",
+        "timebuildupdated": "1416345360"
+      }
+    }
+  }
+}

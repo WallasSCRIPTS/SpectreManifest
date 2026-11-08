@@ -1,0 +1,68 @@
+{
+  "name": "Infectonator : Survivors",
+  "source": "spectre",
+  "changenumber": 39543804,
+  "updated": "2026-11-07T20:56:18.430Z",
+  "branches": {
+    "public": {
+      "buildid": "2685601",
+      "timeupdated": "1524132878",
+      "timebuildupdated": "1523608434"
+    },
+    "testing": {
+      "buildid": "2685601",
+      "description": "test builds",
+      "timeupdated": "1523608434",
+      "timebuildupdated": "1523608434"
+    }
+  },
+  "depot": {
+    "269311": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2562688664396970179",
+          "size": "101551361",
+          "download": "76126288"
+        }
+      }
+    },
+    "269312": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "239552098320599574",
+          "size": "151724694",
+          "download": "73850416"
+        }
+      }
+    },
+    "707490": {
+      "manifests": {
+        "public": {
+          "gid": "5767125808719154921",
+          "size": "82822247",
+          "download": "63670160"
+        }
+      },
+      "dlcappid": "707490"
+    },
+    "branches": {
+      "public": {
+        "buildid": "2685601",
+        "timeupdated": "1524132878",
+        "timebuildupdated": "1523608434"
+      },
+      "testing": {
+        "buildid": "2685601",
+        "description": "test builds",
+        "timeupdated": "1523608434",
+        "timebuildupdated": "1523608434"
+      }
+    }
+  }
+}

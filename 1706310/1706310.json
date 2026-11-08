@@ -1,0 +1,118 @@
+{
+  "name": "Star Shift Origins",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-06T21:07:06.612Z",
+  "branches": {
+    "public": {
+      "buildid": "20164334",
+      "timeupdated": "1759091803",
+      "timebuildupdated": "1759091773"
+    },
+    "32-bit_version": {
+      "buildid": "13872764",
+      "description": "32 bit version of the game",
+      "timeupdated": "1711558132",
+      "timebuildupdated": "1711558086"
+    },
+    "localization_1.14": {
+      "buildid": "12566543",
+      "description": "Localization Implementation",
+      "timeupdated": "1698607743",
+      "timebuildupdated": "1698607712"
+    },
+    "pre_localization_1.12": {
+      "buildid": "11308852",
+      "description": "Build before Localization Implementation",
+      "timeupdated": "1698158817",
+      "timebuildupdated": "1684949056"
+    },
+    "windows7-compatibility": {
+      "buildid": "13876013",
+      "description": "Windows 7 Compatibility",
+      "timeupdated": "1711579812",
+      "timebuildupdated": "1711579785"
+    },
+    "pre-ai": {
+      "buildid": "13876013",
+      "description": "Last build without any AI content",
+      "timeupdated": "1731383068",
+      "timebuildupdated": "1711579785"
+    }
+  },
+  "depot": {
+    "1706311": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3776949990657070747",
+          "size": "2143572110",
+          "download": "1761560256"
+        }
+      }
+    },
+    "1706312": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1698168976412822092",
+          "size": "2117060375",
+          "download": "1766242784"
+        }
+      }
+    },
+    "1706313": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5590879567506900951",
+          "size": "2332747503",
+          "download": "1798557664"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20164334",
+        "timeupdated": "1759091803",
+        "timebuildupdated": "1759091773"
+      },
+      "32-bit_version": {
+        "buildid": "13872764",
+        "description": "32 bit version of the game",
+        "timeupdated": "1711558132",
+        "timebuildupdated": "1711558086"
+      },
+      "localization_1.14": {
+        "buildid": "12566543",
+        "description": "Localization Implementation",
+        "timeupdated": "1698607743",
+        "timebuildupdated": "1698607712"
+      },
+      "pre_localization_1.12": {
+        "buildid": "11308852",
+        "description": "Build before Localization Implementation",
+        "timeupdated": "1698158817",
+        "timebuildupdated": "1684949056"
+      },
+      "windows7-compatibility": {
+        "buildid": "13876013",
+        "description": "Windows 7 Compatibility",
+        "timeupdated": "1711579812",
+        "timebuildupdated": "1711579785"
+      },
+      "pre-ai": {
+        "buildid": "13876013",
+        "description": "Last build without any AI content",
+        "timeupdated": "1731383068",
+        "timebuildupdated": "1711579785"
+      }
+    }
+  }
+}

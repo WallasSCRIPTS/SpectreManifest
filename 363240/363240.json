@@ -1,0 +1,62 @@
+{
+  "name": "Caveman Craig",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:09.922Z",
+  "branches": {
+    "public": {
+      "buildid": "1017511",
+      "timebuildupdated": "1457597005"
+    },
+    "local": {
+      "buildid": "1017478",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1457595121"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "363241": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4555272828197605779",
+          "size": "94954496",
+          "download": "96025504"
+        }
+      }
+    },
+    "363242": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4373070216551263627",
+          "size": "111519396",
+          "download": "94755216"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1017511",
+        "timebuildupdated": "1457597005"
+      },
+      "local": {
+        "buildid": "1017478",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1457595121"
+      }
+    }
+  }
+}

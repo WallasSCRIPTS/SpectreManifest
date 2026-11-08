@@ -1,0 +1,66 @@
+{
+  "name": "Spyro™ Reignited Trilogy",
+  "source": "spectre",
+  "changenumber": 40704044,
+  "updated": "2026-11-07T21:02:19.698Z",
+  "branches": {
+    "public": {
+      "buildid": "3849171",
+      "timeupdated": "1567530020",
+      "timebuildupdated": "1558572422"
+    },
+    "local": {
+      "buildid": "3827695",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1557964077",
+      "timebuildupdated": "1557964077"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "996581": {
+      "manifests": {
+        "public": {
+          "gid": "8223464263088965733",
+          "size": "58739180",
+          "download": "40666784"
+        }
+      }
+    },
+    "996582": {
+      "manifests": {
+        "public": {
+          "gid": "6673579705803232637",
+          "size": "41603544053",
+          "download": "40706804496"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3849171",
+        "timeupdated": "1567530020",
+        "timebuildupdated": "1558572422"
+      },
+      "local": {
+        "buildid": "3827695",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1557964077",
+        "timebuildupdated": "1557964077"
+      }
+    }
+  }
+}

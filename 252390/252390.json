@@ -1,0 +1,165 @@
+{
+  "name": "DwarfCorp",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:13.022Z",
+  "branches": {
+    "public": {
+      "buildid": "6999623",
+      "timeupdated": "1758511530",
+      "timebuildupdated": "1625755353"
+    },
+    "legacy": {
+      "buildid": "3654455",
+      "description": "March 2019 release",
+      "timeupdated": "1561929159",
+      "timebuildupdated": "1552850535"
+    },
+    "legacy_august_2020": {
+      "buildid": "5454592",
+      "description": "Stable release from August 2020",
+      "timeupdated": "1609121135",
+      "timebuildupdated": "1598325078"
+    },
+    "legacy_july_2019": {
+      "buildid": "4049714",
+      "description": "Stable release from July 2019",
+      "timeupdated": "1567301702",
+      "timebuildupdated": "1564198059"
+    },
+    "legacy_june_2020": {
+      "buildid": "4271086",
+      "description": "Stable release from June 2020, originally released October 2019",
+      "timeupdated": "1592148423",
+      "timebuildupdated": "1570625808"
+    },
+    "unstable": {
+      "buildid": "6999623",
+      "description": "Unstable - Dev Build",
+      "timeupdated": "1625755353",
+      "timebuildupdated": "1625755353"
+    },
+    "legacy_2021": {
+      "buildid": "6486896",
+      "description": "Stable release from June 2021",
+      "timeupdated": "1758511422",
+      "timebuildupdated": "1617491515"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "252391": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3543622964954832024",
+          "size": "292397462",
+          "download": "131058640"
+        }
+      }
+    },
+    "252392": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1568897577821220582",
+          "size": "211256993",
+          "download": "79362736"
+        }
+      }
+    },
+    "252393": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5030272021127818588",
+          "size": "218402141",
+          "download": "82029488"
+        }
+      }
+    },
+    "252394": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3249111278798130422",
+          "size": "221894991",
+          "download": "82320912"
+        }
+      }
+    },
+    "252395": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6999623",
+        "timeupdated": "1758511530",
+        "timebuildupdated": "1625755353"
+      },
+      "legacy": {
+        "buildid": "3654455",
+        "description": "March 2019 release",
+        "timeupdated": "1561929159",
+        "timebuildupdated": "1552850535"
+      },
+      "legacy_august_2020": {
+        "buildid": "5454592",
+        "description": "Stable release from August 2020",
+        "timeupdated": "1609121135",
+        "timebuildupdated": "1598325078"
+      },
+      "legacy_july_2019": {
+        "buildid": "4049714",
+        "description": "Stable release from July 2019",
+        "timeupdated": "1567301702",
+        "timebuildupdated": "1564198059"
+      },
+      "legacy_june_2020": {
+        "buildid": "4271086",
+        "description": "Stable release from June 2020, originally released October 2019",
+        "timeupdated": "1592148423",
+        "timebuildupdated": "1570625808"
+      },
+      "unstable": {
+        "buildid": "6999623",
+        "description": "Unstable - Dev Build",
+        "timeupdated": "1625755353",
+        "timebuildupdated": "1625755353"
+      },
+      "legacy_2021": {
+        "buildid": "6486896",
+        "description": "Stable release from June 2021",
+        "timeupdated": "1758511422",
+        "timebuildupdated": "1617491515"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Souls of Blades",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:10.369Z",
+  "branches": {
+    "public": {
+      "buildid": "7506612",
+      "timeupdated": "1633796301",
+      "timebuildupdated": "1633792521"
+    },
+    "oldversion": {
+      "buildid": "5399057",
+      "description": "Old version running on DX11",
+      "timeupdated": "1608301989",
+      "timebuildupdated": "1597170332"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1091461": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8548604218172825530",
+          "size": "23565291733",
+          "download": "16893269344"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7506612",
+        "timeupdated": "1633796301",
+        "timebuildupdated": "1633792521"
+      },
+      "oldversion": {
+        "buildid": "5399057",
+        "description": "Old version running on DX11",
+        "timeupdated": "1608301989",
+        "timebuildupdated": "1597170332"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "The Plague Doctor of Wippra Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-06T23:11:41.050Z",
+  "branches": {
+    "public": {
+      "buildid": "9484542",
+      "timeupdated": "1662727414",
+      "timebuildupdated": "1662726495"
+    },
+    "beta": {
+      "buildid": "9484542",
+      "description": "Beta",
+      "timeupdated": "1662726830",
+      "timebuildupdated": "1662726495"
+    }
+  },
+  "depot": {
+    "1869551": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8313130641991019383",
+          "size": "151968375",
+          "download": "45248592"
+        }
+      }
+    },
+    "1869552": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8235133341507787130",
+          "size": "123833132",
+          "download": "39293424"
+        }
+      }
+    },
+    "1869553": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5268576455992582297",
+          "size": "144463043",
+          "download": "43722816"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9484542",
+        "timeupdated": "1662727414",
+        "timebuildupdated": "1662726495"
+      },
+      "beta": {
+        "buildid": "9484542",
+        "description": "Beta",
+        "timeupdated": "1662726830",
+        "timebuildupdated": "1662726495"
+      }
+    }
+  }
+}

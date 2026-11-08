@@ -1,0 +1,82 @@
+{
+  "name": "#DRIVE Rally",
+  "source": "spectre",
+  "changenumber": 39726920,
+  "updated": "2026-11-06T21:07:19.189Z",
+  "branches": {
+    "public": {
+      "buildid": "24837351",
+      "timeupdated": "1787316859",
+      "timebuildupdated": "1787221381"
+    },
+    "public-beta": {
+      "buildid": "24837351",
+      "description": "Public Beta",
+      "timeupdated": "1787222634",
+      "timebuildupdated": "1787221381"
+    },
+    "win7": {
+      "buildid": "23913777",
+      "description": "Windows 7 (and older)",
+      "timeupdated": "1782396809",
+      "timebuildupdated": "1782396809"
+    }
+  },
+  "depot": {
+    "2494781": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4687614647615491465",
+          "size": "2386296707",
+          "download": "1043107856"
+        }
+      }
+    },
+    "2494782": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8320144997822217900",
+          "size": "3057239405",
+          "download": "1178294192"
+        }
+      }
+    },
+    "2494783": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6242978385122443209",
+          "size": "2366956148",
+          "download": "1044891392"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24837351",
+        "timeupdated": "1787316859",
+        "timebuildupdated": "1787221381"
+      },
+      "public-beta": {
+        "buildid": "24837351",
+        "description": "Public Beta",
+        "timeupdated": "1787222634",
+        "timebuildupdated": "1787221381"
+      },
+      "win7": {
+        "buildid": "23913777",
+        "description": "Windows 7 (and older)",
+        "timeupdated": "1782396809",
+        "timebuildupdated": "1782396809"
+      }
+    }
+  }
+}

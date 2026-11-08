@@ -1,0 +1,70 @@
+{
+  "name": "Demolition, Inc.",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:58.682Z",
+  "branches": {
+    "public": {
+      "buildid": "13426932",
+      "timeupdated": "1707657877",
+      "timebuildupdated": "1707656489"
+    },
+    "previousbuild": {
+      "buildid": "81652",
+      "timebuildupdated": "1371134127"
+    },
+    "workshopbeta": {
+      "buildid": "62992",
+      "description": "Public Workshop Beta",
+      "timebuildupdated": "1366895796"
+    }
+  },
+  "depot": {
+    "98601": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6061507619307216365",
+          "size": "374664902",
+          "download": "350279392"
+        }
+      }
+    },
+    "98602": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2615548117706949022",
+          "size": "339023130",
+          "download": "0"
+        }
+      }
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "13426932",
+        "timeupdated": "1707657877",
+        "timebuildupdated": "1707656489"
+      },
+      "previousbuild": {
+        "buildid": "81652",
+        "timebuildupdated": "1371134127"
+      },
+      "workshopbeta": {
+        "buildid": "62992",
+        "description": "Public Workshop Beta",
+        "timebuildupdated": "1366895796"
+      }
+    }
+  }
+}

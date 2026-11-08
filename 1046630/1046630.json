@@ -1,0 +1,96 @@
+{
+  "name": "Tank Maniacs",
+  "source": "spectre",
+  "changenumber": 34844607,
+  "updated": "2026-11-07T21:02:45.266Z",
+  "branches": {
+    "public": {
+      "buildid": "4547937",
+      "timeupdated": "1578406879",
+      "timebuildupdated": "1578406798"
+    },
+    "ptr_daily": {
+      "buildid": "4152210",
+      "description": "Public Test Realm daily build",
+      "timeupdated": "1567143246",
+      "timebuildupdated": "1567143246"
+    }
+  },
+  "depot": {
+    "1046631": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3262437927871518862",
+          "size": "888798322",
+          "download": "430979168"
+        }
+      }
+    },
+    "1046632": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6668989612917559139",
+          "size": "528378716",
+          "download": "459993120"
+        }
+      }
+    },
+    "1046633": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1989858595994009099",
+          "size": "929028335",
+          "download": "444620912"
+        }
+      }
+    },
+    "1046634": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "1046635": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "1046636": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "1205220": {
+      "manifests": {
+        "public": {
+          "gid": "8536998541112072256",
+          "size": "175767139",
+          "download": "141166640"
+        }
+      },
+      "dlcappid": "1205220",
+      "depotfromapp": "1205220"
+    },
+    "branches": {
+      "public": {
+        "buildid": "4547937",
+        "timeupdated": "1578406879",
+        "timebuildupdated": "1578406798"
+      },
+      "ptr_daily": {
+        "buildid": "4152210",
+        "description": "Public Test Realm daily build",
+        "timeupdated": "1567143246",
+        "timebuildupdated": "1567143246"
+      }
+    }
+  }
+}

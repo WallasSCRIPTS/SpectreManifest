@@ -1,0 +1,70 @@
+{
+  "name": "Space Grunts",
+  "source": "spectre",
+  "changenumber": 39611737,
+  "updated": "2026-11-07T20:57:15.643Z",
+  "branches": {
+    "public": {
+      "buildid": "17182313",
+      "timeupdated": "1738229296",
+      "timebuildupdated": "1738229209"
+    },
+    "beta": {
+      "buildid": "1808900",
+      "description": "Beta branch",
+      "timeupdated": "1494318388",
+      "timebuildupdated": "1494318240"
+    }
+  },
+  "depot": {
+    "371431": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5511788358279363871",
+          "size": "94399398",
+          "download": "70797120"
+        }
+      }
+    },
+    "371432": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4370247264231479214",
+          "size": "106921341",
+          "download": "73620624"
+        }
+      }
+    },
+    "371433": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2948748029657735023",
+          "size": "103843473",
+          "download": "73189904"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17182313",
+        "timeupdated": "1738229296",
+        "timebuildupdated": "1738229209"
+      },
+      "beta": {
+        "buildid": "1808900",
+        "description": "Beta branch",
+        "timeupdated": "1494318388",
+        "timebuildupdated": "1494318240"
+      }
+    }
+  }
+}

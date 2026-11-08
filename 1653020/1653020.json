@@ -1,0 +1,46 @@
+{
+  "name": "Crude Oil",
+  "source": "spectre",
+  "changenumber": 37545437,
+  "updated": "2026-11-05T14:59:16.843Z",
+  "branches": {
+    "public": {
+      "buildid": "24402933",
+      "timeupdated": "1785104703",
+      "timebuildupdated": "1785104672"
+    }
+  },
+  "depot": {
+    "1653021": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4265748172158401078",
+          "size": "1644744988",
+          "download": "1078324624"
+        }
+      }
+    },
+    "1653022": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5920605507358037113",
+          "size": "1679670602",
+          "download": "1099416144"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24402933",
+        "timeupdated": "1785104703",
+        "timebuildupdated": "1785104672"
+      }
+    }
+  }
+}

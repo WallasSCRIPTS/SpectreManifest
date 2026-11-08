@@ -1,0 +1,58 @@
+{
+  "name": "Light & Shadow",
+  "source": "spectre",
+  "changenumber": 40062413,
+  "updated": "2026-11-06T23:19:27.037Z",
+  "branches": {
+    "public": {
+      "buildid": "10579193",
+      "timeupdated": "1677944597",
+      "timebuildupdated": "1676663576"
+    },
+    "beta": {
+      "buildid": "11561036",
+      "description": "New update testing",
+      "timeupdated": "1687793063",
+      "timebuildupdated": "1687792922"
+    }
+  },
+  "depot": {
+    "2171921": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7570372735413818234",
+          "size": "1021740904",
+          "download": "811244320"
+        }
+      }
+    },
+    "2171922": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3012157532286711563",
+          "size": "1045073509",
+          "download": "818512160"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10579193",
+        "timeupdated": "1677944597",
+        "timebuildupdated": "1676663576"
+      },
+      "beta": {
+        "buildid": "11561036",
+        "description": "New update testing",
+        "timeupdated": "1687793063",
+        "timebuildupdated": "1687792922"
+      }
+    }
+  }
+}

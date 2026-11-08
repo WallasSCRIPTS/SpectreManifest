@@ -1,0 +1,46 @@
+{
+  "name": "Low Oxygen",
+  "source": "spectre",
+  "changenumber": 40062413,
+  "updated": "2026-11-06T23:21:27.398Z",
+  "branches": {
+    "public": {
+      "buildid": "10908813",
+      "timeupdated": "1680350303",
+      "timebuildupdated": "1680350303"
+    }
+  },
+  "depot": {
+    "2305811": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5284817395734648443",
+          "size": "266838265",
+          "download": "31785888"
+        }
+      }
+    },
+    "2305812": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6394630637909481193",
+          "size": "222863098",
+          "download": "30053792"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10908813",
+        "timeupdated": "1680350303",
+        "timebuildupdated": "1680350303"
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Velis",
+  "source": "spectre",
+  "changenumber": 37751796,
+  "updated": "2026-11-06T21:06:47.509Z",
+  "branches": {
+    "public": {
+      "buildid": "24544842",
+      "timeupdated": "1785816500",
+      "timebuildupdated": "1785816421"
+    },
+    "beta": {
+      "buildid": "24544842",
+      "description": "内测、预发布。",
+      "timeupdated": "1785816500",
+      "timebuildupdated": "1785816421"
+    },
+    "legacy": {
+      "buildid": "16901665",
+      "description": "上古版本，不推荐。",
+      "timeupdated": "1735931841",
+      "timebuildupdated": "1735930992"
+    },
+    "previous": {
+      "buildid": "24444844",
+      "description": "上一正式版本。若新版本有问题，可切换回此版本。",
+      "timeupdated": "1785296489",
+      "timebuildupdated": "1785296386"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1643651": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5375156388413187226",
+          "size": "534307900",
+          "download": "156650576"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24544842",
+        "timeupdated": "1785816500",
+        "timebuildupdated": "1785816421"
+      },
+      "beta": {
+        "buildid": "24544842",
+        "description": "内测、预发布。",
+        "timeupdated": "1785816500",
+        "timebuildupdated": "1785816421"
+      },
+      "legacy": {
+        "buildid": "16901665",
+        "description": "上古版本，不推荐。",
+        "timeupdated": "1735931841",
+        "timebuildupdated": "1735930992"
+      },
+      "previous": {
+        "buildid": "24444844",
+        "description": "上一正式版本。若新版本有问题，可切换回此版本。",
+        "timeupdated": "1785296489",
+        "timebuildupdated": "1785296386"
+      }
+    }
+  }
+}

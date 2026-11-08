@@ -1,0 +1,91 @@
+{
+  "name": "Earthtongue",
+  "source": "spectre",
+  "changenumber": 37433691,
+  "updated": "2026-11-07T20:57:07.413Z",
+  "branches": {
+    "public": {
+      "buildid": "4027697",
+      "timeupdated": "1563557204",
+      "timebuildupdated": "1563557204"
+    },
+    "beta-test": {
+      "buildid": "4027443",
+      "description": "new content/patch build testing",
+      "timeupdated": "1563552083",
+      "timebuildupdated": "1563552083"
+    },
+    "earthtongue-legacy-1.2-modules": {
+      "buildid": "1215332",
+      "description": "legacy build for 1.2 \"modules\" pre patch",
+      "timeupdated": "1532633508",
+      "timebuildupdated": "1467836381"
+    },
+    "oldearthtongue": {
+      "buildid": "611170",
+      "timeupdated": "1459213960",
+      "timebuildupdated": "1430759325"
+    }
+  },
+  "depot": {
+    "358071": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7005091603903244668",
+          "size": "186107782",
+          "download": "77665424"
+        }
+      }
+    },
+    "358072": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6658042787564967565",
+          "size": "168190462",
+          "download": "72113344"
+        }
+      }
+    },
+    "358073": {},
+    "367150": {
+      "manifests": {
+        "public": {
+          "gid": "1038241662717523822",
+          "size": "31464927",
+          "download": "31879472"
+        }
+      },
+      "dlcappid": "367150"
+    },
+    "branches": {
+      "public": {
+        "buildid": "4027697",
+        "timeupdated": "1563557204",
+        "timebuildupdated": "1563557204"
+      },
+      "beta-test": {
+        "buildid": "4027443",
+        "description": "new content/patch build testing",
+        "timeupdated": "1563552083",
+        "timebuildupdated": "1563552083"
+      },
+      "earthtongue-legacy-1.2-modules": {
+        "buildid": "1215332",
+        "description": "legacy build for 1.2 \"modules\" pre patch",
+        "timeupdated": "1532633508",
+        "timebuildupdated": "1467836381"
+      },
+      "oldearthtongue": {
+        "buildid": "611170",
+        "timeupdated": "1459213960",
+        "timebuildupdated": "1430759325"
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Mary Le Chef - Cooking Passion",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:03.833Z",
+  "branches": {
+    "public": {
+      "buildid": "13882785",
+      "timeupdated": "1712061072",
+      "timebuildupdated": "1711633104"
+    },
+    "legacy_version": {
+      "buildid": "1833307",
+      "description": "Old build from May 2017, fallback if game doesn't run on your computer.",
+      "timeupdated": "1708614916",
+      "timebuildupdated": "1495197786"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "588621": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7641128404018166687",
+          "size": "775435508",
+          "download": "738437744"
+        }
+      }
+    },
+    "588622": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8342005758436767363",
+          "size": "799858841",
+          "download": "745203840"
+        }
+      }
+    },
+    "588623": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1834630284590549722",
+          "size": "784342027",
+          "download": "740323888"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13882785",
+        "timeupdated": "1712061072",
+        "timebuildupdated": "1711633104"
+      },
+      "legacy_version": {
+        "buildid": "1833307",
+        "description": "Old build from May 2017, fallback if game doesn't run on your computer.",
+        "timeupdated": "1708614916",
+        "timebuildupdated": "1495197786"
+      }
+    }
+  }
+}

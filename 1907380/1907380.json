@@ -1,0 +1,58 @@
+{
+  "name": "Arcane Vale",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:13:29.433Z",
+  "branches": {
+    "public": {
+      "buildid": "10958594",
+      "timeupdated": "1680911504",
+      "timebuildupdated": "1680911199"
+    },
+    "beta": {
+      "buildid": "12731311",
+      "description": "Public beta branch",
+      "timeupdated": "1700226296",
+      "timebuildupdated": "1700226296"
+    }
+  },
+  "depot": {
+    "1907381": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3203398940565861066",
+          "size": "469638284",
+          "download": "375610128"
+        }
+      }
+    },
+    "1907382": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5261903530828900391",
+          "size": "382841962",
+          "download": "285495280"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10958594",
+        "timeupdated": "1680911504",
+        "timebuildupdated": "1680911199"
+      },
+      "beta": {
+        "buildid": "12731311",
+        "description": "Public beta branch",
+        "timeupdated": "1700226296",
+        "timebuildupdated": "1700226296"
+      }
+    }
+  }
+}

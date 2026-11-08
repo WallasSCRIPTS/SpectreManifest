@@ -1,0 +1,58 @@
+{
+  "name": "Rightfully, Beary Arms",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:13:34.567Z",
+  "branches": {
+    "public": {
+      "buildid": "22667846",
+      "timeupdated": "1775571468",
+      "timebuildupdated": "1775501596"
+    },
+    "public-beta": {
+      "buildid": "22667846",
+      "description": "public facing beta channel",
+      "timeupdated": "1775532823",
+      "timebuildupdated": "1775501596"
+    }
+  },
+  "depot": {
+    "1928031": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6249220454689885087",
+          "size": "321922619",
+          "download": "239766608"
+        }
+      }
+    },
+    "1928032": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1854281112219933545",
+          "size": "317211405",
+          "download": "237604416"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22667846",
+        "timeupdated": "1775571468",
+        "timebuildupdated": "1775501596"
+      },
+      "public-beta": {
+        "buildid": "22667846",
+        "description": "public facing beta channel",
+        "timeupdated": "1775532823",
+        "timebuildupdated": "1775501596"
+      }
+    }
+  }
+}

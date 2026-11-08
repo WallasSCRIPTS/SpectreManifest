@@ -1,0 +1,70 @@
+{
+  "name": "Hyper Sentinel",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:26.790Z",
+  "branches": {
+    "public": {
+      "buildid": "2777289",
+      "timeupdated": "1526432926",
+      "timebuildupdated": "1526432116"
+    },
+    "beta": {
+      "buildid": "2772785",
+      "description": "Fixes for wireless controllers",
+      "timeupdated": "1526466020",
+      "timebuildupdated": "1526316633"
+    }
+  },
+  "depot": {
+    "640881": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8837136113009063974",
+          "size": "405326023",
+          "download": "319718848"
+        }
+      }
+    },
+    "640882": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6903896814702110113",
+          "size": "434984183",
+          "download": "316923072"
+        }
+      }
+    },
+    "640883": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "59683407069602372",
+          "size": "437514568",
+          "download": "319513792"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2777289",
+        "timeupdated": "1526432926",
+        "timebuildupdated": "1526432116"
+      },
+      "beta": {
+        "buildid": "2772785",
+        "description": "Fixes for wireless controllers",
+        "timeupdated": "1526466020",
+        "timebuildupdated": "1526316633"
+      }
+    }
+  }
+}

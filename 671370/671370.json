@@ -1,0 +1,68 @@
+{
+  "name": "Flight of Light",
+  "source": "spectre",
+  "changenumber": 34836303,
+  "updated": "2026-11-07T20:59:40.853Z",
+  "branches": {
+    "public": {
+      "buildid": "2008718",
+      "timeupdated": "1501752047",
+      "timebuildupdated": "1501750482"
+    },
+    "test": {
+      "buildid": "2008718",
+      "timeupdated": "1501752060",
+      "timebuildupdated": "1501750482"
+    }
+  },
+  "depot": {
+    "671371": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8794185408044286049",
+          "size": "1411467337",
+          "download": "639437248"
+        }
+      }
+    },
+    "671372": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6654499942534877606",
+          "size": "1424842573",
+          "download": "643253056"
+        }
+      }
+    },
+    "671373": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1184831447232874579",
+          "size": "1427072546",
+          "download": "643981552"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2008718",
+        "timeupdated": "1501752047",
+        "timebuildupdated": "1501750482"
+      },
+      "test": {
+        "buildid": "2008718",
+        "timeupdated": "1501752060",
+        "timebuildupdated": "1501750482"
+      }
+    }
+  }
+}

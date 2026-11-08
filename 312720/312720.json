@@ -1,0 +1,118 @@
+{
+  "name": "Khet 2.0",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:35.954Z",
+  "branches": {
+    "public": {
+      "buildid": "1641198",
+      "timeupdated": "1487462506",
+      "timebuildupdated": "1487462425"
+    },
+    "beta": {
+      "buildid": "1641198",
+      "description": "For testing new features & AI changes",
+      "timeupdated": "1487462519",
+      "timebuildupdated": "1487462425"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "312721": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8438186270577590900",
+          "size": "75050151",
+          "download": "70923200"
+        }
+      }
+    },
+    "312722": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8845621159003459468",
+          "size": "12847687",
+          "download": "3815824"
+        }
+      }
+    },
+    "312723": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3230907887661342603",
+          "size": "120042380",
+          "download": "83758640"
+        }
+      }
+    },
+    "312724": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1572518222379917193",
+          "size": "49866907",
+          "download": "17245056"
+        }
+      }
+    },
+    "312725": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8028015046803991722",
+          "size": "75050151",
+          "download": "70923200"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1641198",
+        "timeupdated": "1487462506",
+        "timebuildupdated": "1487462425"
+      },
+      "beta": {
+        "buildid": "1641198",
+        "description": "For testing new features & AI changes",
+        "timeupdated": "1487462519",
+        "timebuildupdated": "1487462425"
+      }
+    }
+  }
+}

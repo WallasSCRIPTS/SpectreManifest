@@ -1,0 +1,82 @@
+{
+  "name": "PogoChamp",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:38.829Z",
+  "branches": {
+    "public": {
+      "buildid": "15335753",
+      "timeupdated": "1723408673",
+      "timebuildupdated": "1723408578"
+    },
+    "old_levels": {
+      "buildid": "10579132",
+      "description": "An old build with Flubber and Bouncer",
+      "timeupdated": "1690242268",
+      "timebuildupdated": "1676663032"
+    },
+    "old_survival": {
+      "buildid": "11777234",
+      "description": "A version of the game that has the old survival leaderboard.",
+      "timeupdated": "1696880008",
+      "timebuildupdated": "1690236506"
+    },
+    "ninja_playtest": {
+      "buildid": "16845378",
+      "description": "A test branch for extra hard 'ninja' levels",
+      "timeupdated": "1735075931",
+      "timebuildupdated": "1735075931"
+    }
+  },
+  "depot": {
+    "1357221": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8538732303838172788",
+          "size": "696201849",
+          "download": "148702976"
+        }
+      }
+    },
+    "1357222": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5065475926635502478",
+          "size": "721276671",
+          "download": "156092208"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15335753",
+        "timeupdated": "1723408673",
+        "timebuildupdated": "1723408578"
+      },
+      "old_levels": {
+        "buildid": "10579132",
+        "description": "An old build with Flubber and Bouncer",
+        "timeupdated": "1690242268",
+        "timebuildupdated": "1676663032"
+      },
+      "old_survival": {
+        "buildid": "11777234",
+        "description": "A version of the game that has the old survival leaderboard.",
+        "timeupdated": "1696880008",
+        "timebuildupdated": "1690236506"
+      },
+      "ninja_playtest": {
+        "buildid": "16845378",
+        "description": "A test branch for extra hard 'ninja' levels",
+        "timeupdated": "1735075931",
+        "timebuildupdated": "1735075931"
+      }
+    }
+  }
+}

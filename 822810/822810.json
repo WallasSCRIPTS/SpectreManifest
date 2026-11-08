@@ -1,0 +1,104 @@
+{
+  "name": "Velvet Guard",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:58.361Z",
+  "branches": {
+    "public": {
+      "buildid": "19038562",
+      "timeupdated": "1751138286",
+      "timebuildupdated": "1751138256"
+    },
+    "beta": {
+      "buildid": "18692287",
+      "description": "An unstable beta version",
+      "timeupdated": "1748782100",
+      "timebuildupdated": "1748782100"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "822811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4341018498907451063",
+          "size": "123957205",
+          "download": "58897040"
+        }
+      }
+    },
+    "822812": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1149950632717319701",
+          "size": "214083625",
+          "download": "81780624"
+        }
+      }
+    },
+    "822813": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5144784376957783521",
+          "size": "123999406",
+          "download": "58556032"
+        }
+      }
+    },
+    "822814": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7374914103035248064",
+          "size": "117538663",
+          "download": "56396144"
+        }
+      }
+    },
+    "3845490": {
+      "manifests": {
+        "public": {
+          "gid": "5614378167174734612",
+          "size": "15709179",
+          "download": "13328768"
+        }
+      },
+      "dlcappid": "3845490"
+    },
+    "branches": {
+      "public": {
+        "buildid": "19038562",
+        "timeupdated": "1751138286",
+        "timebuildupdated": "1751138256"
+      },
+      "beta": {
+        "buildid": "18692287",
+        "description": "An unstable beta version",
+        "timeupdated": "1748782100",
+        "timebuildupdated": "1748782100"
+      }
+    }
+  }
+}

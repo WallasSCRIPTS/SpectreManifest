@@ -1,0 +1,90 @@
+{
+  "name": "The Morrigan",
+  "source": "spectre",
+  "changenumber": 40017657,
+  "updated": "2026-11-07T21:02:14.278Z",
+  "branches": {
+    "public": {
+      "buildid": "6224711",
+      "timeupdated": "1613647150",
+      "timebuildupdated": "1613049054"
+    },
+    "devbranch": {
+      "buildid": "6224711",
+      "timeupdated": "1613050422",
+      "timebuildupdated": "1613049054"
+    },
+    "livsupport": {
+      "buildid": "6687935",
+      "description": "For Liv support",
+      "timeupdated": "1620820442",
+      "timebuildupdated": "1620820191"
+    },
+    "rollback": {
+      "buildid": "5579509",
+      "timeupdated": "1613647122",
+      "timebuildupdated": "1600787497"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229033": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "985261": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8114649909516918682",
+          "size": "10366612473",
+          "download": "3110435888"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6224711",
+        "timeupdated": "1613647150",
+        "timebuildupdated": "1613049054"
+      },
+      "devbranch": {
+        "buildid": "6224711",
+        "timeupdated": "1613050422",
+        "timebuildupdated": "1613049054"
+      },
+      "livsupport": {
+        "buildid": "6687935",
+        "description": "For Liv support",
+        "timeupdated": "1620820442",
+        "timebuildupdated": "1620820191"
+      },
+      "rollback": {
+        "buildid": "5579509",
+        "timeupdated": "1613647122",
+        "timebuildupdated": "1600787497"
+      }
+    }
+  }
+}

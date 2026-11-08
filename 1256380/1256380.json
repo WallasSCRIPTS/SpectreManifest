@@ -1,0 +1,92 @@
+{
+  "name": "FPS Infinite",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:03:56.805Z",
+  "branches": {
+    "public": {
+      "buildid": "13162550",
+      "timeupdated": "1705113421",
+      "timebuildupdated": "1705113144"
+    },
+    "beta": {
+      "buildid": "13162550",
+      "timeupdated": "1705113402",
+      "timebuildupdated": "1705113144"
+    },
+    "old_libc6": {
+      "buildid": "6167316",
+      "description": "For Linux distributions on lower libc6 versions",
+      "timeupdated": "1613957234",
+      "timebuildupdated": "1612144567"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1256381": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3206089515649840818",
+          "size": "312732250",
+          "download": "133048944"
+        }
+      }
+    },
+    "1256382": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7529839651866877301",
+          "size": "205321553",
+          "download": "101512000"
+        }
+      }
+    },
+    "1256383": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2569397633143051651",
+          "size": "193242640",
+          "download": "98844720"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13162550",
+        "timeupdated": "1705113421",
+        "timebuildupdated": "1705113144"
+      },
+      "beta": {
+        "buildid": "13162550",
+        "timeupdated": "1705113402",
+        "timebuildupdated": "1705113144"
+      },
+      "old_libc6": {
+        "buildid": "6167316",
+        "description": "For Linux distributions on lower libc6 versions",
+        "timeupdated": "1613957234",
+        "timebuildupdated": "1612144567"
+      }
+    }
+  }
+}

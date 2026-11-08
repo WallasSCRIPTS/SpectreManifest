@@ -1,0 +1,83 @@
+{
+  "name": "Walk of Life",
+  "source": "spectre",
+  "changenumber": 40674681,
+  "updated": "2026-11-06T23:13:29.813Z",
+  "branches": {
+    "public": {
+      "buildid": "26456250",
+      "timeupdated": "1793885402",
+      "timebuildupdated": "1793877034"
+    },
+    "testing": {
+      "buildid": "25606633",
+      "description": "Testing",
+      "timeupdated": "1790696563",
+      "timebuildupdated": "1790696286"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1910151": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8158435496837105368",
+          "size": "777637504",
+          "download": "614396464"
+        }
+      }
+    },
+    "1910152": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2768711806025321533",
+          "size": "1925558130",
+          "download": "636123200"
+        }
+      }
+    },
+    "5485230": {
+      "config": {
+        "oslist": "windows,macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2981476146277553172",
+          "size": "830728478",
+          "download": "790123696"
+        }
+      },
+      "dlcappid": "5485230"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26456250",
+        "timeupdated": "1793885402",
+        "timebuildupdated": "1793877034"
+      },
+      "testing": {
+        "buildid": "25606633",
+        "description": "Testing",
+        "timeupdated": "1790696563",
+        "timebuildupdated": "1790696286"
+      }
+    }
+  }
+}

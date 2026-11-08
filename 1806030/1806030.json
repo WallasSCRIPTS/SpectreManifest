@@ -1,0 +1,72 @@
+{
+  "name": "Minimal Dungeon RPG",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:11:33.105Z",
+  "branches": {
+    "public": {
+      "buildid": "8352612",
+      "timeupdated": "1646987035",
+      "timebuildupdated": "1646984982"
+    }
+  },
+  "depot": {
+    "1806031": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5198959278008485079",
+          "size": "425900620",
+          "download": "147068912"
+        }
+      }
+    },
+    "1806032": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2583613114261516477",
+          "size": "216253079",
+          "download": "76681312"
+        }
+      }
+    },
+    "1830121": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1686773840627959805",
+          "size": "677659552",
+          "download": "258734176"
+        }
+      },
+      "depotfromapp": "1830120"
+    },
+    "1830122": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7499473065562664231",
+          "size": "216182755",
+          "download": "76652192"
+        }
+      },
+      "depotfromapp": "1830120"
+    },
+    "branches": {
+      "public": {
+        "buildid": "8352612",
+        "timeupdated": "1646987035",
+        "timebuildupdated": "1646984982"
+      }
+    }
+  }
+}

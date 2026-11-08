@@ -1,0 +1,58 @@
+{
+  "name": "Jack Move",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:16.320Z",
+  "branches": {
+    "public": {
+      "buildid": "9752309",
+      "timeupdated": "1666168125",
+      "timebuildupdated": "1666168125"
+    },
+    "testing": {
+      "buildid": "9531388",
+      "description": "Bug testing",
+      "timeupdated": "1663335478",
+      "timebuildupdated": "1663335478"
+    }
+  },
+  "depot": {
+    "1099641": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1107010683575859922",
+          "size": "1626415509",
+          "download": "763837776"
+        }
+      }
+    },
+    "1099642": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3313756391797903722",
+          "size": "1626412961",
+          "download": "760429424"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9752309",
+        "timeupdated": "1666168125",
+        "timebuildupdated": "1666168125"
+      },
+      "testing": {
+        "buildid": "9531388",
+        "description": "Bug testing",
+        "timeupdated": "1663335478",
+        "timebuildupdated": "1663335478"
+      }
+    }
+  }
+}

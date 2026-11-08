@@ -1,0 +1,82 @@
+{
+  "name": "Plummet",
+  "source": "spectre",
+  "changenumber": 34858173,
+  "updated": "2026-11-06T21:05:04.532Z",
+  "branches": {
+    "public": {
+      "buildid": "9225846",
+      "timeupdated": "1659302349",
+      "timebuildupdated": "1659301863"
+    },
+    "test": {
+      "buildid": "8323108",
+      "description": "testing builds",
+      "timeupdated": "1659302337",
+      "timebuildupdated": "1646591417"
+    }
+  },
+  "depot": {
+    "1413291": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6154053316901494688",
+          "size": "198145721",
+          "download": "66265712"
+        }
+      }
+    },
+    "1413292": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "40721616346686652",
+          "size": "263731362",
+          "download": "86291312"
+        }
+      }
+    },
+    "1413293": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1112010038729664448",
+          "size": "282244843",
+          "download": "70096176"
+        }
+      }
+    },
+    "1413294": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3093718645046671897",
+          "size": "205284282",
+          "download": "68363184"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9225846",
+        "timeupdated": "1659302349",
+        "timebuildupdated": "1659301863"
+      },
+      "test": {
+        "buildid": "8323108",
+        "description": "testing builds",
+        "timeupdated": "1659302337",
+        "timebuildupdated": "1646591417"
+      }
+    }
+  }
+}

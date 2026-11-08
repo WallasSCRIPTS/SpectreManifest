@@ -1,0 +1,100 @@
+{
+  "name": "Ultra Street Fighter IV",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:55.050Z",
+  "branches": {
+    "public": {
+      "buildid": "834219",
+      "timebuildupdated": "1446023535"
+    },
+    "local": {
+      "buildid": "7751",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1343739771"
+    }
+  },
+  "depot": {
+    "45761": {
+      "manifests": {
+        "public": {
+          "gid": "7494827315436345520",
+          "size": "9515319576",
+          "download": "6962358240"
+        }
+      }
+    },
+    "45762": {
+      "manifests": {
+        "public": {
+          "gid": "9108480795496328509",
+          "size": "501324",
+          "download": "126760800"
+        }
+      }
+    },
+    "45763": {
+      "manifests": {
+        "public": {
+          "gid": "5759861264066331637",
+          "size": "1326438144",
+          "download": "565636016"
+        }
+      }
+    },
+    "45764": {
+      "manifests": {
+        "public": {
+          "gid": "8286823315541266651",
+          "size": "1470647972",
+          "download": "594989920"
+        }
+      }
+    },
+    "45765": {
+      "manifests": {
+        "public": {
+          "gid": "2973503131075698863",
+          "size": "1689359584",
+          "download": "491451280"
+        }
+      }
+    },
+    "45766": {},
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "301660": {
+      "manifests": {
+        "public": {
+          "gid": "1238152240090815273",
+          "size": "2400214458",
+          "download": "6378293658070"
+        }
+      },
+      "dlcappid": "301660"
+    },
+    "branches": {
+      "public": {
+        "buildid": "834219",
+        "timebuildupdated": "1446023535"
+      },
+      "local": {
+        "buildid": "7751",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1343739771"
+      }
+    }
+  }
+}

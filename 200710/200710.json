@@ -1,0 +1,79 @@
+{
+  "name": "Torchlight II",
+  "source": "spectre",
+  "changenumber": 40668342,
+  "updated": "2026-11-07T20:56:00.343Z",
+  "branches": {
+    "public": {
+      "buildid": "24292952",
+      "timeupdated": "1790046542",
+      "timebuildupdated": "1784538683"
+    },
+    "public_beta": {
+      "buildid": "26475914",
+      "description": "Public Beta Test",
+      "timeupdated": "1793968438",
+      "timebuildupdated": "1793938703"
+    }
+  },
+  "depot": {
+    "200711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5916473160849500132",
+          "size": "1724573655",
+          "download": "1657383552"
+        }
+      }
+    },
+    "200713": {
+      "manifests": {
+        "public": {
+          "gid": "1937744461698132231",
+          "size": "125497895",
+          "download": "0"
+        }
+      }
+    },
+    "200714": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1277729012980678393",
+          "size": "1674585093",
+          "download": "1532534064"
+        }
+      }
+    },
+    "200715": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3414435834532674516",
+          "size": "1754589293",
+          "download": "1535896512"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24292952",
+        "timeupdated": "1790046542",
+        "timebuildupdated": "1784538683"
+      },
+      "public_beta": {
+        "buildid": "26475914",
+        "description": "Public Beta Test",
+        "timeupdated": "1793968438",
+        "timebuildupdated": "1793938703"
+      }
+    }
+  }
+}

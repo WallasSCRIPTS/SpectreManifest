@@ -1,0 +1,295 @@
+{
+  "name": "Light of Alariya",
+  "source": "spectre",
+  "changenumber": 40641671,
+  "updated": "2026-11-06T23:17:36.994Z",
+  "branches": {
+    "public": {
+      "buildid": "10353774",
+      "timeupdated": "1674098986",
+      "timebuildupdated": "1674094385"
+    },
+    "alpha": {
+      "buildid": "9807194",
+      "description": "Alpha Build",
+      "timeupdated": "1666822119",
+      "timebuildupdated": "1666819577"
+    },
+    "beta": {
+      "buildid": "9988539",
+      "description": "Beta build",
+      "timeupdated": "1669091386",
+      "timebuildupdated": "1669090858"
+    },
+    "beta_interim": {
+      "buildid": "9915482",
+      "description": "Beta interim build",
+      "timeupdated": "1668188733",
+      "timebuildupdated": "1668147143"
+    },
+    "daily": {
+      "buildid": "10360831",
+      "description": "Development Only - daily automated builds",
+      "timeupdated": "1674159183",
+      "timebuildupdated": "1674159183"
+    },
+    "daily_development": {
+      "buildid": "10091242",
+      "description": "Daily automated builds with a development build",
+      "timeupdated": "1670355071",
+      "timebuildupdated": "1670355071"
+    },
+    "first_playable": {
+      "buildid": "9709539",
+      "description": "First Playable Build",
+      "timeupdated": "1665622353",
+      "timebuildupdated": "1665622085"
+    },
+    "release_candidate_1": {
+      "buildid": "10068110",
+      "description": "1st Release Candidate",
+      "timeupdated": "1670014731",
+      "timebuildupdated": "1670013320"
+    },
+    "release_candidate_10": {
+      "buildid": "10120149",
+      "description": "10th Release Candidate",
+      "timeupdated": "1670716633",
+      "timebuildupdated": "1670667402"
+    },
+    "release_candidate_11": {
+      "buildid": "10125989",
+      "description": "11th Release Candidate",
+      "timeupdated": "1670814882",
+      "timebuildupdated": "1670814519"
+    },
+    "release_candidate_12": {
+      "buildid": "10353774",
+      "description": "12th Release Candidate",
+      "timeupdated": "1674098930",
+      "timebuildupdated": "1674094385"
+    },
+    "release_candidate_2": {
+      "buildid": "10076438",
+      "description": "2nd Release Candidate",
+      "timeupdated": "1670295051",
+      "timebuildupdated": "1670198283"
+    },
+    "release_candidate_3": {
+      "buildid": "10076800",
+      "description": "3rd Release Candidate",
+      "timeupdated": "1670295094",
+      "timebuildupdated": "1670204206"
+    },
+    "release_candidate_4": {
+      "buildid": "10077336",
+      "description": "4th Release Candidate",
+      "timeupdated": "1670295125",
+      "timebuildupdated": "1670213489"
+    },
+    "release_candidate_5": {
+      "buildid": "10082258",
+      "description": "5th Release Candidate",
+      "timeupdated": "1670295155",
+      "timebuildupdated": "1670265207"
+    },
+    "release_candidate_6": {
+      "buildid": "10082968",
+      "description": "6th Release Candidate",
+      "timeupdated": "1670295180",
+      "timebuildupdated": "1670272199"
+    },
+    "release_candidate_7": {
+      "buildid": "10085515",
+      "description": "7th Release Candidate",
+      "timeupdated": "1670305153",
+      "timebuildupdated": "1670301234"
+    },
+    "release_candidate_8": {
+      "buildid": "10093100",
+      "description": "8th Release Candidate",
+      "timeupdated": "1670375564",
+      "timebuildupdated": "1670374649"
+    },
+    "release_candidate_9": {
+      "buildid": "10093603",
+      "description": "9th Release Candidate",
+      "timeupdated": "1670381041",
+      "timebuildupdated": "1670380065"
+    },
+    "rockstar": {
+      "buildid": "9877650",
+      "description": "Build meant for review by R*",
+      "timeupdated": "1667685181",
+      "timebuildupdated": "1667679979"
+    },
+    "ue5.1_test": {
+      "buildid": "9979745",
+      "description": "Test branch for UE 5.1 migration",
+      "timeupdated": "1668989070",
+      "timebuildupdated": "1668989070"
+    },
+    "vertical_slice": {
+      "buildid": "9614889",
+      "description": "Vertical Slice Build",
+      "timeupdated": "1665591893",
+      "timebuildupdated": "1664430191"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2142841": {
+      "manifests": {
+        "public": {
+          "gid": "8373209617301177385",
+          "size": "2644827016",
+          "download": "2296505840"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10353774",
+        "timeupdated": "1674098986",
+        "timebuildupdated": "1674094385"
+      },
+      "alpha": {
+        "buildid": "9807194",
+        "description": "Alpha Build",
+        "timeupdated": "1666822119",
+        "timebuildupdated": "1666819577"
+      },
+      "beta": {
+        "buildid": "9988539",
+        "description": "Beta build",
+        "timeupdated": "1669091386",
+        "timebuildupdated": "1669090858"
+      },
+      "beta_interim": {
+        "buildid": "9915482",
+        "description": "Beta interim build",
+        "timeupdated": "1668188733",
+        "timebuildupdated": "1668147143"
+      },
+      "daily": {
+        "buildid": "10360831",
+        "description": "Development Only - daily automated builds",
+        "timeupdated": "1674159183",
+        "timebuildupdated": "1674159183"
+      },
+      "daily_development": {
+        "buildid": "10091242",
+        "description": "Daily automated builds with a development build",
+        "timeupdated": "1670355071",
+        "timebuildupdated": "1670355071"
+      },
+      "first_playable": {
+        "buildid": "9709539",
+        "description": "First Playable Build",
+        "timeupdated": "1665622353",
+        "timebuildupdated": "1665622085"
+      },
+      "release_candidate_1": {
+        "buildid": "10068110",
+        "description": "1st Release Candidate",
+        "timeupdated": "1670014731",
+        "timebuildupdated": "1670013320"
+      },
+      "release_candidate_10": {
+        "buildid": "10120149",
+        "description": "10th Release Candidate",
+        "timeupdated": "1670716633",
+        "timebuildupdated": "1670667402"
+      },
+      "release_candidate_11": {
+        "buildid": "10125989",
+        "description": "11th Release Candidate",
+        "timeupdated": "1670814882",
+        "timebuildupdated": "1670814519"
+      },
+      "release_candidate_12": {
+        "buildid": "10353774",
+        "description": "12th Release Candidate",
+        "timeupdated": "1674098930",
+        "timebuildupdated": "1674094385"
+      },
+      "release_candidate_2": {
+        "buildid": "10076438",
+        "description": "2nd Release Candidate",
+        "timeupdated": "1670295051",
+        "timebuildupdated": "1670198283"
+      },
+      "release_candidate_3": {
+        "buildid": "10076800",
+        "description": "3rd Release Candidate",
+        "timeupdated": "1670295094",
+        "timebuildupdated": "1670204206"
+      },
+      "release_candidate_4": {
+        "buildid": "10077336",
+        "description": "4th Release Candidate",
+        "timeupdated": "1670295125",
+        "timebuildupdated": "1670213489"
+      },
+      "release_candidate_5": {
+        "buildid": "10082258",
+        "description": "5th Release Candidate",
+        "timeupdated": "1670295155",
+        "timebuildupdated": "1670265207"
+      },
+      "release_candidate_6": {
+        "buildid": "10082968",
+        "description": "6th Release Candidate",
+        "timeupdated": "1670295180",
+        "timebuildupdated": "1670272199"
+      },
+      "release_candidate_7": {
+        "buildid": "10085515",
+        "description": "7th Release Candidate",
+        "timeupdated": "1670305153",
+        "timebuildupdated": "1670301234"
+      },
+      "release_candidate_8": {
+        "buildid": "10093100",
+        "description": "8th Release Candidate",
+        "timeupdated": "1670375564",
+        "timebuildupdated": "1670374649"
+      },
+      "release_candidate_9": {
+        "buildid": "10093603",
+        "description": "9th Release Candidate",
+        "timeupdated": "1670381041",
+        "timebuildupdated": "1670380065"
+      },
+      "rockstar": {
+        "buildid": "9877650",
+        "description": "Build meant for review by R*",
+        "timeupdated": "1667685181",
+        "timebuildupdated": "1667679979"
+      },
+      "ue5.1_test": {
+        "buildid": "9979745",
+        "description": "Test branch for UE 5.1 migration",
+        "timeupdated": "1668989070",
+        "timebuildupdated": "1668989070"
+      },
+      "vertical_slice": {
+        "buildid": "9614889",
+        "description": "Vertical Slice Build",
+        "timeupdated": "1665591893",
+        "timebuildupdated": "1664430191"
+      }
+    }
+  }
+}

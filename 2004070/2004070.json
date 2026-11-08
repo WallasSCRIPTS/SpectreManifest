@@ -1,0 +1,73 @@
+{
+  "name": "RetroArch - Gambatte",
+  "source": "spectre",
+  "changenumber": 40667099,
+  "updated": "2026-11-06T23:15:31.162Z",
+  "branches": {
+    "public": {
+      "buildid": "20833825",
+      "timeupdated": "1763418603",
+      "timebuildupdated": "1763416205"
+    },
+    "nightly": {
+      "buildid": "26483556",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793965975",
+      "timebuildupdated": "1793965975"
+    }
+  },
+  "depot": {
+    "2004070": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5982067486063076916",
+          "size": "3964844",
+          "download": "375312"
+        }
+      },
+      "dlcappid": "2004070"
+    },
+    "2004071": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2687667990223580947",
+          "size": "4642207",
+          "download": "345936"
+        }
+      },
+      "dlcappid": "2004070"
+    },
+    "2004072": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7691322214923315419",
+          "size": "7569103",
+          "download": "580848"
+        }
+      },
+      "dlcappid": "2004070"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833825",
+        "timeupdated": "1763418603",
+        "timebuildupdated": "1763416205"
+      },
+      "nightly": {
+        "buildid": "26483556",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793965975",
+        "timebuildupdated": "1793965975"
+      }
+    }
+  }
+}

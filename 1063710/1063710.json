@@ -1,0 +1,70 @@
+{
+  "name": "Tubetastic World Splashfest",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:53.950Z",
+  "branches": {
+    "public": {
+      "buildid": "4849301",
+      "timeupdated": "1585812309",
+      "timebuildupdated": "1585812291"
+    },
+    "beta": {
+      "buildid": "4827909",
+      "description": "Development version",
+      "timeupdated": "1585319511",
+      "timebuildupdated": "1585319511"
+    }
+  },
+  "depot": {
+    "1063711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1361532807828291831",
+          "size": "99356819",
+          "download": "84367712"
+        }
+      }
+    },
+    "1063712": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4106318847849293022",
+          "size": "120053796",
+          "download": "94879648"
+        }
+      }
+    },
+    "1063713": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2796387341438299180",
+          "size": "98485692",
+          "download": "83374144"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4849301",
+        "timeupdated": "1585812309",
+        "timebuildupdated": "1585812291"
+      },
+      "beta": {
+        "buildid": "4827909",
+        "description": "Development version",
+        "timeupdated": "1585319511",
+        "timebuildupdated": "1585319511"
+      }
+    }
+  }
+}

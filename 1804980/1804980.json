@@ -1,0 +1,70 @@
+{
+  "name": "Polyfury",
+  "source": "spectre",
+  "changenumber": 40263409,
+  "updated": "2026-11-06T23:11:32.964Z",
+  "branches": {
+    "public": {
+      "buildid": "12324871",
+      "timeupdated": "1696077938",
+      "timebuildupdated": "1696077893"
+    },
+    "beta": {
+      "buildid": "19189981",
+      "description": "closed beta test",
+      "timeupdated": "1752233474",
+      "timebuildupdated": "1752233456"
+    }
+  },
+  "depot": {
+    "1804981": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5845210435816904136",
+          "size": "224090741",
+          "download": "120455792"
+        }
+      }
+    },
+    "1804982": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7013210239610241278",
+          "size": "248092343",
+          "download": "128108160"
+        }
+      }
+    },
+    "1804983": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1288548151687654438",
+          "size": "271443086",
+          "download": "123685840"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12324871",
+        "timeupdated": "1696077938",
+        "timebuildupdated": "1696077893"
+      },
+      "beta": {
+        "buildid": "19189981",
+        "description": "closed beta test",
+        "timeupdated": "1752233474",
+        "timebuildupdated": "1752233456"
+      }
+    }
+  }
+}

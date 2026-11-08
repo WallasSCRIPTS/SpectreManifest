@@ -1,0 +1,71 @@
+{
+  "name": "Monster Train",
+  "source": "spectre",
+  "changenumber": 37441117,
+  "updated": "2026-11-07T21:03:17.814Z",
+  "branches": {
+    "public": {
+      "buildid": "7651556",
+      "timeupdated": "1635981221",
+      "timebuildupdated": "1635961067"
+    },
+    "compatibility-testing": {
+      "buildid": "5543429",
+      "description": "Help players debug problems",
+      "timeupdated": "1600124652",
+      "timebuildupdated": "1600124652"
+    },
+    "public-test-server": {
+      "buildid": "6063165",
+      "description": "Public test server",
+      "timeupdated": "1610337498",
+      "timebuildupdated": "1610337498"
+    }
+  },
+  "depot": {
+    "229005": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1102191": {
+      "manifests": {
+        "public": {
+          "gid": "7945876831977925882",
+          "size": "1139712578",
+          "download": "624381744"
+        }
+      }
+    },
+    "1359320": {
+      "manifests": {
+        "public": {
+          "gid": "2711900422473599541",
+          "size": "57017933",
+          "download": "50069824"
+        }
+      },
+      "dlcappid": "1359320"
+    },
+    "branches": {
+      "public": {
+        "buildid": "7651556",
+        "timeupdated": "1635981221",
+        "timebuildupdated": "1635961067"
+      },
+      "compatibility-testing": {
+        "buildid": "5543429",
+        "description": "Help players debug problems",
+        "timeupdated": "1600124652",
+        "timebuildupdated": "1600124652"
+      },
+      "public-test-server": {
+        "buildid": "6063165",
+        "description": "Public test server",
+        "timeupdated": "1610337498",
+        "timebuildupdated": "1610337498"
+      }
+    }
+  }
+}

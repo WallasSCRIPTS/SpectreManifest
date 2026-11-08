@@ -1,0 +1,1310 @@
+{
+  "name": "GameGuru MAX",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:03:52.918Z",
+  "branches": {
+    "public": {
+      "buildid": "25581645",
+      "timeupdated": "1790609310",
+      "timebuildupdated": "1790609310"
+    },
+    "2023.04.26": {
+      "buildid": "11097204",
+      "description": "2023.04.26",
+      "timeupdated": "1682529967",
+      "timebuildupdated": "1682527989"
+    },
+    "2023.05.10": {
+      "buildid": "11893653",
+      "description": "2023.05.10",
+      "timeupdated": "1691505144",
+      "timebuildupdated": "1691505144"
+    },
+    "2023.08.01": {
+      "buildid": "12274414",
+      "description": "2023.08.01",
+      "timeupdated": "1695916393",
+      "timebuildupdated": "1695643738"
+    },
+    "2023.10.23": {
+      "buildid": "12819160",
+      "description": "2023.10.23",
+      "timeupdated": "1701263679",
+      "timebuildupdated": "1701188876"
+    },
+    "2023.11.29": {
+      "buildid": "12888633",
+      "description": "2023.11.29",
+      "timeupdated": "1702913677",
+      "timebuildupdated": "1701857531"
+    },
+    "2023.12.18": {
+      "buildid": "13634946",
+      "description": "2023.12.18",
+      "timeupdated": "1710246288",
+      "timebuildupdated": "1709572148"
+    },
+    "2024.03.01": {
+      "buildid": "14763019",
+      "description": "2024.03.01",
+      "timeupdated": "1718975782",
+      "timebuildupdated": "1718767428"
+    },
+    "2024.06.18": {
+      "buildid": "14761469",
+      "description": "2024.06.18",
+      "timeupdated": "1718976715",
+      "timebuildupdated": "1718754947"
+    },
+    "2024.09.24": {
+      "buildid": "16667440",
+      "description": "2024.09.24",
+      "timeupdated": "1733680308",
+      "timebuildupdated": "1733583292"
+    },
+    "2025.03.13": {
+      "buildid": "17659457",
+      "description": "2025.03.13",
+      "timeupdated": "1755817714",
+      "timebuildupdated": "1741599275"
+    },
+    "2025.06.12": {
+      "buildid": "18844282",
+      "description": "2025.06.12",
+      "timeupdated": "1755817531",
+      "timebuildupdated": "1749749706"
+    },
+    "2025.08.21": {
+      "buildid": "19690494",
+      "description": "2025.08.21",
+      "timeupdated": "1755817680",
+      "timebuildupdated": "1755817218"
+    },
+    "2026.07.28": {
+      "buildid": "24430554",
+      "description": "2026.07.28",
+      "timeupdated": "1785237045",
+      "timebuildupdated": "1785237044"
+    },
+    "2026.08.13": {
+      "buildid": "25348132",
+      "description": "2026.08.13",
+      "timeupdated": "1789568573",
+      "timebuildupdated": "1789568572"
+    },
+    "earlytest": {
+      "buildid": "25365776",
+      "description": "Early Fix Test",
+      "timeupdated": "1789639098",
+      "timebuildupdated": "1789639097"
+    },
+    "preview": {
+      "buildid": "21920676",
+      "description": "Preview Release",
+      "timeupdated": "1770989450",
+      "timebuildupdated": "1770989450"
+    },
+    "previousdefault": {
+      "buildid": "24430554",
+      "description": "The last good public build",
+      "timeupdated": "1785237045",
+      "timebuildupdated": "1785237044"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1247291": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8613957388914161798",
+          "size": "24992183907",
+          "download": "9877955696"
+        }
+      }
+    },
+    "1247292": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7920714840961973560",
+          "size": "890754151",
+          "download": "658705648"
+        }
+      }
+    },
+    "1247293": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5424560423866158012",
+          "size": "1110291182",
+          "download": "1043252448"
+        }
+      }
+    },
+    "1418110": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "12519356764515699",
+          "size": "4447258",
+          "download": "3516192"
+        }
+      },
+      "dlcappid": "1418110"
+    },
+    "1928630": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7737268734746212079",
+          "size": "1528120626",
+          "download": "690148624"
+        }
+      },
+      "dlcappid": "1928630"
+    },
+    "1962060": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7862371193946542210",
+          "size": "4588287463",
+          "download": "1758019008"
+        }
+      },
+      "dlcappid": "1962060"
+    },
+    "2096770": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2134983467340518762",
+          "size": "172935066",
+          "download": "69032560"
+        }
+      },
+      "dlcappid": "2096770"
+    },
+    "2190600": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4167174233535876323",
+          "size": "859999647",
+          "download": "155356560"
+        }
+      },
+      "dlcappid": "2190600"
+    },
+    "2209640": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6068661842716334021",
+          "size": "5461823148",
+          "download": "1051224320"
+        }
+      },
+      "dlcappid": "2209640"
+    },
+    "2209641": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1581471022175050924",
+          "size": "3910462387",
+          "download": "441586832"
+        }
+      },
+      "dlcappid": "2209641"
+    },
+    "2236140": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8707272267973928989",
+          "size": "1408060646",
+          "download": "620648640"
+        }
+      },
+      "dlcappid": "2236140"
+    },
+    "2274640": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7175743809687920875",
+          "size": "878348387",
+          "download": "516542464"
+        }
+      },
+      "dlcappid": "2274640"
+    },
+    "2298680": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3900196261455126972",
+          "size": "652439411",
+          "download": "137539152"
+        }
+      },
+      "dlcappid": "2298680"
+    },
+    "2309710": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "395573618723122556",
+          "size": "1512343250",
+          "download": "790057040"
+        }
+      },
+      "dlcappid": "2309710"
+    },
+    "2339070": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3818586732270868332",
+          "size": "2090061928",
+          "download": "1094621520"
+        }
+      },
+      "dlcappid": "2339070"
+    },
+    "2339071": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7415698479492371667",
+          "size": "1415889060",
+          "download": "1365169824"
+        }
+      },
+      "dlcappid": "2339071"
+    },
+    "2339072": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "322052818339707818",
+          "size": "1359354039",
+          "download": "217417920"
+        }
+      },
+      "dlcappid": "2339072"
+    },
+    "2378170": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "970231630016152940",
+          "size": "94348722",
+          "download": "95254272"
+        }
+      },
+      "dlcappid": "2378170"
+    },
+    "2389980": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2700312045396521796",
+          "size": "81002514",
+          "download": "81767936"
+        }
+      },
+      "dlcappid": "2389980"
+    },
+    "2398710": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2649939750309936688",
+          "size": "650604291",
+          "download": "267342112"
+        }
+      },
+      "dlcappid": "2398710"
+    },
+    "2410450": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4705034763808679824",
+          "size": "79643300",
+          "download": "44378000"
+        }
+      },
+      "dlcappid": "2410450"
+    },
+    "2447250": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1528699837050417181",
+          "size": "1875927814",
+          "download": "1215940736"
+        }
+      },
+      "dlcappid": "2447250"
+    },
+    "2447280": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "424379557589600446",
+          "size": "321555160",
+          "download": "106469440"
+        }
+      },
+      "dlcappid": "2447280"
+    },
+    "2447390": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5649466933570489241",
+          "size": "3574971907",
+          "download": "234439376"
+        }
+      },
+      "dlcappid": "2447390"
+    },
+    "2488710": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1649279408191390344",
+          "size": "67900776",
+          "download": "68539280"
+        }
+      },
+      "dlcappid": "2488710"
+    },
+    "2540150": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1309418652621468435",
+          "size": "201842619",
+          "download": "175119184"
+        }
+      },
+      "dlcappid": "2540150"
+    },
+    "2566410": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4985046195170754350",
+          "size": "3860694",
+          "download": "2948320"
+        }
+      },
+      "dlcappid": "2566410"
+    },
+    "2605740": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1050504028240159621",
+          "size": "384421783",
+          "download": "102716384"
+        }
+      },
+      "dlcappid": "2605740"
+    },
+    "2626790": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "619965996597556375",
+          "size": "1242465652",
+          "download": "259776928"
+        }
+      },
+      "dlcappid": "2626790"
+    },
+    "2626800": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1783914442339705647",
+          "size": "4837477185",
+          "download": "461024720"
+        }
+      },
+      "dlcappid": "2626800"
+    },
+    "2676360": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8894315495063629607",
+          "size": "227070415",
+          "download": "16783872"
+        }
+      },
+      "dlcappid": "2676360"
+    },
+    "2676370": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8304520104682524104",
+          "size": "248388149",
+          "download": "18137088"
+        }
+      },
+      "dlcappid": "2676370"
+    },
+    "2679540": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2610786860754628959",
+          "size": "7513942",
+          "download": "5854688"
+        }
+      },
+      "dlcappid": "2679540"
+    },
+    "2679550": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6934952450365255998",
+          "size": "9668171",
+          "download": "7075520"
+        }
+      },
+      "dlcappid": "2679550"
+    },
+    "2679560": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5062297422030532061",
+          "size": "153010260",
+          "download": "43888448"
+        }
+      },
+      "dlcappid": "2679560"
+    },
+    "2679570": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4633148732900223958",
+          "size": "140619891",
+          "download": "38277808"
+        }
+      },
+      "dlcappid": "2679570"
+    },
+    "2679580": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "822251445375091945",
+          "size": "187477322",
+          "download": "47691712"
+        }
+      },
+      "dlcappid": "2679580"
+    },
+    "2682830": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "544513995157247926",
+          "size": "476465970",
+          "download": "452980080"
+        }
+      },
+      "dlcappid": "2682830"
+    },
+    "2682840": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1797586955555650908",
+          "size": "241958553",
+          "download": "190575328"
+        }
+      },
+      "dlcappid": "2682840"
+    },
+    "2691260": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2819351299611082825",
+          "size": "2229475430",
+          "download": "2021431168"
+        }
+      },
+      "dlcappid": "2691260"
+    },
+    "2710440": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6519528693739900564",
+          "size": "203826550",
+          "download": "75919376"
+        }
+      },
+      "dlcappid": "2710440"
+    },
+    "2728960": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "331770016546097027",
+          "size": "27153935",
+          "download": "26306240"
+        }
+      },
+      "dlcappid": "2728960"
+    },
+    "2728970": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4718481746880784068",
+          "size": "204493240",
+          "download": "66238128"
+        }
+      },
+      "dlcappid": "2728970"
+    },
+    "2740070": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4691224569580343019",
+          "size": "739937945",
+          "download": "626086880"
+        }
+      },
+      "dlcappid": "2740070"
+    },
+    "2778470": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2780501959492758977",
+          "size": "364291886",
+          "download": "170274832"
+        }
+      },
+      "dlcappid": "2778470"
+    },
+    "2831970": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "541941174000267327",
+          "size": "214939725",
+          "download": "172477456"
+        }
+      },
+      "dlcappid": "2831970"
+    },
+    "2831980": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8013242621600775482",
+          "size": "46552846",
+          "download": "38874688"
+        }
+      },
+      "dlcappid": "2831980"
+    },
+    "2832350": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5620835292864636328",
+          "size": "81495134",
+          "download": "52788320"
+        }
+      },
+      "dlcappid": "2832350"
+    },
+    "2873340": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1670013567792406246",
+          "size": "8304002947",
+          "download": "1913688992"
+        }
+      },
+      "dlcappid": "2873340"
+    },
+    "2873350": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "391786223311186654",
+          "size": "381268068",
+          "download": "353778048"
+        }
+      },
+      "dlcappid": "2873350"
+    },
+    "2873360": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2941044412784448028",
+          "size": "634987029",
+          "download": "623210736"
+        }
+      },
+      "dlcappid": "2873360"
+    },
+    "2873390": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8598160318629025042",
+          "size": "2554560491",
+          "download": "2470117168"
+        }
+      },
+      "dlcappid": "2873390"
+    },
+    "2873400": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4149098769993667909",
+          "size": "1289871739",
+          "download": "924409840"
+        }
+      },
+      "dlcappid": "2873400"
+    },
+    "2877510": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2164252465197816687",
+          "size": "287943424",
+          "download": "200049664"
+        }
+      },
+      "dlcappid": "2877510"
+    },
+    "2910660": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9195559333342005290",
+          "size": "725087753",
+          "download": "164688096"
+        }
+      },
+      "dlcappid": "2910660"
+    },
+    "2911300": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9136277493559029630",
+          "size": "377705105",
+          "download": "152434736"
+        }
+      },
+      "dlcappid": "2911300"
+    },
+    "2933010": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5989661935204889710",
+          "size": "12877274",
+          "download": "7538656"
+        }
+      },
+      "dlcappid": "2933010"
+    },
+    "2933020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3734920789210277313",
+          "size": "122660194",
+          "download": "30785616"
+        }
+      },
+      "dlcappid": "2933020"
+    },
+    "2933030": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "355733322854805813",
+          "size": "136940010",
+          "download": "32488272"
+        }
+      },
+      "dlcappid": "2933030"
+    },
+    "2933040": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5706116555772914072",
+          "size": "11788772",
+          "download": "7955648"
+        }
+      },
+      "dlcappid": "2933040"
+    },
+    "2933050": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6487419616640673157",
+          "size": "33743360",
+          "download": "11321312"
+        }
+      },
+      "dlcappid": "2933050"
+    },
+    "2996440": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8902342642694080332",
+          "size": "376749911",
+          "download": "339454176"
+        }
+      },
+      "dlcappid": "2996440"
+    },
+    "2996450": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8309799150237951739",
+          "size": "363172371",
+          "download": "186453056"
+        }
+      },
+      "dlcappid": "2996450"
+    },
+    "3052750": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2436781467405366766",
+          "size": "945245566",
+          "download": "189803312"
+        }
+      },
+      "dlcappid": "3052750"
+    },
+    "3054640": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6097877725212868315",
+          "size": "719830270",
+          "download": "416074496"
+        }
+      },
+      "dlcappid": "3054640"
+    },
+    "3156140": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8153840298466508189",
+          "size": "169033260",
+          "download": "16183664"
+        }
+      },
+      "dlcappid": "3156140"
+    },
+    "3156170": {
+      "config": {
+        "oslist": "windows"
+      },
+      "dlcappid": "3156170"
+    },
+    "3156180": {
+      "config": {
+        "oslist": "windows"
+      },
+      "dlcappid": "3156180"
+    },
+    "3196920": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2246928318781728012",
+          "size": "569023724",
+          "download": "502452688"
+        }
+      },
+      "dlcappid": "3196920"
+    },
+    "3287910": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3548566581040208822",
+          "size": "701790489",
+          "download": "117168720"
+        }
+      },
+      "dlcappid": "3287910"
+    },
+    "3290700": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "747603856053930883",
+          "size": "6953217127",
+          "download": "375247376"
+        }
+      },
+      "dlcappid": "3290700"
+    },
+    "3338770": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4827029816067328349",
+          "size": "723216482",
+          "download": "100415984"
+        }
+      },
+      "dlcappid": "3338770"
+    },
+    "3358180": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9133119145309775544",
+          "size": "885759829",
+          "download": "126977584"
+        }
+      },
+      "dlcappid": "3358180"
+    },
+    "3409400": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5677428491779656299",
+          "size": "181502269",
+          "download": "16402624"
+        }
+      },
+      "dlcappid": "3409400"
+    },
+    "3510950": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9071102011849851279",
+          "size": "298724988",
+          "download": "73122320"
+        }
+      },
+      "dlcappid": "3510950"
+    },
+    "3583890": {
+      "config": {
+        "oslist": "windows"
+      },
+      "dlcappid": "3583890"
+    },
+    "4093490": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6456402640248569851",
+          "size": "1472855507",
+          "download": "184201776"
+        }
+      },
+      "dlcappid": "4093490"
+    },
+    "4093500": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4017665930367888138",
+          "size": "428135493",
+          "download": "405312880"
+        }
+      },
+      "dlcappid": "4093500"
+    },
+    "4255110": {
+      "config": {
+        "oslist": "windows"
+      },
+      "dlcappid": "4255110"
+    },
+    "4303670": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "315805078800453818",
+          "size": "5440416",
+          "download": "2469872"
+        }
+      },
+      "dlcappid": "4303670"
+    },
+    "4480800": {
+      "config": {
+        "oslist": "windows"
+      },
+      "dlcappid": "4480800"
+    },
+    "4504140": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8371426056316566830",
+          "size": "792754166",
+          "download": "373224896"
+        }
+      },
+      "dlcappid": "4504140"
+    },
+    "4524980": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6681428709143577483",
+          "size": "232585518",
+          "download": "136526432"
+        }
+      },
+      "dlcappid": "4524980"
+    },
+    "4525000": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4839097001455506964",
+          "size": "484488177",
+          "download": "51676784"
+        }
+      },
+      "dlcappid": "4525000"
+    },
+    "4781690": {
+      "config": {
+        "oslist": "windows"
+      },
+      "dlcappid": "4781690"
+    },
+    "5099600": {
+      "config": {
+        "oslist": "windows"
+      },
+      "dlcappid": "5099600"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25581645",
+        "timeupdated": "1790609310",
+        "timebuildupdated": "1790609310"
+      },
+      "2023.04.26": {
+        "buildid": "11097204",
+        "description": "2023.04.26",
+        "timeupdated": "1682529967",
+        "timebuildupdated": "1682527989"
+      },
+      "2023.05.10": {
+        "buildid": "11893653",
+        "description": "2023.05.10",
+        "timeupdated": "1691505144",
+        "timebuildupdated": "1691505144"
+      },
+      "2023.08.01": {
+        "buildid": "12274414",
+        "description": "2023.08.01",
+        "timeupdated": "1695916393",
+        "timebuildupdated": "1695643738"
+      },
+      "2023.10.23": {
+        "buildid": "12819160",
+        "description": "2023.10.23",
+        "timeupdated": "1701263679",
+        "timebuildupdated": "1701188876"
+      },
+      "2023.11.29": {
+        "buildid": "12888633",
+        "description": "2023.11.29",
+        "timeupdated": "1702913677",
+        "timebuildupdated": "1701857531"
+      },
+      "2023.12.18": {
+        "buildid": "13634946",
+        "description": "2023.12.18",
+        "timeupdated": "1710246288",
+        "timebuildupdated": "1709572148"
+      },
+      "2024.03.01": {
+        "buildid": "14763019",
+        "description": "2024.03.01",
+        "timeupdated": "1718975782",
+        "timebuildupdated": "1718767428"
+      },
+      "2024.06.18": {
+        "buildid": "14761469",
+        "description": "2024.06.18",
+        "timeupdated": "1718976715",
+        "timebuildupdated": "1718754947"
+      },
+      "2024.09.24": {
+        "buildid": "16667440",
+        "description": "2024.09.24",
+        "timeupdated": "1733680308",
+        "timebuildupdated": "1733583292"
+      },
+      "2025.03.13": {
+        "buildid": "17659457",
+        "description": "2025.03.13",
+        "timeupdated": "1755817714",
+        "timebuildupdated": "1741599275"
+      },
+      "2025.06.12": {
+        "buildid": "18844282",
+        "description": "2025.06.12",
+        "timeupdated": "1755817531",
+        "timebuildupdated": "1749749706"
+      },
+      "2025.08.21": {
+        "buildid": "19690494",
+        "description": "2025.08.21",
+        "timeupdated": "1755817680",
+        "timebuildupdated": "1755817218"
+      },
+      "2026.07.28": {
+        "buildid": "24430554",
+        "description": "2026.07.28",
+        "timeupdated": "1785237045",
+        "timebuildupdated": "1785237044"
+      },
+      "2026.08.13": {
+        "buildid": "25348132",
+        "description": "2026.08.13",
+        "timeupdated": "1789568573",
+        "timebuildupdated": "1789568572"
+      },
+      "earlytest": {
+        "buildid": "25365776",
+        "description": "Early Fix Test",
+        "timeupdated": "1789639098",
+        "timebuildupdated": "1789639097"
+      },
+      "preview": {
+        "buildid": "21920676",
+        "description": "Preview Release",
+        "timeupdated": "1770989450",
+        "timebuildupdated": "1770989450"
+      },
+      "previousdefault": {
+        "buildid": "24430554",
+        "description": "The last good public build",
+        "timeupdated": "1785237045",
+        "timebuildupdated": "1785237044"
+      }
+    }
+  }
+}

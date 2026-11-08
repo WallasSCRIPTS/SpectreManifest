@@ -1,0 +1,70 @@
+{
+  "name": "Redirection",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:33.099Z",
+  "branches": {
+    "public": {
+      "buildid": "1916806",
+      "timeupdated": "1498479896",
+      "timebuildupdated": "1498479768"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "305761": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5792466471596657191",
+          "size": "99717810",
+          "download": "77709392"
+        }
+      }
+    },
+    "305762": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3712727242482866930",
+          "size": "87934448",
+          "download": "74609008"
+        }
+      }
+    },
+    "305763": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5889033286038463726",
+          "size": "126515573",
+          "download": "85596384"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1916806",
+        "timeupdated": "1498479896",
+        "timebuildupdated": "1498479768"
+      }
+    }
+  }
+}

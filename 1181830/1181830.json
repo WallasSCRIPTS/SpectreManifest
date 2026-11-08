@@ -1,0 +1,82 @@
+{
+  "name": "Urtuk: The Desolation",
+  "source": "spectre",
+  "changenumber": 37442455,
+  "updated": "2026-11-07T21:04:01.706Z",
+  "branches": {
+    "public": {
+      "buildid": "7768818",
+      "timeupdated": "1637744597",
+      "timebuildupdated": "1637743922"
+    },
+    "steam-1": {
+      "buildid": "7472834",
+      "description": "v.1.0.0+86",
+      "timeupdated": "1637744582",
+      "timebuildupdated": "1633332214"
+    },
+    "steam-v100_69": {
+      "buildid": "6899516",
+      "description": "v.1.0.0+69",
+      "timeupdated": "1637854074",
+      "timebuildupdated": "1624126497"
+    }
+  },
+  "depot": {
+    "1181831": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7207794659336136408",
+          "size": "878780373",
+          "download": "699556912"
+        }
+      }
+    },
+    "1181832": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8678364908154648425",
+          "size": "748206581",
+          "download": "681161984"
+        }
+      }
+    },
+    "1181833": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4397568420196245157",
+          "size": "746854374",
+          "download": "681577344"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7768818",
+        "timeupdated": "1637744597",
+        "timebuildupdated": "1637743922"
+      },
+      "steam-1": {
+        "buildid": "7472834",
+        "description": "v.1.0.0+86",
+        "timeupdated": "1637744582",
+        "timebuildupdated": "1633332214"
+      },
+      "steam-v100_69": {
+        "buildid": "6899516",
+        "description": "v.1.0.0+69",
+        "timeupdated": "1637854074",
+        "timebuildupdated": "1624126497"
+      }
+    }
+  }
+}

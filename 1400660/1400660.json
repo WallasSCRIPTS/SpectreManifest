@@ -1,0 +1,46 @@
+{
+  "name": "Rise of Piracy",
+  "source": "spectre",
+  "changenumber": 40608100,
+  "updated": "2026-11-06T21:04:58.821Z",
+  "branches": {
+    "public": {
+      "buildid": "26381885",
+      "timeupdated": "1793651024",
+      "timebuildupdated": "1793630497"
+    },
+    "rop-test-branch": {
+      "buildid": "26433545",
+      "description": "Public, Early versions of the game to test before it goes to default.",
+      "timeupdated": "1793801976",
+      "timebuildupdated": "1793801946"
+    }
+  },
+  "depot": {
+    "1400661": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5262232672350695240",
+          "size": "28934772427",
+          "download": "11007559952"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26381885",
+        "timeupdated": "1793651024",
+        "timebuildupdated": "1793630497"
+      },
+      "rop-test-branch": {
+        "buildid": "26433545",
+        "description": "Public, Early versions of the game to test before it goes to default.",
+        "timeupdated": "1793801976",
+        "timebuildupdated": "1793801946"
+      }
+    }
+  }
+}

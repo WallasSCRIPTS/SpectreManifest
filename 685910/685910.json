@@ -1,0 +1,67 @@
+{
+  "name": "Battlefleet Engineer",
+  "source": "spectre",
+  "changenumber": 40563428,
+  "updated": "2026-11-07T20:59:48.027Z",
+  "branches": {
+    "public": {
+      "buildid": "22078563",
+      "timeupdated": "1771957655",
+      "timebuildupdated": "1771956640"
+    },
+    "staging": {
+      "buildid": "7189583",
+      "description": "Testing branch for hotfixes that will come to the main branch",
+      "timeupdated": "1640343082",
+      "timebuildupdated": "1628926873"
+    },
+    "development": {
+      "buildid": "26415408",
+      "description": "Beta for new features. Can be less stable.",
+      "timeupdated": "1793737629",
+      "timebuildupdated": "1793737629"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "685911": {
+      "manifests": {
+        "public": {
+          "gid": "5530003301560008511",
+          "size": "616190082",
+          "download": "272705328"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22078563",
+        "timeupdated": "1771957655",
+        "timebuildupdated": "1771956640"
+      },
+      "staging": {
+        "buildid": "7189583",
+        "description": "Testing branch for hotfixes that will come to the main branch",
+        "timeupdated": "1640343082",
+        "timebuildupdated": "1628926873"
+      },
+      "development": {
+        "buildid": "26415408",
+        "description": "Beta for new features. Can be less stable.",
+        "timeupdated": "1793737629",
+        "timebuildupdated": "1793737629"
+      }
+    }
+  }
+}

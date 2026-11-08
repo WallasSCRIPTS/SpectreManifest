@@ -1,0 +1,57 @@
+{
+  "name": "Derf Party",
+  "source": "spectre",
+  "changenumber": 34898413,
+  "updated": "2026-11-06T23:23:21.071Z",
+  "branches": {
+    "public": {
+      "buildid": "22541312",
+      "timeupdated": "1774646424",
+      "timebuildupdated": "1774646028"
+    },
+    "local": {
+      "buildid": "18865143",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1749881761",
+      "timebuildupdated": "1749877353"
+    }
+  },
+  "depot": {
+    "2376291": {
+      "manifests": {
+        "public": {
+          "gid": "6051741205756281721",
+          "size": "285003784",
+          "download": "57761888"
+        }
+      }
+    },
+    "2376292": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4143567552940044645",
+          "size": "285003784",
+          "download": "57761888"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22541312",
+        "timeupdated": "1774646424",
+        "timebuildupdated": "1774646028"
+      },
+      "local": {
+        "buildid": "18865143",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1749881761",
+        "timebuildupdated": "1749877353"
+      }
+    }
+  }
+}

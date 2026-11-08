@@ -1,0 +1,100 @@
+{
+  "name": "Undead Horde",
+  "source": "spectre",
+  "changenumber": 38601671,
+  "updated": "2026-11-07T21:00:43.674Z",
+  "branches": {
+    "public": {
+      "buildid": "11001907",
+      "timeupdated": "1681460100",
+      "timebuildupdated": "1681459812"
+    },
+    "beta": {
+      "buildid": "11001907",
+      "description": "betas",
+      "timeupdated": "1681460086",
+      "timebuildupdated": "1681459812"
+    },
+    "macos_old": {
+      "buildid": "6132811",
+      "description": "Old macOS build",
+      "timeupdated": "1611568926",
+      "timebuildupdated": "1611568926"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "790851": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "940489266500982556",
+          "size": "230611426",
+          "download": "99236544"
+        }
+      }
+    },
+    "790852": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7974110683370885450",
+          "size": "256445825",
+          "download": "114727312"
+        }
+      }
+    },
+    "790853": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "299441240339307999",
+          "size": "241357587",
+          "download": "100809792"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11001907",
+        "timeupdated": "1681460100",
+        "timebuildupdated": "1681459812"
+      },
+      "beta": {
+        "buildid": "11001907",
+        "description": "betas",
+        "timeupdated": "1681460086",
+        "timebuildupdated": "1681459812"
+      },
+      "macos_old": {
+        "buildid": "6132811",
+        "description": "Old macOS build",
+        "timeupdated": "1611568926",
+        "timebuildupdated": "1611568926"
+      }
+    }
+  }
+}

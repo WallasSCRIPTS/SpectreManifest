@@ -1,0 +1,98 @@
+{
+  "name": "Giana Sisters: Dream Runners",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:04.873Z",
+  "branches": {
+    "public": {
+      "buildid": "750369",
+      "timebuildupdated": "1440601591"
+    },
+    "local": {
+      "buildid": "750365",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1440601532"
+    }
+  },
+  "depot": {
+    "228981": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "352901": {
+      "manifests": {
+        "public": {
+          "gid": "847789444244452984",
+          "size": "2168173247",
+          "download": "976283568"
+        }
+      }
+    },
+    "352902": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "616002574394745287",
+          "size": "46912286",
+          "download": "33758608"
+        }
+      }
+    },
+    "352903": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5047921558535889257",
+          "size": "20864880",
+          "download": "15529488"
+        }
+      }
+    },
+    "352904": {
+      "manifests": {
+        "public": {
+          "gid": "7926322510641830530",
+          "size": "23900160",
+          "download": "2631344"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "750369",
+        "timebuildupdated": "1440601591"
+      },
+      "local": {
+        "buildid": "750365",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1440601532"
+      }
+    }
+  }
+}

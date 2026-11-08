@@ -1,0 +1,66 @@
+{
+  "name": "Starlink: Battle for Atlas",
+  "source": "spectre",
+  "changenumber": 39362367,
+  "updated": "2026-11-07T21:01:54.995Z",
+  "branches": {
+    "public": {
+      "buildid": "22512219",
+      "timeupdated": "1775654205",
+      "timebuildupdated": "1774513897"
+    },
+    "local": {
+      "buildid": "3745612",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1555502952",
+      "timebuildupdated": "1555502951"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "950051": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5547733718053836961",
+          "size": "24437419384",
+          "download": "23050554784"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22512219",
+        "timeupdated": "1775654205",
+        "timebuildupdated": "1774513897"
+      },
+      "local": {
+        "buildid": "3745612",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1555502952",
+        "timebuildupdated": "1555502951"
+      }
+    }
+  }
+}

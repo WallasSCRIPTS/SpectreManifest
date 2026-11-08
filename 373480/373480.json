@@ -1,0 +1,70 @@
+{
+  "name": "1993 Space Machine",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:16.739Z",
+  "branches": {
+    "public": {
+      "buildid": "8626490",
+      "timeupdated": "1650981752",
+      "timebuildupdated": "1650981752"
+    },
+    "linux_beta": {
+      "buildid": "8557202",
+      "description": "linux test",
+      "timeupdated": "1649929023",
+      "timebuildupdated": "1649929023"
+    }
+  },
+  "depot": {
+    "373481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6842228891274270607",
+          "size": "435076882",
+          "download": "118618560"
+        }
+      }
+    },
+    "373482": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2762388834103011709",
+          "size": "460782687",
+          "download": "120540960"
+        }
+      }
+    },
+    "373483": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2818751354808439280",
+          "size": "479233569",
+          "download": "120156848"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8626490",
+        "timeupdated": "1650981752",
+        "timebuildupdated": "1650981752"
+      },
+      "linux_beta": {
+        "buildid": "8557202",
+        "description": "linux test",
+        "timeupdated": "1649929023",
+        "timebuildupdated": "1649929023"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "House of Hell",
+  "source": "spectre",
+  "changenumber": 40378040,
+  "updated": "2026-11-07T20:57:41.133Z",
+  "branches": {
+    "public": {
+      "buildid": "945166",
+      "timebuildupdated": "1453683478"
+    },
+    "beta": {
+      "buildid": "945166",
+      "timebuildupdated": "1453683478"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "419811": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4281104084889695749",
+          "size": "227744790",
+          "download": "85664320"
+        }
+      }
+    },
+    "419812": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9033037330349393934",
+          "size": "204651677",
+          "download": "78979120"
+        }
+      }
+    },
+    "419813": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8010082699168996662",
+          "size": "198572457",
+          "download": "77264160"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "945166",
+        "timebuildupdated": "1453683478"
+      },
+      "beta": {
+        "buildid": "945166",
+        "timebuildupdated": "1453683478"
+      }
+    }
+  }
+}

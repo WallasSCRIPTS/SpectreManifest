@@ -1,0 +1,82 @@
+{
+  "name": "Area 86",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:52.603Z",
+  "branches": {
+    "public": {
+      "buildid": "6007336",
+      "timeupdated": "1608731304",
+      "timebuildupdated": "1608731006"
+    },
+    "beta": {
+      "buildid": "6007336",
+      "description": "Game Breaking Stuff",
+      "timeupdated": "1608731093",
+      "timebuildupdated": "1608731006"
+    },
+    "development": {
+      "buildid": "6007336",
+      "description": "Last Test Before Live",
+      "timeupdated": "1608731106",
+      "timebuildupdated": "1608731006"
+    }
+  },
+  "depot": {
+    "810591": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "32626862426419405",
+          "size": "251733366",
+          "download": "86831296"
+        }
+      }
+    },
+    "810592": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4270474200598633592",
+          "size": "314081418",
+          "download": "98074752"
+        }
+      }
+    },
+    "810593": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7737693718785859634",
+          "size": "271489172",
+          "download": "88971728"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6007336",
+        "timeupdated": "1608731304",
+        "timebuildupdated": "1608731006"
+      },
+      "beta": {
+        "buildid": "6007336",
+        "description": "Game Breaking Stuff",
+        "timeupdated": "1608731093",
+        "timebuildupdated": "1608731006"
+      },
+      "development": {
+        "buildid": "6007336",
+        "description": "Last Test Before Live",
+        "timeupdated": "1608731106",
+        "timebuildupdated": "1608731006"
+      }
+    }
+  }
+}

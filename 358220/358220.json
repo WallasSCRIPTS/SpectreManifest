@@ -1,0 +1,59 @@
+{
+  "name": "Mystic Towers",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:07.495Z",
+  "branches": {
+    "public": {
+      "buildid": "606139",
+      "timebuildupdated": "1430315735"
+    }
+  },
+  "depot": {
+    "358221": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6719183633406310845",
+          "size": "32549763",
+          "download": "13237296"
+        }
+      }
+    },
+    "358222": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2460463607683390638",
+          "size": "40041795",
+          "download": "14790672"
+        }
+      }
+    },
+    "358223": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "997624455431978383",
+          "size": "12572262",
+          "download": "5329440"
+        }
+      }
+    },
+    "358282": {
+      "depotfromapp": "358280"
+    },
+    "branches": {
+      "public": {
+        "buildid": "606139",
+        "timebuildupdated": "1430315735"
+      }
+    }
+  }
+}

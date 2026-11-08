@@ -1,0 +1,70 @@
+{
+  "name": "Rolando Deluxe Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-04T23:24:36.497Z",
+  "branches": {
+    "public": {
+      "buildid": "12344993",
+      "timeupdated": "1711098277",
+      "timebuildupdated": "1696344449"
+    },
+    "beta": {
+      "buildid": "13810625",
+      "description": "Beta track for demo",
+      "timeupdated": "1711027690",
+      "timebuildupdated": "1711027690"
+    }
+  },
+  "depot": {
+    "2573371": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7752301477794600779",
+          "size": "449580982",
+          "download": "139324576"
+        }
+      }
+    },
+    "2573372": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8245924472297088159",
+          "size": "416696800",
+          "download": "132263568"
+        }
+      }
+    },
+    "2573373": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4530999073673712414",
+          "size": "476639250",
+          "download": "142304592"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12344993",
+        "timeupdated": "1711098277",
+        "timebuildupdated": "1696344449"
+      },
+      "beta": {
+        "buildid": "13810625",
+        "description": "Beta track for demo",
+        "timeupdated": "1711027690",
+        "timebuildupdated": "1711027690"
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Death Rally (Classic)",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T20:57:07.541Z",
+  "branches": {
+    "public": {
+      "buildid": "607265",
+      "timebuildupdated": "1430380821"
+    }
+  },
+  "depot": {
+    "358271": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1672872052065671997",
+          "size": "47234154",
+          "download": "42913888"
+        }
+      }
+    },
+    "358272": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2408234543850803240",
+          "size": "518735576",
+          "download": "216191392"
+        }
+      }
+    },
+    "358273": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7251996783557642769",
+          "size": "64955238",
+          "download": "55629712"
+        }
+      }
+    },
+    "358282": {
+      "depotfromapp": "358280"
+    },
+    "branches": {
+      "public": {
+        "buildid": "607265",
+        "timebuildupdated": "1430380821"
+      }
+    }
+  }
+}

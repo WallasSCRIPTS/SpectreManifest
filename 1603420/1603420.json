@@ -1,0 +1,58 @@
+{
+  "name": "Doomsday Paradise",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:06:32.451Z",
+  "branches": {
+    "public": {
+      "buildid": "23956715",
+      "timeupdated": "1782680895",
+      "timebuildupdated": "1782680818"
+    },
+    "beta": {
+      "buildid": "23956715",
+      "description": "To test upcoming patches",
+      "timeupdated": "1782680863",
+      "timebuildupdated": "1782680818"
+    },
+    "debug": {
+      "buildid": "16231340",
+      "description": "Runs on a debug version of the game, preventing some crashes at the cost of increased overhead.",
+      "timeupdated": "1731254706",
+      "timebuildupdated": "1730261465"
+    }
+  },
+  "depot": {
+    "1603421": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4699726598638187762",
+          "size": "1062332752",
+          "download": "690959552"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23956715",
+        "timeupdated": "1782680895",
+        "timebuildupdated": "1782680818"
+      },
+      "beta": {
+        "buildid": "23956715",
+        "description": "To test upcoming patches",
+        "timeupdated": "1782680863",
+        "timebuildupdated": "1782680818"
+      },
+      "debug": {
+        "buildid": "16231340",
+        "description": "Runs on a debug version of the game, preventing some crashes at the cost of increased overhead.",
+        "timeupdated": "1731254706",
+        "timebuildupdated": "1730261465"
+      }
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "name": "Demonschool",
+  "source": "spectre",
+  "changenumber": 39074580,
+  "updated": "2026-11-06T23:13:28.607Z",
+  "branches": {
+    "public": {
+      "buildid": "25311506",
+      "timeupdated": "1789431390",
+      "timebuildupdated": "1789430823"
+    },
+    "release-preview": {
+      "buildid": "25311506",
+      "description": "the next default build",
+      "timeupdated": "1789430861",
+      "timebuildupdated": "1789430823"
+    }
+  },
+  "depot": {
+    "1900251": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7345559986145223725",
+          "size": "1448094995",
+          "download": "819790208"
+        }
+      }
+    },
+    "1900252": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6737246207147688759",
+          "size": "1568277701",
+          "download": "845925264"
+        }
+      }
+    },
+    "1900253": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5365543471375907766",
+          "size": "1472305397",
+          "download": "819830192"
+        }
+      }
+    },
+    "3964710": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "700990617285433373",
+          "size": "59972629",
+          "download": "59961040"
+        }
+      },
+      "dlcappid": "3964710"
+    },
+    "3964712": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4242160078857235822",
+          "size": "59972628",
+          "download": "59961088"
+        }
+      },
+      "dlcappid": "3964710"
+    },
+    "3964713": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "759776575064626506",
+          "size": "59972630",
+          "download": "59961040"
+        }
+      },
+      "dlcappid": "3964710"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25311506",
+        "timeupdated": "1789431390",
+        "timebuildupdated": "1789430823"
+      },
+      "release-preview": {
+        "buildid": "25311506",
+        "description": "the next default build",
+        "timeupdated": "1789430861",
+        "timebuildupdated": "1789430823"
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Fate of the Pharaoh",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:09:43.229Z",
+  "branches": {
+    "public": {
+      "buildid": "12621067",
+      "timeupdated": "1699131542",
+      "timebuildupdated": "1699131533"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1754791": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8663888509324199939",
+          "size": "165571027",
+          "download": "133464624"
+        }
+      }
+    },
+    "1754792": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1843771562034786111",
+          "size": "179535930",
+          "download": "138913312"
+        }
+      }
+    },
+    "1754793": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "714593880283721279",
+          "size": "168670127",
+          "download": "132905376"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12621067",
+        "timeupdated": "1699131542",
+        "timebuildupdated": "1699131533"
+      }
+    }
+  }
+}

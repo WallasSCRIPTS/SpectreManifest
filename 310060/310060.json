@@ -1,0 +1,90 @@
+{
+  "name": "Knights of Pen and Paper 2",
+  "source": "spectre",
+  "changenumber": 40138394,
+  "updated": "2026-11-07T20:56:34.441Z",
+  "branches": {
+    "public": {
+      "buildid": "1062621",
+      "timeupdated": "1460036361",
+      "timebuildupdated": "1460035797"
+    },
+    "local": {
+      "buildid": "516063",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1423127294"
+    }
+  },
+  "depot": {
+    "310061": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6520511388902551219",
+          "size": "365151758",
+          "download": "43890912"
+        }
+      }
+    },
+    "310062": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6729576331811491027",
+          "size": "370074472",
+          "download": "44748720"
+        }
+      }
+    },
+    "310063": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1916163883053342698",
+          "size": "372219512",
+          "download": "45715344"
+        }
+      }
+    },
+    "363700": {
+      "manifests": {
+        "public": {
+          "gid": "8233580318485161267",
+          "size": "11279404",
+          "download": "10857776"
+        }
+      },
+      "dlcappid": "363700"
+    },
+    "363701": {
+      "manifests": {
+        "public": {
+          "gid": "3708053450149210559",
+          "size": "45368713",
+          "download": "29586432"
+        }
+      },
+      "dlcappid": "363701"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1062621",
+        "timeupdated": "1460036361",
+        "timebuildupdated": "1460035797"
+      },
+      "local": {
+        "buildid": "516063",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1423127294"
+      }
+    }
+  }
+}

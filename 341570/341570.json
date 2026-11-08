@@ -1,0 +1,93 @@
+{
+  "name": "Throbax TD",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:51.164Z",
+  "branches": {
+    "public": {
+      "buildid": "3828311",
+      "timeupdated": "1557984258",
+      "timebuildupdated": "1557984225"
+    },
+    "beta": {
+      "buildid": "3828311",
+      "description": "For beta testing",
+      "timeupdated": "1557984242",
+      "timebuildupdated": "1557984225"
+    },
+    "dev_unstable": {
+      "buildid": "11174496",
+      "description": "Unstable developer branch - may not run at all",
+      "timeupdated": "1683454302",
+      "timebuildupdated": "1683454301"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "341571": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8562911220899037400",
+          "size": "661455807",
+          "download": "525692080"
+        }
+      }
+    },
+    "341572": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "341573": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "673423061742925075",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3828311",
+        "timeupdated": "1557984258",
+        "timebuildupdated": "1557984225"
+      },
+      "beta": {
+        "buildid": "3828311",
+        "description": "For beta testing",
+        "timeupdated": "1557984242",
+        "timebuildupdated": "1557984225"
+      },
+      "dev_unstable": {
+        "buildid": "11174496",
+        "description": "Unstable developer branch - may not run at all",
+        "timeupdated": "1683454302",
+        "timebuildupdated": "1683454301"
+      }
+    }
+  }
+}

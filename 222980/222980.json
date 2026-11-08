@@ -1,0 +1,49 @@
+{
+  "name": "Dead Pixels",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:05.749Z",
+  "branches": {
+    "public": {
+      "buildid": "21849680",
+      "timeupdated": "1770645772",
+      "timebuildupdated": "1770645051"
+    },
+    "xnabuild": {
+      "buildid": "629149",
+      "description": "Older build that uses XNA and other outdated Frameworks",
+      "timeupdated": "1744642205",
+      "timebuildupdated": "1432129723"
+    }
+  },
+  "depot": {
+    "222981": {
+      "manifests": {
+        "public": {
+          "gid": "1933082041669547553",
+          "size": "289421406",
+          "download": "210460992"
+        }
+      }
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "21849680",
+        "timeupdated": "1770645772",
+        "timebuildupdated": "1770645051"
+      },
+      "xnabuild": {
+        "buildid": "629149",
+        "description": "Older build that uses XNA and other outdated Frameworks",
+        "timeupdated": "1744642205",
+        "timebuildupdated": "1432129723"
+      }
+    }
+  }
+}

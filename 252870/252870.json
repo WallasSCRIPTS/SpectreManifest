@@ -1,0 +1,106 @@
+{
+  "name": "PULSAR: Lost Colony",
+  "source": "spectre",
+  "changenumber": 37477222,
+  "updated": "2026-11-07T20:56:13.245Z",
+  "branches": {
+    "public": {
+      "buildid": "21399903",
+      "timeupdated": "1767724475",
+      "timebuildupdated": "1767723636"
+    },
+    "advancetesting": {
+      "buildid": "21399903",
+      "description": "Public Advance Testing Branch",
+      "timeupdated": "1767723649",
+      "timebuildupdated": "1767723636"
+    },
+    "mono": {
+      "buildid": "21399915",
+      "description": "Mono branch",
+      "timeupdated": "1767724287",
+      "timebuildupdated": "1767723724"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "252871": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3181117695706096014",
+          "size": "5914556829",
+          "download": "2931649408"
+        }
+      }
+    },
+    "252872": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8381386249845514864",
+          "size": "5818505732",
+          "download": "2934119072"
+        }
+      }
+    },
+    "252873": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2439913568106077701",
+          "size": "5820622868",
+          "download": "2899832128"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21399903",
+        "timeupdated": "1767724475",
+        "timebuildupdated": "1767723636"
+      },
+      "advancetesting": {
+        "buildid": "21399903",
+        "description": "Public Advance Testing Branch",
+        "timeupdated": "1767723649",
+        "timebuildupdated": "1767723636"
+      },
+      "mono": {
+        "buildid": "21399915",
+        "description": "Mono branch",
+        "timeupdated": "1767724287",
+        "timebuildupdated": "1767723724"
+      }
+    }
+  }
+}

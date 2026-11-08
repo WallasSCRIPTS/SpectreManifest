@@ -1,0 +1,70 @@
+{
+  "name": "Nippon Marathon",
+  "source": "spectre",
+  "changenumber": 39857304,
+  "updated": "2026-11-07T21:00:21.996Z",
+  "branches": {
+    "public": {
+      "buildid": "20350464",
+      "timeupdated": "1760360157",
+      "timebuildupdated": "1760191874"
+    },
+    "beta": {
+      "buildid": "20350464",
+      "description": "Beta Branch",
+      "timeupdated": "1760191874",
+      "timebuildupdated": "1760191874"
+    }
+  },
+  "depot": {
+    "746941": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5490121929649134557",
+          "size": "3105001369",
+          "download": "921665824"
+        }
+      }
+    },
+    "746942": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2323137374723949988",
+          "size": "3138660550",
+          "download": "937443440"
+        }
+      }
+    },
+    "746943": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3453288692096550477",
+          "size": "3165287297",
+          "download": "955663952"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20350464",
+        "timeupdated": "1760360157",
+        "timebuildupdated": "1760191874"
+      },
+      "beta": {
+        "buildid": "20350464",
+        "description": "Beta Branch",
+        "timeupdated": "1760191874",
+        "timebuildupdated": "1760191874"
+      }
+    }
+  }
+}

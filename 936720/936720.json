@@ -1,0 +1,65 @@
+{
+  "name": "Wrench",
+  "source": "spectre",
+  "changenumber": 39450044,
+  "updated": "2026-11-07T21:01:49.125Z",
+  "branches": {
+    "public": {
+      "buildid": "23596656",
+      "timeupdated": "1780758527",
+      "timebuildupdated": "1780715928"
+    },
+    "beta": {
+      "buildid": "23596656",
+      "timeupdated": "1780758527",
+      "timebuildupdated": "1780715928"
+    },
+    "legacy": {
+      "buildid": "8490154",
+      "description": "Our legacy wrench game mode",
+      "timeupdated": "1755963529",
+      "timebuildupdated": "1649012489"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "936721": {
+      "manifests": {
+        "public": {
+          "gid": "9009512548862374407",
+          "size": "13505232725",
+          "download": "4737094816"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23596656",
+        "timeupdated": "1780758527",
+        "timebuildupdated": "1780715928"
+      },
+      "beta": {
+        "buildid": "23596656",
+        "timeupdated": "1780758527",
+        "timebuildupdated": "1780715928"
+      },
+      "legacy": {
+        "buildid": "8490154",
+        "description": "Our legacy wrench game mode",
+        "timeupdated": "1755963529",
+        "timebuildupdated": "1649012489"
+      }
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "Boxoku!",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-06T21:06:02.175Z",
+  "branches": {
+    "public": {
+      "buildid": "15699971",
+      "timeupdated": "1726300829",
+      "timebuildupdated": "1726300362"
+    },
+    "local": {
+      "buildid": "6304221",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1614419962",
+      "timebuildupdated": "1614419961"
+    }
+  },
+  "depot": {
+    "1545381": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8447394135035314760",
+          "size": "65344032",
+          "download": "34304704"
+        }
+      }
+    },
+    "1545382": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8007104835054901882",
+          "size": "66925618",
+          "download": "33723872"
+        }
+      }
+    },
+    "1545383": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7181415215438497312",
+          "size": "65810992",
+          "download": "34757008"
+        }
+      }
+    },
+    "1545384": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4174026986431979373",
+          "size": "66766364",
+          "download": "34283216"
+        }
+      }
+    },
+    "1545385": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1624789691345687153",
+          "size": "80057122",
+          "download": "27576240"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15699971",
+        "timeupdated": "1726300829",
+        "timebuildupdated": "1726300362"
+      },
+      "local": {
+        "buildid": "6304221",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1614419962",
+        "timebuildupdated": "1614419961"
+      }
+    }
+  }
+}

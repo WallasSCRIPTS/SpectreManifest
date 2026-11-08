@@ -1,0 +1,152 @@
+{
+  "name": "Brotato",
+  "source": "spectre",
+  "changenumber": 40673694,
+  "updated": "2026-11-06T23:13:36.246Z",
+  "branches": {
+    "public": {
+      "buildid": "26406319",
+      "timeupdated": "1793713655",
+      "timebuildupdated": "1793711597"
+    },
+    "beta": {
+      "buildid": "26484937",
+      "description": "Test new updates before they go public, may be unstable",
+      "timeupdated": "1793977921",
+      "timebuildupdated": "1793970027"
+    },
+    "previous-update-version": {
+      "buildid": "20574060",
+      "description": "Version of the game before current update (1.1.12.1)",
+      "timeupdated": "1761656736",
+      "timebuildupdated": "1761656736"
+    },
+    "modding": {
+      "buildid": "26406319",
+      "description": "Upload mods to the Steam Workshop",
+      "timeupdated": "1793713628",
+      "timebuildupdated": "1793711597"
+    },
+    "legacy": {
+      "buildid": "19241587",
+      "description": "Version of the game prior to any Evil Empire updates.",
+      "timeupdated": "1759303290",
+      "timebuildupdated": "1752653603"
+    },
+    "v1.1.7.1-godot-353": {
+      "buildid": "16485193",
+      "description": "Old version of Godot if you encounter issues with Godot 3.6",
+      "timeupdated": "1734432501",
+      "timebuildupdated": "1732187618"
+    },
+    "v1.1.0.0-compat": {
+      "buildid": "16171207",
+      "description": " Play using this previous version of the game",
+      "timeupdated": "1734532162",
+      "timebuildupdated": "1729803833"
+    },
+    "v1.0.0.3": {
+      "buildid": "11535613",
+      "description": "Play using this previous version of the game",
+      "timeupdated": "1701779214",
+      "timebuildupdated": "1687441214"
+    }
+  },
+  "depot": {
+    "1942281": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1511471247775670824",
+          "size": "379394973",
+          "download": "286887632"
+        }
+      }
+    },
+    "1942282": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7838280886235247907",
+          "size": "361519682",
+          "download": "286249648"
+        }
+      }
+    },
+    "1942283": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3785039878806006597",
+          "size": "424649827",
+          "download": "303384544"
+        }
+      }
+    },
+    "2868390": {
+      "manifests": {
+        "public": {
+          "gid": "6019094460507247896",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "2868390"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26406319",
+        "timeupdated": "1793713655",
+        "timebuildupdated": "1793711597"
+      },
+      "beta": {
+        "buildid": "26484937",
+        "description": "Test new updates before they go public, may be unstable",
+        "timeupdated": "1793977921",
+        "timebuildupdated": "1793970027"
+      },
+      "previous-update-version": {
+        "buildid": "20574060",
+        "description": "Version of the game before current update (1.1.12.1)",
+        "timeupdated": "1761656736",
+        "timebuildupdated": "1761656736"
+      },
+      "modding": {
+        "buildid": "26406319",
+        "description": "Upload mods to the Steam Workshop",
+        "timeupdated": "1793713628",
+        "timebuildupdated": "1793711597"
+      },
+      "legacy": {
+        "buildid": "19241587",
+        "description": "Version of the game prior to any Evil Empire updates.",
+        "timeupdated": "1759303290",
+        "timebuildupdated": "1752653603"
+      },
+      "v1.1.7.1-godot-353": {
+        "buildid": "16485193",
+        "description": "Old version of Godot if you encounter issues with Godot 3.6",
+        "timeupdated": "1734432501",
+        "timebuildupdated": "1732187618"
+      },
+      "v1.1.0.0-compat": {
+        "buildid": "16171207",
+        "description": " Play using this previous version of the game",
+        "timeupdated": "1734532162",
+        "timebuildupdated": "1729803833"
+      },
+      "v1.0.0.3": {
+        "buildid": "11535613",
+        "description": "Play using this previous version of the game",
+        "timeupdated": "1701779214",
+        "timebuildupdated": "1687441214"
+      }
+    }
+  }
+}

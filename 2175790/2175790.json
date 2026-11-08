@@ -1,0 +1,58 @@
+{
+  "name": "Meticulous",
+  "source": "spectre",
+  "changenumber": 35946048,
+  "updated": "2026-11-06T23:19:27.565Z",
+  "branches": {
+    "public": {
+      "buildid": "12081123",
+      "timeupdated": "1697604027",
+      "timebuildupdated": "1693502693"
+    },
+    "beta": {
+      "buildid": "12081123",
+      "description": "Feature testing; may be unstable",
+      "timeupdated": "1693502693",
+      "timebuildupdated": "1693502693"
+    }
+  },
+  "depot": {
+    "2175791": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "97751833890808167",
+          "size": "1048226487",
+          "download": "450820240"
+        }
+      }
+    },
+    "2175792": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8869225553211797764",
+          "size": "1070073859",
+          "download": "458615216"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12081123",
+        "timeupdated": "1697604027",
+        "timebuildupdated": "1693502693"
+      },
+      "beta": {
+        "buildid": "12081123",
+        "description": "Feature testing; may be unstable",
+        "timeupdated": "1693502693",
+        "timebuildupdated": "1693502693"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Iragon",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:19:33.838Z",
+  "branches": {
+    "public": {
+      "buildid": "13751252",
+      "timeupdated": "1710500640",
+      "timebuildupdated": "1710500640"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2229301": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8783829749346670395",
+          "size": "13524239758",
+          "download": "12750287888"
+        }
+      }
+    },
+    "2229302": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2538488506787471512",
+          "size": "14450629402",
+          "download": "13920906416"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13751252",
+        "timeupdated": "1710500640",
+        "timebuildupdated": "1710500640"
+      }
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Layers",
+  "source": "spectre",
+  "changenumber": 37047152,
+  "updated": "2026-11-07T20:59:35.926Z",
+  "branches": {
+    "public": {
+      "buildid": "10113847",
+      "timeupdated": "1670586137",
+      "timebuildupdated": "1670586137"
+    },
+    "beta": {
+      "buildid": "10051643",
+      "timeupdated": "1669849790",
+      "timebuildupdated": "1669849790"
+    },
+    "legacy": {
+      "buildid": "4421298",
+      "description": "Legacy branch",
+      "timeupdated": "1669306025",
+      "timebuildupdated": "1574605110"
+    }
+  },
+  "depot": {
+    "661331": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "871175444993440754",
+          "size": "75306351",
+          "download": "21887520"
+        }
+      }
+    },
+    "661332": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4879189304722166772",
+          "size": "76674730",
+          "download": "20984224"
+        }
+      }
+    },
+    "661333": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8399459973017662362",
+          "size": "99845960",
+          "download": "29663696"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10113847",
+        "timeupdated": "1670586137",
+        "timebuildupdated": "1670586137"
+      },
+      "beta": {
+        "buildid": "10051643",
+        "timeupdated": "1669849790",
+        "timebuildupdated": "1669849790"
+      },
+      "legacy": {
+        "buildid": "4421298",
+        "description": "Legacy branch",
+        "timeupdated": "1669306025",
+        "timebuildupdated": "1574605110"
+      }
+    }
+  }
+}

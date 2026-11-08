@@ -1,0 +1,94 @@
+{
+  "name": "Turing Complete",
+  "source": "spectre",
+  "changenumber": 39585016,
+  "updated": "2026-11-06T21:05:19.144Z",
+  "branches": {
+    "public": {
+      "buildid": "25294874",
+      "timeupdated": "1789372313",
+      "timebuildupdated": "1789372208"
+    },
+    "beta": {
+      "buildid": "25783843",
+      "description": "Semi stable patches",
+      "timeupdated": "1791393819",
+      "timebuildupdated": "1791393792"
+    },
+    "alpha": {
+      "buildid": "25783131",
+      "description": "Cutting edge updates",
+      "timeupdated": "1791392967",
+      "timebuildupdated": "1791391829"
+    },
+    "old_version": {
+      "buildid": "10363006",
+      "description": "The old version",
+      "timeupdated": "1735534994",
+      "timebuildupdated": "1674181316"
+    }
+  },
+  "depot": {
+    "1444482": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2610613588877235445",
+          "size": "573468943",
+          "download": "251789184"
+        }
+      }
+    },
+    "1444483": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6027156508301402156",
+          "size": "297928684",
+          "download": "253863120"
+        }
+      }
+    },
+    "1444484": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5281773613087279516",
+          "size": "305431212",
+          "download": "255610960"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25294874",
+        "timeupdated": "1789372313",
+        "timebuildupdated": "1789372208"
+      },
+      "beta": {
+        "buildid": "25783843",
+        "description": "Semi stable patches",
+        "timeupdated": "1791393819",
+        "timebuildupdated": "1791393792"
+      },
+      "alpha": {
+        "buildid": "25783131",
+        "description": "Cutting edge updates",
+        "timeupdated": "1791392967",
+        "timebuildupdated": "1791391829"
+      },
+      "old_version": {
+        "buildid": "10363006",
+        "description": "The old version",
+        "timeupdated": "1735534994",
+        "timebuildupdated": "1674181316"
+      }
+    }
+  }
+}

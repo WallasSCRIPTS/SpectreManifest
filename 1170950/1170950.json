@@ -1,0 +1,64 @@
+{
+  "name": "Mortal Online 2",
+  "source": "spectre",
+  "changenumber": 40677604,
+  "updated": "2026-11-07T21:03:55.877Z",
+  "branches": {
+    "public": {
+      "buildid": "26236003",
+      "timeupdated": "1793172329",
+      "timebuildupdated": "1793079465"
+    },
+    "testpublic": {
+      "buildid": "25501997",
+      "description": "Mortal Online Public Test Realm",
+      "timeupdated": "1790314115",
+      "timebuildupdated": "1790243226"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1170951": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1883088613507991234",
+          "size": "58887289119",
+          "download": "48925642656"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26236003",
+        "timeupdated": "1793172329",
+        "timebuildupdated": "1793079465"
+      },
+      "testpublic": {
+        "buildid": "25501997",
+        "description": "Mortal Online Public Test Realm",
+        "timeupdated": "1790314115",
+        "timebuildupdated": "1790243226"
+      }
+    }
+  }
+}

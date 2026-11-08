@@ -1,0 +1,60 @@
+{
+  "name": "StretchBot",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T21:04:11.682Z",
+  "branches": {
+    "public": {
+      "buildid": "4609927",
+      "timeupdated": "1580065710",
+      "timebuildupdated": "1580065699"
+    },
+    "local": {
+      "buildid": "10630218",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1677249328",
+      "timebuildupdated": "1677249328"
+    }
+  },
+  "depot": {
+    "1202611": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7428835818747500964",
+          "size": "33595102",
+          "download": "23005648"
+        }
+      }
+    },
+    "1202612": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7441381101382886273",
+          "size": "76336262",
+          "download": "65513872"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4609927",
+        "timeupdated": "1580065710",
+        "timebuildupdated": "1580065699"
+      },
+      "local": {
+        "buildid": "10630218",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1677249328",
+        "timebuildupdated": "1677249328"
+      }
+    }
+  }
+}

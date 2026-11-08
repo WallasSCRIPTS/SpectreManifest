@@ -1,0 +1,69 @@
+{
+  "name": "BIT.TRIP RUNNER",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:57.182Z",
+  "branches": {
+    "public": {
+      "buildid": "774526",
+      "timebuildupdated": "1442269784"
+    },
+    "wingl_unsupported": {
+      "buildid": "20741",
+      "description": "Old OpenGL builds.  Unsupported!",
+      "timebuildupdated": "1350925327"
+    }
+  },
+  "depot": {
+    "63711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1983135888873324893",
+          "size": "63790751",
+          "download": "35040896"
+        }
+      }
+    },
+    "63713": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6304087863411660240",
+          "size": "59806151",
+          "download": "26616464"
+        }
+      }
+    },
+    "63715": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "202961": {
+      "manifests": {
+        "public": {
+          "gid": "2656285029064240935",
+          "size": "52757609",
+          "download": "52187472"
+        }
+      },
+      "dlcappid": "202961"
+    },
+    "branches": {
+      "public": {
+        "buildid": "774526",
+        "timebuildupdated": "1442269784"
+      },
+      "wingl_unsupported": {
+        "buildid": "20741",
+        "description": "Old OpenGL builds.  Unsupported!",
+        "timebuildupdated": "1350925327"
+      }
+    }
+  }
+}

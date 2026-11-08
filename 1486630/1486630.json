@@ -1,0 +1,64 @@
+{
+  "name": "Intravenous",
+  "source": "spectre",
+  "changenumber": 39945918,
+  "updated": "2026-11-06T21:05:37.893Z",
+  "branches": {
+    "public": {
+      "buildid": "22638274",
+      "timeupdated": "1775230722",
+      "timebuildupdated": "1775229073"
+    },
+    "1.3.37.8": {
+      "buildid": "10152886",
+      "description": "1.3.37.8 version of the game - for unsupported OS compatibility",
+      "timeupdated": "1671095969",
+      "timebuildupdated": "1671095969"
+    },
+    "test": {
+      "buildid": "22638274",
+      "description": "public pre-release test branch",
+      "timeupdated": "1775229073",
+      "timebuildupdated": "1775229073"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1486631": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2603797797570623143",
+          "size": "560340148",
+          "download": "561961216"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22638274",
+        "timeupdated": "1775230722",
+        "timebuildupdated": "1775229073"
+      },
+      "1.3.37.8": {
+        "buildid": "10152886",
+        "description": "1.3.37.8 version of the game - for unsupported OS compatibility",
+        "timeupdated": "1671095969",
+        "timebuildupdated": "1671095969"
+      },
+      "test": {
+        "buildid": "22638274",
+        "description": "public pre-release test branch",
+        "timeupdated": "1775229073",
+        "timebuildupdated": "1775229073"
+      }
+    }
+  }
+}

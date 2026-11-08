@@ -1,0 +1,70 @@
+{
+  "name": "Windy Kingdom",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:13.545Z",
+  "branches": {
+    "public": {
+      "buildid": "5938526",
+      "timeupdated": "1607441957",
+      "timebuildupdated": "1607440390"
+    },
+    "beta": {
+      "buildid": "6040688",
+      "description": "Used to test beta before playing officially",
+      "timeupdated": "1609850120",
+      "timebuildupdated": "1609849117"
+    },
+    "checked": {
+      "buildid": "5938526",
+      "description": "Used to mark the version running most stable",
+      "timeupdated": "1609732146",
+      "timebuildupdated": "1607440390"
+    }
+  },
+  "depot": {
+    "1096561": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5570159564674346507",
+          "size": "3378612309",
+          "download": "887712880"
+        }
+      }
+    },
+    "1096562": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8763265260055063081",
+          "size": "3399171188",
+          "download": "892632848"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5938526",
+        "timeupdated": "1607441957",
+        "timebuildupdated": "1607440390"
+      },
+      "beta": {
+        "buildid": "6040688",
+        "description": "Used to test beta before playing officially",
+        "timeupdated": "1609850120",
+        "timebuildupdated": "1609849117"
+      },
+      "checked": {
+        "buildid": "5938526",
+        "description": "Used to mark the version running most stable",
+        "timeupdated": "1609732146",
+        "timebuildupdated": "1607440390"
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "name": "TimeScar: Hyperion",
+  "source": "spectre",
+  "changenumber": 40650980,
+  "updated": "2026-11-07T21:01:36.664Z",
+  "branches": {
+    "public": {
+      "buildid": "3755816",
+      "timeupdated": "1555791312",
+      "timebuildupdated": "1555789233"
+    },
+    "experimental": {
+      "buildid": "5075143",
+      "description": "(future release)",
+      "timeupdated": "1590423951",
+      "timebuildupdated": "1590423951"
+    }
+  },
+  "depot": {
+    "908731": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9054929181247102337",
+          "size": "833274474",
+          "download": "346066256"
+        }
+      }
+    },
+    "908732": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6249242148239359981",
+          "size": "847429817",
+          "download": "348447152"
+        }
+      }
+    },
+    "908733": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3755816",
+        "timeupdated": "1555791312",
+        "timebuildupdated": "1555789233"
+      },
+      "experimental": {
+        "buildid": "5075143",
+        "description": "(future release)",
+        "timeupdated": "1590423951",
+        "timebuildupdated": "1590423951"
+      }
+    }
+  }
+}

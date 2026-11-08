@@ -1,0 +1,76 @@
+{
+  "name": "CameraBag Pro",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:52.647Z",
+  "branches": {
+    "public": {
+      "buildid": "25490202",
+      "timeupdated": "1790193504",
+      "timebuildupdated": "1790193441"
+    },
+    "public_beta": {
+      "buildid": "25490202",
+      "description": "Public beta branch (when betas are available)",
+      "timeupdated": "1790193460",
+      "timebuildupdated": "1790193441"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1061691": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7261303991536381989",
+          "size": "145046553",
+          "download": "55640816"
+        }
+      }
+    },
+    "1061692": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5240808927364473092",
+          "size": "63357926",
+          "download": "32541584"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25490202",
+        "timeupdated": "1790193504",
+        "timebuildupdated": "1790193441"
+      },
+      "public_beta": {
+        "buildid": "25490202",
+        "description": "Public beta branch (when betas are available)",
+        "timeupdated": "1790193460",
+        "timebuildupdated": "1790193441"
+      }
+    }
+  }
+}

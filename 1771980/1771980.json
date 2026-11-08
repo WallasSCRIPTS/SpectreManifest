@@ -1,0 +1,70 @@
+{
+  "name": "The Operator",
+  "source": "spectre",
+  "changenumber": 40301877,
+  "updated": "2026-11-06T23:09:45.443Z",
+  "branches": {
+    "public": {
+      "buildid": "18968878",
+      "timeupdated": "1750703129",
+      "timebuildupdated": "1750702318"
+    },
+    "beta": {
+      "buildid": "18968878",
+      "description": "beta branch to test the latest version",
+      "timeupdated": "1750702565",
+      "timebuildupdated": "1750702318"
+    }
+  },
+  "depot": {
+    "1771981": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1759837436136018106",
+          "size": "1854299186",
+          "download": "640085968"
+        }
+      }
+    },
+    "1771982": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3865438177920377627",
+          "size": "1919097096",
+          "download": "657887920"
+        }
+      }
+    },
+    "1771983": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7008082933246569442",
+          "size": "1842288837",
+          "download": "635845072"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18968878",
+        "timeupdated": "1750703129",
+        "timebuildupdated": "1750702318"
+      },
+      "beta": {
+        "buildid": "18968878",
+        "description": "beta branch to test the latest version",
+        "timeupdated": "1750702565",
+        "timebuildupdated": "1750702318"
+      }
+    }
+  }
+}

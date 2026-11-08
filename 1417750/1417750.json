@@ -1,0 +1,70 @@
+{
+  "name": "Moondrop",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:06.646Z",
+  "branches": {
+    "public": {
+      "buildid": "11797148",
+      "timeupdated": "1690539081",
+      "timebuildupdated": "1690417943"
+    },
+    "linux_test": {
+      "buildid": "11797148",
+      "description": "For testing upcoming changes to the Linux version",
+      "timeupdated": "1690539101",
+      "timebuildupdated": "1690417943"
+    },
+    "playtest": {
+      "buildid": "11797148",
+      "description": "For testing upcoming changes",
+      "timeupdated": "1690417960",
+      "timebuildupdated": "1690417943"
+    }
+  },
+  "depot": {
+    "1417752": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5020104962241612584",
+          "size": "299006138",
+          "download": "69534656"
+        }
+      }
+    },
+    "1417753": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2052866433447169580",
+          "size": "339821325",
+          "download": "70985344"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11797148",
+        "timeupdated": "1690539081",
+        "timebuildupdated": "1690417943"
+      },
+      "linux_test": {
+        "buildid": "11797148",
+        "description": "For testing upcoming changes to the Linux version",
+        "timeupdated": "1690539101",
+        "timebuildupdated": "1690417943"
+      },
+      "playtest": {
+        "buildid": "11797148",
+        "description": "For testing upcoming changes",
+        "timeupdated": "1690417960",
+        "timebuildupdated": "1690417943"
+      }
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Kingdom Rush",
+  "source": "spectre",
+  "changenumber": 40658226,
+  "updated": "2026-11-07T20:56:10.972Z",
+  "branches": {
+    "public": {
+      "buildid": "24662480",
+      "timeupdated": "1786534201",
+      "timebuildupdated": "1786404282"
+    },
+    "legacy": {
+      "buildid": "1001293",
+      "description": "Legacy version (Unity)",
+      "timeupdated": "1580924513",
+      "timebuildupdated": "1456774301"
+    },
+    "public-beta": {
+      "buildid": "24662480",
+      "description": "Public beta",
+      "timeupdated": "1786404302",
+      "timebuildupdated": "1786404282"
+    },
+    "win32-linux": {
+      "buildid": "7837359",
+      "description": "Last version with Win32 and Linux support (v 5.6.09)",
+      "timeupdated": "1639657469",
+      "timebuildupdated": "1638822649"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "246421": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1157773393028520413",
+          "size": "370004705",
+          "download": "364881264"
+        }
+      }
+    },
+    "246422": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6453611873249339128",
+          "size": "380244712",
+          "download": "368164544"
+        }
+      }
+    },
+    "246423": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8765564732949348930",
+          "size": "385108749",
+          "download": "367994672"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24662480",
+        "timeupdated": "1786534201",
+        "timebuildupdated": "1786404282"
+      },
+      "legacy": {
+        "buildid": "1001293",
+        "description": "Legacy version (Unity)",
+        "timeupdated": "1580924513",
+        "timebuildupdated": "1456774301"
+      },
+      "public-beta": {
+        "buildid": "24662480",
+        "description": "Public beta",
+        "timeupdated": "1786404302",
+        "timebuildupdated": "1786404282"
+      },
+      "win32-linux": {
+        "buildid": "7837359",
+        "description": "Last version with Win32 and Linux support (v 5.6.09)",
+        "timeupdated": "1639657469",
+        "timebuildupdated": "1638822649"
+      }
+    }
+  }
+}

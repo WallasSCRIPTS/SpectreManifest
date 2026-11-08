@@ -1,0 +1,65 @@
+{
+  "name": "Paper Train: Traffic",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:55.060Z",
+  "branches": {
+    "public": {
+      "buildid": "1013925",
+      "timebuildupdated": "1457432747"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "447311": {
+      "manifests": {
+        "public": {
+          "gid": "7495264642765200887",
+          "size": "132216156",
+          "download": "120517600"
+        }
+      }
+    },
+    "447312": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3447347137970736714",
+          "size": "1452524",
+          "download": "562912"
+        }
+      }
+    },
+    "447313": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5591096026030750484",
+          "size": "2968259",
+          "download": "990800"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1013925",
+        "timebuildupdated": "1457432747"
+      }
+    }
+  }
+}

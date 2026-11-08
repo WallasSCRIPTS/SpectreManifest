@@ -1,0 +1,70 @@
+{
+  "name": "Room of Pandora",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:55.051Z",
+  "branches": {
+    "public": {
+      "buildid": "20279842",
+      "timeupdated": "1759805174",
+      "timebuildupdated": "1759805090"
+    },
+    "macversion": {
+      "buildid": "3839406",
+      "description": "Mac branch",
+      "timeupdated": "1558347095",
+      "timebuildupdated": "1558347095"
+    }
+  },
+  "depot": {
+    "1065231": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6545725965305445584",
+          "size": "233176767",
+          "download": "35097936"
+        }
+      }
+    },
+    "1065232": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1869735934574983493",
+          "size": "241419158",
+          "download": "37084928"
+        }
+      }
+    },
+    "1065233": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4032645211831522877",
+          "size": "239777569",
+          "download": "37965312"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20279842",
+        "timeupdated": "1759805174",
+        "timebuildupdated": "1759805090"
+      },
+      "macversion": {
+        "buildid": "3839406",
+        "description": "Mac branch",
+        "timeupdated": "1558347095",
+        "timebuildupdated": "1558347095"
+      }
+    }
+  }
+}

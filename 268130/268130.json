@@ -1,0 +1,95 @@
+{
+  "name": "Heat Signature",
+  "source": "spectre",
+  "changenumber": 37432709,
+  "updated": "2026-11-07T20:56:18.070Z",
+  "branches": {
+    "public": {
+      "buildid": "6124596",
+      "timeupdated": "1611783862",
+      "timebuildupdated": "1611341370"
+    },
+    "nextversion": {
+      "buildid": "6124596",
+      "description": "Test the next patch",
+      "timeupdated": "1611341881",
+      "timebuildupdated": "1611341370"
+    },
+    "prebirthday": {
+      "buildid": "2519836",
+      "description": "Play without the Space Birthday Update",
+      "timeupdated": "1538838896",
+      "timebuildupdated": "1518469914"
+    },
+    "previousversion": {
+      "buildid": "4325219",
+      "description": "Previous major patch",
+      "timeupdated": "1611783846",
+      "timebuildupdated": "1572024681"
+    }
+  },
+  "depot": {
+    "228982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "268131": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4332629712487444634",
+          "size": "199464047",
+          "download": "151703744"
+        }
+      }
+    },
+    "710350": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2596821283755037160",
+          "size": "3105143338",
+          "download": "3104202592"
+        }
+      },
+      "dlcappid": "710350"
+    },
+    "branches": {
+      "public": {
+        "buildid": "6124596",
+        "timeupdated": "1611783862",
+        "timebuildupdated": "1611341370"
+      },
+      "nextversion": {
+        "buildid": "6124596",
+        "description": "Test the next patch",
+        "timeupdated": "1611341881",
+        "timebuildupdated": "1611341370"
+      },
+      "prebirthday": {
+        "buildid": "2519836",
+        "description": "Play without the Space Birthday Update",
+        "timeupdated": "1538838896",
+        "timebuildupdated": "1518469914"
+      },
+      "previousversion": {
+        "buildid": "4325219",
+        "description": "Previous major patch",
+        "timeupdated": "1611783846",
+        "timebuildupdated": "1572024681"
+      }
+    }
+  }
+}

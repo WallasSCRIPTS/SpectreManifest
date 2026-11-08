@@ -1,0 +1,76 @@
+{
+  "name": "AT SUNDOWN: Shots in the Dark",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:41.110Z",
+  "branches": {
+    "public": {
+      "buildid": "17193384",
+      "timeupdated": "1738462643",
+      "timebuildupdated": "1738292665"
+    },
+    "beta": {
+      "buildid": "17193384",
+      "description": "beta testing",
+      "timeupdated": "1738292666",
+      "timebuildupdated": "1738292665"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "419702": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1852183330075345583",
+          "size": "1594173959",
+          "download": "329715024"
+        }
+      }
+    },
+    "419703": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7969462268422822076",
+          "size": "1610653777",
+          "download": "335977312"
+        }
+      }
+    },
+    "419704": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7569637146144577992",
+          "size": "1609685724",
+          "download": "338480992"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17193384",
+        "timeupdated": "1738462643",
+        "timebuildupdated": "1738292665"
+      },
+      "beta": {
+        "buildid": "17193384",
+        "description": "beta testing",
+        "timeupdated": "1738292666",
+        "timebuildupdated": "1738292665"
+      }
+    }
+  }
+}

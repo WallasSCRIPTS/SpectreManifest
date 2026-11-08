@@ -1,0 +1,80 @@
+{
+  "name": "3dSen",
+  "source": "spectre",
+  "changenumber": 40708411,
+  "updated": "2026-11-07T21:03:44.066Z",
+  "branches": {
+    "public": {
+      "buildid": "26507214",
+      "timeupdated": "1794075415",
+      "timebuildupdated": "1794063178"
+    },
+    "alpha": {
+      "buildid": "26507214",
+      "description": "alpha",
+      "timeupdated": "1794063519",
+      "timebuildupdated": "1794063178"
+    },
+    "beta": {
+      "buildid": "25759945",
+      "timeupdated": "1791313516",
+      "timebuildupdated": "1791313279"
+    }
+  },
+  "depot": {
+    "1147941": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2430701069638115855",
+          "size": "191196564",
+          "download": "73524016"
+        }
+      }
+    },
+    "1147942": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1483133235501069174",
+          "size": "203352117",
+          "download": "78536128"
+        }
+      }
+    },
+    "1147943": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "524128149273297226",
+          "size": "186164017",
+          "download": "70016464"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26507214",
+        "timeupdated": "1794075415",
+        "timebuildupdated": "1794063178"
+      },
+      "alpha": {
+        "buildid": "26507214",
+        "description": "alpha",
+        "timeupdated": "1794063519",
+        "timebuildupdated": "1794063178"
+      },
+      "beta": {
+        "buildid": "25759945",
+        "timeupdated": "1791313516",
+        "timebuildupdated": "1791313279"
+      }
+    }
+  }
+}

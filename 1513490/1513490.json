@@ -1,0 +1,70 @@
+{
+  "name": "Overworld - Map Keeper's Realm",
+  "source": "spectre",
+  "changenumber": 39450203,
+  "updated": "2026-11-05T14:57:12.514Z",
+  "branches": {
+    "public": {
+      "buildid": "24032214",
+      "timeupdated": "1783048665",
+      "timebuildupdated": "1783048665"
+    },
+    "test": {
+      "buildid": "23352909",
+      "description": "Internal Testers",
+      "timeupdated": "1779402499",
+      "timebuildupdated": "1779402499"
+    }
+  },
+  "depot": {
+    "1513491": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "13499642644516826",
+          "size": "3118683965",
+          "download": "221236816"
+        }
+      }
+    },
+    "1513492": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "197923195385626224",
+          "size": "888031358",
+          "download": "175698848"
+        }
+      }
+    },
+    "1513493": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7339411365919339229",
+          "size": "404369756",
+          "download": "89293296"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24032214",
+        "timeupdated": "1783048665",
+        "timebuildupdated": "1783048665"
+      },
+      "test": {
+        "buildid": "23352909",
+        "description": "Internal Testers",
+        "timeupdated": "1779402499",
+        "timebuildupdated": "1779402499"
+      }
+    }
+  }
+}

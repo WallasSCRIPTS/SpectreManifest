@@ -1,0 +1,92 @@
+{
+  "name": "Big Journey to Home",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:27.035Z",
+  "branches": {
+    "public": {
+      "buildid": "17431802",
+      "timeupdated": "1740013160",
+      "timebuildupdated": "1740013160"
+    },
+    "legacy": {
+      "buildid": "1022423",
+      "description": "Legacy version 1.1.1 (x86/dx9)",
+      "timeupdated": "1594817762",
+      "timebuildupdated": "1457876095"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "388441": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1675625412599938902",
+          "size": "75752982",
+          "download": "46037104"
+        }
+      }
+    },
+    "388442": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5095042368531222225",
+          "size": "110243275",
+          "download": "53384496"
+        }
+      }
+    },
+    "388443": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2500709429224032942",
+          "size": "74704990",
+          "download": "46052640"
+        }
+      }
+    },
+    "439710": {
+      "manifests": {
+        "public": {
+          "gid": "7971840539928482304",
+          "size": "356482442",
+          "download": "348967648"
+        }
+      },
+      "dlcappid": "439710"
+    },
+    "branches": {
+      "public": {
+        "buildid": "17431802",
+        "timeupdated": "1740013160",
+        "timebuildupdated": "1740013160"
+      },
+      "legacy": {
+        "buildid": "1022423",
+        "description": "Legacy version 1.1.1 (x86/dx9)",
+        "timeupdated": "1594817762",
+        "timebuildupdated": "1457876095"
+      }
+    }
+  }
+}

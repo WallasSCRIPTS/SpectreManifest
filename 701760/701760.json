@@ -1,0 +1,82 @@
+{
+  "name": "L.S.S",
+  "source": "spectre",
+  "changenumber": 39609999,
+  "updated": "2026-11-07T20:59:56.498Z",
+  "branches": {
+    "public": {
+      "buildid": "5102997",
+      "timeupdated": "1590974912",
+      "timebuildupdated": "1590974912"
+    },
+    "testing": {
+      "buildid": "2683348",
+      "description": "Play early versions before they go to live",
+      "timeupdated": "1523570249",
+      "timebuildupdated": "1523570234"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "701761": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "634105591977900815",
+          "size": "1856519216",
+          "download": "607228976"
+        }
+      }
+    },
+    "701762": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "701763": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8565397872877697821",
+          "size": "2422393876",
+          "download": "817143296"
+        }
+      }
+    },
+    "800950": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4883883127770886033",
+          "size": "754301438",
+          "download": "461541888"
+        }
+      },
+      "dlcappid": "800950"
+    },
+    "branches": {
+      "public": {
+        "buildid": "5102997",
+        "timeupdated": "1590974912",
+        "timebuildupdated": "1590974912"
+      },
+      "testing": {
+        "buildid": "2683348",
+        "description": "Play early versions before they go to live",
+        "timeupdated": "1523570249",
+        "timebuildupdated": "1523570234"
+      }
+    }
+  }
+}

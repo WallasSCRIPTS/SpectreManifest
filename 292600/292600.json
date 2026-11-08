@@ -1,0 +1,120 @@
+{
+  "name": "Duet",
+  "source": "spectre",
+  "changenumber": 40149028,
+  "updated": "2026-11-07T20:56:26.768Z",
+  "branches": {
+    "public": {
+      "buildid": "12825182",
+      "timeupdated": "1701409821",
+      "timebuildupdated": "1701240260"
+    },
+    "beta": {
+      "buildid": "12825182",
+      "description": "Public Beta",
+      "timeupdated": "1701390651",
+      "timebuildupdated": "1701240260"
+    },
+    "previous_good": {
+      "buildid": "1006023",
+      "timeupdated": "1690243838",
+      "timebuildupdated": "1456980357"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "292601": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9171868237935418057",
+          "size": "162181707",
+          "download": "145782640"
+        }
+      }
+    },
+    "292602": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2065513231100391416",
+          "size": "181293222",
+          "download": "150410352"
+        }
+      }
+    },
+    "292603": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6980552748502190583",
+          "size": "152315644",
+          "download": "142171184"
+        }
+      }
+    },
+    "292604": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1105567277491394485",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "386250": {
+      "manifests": {
+        "public": {
+          "gid": "2887596363103138619",
+          "size": "97130861",
+          "download": "96935840"
+        }
+      },
+      "dlcappid": "386250"
+    },
+    "branches": {
+      "public": {
+        "buildid": "12825182",
+        "timeupdated": "1701409821",
+        "timebuildupdated": "1701240260"
+      },
+      "beta": {
+        "buildid": "12825182",
+        "description": "Public Beta",
+        "timeupdated": "1701390651",
+        "timebuildupdated": "1701240260"
+      },
+      "previous_good": {
+        "buildid": "1006023",
+        "timeupdated": "1690243838",
+        "timebuildupdated": "1456980357"
+      }
+    }
+  }
+}

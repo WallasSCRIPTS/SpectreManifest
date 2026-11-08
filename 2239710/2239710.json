@@ -1,0 +1,84 @@
+{
+  "name": "Into the Dead: Our Darkest Days",
+  "source": "spectre",
+  "changenumber": 40668848,
+  "updated": "2026-11-06T23:19:35.036Z",
+  "branches": {
+    "public": {
+      "buildid": "26306995",
+      "timeupdated": "1793580026",
+      "timebuildupdated": "1793304557"
+    },
+    "local": {
+      "buildid": "26396395",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1793675752",
+      "timebuildupdated": "1793675752"
+    },
+    "version0.12.2_save03": {
+      "buildid": "22577354",
+      "description": "This beta contains game version 0.12.2 for players who want to load game saves from that version.",
+      "timeupdated": "1775788243",
+      "timebuildupdated": "1774923012"
+    },
+    "version0.18.1_save04": {
+      "buildid": "25641174",
+      "description": "This beta contains game version 0.18.1 for players who want to load game saves from that version.",
+      "timeupdated": "1792038531",
+      "timebuildupdated": "1790814472"
+    }
+  },
+  "depot": {
+    "2239711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3412094266599063896",
+          "size": "7027660610",
+          "download": "6176503232"
+        }
+      }
+    },
+    "2239712": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5706019213032107072",
+          "size": "7171920441",
+          "download": "6205273008"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26306995",
+        "timeupdated": "1793580026",
+        "timebuildupdated": "1793304557"
+      },
+      "local": {
+        "buildid": "26396395",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1793675752",
+        "timebuildupdated": "1793675752"
+      },
+      "version0.12.2_save03": {
+        "buildid": "22577354",
+        "description": "This beta contains game version 0.12.2 for players who want to load game saves from that version.",
+        "timeupdated": "1775788243",
+        "timebuildupdated": "1774923012"
+      },
+      "version0.18.1_save04": {
+        "buildid": "25641174",
+        "description": "This beta contains game version 0.18.1 for players who want to load game saves from that version.",
+        "timeupdated": "1792038531",
+        "timebuildupdated": "1790814472"
+      }
+    }
+  }
+}

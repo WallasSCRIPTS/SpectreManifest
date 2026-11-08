@@ -1,0 +1,70 @@
+{
+  "name": "TIS-100",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:14.660Z",
+  "branches": {
+    "public": {
+      "buildid": "14149786",
+      "timeupdated": "1713899190",
+      "timebuildupdated": "1713899146"
+    },
+    "previous": {
+      "buildid": "5832001",
+      "description": "Previous version",
+      "timeupdated": "1714433000",
+      "timebuildupdated": "1605389380"
+    }
+  },
+  "depot": {
+    "370361": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3817547809422692189",
+          "size": "50190783",
+          "download": "19400192"
+        }
+      }
+    },
+    "370362": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6233065756405430448",
+          "size": "96091571",
+          "download": "29801376"
+        }
+      }
+    },
+    "370363": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8394348725058899270",
+          "size": "84039298",
+          "download": "29832224"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14149786",
+        "timeupdated": "1713899190",
+        "timebuildupdated": "1713899146"
+      },
+      "previous": {
+        "buildid": "5832001",
+        "description": "Previous version",
+        "timeupdated": "1714433000",
+        "timebuildupdated": "1605389380"
+      }
+    }
+  }
+}

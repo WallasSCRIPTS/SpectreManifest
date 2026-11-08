@@ -1,0 +1,72 @@
+{
+  "name": "NoseBound",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:50.108Z",
+  "branches": {
+    "public": {
+      "buildid": "17680069",
+      "timeupdated": "1741710437",
+      "timebuildupdated": "1741710390"
+    },
+    "beta": {
+      "buildid": "865273",
+      "timebuildupdated": "1447946493"
+    },
+    "macos": {
+      "buildid": "16421046",
+      "description": "Public MacOS branch",
+      "timeupdated": "1731678466",
+      "timebuildupdated": "1731678466"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "340021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1283666614643597982",
+          "size": "5030239698",
+          "download": "3934302672"
+        }
+      }
+    },
+    "340022": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2848425176150040657",
+          "size": "9694756416",
+          "download": "4148978640"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17680069",
+        "timeupdated": "1741710437",
+        "timebuildupdated": "1741710390"
+      },
+      "beta": {
+        "buildid": "865273",
+        "timebuildupdated": "1447946493"
+      },
+      "macos": {
+        "buildid": "16421046",
+        "description": "Public MacOS branch",
+        "timeupdated": "1731678466",
+        "timebuildupdated": "1731678466"
+      }
+    }
+  }
+}

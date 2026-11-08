@@ -1,0 +1,56 @@
+{
+  "name": "Pool Nation FX",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T20:56:36.623Z",
+  "branches": {
+    "public": {
+      "buildid": "968571",
+      "timebuildupdated": "1455039733"
+    },
+    "local": {
+      "buildid": "844507",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1446649711"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "314001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6332213867091649440",
+          "size": "3698707983",
+          "download": "3591600480"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "968571",
+        "timebuildupdated": "1455039733"
+      },
+      "local": {
+        "buildid": "844507",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1446649711"
+      }
+    }
+  }
+}

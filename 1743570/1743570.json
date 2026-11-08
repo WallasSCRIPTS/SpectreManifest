@@ -1,0 +1,72 @@
+{
+  "name": "RFVR",
+  "source": "spectre",
+  "changenumber": 40226738,
+  "updated": "2026-11-06T23:09:41.695Z",
+  "branches": {
+    "public": {
+      "buildid": "26146559",
+      "timeupdated": "1792890131",
+      "timebuildupdated": "1792710402"
+    },
+    "local": {
+      "buildid": "8344796",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1646884758",
+      "timebuildupdated": "1646884758"
+    },
+    "openbeta": {
+      "buildid": "26146559",
+      "description": "Open Beta Branch for testing latest updates",
+      "timeupdated": "1792712867",
+      "timebuildupdated": "1792710402"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1743571": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1172768075235890581",
+          "size": "18617445148",
+          "download": "17990851184"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26146559",
+        "timeupdated": "1792890131",
+        "timebuildupdated": "1792710402"
+      },
+      "local": {
+        "buildid": "8344796",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1646884758",
+        "timebuildupdated": "1646884758"
+      },
+      "openbeta": {
+        "buildid": "26146559",
+        "description": "Open Beta Branch for testing latest updates",
+        "timeupdated": "1792712867",
+        "timebuildupdated": "1792710402"
+      }
+    }
+  }
+}

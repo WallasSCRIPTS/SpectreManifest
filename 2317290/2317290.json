@@ -1,0 +1,70 @@
+{
+  "name": "EvoCreo 2",
+  "source": "spectre",
+  "changenumber": 39325244,
+  "updated": "2026-11-06T23:21:28.750Z",
+  "branches": {
+    "public": {
+      "buildid": "25605021",
+      "timeupdated": "1790692130",
+      "timebuildupdated": "1790692091"
+    },
+    "staging": {
+      "buildid": "25605021",
+      "description": "A branch for test features",
+      "timeupdated": "1790692109",
+      "timebuildupdated": "1790692091"
+    }
+  },
+  "depot": {
+    "2317291": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5253985235989359059",
+          "size": "407086526",
+          "download": "256377856"
+        }
+      }
+    },
+    "2317292": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3542650444033295242",
+          "size": "501851245",
+          "download": "246694176"
+        }
+      }
+    },
+    "2317293": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4799445286411210443",
+          "size": "530294443",
+          "download": "326174160"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25605021",
+        "timeupdated": "1790692130",
+        "timebuildupdated": "1790692091"
+      },
+      "staging": {
+        "buildid": "25605021",
+        "description": "A branch for test features",
+        "timeupdated": "1790692109",
+        "timebuildupdated": "1790692091"
+      }
+    }
+  }
+}

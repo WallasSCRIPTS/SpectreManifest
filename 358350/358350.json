@@ -1,0 +1,59 @@
+{
+  "name": "Secret Agent",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:07.611Z",
+  "branches": {
+    "public": {
+      "buildid": "607365",
+      "timebuildupdated": "1430386134"
+    }
+  },
+  "depot": {
+    "358282": {
+      "depotfromapp": "358280"
+    },
+    "358351": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1397960930716195750",
+          "size": "8884775",
+          "download": "3102368"
+        }
+      }
+    },
+    "358352": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8093692662457549216",
+          "size": "7119286",
+          "download": "2326304"
+        }
+      }
+    },
+    "358353": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1937477281113271014",
+          "size": "8885083",
+          "download": "3097968"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "607365",
+        "timebuildupdated": "1430386134"
+      }
+    }
+  }
+}

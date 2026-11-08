@@ -1,0 +1,81 @@
+{
+  "name": "Dungeon Rushers",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:46.585Z",
+  "branches": {
+    "public": {
+      "buildid": "3003466",
+      "timeupdated": "1536938241",
+      "timebuildupdated": "1533305777"
+    },
+    "endlessdungeon_debug": {
+      "buildid": "2996220",
+      "timeupdated": "1533129846",
+      "timebuildupdated": "1533129804"
+    },
+    "test": {
+      "buildid": "3003466",
+      "description": "only for testing",
+      "timeupdated": "1533306420",
+      "timebuildupdated": "1533305777"
+    }
+  },
+  "depot": {
+    "429621": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7560416166923458469",
+          "size": "310318100",
+          "download": "89272144"
+        }
+      }
+    },
+    "429622": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "12444298044855925",
+          "size": "322016765",
+          "download": "91927024"
+        }
+      }
+    },
+    "429623": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "888069726160885787",
+          "size": "321797959",
+          "download": "91638624"
+        }
+      }
+    },
+    "429624": {},
+    "branches": {
+      "public": {
+        "buildid": "3003466",
+        "timeupdated": "1536938241",
+        "timebuildupdated": "1533305777"
+      },
+      "endlessdungeon_debug": {
+        "buildid": "2996220",
+        "timeupdated": "1533129846",
+        "timebuildupdated": "1533129804"
+      },
+      "test": {
+        "buildid": "3003466",
+        "description": "only for testing",
+        "timeupdated": "1533306420",
+        "timebuildupdated": "1533305777"
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Overdelivery",
+  "source": "spectre",
+  "changenumber": 34885321,
+  "updated": "2026-11-06T23:17:33.828Z",
+  "branches": {
+    "public": {
+      "buildid": "10620678",
+      "timeupdated": "1677168740",
+      "timebuildupdated": "1677161969"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2115921": {
+      "manifests": {
+        "public": {
+          "gid": "1457983284163363273",
+          "size": "8",
+          "download": "64"
+        }
+      }
+    },
+    "2115922": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6326008478101835722",
+          "size": "397307418",
+          "download": "65860384"
+        }
+      }
+    },
+    "2115923": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1704051331006943660",
+          "size": "320673715",
+          "download": "56437008"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10620678",
+        "timeupdated": "1677168740",
+        "timebuildupdated": "1677161969"
+      }
+    }
+  }
+}

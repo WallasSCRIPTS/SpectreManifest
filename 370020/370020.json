@@ -1,0 +1,88 @@
+{
+  "name": "Templar Battleforce",
+  "source": "spectre",
+  "changenumber": 38027449,
+  "updated": "2026-11-07T20:57:14.343Z",
+  "branches": {
+    "public": {
+      "buildid": "14201880",
+      "timeupdated": "1714327848",
+      "timebuildupdated": "1714327848"
+    },
+    "macos_legacy": {
+      "buildid": "11555765",
+      "description": "A branch for older versions of Mac OS that cannot run the current version of the game",
+      "timeupdated": "1746559955",
+      "timebuildupdated": "1687726632"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "370021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8528856975158621949",
+          "size": "167794754",
+          "download": "146723392"
+        }
+      }
+    },
+    "370022": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "348668942100966221",
+          "size": "75183430",
+          "download": "63063040"
+        }
+      }
+    },
+    "370023": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6468705347901165394",
+          "size": "204478985",
+          "download": "154144864"
+        }
+      }
+    },
+    "370024": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3986318300243081965",
+          "size": "213266304",
+          "download": "154711952"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14201880",
+        "timeupdated": "1714327848",
+        "timebuildupdated": "1714327848"
+      },
+      "macos_legacy": {
+        "buildid": "11555765",
+        "description": "A branch for older versions of Mac OS that cannot run the current version of the game",
+        "timeupdated": "1746559955",
+        "timebuildupdated": "1687726632"
+      }
+    }
+  }
+}

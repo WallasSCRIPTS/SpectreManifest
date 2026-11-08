@@ -1,0 +1,64 @@
+{
+  "name": "NERTS! Online",
+  "source": "spectre",
+  "changenumber": 40315868,
+  "updated": "2026-11-07T21:03:35.786Z",
+  "branches": {
+    "public": {
+      "buildid": "7700080",
+      "timeupdated": "1636687271",
+      "timebuildupdated": "1636687260"
+    }
+  },
+  "depot": {
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1131191": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6591197815588412538",
+          "size": "232686773",
+          "download": "88759072"
+        }
+      }
+    },
+    "1131192": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "319280428336515775",
+          "size": "259379593",
+          "download": "95533488"
+        }
+      }
+    },
+    "1131193": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "612712384509459078",
+          "size": "287673086",
+          "download": "104059792"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7700080",
+        "timeupdated": "1636687271",
+        "timebuildupdated": "1636687260"
+      }
+    }
+  }
+}

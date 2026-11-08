@@ -1,0 +1,94 @@
+{
+  "name": "Duck Simulator 2",
+  "source": "spectre",
+  "changenumber": 40631809,
+  "updated": "2026-11-06T23:11:33.477Z",
+  "branches": {
+    "public": {
+      "buildid": "20253900",
+      "timeupdated": "1767200559",
+      "timebuildupdated": "1759597046"
+    },
+    "event": {
+      "buildid": "20906160",
+      "description": "Version 3 (contains the live event, but has known issues)",
+      "timeupdated": "1767200514",
+      "timebuildupdated": "1763853772"
+    },
+    "pre-rewrite": {
+      "buildid": "20253721",
+      "description": "Version 2.1.3",
+      "timeupdated": "1759796195",
+      "timebuildupdated": "1759595404"
+    },
+    "speedrunner": {
+      "buildid": "20253329",
+      "description": "Version 1.3",
+      "timeupdated": "1759796185",
+      "timebuildupdated": "1759591421"
+    }
+  },
+  "depot": {
+    "1808801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3968997017203982332",
+          "size": "205065771",
+          "download": "90389520"
+        }
+      }
+    },
+    "1808802": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8793411220067404605",
+          "size": "229924089",
+          "download": "99068272"
+        }
+      }
+    },
+    "1808803": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8814376321936524361",
+          "size": "209748125",
+          "download": "90063504"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20253900",
+        "timeupdated": "1767200559",
+        "timebuildupdated": "1759597046"
+      },
+      "event": {
+        "buildid": "20906160",
+        "description": "Version 3 (contains the live event, but has known issues)",
+        "timeupdated": "1767200514",
+        "timebuildupdated": "1763853772"
+      },
+      "pre-rewrite": {
+        "buildid": "20253721",
+        "description": "Version 2.1.3",
+        "timeupdated": "1759796195",
+        "timebuildupdated": "1759595404"
+      },
+      "speedrunner": {
+        "buildid": "20253329",
+        "description": "Version 1.3",
+        "timeupdated": "1759796185",
+        "timebuildupdated": "1759591421"
+      }
+    }
+  }
+}

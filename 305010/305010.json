@@ -1,0 +1,49 @@
+{
+  "name": "Toxic Bunny HD",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:32.895Z",
+  "branches": {
+    "public": {
+      "buildid": "329352",
+      "timebuildupdated": "1405590338"
+    },
+    "local": {
+      "buildid": "296395",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1402573438"
+    }
+  },
+  "depot": {
+    "305011": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6155618937474191130",
+          "size": "890722753",
+          "download": "44385541176"
+        }
+      }
+    },
+    "305012": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "329352",
+        "timebuildupdated": "1405590338"
+      },
+      "local": {
+        "buildid": "296395",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1402573438"
+      }
+    }
+  }
+}

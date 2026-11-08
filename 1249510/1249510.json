@@ -1,0 +1,82 @@
+{
+  "name": "Hnefatafl",
+  "source": "spectre",
+  "changenumber": 40461477,
+  "updated": "2026-11-05T14:49:43.401Z",
+  "branches": {
+    "public": {
+      "buildid": "15257297",
+      "timeupdated": "1722798514",
+      "timebuildupdated": "1722797918"
+    },
+    "beta": {
+      "buildid": "15257297",
+      "description": "beta",
+      "timeupdated": "1722797918",
+      "timebuildupdated": "1722797918"
+    },
+    "oldversion": {
+      "buildid": "8875279",
+      "description": "Before the firebase update for those having problems with the new version",
+      "timeupdated": "1654437050",
+      "timebuildupdated": "1654437050"
+    }
+  },
+  "depot": {
+    "1249511": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6368757692267361146",
+          "size": "201724809",
+          "download": "109762000"
+        }
+      }
+    },
+    "1249512": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8654578013098061952",
+          "size": "340417201",
+          "download": "126275664"
+        }
+      }
+    },
+    "1249513": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3605061387803133482",
+          "size": "393339043",
+          "download": "135766160"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15257297",
+        "timeupdated": "1722798514",
+        "timebuildupdated": "1722797918"
+      },
+      "beta": {
+        "buildid": "15257297",
+        "description": "beta",
+        "timeupdated": "1722797918",
+        "timebuildupdated": "1722797918"
+      },
+      "oldversion": {
+        "buildid": "8875279",
+        "description": "Before the firebase update for those having problems with the new version",
+        "timeupdated": "1654437050",
+        "timebuildupdated": "1654437050"
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "name": "AngerForce: Reloaded",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:30.493Z",
+  "branches": {
+    "public": {
+      "buildid": "7580782",
+      "timeupdated": "1634898769",
+      "timebuildupdated": "1634898349"
+    },
+    "beta": {
+      "buildid": "7580782",
+      "description": "Daily Build",
+      "timeupdated": "1634898349",
+      "timebuildupdated": "1634898349"
+    },
+    "local": {
+      "buildid": "1883555",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1497236036",
+      "timebuildupdated": "1497236036"
+    }
+  },
+  "depot": {
+    "650781": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4584157593105487795",
+          "size": "3476401299",
+          "download": "2517617840"
+        }
+      }
+    },
+    "650782": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1664953530336577768",
+          "size": "3460379357",
+          "download": "2514786304"
+        }
+      }
+    },
+    "650783": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7580782",
+        "timeupdated": "1634898769",
+        "timebuildupdated": "1634898349"
+      },
+      "beta": {
+        "buildid": "7580782",
+        "description": "Daily Build",
+        "timeupdated": "1634898349",
+        "timebuildupdated": "1634898349"
+      },
+      "local": {
+        "buildid": "1883555",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1497236036",
+        "timebuildupdated": "1497236036"
+      }
+    }
+  }
+}

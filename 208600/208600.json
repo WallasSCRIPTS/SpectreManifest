@@ -1,0 +1,66 @@
+{
+  "name": "Lunar Flight",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:02.329Z",
+  "branches": {
+    "public": {
+      "buildid": "249777",
+      "timebuildupdated": "1398898616"
+    },
+    "lfae": {
+      "buildid": "4030904",
+      "description": "Anniversary Edition",
+      "timeupdated": "1563715154",
+      "timebuildupdated": "1563715154"
+    },
+    "vr_beta": {
+      "buildid": "1471382",
+      "timeupdated": "1479730569",
+      "timebuildupdated": "1479730315"
+    }
+  },
+  "depot": {
+    "208601": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5311198478352408848",
+          "size": "1511914365",
+          "download": "0"
+        }
+      }
+    },
+    "208602": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7400917779519651313",
+          "size": "1469943871",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "249777",
+        "timebuildupdated": "1398898616"
+      },
+      "lfae": {
+        "buildid": "4030904",
+        "description": "Anniversary Edition",
+        "timeupdated": "1563715154",
+        "timebuildupdated": "1563715154"
+      },
+      "vr_beta": {
+        "buildid": "1471382",
+        "timeupdated": "1479730569",
+        "timebuildupdated": "1479730315"
+      }
+    }
+  }
+}

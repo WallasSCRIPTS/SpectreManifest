@@ -1,0 +1,70 @@
+{
+  "name": "Axes and Acres",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:55.896Z",
+  "branches": {
+    "public": {
+      "buildid": "6577520",
+      "timeupdated": "1681048164",
+      "timebuildupdated": "1619016439"
+    },
+    "beta": {
+      "buildid": "6577520",
+      "description": "Beta Test Branch",
+      "timeupdated": "1619016455",
+      "timebuildupdated": "1619016439"
+    }
+  },
+  "depot": {
+    "448911": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1667228034481962119",
+          "size": "111052305",
+          "download": "30179888"
+        }
+      }
+    },
+    "448912": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6562491572890441254",
+          "size": "111673980",
+          "download": "29638992"
+        }
+      }
+    },
+    "448913": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2117889850938263607",
+          "size": "144733017",
+          "download": "41199984"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6577520",
+        "timeupdated": "1681048164",
+        "timebuildupdated": "1619016439"
+      },
+      "beta": {
+        "buildid": "6577520",
+        "description": "Beta Test Branch",
+        "timeupdated": "1619016455",
+        "timebuildupdated": "1619016439"
+      }
+    }
+  }
+}

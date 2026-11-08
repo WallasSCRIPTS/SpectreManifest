@@ -1,0 +1,106 @@
+{
+  "name": "Cultist Simulator",
+  "source": "spectre",
+  "changenumber": 39703282,
+  "updated": "2026-11-07T21:00:05.965Z",
+  "branches": {
+    "public": {
+      "buildid": "22090405",
+      "timeupdated": "1775469856",
+      "timebuildupdated": "1772018560"
+    },
+    "cultist_classic_original_ui": {
+      "buildid": "6169043",
+      "description": "2021 version of the game. BEWARE: UNSUPPORTED",
+      "timeupdated": "1646920085",
+      "timebuildupdated": "1612178365"
+    },
+    "gateofhorn": {
+      "buildid": "22090405",
+      "description": "Beta branch, reasonably stable",
+      "timeupdated": "1772030588",
+      "timebuildupdated": "1772018560"
+    },
+    "legacy_2025.8.f.4": {
+      "buildid": "20249566",
+      "description": "Previous major version",
+      "timeupdated": "1759834522",
+      "timebuildupdated": "1759554800"
+    },
+    "legacy_unsupported_2023.12.s.6": {
+      "buildid": "13977825",
+      "description": "2023.12",
+      "timeupdated": "1720098404",
+      "timebuildupdated": "1712480475"
+    }
+  },
+  "depot": {
+    "718671": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4018853142473369167",
+          "size": "747979716",
+          "download": "245581024"
+        }
+      }
+    },
+    "718672": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5548257939521281773",
+          "size": "777045457",
+          "download": "259282688"
+        }
+      }
+    },
+    "718673": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1705622164917917846",
+          "size": "772429226",
+          "download": "245690240"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22090405",
+        "timeupdated": "1775469856",
+        "timebuildupdated": "1772018560"
+      },
+      "cultist_classic_original_ui": {
+        "buildid": "6169043",
+        "description": "2021 version of the game. BEWARE: UNSUPPORTED",
+        "timeupdated": "1646920085",
+        "timebuildupdated": "1612178365"
+      },
+      "gateofhorn": {
+        "buildid": "22090405",
+        "description": "Beta branch, reasonably stable",
+        "timeupdated": "1772030588",
+        "timebuildupdated": "1772018560"
+      },
+      "legacy_2025.8.f.4": {
+        "buildid": "20249566",
+        "description": "Previous major version",
+        "timeupdated": "1759834522",
+        "timebuildupdated": "1759554800"
+      },
+      "legacy_unsupported_2023.12.s.6": {
+        "buildid": "13977825",
+        "description": "2023.12",
+        "timeupdated": "1720098404",
+        "timebuildupdated": "1712480475"
+      }
+    }
+  }
+}

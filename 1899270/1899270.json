@@ -1,0 +1,70 @@
+{
+  "name": "Battle of Finland: Winter War",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:13:28.501Z",
+  "branches": {
+    "public": {
+      "buildid": "9689002",
+      "timeupdated": "1665396255",
+      "timebuildupdated": "1665396255"
+    },
+    "beta": {
+      "buildid": "9666586",
+      "description": "for testing",
+      "timeupdated": "1665053467",
+      "timebuildupdated": "1665053467"
+    }
+  },
+  "depot": {
+    "1899271": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7541228941423857736",
+          "size": "148334293",
+          "download": "127652016"
+        }
+      }
+    },
+    "1899272": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2098769907795473599",
+          "size": "156476864",
+          "download": "113729552"
+        }
+      }
+    },
+    "1899273": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4888305447484500450",
+          "size": "218633075",
+          "download": "138384672"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9689002",
+        "timeupdated": "1665396255",
+        "timebuildupdated": "1665396255"
+      },
+      "beta": {
+        "buildid": "9666586",
+        "description": "for testing",
+        "timeupdated": "1665053467",
+        "timebuildupdated": "1665053467"
+      }
+    }
+  }
+}

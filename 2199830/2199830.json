@@ -1,0 +1,64 @@
+{
+  "name": "Bavovna included!",
+  "source": "spectre",
+  "changenumber": 38375327,
+  "updated": "2026-11-06T23:19:30.419Z",
+  "branches": {
+    "public": {
+      "buildid": "24968485",
+      "timeupdated": "1787826719",
+      "timebuildupdated": "1787826719"
+    },
+    "default_v2_with_mac_support": {
+      "buildid": "14132416",
+      "description": "last_v2_version",
+      "timeupdated": "1744729683",
+      "timebuildupdated": "1713788233"
+    }
+  },
+  "depot": {
+    "2199831": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "310066908275314252",
+          "size": "239101696",
+          "download": "119039056"
+        }
+      }
+    },
+    "2199832": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5812325239770387588",
+          "size": "245669401",
+          "download": "116734192"
+        }
+      }
+    },
+    "2199833": {
+      "config": {
+        "oslist": "windows,macos"
+      },
+      "dlcappid": "2520260"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24968485",
+        "timeupdated": "1787826719",
+        "timebuildupdated": "1787826719"
+      },
+      "default_v2_with_mac_support": {
+        "buildid": "14132416",
+        "description": "last_v2_version",
+        "timeupdated": "1744729683",
+        "timebuildupdated": "1713788233"
+      }
+    }
+  }
+}

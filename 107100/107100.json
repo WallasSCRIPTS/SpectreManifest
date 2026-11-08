@@ -1,0 +1,100 @@
+{
+  "name": "Bastion",
+  "source": "spectre",
+  "changenumber": 37432492,
+  "updated": "2026-11-07T20:55:59.336Z",
+  "branches": {
+    "public": {
+      "buildid": "3406487",
+      "timeupdated": "1545086985",
+      "timebuildupdated": "1545086060"
+    },
+    "legacy": {
+      "buildid": "322538",
+      "timeupdated": "1506548038",
+      "timebuildupdated": "1405016070"
+    },
+    "valvetest": {
+      "buildid": "90719",
+      "timebuildupdated": "1373648760"
+    }
+  },
+  "depot": {
+    "107101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4592976686021117920",
+          "size": "1261084524",
+          "download": "1068766144"
+        }
+      }
+    },
+    "107103": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3571113824443740111",
+          "size": "46801",
+          "download": "0"
+        }
+      }
+    },
+    "107105": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3356719684576082416",
+          "size": "1283170630",
+          "download": "1072864176"
+        }
+      }
+    },
+    "107106": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3420657565557640459",
+          "size": "1314893094",
+          "download": "1083111632"
+        }
+      }
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "3406487",
+        "timeupdated": "1545086985",
+        "timebuildupdated": "1545086060"
+      },
+      "legacy": {
+        "buildid": "322538",
+        "timeupdated": "1506548038",
+        "timebuildupdated": "1405016070"
+      },
+      "valvetest": {
+        "buildid": "90719",
+        "timebuildupdated": "1373648760"
+      }
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "name": "Plains of Pain",
+  "source": "spectre",
+  "changenumber": 40635172,
+  "updated": "2026-11-06T23:19:32.579Z",
+  "branches": {
+    "public": {
+      "buildid": "25368094",
+      "timeupdated": "1789657217",
+      "timebuildupdated": "1789647048"
+    },
+    "experimental": {
+      "buildid": "25368094",
+      "description": "Next unstable patch",
+      "timeupdated": "1789647471",
+      "timebuildupdated": "1789647048"
+    },
+    "previous": {
+      "buildid": "25128239",
+      "description": "Previous working patch",
+      "timeupdated": "1788543508",
+      "timebuildupdated": "1788539038"
+    },
+    "v0.5": {
+      "buildid": "16964771",
+      "description": "v0.5",
+      "timeupdated": "1744743012",
+      "timebuildupdated": "1736514710"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2218971": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3374344219968369657",
+          "size": "3986814414",
+          "download": "2257336176"
+        }
+      }
+    },
+    "2218972": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25368094",
+        "timeupdated": "1789657217",
+        "timebuildupdated": "1789647048"
+      },
+      "experimental": {
+        "buildid": "25368094",
+        "description": "Next unstable patch",
+        "timeupdated": "1789647471",
+        "timebuildupdated": "1789647048"
+      },
+      "previous": {
+        "buildid": "25128239",
+        "description": "Previous working patch",
+        "timeupdated": "1788543508",
+        "timebuildupdated": "1788539038"
+      },
+      "v0.5": {
+        "buildid": "16964771",
+        "description": "v0.5",
+        "timeupdated": "1744743012",
+        "timebuildupdated": "1736514710"
+      }
+    }
+  }
+}

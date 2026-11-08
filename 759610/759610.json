@@ -1,0 +1,82 @@
+{
+  "name": "House of Evil",
+  "source": "spectre",
+  "changenumber": 39568873,
+  "updated": "2026-11-07T21:00:28.205Z",
+  "branches": {
+    "public": {
+      "buildid": "2455773",
+      "timeupdated": "1516548306",
+      "timebuildupdated": "1516548261"
+    },
+    "eng_version1.4": {
+      "buildid": "2455773",
+      "description": "English version of the game",
+      "timeupdated": "1516548282",
+      "timebuildupdated": "1516548261"
+    },
+    "update1.2": {
+      "buildid": "2455773",
+      "description": "Обновление",
+      "timeupdated": "1516548294",
+      "timebuildupdated": "1516548261"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "759611": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4525059512042086312",
+          "size": "5046231805",
+          "download": "2645833936"
+        }
+      }
+    },
+    "759612": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "183967489719584360",
+          "size": "5059132478",
+          "download": "2651809504"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2455773",
+        "timeupdated": "1516548306",
+        "timebuildupdated": "1516548261"
+      },
+      "eng_version1.4": {
+        "buildid": "2455773",
+        "description": "English version of the game",
+        "timeupdated": "1516548282",
+        "timebuildupdated": "1516548261"
+      },
+      "update1.2": {
+        "buildid": "2455773",
+        "description": "Обновление",
+        "timeupdated": "1516548294",
+        "timebuildupdated": "1516548261"
+      }
+    }
+  }
+}

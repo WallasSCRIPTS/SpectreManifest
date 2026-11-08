@@ -1,0 +1,122 @@
+{
+  "name": "Doom & Destiny",
+  "source": "spectre",
+  "changenumber": 37433691,
+  "updated": "2026-11-07T20:56:38.663Z",
+  "branches": {
+    "public": {
+      "buildid": "9998911",
+      "timeupdated": "1669214631",
+      "timebuildupdated": "1669195822"
+    },
+    "opengl": {
+      "buildid": "8895716",
+      "description": "Testing Steam Deck Compatibility",
+      "timeupdated": "1654693032",
+      "timebuildupdated": "1654693032"
+    },
+    "previous_stable": {
+      "buildid": "8895747",
+      "description": "Use this if you are having troubles in the new version",
+      "timeupdated": "1664786044",
+      "timebuildupdated": "1654693311"
+    },
+    "previous_stable_2": {
+      "buildid": "7579715",
+      "timeupdated": "1658826783",
+      "timebuildupdated": "1634886656"
+    },
+    "public_beta": {
+      "buildid": "9998911",
+      "description": "Use this to test the new version",
+      "timeupdated": "1669198751",
+      "timebuildupdated": "1669195822"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "318131": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1157740199520421268",
+          "size": "159412113",
+          "download": "119258416"
+        }
+      }
+    },
+    "318132": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1862963911478811669",
+          "size": "159327650",
+          "download": "98424144"
+        }
+      }
+    },
+    "318133": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6315591912415547905",
+          "size": "178202608",
+          "download": "88777360"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9998911",
+        "timeupdated": "1669214631",
+        "timebuildupdated": "1669195822"
+      },
+      "opengl": {
+        "buildid": "8895716",
+        "description": "Testing Steam Deck Compatibility",
+        "timeupdated": "1654693032",
+        "timebuildupdated": "1654693032"
+      },
+      "previous_stable": {
+        "buildid": "8895747",
+        "description": "Use this if you are having troubles in the new version",
+        "timeupdated": "1664786044",
+        "timebuildupdated": "1654693311"
+      },
+      "previous_stable_2": {
+        "buildid": "7579715",
+        "timeupdated": "1658826783",
+        "timebuildupdated": "1634886656"
+      },
+      "public_beta": {
+        "buildid": "9998911",
+        "description": "Use this to test the new version",
+        "timeupdated": "1669198751",
+        "timebuildupdated": "1669195822"
+      }
+    }
+  }
+}

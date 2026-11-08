@@ -1,0 +1,100 @@
+{
+  "name": "Gaia's Melody: Echoed Melodies Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:00:17.949Z",
+  "branches": {
+    "public": {
+      "buildid": "10224757",
+      "timeupdated": "1672241585",
+      "timebuildupdated": "1672241361"
+    },
+    "oldmac": {
+      "buildid": "7447738",
+      "description": "Old nw.js for MacOS",
+      "timeupdated": "1633121454",
+      "timebuildupdated": "1632941359"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "738891": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4655182820616901134",
+          "size": "886920654",
+          "download": "618694944"
+        }
+      }
+    },
+    "738892": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2857376611327807641",
+          "size": "983920723",
+          "download": "630152704"
+        }
+      }
+    },
+    "738893": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5252179927750089308",
+          "size": "920632868",
+          "download": "627186336"
+        }
+      }
+    },
+    "738894": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6002391472745300872",
+          "size": "915457508",
+          "download": "622865168"
+        }
+      }
+    },
+    "738895": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2575848505892998251",
+          "size": "982292811",
+          "download": "625989904"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10224757",
+        "timeupdated": "1672241585",
+        "timebuildupdated": "1672241361"
+      },
+      "oldmac": {
+        "buildid": "7447738",
+        "description": "Old nw.js for MacOS",
+        "timeupdated": "1633121454",
+        "timebuildupdated": "1632941359"
+      }
+    }
+  }
+}

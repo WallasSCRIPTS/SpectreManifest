@@ -1,0 +1,100 @@
+{
+  "name": "Opus Magnum",
+  "source": "spectre",
+  "changenumber": 40100461,
+  "updated": "2026-11-07T20:58:47.126Z",
+  "branches": {
+    "public": {
+      "buildid": "26115378",
+      "timeupdated": "1792610533",
+      "timebuildupdated": "1792610514"
+    },
+    "community-edition": {
+      "buildid": "26115258",
+      "description": "Community-made version with advanced features",
+      "timeupdated": "1792610270",
+      "timebuildupdated": "1792610219"
+    },
+    "old-mono": {
+      "buildid": "22551618",
+      "description": "Old version of Mono for macOS 10.15",
+      "timeupdated": "1774738135",
+      "timebuildupdated": "1774738126"
+    },
+    "previous": {
+      "buildid": "7267531",
+      "description": "Very old version for mod compatibility",
+      "timeupdated": "1642453060",
+      "timebuildupdated": "1630191350"
+    }
+  },
+  "depot": {
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "558991": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "380566682631885159",
+          "size": "682971355",
+          "download": "415393216"
+        }
+      }
+    },
+    "558992": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3751542434149656615",
+          "size": "724438740",
+          "download": "428198064"
+        }
+      }
+    },
+    "558993": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "433403222997881597",
+          "size": "739445154",
+          "download": "431471760"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26115378",
+        "timeupdated": "1792610533",
+        "timebuildupdated": "1792610514"
+      },
+      "community-edition": {
+        "buildid": "26115258",
+        "description": "Community-made version with advanced features",
+        "timeupdated": "1792610270",
+        "timebuildupdated": "1792610219"
+      },
+      "old-mono": {
+        "buildid": "22551618",
+        "description": "Old version of Mono for macOS 10.15",
+        "timeupdated": "1774738135",
+        "timebuildupdated": "1774738126"
+      },
+      "previous": {
+        "buildid": "7267531",
+        "description": "Very old version for mod compatibility",
+        "timeupdated": "1642453060",
+        "timebuildupdated": "1630191350"
+      }
+    }
+  }
+}

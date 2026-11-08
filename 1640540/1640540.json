@@ -1,0 +1,72 @@
+{
+  "name": "Desolatium: Prologue",
+  "source": "spectre",
+  "changenumber": 40062413,
+  "updated": "2026-11-06T21:06:46.259Z",
+  "branches": {
+    "public": {
+      "buildid": "7704043",
+      "timeupdated": "1636736174",
+      "timebuildupdated": "1636736174"
+    },
+    "local": {
+      "buildid": "6957081",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1625053408",
+      "timebuildupdated": "1625053408"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1640541": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1098687901103452716",
+          "size": "1380563998",
+          "download": "691257808"
+        }
+      }
+    },
+    "1640543": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "154160941352432100",
+          "size": "1430843090",
+          "download": "660754368"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7704043",
+        "timeupdated": "1636736174",
+        "timebuildupdated": "1636736174"
+      },
+      "local": {
+        "buildid": "6957081",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1625053408",
+        "timebuildupdated": "1625053408"
+      }
+    }
+  }
+}

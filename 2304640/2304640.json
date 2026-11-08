@@ -1,0 +1,61 @@
+{
+  "name": "Hidden Through Time 2: Myths & Magic",
+  "source": "spectre",
+  "changenumber": 40602377,
+  "updated": "2026-11-06T23:21:27.307Z",
+  "branches": {
+    "public": {
+      "buildid": "14160577",
+      "timeupdated": "1713969199",
+      "timebuildupdated": "1713968484"
+    },
+    "local": {
+      "buildid": "10602535",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1676990949",
+      "timebuildupdated": "1676990949"
+    }
+  },
+  "depot": {
+    "2304641": {},
+    "2304642": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6435665918613276180",
+          "size": "591756973",
+          "download": "425227840"
+        }
+      }
+    },
+    "2304643": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7619446793250343592",
+          "size": "616607642",
+          "download": "433229520"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14160577",
+        "timeupdated": "1713969199",
+        "timebuildupdated": "1713968484"
+      },
+      "local": {
+        "buildid": "10602535",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1676990949",
+        "timebuildupdated": "1676990949"
+      }
+    }
+  }
+}

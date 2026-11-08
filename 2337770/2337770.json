@@ -1,0 +1,70 @@
+{
+  "name": "Tsetseg's Adventure",
+  "source": "spectre",
+  "changenumber": 34896151,
+  "updated": "2026-11-06T23:23:16.588Z",
+  "branches": {
+    "public": {
+      "buildid": "14575532",
+      "timeupdated": "1717316506",
+      "timebuildupdated": "1717316374"
+    },
+    "beta": {
+      "buildid": "12849999",
+      "description": "For testing new builds before announcing public",
+      "timeupdated": "1701436234",
+      "timebuildupdated": "1701434113"
+    }
+  },
+  "depot": {
+    "2337771": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6031202088237142135",
+          "size": "84305560",
+          "download": "29836320"
+        }
+      }
+    },
+    "2337772": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7731134840596201002",
+          "size": "91810720",
+          "download": "32383248"
+        }
+      }
+    },
+    "2337773": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4910893608933310007",
+          "size": "163057258",
+          "download": "48301648"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14575532",
+        "timeupdated": "1717316506",
+        "timebuildupdated": "1717316374"
+      },
+      "beta": {
+        "buildid": "12849999",
+        "description": "For testing new builds before announcing public",
+        "timeupdated": "1701436234",
+        "timebuildupdated": "1701434113"
+      }
+    }
+  }
+}

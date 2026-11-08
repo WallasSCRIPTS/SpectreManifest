@@ -1,0 +1,70 @@
+{
+  "name": "Folklands",
+  "source": "spectre",
+  "changenumber": 40376386,
+  "updated": "2026-11-06T23:21:24.717Z",
+  "branches": {
+    "public": {
+      "buildid": "25524088",
+      "timeupdated": "1790325264",
+      "timebuildupdated": "1790325205"
+    },
+    "beta": {
+      "buildid": "25524088",
+      "description": "Unpublished test releases",
+      "timeupdated": "1790325205",
+      "timebuildupdated": "1790325205"
+    }
+  },
+  "depot": {
+    "2282891": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7886406568841352022",
+          "size": "645058101",
+          "download": "439038048"
+        }
+      }
+    },
+    "2282892": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5921722559652712655",
+          "size": "573999357",
+          "download": "421855808"
+        }
+      }
+    },
+    "2282893": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2639091027772801683",
+          "size": "771649155",
+          "download": "362185488"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25524088",
+        "timeupdated": "1790325264",
+        "timebuildupdated": "1790325205"
+      },
+      "beta": {
+        "buildid": "25524088",
+        "description": "Unpublished test releases",
+        "timeupdated": "1790325205",
+        "timebuildupdated": "1790325205"
+      }
+    }
+  }
+}

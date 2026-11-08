@@ -1,0 +1,70 @@
+{
+  "name": "Tower Attack",
+  "source": "spectre",
+  "changenumber": 35946306,
+  "updated": "2026-11-06T21:06:11.896Z",
+  "branches": {
+    "public": {
+      "buildid": "7026455",
+      "timeupdated": "1626244139",
+      "timebuildupdated": "1626244139"
+    },
+    "macbuild": {
+      "buildid": "6974318",
+      "description": "Mac",
+      "timeupdated": "1625300288",
+      "timebuildupdated": "1625300288"
+    },
+    "windows": {
+      "buildid": "6997381",
+      "description": "windows",
+      "timeupdated": "1625727156",
+      "timebuildupdated": "1625727156"
+    }
+  },
+  "depot": {
+    "1565801": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4651571819288542765",
+          "size": "87094246",
+          "download": "25659376"
+        }
+      }
+    },
+    "1565802": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1759389650001489409",
+          "size": "83955815",
+          "download": "25015744"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7026455",
+        "timeupdated": "1626244139",
+        "timebuildupdated": "1626244139"
+      },
+      "macbuild": {
+        "buildid": "6974318",
+        "description": "Mac",
+        "timeupdated": "1625300288",
+        "timebuildupdated": "1625300288"
+      },
+      "windows": {
+        "buildid": "6997381",
+        "description": "windows",
+        "timeupdated": "1625727156",
+        "timebuildupdated": "1625727156"
+      }
+    }
+  }
+}

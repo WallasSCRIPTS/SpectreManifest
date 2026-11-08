@@ -1,0 +1,116 @@
+{
+  "name": "Solace Crafting",
+  "source": "spectre",
+  "changenumber": 39405622,
+  "updated": "2026-11-07T20:59:40.327Z",
+  "branches": {
+    "public": {
+      "buildid": "25666300",
+      "timeupdated": "1790902498",
+      "timebuildupdated": "1790902498"
+    },
+    "beta": {
+      "buildid": "25666300",
+      "description": "Public beta branch",
+      "timeupdated": "1790902498",
+      "timebuildupdated": "1790902498"
+    },
+    "betamp": {
+      "buildid": "25666309",
+      "description": "dedicated server beta",
+      "timeupdated": "1790902533",
+      "timebuildupdated": "1790902524"
+    },
+    "dedicatedserver": {
+      "buildid": "25666309",
+      "description": "Public dedicated server",
+      "timeupdated": "1790902524",
+      "timebuildupdated": "1790902524"
+    },
+    "solacekeeper": {
+      "buildid": "19725576",
+      "description": "Public Solace Keeper Beta",
+      "timeupdated": "1759114738",
+      "timebuildupdated": "1756128888"
+    }
+  },
+  "depot": {
+    "670261": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "618998788901527546",
+          "size": "4325781049",
+          "download": "1706699920"
+        }
+      }
+    },
+    "670262": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3668896072854804843",
+          "size": "9019395263",
+          "download": "3886758016"
+        }
+      }
+    },
+    "670263": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5905261715122811950",
+          "size": "9072540516",
+          "download": "3928674672"
+        }
+      }
+    },
+    "670264": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "670265": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25666300",
+        "timeupdated": "1790902498",
+        "timebuildupdated": "1790902498"
+      },
+      "beta": {
+        "buildid": "25666300",
+        "description": "Public beta branch",
+        "timeupdated": "1790902498",
+        "timebuildupdated": "1790902498"
+      },
+      "betamp": {
+        "buildid": "25666309",
+        "description": "dedicated server beta",
+        "timeupdated": "1790902533",
+        "timebuildupdated": "1790902524"
+      },
+      "dedicatedserver": {
+        "buildid": "25666309",
+        "description": "Public dedicated server",
+        "timeupdated": "1790902524",
+        "timebuildupdated": "1790902524"
+      },
+      "solacekeeper": {
+        "buildid": "19725576",
+        "description": "Public Solace Keeper Beta",
+        "timeupdated": "1759114738",
+        "timebuildupdated": "1756128888"
+      }
+    }
+  }
+}

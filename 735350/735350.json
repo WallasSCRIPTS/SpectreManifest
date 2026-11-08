@@ -1,0 +1,96 @@
+{
+  "name": "Bottle: Pilgrim Redux",
+  "source": "spectre",
+  "changenumber": 35946306,
+  "updated": "2026-11-07T21:00:16.235Z",
+  "branches": {
+    "public": {
+      "buildid": "13753764",
+      "timeupdated": "1710514897",
+      "timebuildupdated": "1710514443"
+    },
+    "legacy": {
+      "buildid": "5184835",
+      "description": "The original game with old voice over and everything",
+      "timeupdated": "1604730172",
+      "timebuildupdated": "1592496728"
+    },
+    "localui": {
+      "buildid": "2889028",
+      "timeupdated": "1532082350",
+      "timebuildupdated": "1529748918"
+    },
+    "test": {
+      "buildid": "13753764",
+      "timeupdated": "1710514443",
+      "timebuildupdated": "1710514443"
+    },
+    "tr_voice": {
+      "buildid": "11128367",
+      "description": "Turkish voice language option",
+      "timeupdated": "1682915630",
+      "timebuildupdated": "1682915576"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229000": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "735351": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6584020986606511884",
+          "size": "7511564018",
+          "download": "3637868864"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13753764",
+        "timeupdated": "1710514897",
+        "timebuildupdated": "1710514443"
+      },
+      "legacy": {
+        "buildid": "5184835",
+        "description": "The original game with old voice over and everything",
+        "timeupdated": "1604730172",
+        "timebuildupdated": "1592496728"
+      },
+      "localui": {
+        "buildid": "2889028",
+        "timeupdated": "1532082350",
+        "timebuildupdated": "1529748918"
+      },
+      "test": {
+        "buildid": "13753764",
+        "timeupdated": "1710514443",
+        "timebuildupdated": "1710514443"
+      },
+      "tr_voice": {
+        "buildid": "11128367",
+        "description": "Turkish voice language option",
+        "timeupdated": "1682915630",
+        "timebuildupdated": "1682915576"
+      }
+    }
+  }
+}

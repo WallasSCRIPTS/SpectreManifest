@@ -1,0 +1,80 @@
+{
+  "name": "Lorn's Lure",
+  "source": "spectre",
+  "changenumber": 40560986,
+  "updated": "2026-11-06T21:05:06.691Z",
+  "branches": {
+    "public": {
+      "buildid": "25592601",
+      "timeupdated": "1790647553",
+      "timebuildupdated": "1790647493"
+    },
+    "test": {
+      "buildid": "25592601",
+      "description": "for testing",
+      "timeupdated": "1790647553",
+      "timebuildupdated": "1790647493"
+    }
+  },
+  "depot": {
+    "1417931": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8173787763953151250",
+          "size": "4938518234",
+          "download": "1616259536"
+        }
+      }
+    },
+    "1417932": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2539039079310905192",
+          "size": "4984744003",
+          "download": "1623423232"
+        }
+      }
+    },
+    "1417933": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8197267596274229925",
+          "size": "5032690172",
+          "download": "1643766608"
+        }
+      }
+    },
+    "4166680": {
+      "manifests": {
+        "public": {
+          "gid": "5496106267560527184",
+          "size": "979822367",
+          "download": "979858848"
+        }
+      },
+      "dlcappid": "4166680"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25592601",
+        "timeupdated": "1790647553",
+        "timebuildupdated": "1790647493"
+      },
+      "test": {
+        "buildid": "25592601",
+        "description": "for testing",
+        "timeupdated": "1790647553",
+        "timebuildupdated": "1790647493"
+      }
+    }
+  }
+}

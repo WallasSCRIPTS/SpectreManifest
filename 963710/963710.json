@@ -1,0 +1,64 @@
+{
+  "name": "Lost in Vivo",
+  "source": "spectre",
+  "changenumber": 37970522,
+  "updated": "2026-11-07T21:02:02.512Z",
+  "branches": {
+    "public": {
+      "buildid": "11183678",
+      "timeupdated": "1683582384",
+      "timebuildupdated": "1683581770"
+    },
+    "2.2.0": {
+      "buildid": "3738884",
+      "timeupdated": "1571141500",
+      "timebuildupdated": "1555337249"
+    },
+    "testing": {
+      "buildid": "11183678",
+      "timeupdated": "1683581799",
+      "timebuildupdated": "1683581770"
+    }
+  },
+  "depot": {
+    "963711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4355489107423751230",
+          "size": "984010594",
+          "download": "626003200"
+        }
+      }
+    },
+    "977000": {
+      "manifests": {
+        "public": {
+          "gid": "1318331524842630092",
+          "size": "392953480",
+          "download": "389258112"
+        }
+      },
+      "depotfromapp": "977000"
+    },
+    "branches": {
+      "public": {
+        "buildid": "11183678",
+        "timeupdated": "1683582384",
+        "timebuildupdated": "1683581770"
+      },
+      "2.2.0": {
+        "buildid": "3738884",
+        "timeupdated": "1571141500",
+        "timebuildupdated": "1555337249"
+      },
+      "testing": {
+        "buildid": "11183678",
+        "timeupdated": "1683581799",
+        "timebuildupdated": "1683581770"
+      }
+    }
+  }
+}

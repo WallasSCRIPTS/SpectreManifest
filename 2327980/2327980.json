@@ -1,0 +1,58 @@
+{
+  "name": "Last Stop",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:21:29.939Z",
+  "branches": {
+    "public": {
+      "buildid": "14500068",
+      "timeupdated": "1716742212",
+      "timebuildupdated": "1716742212"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2327982": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3245399272603306161",
+          "size": "1860160623",
+          "download": "1654427888"
+        }
+      }
+    },
+    "2327983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2248210861304134766",
+          "size": "1865328711",
+          "download": "1706129744"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14500068",
+        "timeupdated": "1716742212",
+        "timebuildupdated": "1716742212"
+      }
+    }
+  }
+}

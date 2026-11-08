@@ -1,0 +1,46 @@
+{
+  "name": "Human Host",
+  "source": "spectre",
+  "changenumber": 40539635,
+  "updated": "2026-11-06T23:23:23.080Z",
+  "branches": {
+    "public": {
+      "buildid": "26342655",
+      "timeupdated": "1793685805",
+      "timebuildupdated": "1793434385"
+    },
+    "prior_working_version": {
+      "buildid": "25752290",
+      "description": "Each update preserves the last functional build for rollback if critical bugs appear.",
+      "timeupdated": "1791291574",
+      "timebuildupdated": "1791291476"
+    }
+  },
+  "depot": {
+    "2393972": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3020676781876213532",
+          "size": "56610815453",
+          "download": "52410929168"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26342655",
+        "timeupdated": "1793685805",
+        "timebuildupdated": "1793434385"
+      },
+      "prior_working_version": {
+        "buildid": "25752290",
+        "description": "Each update preserves the last functional build for rollback if critical bugs appear.",
+        "timeupdated": "1791291574",
+        "timebuildupdated": "1791291476"
+      }
+    }
+  }
+}

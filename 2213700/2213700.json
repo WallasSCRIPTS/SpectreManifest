@@ -1,0 +1,70 @@
+{
+  "name": "Sintopia",
+  "source": "spectre",
+  "changenumber": 39783130,
+  "updated": "2026-11-06T23:19:31.918Z",
+  "branches": {
+    "public": {
+      "buildid": "24412395",
+      "timeupdated": "1785157082",
+      "timebuildupdated": "1785157082"
+    },
+    "local": {
+      "buildid": "10039932",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1669736675",
+      "timebuildupdated": "1669736321"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2213701": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5939777424413836924",
+          "size": "10739124258",
+          "download": "9964547776"
+        }
+      }
+    },
+    "3497181": {
+      "manifests": {
+        "public": {
+          "gid": "8714545793029603986",
+          "size": "147717461",
+          "download": "139896576"
+        }
+      },
+      "dlcappid": "3497180"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24412395",
+        "timeupdated": "1785157082",
+        "timebuildupdated": "1785157082"
+      },
+      "local": {
+        "buildid": "10039932",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1669736675",
+        "timebuildupdated": "1669736321"
+      }
+    }
+  }
+}

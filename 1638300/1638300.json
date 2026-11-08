@@ -1,0 +1,82 @@
+{
+  "name": "Solargene",
+  "source": "spectre",
+  "changenumber": 40593007,
+  "updated": "2026-11-06T21:06:45.320Z",
+  "branches": {
+    "public": {
+      "buildid": "25235312",
+      "timeupdated": "1789639827",
+      "timebuildupdated": "1789057452"
+    },
+    "beta": {
+      "buildid": "25801861",
+      "description": "\tTesting builds before publishing to the main branch",
+      "timeupdated": "1793803474",
+      "timebuildupdated": "1791457505"
+    },
+    "debug": {
+      "buildid": "25235312",
+      "description": "debugging builds",
+      "timeupdated": "1789639827",
+      "timebuildupdated": "1789057452"
+    },
+    "v1.4": {
+      "buildid": "24410948",
+      "description": "old stable version",
+      "timeupdated": "1790236685",
+      "timebuildupdated": "1785151153"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1638301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5128974524306747028",
+          "size": "12027564164",
+          "download": "11129390656"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25235312",
+        "timeupdated": "1789639827",
+        "timebuildupdated": "1789057452"
+      },
+      "beta": {
+        "buildid": "25801861",
+        "description": "\tTesting builds before publishing to the main branch",
+        "timeupdated": "1793803474",
+        "timebuildupdated": "1791457505"
+      },
+      "debug": {
+        "buildid": "25235312",
+        "description": "debugging builds",
+        "timeupdated": "1789639827",
+        "timebuildupdated": "1789057452"
+      },
+      "v1.4": {
+        "buildid": "24410948",
+        "description": "old stable version",
+        "timeupdated": "1790236685",
+        "timebuildupdated": "1785151153"
+      }
+    }
+  }
+}

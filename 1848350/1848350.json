@@ -1,0 +1,64 @@
+{
+  "name": "Gelatine",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:11:38.494Z",
+  "branches": {
+    "public": {
+      "buildid": "18182563",
+      "timeupdated": "1745255806",
+      "timebuildupdated": "1745255758"
+    },
+    "dev-latest": {
+      "buildid": "18182563",
+      "description": "Latest development build (likely to be unstable)",
+      "timeupdated": "1745255758",
+      "timebuildupdated": "1745255758"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1848351": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7783208473821890017",
+          "size": "354851709",
+          "download": "253179248"
+        }
+      }
+    },
+    "1848352": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8198643462251676864",
+          "size": "331756784",
+          "download": "248337008"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18182563",
+        "timeupdated": "1745255806",
+        "timebuildupdated": "1745255758"
+      },
+      "dev-latest": {
+        "buildid": "18182563",
+        "description": "Latest development build (likely to be unstable)",
+        "timeupdated": "1745255758",
+        "timebuildupdated": "1745255758"
+      }
+    }
+  }
+}

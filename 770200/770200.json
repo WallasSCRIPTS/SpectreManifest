@@ -1,0 +1,94 @@
+{
+  "name": "Squally",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:33.624Z",
+  "branches": {
+    "public": {
+      "buildid": "11779168",
+      "timeupdated": "1690257469",
+      "timebuildupdated": "1690257334"
+    },
+    "alpha": {
+      "buildid": "11808316",
+      "description": "The alpha Squally release",
+      "timeupdated": "1690520480",
+      "timebuildupdated": "1690519393"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "770201": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "845123214001451313",
+          "size": "1188459886",
+          "download": "587384336"
+        }
+      }
+    },
+    "770202": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3148878166592404065",
+          "size": "856246378",
+          "download": "545763040"
+        }
+      }
+    },
+    "770203": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1942669362886111078",
+          "size": "890409576",
+          "download": "544646672"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11779168",
+        "timeupdated": "1690257469",
+        "timebuildupdated": "1690257334"
+      },
+      "alpha": {
+        "buildid": "11808316",
+        "description": "The alpha Squally release",
+        "timeupdated": "1690520480",
+        "timebuildupdated": "1690519393"
+      }
+    }
+  }
+}

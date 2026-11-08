@@ -1,0 +1,79 @@
+{
+  "name": "Escape From Lavender Island",
+  "source": "spectre",
+  "changenumber": 39232216,
+  "updated": "2026-11-06T23:19:26.116Z",
+  "branches": {
+    "public": {
+      "buildid": "15473587",
+      "timeupdated": "1725817956",
+      "timebuildupdated": "1724424835"
+    },
+    "beta": {
+      "buildid": "15473587",
+      "description": "to test builds of the game before going on default branch",
+      "timeupdated": "1724424851",
+      "timebuildupdated": "1724424835"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2164311": {
+      "manifests": {
+        "public": {
+          "gid": "4004992443643896260",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "2164312": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "932785357790941921",
+          "size": "2179217047",
+          "download": "866269840"
+        }
+      }
+    },
+    "2164313": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7046186301072319877",
+          "size": "2122923660",
+          "download": "793238112"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15473587",
+        "timeupdated": "1725817956",
+        "timebuildupdated": "1724424835"
+      },
+      "beta": {
+        "buildid": "15473587",
+        "description": "to test builds of the game before going on default branch",
+        "timeupdated": "1724424851",
+        "timebuildupdated": "1724424835"
+      }
+    }
+  }
+}

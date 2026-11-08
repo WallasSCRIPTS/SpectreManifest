@@ -1,0 +1,54 @@
+{
+  "name": "Tower Wars",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:03.774Z",
+  "branches": {
+    "public": {
+      "buildid": "459701",
+      "timebuildupdated": "1417475058"
+    },
+    "beta": {
+      "buildid": "459701",
+      "description": "1.1140.2 RG",
+      "timebuildupdated": "1417475058"
+    }
+  },
+  "depot": {
+    "214361": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5211419598231164065",
+          "size": "1713540871",
+          "download": "152225881392"
+        }
+      }
+    },
+    "214362": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7915315227666127453",
+          "size": "1699058359",
+          "download": "158954259200"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "459701",
+        "timebuildupdated": "1417475058"
+      },
+      "beta": {
+        "buildid": "459701",
+        "description": "1.1140.2 RG",
+        "timebuildupdated": "1417475058"
+      }
+    }
+  }
+}

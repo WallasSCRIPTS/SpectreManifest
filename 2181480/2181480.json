@@ -1,0 +1,58 @@
+{
+  "name": "I Fought the Lawn",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:19:28.213Z",
+  "branches": {
+    "public": {
+      "buildid": "10210415",
+      "timeupdated": "1671865424",
+      "timebuildupdated": "1671865336"
+    },
+    "experimental": {
+      "buildid": "10214259",
+      "description": "Branch to test new things. Stuff may be broken! Use with caution.",
+      "timeupdated": "1671995506",
+      "timebuildupdated": "1671995454"
+    }
+  },
+  "depot": {
+    "2181481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1886686206593814602",
+          "size": "347201848",
+          "download": "184152480"
+        }
+      }
+    },
+    "2181482": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5586889025862050949",
+          "size": "372673964",
+          "download": "191367760"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10210415",
+        "timeupdated": "1671865424",
+        "timebuildupdated": "1671865336"
+      },
+      "experimental": {
+        "buildid": "10214259",
+        "description": "Branch to test new things. Stuff may be broken! Use with caution.",
+        "timeupdated": "1671995506",
+        "timebuildupdated": "1671995454"
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "name": "/trace",
+  "source": "spectre",
+  "changenumber": 34991049,
+  "updated": "2026-11-04T23:03:45.240Z",
+  "branches": {
+    "public": {
+      "buildid": "20670090",
+      "timeupdated": "1762291924",
+      "timebuildupdated": "1762291924"
+    },
+    "macos": {
+      "buildid": "21293429",
+      "description": "Experimental support for arm-based macos",
+      "timeupdated": "1766483591",
+      "timebuildupdated": "1766483591"
+    }
+  },
+  "depot": {
+    "4011781": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8712271638478381471",
+          "size": "137947042",
+          "download": "40826480"
+        }
+      }
+    },
+    "4011782": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6669332182012891458",
+          "size": "124301749",
+          "download": "37410592"
+        }
+      }
+    },
+    "4011783": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20670090",
+        "timeupdated": "1762291924",
+        "timebuildupdated": "1762291924"
+      },
+      "macos": {
+        "buildid": "21293429",
+        "description": "Experimental support for arm-based macos",
+        "timeupdated": "1766483591",
+        "timebuildupdated": "1766483591"
+      }
+    }
+  }
+}

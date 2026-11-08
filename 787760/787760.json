@@ -1,0 +1,70 @@
+{
+  "name": "Toribash Next",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T21:00:42.043Z",
+  "branches": {
+    "public": {
+      "buildid": "13348734",
+      "timeupdated": "1706886642",
+      "timebuildupdated": "1706886446"
+    },
+    "beta": {
+      "buildid": "13348734",
+      "description": "Beta builds",
+      "timeupdated": "1706886622",
+      "timebuildupdated": "1706886446"
+    },
+    "fallback": {
+      "buildid": "13281207",
+      "description": "Previous public build",
+      "timeupdated": "1706368750",
+      "timebuildupdated": "1706268136"
+    }
+  },
+  "depot": {
+    "787761": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1803642456902611382",
+          "size": "576053142",
+          "download": "454154368"
+        }
+      }
+    },
+    "787762": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4858206081495138945",
+          "size": "588680880",
+          "download": "457750544"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13348734",
+        "timeupdated": "1706886642",
+        "timebuildupdated": "1706886446"
+      },
+      "beta": {
+        "buildid": "13348734",
+        "description": "Beta builds",
+        "timeupdated": "1706886622",
+        "timebuildupdated": "1706886446"
+      },
+      "fallback": {
+        "buildid": "13281207",
+        "description": "Previous public build",
+        "timeupdated": "1706368750",
+        "timebuildupdated": "1706268136"
+      }
+    }
+  }
+}

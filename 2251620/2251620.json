@@ -1,0 +1,64 @@
+{
+  "name": "Sunrider 4: The Captain's Return",
+  "source": "spectre",
+  "changenumber": 37457512,
+  "updated": "2026-11-06T23:21:21.279Z",
+  "branches": {
+    "public": {
+      "buildid": "11320891",
+      "timeupdated": "1685057716",
+      "timebuildupdated": "1685057653"
+    },
+    "betabranch": {
+      "buildid": "11320891",
+      "description": "Opt-in Beta Branch",
+      "timeupdated": "1685057708",
+      "timebuildupdated": "1685057653"
+    },
+    "rollback": {
+      "buildid": "10751913",
+      "description": "rollbackfor crashes",
+      "timeupdated": "1684898894",
+      "timebuildupdated": "1678657477"
+    }
+  },
+  "depot": {
+    "2251621": {
+      "manifests": {
+        "public": {
+          "gid": "1335934436304234122",
+          "size": "1753482461",
+          "download": "1720621648"
+        }
+      }
+    },
+    "2251622": {
+      "manifests": {
+        "public": {
+          "gid": "6207629430486326902",
+          "size": "1753482461",
+          "download": "1720609152"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11320891",
+        "timeupdated": "1685057716",
+        "timebuildupdated": "1685057653"
+      },
+      "betabranch": {
+        "buildid": "11320891",
+        "description": "Opt-in Beta Branch",
+        "timeupdated": "1685057708",
+        "timebuildupdated": "1685057653"
+      },
+      "rollback": {
+        "buildid": "10751913",
+        "description": "rollbackfor crashes",
+        "timeupdated": "1684898894",
+        "timebuildupdated": "1678657477"
+      }
+    }
+  }
+}

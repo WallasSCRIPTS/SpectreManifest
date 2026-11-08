@@ -1,0 +1,58 @@
+{
+  "name": "Bilkins' Folly",
+  "source": "spectre",
+  "changenumber": 39719725,
+  "updated": "2026-11-06T21:05:54.700Z",
+  "branches": {
+    "public": {
+      "buildid": "23605930",
+      "timeupdated": "1780802081",
+      "timebuildupdated": "1780798841"
+    },
+    "chinese_localised": {
+      "buildid": "24568091",
+      "description": "A beta branch for playing a community-localised Chinese build",
+      "timeupdated": "1785917377",
+      "timebuildupdated": "1785917377"
+    }
+  },
+  "depot": {
+    "1526371": {
+      "config": {
+        "oslist": "windows,macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1657326689363658035",
+          "size": "721491427",
+          "download": "530745216"
+        }
+      }
+    },
+    "1526372": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6564297189127537686",
+          "size": "813443083",
+          "download": "536458336"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23605930",
+        "timeupdated": "1780802081",
+        "timebuildupdated": "1780798841"
+      },
+      "chinese_localised": {
+        "buildid": "24568091",
+        "description": "A beta branch for playing a community-localised Chinese build",
+        "timeupdated": "1785917377",
+        "timebuildupdated": "1785917377"
+      }
+    }
+  }
+}

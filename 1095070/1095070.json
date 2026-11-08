@@ -1,0 +1,64 @@
+{
+  "name": "Sideral",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:12.377Z",
+  "branches": {
+    "public": {
+      "buildid": "4385837",
+      "timeupdated": "1573674805",
+      "timebuildupdated": "1573674015"
+    },
+    "versionfortesting": {
+      "buildid": "3941369",
+      "description": "Version for Steam Team",
+      "timeupdated": "1561123424",
+      "timebuildupdated": "1561114051"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1095071": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8319581560318850164",
+          "size": "523276747",
+          "download": "320890768"
+        }
+      }
+    },
+    "1095072": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2855298682141768557",
+          "size": "540432887",
+          "download": "325649616"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4385837",
+        "timeupdated": "1573674805",
+        "timebuildupdated": "1573674015"
+      },
+      "versionfortesting": {
+        "buildid": "3941369",
+        "description": "Version for Steam Team",
+        "timeupdated": "1561123424",
+        "timebuildupdated": "1561114051"
+      }
+    }
+  }
+}

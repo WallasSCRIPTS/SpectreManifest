@@ -1,0 +1,70 @@
+{
+  "name": "Sephonie",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:03:53.577Z",
+  "branches": {
+    "public": {
+      "buildid": "12907087",
+      "timeupdated": "1702005380",
+      "timebuildupdated": "1702005334"
+    },
+    "beta": {
+      "buildid": "12907087",
+      "description": "steamdeck linux",
+      "timeupdated": "1702005746",
+      "timebuildupdated": "1702005334"
+    }
+  },
+  "depot": {
+    "1248841": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5315390127880244268",
+          "size": "739298387",
+          "download": "298670944"
+        }
+      }
+    },
+    "1248842": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7778857068950083490",
+          "size": "750439802",
+          "download": "301871600"
+        }
+      }
+    },
+    "1248843": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7893939953183765652",
+          "size": "737404995",
+          "download": "300006832"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12907087",
+        "timeupdated": "1702005380",
+        "timebuildupdated": "1702005334"
+      },
+      "beta": {
+        "buildid": "12907087",
+        "description": "steamdeck linux",
+        "timeupdated": "1702005746",
+        "timebuildupdated": "1702005334"
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Conan Unconquered",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:16.344Z",
+  "branches": {
+    "public": {
+      "buildid": "4247885",
+      "timeupdated": "1570125809",
+      "timebuildupdated": "1569965090"
+    },
+    "public_test": {
+      "buildid": "4247885",
+      "description": "Public Test Branch for new features.",
+      "timeupdated": "1570125784",
+      "timebuildupdated": "1569965090"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "989691": {
+      "manifests": {
+        "public": {
+          "gid": "1506225326517432314",
+          "size": "8181803182",
+          "download": "4176831872"
+        }
+      }
+    },
+    "1040880": {
+      "manifests": {
+        "public": {
+          "gid": "6468330548420696053",
+          "size": "326835324",
+          "download": "302473920"
+        }
+      },
+      "dlcappid": "1040880"
+    },
+    "branches": {
+      "public": {
+        "buildid": "4247885",
+        "timeupdated": "1570125809",
+        "timebuildupdated": "1569965090"
+      },
+      "public_test": {
+        "buildid": "4247885",
+        "description": "Public Test Branch for new features.",
+        "timeupdated": "1570125784",
+        "timebuildupdated": "1569965090"
+      }
+    }
+  }
+}

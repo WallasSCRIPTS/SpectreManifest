@@ -1,0 +1,64 @@
+{
+  "name": "Virtual Home Theater",
+  "source": "spectre",
+  "changenumber": 40612529,
+  "updated": "2026-11-07T21:02:16.062Z",
+  "branches": {
+    "public": {
+      "buildid": "21299150",
+      "timeupdated": "1766960283",
+      "timebuildupdated": "1766528385"
+    },
+    "beta": {
+      "buildid": "21299150",
+      "description": "Public beta branch",
+      "timeupdated": "1766528456",
+      "timebuildupdated": "1766528385"
+    },
+    "previous": {
+      "buildid": "18258967",
+      "description": "Public previous stable version branch",
+      "timeupdated": "1766960248",
+      "timebuildupdated": "1745796515"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "989061": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8248230927741661361",
+          "size": "71018823",
+          "download": "45510192"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21299150",
+        "timeupdated": "1766960283",
+        "timebuildupdated": "1766528385"
+      },
+      "beta": {
+        "buildid": "21299150",
+        "description": "Public beta branch",
+        "timeupdated": "1766528456",
+        "timebuildupdated": "1766528385"
+      },
+      "previous": {
+        "buildid": "18258967",
+        "description": "Public previous stable version branch",
+        "timeupdated": "1766960248",
+        "timebuildupdated": "1745796515"
+      }
+    }
+  }
+}

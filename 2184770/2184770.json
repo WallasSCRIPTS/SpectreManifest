@@ -1,0 +1,106 @@
+{
+  "name": "Broken Lens",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:19:28.627Z",
+  "branches": {
+    "public": {
+      "buildid": "15570263",
+      "timeupdated": "1725304078",
+      "timebuildupdated": "1725304078"
+    },
+    "macos_steam_v151": {
+      "buildid": "15208938",
+      "description": "build with older version of steam api",
+      "timeupdated": "1722408739",
+      "timebuildupdated": "1722408739"
+    },
+    "macos_steam_v155": {
+      "buildid": "16122034",
+      "description": "build with version 1.55 of steam api",
+      "timeupdated": "1729513221",
+      "timebuildupdated": "1729513221"
+    },
+    "macos_steam_v160": {
+      "buildid": "15208903",
+      "description": "build with latest version of steam api",
+      "timeupdated": "1722408508",
+      "timebuildupdated": "1722408508"
+    },
+    "testing": {
+      "buildid": "15315502",
+      "description": "testing features",
+      "timeupdated": "1723190907",
+      "timebuildupdated": "1723190907"
+    }
+  },
+  "depot": {
+    "2184772": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2329283086149502707",
+          "size": "5106457847",
+          "download": "969394656"
+        }
+      }
+    },
+    "2184773": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7951577132649998079",
+          "size": "2201035016",
+          "download": "910836528"
+        }
+      }
+    },
+    "2184774": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "643042560650149412",
+          "size": "5096346536",
+          "download": "966609616"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15570263",
+        "timeupdated": "1725304078",
+        "timebuildupdated": "1725304078"
+      },
+      "macos_steam_v151": {
+        "buildid": "15208938",
+        "description": "build with older version of steam api",
+        "timeupdated": "1722408739",
+        "timebuildupdated": "1722408739"
+      },
+      "macos_steam_v155": {
+        "buildid": "16122034",
+        "description": "build with version 1.55 of steam api",
+        "timeupdated": "1729513221",
+        "timebuildupdated": "1729513221"
+      },
+      "macos_steam_v160": {
+        "buildid": "15208903",
+        "description": "build with latest version of steam api",
+        "timeupdated": "1722408508",
+        "timebuildupdated": "1722408508"
+      },
+      "testing": {
+        "buildid": "15315502",
+        "description": "testing features",
+        "timeupdated": "1723190907",
+        "timebuildupdated": "1723190907"
+      }
+    }
+  }
+}

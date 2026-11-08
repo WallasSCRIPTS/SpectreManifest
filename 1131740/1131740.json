@@ -1,0 +1,58 @@
+{
+  "name": "Snowdome",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:36.143Z",
+  "branches": {
+    "public": {
+      "buildid": "13583166",
+      "timeupdated": "1709134674",
+      "timebuildupdated": "1709086443"
+    },
+    "beta": {
+      "buildid": "13583166",
+      "description": "Public testing",
+      "timeupdated": "1711010514",
+      "timebuildupdated": "1709086443"
+    }
+  },
+  "depot": {
+    "1131741": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5493495554515373364",
+          "size": "909182130",
+          "download": "822363568"
+        }
+      }
+    },
+    "1131742": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4182244526787352815",
+          "size": "933533718",
+          "download": "830416288"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13583166",
+        "timeupdated": "1709134674",
+        "timebuildupdated": "1709086443"
+      },
+      "beta": {
+        "buildid": "13583166",
+        "description": "Public testing",
+        "timeupdated": "1711010514",
+        "timebuildupdated": "1709086443"
+      }
+    }
+  }
+}

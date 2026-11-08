@@ -1,0 +1,70 @@
+{
+  "name": "Faraday Protocol",
+  "source": "spectre",
+  "changenumber": 40557759,
+  "updated": "2026-11-07T21:03:21.921Z",
+  "branches": {
+    "public": {
+      "buildid": "9206675",
+      "timeupdated": "1659010553",
+      "timebuildupdated": "1658999915"
+    },
+    "public_beta": {
+      "buildid": "9531171",
+      "description": "Public Beta Branch",
+      "timeupdated": "1663333574",
+      "timebuildupdated": "1663333460"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1107751": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5232332792501173550",
+          "size": "2077526534",
+          "download": "1681833056"
+        }
+      }
+    },
+    "1107752": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4857958803731589685",
+          "size": "1930200491",
+          "download": "1612271872"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9206675",
+        "timeupdated": "1659010553",
+        "timebuildupdated": "1658999915"
+      },
+      "public_beta": {
+        "buildid": "9531171",
+        "description": "Public Beta Branch",
+        "timeupdated": "1663333574",
+        "timebuildupdated": "1663333460"
+      }
+    }
+  }
+}

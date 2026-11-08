@@ -1,0 +1,58 @@
+{
+  "name": "Unusual Findings",
+  "source": "spectre",
+  "changenumber": 40153831,
+  "updated": "2026-11-06T21:06:33.186Z",
+  "branches": {
+    "public": {
+      "buildid": "24041090",
+      "timeupdated": "1783698061",
+      "timebuildupdated": "1783089252"
+    }
+  },
+  "depot": {
+    "1605321": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6347436844320924504",
+          "size": "1546225010",
+          "download": "816042160"
+        }
+      }
+    },
+    "1605322": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2510355928593894555",
+          "size": "1543914218",
+          "download": "813763120"
+        }
+      }
+    },
+    "1605323": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5864375454468035130",
+          "size": "1538744144",
+          "download": "813006816"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24041090",
+        "timeupdated": "1783698061",
+        "timebuildupdated": "1783089252"
+      }
+    }
+  }
+}

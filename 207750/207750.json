@@ -1,0 +1,94 @@
+{
+  "name": "Symphony",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:02.142Z",
+  "branches": {
+    "public": {
+      "buildid": "1377797",
+      "timeupdated": "1475764420",
+      "timebuildupdated": "1475764397"
+    },
+    "beta_loggin_f": {
+      "buildid": "1374271",
+      "description": "Build with logging enabled (and potentially other experimental features!)",
+      "timeupdated": "1475630669",
+      "timebuildupdated": "1475630640"
+    },
+    "p_test": {
+      "buildid": "10834552",
+      "description": "Private Testing",
+      "timeupdated": "1679538783",
+      "timebuildupdated": "1679538743"
+    }
+  },
+  "depot": {
+    "207751": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2397687909826622683",
+          "size": "424717953",
+          "download": "315074816"
+        }
+      }
+    },
+    "207752": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2419917772778050953",
+          "size": "490106382",
+          "download": "277495392"
+        }
+      }
+    },
+    "207753": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6744107067409347205",
+          "size": "415093368",
+          "download": "277918576"
+        }
+      }
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1377797",
+        "timeupdated": "1475764420",
+        "timebuildupdated": "1475764397"
+      },
+      "beta_loggin_f": {
+        "buildid": "1374271",
+        "description": "Build with logging enabled (and potentially other experimental features!)",
+        "timeupdated": "1475630669",
+        "timebuildupdated": "1475630640"
+      },
+      "p_test": {
+        "buildid": "10834552",
+        "description": "Private Testing",
+        "timeupdated": "1679538783",
+        "timebuildupdated": "1679538743"
+      }
+    }
+  }
+}

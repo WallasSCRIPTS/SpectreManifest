@@ -1,0 +1,70 @@
+{
+  "name": "Cannonship",
+  "source": "spectre",
+  "changenumber": 34854403,
+  "updated": "2026-11-06T21:04:22.178Z",
+  "branches": {
+    "public": {
+      "buildid": "9691355",
+      "timeupdated": "1665420001",
+      "timebuildupdated": "1665420001"
+    },
+    "test": {
+      "buildid": "9685455",
+      "description": "test",
+      "timeupdated": "1665333328",
+      "timebuildupdated": "1665333328"
+    }
+  },
+  "depot": {
+    "1313121": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8917816631691738882",
+          "size": "21982290",
+          "download": "9261776"
+        }
+      }
+    },
+    "1313122": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7132384281482930646",
+          "size": "38996313",
+          "download": "13909152"
+        }
+      }
+    },
+    "1313123": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3182219804301535298",
+          "size": "13522112",
+          "download": "13400448"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9691355",
+        "timeupdated": "1665420001",
+        "timebuildupdated": "1665420001"
+      },
+      "test": {
+        "buildid": "9685455",
+        "description": "test",
+        "timeupdated": "1665333328",
+        "timebuildupdated": "1665333328"
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Soda Crisis",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:06:26.627Z",
+  "branches": {
+    "public": {
+      "buildid": "10664633",
+      "timeupdated": "1677672897",
+      "timebuildupdated": "1677672897"
+    },
+    "beta": {
+      "buildid": "10664457",
+      "description": "Open Beta",
+      "timeupdated": "1677671318",
+      "timebuildupdated": "1677671318"
+    },
+    "demorelease": {
+      "buildid": "7450188",
+      "description": "Demo Release",
+      "timeupdated": "1653098869",
+      "timebuildupdated": "1632974858"
+    }
+  },
+  "depot": {
+    "1592671": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7958125127562901818",
+          "size": "17299602009",
+          "download": "3588765344"
+        }
+      }
+    },
+    "1592672": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1062777855930193486",
+          "size": "12345795920",
+          "download": "1805120672"
+        }
+      }
+    },
+    "1592673": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "558835987236066817",
+          "size": "12443588954",
+          "download": "1834679936"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10664633",
+        "timeupdated": "1677672897",
+        "timebuildupdated": "1677672897"
+      },
+      "beta": {
+        "buildid": "10664457",
+        "description": "Open Beta",
+        "timeupdated": "1677671318",
+        "timebuildupdated": "1677671318"
+      },
+      "demorelease": {
+        "buildid": "7450188",
+        "description": "Demo Release",
+        "timeupdated": "1653098869",
+        "timebuildupdated": "1632974858"
+      }
+    }
+  }
+}

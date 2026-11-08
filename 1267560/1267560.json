@@ -1,0 +1,58 @@
+{
+  "name": "In Space",
+  "source": "spectre",
+  "changenumber": 34852557,
+  "updated": "2026-11-06T21:04:02.029Z",
+  "branches": {
+    "public": {
+      "buildid": "10154174",
+      "timeupdated": "1671108708",
+      "timebuildupdated": "1671108708"
+    },
+    "inspace": {
+      "buildid": "10154174",
+      "description": "Win + Mac",
+      "timeupdated": "1671108734",
+      "timebuildupdated": "1671108708"
+    }
+  },
+  "depot": {
+    "1267561": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1152155168660935148",
+          "size": "292802739",
+          "download": "128652048"
+        }
+      }
+    },
+    "1267562": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2138944403297054681",
+          "size": "39995647",
+          "download": "36982496"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10154174",
+        "timeupdated": "1671108708",
+        "timebuildupdated": "1671108708"
+      },
+      "inspace": {
+        "buildid": "10154174",
+        "description": "Win + Mac",
+        "timeupdated": "1671108734",
+        "timebuildupdated": "1671108708"
+      }
+    }
+  }
+}

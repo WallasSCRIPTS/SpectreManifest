@@ -1,0 +1,70 @@
+{
+  "name": "Alone in the War",
+  "source": "spectre",
+  "changenumber": 40361298,
+  "updated": "2026-11-07T21:03:26.464Z",
+  "branches": {
+    "public": {
+      "buildid": "8330341",
+      "timeupdated": "1646701913",
+      "timebuildupdated": "1646701913"
+    },
+    "linux_version": {
+      "buildid": "8442866",
+      "description": "linux",
+      "timeupdated": "1648269763",
+      "timebuildupdated": "1648269763"
+    },
+    "mac_version": {
+      "buildid": "8442836",
+      "description": "mac",
+      "timeupdated": "1648268877",
+      "timebuildupdated": "1648268877"
+    }
+  },
+  "depot": {
+    "1114911": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8097423906689215604",
+          "size": "1065874430",
+          "download": "255243408"
+        }
+      }
+    },
+    "1114912": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6669063574030185524",
+          "size": "1079279401",
+          "download": "260566112"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8330341",
+        "timeupdated": "1646701913",
+        "timebuildupdated": "1646701913"
+      },
+      "linux_version": {
+        "buildid": "8442866",
+        "description": "linux",
+        "timeupdated": "1648269763",
+        "timebuildupdated": "1648269763"
+      },
+      "mac_version": {
+        "buildid": "8442836",
+        "description": "mac",
+        "timeupdated": "1648268877",
+        "timebuildupdated": "1648268877"
+      }
+    }
+  }
+}

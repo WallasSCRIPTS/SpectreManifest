@@ -1,0 +1,94 @@
+{
+  "name": "Safari Zone",
+  "source": "spectre",
+  "changenumber": 34858490,
+  "updated": "2026-11-05T14:53:33.350Z",
+  "branches": {
+    "public": {
+      "buildid": "6512542",
+      "timeupdated": "1618101178",
+      "timebuildupdated": "1617933624"
+    },
+    "macos": {
+      "buildid": "6512542",
+      "description": "For MacOS",
+      "timeupdated": "1618101264",
+      "timebuildupdated": "1617933624"
+    },
+    "windows": {
+      "buildid": "6512542",
+      "description": "For Windows 7+",
+      "timeupdated": "1618101150",
+      "timebuildupdated": "1617933624"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229032": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229033": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1421601": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8447033534301306550",
+          "size": "1383420895",
+          "download": "190733664"
+        }
+      }
+    },
+    "1421602": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6288655817005303567",
+          "size": "1391423729",
+          "download": "192150688"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6512542",
+        "timeupdated": "1618101178",
+        "timebuildupdated": "1617933624"
+      },
+      "macos": {
+        "buildid": "6512542",
+        "description": "For MacOS",
+        "timeupdated": "1618101264",
+        "timebuildupdated": "1617933624"
+      },
+      "windows": {
+        "buildid": "6512542",
+        "description": "For Windows 7+",
+        "timeupdated": "1618101150",
+        "timebuildupdated": "1617933624"
+      }
+    }
+  }
+}

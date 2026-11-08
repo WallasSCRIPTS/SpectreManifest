@@ -1,0 +1,41 @@
+{
+  "name": "Early Quest - Elemental Power DLC",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-05T14:55:20.098Z",
+  "branches": {
+    "public": {
+      "buildid": "5865376",
+      "timeupdated": "1606034953",
+      "timebuildupdated": "1606034953"
+    }
+  },
+  "depot": {
+    "1442510": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3200699220970847506",
+          "size": "92589",
+          "download": "2096"
+        }
+      },
+      "dlcappid": "1442510"
+    },
+    "1442511": {
+      "config": {
+        "oslist": "macos"
+      },
+      "dlcappid": "1442510"
+    },
+    "branches": {
+      "public": {
+        "buildid": "5865376",
+        "timeupdated": "1606034953",
+        "timebuildupdated": "1606034953"
+      }
+    }
+  }
+}

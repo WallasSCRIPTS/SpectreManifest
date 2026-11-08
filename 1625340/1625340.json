@@ -1,0 +1,85 @@
+{
+  "name": "United Assault - Battle of the Bulge",
+  "source": "spectre",
+  "changenumber": 40458442,
+  "updated": "2026-11-06T21:06:40.238Z",
+  "branches": {
+    "public": {
+      "buildid": "19740530",
+      "timeupdated": "1756215347",
+      "timebuildupdated": "1756213555"
+    },
+    "debug": {
+      "buildid": "9923263",
+      "description": "Debug build to check for crash reasons",
+      "timeupdated": "1668249985",
+      "timebuildupdated": "1668245864"
+    },
+    "legacy": {
+      "buildid": "9408405",
+      "description": "Legacy build pre UE5",
+      "timeupdated": "1668242018",
+      "timebuildupdated": "1661776112"
+    },
+    "development_preview": {
+      "buildid": "19740530",
+      "description": "Development preview",
+      "timeupdated": "1756215323",
+      "timebuildupdated": "1756213555"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1625341": {
+      "manifests": {
+        "public": {
+          "gid": "2805168951546482439",
+          "size": "6336724277",
+          "download": "6084833952"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19740530",
+        "timeupdated": "1756215347",
+        "timebuildupdated": "1756213555"
+      },
+      "debug": {
+        "buildid": "9923263",
+        "description": "Debug build to check for crash reasons",
+        "timeupdated": "1668249985",
+        "timebuildupdated": "1668245864"
+      },
+      "legacy": {
+        "buildid": "9408405",
+        "description": "Legacy build pre UE5",
+        "timeupdated": "1668242018",
+        "timebuildupdated": "1661776112"
+      },
+      "development_preview": {
+        "buildid": "19740530",
+        "description": "Development preview",
+        "timeupdated": "1756215323",
+        "timebuildupdated": "1756213555"
+      }
+    }
+  }
+}

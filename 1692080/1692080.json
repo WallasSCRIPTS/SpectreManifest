@@ -1,0 +1,70 @@
+{
+  "name": "SVFI",
+  "source": "spectre",
+  "changenumber": 40683116,
+  "updated": "2026-11-06T23:07:50.061Z",
+  "branches": {
+    "public": {
+      "buildid": "26462958",
+      "timeupdated": "1793895327",
+      "timebuildupdated": "1793895327"
+    },
+    "beta": {
+      "buildid": "26445833",
+      "description": "SVFI Beta Test",
+      "timeupdated": "1793837963",
+      "timebuildupdated": "1793837962"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1692081": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "607986440809568267",
+          "size": "12905934752",
+          "download": "6233784288"
+        }
+      }
+    },
+    "1692082": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9088215470090199867",
+          "size": "4442870043",
+          "download": "1970580480"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26462958",
+        "timeupdated": "1793895327",
+        "timebuildupdated": "1793895327"
+      },
+      "beta": {
+        "buildid": "26445833",
+        "description": "SVFI Beta Test",
+        "timeupdated": "1793837963",
+        "timebuildupdated": "1793837962"
+      }
+    }
+  }
+}

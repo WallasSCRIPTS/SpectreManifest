@@ -1,0 +1,73 @@
+{
+  "name": "The Siege of Jeomdo",
+  "source": "spectre",
+  "changenumber": 37459553,
+  "updated": "2026-11-06T23:25:07.445Z",
+  "branches": {
+    "public": {
+      "buildid": "23298959",
+      "timeupdated": "1779161697",
+      "timebuildupdated": "1779161354"
+    },
+    "local": {
+      "buildid": "16634622",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1733345750",
+      "timebuildupdated": "1733345750"
+    }
+  },
+  "depot": {
+    "2417711": {},
+    "2417713": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1146238286936129404",
+          "size": "11797575469",
+          "download": "3032398160"
+        }
+      }
+    },
+    "2417714": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5979309390810323987",
+          "size": "11815275206",
+          "download": "3042215984"
+        }
+      }
+    },
+    "2417715": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "61867310792501451",
+          "size": "11793158923",
+          "download": "3029203216"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23298959",
+        "timeupdated": "1779161697",
+        "timebuildupdated": "1779161354"
+      },
+      "local": {
+        "buildid": "16634622",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1733345750",
+        "timebuildupdated": "1733345750"
+      }
+    }
+  }
+}

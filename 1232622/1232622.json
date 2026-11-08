@@ -1,0 +1,73 @@
+{
+  "name": "SMS Plus GX",
+  "source": "spectre",
+  "changenumber": 40626871,
+  "updated": "2026-11-06T21:03:46.496Z",
+  "branches": {
+    "public": {
+      "buildid": "20833799",
+      "timeupdated": "1763418665",
+      "timebuildupdated": "1763416102"
+    },
+    "nightly": {
+      "buildid": "26456815",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793878774",
+      "timebuildupdated": "1793878774"
+    }
+  },
+  "depot": {
+    "1232622": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1519534397121186875",
+          "size": "258037",
+          "download": "120416"
+        }
+      },
+      "dlcappid": "1232622"
+    },
+    "1789740": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7955920990957197613",
+          "size": "244020",
+          "download": "82576"
+        }
+      },
+      "dlcappid": "1232622"
+    },
+    "1789741": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7800414874120236038",
+          "size": "471732",
+          "download": "109504"
+        }
+      },
+      "dlcappid": "1232622"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833799",
+        "timeupdated": "1763418665",
+        "timebuildupdated": "1763416102"
+      },
+      "nightly": {
+        "buildid": "26456815",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793878774",
+        "timebuildupdated": "1793878774"
+      }
+    }
+  }
+}

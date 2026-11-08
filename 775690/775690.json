@@ -1,0 +1,58 @@
+{
+  "name": "Platform Golf",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:36.036Z",
+  "branches": {
+    "public": {
+      "buildid": "24155698",
+      "timeupdated": "1783728301",
+      "timebuildupdated": "1783728226"
+    },
+    "beta": {
+      "buildid": "2427779",
+      "description": "Test out the latest Features",
+      "timeupdated": "1515631505",
+      "timebuildupdated": "1515631494"
+    }
+  },
+  "depot": {
+    "775691": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4453814795940506775",
+          "size": "70072156",
+          "download": "60554288"
+        }
+      }
+    },
+    "775692": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9080358132611880009",
+          "size": "362389396",
+          "download": "177181584"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24155698",
+        "timeupdated": "1783728301",
+        "timebuildupdated": "1783728226"
+      },
+      "beta": {
+        "buildid": "2427779",
+        "description": "Test out the latest Features",
+        "timeupdated": "1515631505",
+        "timebuildupdated": "1515631494"
+      }
+    }
+  }
+}

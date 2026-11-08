@@ -1,0 +1,104 @@
+{
+  "name": "Spirits of Xanadu",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:35.569Z",
+  "branches": {
+    "public": {
+      "buildid": "2290389",
+      "timeupdated": "1510847985",
+      "timebuildupdated": "1510847901"
+    },
+    "fullscreen": {
+      "buildid": "3076467",
+      "description": "exclusive fullscreen test",
+      "timeupdated": "1535595763",
+      "timebuildupdated": "1535595268"
+    },
+    "previous_stable": {
+      "buildid": "1445412",
+      "description": "last stable branch",
+      "timeupdated": "1510815557",
+      "timebuildupdated": "1478572758"
+    },
+    "testers": {
+      "buildid": "2336919",
+      "description": "beta update - 12/3/2017",
+      "timeupdated": "1512352395",
+      "timebuildupdated": "1512341380"
+    }
+  },
+  "depot": {
+    "312231": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6341702972595920527",
+          "size": "717943012",
+          "download": "177153056"
+        }
+      }
+    },
+    "312232": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "156512716376608875",
+          "size": "758506240",
+          "download": "186831712"
+        }
+      }
+    },
+    "312233": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3373544776510642161",
+          "size": "760906031",
+          "download": "189918192"
+        }
+      }
+    },
+    "387080": {
+      "manifests": {
+        "public": {
+          "gid": "2545546155378767358",
+          "size": "12792268",
+          "download": "12045280"
+        }
+      },
+      "dlcappid": "387080"
+    },
+    "branches": {
+      "public": {
+        "buildid": "2290389",
+        "timeupdated": "1510847985",
+        "timebuildupdated": "1510847901"
+      },
+      "fullscreen": {
+        "buildid": "3076467",
+        "description": "exclusive fullscreen test",
+        "timeupdated": "1535595763",
+        "timebuildupdated": "1535595268"
+      },
+      "previous_stable": {
+        "buildid": "1445412",
+        "description": "last stable branch",
+        "timeupdated": "1510815557",
+        "timebuildupdated": "1478572758"
+      },
+      "testers": {
+        "buildid": "2336919",
+        "description": "beta update - 12/3/2017",
+        "timeupdated": "1512352395",
+        "timebuildupdated": "1512341380"
+      }
+    }
+  }
+}

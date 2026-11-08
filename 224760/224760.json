@@ -1,0 +1,104 @@
+{
+  "name": "FEZ",
+  "source": "spectre",
+  "changenumber": 39911737,
+  "updated": "2026-11-07T20:56:06.229Z",
+  "branches": {
+    "public": {
+      "buildid": "1493264",
+      "timeupdated": "1480639231",
+      "timebuildupdated": "1480639231"
+    },
+    "1.11": {
+      "buildid": "306353",
+      "description": "1.11 (MonoGame)",
+      "timebuildupdated": "1403592182"
+    },
+    "beta": {
+      "buildid": "15155093",
+      "description": "For testing",
+      "timeupdated": "1721939927",
+      "timebuildupdated": "1721939926"
+    },
+    "sdl3": {
+      "buildid": "25992575",
+      "description": "SDL 3.0 Testing, UNSTABLE",
+      "timeupdated": "1792169080",
+      "timebuildupdated": "1792169080"
+    }
+  },
+  "depot": {
+    "224761": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7323732734525082112",
+          "size": "395266998",
+          "download": "339822624"
+        }
+      }
+    },
+    "224762": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5672754372855605298",
+          "size": "441317193",
+          "download": "352244592"
+        }
+      }
+    },
+    "224764": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3921862058076559490",
+          "size": "414654597",
+          "download": "344374720"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1493264",
+        "timeupdated": "1480639231",
+        "timebuildupdated": "1480639231"
+      },
+      "1.11": {
+        "buildid": "306353",
+        "description": "1.11 (MonoGame)",
+        "timebuildupdated": "1403592182"
+      },
+      "beta": {
+        "buildid": "15155093",
+        "description": "For testing",
+        "timeupdated": "1721939927",
+        "timebuildupdated": "1721939926"
+      },
+      "sdl3": {
+        "buildid": "25992575",
+        "description": "SDL 3.0 Testing, UNSTABLE",
+        "timeupdated": "1792169080",
+        "timebuildupdated": "1792169080"
+      }
+    }
+  }
+}

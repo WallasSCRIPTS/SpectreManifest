@@ -1,0 +1,58 @@
+{
+  "name": "Grab n' Throw",
+  "source": "spectre",
+  "changenumber": 34873657,
+  "updated": "2026-11-06T23:11:34.135Z",
+  "branches": {
+    "public": {
+      "buildid": "14799348",
+      "timeupdated": "1719004326",
+      "timebuildupdated": "1719004326"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1813591": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "756950705419656483",
+          "size": "7670589518",
+          "download": "2641583872"
+        }
+      }
+    },
+    "1813592": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8995982608041122938",
+          "size": "7175645754",
+          "download": "2331972640"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14799348",
+        "timeupdated": "1719004326",
+        "timebuildupdated": "1719004326"
+      }
+    }
+  }
+}

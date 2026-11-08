@@ -1,0 +1,70 @@
+{
+  "name": "ERMO",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:00:14.059Z",
+  "branches": {
+    "public": {
+      "buildid": "4420619",
+      "timeupdated": "1574564366",
+      "timebuildupdated": "1574562008"
+    },
+    "alpha": {
+      "buildid": "4420619",
+      "description": "Future release unstable branch",
+      "timeupdated": "1574562008",
+      "timebuildupdated": "1574562008"
+    }
+  },
+  "depot": {
+    "731671": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2829671919627602983",
+          "size": "176746363",
+          "download": "68879696"
+        }
+      }
+    },
+    "731672": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7066507151059453196",
+          "size": "159124522",
+          "download": "63537440"
+        }
+      }
+    },
+    "731673": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4869230654277601055",
+          "size": "171368085",
+          "download": "66018272"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4420619",
+        "timeupdated": "1574564366",
+        "timebuildupdated": "1574562008"
+      },
+      "alpha": {
+        "buildid": "4420619",
+        "description": "Future release unstable branch",
+        "timeupdated": "1574562008",
+        "timebuildupdated": "1574562008"
+      }
+    }
+  }
+}

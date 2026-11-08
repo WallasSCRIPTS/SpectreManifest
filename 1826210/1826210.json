@@ -1,0 +1,58 @@
+{
+  "name": "遺跡冒險RelicAdventure",
+  "source": "spectre",
+  "changenumber": 35945755,
+  "updated": "2026-11-06T23:11:35.715Z",
+  "branches": {
+    "220105": {
+      "buildid": "10695476",
+      "description": "220105簡化安裝路徑",
+      "timeupdated": "1678028168",
+      "timebuildupdated": "1678028126"
+    },
+    "public": {
+      "buildid": "8014050",
+      "timeupdated": "1642072528",
+      "timebuildupdated": "1642072528"
+    }
+  },
+  "depot": {
+    "1826211": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3263013970137909901",
+          "size": "275050951",
+          "download": "95144320"
+        }
+      }
+    },
+    "1826212": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5052895912235220881",
+          "size": "352782508",
+          "download": "117254464"
+        }
+      }
+    },
+    "branches": {
+      "220105": {
+        "buildid": "10695476",
+        "description": "220105簡化安裝路徑",
+        "timeupdated": "1678028168",
+        "timebuildupdated": "1678028126"
+      },
+      "public": {
+        "buildid": "8014050",
+        "timeupdated": "1642072528",
+        "timebuildupdated": "1642072528"
+      }
+    }
+  }
+}

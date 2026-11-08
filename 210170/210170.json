@@ -1,0 +1,68 @@
+{
+  "name": "Spirits",
+  "source": "spectre",
+  "changenumber": 40526626,
+  "updated": "2026-11-07T20:56:02.981Z",
+  "branches": {
+    "public": {
+      "buildid": "47843",
+      "timebuildupdated": "1362064465"
+    },
+    "local": {
+      "buildid": "3360",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1339035257"
+    }
+  },
+  "depot": {
+    "210171": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "43190947908805704",
+          "size": "182821308",
+          "download": "0"
+        }
+      }
+    },
+    "210172": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6916015949144303651",
+          "size": "170022324",
+          "download": "0"
+        }
+      }
+    },
+    "210173": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8510099605799538717",
+          "size": "169300393",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "47843",
+        "timebuildupdated": "1362064465"
+      },
+      "local": {
+        "buildid": "3360",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1339035257"
+      }
+    }
+  }
+}

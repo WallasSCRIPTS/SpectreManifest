@@ -1,0 +1,60 @@
+{
+  "name": "GE Neuro",
+  "source": "spectre",
+  "changenumber": 40062413,
+  "updated": "2026-11-07T20:58:16.508Z",
+  "branches": {
+    "public": {
+      "buildid": "1267933",
+      "timeupdated": "1470799729",
+      "timebuildupdated": "1470649170"
+    },
+    "local": {
+      "buildid": "1203150",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1467148315",
+      "timebuildupdated": "1467148315"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "496181": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "756006658317730790",
+          "size": "1889376002",
+          "download": "609303376"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1267933",
+        "timeupdated": "1470799729",
+        "timebuildupdated": "1470649170"
+      },
+      "local": {
+        "buildid": "1203150",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1467148315",
+        "timebuildupdated": "1467148315"
+      }
+    }
+  }
+}

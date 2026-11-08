@@ -1,0 +1,94 @@
+{
+  "name": "Retro Tank Party",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:06:13.342Z",
+  "branches": {
+    "public": {
+      "buildid": "19291724",
+      "timeupdated": "1753024725",
+      "timebuildupdated": "1753024157"
+    },
+    "alpha": {
+      "buildid": "8638489",
+      "description": "Branch for early testing - it's sometimes very broken",
+      "timeupdated": "1651117102",
+      "timebuildupdated": "1651115814"
+    },
+    "old-netcode": {
+      "buildid": "8642779",
+      "description": "v1.1 using the old netcode",
+      "timeupdated": "1651159286",
+      "timebuildupdated": "1651159286"
+    },
+    "beta": {
+      "buildid": "19291724",
+      "description": "Branch for beta testers",
+      "timeupdated": "1753024158",
+      "timebuildupdated": "1753024157"
+    }
+  },
+  "depot": {
+    "1568571": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1171520572156992998",
+          "size": "53723896",
+          "download": "21000544"
+        }
+      }
+    },
+    "1568572": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4008389064870804941",
+          "size": "67938287",
+          "download": "24905776"
+        }
+      }
+    },
+    "1568573": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "756005554735470730",
+          "size": "62155408",
+          "download": "23321216"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19291724",
+        "timeupdated": "1753024725",
+        "timebuildupdated": "1753024157"
+      },
+      "alpha": {
+        "buildid": "8638489",
+        "description": "Branch for early testing - it's sometimes very broken",
+        "timeupdated": "1651117102",
+        "timebuildupdated": "1651115814"
+      },
+      "old-netcode": {
+        "buildid": "8642779",
+        "description": "v1.1 using the old netcode",
+        "timeupdated": "1651159286",
+        "timebuildupdated": "1651159286"
+      },
+      "beta": {
+        "buildid": "19291724",
+        "description": "Branch for beta testers",
+        "timeupdated": "1753024158",
+        "timebuildupdated": "1753024157"
+      }
+    }
+  }
+}

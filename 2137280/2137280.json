@@ -1,0 +1,58 @@
+{
+  "name": "Graviton",
+  "source": "spectre",
+  "changenumber": 34886364,
+  "updated": "2026-11-06T23:17:36.191Z",
+  "branches": {
+    "public": {
+      "buildid": "12653565",
+      "timeupdated": "1699471487",
+      "timebuildupdated": "1699471465"
+    },
+    "alphatest": {
+      "buildid": "12653565",
+      "description": "Test branch",
+      "timeupdated": "1699471465",
+      "timebuildupdated": "1699471465"
+    }
+  },
+  "depot": {
+    "2137281": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1502575481268048619",
+          "size": "64908976",
+          "download": "46722880"
+        }
+      }
+    },
+    "2137282": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6086770067957590369",
+          "size": "59610624",
+          "download": "45364048"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12653565",
+        "timeupdated": "1699471487",
+        "timebuildupdated": "1699471465"
+      },
+      "alphatest": {
+        "buildid": "12653565",
+        "description": "Test branch",
+        "timeupdated": "1699471465",
+        "timebuildupdated": "1699471465"
+      }
+    }
+  }
+}

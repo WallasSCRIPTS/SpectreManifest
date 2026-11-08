@@ -1,0 +1,44 @@
+{
+  "name": "BADBLOOD",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:34.542Z",
+  "branches": {
+    "public": {
+      "buildid": "1022706",
+      "timebuildupdated": "1457905080"
+    }
+  },
+  "depot": {
+    "404401": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5206403545279571077",
+          "size": "2075244569",
+          "download": "148627360"
+        }
+      }
+    },
+    "404402": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5513955104026219157",
+          "size": "2062966789",
+          "download": "146310160"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1022706",
+        "timebuildupdated": "1457905080"
+      }
+    }
+  }
+}

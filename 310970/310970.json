@@ -1,0 +1,64 @@
+{
+  "name": "Legions of Ashworld",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:34.825Z",
+  "branches": {
+    "public": {
+      "buildid": "422121",
+      "timebuildupdated": "1414318587"
+    },
+    "testing": {
+      "buildid": "422120",
+      "timebuildupdated": "1414318306"
+    }
+  },
+  "depot": {
+    "310971": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4819646253616287872",
+          "size": "45119493",
+          "download": "15977682831"
+        }
+      }
+    },
+    "310972": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1139654976670634343",
+          "size": "44038250",
+          "download": "159221354558"
+        }
+      }
+    },
+    "310973": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "532271128180773316",
+          "size": "47073206",
+          "download": "5259320216"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "422121",
+        "timebuildupdated": "1414318587"
+      },
+      "testing": {
+        "buildid": "422120",
+        "timebuildupdated": "1414318306"
+      }
+    }
+  }
+}

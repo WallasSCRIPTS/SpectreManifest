@@ -1,0 +1,58 @@
+{
+  "name": "They're Coming",
+  "source": "spectre",
+  "changenumber": 34868293,
+  "updated": "2026-11-06T21:06:59.682Z",
+  "branches": {
+    "public": {
+      "buildid": "7116876",
+      "timeupdated": "1627696460",
+      "timebuildupdated": "1627696460"
+    },
+    "mac-build": {
+      "buildid": "7017922",
+      "description": "for mac",
+      "timeupdated": "1626118397",
+      "timebuildupdated": "1626118397"
+    }
+  },
+  "depot": {
+    "1673721": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3420642309287832271",
+          "size": "643991948",
+          "download": "242074384"
+        }
+      }
+    },
+    "1673722": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6831851238503923353",
+          "size": "645469030",
+          "download": "242710992"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7116876",
+        "timeupdated": "1627696460",
+        "timebuildupdated": "1627696460"
+      },
+      "mac-build": {
+        "buildid": "7017922",
+        "description": "for mac",
+        "timeupdated": "1626118397",
+        "timebuildupdated": "1626118397"
+      }
+    }
+  }
+}

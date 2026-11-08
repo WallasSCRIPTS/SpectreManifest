@@ -1,0 +1,58 @@
+{
+  "name": "Exo One",
+  "source": "spectre",
+  "changenumber": 39083116,
+  "updated": "2026-11-07T21:00:35.020Z",
+  "branches": {
+    "public": {
+      "buildid": "16676923",
+      "timeupdated": "1734135995",
+      "timebuildupdated": "1733724694"
+    },
+    "test": {
+      "buildid": "13853185",
+      "description": "Not guaranteed stable, for testing prior to making patches public",
+      "timeupdated": "1711586252",
+      "timebuildupdated": "1711432922"
+    },
+    "steamdeck": {
+      "buildid": "16676923",
+      "description": "steamdeck",
+      "timeupdated": "1733724694",
+      "timebuildupdated": "1733724694"
+    }
+  },
+  "depot": {
+    "773371": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4745385040167551549",
+          "size": "3254901714",
+          "download": "1516761248"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16676923",
+        "timeupdated": "1734135995",
+        "timebuildupdated": "1733724694"
+      },
+      "test": {
+        "buildid": "13853185",
+        "description": "Not guaranteed stable, for testing prior to making patches public",
+        "timeupdated": "1711586252",
+        "timebuildupdated": "1711432922"
+      },
+      "steamdeck": {
+        "buildid": "16676923",
+        "description": "steamdeck",
+        "timeupdated": "1733724694",
+        "timebuildupdated": "1733724694"
+      }
+    }
+  }
+}

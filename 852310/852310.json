@@ -1,0 +1,84 @@
+{
+  "name": "Omega Commando",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:01:10.771Z",
+  "branches": {
+    "public": {
+      "buildid": "6194034",
+      "timeupdated": "1612651070",
+      "timebuildupdated": "1612516317"
+    },
+    "omegacommand_2021": {
+      "buildid": "6194034",
+      "description": "2021 update",
+      "timeupdated": "1612516317",
+      "timebuildupdated": "1612516317"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8782296191957114623",
+          "size": "29759921",
+          "download": "23045488"
+        }
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1829726630299308803",
+          "size": "102931551",
+          "download": "100658080"
+        }
+      },
+      "depotfromapp": "228980"
+    },
+    "852311": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "997094704752223091",
+          "size": "4609421217",
+          "download": "1227156112"
+        }
+      }
+    },
+    "852313": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "947521861698323868",
+          "size": "5125662390",
+          "download": "1255408608"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6194034",
+        "timeupdated": "1612651070",
+        "timebuildupdated": "1612516317"
+      },
+      "omegacommand_2021": {
+        "buildid": "6194034",
+        "description": "2021 update",
+        "timeupdated": "1612516317",
+        "timebuildupdated": "1612516317"
+      }
+    }
+  }
+}

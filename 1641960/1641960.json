@@ -1,0 +1,71 @@
+{
+  "name": "Forever Skies",
+  "source": "spectre",
+  "changenumber": 40623232,
+  "updated": "2026-11-06T21:06:46.908Z",
+  "branches": {
+    "public": {
+      "buildid": "26073471",
+      "timeupdated": "1792493580",
+      "timebuildupdated": "1792483500"
+    },
+    "beta_flight": {
+      "buildid": "24376870",
+      "description": "Public test beta for an even earlier access to future game updates",
+      "timeupdated": "1784910901",
+      "timebuildupdated": "1784906908"
+    },
+    "legacy": {
+      "buildid": "15740077",
+      "description": "Legacy Branch (1.6.0_)",
+      "timeupdated": "1733232121",
+      "timebuildupdated": "1726650641"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1641961": {},
+    "1641962": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8956093695675956377",
+          "size": "25797672393",
+          "download": "10458744224"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26073471",
+        "timeupdated": "1792493580",
+        "timebuildupdated": "1792483500"
+      },
+      "beta_flight": {
+        "buildid": "24376870",
+        "description": "Public test beta for an even earlier access to future game updates",
+        "timeupdated": "1784910901",
+        "timebuildupdated": "1784906908"
+      },
+      "legacy": {
+        "buildid": "15740077",
+        "description": "Legacy Branch (1.6.0_)",
+        "timeupdated": "1733232121",
+        "timebuildupdated": "1726650641"
+      }
+    }
+  }
+}

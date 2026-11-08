@@ -1,0 +1,84 @@
+{
+  "name": "Radii",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:15:39.831Z",
+  "branches": {
+    "public": {
+      "buildid": "13017349",
+      "timeupdated": "1703218847",
+      "timebuildupdated": "1703137959"
+    },
+    "beta": {
+      "buildid": "13017349",
+      "description": "Beta branch",
+      "timeupdated": "1703138139",
+      "timebuildupdated": "1703137959"
+    },
+    "local": {
+      "buildid": "12517749",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1698125154",
+      "timebuildupdated": "1698125154"
+    }
+  },
+  "depot": {
+    "2063702": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1673980252604658303",
+          "size": "229361547",
+          "download": "127545312"
+        }
+      }
+    },
+    "2063703": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7423074005466604798",
+          "size": "205523117",
+          "download": "120628592"
+        }
+      }
+    },
+    "2063704": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "592100280186967954",
+          "size": "207064121",
+          "download": "119667824"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13017349",
+        "timeupdated": "1703218847",
+        "timebuildupdated": "1703137959"
+      },
+      "beta": {
+        "buildid": "13017349",
+        "description": "Beta branch",
+        "timeupdated": "1703138139",
+        "timebuildupdated": "1703137959"
+      },
+      "local": {
+        "buildid": "12517749",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1698125154",
+        "timebuildupdated": "1698125154"
+      }
+    }
+  }
+}

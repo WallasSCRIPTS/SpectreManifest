@@ -1,0 +1,51 @@
+{
+  "name": "Space Time",
+  "source": "spectre",
+  "changenumber": 34889986,
+  "updated": "2026-11-06T23:19:31.439Z",
+  "branches": {
+    "public": {
+      "buildid": "12739046",
+      "timeupdated": "1700297448",
+      "timebuildupdated": "1700297376"
+    },
+    "macos": {
+      "buildid": "14281762",
+      "description": "Mac Release",
+      "timeupdated": "1715024149",
+      "timebuildupdated": "1715024149"
+    }
+  },
+  "depot": {
+    "2208931": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6455279809730901885",
+          "size": "400594127",
+          "download": "220819168"
+        }
+      }
+    },
+    "2208932": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12739046",
+        "timeupdated": "1700297448",
+        "timebuildupdated": "1700297376"
+      },
+      "macos": {
+        "buildid": "14281762",
+        "description": "Mac Release",
+        "timeupdated": "1715024149",
+        "timebuildupdated": "1715024149"
+      }
+    }
+  }
+}

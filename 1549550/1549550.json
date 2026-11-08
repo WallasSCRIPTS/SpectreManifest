@@ -1,0 +1,70 @@
+{
+  "name": "Haven Park",
+  "source": "spectre",
+  "changenumber": 37447702,
+  "updated": "2026-11-06T21:06:04.114Z",
+  "branches": {
+    "public": {
+      "buildid": "10138204",
+      "timeupdated": "1670946496",
+      "timebuildupdated": "1670943670"
+    },
+    "beta": {
+      "buildid": "20275671",
+      "description": "public beta branch",
+      "timeupdated": "1759779457",
+      "timebuildupdated": "1759779437"
+    }
+  },
+  "depot": {
+    "1549551": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6079587291126523198",
+          "size": "399901512",
+          "download": "197601856"
+        }
+      }
+    },
+    "1549552": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8598023138178820504",
+          "size": "408361763",
+          "download": "198179152"
+        }
+      }
+    },
+    "1549553": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1346264633186432382",
+          "size": "400244816",
+          "download": "196968512"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10138204",
+        "timeupdated": "1670946496",
+        "timebuildupdated": "1670943670"
+      },
+      "beta": {
+        "buildid": "20275671",
+        "description": "public beta branch",
+        "timeupdated": "1759779457",
+        "timebuildupdated": "1759779437"
+      }
+    }
+  }
+}

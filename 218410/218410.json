@@ -1,0 +1,125 @@
+{
+  "name": "Defender's Quest: Valley of the Forgotten",
+  "source": "spectre",
+  "changenumber": 37956394,
+  "updated": "2026-11-07T20:56:04.610Z",
+  "branches": {
+    "public": {
+      "buildid": "2827262",
+      "timeupdated": "1527900002",
+      "timebuildupdated": "1527891670"
+    },
+    "last_stable": {
+      "buildid": "2529293",
+      "description": "Last stable version",
+      "timeupdated": "1527557968",
+      "timebuildupdated": "1518716296"
+    },
+    "linux32": {
+      "buildid": "1474579",
+      "timeupdated": "1480965552",
+      "timebuildupdated": "1479839411"
+    },
+    "test_cloud": {
+      "buildid": "1521763",
+      "description": "Testing steam cloud (no password)",
+      "timeupdated": "1481818759",
+      "timebuildupdated": "1481818759"
+    },
+    "test_public": {
+      "buildid": "2827262",
+      "description": "Public testing branch (no password)",
+      "timeupdated": "1527891671",
+      "timebuildupdated": "1527891670"
+    }
+  },
+  "depot": {
+    "218411": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8515016514636887677",
+          "size": "650445403",
+          "download": "469294304"
+        }
+      }
+    },
+    "218412": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2957070478045851384",
+          "size": "734400937",
+          "download": "474333312"
+        }
+      }
+    },
+    "218413": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3128733530205491731",
+          "size": "690665302",
+          "download": "504551184"
+        }
+      }
+    },
+    "218414": {
+      "manifests": {
+        "public": {
+          "gid": "5332168374605769787",
+          "size": "55476955",
+          "download": "49445840"
+        }
+      }
+    },
+    "218415": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3375054805839431650",
+          "size": "445120698",
+          "download": "323793296"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2827262",
+        "timeupdated": "1527900002",
+        "timebuildupdated": "1527891670"
+      },
+      "last_stable": {
+        "buildid": "2529293",
+        "description": "Last stable version",
+        "timeupdated": "1527557968",
+        "timebuildupdated": "1518716296"
+      },
+      "linux32": {
+        "buildid": "1474579",
+        "timeupdated": "1480965552",
+        "timebuildupdated": "1479839411"
+      },
+      "test_cloud": {
+        "buildid": "1521763",
+        "description": "Testing steam cloud (no password)",
+        "timeupdated": "1481818759",
+        "timebuildupdated": "1481818759"
+      },
+      "test_public": {
+        "buildid": "2827262",
+        "description": "Public testing branch (no password)",
+        "timeupdated": "1527891671",
+        "timebuildupdated": "1527891670"
+      }
+    }
+  }
+}

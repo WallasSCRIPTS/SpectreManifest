@@ -1,0 +1,70 @@
+{
+  "name": "The siege of Brimir",
+  "source": "spectre",
+  "changenumber": 40183487,
+  "updated": "2026-11-06T23:15:27.442Z",
+  "branches": {
+    "public": {
+      "buildid": "22787512",
+      "timeupdated": "1776199701",
+      "timebuildupdated": "1776198577"
+    },
+    "beta": {
+      "buildid": "23321109",
+      "description": "beta builds",
+      "timeupdated": "1779268681",
+      "timebuildupdated": "1779266178"
+    },
+    "old_siege_mode": {
+      "buildid": "12774238",
+      "description": "Old mode before conquest mode",
+      "timeupdated": "1745496280",
+      "timebuildupdated": "1700677614"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1990981": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "273143533131294147",
+          "size": "14406528443",
+          "download": "13757043008"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22787512",
+        "timeupdated": "1776199701",
+        "timebuildupdated": "1776198577"
+      },
+      "beta": {
+        "buildid": "23321109",
+        "description": "beta builds",
+        "timeupdated": "1779268681",
+        "timebuildupdated": "1779266178"
+      },
+      "old_siege_mode": {
+        "buildid": "12774238",
+        "description": "Old mode before conquest mode",
+        "timeupdated": "1745496280",
+        "timebuildupdated": "1700677614"
+      }
+    }
+  }
+}

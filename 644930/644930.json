@@ -1,0 +1,65 @@
+{
+  "name": "They Are Billions",
+  "source": "spectre",
+  "changenumber": 38839954,
+  "updated": "2026-11-07T20:59:27.945Z",
+  "branches": {
+    "public": {
+      "buildid": "21522877",
+      "timeupdated": "1769094275",
+      "timebuildupdated": "1768555362"
+    },
+    "test": {
+      "buildid": "5905321",
+      "description": "Public Release Candidate Test",
+      "timeupdated": "1606899155",
+      "timebuildupdated": "1606825191"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229005": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "644931": {
+      "manifests": {
+        "public": {
+          "gid": "8644553349467774858",
+          "size": "5512797915",
+          "download": "2197836448"
+        }
+      }
+    },
+    "1100130": {
+      "manifests": {
+        "public": {
+          "gid": "3000532913243472563",
+          "size": "613415580",
+          "download": "524273904"
+        }
+      },
+      "dlcappid": "1100130"
+    },
+    "branches": {
+      "public": {
+        "buildid": "21522877",
+        "timeupdated": "1769094275",
+        "timebuildupdated": "1768555362"
+      },
+      "test": {
+        "buildid": "5905321",
+        "description": "Public Release Candidate Test",
+        "timeupdated": "1606899155",
+        "timebuildupdated": "1606825191"
+      }
+    }
+  }
+}

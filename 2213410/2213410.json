@@ -1,0 +1,58 @@
+{
+  "name": "Turbo Fat",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:19:31.882Z",
+  "branches": {
+    "public": {
+      "buildid": "19757747",
+      "timeupdated": "1756310715",
+      "timebuildupdated": "1756310105"
+    },
+    "beta": {
+      "buildid": "19757747",
+      "description": "Unreleased updates which have not been applied to the public default branch.",
+      "timeupdated": "1756310315",
+      "timebuildupdated": "1756310105"
+    }
+  },
+  "depot": {
+    "2213411": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6366025649641695393",
+          "size": "190568377",
+          "download": "136810016"
+        }
+      }
+    },
+    "2213412": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8841941538630608575",
+          "size": "199741480",
+          "download": "139829472"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19757747",
+        "timeupdated": "1756310715",
+        "timebuildupdated": "1756310105"
+      },
+      "beta": {
+        "buildid": "19757747",
+        "description": "Unreleased updates which have not been applied to the public default branch.",
+        "timeupdated": "1756310315",
+        "timebuildupdated": "1756310105"
+      }
+    }
+  }
+}

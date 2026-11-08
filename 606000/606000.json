@@ -1,0 +1,76 @@
+{
+  "name": "Die for Valhalla!",
+  "source": "spectre",
+  "changenumber": 40634449,
+  "updated": "2026-11-07T20:59:12.535Z",
+  "branches": {
+    "public": {
+      "buildid": "4100860",
+      "timeupdated": "1565698765",
+      "timebuildupdated": "1565695709"
+    },
+    "beta": {
+      "buildid": "4103297",
+      "description": "Open Beta",
+      "timeupdated": "1565751097",
+      "timebuildupdated": "1565751097"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "606001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3572221781778931526",
+          "size": "1674891212",
+          "download": "307945344"
+        }
+      }
+    },
+    "606002": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "744320591579399313",
+          "size": "1713067394",
+          "download": "312382128"
+        }
+      }
+    },
+    "606003": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6393976273587779091",
+          "size": "1743702973",
+          "download": "323517984"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4100860",
+        "timeupdated": "1565698765",
+        "timebuildupdated": "1565695709"
+      },
+      "beta": {
+        "buildid": "4103297",
+        "description": "Open Beta",
+        "timeupdated": "1565751097",
+        "timebuildupdated": "1565751097"
+      }
+    }
+  }
+}

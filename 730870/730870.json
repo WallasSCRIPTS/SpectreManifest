@@ -1,0 +1,58 @@
+{
+  "name": "Burger Shop 2",
+  "source": "spectre",
+  "changenumber": 39413690,
+  "updated": "2026-11-07T21:00:13.663Z",
+  "branches": {
+    "public": {
+      "buildid": "20580272",
+      "timeupdated": "1775851431",
+      "timebuildupdated": "1761685413"
+    },
+    "beta": {
+      "buildid": "20580272",
+      "description": "Beta Test",
+      "timeupdated": "1761686251",
+      "timebuildupdated": "1761685413"
+    }
+  },
+  "depot": {
+    "730871": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6096750307918104816",
+          "size": "48996445",
+          "download": "42824256"
+        }
+      }
+    },
+    "730872": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9177630646741545048",
+          "size": "56387146",
+          "download": "45427280"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20580272",
+        "timeupdated": "1775851431",
+        "timebuildupdated": "1761685413"
+      },
+      "beta": {
+        "buildid": "20580272",
+        "description": "Beta Test",
+        "timeupdated": "1761686251",
+        "timebuildupdated": "1761685413"
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "name": "KONSAIRI Trial Edition",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-05T14:55:20.748Z",
+  "branches": {
+    "public": {
+      "buildid": "6858783",
+      "timeupdated": "1623519294",
+      "timebuildupdated": "1623518705"
+    },
+    "tr1.0": {
+      "buildid": "5909622",
+      "description": "trial 1.0x",
+      "timeupdated": "1606893888",
+      "timebuildupdated": "1606893888"
+    },
+    "tr1.1": {
+      "buildid": "6016737",
+      "description": "trial 1.1x",
+      "timeupdated": "1609063901",
+      "timebuildupdated": "1609063901"
+    },
+    "tr1.2": {
+      "buildid": "6858783",
+      "description": "trial 1.2x",
+      "timeupdated": "1623518705",
+      "timebuildupdated": "1623518705"
+    }
+  },
+  "depot": {
+    "1448722": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8524843039940765927",
+          "size": "3152302",
+          "download": "998480"
+        }
+      }
+    },
+    "1448723": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6529641401854857838",
+          "size": "11029189",
+          "download": "1336880"
+        }
+      }
+    },
+    "1448724": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8798734859830907481",
+          "size": "1674163",
+          "download": "673360"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6858783",
+        "timeupdated": "1623519294",
+        "timebuildupdated": "1623518705"
+      },
+      "tr1.0": {
+        "buildid": "5909622",
+        "description": "trial 1.0x",
+        "timeupdated": "1606893888",
+        "timebuildupdated": "1606893888"
+      },
+      "tr1.1": {
+        "buildid": "6016737",
+        "description": "trial 1.1x",
+        "timeupdated": "1609063901",
+        "timebuildupdated": "1609063901"
+      },
+      "tr1.2": {
+        "buildid": "6858783",
+        "description": "trial 1.2x",
+        "timeupdated": "1623518705",
+        "timebuildupdated": "1623518705"
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Faerie Solitaire",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:53.395Z",
+  "branches": {
+    "public": {
+      "buildid": "3651078",
+      "timeupdated": "1552682284",
+      "timebuildupdated": "1552681888"
+    },
+    "2010archive": {
+      "buildid": "3651093",
+      "description": "Old Classic Archive",
+      "timeupdated": "1552682373",
+      "timebuildupdated": "1552682373"
+    },
+    "2018_beta": {
+      "buildid": "3651078",
+      "description": "egg drop rates",
+      "timeupdated": "1552681888",
+      "timebuildupdated": "1552681888"
+    },
+    "linux_and_patch": {
+      "buildid": "42689",
+      "description": "New patch + Linux version",
+      "timebuildupdated": "1360287964"
+    }
+  },
+  "depot": {
+    "38601": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3344640987348346327",
+          "size": "98239429",
+          "download": "97327984"
+        }
+      }
+    },
+    "38602": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1878776058056352520",
+          "size": "114320882",
+          "download": "0"
+        }
+      }
+    },
+    "38603": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3651078",
+        "timeupdated": "1552682284",
+        "timebuildupdated": "1552681888"
+      },
+      "2010archive": {
+        "buildid": "3651093",
+        "description": "Old Classic Archive",
+        "timeupdated": "1552682373",
+        "timebuildupdated": "1552682373"
+      },
+      "2018_beta": {
+        "buildid": "3651078",
+        "description": "egg drop rates",
+        "timeupdated": "1552681888",
+        "timebuildupdated": "1552681888"
+      },
+      "linux_and_patch": {
+        "buildid": "42689",
+        "description": "New patch + Linux version",
+        "timebuildupdated": "1360287964"
+      }
+    }
+  }
+}

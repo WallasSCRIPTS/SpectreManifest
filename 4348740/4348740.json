@@ -1,0 +1,58 @@
+{
+  "name": "Stardust Sandbox",
+  "source": "spectre",
+  "changenumber": 39028445,
+  "updated": "2026-11-04T23:25:41.402Z",
+  "branches": {
+    "public": {
+      "buildid": "23135867",
+      "timeupdated": "1778189586",
+      "timebuildupdated": "1778188471"
+    },
+    "development": {
+      "buildid": "22117491",
+      "description": "Specialized branch for experimental and test versions.",
+      "timeupdated": "1772144687",
+      "timebuildupdated": "1772144653"
+    }
+  },
+  "depot": {
+    "4348741": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4605713787059463614",
+          "size": "345536649",
+          "download": "80008368"
+        }
+      }
+    },
+    "4348742": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8949628551360493517",
+          "size": "267497864",
+          "download": "55082976"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23135867",
+        "timeupdated": "1778189586",
+        "timebuildupdated": "1778188471"
+      },
+      "development": {
+        "buildid": "22117491",
+        "description": "Specialized branch for experimental and test versions.",
+        "timeupdated": "1772144687",
+        "timebuildupdated": "1772144653"
+      }
+    }
+  }
+}

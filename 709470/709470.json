@@ -1,0 +1,73 @@
+{
+  "name": "Mirrors - Tomblight Edition",
+  "source": "spectre",
+  "changenumber": 39516617,
+  "updated": "2026-11-07T21:00:00.348Z",
+  "branches": {
+    "public": {
+      "buildid": "19345488",
+      "timeupdated": "1753369837",
+      "timebuildupdated": "1753369807"
+    },
+    "local": {
+      "buildid": "19287767",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1752961075",
+      "timebuildupdated": "1752960927"
+    }
+  },
+  "depot": {
+    "709471": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "516999673432850799",
+          "size": "388023427",
+          "download": "102965632"
+        }
+      }
+    },
+    "709472": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "512186878739245337",
+          "size": "411898765",
+          "download": "112395392"
+        }
+      }
+    },
+    "709473": {},
+    "709479": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8923328064724467345",
+          "size": "436604203",
+          "download": "106511088"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19345488",
+        "timeupdated": "1753369837",
+        "timebuildupdated": "1753369807"
+      },
+      "local": {
+        "buildid": "19287767",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1752961075",
+        "timebuildupdated": "1752960927"
+      }
+    }
+  }
+}

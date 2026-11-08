@@ -1,0 +1,58 @@
+{
+  "name": "Through the Kill Screen",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:13:30.821Z",
+  "branches": {
+    "public": {
+      "buildid": "8948744",
+      "timeupdated": "1655379564",
+      "timebuildupdated": "1655378607"
+    },
+    "linux": {
+      "buildid": "8583312",
+      "description": "Linux Branch",
+      "timeupdated": "1650380966",
+      "timebuildupdated": "1650380965"
+    }
+  },
+  "depot": {
+    "1917761": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8068371961049169021",
+          "size": "766702512",
+          "download": "584018464"
+        }
+      }
+    },
+    "1917762": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1408934092783226317",
+          "size": "906109674",
+          "download": "605447648"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8948744",
+        "timeupdated": "1655379564",
+        "timebuildupdated": "1655378607"
+      },
+      "linux": {
+        "buildid": "8583312",
+        "description": "Linux Branch",
+        "timeupdated": "1650380966",
+        "timebuildupdated": "1650380965"
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "name": "RetroArch - CrocoDS",
+  "source": "spectre",
+  "changenumber": 40626726,
+  "updated": "2026-11-06T21:03:44.306Z",
+  "branches": {
+    "public": {
+      "buildid": "20833755",
+      "timeupdated": "1763418510",
+      "timebuildupdated": "1763415882"
+    },
+    "nightly": {
+      "buildid": "26456704",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793878462",
+      "timebuildupdated": "1793878462"
+    }
+  },
+  "depot": {
+    "1227482": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "335865355823588240",
+          "size": "606288",
+          "download": "297008"
+        }
+      },
+      "dlcappid": "1227482"
+    },
+    "1789810": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "700413383615310126",
+          "size": "572008",
+          "download": "210432"
+        }
+      },
+      "dlcappid": "1227482"
+    },
+    "1789811": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4003069113695160254",
+          "size": "1157000",
+          "download": "309120"
+        }
+      },
+      "dlcappid": "1227482"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833755",
+        "timeupdated": "1763418510",
+        "timebuildupdated": "1763415882"
+      },
+      "nightly": {
+        "buildid": "26456704",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793878462",
+        "timebuildupdated": "1793878462"
+      }
+    }
+  }
+}

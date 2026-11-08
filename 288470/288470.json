@@ -1,0 +1,61 @@
+{
+  "name": "Fable Anniversary",
+  "source": "spectre",
+  "changenumber": 38591611,
+  "updated": "2026-11-07T20:56:24.733Z",
+  "branches": {
+    "public": {
+      "buildid": "434572",
+      "timebuildupdated": "1415384317"
+    },
+    "beta_builds": {
+      "buildid": "445776",
+      "description": "Builds that are still in test",
+      "timebuildupdated": "1416247365"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "288471": {
+      "manifests": {
+        "public": {
+          "gid": "1143286446041538284",
+          "size": "9296134855",
+          "download": "9251200623994"
+        }
+      }
+    },
+    "319120": {
+      "manifests": {
+        "public": {
+          "gid": "3559001727507772683",
+          "size": "16510883423",
+          "download": "17100958022951"
+        }
+      },
+      "dlcappid": "319120"
+    },
+    "branches": {
+      "public": {
+        "buildid": "434572",
+        "timebuildupdated": "1415384317"
+      },
+      "beta_builds": {
+        "buildid": "445776",
+        "description": "Builds that are still in test",
+        "timebuildupdated": "1416247365"
+      }
+    }
+  }
+}

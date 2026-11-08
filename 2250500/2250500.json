@@ -1,0 +1,88 @@
+{
+  "name": "Rhythia",
+  "source": "spectre",
+  "changenumber": 40647147,
+  "updated": "2026-11-06T23:21:21.104Z",
+  "branches": {
+    "public": {
+      "buildid": "26184811",
+      "timeupdated": "1792859837",
+      "timebuildupdated": "1792859299"
+    },
+    "fallback": {
+      "buildid": "24396665",
+      "description": "Fallback Branch",
+      "timeupdated": "1785053038",
+      "timebuildupdated": "1785052793"
+    },
+    "testing": {
+      "buildid": "26469648",
+      "description": "Testing Branch",
+      "timeupdated": "1793915286",
+      "timebuildupdated": "1793915286"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2250502": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8735362749149392261",
+          "size": "314211593",
+          "download": "188606944"
+        }
+      }
+    },
+    "2250503": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6742285190484269478",
+          "size": "327480248",
+          "download": "196111808"
+        }
+      }
+    },
+    "2250504": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5314510526948259237",
+          "size": "586794760",
+          "download": "213221072"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26184811",
+        "timeupdated": "1792859837",
+        "timebuildupdated": "1792859299"
+      },
+      "fallback": {
+        "buildid": "24396665",
+        "description": "Fallback Branch",
+        "timeupdated": "1785053038",
+        "timebuildupdated": "1785052793"
+      },
+      "testing": {
+        "buildid": "26469648",
+        "description": "Testing Branch",
+        "timeupdated": "1793915286",
+        "timebuildupdated": "1793915286"
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "name": "Cyber Lemur",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:22.540Z",
+  "branches": {
+    "public": {
+      "buildid": "7365430",
+      "timeupdated": "1631731571",
+      "timebuildupdated": "1631731571"
+    },
+    "32_bit_version": {
+      "buildid": "5063125",
+      "description": "contains 32 bit version of game",
+      "timeupdated": "1590121445",
+      "timebuildupdated": "1590121445"
+    },
+    "32_final": {
+      "buildid": "7354447",
+      "description": "final release 32 bit",
+      "timeupdated": "1631597466",
+      "timebuildupdated": "1631597466"
+    },
+    "default_final": {
+      "buildid": "7358935",
+      "description": "final release build",
+      "timeupdated": "1631648619",
+      "timebuildupdated": "1631648619"
+    }
+  },
+  "depot": {
+    "877611": {
+      "manifests": {
+        "public": {
+          "gid": "3357578654178462830",
+          "size": "776098287",
+          "download": "463364800"
+        }
+      }
+    },
+    "877612": {},
+    "877613": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3100125363740110548",
+          "size": "821498395",
+          "download": "489951312"
+        }
+      }
+    },
+    "877614": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4519253493874691890",
+          "size": "813747395",
+          "download": "487659520"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7365430",
+        "timeupdated": "1631731571",
+        "timebuildupdated": "1631731571"
+      },
+      "32_bit_version": {
+        "buildid": "5063125",
+        "description": "contains 32 bit version of game",
+        "timeupdated": "1590121445",
+        "timebuildupdated": "1590121445"
+      },
+      "32_final": {
+        "buildid": "7354447",
+        "description": "final release 32 bit",
+        "timeupdated": "1631597466",
+        "timebuildupdated": "1631597466"
+      },
+      "default_final": {
+        "buildid": "7358935",
+        "description": "final release build",
+        "timeupdated": "1631648619",
+        "timebuildupdated": "1631648619"
+      }
+    }
+  }
+}

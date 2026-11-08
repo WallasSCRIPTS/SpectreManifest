@@ -1,0 +1,99 @@
+{
+  "name": "My Little Blacksmith Shop",
+  "source": "spectre",
+  "changenumber": 37439940,
+  "updated": "2026-11-07T21:02:12.216Z",
+  "branches": {
+    "public": {
+      "buildid": "18090988",
+      "timeupdated": "1744566579",
+      "timebuildupdated": "1744566375"
+    },
+    "alphatest": {
+      "buildid": "21840506",
+      "description": "Stable Test Branch for all owners",
+      "timeupdated": "1770586123",
+      "timebuildupdated": "1770585461"
+    },
+    "legacy": {
+      "buildid": "19802135",
+      "description": "Nostalgic",
+      "timeupdated": "1756633108",
+      "timebuildupdated": "1756633014"
+    },
+    "oldbranch": {
+      "buildid": "8988055",
+      "description": "Place where old stable version hangs out.",
+      "timeupdated": "1743445279",
+      "timebuildupdated": "1655921265"
+    },
+    "unstable": {
+      "buildid": "17506912",
+      "description": "May have lots of crashes and other issues.",
+      "timeupdated": "1740531596",
+      "timebuildupdated": "1740525584"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "980942": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2536978566228134388",
+          "size": "1382523451",
+          "download": "1099340624"
+        }
+      }
+    },
+    "980943": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18090988",
+        "timeupdated": "1744566579",
+        "timebuildupdated": "1744566375"
+      },
+      "alphatest": {
+        "buildid": "21840506",
+        "description": "Stable Test Branch for all owners",
+        "timeupdated": "1770586123",
+        "timebuildupdated": "1770585461"
+      },
+      "legacy": {
+        "buildid": "19802135",
+        "description": "Nostalgic",
+        "timeupdated": "1756633108",
+        "timebuildupdated": "1756633014"
+      },
+      "oldbranch": {
+        "buildid": "8988055",
+        "description": "Place where old stable version hangs out.",
+        "timeupdated": "1743445279",
+        "timebuildupdated": "1655921265"
+      },
+      "unstable": {
+        "buildid": "17506912",
+        "description": "May have lots of crashes and other issues.",
+        "timeupdated": "1740531596",
+        "timebuildupdated": "1740525584"
+      }
+    }
+  }
+}

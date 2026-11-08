@@ -1,0 +1,82 @@
+{
+  "name": "Hexcells Infinite",
+  "source": "spectre",
+  "changenumber": 38076348,
+  "updated": "2026-11-07T20:56:32.596Z",
+  "branches": {
+    "public": {
+      "buildid": "5455383",
+      "timeupdated": "1768847453",
+      "timebuildupdated": "1598341991"
+    },
+    "rollback": {
+      "buildid": "5455383",
+      "description": "Previous version.",
+      "timeupdated": "1768663831",
+      "timebuildupdated": "1598341991"
+    },
+    "test": {
+      "buildid": "21539912",
+      "description": "Experimental build testing.",
+      "timeupdated": "1768681994",
+      "timebuildupdated": "1768681956"
+    }
+  },
+  "depot": {
+    "304411": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8242304843483143465",
+          "size": "125501932",
+          "download": "60903392"
+        }
+      }
+    },
+    "304412": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3061582580075427369",
+          "size": "176114321",
+          "download": "74549920"
+        }
+      }
+    },
+    "304413": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7014729155106329495",
+          "size": "174666389",
+          "download": "76062176"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5455383",
+        "timeupdated": "1768847453",
+        "timebuildupdated": "1598341991"
+      },
+      "rollback": {
+        "buildid": "5455383",
+        "description": "Previous version.",
+        "timeupdated": "1768663831",
+        "timebuildupdated": "1598341991"
+      },
+      "test": {
+        "buildid": "21539912",
+        "description": "Experimental build testing.",
+        "timeupdated": "1768681994",
+        "timebuildupdated": "1768681956"
+      }
+    }
+  }
+}

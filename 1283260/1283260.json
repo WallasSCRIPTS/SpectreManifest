@@ -1,0 +1,64 @@
+{
+  "name": "Coof Attack",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:09.233Z",
+  "branches": {
+    "public": {
+      "buildid": "8952589",
+      "timeupdated": "1655419330",
+      "timebuildupdated": "1655419297"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1283261": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2656827991453283676",
+          "size": "803907074",
+          "download": "697202016"
+        }
+      }
+    },
+    "1283262": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5469630296040202903",
+          "size": "831105069",
+          "download": "706496512"
+        }
+      }
+    },
+    "1283263": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5841280200145781825",
+          "size": "863844431",
+          "download": "709225920"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8952589",
+        "timeupdated": "1655419330",
+        "timebuildupdated": "1655419297"
+      }
+    }
+  }
+}

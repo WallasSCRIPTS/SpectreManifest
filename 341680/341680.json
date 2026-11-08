@@ -1,0 +1,69 @@
+{
+  "name": "stratO",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:51.222Z",
+  "branches": {
+    "public": {
+      "buildid": "913798",
+      "timebuildupdated": "1451256700"
+    },
+    "beta": {
+      "buildid": "913798",
+      "description": "beta",
+      "timebuildupdated": "1451256700"
+    },
+    "press": {
+      "buildid": "913798",
+      "description": "Press",
+      "timebuildupdated": "1451256700"
+    }
+  },
+  "depot": {
+    "341681": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8285731791123747746",
+          "size": "150175644",
+          "download": "80102400"
+        }
+      }
+    },
+    "341682": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7131370015203765854",
+          "size": "94504170",
+          "download": "40424720"
+        }
+      }
+    },
+    "341683": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "913798",
+        "timebuildupdated": "1451256700"
+      },
+      "beta": {
+        "buildid": "913798",
+        "description": "beta",
+        "timebuildupdated": "1451256700"
+      },
+      "press": {
+        "buildid": "913798",
+        "description": "Press",
+        "timebuildupdated": "1451256700"
+      }
+    }
+  }
+}

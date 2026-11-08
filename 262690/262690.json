@@ -1,0 +1,100 @@
+{
+  "name": "Little Racers STREET",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:16.014Z",
+  "branches": {
+    "public": {
+      "buildid": "4659189",
+      "timeupdated": "1581328120",
+      "timebuildupdated": "1581328120"
+    },
+    "beta": {
+      "buildid": "4659189",
+      "description": "Beta branch",
+      "timeupdated": "1581328147",
+      "timebuildupdated": "1581328120"
+    },
+    "windows_fna": {
+      "buildid": "5421122",
+      "description": "Alternative Framework (OpenGL)",
+      "timeupdated": "1597655008",
+      "timebuildupdated": "1597655007"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "262691": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7936879963863729016",
+          "size": "72724266",
+          "download": "67740896"
+        }
+      }
+    },
+    "262692": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1839548474501521367",
+          "size": "120203857",
+          "download": "93600944"
+        }
+      }
+    },
+    "262693": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "495159810955369500",
+          "size": "120999841",
+          "download": "93485552"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4659189",
+        "timeupdated": "1581328120",
+        "timebuildupdated": "1581328120"
+      },
+      "beta": {
+        "buildid": "4659189",
+        "description": "Beta branch",
+        "timeupdated": "1581328147",
+        "timebuildupdated": "1581328120"
+      },
+      "windows_fna": {
+        "buildid": "5421122",
+        "description": "Alternative Framework (OpenGL)",
+        "timeupdated": "1597655008",
+        "timebuildupdated": "1597655007"
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Rolling Line",
+  "source": "spectre",
+  "changenumber": 40535232,
+  "updated": "2026-11-07T21:00:25.494Z",
+  "branches": {
+    "public": {
+      "buildid": "26367113",
+      "timeupdated": "1793570390",
+      "timebuildupdated": "1793569952"
+    },
+    "rolling_line_1x": {
+      "buildid": "14063262",
+      "description": "The day-one initial release (v1.0)",
+      "timeupdated": "1713222993",
+      "timebuildupdated": "1713222671"
+    },
+    "rolling_line_3x": {
+      "buildid": "6915992",
+      "description": "An older version (v3.41) before 4.0 onwards",
+      "timeupdated": "1626320481",
+      "timebuildupdated": "1624415279"
+    },
+    "rolling_line_4x": {
+      "buildid": "10303293",
+      "description": "An older version (v4.25) before 5.0 onwards",
+      "timeupdated": "1675919663",
+      "timebuildupdated": "1673490029"
+    },
+    "rolling_line_5x": {
+      "buildid": "24525536",
+      "description": "An older version (v5.45) before 6.0 onwards",
+      "timeupdated": "1785727007",
+      "timebuildupdated": "1785726410"
+    },
+    "testing": {
+      "buildid": "26397609",
+      "description": "Update testing branch",
+      "timeupdated": "1793680125",
+      "timebuildupdated": "1793679971"
+    }
+  },
+  "depot": {
+    "754151": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5713803933180064364",
+          "size": "1772428681",
+          "download": "818271488"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26367113",
+        "timeupdated": "1793570390",
+        "timebuildupdated": "1793569952"
+      },
+      "rolling_line_1x": {
+        "buildid": "14063262",
+        "description": "The day-one initial release (v1.0)",
+        "timeupdated": "1713222993",
+        "timebuildupdated": "1713222671"
+      },
+      "rolling_line_3x": {
+        "buildid": "6915992",
+        "description": "An older version (v3.41) before 4.0 onwards",
+        "timeupdated": "1626320481",
+        "timebuildupdated": "1624415279"
+      },
+      "rolling_line_4x": {
+        "buildid": "10303293",
+        "description": "An older version (v4.25) before 5.0 onwards",
+        "timeupdated": "1675919663",
+        "timebuildupdated": "1673490029"
+      },
+      "rolling_line_5x": {
+        "buildid": "24525536",
+        "description": "An older version (v5.45) before 6.0 onwards",
+        "timeupdated": "1785727007",
+        "timebuildupdated": "1785726410"
+      },
+      "testing": {
+        "buildid": "26397609",
+        "description": "Update testing branch",
+        "timeupdated": "1793680125",
+        "timebuildupdated": "1793679971"
+      }
+    }
+  }
+}

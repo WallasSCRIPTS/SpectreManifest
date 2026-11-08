@@ -1,0 +1,58 @@
+{
+  "name": "The Iron Oath",
+  "source": "spectre",
+  "changenumber": 40538191,
+  "updated": "2026-11-07T20:59:55.206Z",
+  "branches": {
+    "public": {
+      "buildid": "16795259",
+      "timeupdated": "1734618061",
+      "timebuildupdated": "1734577285"
+    },
+    "public_test": {
+      "buildid": "13015199",
+      "description": "Public test branch (saves specific to this branch)",
+      "timeupdated": "1703115787",
+      "timebuildupdated": "1703115787"
+    }
+  },
+  "depot": {
+    "699331": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1622296370997845999",
+          "size": "1759613778",
+          "download": "513217200"
+        }
+      }
+    },
+    "699332": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6977649823977325096",
+          "size": "1761920950",
+          "download": "512554768"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16795259",
+        "timeupdated": "1734618061",
+        "timebuildupdated": "1734577285"
+      },
+      "public_test": {
+        "buildid": "13015199",
+        "description": "Public test branch (saves specific to this branch)",
+        "timeupdated": "1703115787",
+        "timebuildupdated": "1703115787"
+      }
+    }
+  }
+}

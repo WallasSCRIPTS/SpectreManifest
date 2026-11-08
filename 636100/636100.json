@@ -1,0 +1,100 @@
+{
+  "name": "Tesla vs Lovecraft",
+  "source": "spectre",
+  "changenumber": 37436921,
+  "updated": "2026-11-07T20:59:24.920Z",
+  "branches": {
+    "public": {
+      "buildid": "6182280",
+      "timeupdated": "1612356677",
+      "timebuildupdated": "1612356677"
+    },
+    "beta": {
+      "buildid": "6457182",
+      "description": "Unreleased updates",
+      "timeupdated": "1617029125",
+      "timebuildupdated": "1617029125"
+    },
+    "macos_old": {
+      "buildid": "3493476",
+      "description": "Old macOS build",
+      "timeupdated": "1611824756",
+      "timebuildupdated": "1548230037"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "636101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8760022275193963015",
+          "size": "373782015",
+          "download": "285102560"
+        }
+      }
+    },
+    "636102": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7953682585193252173",
+          "size": "375607159",
+          "download": "284836464"
+        }
+      }
+    },
+    "636103": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4287673843986079437",
+          "size": "333736820",
+          "download": "247587328"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6182280",
+        "timeupdated": "1612356677",
+        "timebuildupdated": "1612356677"
+      },
+      "beta": {
+        "buildid": "6457182",
+        "description": "Unreleased updates",
+        "timeupdated": "1617029125",
+        "timebuildupdated": "1617029125"
+      },
+      "macos_old": {
+        "buildid": "3493476",
+        "description": "Old macOS build",
+        "timeupdated": "1611824756",
+        "timebuildupdated": "1548230037"
+      }
+    }
+  }
+}

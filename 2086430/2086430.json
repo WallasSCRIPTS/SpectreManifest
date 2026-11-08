@@ -1,0 +1,51 @@
+{
+  "name": "NIMRODS",
+  "source": "spectre",
+  "changenumber": 40668000,
+  "updated": "2026-11-06T23:17:29.985Z",
+  "branches": {
+    "public": {
+      "buildid": "26389029",
+      "timeupdated": "1793659603",
+      "timebuildupdated": "1793650696"
+    }
+  },
+  "depot": {
+    "2086431": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "2086432": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2267261079860059370",
+          "size": "1661862987",
+          "download": "362207568"
+        }
+      }
+    },
+    "2086433": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "333092137454107222",
+          "size": "2119665621",
+          "download": "417037184"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26389029",
+        "timeupdated": "1793659603",
+        "timebuildupdated": "1793650696"
+      }
+    }
+  }
+}

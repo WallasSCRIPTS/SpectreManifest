@@ -1,0 +1,70 @@
+{
+  "name": "MyMoney",
+  "source": "spectre",
+  "changenumber": 40315868,
+  "updated": "2026-11-07T20:59:44.160Z",
+  "branches": {
+    "public": {
+      "buildid": "4706559",
+      "timeupdated": "1582449913",
+      "timebuildupdated": "1582448152"
+    },
+    "internal": {
+      "buildid": "4706559",
+      "description": "MyMoney internal test branch",
+      "timeupdated": "1582448152",
+      "timebuildupdated": "1582448152"
+    }
+  },
+  "depot": {
+    "677311": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1355832005229639690",
+          "size": "159647609",
+          "download": "56597424"
+        }
+      }
+    },
+    "677312": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7651643672153268256",
+          "size": "178101373",
+          "download": "58205296"
+        }
+      }
+    },
+    "677313": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2362216461167423164",
+          "size": "171617066",
+          "download": "55201856"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4706559",
+        "timeupdated": "1582449913",
+        "timebuildupdated": "1582448152"
+      },
+      "internal": {
+        "buildid": "4706559",
+        "description": "MyMoney internal test branch",
+        "timeupdated": "1582448152",
+        "timebuildupdated": "1582448152"
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Metric Racer",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:49.834Z",
+  "branches": {
+    "public": {
+      "buildid": "12094601",
+      "timeupdated": "1693638658",
+      "timebuildupdated": "1693634609"
+    },
+    "beta": {
+      "buildid": "12094601",
+      "description": "public testing grounds for new features",
+      "timeupdated": "1693634609",
+      "timebuildupdated": "1693634609"
+    },
+    "experimental": {
+      "buildid": "17880436",
+      "description": "bleeding edge nightly builds from the development branch\t",
+      "timeupdated": "1743068446",
+      "timebuildupdated": "1743068446"
+    }
+  },
+  "depot": {
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "938201": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3333085905144687307",
+          "size": "3217560635",
+          "download": "685778368"
+        }
+      }
+    },
+    "938202": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "207227741228944466",
+          "size": "3218610206",
+          "download": "685349568"
+        }
+      }
+    },
+    "938203": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4706844178409745585",
+          "size": "3220577465",
+          "download": "686073760"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12094601",
+        "timeupdated": "1693638658",
+        "timebuildupdated": "1693634609"
+      },
+      "beta": {
+        "buildid": "12094601",
+        "description": "public testing grounds for new features",
+        "timeupdated": "1693634609",
+        "timebuildupdated": "1693634609"
+      },
+      "experimental": {
+        "buildid": "17880436",
+        "description": "bleeding edge nightly builds from the development branch\t",
+        "timeupdated": "1743068446",
+        "timebuildupdated": "1743068446"
+      }
+    }
+  }
+}

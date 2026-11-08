@@ -1,0 +1,106 @@
+{
+  "name": "Spectator",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:17:35.707Z",
+  "branches": {
+    "public": {
+      "buildid": "25282131",
+      "timeupdated": "1789298193",
+      "timebuildupdated": "1789298153"
+    },
+    "beta": {
+      "buildid": "20872896",
+      "description": "Feature testing branch",
+      "timeupdated": "1763633347",
+      "timebuildupdated": "1763633347"
+    },
+    "test": {
+      "buildid": "25231380",
+      "description": "For testing",
+      "timeupdated": "1789045096",
+      "timebuildupdated": "1789045096"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2132451": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8793897775567674694",
+          "size": "4117855173",
+          "download": "2376126960"
+        }
+      }
+    },
+    "2132452": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "318252175212868210",
+          "size": "4138251207",
+          "download": "2383162240"
+        }
+      }
+    },
+    "2132453": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4244212391815979677",
+          "size": "3689694606",
+          "download": "2016790304"
+        }
+      }
+    },
+    "2132454": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7274477488253048869",
+          "size": "4370679260",
+          "download": "2469204384"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25282131",
+        "timeupdated": "1789298193",
+        "timebuildupdated": "1789298153"
+      },
+      "beta": {
+        "buildid": "20872896",
+        "description": "Feature testing branch",
+        "timeupdated": "1763633347",
+        "timebuildupdated": "1763633347"
+      },
+      "test": {
+        "buildid": "25231380",
+        "description": "For testing",
+        "timeupdated": "1789045096",
+        "timebuildupdated": "1789045096"
+      }
+    }
+  }
+}

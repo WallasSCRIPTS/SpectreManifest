@@ -1,0 +1,79 @@
+{
+  "name": "SGS We The People",
+  "source": "spectre",
+  "changenumber": 39478724,
+  "updated": "2026-11-06T23:17:37.851Z",
+  "branches": {
+    "public": {
+      "buildid": "24218700",
+      "timeupdated": "1784129397",
+      "timebuildupdated": "1784112607"
+    },
+    "steamconnect": {
+      "buildid": "24105615",
+      "description": "Debug branch to test Steam Init issues",
+      "timeupdated": "1783500178",
+      "timebuildupdated": "1783500134"
+    }
+  },
+  "depot": {
+    "2150301": {
+      "manifests": {
+        "public": {
+          "gid": "5715004331917770071",
+          "size": "808928364",
+          "download": "677438848"
+        }
+      }
+    },
+    "2150302": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6294645837256206602",
+          "size": "488566670",
+          "download": "216725696"
+        }
+      }
+    },
+    "2150303": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "836619283420289357",
+          "size": "502551917",
+          "download": "222123840"
+        }
+      }
+    },
+    "2150304": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4916093460306629489",
+          "size": "497566016",
+          "download": "220198752"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24218700",
+        "timeupdated": "1784129397",
+        "timebuildupdated": "1784112607"
+      },
+      "steamconnect": {
+        "buildid": "24105615",
+        "description": "Debug branch to test Steam Init issues",
+        "timeupdated": "1783500178",
+        "timebuildupdated": "1783500134"
+      }
+    }
+  }
+}

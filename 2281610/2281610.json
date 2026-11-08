@@ -1,0 +1,79 @@
+{
+  "name": "Scrappage",
+  "source": "spectre",
+  "changenumber": 39697180,
+  "updated": "2026-11-06T23:21:24.558Z",
+  "branches": {
+    "public": {
+      "buildid": "25853143",
+      "timeupdated": "1791653115",
+      "timebuildupdated": "1791653013"
+    },
+    "beta": {
+      "buildid": "25713878",
+      "description": "beta",
+      "timeupdated": "1791140117",
+      "timebuildupdated": "1791139836"
+    }
+  },
+  "depot": {
+    "2281611": {
+      "manifests": {
+        "public": {
+          "gid": "3241966865364260133",
+          "size": "1394",
+          "download": "512"
+        }
+      }
+    },
+    "2281612": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7570921353388823589",
+          "size": "1886340040",
+          "download": "1665393056"
+        }
+      }
+    },
+    "2281613": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4283144009669546991",
+          "size": "2088672915",
+          "download": "1746068592"
+        }
+      }
+    },
+    "2281614": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6715816943821093008",
+          "size": "1892624638",
+          "download": "1665989120"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25853143",
+        "timeupdated": "1791653115",
+        "timebuildupdated": "1791653013"
+      },
+      "beta": {
+        "buildid": "25713878",
+        "description": "beta",
+        "timeupdated": "1791140117",
+        "timebuildupdated": "1791139836"
+      }
+    }
+  }
+}

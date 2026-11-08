@@ -1,0 +1,60 @@
+{
+  "name": "Emplacement",
+  "source": "spectre",
+  "changenumber": 40478373,
+  "updated": "2026-11-06T23:21:23.498Z",
+  "branches": {
+    "public": {
+      "buildid": "26360114",
+      "timeupdated": "1793537493",
+      "timebuildupdated": "1793536272"
+    },
+    "local": {
+      "buildid": "12911080",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1702038943",
+      "timebuildupdated": "1702038943"
+    }
+  },
+  "depot": {
+    "2271502": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1049453986111235171",
+          "size": "135740549",
+          "download": "101393152"
+        }
+      }
+    },
+    "2271503": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7025646317345645737",
+          "size": "121696895",
+          "download": "100486832"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26360114",
+        "timeupdated": "1793537493",
+        "timebuildupdated": "1793536272"
+      },
+      "local": {
+        "buildid": "12911080",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1702038943",
+        "timebuildupdated": "1702038943"
+      }
+    }
+  }
+}

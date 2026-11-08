@@ -1,0 +1,56 @@
+{
+  "name": "Project Lounge",
+  "source": "spectre",
+  "changenumber": 40626344,
+  "updated": "2026-11-07T20:58:22.921Z",
+  "branches": {
+    "public": {
+      "buildid": "1569376",
+      "timeupdated": "1484410967",
+      "timebuildupdated": "1484410937"
+    },
+    "unstable": {
+      "buildid": "2806334",
+      "description": "Unstable release. Crashes, freezes and bugs hail this realm",
+      "timeupdated": "1527248319",
+      "timebuildupdated": "1527248075"
+    }
+  },
+  "depot": {
+    "444221": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "824361362452749023",
+          "size": "3508595013",
+          "download": "1314432384"
+        }
+      },
+      "depotfromapp": "444220"
+    },
+    "508711": {
+      "manifests": {
+        "public": {
+          "gid": "8630518873939720780",
+          "size": "154198793",
+          "download": "71503376"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1569376",
+        "timeupdated": "1484410967",
+        "timebuildupdated": "1484410937"
+      },
+      "unstable": {
+        "buildid": "2806334",
+        "description": "Unstable release. Crashes, freezes and bugs hail this realm",
+        "timeupdated": "1527248319",
+        "timebuildupdated": "1527248075"
+      }
+    }
+  }
+}

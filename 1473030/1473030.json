@@ -1,0 +1,82 @@
+{
+  "name": "Qyllscape",
+  "source": "spectre",
+  "changenumber": 37884620,
+  "updated": "2026-11-05T14:55:23.345Z",
+  "branches": {
+    "public": {
+      "buildid": "15536175",
+      "timeupdated": "1724963376",
+      "timebuildupdated": "1724962087"
+    },
+    "qyllscape-macos": {
+      "buildid": "13584841",
+      "description": "Qyllscape build for MacOS",
+      "timeupdated": "1709099665",
+      "timebuildupdated": "1709099665"
+    },
+    "1.0.5": {
+      "buildid": "14181000",
+      "description": "Previous Version ahead of update",
+      "timeupdated": "1724963300",
+      "timebuildupdated": "1714103349"
+    },
+    "1.0.6": {
+      "buildid": "15536175",
+      "description": "Testing new QoL features",
+      "timeupdated": "1724962304",
+      "timebuildupdated": "1724962087"
+    }
+  },
+  "depot": {
+    "1473031": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6151385488882400132",
+          "size": "72717048",
+          "download": "23932464"
+        }
+      }
+    },
+    "1473032": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6754985872790764633",
+          "size": "172336594",
+          "download": "46894656"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15536175",
+        "timeupdated": "1724963376",
+        "timebuildupdated": "1724962087"
+      },
+      "qyllscape-macos": {
+        "buildid": "13584841",
+        "description": "Qyllscape build for MacOS",
+        "timeupdated": "1709099665",
+        "timebuildupdated": "1709099665"
+      },
+      "1.0.5": {
+        "buildid": "14181000",
+        "description": "Previous Version ahead of update",
+        "timeupdated": "1724963300",
+        "timebuildupdated": "1714103349"
+      },
+      "1.0.6": {
+        "buildid": "15536175",
+        "description": "Testing new QoL features",
+        "timeupdated": "1724962304",
+        "timebuildupdated": "1724962087"
+      }
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Koloro",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:56.242Z",
+  "branches": {
+    "public": {
+      "buildid": "6354080",
+      "timeupdated": "1615564845",
+      "timebuildupdated": "1615307262"
+    },
+    "proton": {
+      "buildid": "4538561",
+      "description": "Build from before the fix for remote controllers.",
+      "timeupdated": "1615936397",
+      "timebuildupdated": "1578023262"
+    },
+    "with-unity-dialog": {
+      "buildid": "6386550",
+      "description": "Always display the Unity dialog when starting the game.",
+      "timeupdated": "1615865254",
+      "timebuildupdated": "1615864408"
+    }
+  },
+  "depot": {
+    "574591": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8675310032942918784",
+          "size": "1369054645",
+          "download": "625862208"
+        }
+      }
+    },
+    "574592": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "215007647458040562",
+          "size": "1362721717",
+          "download": "623878608"
+        }
+      }
+    },
+    "574593": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1136056732040967228",
+          "size": "1369183577",
+          "download": "627182160"
+        }
+      }
+    },
+    "574594": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2393882452120248399",
+          "size": "1368949747",
+          "download": "626532576"
+        }
+      }
+    },
+    "574595": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "564308877126317810",
+          "size": "1378777916",
+          "download": "627586976"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6354080",
+        "timeupdated": "1615564845",
+        "timebuildupdated": "1615307262"
+      },
+      "proton": {
+        "buildid": "4538561",
+        "description": "Build from before the fix for remote controllers.",
+        "timeupdated": "1615936397",
+        "timebuildupdated": "1578023262"
+      },
+      "with-unity-dialog": {
+        "buildid": "6386550",
+        "description": "Always display the Unity dialog when starting the game.",
+        "timeupdated": "1615865254",
+        "timebuildupdated": "1615864408"
+      }
+    }
+  }
+}

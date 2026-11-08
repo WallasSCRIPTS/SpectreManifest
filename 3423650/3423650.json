@@ -1,0 +1,56 @@
+{
+  "name": "Roguebot Arena",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:07:38.062Z",
+  "branches": {
+    "public": {
+      "buildid": "24945555",
+      "timeupdated": "1787734386",
+      "timebuildupdated": "1787734256"
+    },
+    "backup": {
+      "buildid": "20453219",
+      "description": "in case bug happened in the main branch, and I died for some reason, you can revert back to this branch",
+      "timeupdated": "1769007504",
+      "timebuildupdated": "1760865116"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "3423651": {
+      "manifests": {
+        "public": {
+          "gid": "6962330304146107131",
+          "size": "3780165099",
+          "download": "3422587040"
+        }
+      }
+    },
+    "3423652": {},
+    "branches": {
+      "public": {
+        "buildid": "24945555",
+        "timeupdated": "1787734386",
+        "timebuildupdated": "1787734256"
+      },
+      "backup": {
+        "buildid": "20453219",
+        "description": "in case bug happened in the main branch, and I died for some reason, you can revert back to this branch",
+        "timeupdated": "1769007504",
+        "timebuildupdated": "1760865116"
+      }
+    }
+  }
+}

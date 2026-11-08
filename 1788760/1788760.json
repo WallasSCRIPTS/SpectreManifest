@@ -1,0 +1,58 @@
+{
+  "name": "Dragon Kingdom",
+  "source": "spectre",
+  "changenumber": 39878051,
+  "updated": "2026-11-06T23:09:47.692Z",
+  "branches": {
+    "public": {
+      "buildid": "7971094",
+      "timeupdated": "1641333974",
+      "timebuildupdated": "1641333912"
+    },
+    "beta": {
+      "buildid": "7971094",
+      "description": "beta branch for testers",
+      "timeupdated": "1641333984",
+      "timebuildupdated": "1641333912"
+    }
+  },
+  "depot": {
+    "1788761": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7176614329853636377",
+          "size": "230547582",
+          "download": "144670208"
+        }
+      }
+    },
+    "1788762": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7751604256720022675",
+          "size": "240298734",
+          "download": "147051504"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7971094",
+        "timeupdated": "1641333974",
+        "timebuildupdated": "1641333912"
+      },
+      "beta": {
+        "buildid": "7971094",
+        "description": "beta branch for testers",
+        "timeupdated": "1641333984",
+        "timebuildupdated": "1641333912"
+      }
+    }
+  }
+}

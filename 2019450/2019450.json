@@ -1,0 +1,84 @@
+{
+  "name": "Greek Tragedy Demo",
+  "source": "spectre",
+  "changenumber": 38925657,
+  "updated": "2026-11-06T23:15:37.180Z",
+  "branches": {
+    "public": {
+      "buildid": "20495234",
+      "timeupdated": "1761132120",
+      "timebuildupdated": "1761132068"
+    },
+    "local": {
+      "buildid": "8834708",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1653905003",
+      "timebuildupdated": "1653905003"
+    },
+    "test": {
+      "buildid": "17969585",
+      "description": "Test branch",
+      "timeupdated": "1743682281",
+      "timebuildupdated": "1743682281"
+    }
+  },
+  "depot": {
+    "2019451": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3487825862496003023",
+          "size": "1011849508",
+          "download": "517267552"
+        }
+      }
+    },
+    "2019452": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4812466090380823569",
+          "size": "971901209",
+          "download": "497705104"
+        }
+      }
+    },
+    "2019453": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3471350988605076865",
+          "size": "1009560049",
+          "download": "496086272"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20495234",
+        "timeupdated": "1761132120",
+        "timebuildupdated": "1761132068"
+      },
+      "local": {
+        "buildid": "8834708",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1653905003",
+        "timebuildupdated": "1653905003"
+      },
+      "test": {
+        "buildid": "17969585",
+        "description": "Test branch",
+        "timeupdated": "1743682281",
+        "timebuildupdated": "1743682281"
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": ">//:System.Hack",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:46.026Z",
+  "branches": {
+    "public": {
+      "buildid": "7229236",
+      "timeupdated": "1629605309",
+      "timebuildupdated": "1629602616"
+    },
+    "testbranch": {
+      "buildid": "11725237",
+      "description": "For testing updates before being pushed to the stable branch.",
+      "timeupdated": "1689651992",
+      "timebuildupdated": "1689651992"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "557331": {
+      "manifests": {
+        "public": {
+          "gid": "5846345308076439943",
+          "size": "6174136505",
+          "download": "5987281856"
+        }
+      }
+    },
+    "557332": {},
+    "branches": {
+      "public": {
+        "buildid": "7229236",
+        "timeupdated": "1629605309",
+        "timebuildupdated": "1629602616"
+      },
+      "testbranch": {
+        "buildid": "11725237",
+        "description": "For testing updates before being pushed to the stable branch.",
+        "timeupdated": "1689651992",
+        "timebuildupdated": "1689651992"
+      }
+    }
+  }
+}

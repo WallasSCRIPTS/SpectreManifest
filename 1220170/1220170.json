@@ -1,0 +1,82 @@
+{
+  "name": "Eville",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:03:40.864Z",
+  "branches": {
+    "public": {
+      "buildid": "12404544",
+      "timeupdated": "1698340774",
+      "timebuildupdated": "1696950072"
+    },
+    "network-fix": {
+      "buildid": "12869522",
+      "description": "Fixes network issues",
+      "timeupdated": "1701703149",
+      "timebuildupdated": "1701697587"
+    },
+    "public_testing": {
+      "buildid": "19248087",
+      "description": "Public branch for playtesters",
+      "timeupdated": "1752684925",
+      "timebuildupdated": "1752684925"
+    },
+    "public_testing_nwfix": {
+      "buildid": "19248241",
+      "description": "\tPublic branch for playtesters - includes network fix",
+      "timeupdated": "1752685683",
+      "timebuildupdated": "1752685683"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1220171": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5706451751705216144",
+          "size": "3266914277",
+          "download": "3119526864"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12404544",
+        "timeupdated": "1698340774",
+        "timebuildupdated": "1696950072"
+      },
+      "network-fix": {
+        "buildid": "12869522",
+        "description": "Fixes network issues",
+        "timeupdated": "1701703149",
+        "timebuildupdated": "1701697587"
+      },
+      "public_testing": {
+        "buildid": "19248087",
+        "description": "Public branch for playtesters",
+        "timeupdated": "1752684925",
+        "timebuildupdated": "1752684925"
+      },
+      "public_testing_nwfix": {
+        "buildid": "19248241",
+        "description": "\tPublic branch for playtesters - includes network fix",
+        "timeupdated": "1752685683",
+        "timebuildupdated": "1752685683"
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "name": "SIC-1",
+  "source": "spectre",
+  "changenumber": 40641671,
+  "updated": "2026-11-06T23:17:34.783Z",
+  "branches": {
+    "public": {
+      "buildid": "13033461",
+      "timeupdated": "1703805194",
+      "timebuildupdated": "1703285285"
+    },
+    "preview": {
+      "buildid": "13811477",
+      "description": "Pre-release testing",
+      "timeupdated": "1711032445",
+      "timebuildupdated": "1711032394"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2124441": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5457976271420333692",
+          "size": "14719000",
+          "download": "12250576"
+        }
+      }
+    },
+    "2124442": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9037810241872428829",
+          "size": "14407712",
+          "download": "12166896"
+        }
+      }
+    },
+    "2124443": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6021167735845554206",
+          "size": "325902904",
+          "download": "92417520"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13033461",
+        "timeupdated": "1703805194",
+        "timebuildupdated": "1703285285"
+      },
+      "preview": {
+        "buildid": "13811477",
+        "description": "Pre-release testing",
+        "timeupdated": "1711032445",
+        "timebuildupdated": "1711032394"
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "name": "RetroArch - FreeIntv",
+  "source": "spectre",
+  "changenumber": 40627026,
+  "updated": "2026-11-06T21:03:44.207Z",
+  "branches": {
+    "public": {
+      "buildid": "20833874",
+      "timeupdated": "1763418600",
+      "timebuildupdated": "1763416402"
+    },
+    "nightly": {
+      "buildid": "26456934",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793879095",
+      "timebuildupdated": "1793879094"
+    }
+  },
+  "depot": {
+    "1227457": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8878028752633391732",
+          "size": "142475",
+          "download": "62272"
+        }
+      },
+      "dlcappid": "1227457"
+    },
+    "1789970": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4481463539938308966",
+          "size": "112283",
+          "download": "45232"
+        }
+      },
+      "dlcappid": "1227457"
+    },
+    "1789971": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1343601040454862126",
+          "size": "335939",
+          "download": "96240"
+        }
+      },
+      "dlcappid": "1227457"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833874",
+        "timeupdated": "1763418600",
+        "timebuildupdated": "1763416402"
+      },
+      "nightly": {
+        "buildid": "26456934",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793879095",
+        "timebuildupdated": "1793879094"
+      }
+    }
+  }
+}

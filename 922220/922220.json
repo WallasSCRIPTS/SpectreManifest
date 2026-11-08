@@ -1,0 +1,98 @@
+{
+  "name": "Khospis",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:42.442Z",
+  "branches": {
+    "public": {
+      "buildid": "3479941",
+      "timeupdated": "1547784103",
+      "timebuildupdated": "1547784102"
+    },
+    "linux": {
+      "buildid": "3482353",
+      "description": "Linux All",
+      "timeupdated": "1547838983",
+      "timebuildupdated": "1547838983"
+    },
+    "macs": {
+      "buildid": "3480228",
+      "description": "Khopis For Macs",
+      "timeupdated": "1547794561",
+      "timebuildupdated": "1547794561"
+    },
+    "windons32": {
+      "buildid": "3479980",
+      "description": "Khospis For 32",
+      "timeupdated": "1547785093",
+      "timebuildupdated": "1547785093"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "922221": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7503943389716325510",
+          "size": "2011346512",
+          "download": "799886144"
+        }
+      }
+    },
+    "922222": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "922223": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "922224": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8712057068704682442",
+          "size": "2080622855",
+          "download": "822594368"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3479941",
+        "timeupdated": "1547784103",
+        "timebuildupdated": "1547784102"
+      },
+      "linux": {
+        "buildid": "3482353",
+        "description": "Linux All",
+        "timeupdated": "1547838983",
+        "timebuildupdated": "1547838983"
+      },
+      "macs": {
+        "buildid": "3480228",
+        "description": "Khopis For Macs",
+        "timeupdated": "1547794561",
+        "timebuildupdated": "1547794561"
+      },
+      "windons32": {
+        "buildid": "3479980",
+        "description": "Khospis For 32",
+        "timeupdated": "1547785093",
+        "timebuildupdated": "1547785093"
+      }
+    }
+  }
+}

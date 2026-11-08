@@ -1,0 +1,85 @@
+{
+  "name": "From Village to Empire",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T21:00:43.990Z",
+  "branches": {
+    "public": {
+      "buildid": "4518550",
+      "timeupdated": "1576938902",
+      "timebuildupdated": "1576938448"
+    },
+    "beta": {
+      "buildid": "3989463",
+      "description": "Public beta branch",
+      "timeupdated": "1562505998",
+      "timebuildupdated": "1562505406"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "791401": {
+      "manifests": {
+        "public": {
+          "gid": "2200989807513130303",
+          "size": "39188363",
+          "download": "39009200"
+        }
+      }
+    },
+    "791402": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4474858243449122488",
+          "size": "7076652",
+          "download": "2499952"
+        }
+      }
+    },
+    "791403": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4303906061257268469",
+          "size": "4661885",
+          "download": "1520896"
+        }
+      }
+    },
+    "791404": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "499892500997772086",
+          "size": "4833788",
+          "download": "1542512"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4518550",
+        "timeupdated": "1576938902",
+        "timebuildupdated": "1576938448"
+      },
+      "beta": {
+        "buildid": "3989463",
+        "description": "Public beta branch",
+        "timeupdated": "1562505998",
+        "timebuildupdated": "1562505406"
+      }
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "name": "Tower Unite Dedicated Server",
+  "source": "spectre",
+  "changenumber": 40700081,
+  "updated": "2026-11-07T20:57:51.825Z",
+  "branches": {
+    "public": {
+      "buildid": "26096020",
+      "timeupdated": "1792550752",
+      "timebuildupdated": "1792550272"
+    }
+  },
+  "depot": {
+    "1004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7604377918839582995",
+          "size": "67863136",
+          "download": "24251776"
+        }
+      },
+      "depotfromapp": "1007"
+    },
+    "1005": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2135359612286175146",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "depotfromapp": "1007"
+    },
+    "1006": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4559160656493359681",
+          "size": "111284048",
+          "download": "36733840"
+        }
+      },
+      "depotfromapp": "1007"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "439661": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8452605632172209009",
+          "size": "358121568",
+          "download": "165782528"
+        }
+      }
+    },
+    "439662": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6590056984793012955",
+          "size": "3579513280",
+          "download": "934359584"
+        }
+      }
+    },
+    "439663": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3535537657646559955",
+          "size": "4160819343",
+          "download": "1025639424"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26096020",
+        "timeupdated": "1792550752",
+        "timebuildupdated": "1792550272"
+      }
+    }
+  }
+}

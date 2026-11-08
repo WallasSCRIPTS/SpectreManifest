@@ -1,0 +1,70 @@
+{
+  "name": "Starground",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:07:24.904Z",
+  "branches": {
+    "public": {
+      "buildid": "21999391",
+      "timeupdated": "1771497374",
+      "timebuildupdated": "1771497272"
+    },
+    "0.14": {
+      "buildid": "19717847",
+      "description": "Latest version 0.14",
+      "timeupdated": "1766081453",
+      "timebuildupdated": "1756069110"
+    },
+    "experimental": {
+      "buildid": "21999391",
+      "description": "Contains experimental features and content that isn't stable enough for the main branch yet",
+      "timeupdated": "1771497272",
+      "timebuildupdated": "1771497272"
+    }
+  },
+  "depot": {
+    "2793381": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3518926530993278862",
+          "size": "582193964",
+          "download": "479992160"
+        }
+      }
+    },
+    "2793383": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4891085035231302303",
+          "size": "547636824",
+          "download": "469929136"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21999391",
+        "timeupdated": "1771497374",
+        "timebuildupdated": "1771497272"
+      },
+      "0.14": {
+        "buildid": "19717847",
+        "description": "Latest version 0.14",
+        "timeupdated": "1766081453",
+        "timebuildupdated": "1756069110"
+      },
+      "experimental": {
+        "buildid": "21999391",
+        "description": "Contains experimental features and content that isn't stable enough for the main branch yet",
+        "timeupdated": "1771497272",
+        "timebuildupdated": "1771497272"
+      }
+    }
+  }
+}

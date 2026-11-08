@@ -1,0 +1,80 @@
+{
+  "name": "PositronX",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:32.894Z",
+  "branches": {
+    "public": {
+      "buildid": "5756967",
+      "timeupdated": "1603998765",
+      "timebuildupdated": "1603996506"
+    },
+    "debug": {
+      "buildid": "2773555",
+      "timeupdated": "1526337194",
+      "timebuildupdated": "1526337136"
+    },
+    "prerelease": {
+      "buildid": "4898007",
+      "description": "used to test new branches before pushing them to Default",
+      "timeupdated": "1586901980",
+      "timebuildupdated": "1586901931"
+    },
+    "test": {
+      "buildid": "4701269",
+      "description": "version used to test certain features that either work in conjunction with steam or that we need feedaback from internal people about",
+      "timeupdated": "1582280132",
+      "timebuildupdated": "1582279730"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "529971": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4819860788069048657",
+          "size": "13954672686",
+          "download": "4848400128"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5756967",
+        "timeupdated": "1603998765",
+        "timebuildupdated": "1603996506"
+      },
+      "debug": {
+        "buildid": "2773555",
+        "timeupdated": "1526337194",
+        "timebuildupdated": "1526337136"
+      },
+      "prerelease": {
+        "buildid": "4898007",
+        "description": "used to test new branches before pushing them to Default",
+        "timeupdated": "1586901980",
+        "timebuildupdated": "1586901931"
+      },
+      "test": {
+        "buildid": "4701269",
+        "description": "version used to test certain features that either work in conjunction with steam or that we need feedaback from internal people about",
+        "timeupdated": "1582280132",
+        "timebuildupdated": "1582279730"
+      }
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "name": "Wizorb",
+  "source": "spectre",
+  "changenumber": 39762807,
+  "updated": "2026-11-07T20:56:02.011Z",
+  "branches": {
+    "public": {
+      "buildid": "6029284",
+      "timeupdated": "1609456539",
+      "timebuildupdated": "1609456449"
+    },
+    "linux32": {
+      "buildid": "4170219",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609456442",
+      "timebuildupdated": "1567700974"
+    },
+    "sdl3": {
+      "buildid": "24501801",
+      "description": "SDL 3.0 Testing, UNSTABLE",
+      "timeupdated": "1785536779",
+      "timebuildupdated": "1785536779"
+    }
+  },
+  "depot": {
+    "207421": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8740811049748125664",
+          "size": "212871800",
+          "download": "86264320"
+        }
+      }
+    },
+    "207422": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7943840251094107202",
+          "size": "248291594",
+          "download": "95878368"
+        }
+      }
+    },
+    "207423": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8356219314951875569",
+          "size": "235457629",
+          "download": "77878288"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "6029284",
+        "timeupdated": "1609456539",
+        "timebuildupdated": "1609456449"
+      },
+      "linux32": {
+        "buildid": "4170219",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609456442",
+        "timebuildupdated": "1567700974"
+      },
+      "sdl3": {
+        "buildid": "24501801",
+        "description": "SDL 3.0 Testing, UNSTABLE",
+        "timeupdated": "1785536779",
+        "timebuildupdated": "1785536779"
+      }
+    }
+  }
+}

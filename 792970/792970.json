@@ -1,0 +1,70 @@
+{
+  "name": "Wheelz2",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:44.638Z",
+  "branches": {
+    "public": {
+      "buildid": "3713908",
+      "timeupdated": "1554500071",
+      "timebuildupdated": "1554499831"
+    },
+    "beta": {
+      "buildid": "3713908",
+      "description": "hope this works!",
+      "timeupdated": "1554500058",
+      "timebuildupdated": "1554499831"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "792971": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2547234291215852481",
+          "size": "5186821110",
+          "download": "2620625312"
+        }
+      }
+    },
+    "792972": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4756087569787388758",
+          "size": "5449158829",
+          "download": "2695415296"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3713908",
+        "timeupdated": "1554500071",
+        "timebuildupdated": "1554499831"
+      },
+      "beta": {
+        "buildid": "3713908",
+        "description": "hope this works!",
+        "timeupdated": "1554500058",
+        "timebuildupdated": "1554499831"
+      }
+    }
+  }
+}

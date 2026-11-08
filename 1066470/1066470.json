@@ -1,0 +1,58 @@
+{
+  "name": "Dextram",
+  "source": "spectre",
+  "changenumber": 35982177,
+  "updated": "2026-11-07T21:02:55.829Z",
+  "branches": {
+    "public": {
+      "buildid": "11220478",
+      "timeupdated": "1683913851",
+      "timebuildupdated": "1683913777"
+    },
+    "lwjgl3": {
+      "buildid": "7751778",
+      "description": "Uses lwjgl3 backend, try this if game crashes with opengl error\t\t",
+      "timeupdated": "1637520233",
+      "timebuildupdated": "1637520077"
+    }
+  },
+  "depot": {
+    "1066471": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5291598541209444148",
+          "size": "275276476",
+          "download": "259039968"
+        }
+      }
+    },
+    "1066472": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2241248138824919935",
+          "size": "283003834",
+          "download": "263588640"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11220478",
+        "timeupdated": "1683913851",
+        "timebuildupdated": "1683913777"
+      },
+      "lwjgl3": {
+        "buildid": "7751778",
+        "description": "Uses lwjgl3 backend, try this if game crashes with opengl error\t\t",
+        "timeupdated": "1637520233",
+        "timebuildupdated": "1637520077"
+      }
+    }
+  }
+}

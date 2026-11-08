@@ -1,0 +1,51 @@
+{
+  "name": "Unification",
+  "source": "spectre",
+  "changenumber": 40404493,
+  "updated": "2026-11-07T21:03:59.268Z",
+  "branches": {
+    "public": {
+      "buildid": "25523154",
+      "timeupdated": "1790321940",
+      "timebuildupdated": "1790321895"
+    },
+    "beta": {
+      "buildid": "26311985",
+      "description": "for making sure things work in prod",
+      "timeupdated": "1793321923",
+      "timebuildupdated": "1793321923"
+    }
+  },
+  "depot": {
+    "1177341": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7839533189952617154",
+          "size": "280218011",
+          "download": "118594384"
+        }
+      }
+    },
+    "1177342": {
+      "config": {
+        "oslist": "android"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25523154",
+        "timeupdated": "1790321940",
+        "timebuildupdated": "1790321895"
+      },
+      "beta": {
+        "buildid": "26311985",
+        "description": "for making sure things work in prod",
+        "timeupdated": "1793321923",
+        "timebuildupdated": "1793321923"
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Soft Body",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:48.755Z",
+  "branches": {
+    "public": {
+      "buildid": "2909911",
+      "timeupdated": "1530456720",
+      "timebuildupdated": "1530456623"
+    },
+    "test": {
+      "buildid": "1461775",
+      "description": "OSX",
+      "timeupdated": "1479293196",
+      "timebuildupdated": "1479293196"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "337651": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2580069277989854812",
+          "size": "112633344",
+          "download": "113975088"
+        }
+      }
+    },
+    "337652": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6280572226816972441",
+          "size": "264730234",
+          "download": "239875344"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2909911",
+        "timeupdated": "1530456720",
+        "timebuildupdated": "1530456623"
+      },
+      "test": {
+        "buildid": "1461775",
+        "description": "OSX",
+        "timeupdated": "1479293196",
+        "timebuildupdated": "1479293196"
+      }
+    }
+  }
+}

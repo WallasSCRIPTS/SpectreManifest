@@ -1,0 +1,106 @@
+{
+  "name": "NB Desktop",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:02:54.753Z",
+  "branches": {
+    "public": {
+      "buildid": "4072039",
+      "timeupdated": "1564823830",
+      "timebuildupdated": "1564823800"
+    },
+    "macos": {
+      "buildid": "3977422",
+      "timeupdated": "1562140338",
+      "timebuildupdated": "1562140338"
+    },
+    "win32": {
+      "buildid": "3906866",
+      "timeupdated": "1560235094",
+      "timebuildupdated": "1560235032"
+    },
+    "win64test": {
+      "buildid": "3904053",
+      "timeupdated": "1560161976",
+      "timebuildupdated": "1560161644"
+    }
+  },
+  "depot": {
+    "1064821": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3370148556633312725",
+          "size": "146199966",
+          "download": "48666912"
+        }
+      }
+    },
+    "1089580": {
+      "manifests": {
+        "public": {
+          "gid": "1334111346489969998",
+          "size": "77493",
+          "download": "55472"
+        }
+      },
+      "dlcappid": "1089580"
+    },
+    "1089581": {
+      "manifests": {
+        "public": {
+          "gid": "7044502705546329860",
+          "size": "5332573",
+          "download": "4352816"
+        }
+      },
+      "dlcappid": "1089581"
+    },
+    "1089582": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1609846894773709389",
+          "size": "148058754",
+          "download": "47650224"
+        }
+      }
+    },
+    "1104810": {
+      "manifests": {
+        "public": {
+          "gid": "1381275579941836028",
+          "size": "75602",
+          "download": "51760"
+        }
+      },
+      "dlcappid": "1104810"
+    },
+    "branches": {
+      "public": {
+        "buildid": "4072039",
+        "timeupdated": "1564823830",
+        "timebuildupdated": "1564823800"
+      },
+      "macos": {
+        "buildid": "3977422",
+        "timeupdated": "1562140338",
+        "timebuildupdated": "1562140338"
+      },
+      "win32": {
+        "buildid": "3906866",
+        "timeupdated": "1560235094",
+        "timebuildupdated": "1560235032"
+      },
+      "win64test": {
+        "buildid": "3904053",
+        "timeupdated": "1560161976",
+        "timebuildupdated": "1560161644"
+      }
+    }
+  }
+}

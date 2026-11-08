@@ -1,0 +1,70 @@
+{
+  "name": "Curve Fever Pro",
+  "source": "spectre",
+  "changenumber": 40636714,
+  "updated": "2026-11-07T21:03:37.109Z",
+  "branches": {
+    "public": {
+      "buildid": "26292297",
+      "timeupdated": "1793262769",
+      "timebuildupdated": "1793262730"
+    },
+    "steam-test": {
+      "buildid": "26292297",
+      "description": "Testing",
+      "timeupdated": "1793262730",
+      "timebuildupdated": "1793262730"
+    }
+  },
+  "depot": {
+    "1133702": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1476631450958622734",
+          "size": "504652788",
+          "download": "203083936"
+        }
+      }
+    },
+    "1133703": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4659984207013018190",
+          "size": "470541269",
+          "download": "185678800"
+        }
+      }
+    },
+    "1133704": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5241737567870660891",
+          "size": "684051043",
+          "download": "271453392"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26292297",
+        "timeupdated": "1793262769",
+        "timebuildupdated": "1793262730"
+      },
+      "steam-test": {
+        "buildid": "26292297",
+        "description": "Testing",
+        "timeupdated": "1793262730",
+        "timebuildupdated": "1793262730"
+      }
+    }
+  }
+}

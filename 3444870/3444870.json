@@ -1,0 +1,58 @@
+{
+  "name": "Rogue Bricks",
+  "source": "spectre",
+  "changenumber": 40236258,
+  "updated": "2026-11-04T23:24:41.613Z",
+  "branches": {
+    "public": {
+      "buildid": "26204078",
+      "timeupdated": "1792964910",
+      "timebuildupdated": "1792964910"
+    },
+    "public_beta": {
+      "buildid": "19611225",
+      "description": "public beta",
+      "timeupdated": "1755256110",
+      "timebuildupdated": "1755256097"
+    }
+  },
+  "depot": {
+    "3444871": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7483053929507940358",
+          "size": "228293552",
+          "download": "140706784"
+        }
+      }
+    },
+    "3444872": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8558867176663599815",
+          "size": "293871722",
+          "download": "158223952"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26204078",
+        "timeupdated": "1792964910",
+        "timebuildupdated": "1792964910"
+      },
+      "public_beta": {
+        "buildid": "19611225",
+        "description": "public beta",
+        "timeupdated": "1755256110",
+        "timebuildupdated": "1755256097"
+      }
+    }
+  }
+}

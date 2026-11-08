@@ -1,0 +1,78 @@
+{
+  "name": "Light Strike Array",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:59:09.458Z",
+  "branches": {
+    "public": {
+      "buildid": "5446973",
+      "timeupdated": "1598126236",
+      "timebuildupdated": "1598125296"
+    },
+    "alpha": {
+      "buildid": "5423945",
+      "description": "CI builds",
+      "timeupdated": "1597700011",
+      "timebuildupdated": "1597700011"
+    },
+    "legacy": {
+      "buildid": "2828895",
+      "description": "pre-matchmaking update branch",
+      "timeupdated": "1533491616",
+      "timebuildupdated": "1527968691"
+    },
+    "local": {
+      "buildid": "5448953",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1598210872",
+      "timebuildupdated": "1598210872"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "600181": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3825999148546144911",
+          "size": "905427989",
+          "download": "512478832"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5446973",
+        "timeupdated": "1598126236",
+        "timebuildupdated": "1598125296"
+      },
+      "alpha": {
+        "buildid": "5423945",
+        "description": "CI builds",
+        "timeupdated": "1597700011",
+        "timebuildupdated": "1597700011"
+      },
+      "legacy": {
+        "buildid": "2828895",
+        "description": "pre-matchmaking update branch",
+        "timeupdated": "1533491616",
+        "timebuildupdated": "1527968691"
+      },
+      "local": {
+        "buildid": "5448953",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1598210872",
+        "timebuildupdated": "1598210872"
+      }
+    }
+  }
+}

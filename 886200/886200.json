@@ -1,0 +1,69 @@
+{
+  "name": "EndCycle VS",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:26.714Z",
+  "branches": {
+    "public": {
+      "buildid": "18380204",
+      "timeupdated": "1746653422",
+      "timebuildupdated": "1746652579"
+    },
+    "beta": {
+      "buildid": "22956960",
+      "description": "Join us on Discord for the latest news about the beta version!",
+      "timeupdated": "1777142885",
+      "timebuildupdated": "1777142885"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "886201": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3321552062991845773",
+          "size": "313564975",
+          "download": "253089008"
+        }
+      }
+    },
+    "886203": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3583782833346301203",
+          "size": "326515623",
+          "download": "256401568"
+        }
+      }
+    },
+    "886204": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18380204",
+        "timeupdated": "1746653422",
+        "timebuildupdated": "1746652579"
+      },
+      "beta": {
+        "buildid": "22956960",
+        "description": "Join us on Discord for the latest news about the beta version!",
+        "timeupdated": "1777142885",
+        "timebuildupdated": "1777142885"
+      }
+    }
+  }
+}

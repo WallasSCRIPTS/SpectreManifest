@@ -1,0 +1,55 @@
+{
+  "name": "Echo Point Nova Demo",
+  "source": "spectre",
+  "changenumber": 40062413,
+  "updated": "2026-11-06T23:23:23.602Z",
+  "branches": {
+    "public": {
+      "buildid": "14653303",
+      "timeupdated": "1717894754",
+      "timebuildupdated": "1717894603"
+    },
+    "olddemo": {
+      "buildid": "13372391",
+      "description": "you can use this to play your old demo savegame",
+      "timeupdated": "1713112490",
+      "timebuildupdated": "1707156294"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2398181": {
+      "manifests": {
+        "public": {
+          "gid": "8532429727209742236",
+          "size": "2557050417",
+          "download": "2360633456"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14653303",
+        "timeupdated": "1717894754",
+        "timebuildupdated": "1717894603"
+      },
+      "olddemo": {
+        "buildid": "13372391",
+        "description": "you can use this to play your old demo savegame",
+        "timeupdated": "1713112490",
+        "timebuildupdated": "1707156294"
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "name": "TableTop Soccer",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:58.209Z",
+  "branches": {
+    "public": {
+      "buildid": "1786800",
+      "timeupdated": "1493668748",
+      "timebuildupdated": "1493349496"
+    },
+    "beta": {
+      "buildid": "1786800",
+      "description": "Public Beta Branch",
+      "timeupdated": "1493349539",
+      "timebuildupdated": "1493349496"
+    },
+    "achievement_unlocker": {
+      "buildid": "22409135",
+      "description": "Run this to unlock all achievements",
+      "timeupdated": "1773894006",
+      "timebuildupdated": "1773894006"
+    }
+  },
+  "depot": {
+    "453711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5887067647646534728",
+          "size": "6",
+          "download": "64"
+        }
+      }
+    },
+    "453712": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2364001089890360573",
+          "size": "137828142",
+          "download": "55339696"
+        }
+      }
+    },
+    "453713": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4543989040223213161",
+          "size": "201524137",
+          "download": "72233120"
+        }
+      }
+    },
+    "453714": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6242128981932853070",
+          "size": "153308354",
+          "download": "59626864"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1786800",
+        "timeupdated": "1493668748",
+        "timebuildupdated": "1493349496"
+      },
+      "beta": {
+        "buildid": "1786800",
+        "description": "Public Beta Branch",
+        "timeupdated": "1493349539",
+        "timebuildupdated": "1493349496"
+      },
+      "achievement_unlocker": {
+        "buildid": "22409135",
+        "description": "Run this to unlock all achievements",
+        "timeupdated": "1773894006",
+        "timebuildupdated": "1773894006"
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "name": "Cubemen 2",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:07.144Z",
+  "branches": {
+    "public": {
+      "buildid": "356253",
+      "timebuildupdated": "1408075632"
+    },
+    "local": {
+      "buildid": "98154",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1375323195"
+    }
+  },
+  "depot": {
+    "228441": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7376913537169555805",
+          "size": "219291263",
+          "download": "471597118048"
+        }
+      }
+    },
+    "228442": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3139856829247469217",
+          "size": "224653429",
+          "download": "321308791664"
+        }
+      }
+    },
+    "228443": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8246200049928081356",
+          "size": "215290369",
+          "download": "400015236080"
+        }
+      }
+    },
+    "228444": {
+      "manifests": {
+        "public": {
+          "gid": "6163647951989725647",
+          "size": "73548322",
+          "download": "83117378469"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "356253",
+        "timebuildupdated": "1408075632"
+      },
+      "local": {
+        "buildid": "98154",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1375323195"
+      }
+    }
+  }
+}

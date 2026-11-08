@@ -1,0 +1,60 @@
+{
+  "name": "Winterland",
+  "source": "spectre",
+  "changenumber": 35945633,
+  "updated": "2026-11-06T23:23:22.994Z",
+  "branches": {
+    "public": {
+      "buildid": "11554008",
+      "timeupdated": "1687700333",
+      "timebuildupdated": "1687686037"
+    },
+    "local": {
+      "buildid": "11065875",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1682148637",
+      "timebuildupdated": "1682148637"
+    }
+  },
+  "depot": {
+    "2393051": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2803840381828148675",
+          "size": "654739376",
+          "download": "530712640"
+        }
+      }
+    },
+    "2393052": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3785901387090019719",
+          "size": "639974101",
+          "download": "527292704"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11554008",
+        "timeupdated": "1687700333",
+        "timebuildupdated": "1687686037"
+      },
+      "local": {
+        "buildid": "11065875",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1682148637",
+        "timebuildupdated": "1682148637"
+      }
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "name": "Walkover",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T20:57:01.453Z",
+  "branches": {
+    "public": {
+      "buildid": "19235053",
+      "timeupdated": "1752610121",
+      "timebuildupdated": "1752609599"
+    },
+    "debug": {
+      "buildid": "2189839",
+      "description": "Debug Branch",
+      "timeupdated": "1507732804",
+      "timebuildupdated": "1507732804"
+    },
+    "system_wine": {
+      "buildid": "1901423",
+      "description": "Run game using WINE provided by system.",
+      "timeupdated": "1497918351",
+      "timebuildupdated": "1497918351"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "348701": {
+      "manifests": {
+        "public": {
+          "gid": "4817309097107767557",
+          "size": "125689746",
+          "download": "79993936"
+        }
+      }
+    },
+    "348702": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5985789907429472116",
+          "size": "158801805",
+          "download": "56839408"
+        }
+      }
+    },
+    "348703": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1681211442678609211",
+          "size": "480209",
+          "download": "180928"
+        }
+      }
+    },
+    "348704": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1583955500310805323",
+          "size": "2373187",
+          "download": "677760"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19235053",
+        "timeupdated": "1752610121",
+        "timebuildupdated": "1752609599"
+      },
+      "debug": {
+        "buildid": "2189839",
+        "description": "Debug Branch",
+        "timeupdated": "1507732804",
+        "timebuildupdated": "1507732804"
+      },
+      "system_wine": {
+        "buildid": "1901423",
+        "description": "Run game using WINE provided by system.",
+        "timeupdated": "1497918351",
+        "timebuildupdated": "1497918351"
+      }
+    }
+  }
+}

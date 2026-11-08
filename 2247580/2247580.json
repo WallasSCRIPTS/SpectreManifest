@@ -1,0 +1,60 @@
+{
+  "name": "The Last Vagabonds",
+  "source": "spectre",
+  "changenumber": 36631845,
+  "updated": "2026-11-06T23:21:20.756Z",
+  "branches": {
+    "public": {
+      "buildid": "17560144",
+      "timeupdated": "1740850048",
+      "timebuildupdated": "1740849717"
+    },
+    "local": {
+      "buildid": "11093223",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1682496810",
+      "timebuildupdated": "1682496810"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2247581": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7411560691605412899",
+          "size": "6162050064",
+          "download": "5918077216"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17560144",
+        "timeupdated": "1740850048",
+        "timebuildupdated": "1740849717"
+      },
+      "local": {
+        "buildid": "11093223",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1682496810",
+        "timebuildupdated": "1682496810"
+      }
+    }
+  }
+}

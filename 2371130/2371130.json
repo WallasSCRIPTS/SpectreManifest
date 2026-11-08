@@ -1,0 +1,70 @@
+{
+  "name": "Duels of Fortune",
+  "source": "spectre",
+  "changenumber": 40643467,
+  "updated": "2026-11-06T23:23:20.440Z",
+  "branches": {
+    "public": {
+      "buildid": "25715077",
+      "timeupdated": "1791147481",
+      "timebuildupdated": "1791145438"
+    },
+    "local": {
+      "buildid": "12891484",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1701877950",
+      "timebuildupdated": "1701877950"
+    },
+    "previous_stable_build": {
+      "buildid": "24439120",
+      "description": "Public branch for the previously available stable build",
+      "timeupdated": "1785271764",
+      "timebuildupdated": "1785269337"
+    }
+  },
+  "depot": {
+    "2371131": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9028884913774781885",
+          "size": "5949224123",
+          "download": "654883680"
+        }
+      }
+    },
+    "3238230": {
+      "manifests": {
+        "public": {
+          "gid": "2330080334653545879",
+          "size": "38887",
+          "download": "33264"
+        }
+      },
+      "dlcappid": "3238230"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25715077",
+        "timeupdated": "1791147481",
+        "timebuildupdated": "1791145438"
+      },
+      "local": {
+        "buildid": "12891484",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1701877950",
+        "timebuildupdated": "1701877950"
+      },
+      "previous_stable_build": {
+        "buildid": "24439120",
+        "description": "Public branch for the previously available stable build",
+        "timeupdated": "1785271764",
+        "timebuildupdated": "1785269337"
+      }
+    }
+  }
+}

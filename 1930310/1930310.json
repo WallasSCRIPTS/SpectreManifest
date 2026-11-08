@@ -1,0 +1,79 @@
+{
+  "name": "Soul King",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:13:34.869Z",
+  "branches": {
+    "public": {
+      "buildid": "24437584",
+      "timeupdated": "1785281792",
+      "timebuildupdated": "1785262995"
+    },
+    "agressive": {
+      "buildid": "24478281",
+      "description": "Frequent and early access to updates",
+      "timeupdated": "1785436713",
+      "timebuildupdated": "1785436713"
+    }
+  },
+  "depot": {
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1930311": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7850249997136366605",
+          "size": "546441266",
+          "download": "192091408"
+        }
+      }
+    },
+    "1930312": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6073099650590770170",
+          "size": "551055937",
+          "download": "192015360"
+        }
+      }
+    },
+    "1930313": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2458868167293981634",
+          "size": "543969749",
+          "download": "192811680"
+        }
+      }
+    },
+    "2794550": {
+      "dlcappid": "2794550"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24437584",
+        "timeupdated": "1785281792",
+        "timebuildupdated": "1785262995"
+      },
+      "agressive": {
+        "buildid": "24478281",
+        "description": "Frequent and early access to updates",
+        "timeupdated": "1785436713",
+        "timebuildupdated": "1785436713"
+      }
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "name": "Fatal Twelve",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:18.810Z",
+  "branches": {
+    "public": {
+      "buildid": "11212151",
+      "timeupdated": "1683836895",
+      "timebuildupdated": "1683836895"
+    },
+    "old_build": {
+      "buildid": "4844995",
+      "description": "Use if you wish to continue using your old saves",
+      "timeupdated": "1620350794",
+      "timebuildupdated": "1585731409"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "620211": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2430420746119591488",
+          "size": "5305944158",
+          "download": "2373203744"
+        }
+      }
+    },
+    "620212": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5116148261399545179",
+          "size": "5309652402",
+          "download": "2382983616"
+        }
+      }
+    },
+    "620213": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6923773253017987681",
+          "size": "5329605366",
+          "download": "2379225568"
+        }
+      }
+    },
+    "838140": {
+      "manifests": {
+        "public": {
+          "gid": "2475669478271752027",
+          "size": "176687818",
+          "download": "138299568"
+        }
+      },
+      "dlcappid": "838140"
+    },
+    "2416310": {
+      "manifests": {
+        "public": {
+          "gid": "8609830376626465514",
+          "size": "30330461",
+          "download": "29204048"
+        }
+      },
+      "dlcappid": "2416310"
+    },
+    "branches": {
+      "public": {
+        "buildid": "11212151",
+        "timeupdated": "1683836895",
+        "timebuildupdated": "1683836895"
+      },
+      "old_build": {
+        "buildid": "4844995",
+        "description": "Use if you wish to continue using your old saves",
+        "timeupdated": "1620350794",
+        "timebuildupdated": "1585731409"
+      }
+    }
+  }
+}

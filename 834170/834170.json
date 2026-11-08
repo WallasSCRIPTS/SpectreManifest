@@ -1,0 +1,70 @@
+{
+  "name": "Chameleon Video Player",
+  "source": "spectre",
+  "changenumber": 39554034,
+  "updated": "2026-11-07T21:01:02.516Z",
+  "branches": {
+    "public": {
+      "buildid": "8042757",
+      "timeupdated": "1642582361",
+      "timebuildupdated": "1642535163"
+    },
+    "beta-main": {
+      "buildid": "8042757",
+      "description": "Main Beta",
+      "timeupdated": "1642535285",
+      "timebuildupdated": "1642535163"
+    }
+  },
+  "depot": {
+    "834171": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5626162370709251741",
+          "size": "224946108",
+          "download": "76600144"
+        }
+      }
+    },
+    "834172": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6381556540794513577",
+          "size": "224902415",
+          "download": "76838384"
+        }
+      }
+    },
+    "834173": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6375671828235692881",
+          "size": "298285937",
+          "download": "85011360"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8042757",
+        "timeupdated": "1642582361",
+        "timebuildupdated": "1642535163"
+      },
+      "beta-main": {
+        "buildid": "8042757",
+        "description": "Main Beta",
+        "timeupdated": "1642535285",
+        "timebuildupdated": "1642535163"
+      }
+    }
+  }
+}

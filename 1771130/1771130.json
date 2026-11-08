@@ -1,0 +1,70 @@
+{
+  "name": "OPEN DOOR",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:09:45.284Z",
+  "branches": {
+    "public": {
+      "buildid": "10844597",
+      "timeupdated": "1684304261",
+      "timebuildupdated": "1679629040"
+    },
+    "test": {
+      "buildid": "10844597",
+      "description": "test",
+      "timeupdated": "1684304432",
+      "timebuildupdated": "1679629040"
+    },
+    "test2": {
+      "buildid": "10844597",
+      "description": "test2",
+      "timeupdated": "1684304441",
+      "timebuildupdated": "1679629040"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1771131": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3400822148221095447",
+          "size": "10795832892",
+          "download": "4662030032"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10844597",
+        "timeupdated": "1684304261",
+        "timebuildupdated": "1679629040"
+      },
+      "test": {
+        "buildid": "10844597",
+        "description": "test",
+        "timeupdated": "1684304432",
+        "timebuildupdated": "1679629040"
+      },
+      "test2": {
+        "buildid": "10844597",
+        "description": "test2",
+        "timeupdated": "1684304441",
+        "timebuildupdated": "1679629040"
+      }
+    }
+  }
+}

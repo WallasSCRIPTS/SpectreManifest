@@ -1,0 +1,125 @@
+{
+  "name": "Terra Invicta",
+  "source": "spectre",
+  "changenumber": 40641069,
+  "updated": "2026-11-07T21:03:58.801Z",
+  "branches": {
+    "public": {
+      "buildid": "25216249",
+      "timeupdated": "1789137192",
+      "timebuildupdated": "1788982984"
+    },
+    "beta-release": {
+      "buildid": "26435642",
+      "description": "1.0.65",
+      "timeupdated": "1793823892",
+      "timebuildupdated": "1793807467"
+    },
+    "experimental": {
+      "buildid": "26435642",
+      "description": "1.0.65",
+      "timeupdated": "1793823882",
+      "timebuildupdated": "1793807467"
+    },
+    "rollback-1-0-49": {
+      "buildid": "24391941",
+      "description": "1.0.49",
+      "timeupdated": "1785083031",
+      "timebuildupdated": "1785006218"
+    },
+    "rollback-1-0-39": {
+      "buildid": "24358771",
+      "description": "1.0.39",
+      "timeupdated": "1784831087",
+      "timebuildupdated": "1784828651"
+    },
+    "rollback-0-4-90a": {
+      "buildid": "20242849",
+      "description": "0.4.90a",
+      "timeupdated": "1762973761",
+      "timebuildupdated": "1759511013"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1176471": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1778400726722774366",
+          "size": "23150746631",
+          "download": "18366890864"
+        }
+      }
+    },
+    "1176472": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "2939040": {
+      "manifests": {
+        "public": {
+          "gid": "2471507827232603259",
+          "size": "2280670951",
+          "download": "2022149792"
+        }
+      },
+      "dlcappid": "2939040"
+    },
+    "4713340": {
+      "manifests": {
+        "public": {
+          "gid": "7148624816657372042",
+          "size": "5747962153",
+          "download": "5277232928"
+        }
+      },
+      "dlcappid": "4713340"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25216249",
+        "timeupdated": "1789137192",
+        "timebuildupdated": "1788982984"
+      },
+      "beta-release": {
+        "buildid": "26435642",
+        "description": "1.0.65",
+        "timeupdated": "1793823892",
+        "timebuildupdated": "1793807467"
+      },
+      "experimental": {
+        "buildid": "26435642",
+        "description": "1.0.65",
+        "timeupdated": "1793823882",
+        "timebuildupdated": "1793807467"
+      },
+      "rollback-1-0-49": {
+        "buildid": "24391941",
+        "description": "1.0.49",
+        "timeupdated": "1785083031",
+        "timebuildupdated": "1785006218"
+      },
+      "rollback-1-0-39": {
+        "buildid": "24358771",
+        "description": "1.0.39",
+        "timeupdated": "1784831087",
+        "timebuildupdated": "1784828651"
+      },
+      "rollback-0-4-90a": {
+        "buildid": "20242849",
+        "description": "0.4.90a",
+        "timeupdated": "1762973761",
+        "timebuildupdated": "1759511013"
+      }
+    }
+  }
+}

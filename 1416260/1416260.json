@@ -1,0 +1,79 @@
+{
+  "name": "SpellForce 3: Versus Edition",
+  "source": "spectre",
+  "changenumber": 40616882,
+  "updated": "2026-11-06T21:05:05.967Z",
+  "branches": {
+    "public": {
+      "buildid": "9689653",
+      "timeupdated": "1665744689",
+      "timebuildupdated": "1665402952"
+    },
+    "publictest": {
+      "buildid": "13518087",
+      "description": "Public preview builds",
+      "timeupdated": "1709026457",
+      "timebuildupdated": "1708511686"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1416261": {
+      "manifests": {
+        "public": {
+          "gid": "4641159150390715040",
+          "size": "45091996953",
+          "download": "30148119168"
+        }
+      }
+    },
+    "1416262": {
+      "manifests": {
+        "public": {
+          "gid": "5044997787201685228",
+          "size": "146372036",
+          "download": "55121040"
+        }
+      }
+    },
+    "1416264": {
+      "manifests": {
+        "public": {
+          "gid": "3320028288632249210",
+          "size": "2609333511",
+          "download": "1159162368"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9689653",
+        "timeupdated": "1665744689",
+        "timebuildupdated": "1665402952"
+      },
+      "publictest": {
+        "buildid": "13518087",
+        "description": "Public preview builds",
+        "timeupdated": "1709026457",
+        "timebuildupdated": "1708511686"
+      }
+    }
+  }
+}

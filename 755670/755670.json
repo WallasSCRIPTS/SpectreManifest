@@ -1,0 +1,55 @@
+{
+  "name": "Sleep Tight",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:26.342Z",
+  "branches": {
+    "public": {
+      "buildid": "2991452",
+      "timeupdated": "1533018666",
+      "timebuildupdated": "1533017238"
+    },
+    "mixer": {
+      "buildid": "2991294",
+      "description": "mixplay integration",
+      "timeupdated": "1533012101",
+      "timebuildupdated": "1533011856"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "755671": {
+      "manifests": {
+        "public": {
+          "gid": "8433661151191037958",
+          "size": "1764272680",
+          "download": "387295648"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2991452",
+        "timeupdated": "1533018666",
+        "timebuildupdated": "1533017238"
+      },
+      "mixer": {
+        "buildid": "2991294",
+        "description": "mixplay integration",
+        "timeupdated": "1533012101",
+        "timebuildupdated": "1533011856"
+      }
+    }
+  }
+}

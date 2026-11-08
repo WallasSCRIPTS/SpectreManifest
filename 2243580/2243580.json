@@ -1,0 +1,82 @@
+{
+  "name": "Food Fight: Culinary Combat",
+  "source": "spectre",
+  "changenumber": 37535400,
+  "updated": "2026-11-06T23:21:20.312Z",
+  "branches": {
+    "public": {
+      "buildid": "19265204",
+      "timeupdated": "1752782531",
+      "timebuildupdated": "1752782531"
+    },
+    "previous": {
+      "buildid": "19247715",
+      "description": "The previous build",
+      "timeupdated": "1752683045",
+      "timebuildupdated": "1752683045"
+    },
+    "testing": {
+      "buildid": "19264487",
+      "description": "For testing of new builds",
+      "timeupdated": "1752778004",
+      "timebuildupdated": "1752778004"
+    }
+  },
+  "depot": {
+    "2243581": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6321562004595936917",
+          "size": "3246479567",
+          "download": "739511968"
+        }
+      }
+    },
+    "2243582": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3991096193438370081",
+          "size": "3378412826",
+          "download": "785031504"
+        }
+      }
+    },
+    "2243583": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6400319557653418782",
+          "size": "3309743779",
+          "download": "753403536"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19265204",
+        "timeupdated": "1752782531",
+        "timebuildupdated": "1752782531"
+      },
+      "previous": {
+        "buildid": "19247715",
+        "description": "The previous build",
+        "timeupdated": "1752683045",
+        "timebuildupdated": "1752683045"
+      },
+      "testing": {
+        "buildid": "19264487",
+        "description": "For testing of new builds",
+        "timeupdated": "1752778004",
+        "timebuildupdated": "1752778004"
+      }
+    }
+  }
+}

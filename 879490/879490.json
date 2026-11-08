@@ -1,0 +1,65 @@
+{
+  "name": "Crying Suns Demo",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-07T21:01:23.614Z",
+  "branches": {
+    "public": {
+      "buildid": "11466055",
+      "timeupdated": "1686817011",
+      "timebuildupdated": "1686733550"
+    },
+    "local": {
+      "buildid": "3974329",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1562072965",
+      "timebuildupdated": "1562072965"
+    }
+  },
+  "depot": {
+    "879491": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7136868139310001873",
+          "size": "1122847779",
+          "download": "420294160"
+        }
+      }
+    },
+    "879492": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1560200823692542182",
+          "size": "1163376620",
+          "download": "427203968"
+        }
+      }
+    },
+    "879493": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11466055",
+        "timeupdated": "1686817011",
+        "timebuildupdated": "1686733550"
+      },
+      "local": {
+        "buildid": "3974329",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1562072965",
+        "timebuildupdated": "1562072965"
+      }
+    }
+  }
+}

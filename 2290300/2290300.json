@@ -1,0 +1,70 @@
+{
+  "name": "Chest 寶箱",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:21:25.665Z",
+  "branches": {
+    "public": {
+      "buildid": "21441733",
+      "timeupdated": "1767985921",
+      "timebuildupdated": "1767985502"
+    },
+    "test": {
+      "buildid": "10664960",
+      "description": "linux",
+      "timeupdated": "1677676759",
+      "timebuildupdated": "1677675899"
+    },
+    "pre_version": {
+      "buildid": "21441733",
+      "description": "新版本測試用",
+      "timeupdated": "1767985544",
+      "timebuildupdated": "1767985502"
+    }
+  },
+  "depot": {
+    "2290301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5861276897104869628",
+          "size": "700605386",
+          "download": "501074816"
+        }
+      }
+    },
+    "2290306": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7492096256622763083",
+          "size": "640955408",
+          "download": "436001280"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21441733",
+        "timeupdated": "1767985921",
+        "timebuildupdated": "1767985502"
+      },
+      "test": {
+        "buildid": "10664960",
+        "description": "linux",
+        "timeupdated": "1677676759",
+        "timebuildupdated": "1677675899"
+      },
+      "pre_version": {
+        "buildid": "21441733",
+        "description": "新版本測試用",
+        "timeupdated": "1767985544",
+        "timebuildupdated": "1767985502"
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Universal Combat CE",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:56.533Z",
+  "branches": {
+    "public": {
+      "buildid": "9339837",
+      "timeupdated": "1660827570",
+      "timebuildupdated": "1660827320"
+    },
+    "public_test": {
+      "buildid": "3439098",
+      "description": "Public test branch",
+      "timeupdated": "1546474881",
+      "timebuildupdated": "1546472352"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "345581": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1700278801005633019",
+          "size": "2228899876",
+          "download": "1828114272"
+        }
+      }
+    },
+    "370810": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "442433089451899167",
+          "size": "217634941",
+          "download": "214712736"
+        }
+      },
+      "dlcappid": "370810"
+    },
+    "branches": {
+      "public": {
+        "buildid": "9339837",
+        "timeupdated": "1660827570",
+        "timebuildupdated": "1660827320"
+      },
+      "public_test": {
+        "buildid": "3439098",
+        "description": "Public test branch",
+        "timeupdated": "1546474881",
+        "timebuildupdated": "1546472352"
+      }
+    }
+  }
+}

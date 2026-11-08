@@ -1,0 +1,58 @@
+{
+  "name": "Return to Castle Wolfenstein",
+  "source": "spectre",
+  "changenumber": 37939229,
+  "updated": "2026-11-07T20:55:44.253Z",
+  "branches": {
+    "public": {
+      "buildid": "3746",
+      "timebuildupdated": "1339448432"
+    },
+    "beta": {
+      "buildid": "3750",
+      "timebuildupdated": "1339449454"
+    },
+    "local": {
+      "buildid": "3751",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1339449878"
+    }
+  },
+  "depot": {
+    "9011": {
+      "manifests": {
+        "public": {
+          "gid": "3427162182448439563",
+          "size": "806975208",
+          "download": "0"
+        }
+      }
+    },
+    "9012": {
+      "manifests": {
+        "public": {
+          "gid": "7703796907330982314",
+          "size": "6201344",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3746",
+        "timebuildupdated": "1339448432"
+      },
+      "beta": {
+        "buildid": "3750",
+        "timebuildupdated": "1339449454"
+      },
+      "local": {
+        "buildid": "3751",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1339449878"
+      }
+    }
+  }
+}

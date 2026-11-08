@@ -1,0 +1,73 @@
+{
+  "name": "Production Line",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:05.406Z",
+  "branches": {
+    "public": {
+      "buildid": "4537561",
+      "timeupdated": "1577986257",
+      "timebuildupdated": "1577986257"
+    },
+    "unstable": {
+      "buildid": "4537559",
+      "timeupdated": "1577986244",
+      "timebuildupdated": "1577986244"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "591371": {
+      "manifests": {
+        "public": {
+          "gid": "6029364493308645663",
+          "size": "1186305660",
+          "download": "231279504"
+        }
+      }
+    },
+    "1067630": {
+      "manifests": {
+        "public": {
+          "gid": "6561643500144925535",
+          "size": "16988009",
+          "download": "1123152"
+        }
+      },
+      "dlcappid": "1067630"
+    },
+    "1174730": {
+      "manifests": {
+        "public": {
+          "gid": "1728867396951821338",
+          "size": "100752015",
+          "download": "5338096"
+        }
+      },
+      "dlcappid": "1174730"
+    },
+    "branches": {
+      "public": {
+        "buildid": "4537561",
+        "timeupdated": "1577986257",
+        "timebuildupdated": "1577986257"
+      },
+      "unstable": {
+        "buildid": "4537559",
+        "timeupdated": "1577986244",
+        "timebuildupdated": "1577986244"
+      }
+    }
+  }
+}

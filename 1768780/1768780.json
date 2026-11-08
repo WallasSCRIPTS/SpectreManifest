@@ -1,0 +1,70 @@
+{
+  "name": "Of Blades & Tails",
+  "source": "spectre",
+  "changenumber": 40510669,
+  "updated": "2026-11-06T23:09:45.022Z",
+  "branches": {
+    "public": {
+      "buildid": "25342510",
+      "timeupdated": "1789745232",
+      "timebuildupdated": "1789550995"
+    },
+    "beta": {
+      "buildid": "25342510",
+      "description": "Public beta builds",
+      "timeupdated": "1789550999",
+      "timebuildupdated": "1789550995"
+    }
+  },
+  "depot": {
+    "1768781": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1336130227577373214",
+          "size": "243258861",
+          "download": "148126656"
+        }
+      }
+    },
+    "1768782": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4602135567234486103",
+          "size": "253136480",
+          "download": "152393264"
+        }
+      }
+    },
+    "1768783": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4345073460566905233",
+          "size": "278601063",
+          "download": "160237648"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25342510",
+        "timeupdated": "1789745232",
+        "timebuildupdated": "1789550995"
+      },
+      "beta": {
+        "buildid": "25342510",
+        "description": "Public beta builds",
+        "timeupdated": "1789550999",
+        "timebuildupdated": "1789550995"
+      }
+    }
+  }
+}

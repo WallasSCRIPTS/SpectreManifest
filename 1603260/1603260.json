@@ -1,0 +1,61 @@
+{
+  "name": "Re.Surs",
+  "source": "spectre",
+  "changenumber": 39890775,
+  "updated": "2026-11-06T21:06:32.353Z",
+  "branches": {
+    "public": {
+      "buildid": "21473703",
+      "timeupdated": "1768277549",
+      "timebuildupdated": "1768276597"
+    },
+    "release-exp-aspect-ratios": {
+      "buildid": "7748985",
+      "description": "Experimental support for 4:3 & 5:4",
+      "timeupdated": "1637431694",
+      "timebuildupdated": "1637431694"
+    },
+    "release-mouse-visible": {
+      "buildid": "7682333",
+      "description": "release (mouse visible)",
+      "timeupdated": "1636464069",
+      "timebuildupdated": "1636464069"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1603261": {
+      "manifests": {
+        "public": {
+          "gid": "6934369382073111719",
+          "size": "739589646",
+          "download": "322104016"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21473703",
+        "timeupdated": "1768277549",
+        "timebuildupdated": "1768276597"
+      },
+      "release-exp-aspect-ratios": {
+        "buildid": "7748985",
+        "description": "Experimental support for 4:3 & 5:4",
+        "timeupdated": "1637431694",
+        "timebuildupdated": "1637431694"
+      },
+      "release-mouse-visible": {
+        "buildid": "7682333",
+        "description": "release (mouse visible)",
+        "timeupdated": "1636464069",
+        "timebuildupdated": "1636464069"
+      }
+    }
+  }
+}

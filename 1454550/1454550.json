@@ -1,0 +1,259 @@
+{
+  "name": "Goop Loop",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:24.078Z",
+  "branches": {
+    "public": {
+      "buildid": "9403073",
+      "timeupdated": "1661675773",
+      "timebuildupdated": "1661675773"
+    },
+    "2020-10-05": {
+      "buildid": "5715255",
+      "description": "Ludum Dare 47 build",
+      "timeupdated": "1603281968",
+      "timebuildupdated": "1603281073"
+    },
+    "2020-10-28": {
+      "buildid": "5748085",
+      "description": "First post-LD build.",
+      "timeupdated": "1603880074",
+      "timebuildupdated": "1603879965"
+    },
+    "2020-11-09": {
+      "buildid": "5809281",
+      "description": "2020-11-09 build.",
+      "timeupdated": "1605003674",
+      "timebuildupdated": "1605002915"
+    },
+    "2020-11-10": {
+      "buildid": "5813720",
+      "description": "2020-11-10 finish line!",
+      "timeupdated": "1605071897",
+      "timebuildupdated": "1605071897"
+    },
+    "2020-11-16": {
+      "buildid": "5835768",
+      "description": "2020-11-16 New graphics.",
+      "timeupdated": "1605517307",
+      "timebuildupdated": "1605517307"
+    },
+    "2020-11-17": {
+      "buildid": "5841432",
+      "description": "2020-11-17 EA Candidate 1",
+      "timeupdated": "1605608559",
+      "timebuildupdated": "1605608559"
+    },
+    "2020-11-18": {
+      "buildid": "5847252",
+      "description": "2020-11-18 Jump spam reduction.",
+      "timeupdated": "1605697959",
+      "timebuildupdated": "1605697959"
+    },
+    "2020-11-21": {
+      "buildid": "5862934",
+      "description": "2020-11-21 Loop within a loop",
+      "timeupdated": "1605943348",
+      "timebuildupdated": "1605943348"
+    },
+    "2020-11-25": {
+      "buildid": "5878827",
+      "description": "2020-11-25 Timer fix, more loop lines, energy tweaks.",
+      "timeupdated": "1606288012",
+      "timebuildupdated": "1606288012"
+    },
+    "2020-12-30": {
+      "buildid": "6026725",
+      "description": "2020-12-30 Pre-pong, 2nd finish line.",
+      "timeupdated": "1609922045",
+      "timebuildupdated": "1609373461"
+    },
+    "2021-01-06": {
+      "buildid": "6044592",
+      "description": "2021-01-06 - 3rd finish line.",
+      "timeupdated": "1610527354",
+      "timebuildupdated": "1609922157"
+    },
+    "2021-01-13": {
+      "buildid": "6074976",
+      "description": "2021-01-13 New executable with icon and Steam support.",
+      "timeupdated": "1610531066",
+      "timebuildupdated": "1610531066"
+    },
+    "2021-03-03": {
+      "buildid": "6322198",
+      "description": "2021-03-03 Key bindings added.",
+      "timeupdated": "1614762459",
+      "timebuildupdated": "1614762459"
+    },
+    "2021-03-24": {
+      "buildid": "6430529",
+      "description": "2021-03-24 Made blocks smaller",
+      "timeupdated": "1616570877",
+      "timebuildupdated": "1616570852"
+    },
+    "2021-07-14": {
+      "buildid": "7033192",
+      "description": "2021-07-14 Added intro cinematic",
+      "timeupdated": "1626341718",
+      "timebuildupdated": "1626341718"
+    },
+    "2021-07-28": {
+      "buildid": "7099931",
+      "description": "2021-07-28 First post-launch patch",
+      "timeupdated": "1627466756",
+      "timebuildupdated": "1627466756"
+    },
+    "2021-08-04": {
+      "buildid": "7140837",
+      "description": "Added localization for pt_BR and fr.",
+      "timeupdated": "1628133981",
+      "timebuildupdated": "1628133981"
+    }
+  },
+  "depot": {
+    "1454551": {
+      "manifests": {
+        "public": {
+          "gid": "1414693732793436201",
+          "size": "68763520",
+          "download": "46980736"
+        }
+      }
+    },
+    "1454552": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3102931871676526882",
+          "size": "28107216",
+          "download": "7692192"
+        }
+      }
+    },
+    "1454553": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1654108702937412618",
+          "size": "37790860",
+          "download": "10644160"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9403073",
+        "timeupdated": "1661675773",
+        "timebuildupdated": "1661675773"
+      },
+      "2020-10-05": {
+        "buildid": "5715255",
+        "description": "Ludum Dare 47 build",
+        "timeupdated": "1603281968",
+        "timebuildupdated": "1603281073"
+      },
+      "2020-10-28": {
+        "buildid": "5748085",
+        "description": "First post-LD build.",
+        "timeupdated": "1603880074",
+        "timebuildupdated": "1603879965"
+      },
+      "2020-11-09": {
+        "buildid": "5809281",
+        "description": "2020-11-09 build.",
+        "timeupdated": "1605003674",
+        "timebuildupdated": "1605002915"
+      },
+      "2020-11-10": {
+        "buildid": "5813720",
+        "description": "2020-11-10 finish line!",
+        "timeupdated": "1605071897",
+        "timebuildupdated": "1605071897"
+      },
+      "2020-11-16": {
+        "buildid": "5835768",
+        "description": "2020-11-16 New graphics.",
+        "timeupdated": "1605517307",
+        "timebuildupdated": "1605517307"
+      },
+      "2020-11-17": {
+        "buildid": "5841432",
+        "description": "2020-11-17 EA Candidate 1",
+        "timeupdated": "1605608559",
+        "timebuildupdated": "1605608559"
+      },
+      "2020-11-18": {
+        "buildid": "5847252",
+        "description": "2020-11-18 Jump spam reduction.",
+        "timeupdated": "1605697959",
+        "timebuildupdated": "1605697959"
+      },
+      "2020-11-21": {
+        "buildid": "5862934",
+        "description": "2020-11-21 Loop within a loop",
+        "timeupdated": "1605943348",
+        "timebuildupdated": "1605943348"
+      },
+      "2020-11-25": {
+        "buildid": "5878827",
+        "description": "2020-11-25 Timer fix, more loop lines, energy tweaks.",
+        "timeupdated": "1606288012",
+        "timebuildupdated": "1606288012"
+      },
+      "2020-12-30": {
+        "buildid": "6026725",
+        "description": "2020-12-30 Pre-pong, 2nd finish line.",
+        "timeupdated": "1609922045",
+        "timebuildupdated": "1609373461"
+      },
+      "2021-01-06": {
+        "buildid": "6044592",
+        "description": "2021-01-06 - 3rd finish line.",
+        "timeupdated": "1610527354",
+        "timebuildupdated": "1609922157"
+      },
+      "2021-01-13": {
+        "buildid": "6074976",
+        "description": "2021-01-13 New executable with icon and Steam support.",
+        "timeupdated": "1610531066",
+        "timebuildupdated": "1610531066"
+      },
+      "2021-03-03": {
+        "buildid": "6322198",
+        "description": "2021-03-03 Key bindings added.",
+        "timeupdated": "1614762459",
+        "timebuildupdated": "1614762459"
+      },
+      "2021-03-24": {
+        "buildid": "6430529",
+        "description": "2021-03-24 Made blocks smaller",
+        "timeupdated": "1616570877",
+        "timebuildupdated": "1616570852"
+      },
+      "2021-07-14": {
+        "buildid": "7033192",
+        "description": "2021-07-14 Added intro cinematic",
+        "timeupdated": "1626341718",
+        "timebuildupdated": "1626341718"
+      },
+      "2021-07-28": {
+        "buildid": "7099931",
+        "description": "2021-07-28 First post-launch patch",
+        "timeupdated": "1627466756",
+        "timebuildupdated": "1627466756"
+      },
+      "2021-08-04": {
+        "buildid": "7140837",
+        "description": "Added localization for pt_BR and fr.",
+        "timeupdated": "1628133981",
+        "timebuildupdated": "1628133981"
+      }
+    }
+  }
+}

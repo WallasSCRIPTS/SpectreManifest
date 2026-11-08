@@ -1,0 +1,68 @@
+{
+  "name": "Autopanic Zero",
+  "source": "spectre",
+  "changenumber": 40616882,
+  "updated": "2026-11-06T21:05:09.275Z",
+  "branches": {
+    "public": {
+      "buildid": "21033471",
+      "timeupdated": "1764746690",
+      "timebuildupdated": "1764746589"
+    },
+    "zero_legacy": {
+      "buildid": "21033471",
+      "description": "Legacy Autopanic Zero",
+      "timeupdated": "1764746690",
+      "timebuildupdated": "1764746589"
+    }
+  },
+  "depot": {
+    "1423671": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4075485209715534187",
+          "size": "350431158",
+          "download": "112442416"
+        }
+      }
+    },
+    "1423672": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1321057178027565582",
+          "size": "386244416",
+          "download": "128311824"
+        }
+      }
+    },
+    "3077420": {
+      "manifests": {
+        "public": {
+          "gid": "2258207630053249834",
+          "size": "101115493",
+          "download": "102442848"
+        }
+      },
+      "dlcappid": "3077420"
+    },
+    "branches": {
+      "public": {
+        "buildid": "21033471",
+        "timeupdated": "1764746690",
+        "timebuildupdated": "1764746589"
+      },
+      "zero_legacy": {
+        "buildid": "21033471",
+        "description": "Legacy Autopanic Zero",
+        "timeupdated": "1764746690",
+        "timebuildupdated": "1764746589"
+      }
+    }
+  }
+}

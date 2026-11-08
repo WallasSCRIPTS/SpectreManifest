@@ -1,0 +1,82 @@
+{
+  "name": "Birb Game Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-04T23:24:42.889Z",
+  "branches": {
+    "public": {
+      "buildid": "21594264",
+      "timeupdated": "1769042599",
+      "timebuildupdated": "1769042453"
+    },
+    "development": {
+      "buildid": "18481710",
+      "description": "Development tools",
+      "timeupdated": "1747340308",
+      "timebuildupdated": "1747340308"
+    },
+    "staging": {
+      "buildid": "21594264",
+      "description": "staging branch for release",
+      "timeupdated": "1769042453",
+      "timebuildupdated": "1769042453"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "3687041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6321777519311513362",
+          "size": "4518423661",
+          "download": "4266848784"
+        }
+      }
+    },
+    "3687042": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4906775237930541394",
+          "size": "6689058388",
+          "download": "4325038752"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21594264",
+        "timeupdated": "1769042599",
+        "timebuildupdated": "1769042453"
+      },
+      "development": {
+        "buildid": "18481710",
+        "description": "Development tools",
+        "timeupdated": "1747340308",
+        "timebuildupdated": "1747340308"
+      },
+      "staging": {
+        "buildid": "21594264",
+        "description": "staging branch for release",
+        "timeupdated": "1769042453",
+        "timebuildupdated": "1769042453"
+      }
+    }
+  }
+}

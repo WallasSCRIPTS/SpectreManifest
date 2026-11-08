@@ -1,0 +1,74 @@
+{
+  "name": "Foul Play",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:10.593Z",
+  "branches": {
+    "public": {
+      "buildid": "135068",
+      "timebuildupdated": "1382979809"
+    },
+    "local": {
+      "buildid": "134850",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1382963393"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "244811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4794142573405863523",
+          "size": "2146347450",
+          "download": "0"
+        }
+      }
+    },
+    "244812": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2906448553185539021",
+          "size": "2148976070",
+          "download": "0"
+        }
+      }
+    },
+    "244813": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7781006541494276646",
+          "size": "2151689025",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "135068",
+        "timebuildupdated": "1382979809"
+      },
+      "local": {
+        "buildid": "134850",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1382963393"
+      }
+    }
+  }
+}

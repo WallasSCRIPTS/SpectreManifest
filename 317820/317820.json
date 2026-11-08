@@ -1,0 +1,112 @@
+{
+  "name": "Guild of Dungeoneering Ultimate Edition",
+  "source": "spectre",
+  "changenumber": 39630944,
+  "updated": "2026-11-07T20:56:38.464Z",
+  "branches": {
+    "public": {
+      "buildid": "8355255",
+      "timeupdated": "1647271617",
+      "timebuildupdated": "1647012869"
+    },
+    "classic": {
+      "buildid": "7697128",
+      "description": "Older version of the game, Pre-Ultimate Edition",
+      "timeupdated": "1636646457",
+      "timebuildupdated": "1636646457"
+    }
+  },
+  "depot": {
+    "317821": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7085822252302088362",
+          "size": "767052864",
+          "download": "644089776"
+        }
+      }
+    },
+    "317822": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6532307428373370035",
+          "size": "738188590",
+          "download": "635160416"
+        }
+      }
+    },
+    "317823": {
+      "manifests": {
+        "public": {
+          "gid": "1152005715292738511",
+          "size": "334335889",
+          "download": "285744208"
+        }
+      },
+      "dlcappid": "376810"
+    },
+    "402700": {
+      "manifests": {
+        "public": {
+          "gid": "247453645152087018",
+          "size": "2064",
+          "download": "912"
+        }
+      },
+      "dlcappid": "402700"
+    },
+    "402701": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3471452827774068809",
+          "size": "655442327",
+          "download": "560008480"
+        }
+      }
+    },
+    "402702": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8135664965734121541",
+          "size": "676405183",
+          "download": "566732800"
+        }
+      }
+    },
+    "539040": {
+      "manifests": {
+        "public": {
+          "gid": "4552260304638611998",
+          "size": "2064",
+          "download": "912"
+        }
+      },
+      "dlcappid": "539040"
+    },
+    "branches": {
+      "public": {
+        "buildid": "8355255",
+        "timeupdated": "1647271617",
+        "timebuildupdated": "1647012869"
+      },
+      "classic": {
+        "buildid": "7697128",
+        "description": "Older version of the game, Pre-Ultimate Edition",
+        "timeupdated": "1636646457",
+        "timebuildupdated": "1636646457"
+      }
+    }
+  }
+}

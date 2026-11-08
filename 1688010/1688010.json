@@ -1,0 +1,73 @@
+{
+  "name": "GotG Dedicated Server",
+  "source": "spectre",
+  "changenumber": 38905983,
+  "updated": "2026-11-06T21:07:06.134Z",
+  "branches": {
+    "public": {
+      "buildid": "12092595",
+      "timeupdated": "1693686999",
+      "timebuildupdated": "1693604555"
+    }
+  },
+  "depot": {
+    "1004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7604377918839582995",
+          "size": "67863136",
+          "download": "24251776"
+        }
+      },
+      "depotfromapp": "1007"
+    },
+    "1005": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2135359612286175146",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "depotfromapp": "1007"
+    },
+    "1006": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4559160656493359681",
+          "size": "111284048",
+          "download": "36733840"
+        }
+      },
+      "depotfromapp": "1007"
+    },
+    "1688011": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1178258824826671349",
+          "size": "1914912930",
+          "download": "397956880"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12092595",
+        "timeupdated": "1693686999",
+        "timebuildupdated": "1693604555"
+      }
+    }
+  }
+}

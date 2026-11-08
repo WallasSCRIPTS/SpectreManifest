@@ -1,0 +1,60 @@
+{
+  "name": "SURVIVAL SISTERS",
+  "source": "spectre",
+  "changenumber": 34876686,
+  "updated": "2026-11-06T23:13:27.867Z",
+  "branches": {
+    "public": {
+      "buildid": "8492769",
+      "timeupdated": "1649067474",
+      "timebuildupdated": "1649067228"
+    },
+    "local": {
+      "buildid": "8265901",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1645687713",
+      "timebuildupdated": "1645687713"
+    }
+  },
+  "depot": {
+    "1893981": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4261589252356879195",
+          "size": "89222736",
+          "download": "24871552"
+        }
+      }
+    },
+    "1893982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8439976410093780725",
+          "size": "86154159",
+          "download": "24107680"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8492769",
+        "timeupdated": "1649067474",
+        "timebuildupdated": "1649067228"
+      },
+      "local": {
+        "buildid": "8265901",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1645687713",
+        "timebuildupdated": "1645687713"
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Super Toy Cars",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:00.058Z",
+  "branches": {
+    "public": {
+      "buildid": "746520",
+      "timebuildupdated": "1440431210"
+    },
+    "old-build": {
+      "buildid": "344913",
+      "timebuildupdated": "1406925936"
+    },
+    "preview": {
+      "buildid": "741770",
+      "description": "Branch with preview of future builds and important bugfixes",
+      "timebuildupdated": "1440080958"
+    }
+  },
+  "depot": {
+    "116101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6146346227998843509",
+          "size": "643884147",
+          "download": "212525984"
+        }
+      }
+    },
+    "116102": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1580520843163645088",
+          "size": "515887279",
+          "download": "0"
+        }
+      }
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "746520",
+        "timebuildupdated": "1440431210"
+      },
+      "old-build": {
+        "buildid": "344913",
+        "timebuildupdated": "1406925936"
+      },
+      "preview": {
+        "buildid": "741770",
+        "description": "Branch with preview of future builds and important bugfixes",
+        "timebuildupdated": "1440080958"
+      }
+    }
+  }
+}

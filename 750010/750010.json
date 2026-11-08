@@ -1,0 +1,58 @@
+{
+  "name": "Combat Tested",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:23.613Z",
+  "branches": {
+    "public": {
+      "buildid": "20269858",
+      "timeupdated": "1759760410",
+      "timebuildupdated": "1759752487"
+    },
+    "security-fix": {
+      "buildid": "20269858",
+      "description": "CVE fix for Unity games.",
+      "timeupdated": "1759752487",
+      "timebuildupdated": "1759752487"
+    }
+  },
+  "depot": {
+    "750011": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9136164921285841003",
+          "size": "3751396264",
+          "download": "1714663120"
+        }
+      }
+    },
+    "750012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2750065854823117703",
+          "size": "3751396264",
+          "download": "1485714272"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20269858",
+        "timeupdated": "1759760410",
+        "timebuildupdated": "1759752487"
+      },
+      "security-fix": {
+        "buildid": "20269858",
+        "description": "CVE fix for Unity games.",
+        "timeupdated": "1759752487",
+        "timebuildupdated": "1759752487"
+      }
+    }
+  }
+}

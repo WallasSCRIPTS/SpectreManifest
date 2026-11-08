@@ -1,0 +1,58 @@
+{
+  "name": "Mirrored Pawns",
+  "source": "spectre",
+  "changenumber": 34863611,
+  "updated": "2026-11-05T14:57:18.813Z",
+  "branches": {
+    "public": {
+      "buildid": "6227882",
+      "timeupdated": "1613088327",
+      "timebuildupdated": "1613088317"
+    }
+  },
+  "depot": {
+    "1552021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8948429473368130809",
+          "size": "80541761",
+          "download": "28529776"
+        }
+      }
+    },
+    "1552022": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5954059208022141267",
+          "size": "130840247",
+          "download": "41070912"
+        }
+      }
+    },
+    "1552023": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7572007089819212492",
+          "size": "90216570",
+          "download": "30095056"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6227882",
+        "timeupdated": "1613088327",
+        "timebuildupdated": "1613088317"
+      }
+    }
+  }
+}

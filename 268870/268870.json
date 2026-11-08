@@ -1,0 +1,141 @@
+{
+  "name": "Satellite Reign",
+  "source": "spectre",
+  "changenumber": 39468048,
+  "updated": "2026-11-07T20:56:18.242Z",
+  "branches": {
+    "public": {
+      "buildid": "1261785",
+      "timeupdated": "1470890524",
+      "timebuildupdated": "1470288979"
+    },
+    "coop_beta": {
+      "buildid": "1261785",
+      "timeupdated": "1470890551",
+      "timebuildupdated": "1470288979"
+    },
+    "nightly": {
+      "buildid": "1261785",
+      "description": "Nightly autobuild",
+      "timeupdated": "1470890574",
+      "timebuildupdated": "1470288979"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "268871": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7080418368144072858",
+          "size": "1361509157",
+          "download": "523073296"
+        }
+      }
+    },
+    "268872": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5543559892861064304",
+          "size": "1433355556",
+          "download": "540347648"
+        }
+      }
+    },
+    "268873": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2430994293631207511",
+          "size": "1399544924",
+          "download": "532400000"
+        }
+      }
+    },
+    "268874": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "392750": {
+      "manifests": {
+        "public": {
+          "gid": "1251988961245072957",
+          "size": "41860",
+          "download": "8384"
+        }
+      },
+      "dlcappid": "392750"
+    },
+    "394640": {
+      "manifests": {
+        "public": {
+          "gid": "229022738154206819",
+          "size": "41860",
+          "download": "8384"
+        }
+      },
+      "dlcappid": "394640"
+    },
+    "394650": {
+      "manifests": {
+        "public": {
+          "gid": "6604467487307351848",
+          "size": "426209069",
+          "download": "401311856"
+        }
+      },
+      "dlcappid": "394650"
+    },
+    "395050": {
+      "manifests": {
+        "public": {
+          "gid": "8474404274639558644",
+          "size": "3339339",
+          "download": "3209600"
+        }
+      },
+      "dlcappid": "395050"
+    },
+    "395051": {
+      "manifests": {
+        "public": {
+          "gid": "3931692429762585166",
+          "size": "59840602",
+          "download": "54860896"
+        }
+      },
+      "dlcappid": "395051"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1261785",
+        "timeupdated": "1470890524",
+        "timebuildupdated": "1470288979"
+      },
+      "coop_beta": {
+        "buildid": "1261785",
+        "timeupdated": "1470890551",
+        "timebuildupdated": "1470288979"
+      },
+      "nightly": {
+        "buildid": "1261785",
+        "description": "Nightly autobuild",
+        "timeupdated": "1470890574",
+        "timebuildupdated": "1470288979"
+      }
+    }
+  }
+}

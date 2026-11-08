@@ -1,0 +1,144 @@
+{
+  "name": "Solaroids",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:10.511Z",
+  "branches": {
+    "public": {
+      "buildid": "17827850",
+      "timeupdated": "1742754423",
+      "timebuildupdated": "1742753747"
+    },
+    "beta": {
+      "buildid": "12074595",
+      "description": "BETA - Experimental and work-in-progress features.",
+      "timeupdated": "1693450696",
+      "timebuildupdated": "1693450696"
+    },
+    "public_beta": {
+      "buildid": "13970310",
+      "description": "PUBLIC BETA - For public beta-testers.",
+      "timeupdated": "1712369752",
+      "timebuildupdated": "1712369752"
+    },
+    "vandal-overnight-games": {
+      "buildid": "9683023",
+      "description": "For Vandal Overnight Games",
+      "timeupdated": "1665271035",
+      "timebuildupdated": "1665271035"
+    },
+    "xmas": {
+      "buildid": "2396933",
+      "description": "Happy Holidays (obsolete)",
+      "timeupdated": "1514161069",
+      "timebuildupdated": "1514161055"
+    }
+  },
+  "depot": {
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "602081": {
+      "manifests": {
+        "public": {
+          "gid": "1872267791309119731",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "602082": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2071275056377338307",
+          "size": "195048821",
+          "download": "137926144"
+        }
+      }
+    },
+    "602083": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2174108684505173257",
+          "size": "220598577",
+          "download": "140265840"
+        }
+      }
+    },
+    "602084": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "16091422731919202",
+          "size": "214680484",
+          "download": "138218784"
+        }
+      }
+    },
+    "602085": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "189009291138467290",
+          "size": "237993128",
+          "download": "138621280"
+        }
+      }
+    },
+    "602086": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17827850",
+        "timeupdated": "1742754423",
+        "timebuildupdated": "1742753747"
+      },
+      "beta": {
+        "buildid": "12074595",
+        "description": "BETA - Experimental and work-in-progress features.",
+        "timeupdated": "1693450696",
+        "timebuildupdated": "1693450696"
+      },
+      "public_beta": {
+        "buildid": "13970310",
+        "description": "PUBLIC BETA - For public beta-testers.",
+        "timeupdated": "1712369752",
+        "timebuildupdated": "1712369752"
+      },
+      "vandal-overnight-games": {
+        "buildid": "9683023",
+        "description": "For Vandal Overnight Games",
+        "timeupdated": "1665271035",
+        "timebuildupdated": "1665271035"
+      },
+      "xmas": {
+        "buildid": "2396933",
+        "description": "Happy Holidays (obsolete)",
+        "timeupdated": "1514161069",
+        "timebuildupdated": "1514161055"
+      }
+    }
+  }
+}

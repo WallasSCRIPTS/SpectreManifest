@@ -1,0 +1,82 @@
+{
+  "name": "SiNKR 2",
+  "source": "spectre",
+  "changenumber": 37439940,
+  "updated": "2026-11-07T21:02:08.066Z",
+  "branches": {
+    "public": {
+      "buildid": "20485639",
+      "timeupdated": "1761079250",
+      "timebuildupdated": "1761073514"
+    },
+    "1.0.60-32bit": {
+      "buildid": "4023591",
+      "description": "Legacy 32bit OSX, Linux",
+      "timeupdated": "1601671297",
+      "timebuildupdated": "1563463348"
+    },
+    "beta": {
+      "buildid": "20485639",
+      "description": "Public beta branch",
+      "timeupdated": "1761079272",
+      "timebuildupdated": "1761073514"
+    }
+  },
+  "depot": {
+    "973221": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1585297068434154746",
+          "size": "140550202",
+          "download": "69544848"
+        }
+      }
+    },
+    "973222": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3585445217361237709",
+          "size": "141565935",
+          "download": "69739104"
+        }
+      }
+    },
+    "973223": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2203822630476243053",
+          "size": "188807760",
+          "download": "71660080"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20485639",
+        "timeupdated": "1761079250",
+        "timebuildupdated": "1761073514"
+      },
+      "1.0.60-32bit": {
+        "buildid": "4023591",
+        "description": "Legacy 32bit OSX, Linux",
+        "timeupdated": "1601671297",
+        "timebuildupdated": "1563463348"
+      },
+      "beta": {
+        "buildid": "20485639",
+        "description": "Public beta branch",
+        "timeupdated": "1761079272",
+        "timebuildupdated": "1761073514"
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Hive P v. S",
+  "source": "spectre",
+  "changenumber": 34864005,
+  "updated": "2026-11-06T21:06:10.054Z",
+  "branches": {
+    "public": {
+      "buildid": "16705994",
+      "timeupdated": "1734221658",
+      "timebuildupdated": "1733913049"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1562151": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "158661572859852009",
+          "size": "329841119",
+          "download": "124928064"
+        }
+      }
+    },
+    "1562152": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5181776621888988493",
+          "size": "329786423",
+          "download": "119566880"
+        }
+      }
+    },
+    "1562153": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2852782419467529394",
+          "size": "487493609",
+          "download": "172363776"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16705994",
+        "timeupdated": "1734221658",
+        "timebuildupdated": "1733913049"
+      }
+    }
+  }
+}

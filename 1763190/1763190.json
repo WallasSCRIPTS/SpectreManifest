@@ -1,0 +1,70 @@
+{
+  "name": "Freight Hopper",
+  "source": "spectre",
+  "changenumber": 40629843,
+  "updated": "2026-11-06T23:09:44.275Z",
+  "branches": {
+    "public": {
+      "buildid": "12568327",
+      "timeupdated": "1698637274",
+      "timebuildupdated": "1698637065"
+    },
+    "beta": {
+      "buildid": "12568327",
+      "description": "For mostly testing purposes, don't expect it to be too stable! Data may be lost",
+      "timeupdated": "1698637065",
+      "timebuildupdated": "1698637065"
+    }
+  },
+  "depot": {
+    "1763191": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5029313043733994262",
+          "size": "242935117",
+          "download": "101671136"
+        }
+      }
+    },
+    "1763192": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "739983391761321182",
+          "size": "255692484",
+          "download": "108212688"
+        }
+      }
+    },
+    "1763193": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7490224145692814958",
+          "size": "275259555",
+          "download": "107819760"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12568327",
+        "timeupdated": "1698637274",
+        "timebuildupdated": "1698637065"
+      },
+      "beta": {
+        "buildid": "12568327",
+        "description": "For mostly testing purposes, don't expect it to be too stable! Data may be lost",
+        "timeupdated": "1698637065",
+        "timebuildupdated": "1698637065"
+      }
+    }
+  }
+}

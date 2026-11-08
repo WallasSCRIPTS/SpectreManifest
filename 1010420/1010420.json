@@ -1,0 +1,51 @@
+{
+  "name": "Crash-Site: Conquest",
+  "source": "spectre",
+  "changenumber": 34843601,
+  "updated": "2026-11-07T21:02:26.417Z",
+  "branches": {
+    "public": {
+      "buildid": "3636415",
+      "timeupdated": "1552352033",
+      "timebuildupdated": "1552352002"
+    },
+    "beta": {
+      "buildid": "5194451",
+      "description": "A brantch that has incomplete versions of the game.",
+      "timeupdated": "1592698834",
+      "timebuildupdated": "1592698804"
+    }
+  },
+  "depot": {
+    "1010421": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5524802590360825063",
+          "size": "398729169",
+          "download": "130325088"
+        }
+      }
+    },
+    "1010422": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3636415",
+        "timeupdated": "1552352033",
+        "timebuildupdated": "1552352002"
+      },
+      "beta": {
+        "buildid": "5194451",
+        "description": "A brantch that has incomplete versions of the game.",
+        "timeupdated": "1592698834",
+        "timebuildupdated": "1592698804"
+      }
+    }
+  }
+}

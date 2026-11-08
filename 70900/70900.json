@@ -1,0 +1,52 @@
+{
+  "name": "Star Ruler",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:57.783Z",
+  "branches": {
+    "public": {
+      "buildid": "409704",
+      "timebuildupdated": "1413312068"
+    },
+    "beta": {
+      "buildid": "409704",
+      "timebuildupdated": "1413312068"
+    }
+  },
+  "depot": {
+    "70901": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7371299357940970613",
+          "size": "227190059",
+          "download": "87047436800"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "409704",
+        "timebuildupdated": "1413312068"
+      },
+      "beta": {
+        "buildid": "409704",
+        "timebuildupdated": "1413312068"
+      }
+    }
+  }
+}

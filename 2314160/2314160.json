@@ -1,0 +1,68 @@
+{
+  "name": "Tactical Assault VR",
+  "source": "spectre",
+  "changenumber": 40572418,
+  "updated": "2026-11-06T23:21:28.395Z",
+  "branches": {
+    "public": {
+      "buildid": "24344731",
+      "timeupdated": "1784768891",
+      "timebuildupdated": "1784767628"
+    },
+    "oculusxr_vdxr_launcher": {
+      "buildid": "24344739",
+      "description": "For use with OculusXR and Virtual Desktop XR Launcher",
+      "timeupdated": "1784768096",
+      "timebuildupdated": "1784767698"
+    },
+    "tavr_upgraded_steamvr_build": {
+      "buildid": "11363638",
+      "description": "Tactical Assault VR Upgraded Graphics Demo 0.6.6",
+      "timeupdated": "1738341460",
+      "timebuildupdated": "1685565371"
+    }
+  },
+  "depot": {
+    "2314161": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6159892067731144911",
+          "size": "11139539139",
+          "download": "5927190496"
+        }
+      }
+    },
+    "3855050": {
+      "manifests": {
+        "public": {
+          "gid": "936572708385990736",
+          "size": "11751782918",
+          "download": "6544031584"
+        }
+      },
+      "dlcappid": "3855050"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24344731",
+        "timeupdated": "1784768891",
+        "timebuildupdated": "1784767628"
+      },
+      "oculusxr_vdxr_launcher": {
+        "buildid": "24344739",
+        "description": "For use with OculusXR and Virtual Desktop XR Launcher",
+        "timeupdated": "1784768096",
+        "timebuildupdated": "1784767698"
+      },
+      "tavr_upgraded_steamvr_build": {
+        "buildid": "11363638",
+        "description": "Tactical Assault VR Upgraded Graphics Demo 0.6.6",
+        "timeupdated": "1738341460",
+        "timebuildupdated": "1685565371"
+      }
+    }
+  }
+}

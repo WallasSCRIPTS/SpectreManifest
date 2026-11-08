@@ -1,0 +1,82 @@
+{
+  "name": "Gnomoria",
+  "source": "spectre",
+  "changenumber": 37432492,
+  "updated": "2026-11-07T20:56:06.162Z",
+  "branches": {
+    "public": {
+      "buildid": "4058623",
+      "timeupdated": "1564503722",
+      "timebuildupdated": "1564503722"
+    },
+    "indev": {
+      "buildid": "4058623",
+      "description": "Public test branch",
+      "timeupdated": "1564503729",
+      "timebuildupdated": "1564503722"
+    }
+  },
+  "depot": {
+    "224501": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1783052962293932349",
+          "size": "191008722",
+          "download": "177145840"
+        }
+      }
+    },
+    "224502": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1449715813554941292",
+          "size": "222383974",
+          "download": "178458240"
+        }
+      }
+    },
+    "224503": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4196774202470249197",
+          "size": "210108938",
+          "download": "174910368"
+        }
+      }
+    },
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "4058623",
+        "timeupdated": "1564503722",
+        "timebuildupdated": "1564503722"
+      },
+      "indev": {
+        "buildid": "4058623",
+        "description": "Public test branch",
+        "timeupdated": "1564503729",
+        "timebuildupdated": "1564503722"
+      }
+    }
+  }
+}

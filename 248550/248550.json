@@ -1,0 +1,66 @@
+{
+  "name": "Megabyte Punch",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:11.660Z",
+  "branches": {
+    "public": {
+      "buildid": "142389",
+      "timebuildupdated": "1384351127"
+    },
+    "testing": {
+      "buildid": "142389",
+      "description": "Testing new builds",
+      "timebuildupdated": "1384351127"
+    }
+  },
+  "depot": {
+    "248551": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6103426460454968422",
+          "size": "217031798",
+          "download": "0"
+        }
+      }
+    },
+    "248552": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6462741011506907995",
+          "size": "225222380",
+          "download": "0"
+        }
+      }
+    },
+    "248553": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1701257504078451644",
+          "size": "237123614",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "142389",
+        "timebuildupdated": "1384351127"
+      },
+      "testing": {
+        "buildid": "142389",
+        "description": "Testing new builds",
+        "timebuildupdated": "1384351127"
+      }
+    }
+  }
+}

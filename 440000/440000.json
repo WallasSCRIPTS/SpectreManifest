@@ -1,0 +1,188 @@
+{
+  "name": "Portal 2: Community Edition",
+  "source": "spectre",
+  "changenumber": 40638866,
+  "updated": "2026-11-07T20:57:51.986Z",
+  "branches": {
+    "public": {
+      "buildid": "22918163",
+      "timeupdated": "1776929519",
+      "timebuildupdated": "1776929086"
+    },
+    "stable": {
+      "buildid": "22841625",
+      "description": "Branch with least in-progress changes",
+      "timeupdated": "1776463187",
+      "timebuildupdated": "1776463172"
+    },
+    "unstable": {
+      "buildid": "25033687",
+      "description": "Unstable test branch",
+      "timeupdated": "1788169666",
+      "timebuildupdated": "1788169433"
+    },
+    "previous_version": {
+      "buildid": "20930969",
+      "description": "Previous game version for you to use if something breaks",
+      "timeupdated": "1773847180",
+      "timebuildupdated": "1764057565"
+    },
+    "squirrel3": {
+      "buildid": "16950738",
+      "description": "Squirrel 3 script VM testing",
+      "timeupdated": "1736421371",
+      "timebuildupdated": "1736421342"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "440002": {
+      "manifests": {
+        "public": {
+          "gid": "5929082587277564523",
+          "size": "1343069104",
+          "download": "999726896"
+        }
+      }
+    },
+    "440003": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2520538557716089586",
+          "size": "468421621",
+          "download": "167447024"
+        }
+      }
+    },
+    "440005": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8964615605705614066",
+          "size": "1016111382",
+          "download": "312388000"
+        }
+      }
+    },
+    "440007": {
+      "manifests": {
+        "public": {
+          "gid": "8959494484864449557",
+          "size": "182967587",
+          "download": "167443920"
+        }
+      }
+    },
+    "440008": {
+      "manifests": {
+        "public": {
+          "gid": "7054027791919801175",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "1900000": {
+      "manifests": {
+        "public": {
+          "gid": "3051497727124279383",
+          "size": "3132",
+          "download": "1040"
+        }
+      },
+      "dlcappid": "1900000"
+    },
+    "1900001": {
+      "manifests": {
+        "public": {
+          "gid": "5224297748822815083",
+          "size": "7119876167",
+          "download": "5518718656"
+        }
+      }
+    },
+    "1900002": {
+      "manifests": {
+        "public": {
+          "gid": "6238062588099509724",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "1900003": {
+      "manifests": {
+        "public": {
+          "gid": "3708653163242816882",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "1900004": {
+      "manifests": {
+        "public": {
+          "gid": "7201227123738415374",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "1900005": {
+      "manifests": {
+        "public": {
+          "gid": "6661169667361655192",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22918163",
+        "timeupdated": "1776929519",
+        "timebuildupdated": "1776929086"
+      },
+      "stable": {
+        "buildid": "22841625",
+        "description": "Branch with least in-progress changes",
+        "timeupdated": "1776463187",
+        "timebuildupdated": "1776463172"
+      },
+      "unstable": {
+        "buildid": "25033687",
+        "description": "Unstable test branch",
+        "timeupdated": "1788169666",
+        "timebuildupdated": "1788169433"
+      },
+      "previous_version": {
+        "buildid": "20930969",
+        "description": "Previous game version for you to use if something breaks",
+        "timeupdated": "1773847180",
+        "timebuildupdated": "1764057565"
+      },
+      "squirrel3": {
+        "buildid": "16950738",
+        "description": "Squirrel 3 script VM testing",
+        "timeupdated": "1736421371",
+        "timebuildupdated": "1736421342"
+      }
+    }
+  }
+}

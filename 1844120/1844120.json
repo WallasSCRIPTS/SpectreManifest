@@ -1,0 +1,66 @@
+{
+  "name": "Garenburg Penitence: The Riflebird",
+  "source": "spectre",
+  "changenumber": 39882030,
+  "updated": "2026-11-06T23:11:38.048Z",
+  "branches": {
+    "public": {
+      "buildid": "21004277",
+      "timeupdated": "1775540119",
+      "timebuildupdated": "1764583349"
+    },
+    "linux_experimental": {
+      "buildid": "21004261",
+      "description": "Experimental support for Linux. Use if Proton with the Windows build does not work. See the Steam discussions post for more information.",
+      "timeupdated": "1764583296",
+      "timebuildupdated": "1764583295"
+    }
+  },
+  "depot": {
+    "1844121": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8348822468490304084",
+          "size": "2455363265",
+          "download": "393459664"
+        }
+      }
+    },
+    "3887810": {
+      "manifests": {
+        "public": {
+          "gid": "80761611331989801",
+          "size": "189209569",
+          "download": "187445792"
+        }
+      },
+      "dlcappid": "3887810"
+    },
+    "3887850": {
+      "manifests": {
+        "public": {
+          "gid": "8301827664510044172",
+          "size": "4003023",
+          "download": "3465104"
+        }
+      },
+      "dlcappid": "3887850"
+    },
+    "branches": {
+      "public": {
+        "buildid": "21004277",
+        "timeupdated": "1775540119",
+        "timebuildupdated": "1764583349"
+      },
+      "linux_experimental": {
+        "buildid": "21004261",
+        "description": "Experimental support for Linux. Use if Proton with the Windows build does not work. See the Steam discussions post for more information.",
+        "timeupdated": "1764583296",
+        "timebuildupdated": "1764583295"
+      }
+    }
+  }
+}

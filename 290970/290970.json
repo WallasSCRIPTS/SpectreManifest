@@ -1,0 +1,54 @@
+{
+  "name": "1849",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:25.988Z",
+  "branches": {
+    "public": {
+      "buildid": "708904",
+      "timebuildupdated": "1437938409"
+    },
+    "staging": {
+      "buildid": "708904",
+      "description": "Testing branch",
+      "timebuildupdated": "1437938409"
+    }
+  },
+  "depot": {
+    "290971": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1472186652562815830",
+          "size": "98802784",
+          "download": "66274352"
+        }
+      }
+    },
+    "290972": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1222293602575789059",
+          "size": "110611853",
+          "download": "67724496"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "708904",
+        "timebuildupdated": "1437938409"
+      },
+      "staging": {
+        "buildid": "708904",
+        "description": "Testing branch",
+        "timebuildupdated": "1437938409"
+      }
+    }
+  }
+}

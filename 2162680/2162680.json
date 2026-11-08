@@ -1,0 +1,58 @@
+{
+  "name": "Doom Sweeper",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:19:25.932Z",
+  "branches": {
+    "public": {
+      "buildid": "22711157",
+      "timeupdated": "1775731192",
+      "timebuildupdated": "1775731164"
+    },
+    "healthy": {
+      "buildid": "22708850",
+      "description": "public for healthy",
+      "timeupdated": "1775720838",
+      "timebuildupdated": "1775720801"
+    }
+  },
+  "depot": {
+    "2162682": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4156012707315363268",
+          "size": "826246613",
+          "download": "323624832"
+        }
+      }
+    },
+    "2162683": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7147525943889271129",
+          "size": "840791110",
+          "download": "325567552"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22711157",
+        "timeupdated": "1775731192",
+        "timebuildupdated": "1775731164"
+      },
+      "healthy": {
+        "buildid": "22708850",
+        "description": "public for healthy",
+        "timeupdated": "1775720838",
+        "timebuildupdated": "1775720801"
+      }
+    }
+  }
+}

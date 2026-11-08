@@ -1,0 +1,66 @@
+{
+  "name": "Hero Defense",
+  "source": "spectre",
+  "changenumber": 40363767,
+  "updated": "2026-11-07T20:57:42.827Z",
+  "branches": {
+    "public": {
+      "buildid": "1702851",
+      "timeupdated": "1534511765",
+      "timebuildupdated": "1490026233"
+    },
+    "local": {
+      "buildid": "1197577",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1466784066",
+      "timebuildupdated": "1466784066"
+    },
+    "publicbeta": {
+      "buildid": "1260355",
+      "description": "Public Beta Branch",
+      "timeupdated": "1470233686",
+      "timebuildupdated": "1470233270"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "423621": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2010963618515101033",
+          "size": "2062796982",
+          "download": "538703568"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1702851",
+        "timeupdated": "1534511765",
+        "timebuildupdated": "1490026233"
+      },
+      "local": {
+        "buildid": "1197577",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1466784066",
+        "timebuildupdated": "1466784066"
+      },
+      "publicbeta": {
+        "buildid": "1260355",
+        "description": "Public Beta Branch",
+        "timeupdated": "1470233686",
+        "timebuildupdated": "1470233270"
+      }
+    }
+  }
+}

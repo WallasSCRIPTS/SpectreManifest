@@ -1,0 +1,51 @@
+{
+  "name": "FISHERY",
+  "source": "spectre",
+  "changenumber": 40704061,
+  "updated": "2026-11-07T21:00:52.153Z",
+  "branches": {
+    "public": {
+      "buildid": "25408869",
+      "timeupdated": "1789825555",
+      "timebuildupdated": "1789825454"
+    },
+    "public_debug_branch": {
+      "buildid": "25408872",
+      "description": "latest debug build with visible error messages and logs for enhanced error reporting and debugging.",
+      "timeupdated": "1789825516",
+      "timebuildupdated": "1789825485"
+    }
+  },
+  "depot": {
+    "809734": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4959962679705034411",
+          "size": "1413690649",
+          "download": "633626464"
+        }
+      }
+    },
+    "809735": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25408869",
+        "timeupdated": "1789825555",
+        "timebuildupdated": "1789825454"
+      },
+      "public_debug_branch": {
+        "buildid": "25408872",
+        "description": "latest debug build with visible error messages and logs for enhanced error reporting and debugging.",
+        "timeupdated": "1789825516",
+        "timebuildupdated": "1789825485"
+      }
+    }
+  }
+}

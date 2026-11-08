@@ -1,0 +1,116 @@
+{
+  "name": "HUMANKIND™",
+  "source": "spectre",
+  "changenumber": 40378013,
+  "updated": "2026-11-07T21:03:32.569Z",
+  "branches": {
+    "public": {
+      "buildid": "25953665",
+      "timeupdated": "1792071046",
+      "timebuildupdated": "1792048862"
+    },
+    "rollback": {
+      "buildid": "23181593",
+      "description": "The previous version of the game, before the last update.",
+      "timeupdated": "1778587709",
+      "timebuildupdated": "1778511414"
+    },
+    "update_preview": {
+      "buildid": "22990103",
+      "description": "Preview branch for the next udpate. Please be aware that it may be unstable and not compatible with vanilla multiplayer.",
+      "timeupdated": "1777468170",
+      "timebuildupdated": "1777368902"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229000": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1124301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6566883335830372498",
+          "size": "37457510959",
+          "download": "15005818320"
+        }
+      }
+    },
+    "1124302": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3226555022407765525",
+          "size": "37504438527",
+          "download": "15018927264"
+        }
+      }
+    },
+    "1124303": {
+      "manifests": {
+        "public": {
+          "gid": "4307787678226630570",
+          "size": "249854910",
+          "download": "188456944"
+        }
+      },
+      "dlcappid": "1633650"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25953665",
+        "timeupdated": "1792071046",
+        "timebuildupdated": "1792048862"
+      },
+      "rollback": {
+        "buildid": "23181593",
+        "description": "The previous version of the game, before the last update.",
+        "timeupdated": "1778587709",
+        "timebuildupdated": "1778511414"
+      },
+      "update_preview": {
+        "buildid": "22990103",
+        "description": "Preview branch for the next udpate. Please be aware that it may be unstable and not compatible with vanilla multiplayer.",
+        "timeupdated": "1777468170",
+        "timebuildupdated": "1777368902"
+      }
+    }
+  }
+}

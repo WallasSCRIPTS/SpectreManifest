@@ -1,0 +1,70 @@
+{
+  "name": "Don't get lost",
+  "source": "spectre",
+  "changenumber": 40616882,
+  "updated": "2026-11-06T21:05:18.139Z",
+  "branches": {
+    "public": {
+      "buildid": "11604820",
+      "timeupdated": "1705427425",
+      "timebuildupdated": "1688206860"
+    },
+    "beta": {
+      "buildid": "12980344",
+      "description": "Public beta",
+      "timeupdated": "1702740564",
+      "timebuildupdated": "1702740023"
+    },
+    "previous": {
+      "buildid": "10954458",
+      "description": "Main branch, before the last batch of updates",
+      "timeupdated": "1705427477",
+      "timebuildupdated": "1680864502"
+    }
+  },
+  "depot": {
+    "1442361": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5014578834679793319",
+          "size": "125069617",
+          "download": "34355120"
+        }
+      }
+    },
+    "1442362": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3205277035018574344",
+          "size": "181706478",
+          "download": "42371216"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11604820",
+        "timeupdated": "1705427425",
+        "timebuildupdated": "1688206860"
+      },
+      "beta": {
+        "buildid": "12980344",
+        "description": "Public beta",
+        "timeupdated": "1702740564",
+        "timebuildupdated": "1702740023"
+      },
+      "previous": {
+        "buildid": "10954458",
+        "description": "Main branch, before the last batch of updates",
+        "timeupdated": "1705427477",
+        "timebuildupdated": "1680864502"
+      }
+    }
+  }
+}

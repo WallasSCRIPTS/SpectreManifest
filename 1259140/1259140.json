@@ -1,0 +1,85 @@
+{
+  "name": "Ashina: The Red Witch",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:03:58.046Z",
+  "branches": {
+    "public": {
+      "buildid": "10280376",
+      "timeupdated": "1673432755",
+      "timebuildupdated": "1673241861"
+    },
+    "beta": {
+      "buildid": "10183196",
+      "description": "For beta testers",
+      "timeupdated": "1671529186",
+      "timebuildupdated": "1671529186"
+    },
+    "rollbackversion0.0": {
+      "buildid": "9819223",
+      "description": "Incase your save file corrupts.",
+      "timeupdated": "1672638569",
+      "timebuildupdated": "1666940887"
+    },
+    "rollbackversion0.1": {
+      "buildid": "10241583",
+      "description": "Incase your save file corrupts.",
+      "timeupdated": "1672899819",
+      "timebuildupdated": "1672638516"
+    },
+    "rollbackversion0.2": {
+      "buildid": "10259463",
+      "description": "Incase your save file corrupts.",
+      "timeupdated": "1673432720",
+      "timebuildupdated": "1672898950"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1259141": {
+      "manifests": {
+        "public": {
+          "gid": "7304502370705097563",
+          "size": "288565383",
+          "download": "178735616"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10280376",
+        "timeupdated": "1673432755",
+        "timebuildupdated": "1673241861"
+      },
+      "beta": {
+        "buildid": "10183196",
+        "description": "For beta testers",
+        "timeupdated": "1671529186",
+        "timebuildupdated": "1671529186"
+      },
+      "rollbackversion0.0": {
+        "buildid": "9819223",
+        "description": "Incase your save file corrupts.",
+        "timeupdated": "1672638569",
+        "timebuildupdated": "1666940887"
+      },
+      "rollbackversion0.1": {
+        "buildid": "10241583",
+        "description": "Incase your save file corrupts.",
+        "timeupdated": "1672899819",
+        "timebuildupdated": "1672638516"
+      },
+      "rollbackversion0.2": {
+        "buildid": "10259463",
+        "description": "Incase your save file corrupts.",
+        "timeupdated": "1673432720",
+        "timebuildupdated": "1672898950"
+      }
+    }
+  }
+}

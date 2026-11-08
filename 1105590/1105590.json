@@ -1,0 +1,70 @@
+{
+  "name": "Dream Cycle",
+  "source": "spectre",
+  "changenumber": 39228541,
+  "updated": "2026-11-07T21:03:20.648Z",
+  "branches": {
+    "public": {
+      "buildid": "9353221",
+      "timeupdated": "1660985442",
+      "timebuildupdated": "1660985239"
+    },
+    "ea_1.2_pre-update2": {
+      "buildid": "7827198",
+      "description": "EA 1.2 rollback to keep saves",
+      "timeupdated": "1653415035",
+      "timebuildupdated": "1638597096"
+    },
+    "ea_preupdate1": {
+      "buildid": "7347588",
+      "description": "EA 1.1.6 for pre-Update 1 saves",
+      "timeupdated": "1636488342",
+      "timebuildupdated": "1631508264"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1105591": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3303822958390797283",
+          "size": "37904327972",
+          "download": "23691179936"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9353221",
+        "timeupdated": "1660985442",
+        "timebuildupdated": "1660985239"
+      },
+      "ea_1.2_pre-update2": {
+        "buildid": "7827198",
+        "description": "EA 1.2 rollback to keep saves",
+        "timeupdated": "1653415035",
+        "timebuildupdated": "1638597096"
+      },
+      "ea_preupdate1": {
+        "buildid": "7347588",
+        "description": "EA 1.1.6 for pre-Update 1 saves",
+        "timeupdated": "1636488342",
+        "timebuildupdated": "1631508264"
+      }
+    }
+  }
+}

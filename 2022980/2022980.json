@@ -1,0 +1,64 @@
+{
+  "name": "Slap Fight",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:15:37.656Z",
+  "branches": {
+    "public": {
+      "buildid": "14082610",
+      "timeupdated": "1713356642",
+      "timebuildupdated": "1713356139"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2022981": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8167634432366428117",
+          "size": "2455856",
+          "download": "1927024"
+        }
+      }
+    },
+    "2022982": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6850911527877332145",
+          "size": "4210602",
+          "download": "1659232"
+        }
+      }
+    },
+    "2022983": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1358098157160086080",
+          "size": "2885000",
+          "download": "1315232"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14082610",
+        "timeupdated": "1713356642",
+        "timebuildupdated": "1713356139"
+      }
+    }
+  }
+}

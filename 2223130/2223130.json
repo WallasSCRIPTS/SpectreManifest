@@ -1,0 +1,55 @@
+{
+  "name": "Tactical Command",
+  "source": "spectre",
+  "changenumber": 37457512,
+  "updated": "2026-11-06T23:19:33.017Z",
+  "branches": {
+    "public": {
+      "buildid": "11119255",
+      "timeupdated": "1682726075",
+      "timebuildupdated": "1682724532"
+    },
+    "oldbuild": {
+      "buildid": "10305105",
+      "description": "rollback to the previous version of the game",
+      "timeupdated": "1675554542",
+      "timebuildupdated": "1673511477"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2223131": {
+      "manifests": {
+        "public": {
+          "gid": "4935087591089496622",
+          "size": "1255818307",
+          "download": "1015451856"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11119255",
+        "timeupdated": "1682726075",
+        "timebuildupdated": "1682724532"
+      },
+      "oldbuild": {
+        "buildid": "10305105",
+        "description": "rollback to the previous version of the game",
+        "timeupdated": "1675554542",
+        "timebuildupdated": "1673511477"
+      }
+    }
+  }
+}

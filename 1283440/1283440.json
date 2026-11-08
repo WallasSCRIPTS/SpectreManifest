@@ -1,0 +1,67 @@
+{
+  "name": "VBOX Sim",
+  "source": "spectre",
+  "changenumber": 40333233,
+  "updated": "2026-11-05T14:51:33.607Z",
+  "branches": {
+    "public": {
+      "buildid": "16723299",
+      "timeupdated": "1736768456",
+      "timebuildupdated": "1734017422"
+    },
+    "iracing_hotfix": {
+      "buildid": "16723299",
+      "description": "Beta branch for a hotfix for a potential iRacing bug",
+      "timeupdated": "1736768344",
+      "timebuildupdated": "1734017422"
+    },
+    "public_test": {
+      "buildid": "16723299",
+      "description": "Public beta testing",
+      "timeupdated": "1736768353",
+      "timebuildupdated": "1734017422"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1283441": {
+      "manifests": {
+        "public": {
+          "gid": "2955253726397387417",
+          "size": "353420278",
+          "download": "292123872"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16723299",
+        "timeupdated": "1736768456",
+        "timebuildupdated": "1734017422"
+      },
+      "iracing_hotfix": {
+        "buildid": "16723299",
+        "description": "Beta branch for a hotfix for a potential iRacing bug",
+        "timeupdated": "1736768344",
+        "timebuildupdated": "1734017422"
+      },
+      "public_test": {
+        "buildid": "16723299",
+        "description": "Public beta testing",
+        "timeupdated": "1736768353",
+        "timebuildupdated": "1734017422"
+      }
+    }
+  }
+}

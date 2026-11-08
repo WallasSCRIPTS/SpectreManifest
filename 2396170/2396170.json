@@ -1,0 +1,67 @@
+{
+  "name": "Byte Wars",
+  "source": "spectre",
+  "changenumber": 40327518,
+  "updated": "2026-11-06T23:23:23.356Z",
+  "branches": {
+    "public": {
+      "buildid": "20749903",
+      "timeupdated": "1762918197",
+      "timebuildupdated": "1762845276"
+    },
+    "unity-live": {
+      "buildid": "18922872",
+      "description": "Latest stable version of unity Byte Wars",
+      "timeupdated": "1750315900",
+      "timebuildupdated": "1750315301"
+    },
+    "unreal-demo": {
+      "buildid": "14555479",
+      "description": "Byte Wars unreal engine build special for demo purposes",
+      "timeupdated": "1717125550",
+      "timebuildupdated": "1717125550"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2396171": {
+      "manifests": {
+        "public": {
+          "gid": "7829849781440268278",
+          "size": "485170472",
+          "download": "275634384"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20749903",
+        "timeupdated": "1762918197",
+        "timebuildupdated": "1762845276"
+      },
+      "unity-live": {
+        "buildid": "18922872",
+        "description": "Latest stable version of unity Byte Wars",
+        "timeupdated": "1750315900",
+        "timebuildupdated": "1750315301"
+      },
+      "unreal-demo": {
+        "buildid": "14555479",
+        "description": "Byte Wars unreal engine build special for demo purposes",
+        "timeupdated": "1717125550",
+        "timebuildupdated": "1717125550"
+      }
+    }
+  }
+}

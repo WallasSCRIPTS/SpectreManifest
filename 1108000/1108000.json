@@ -1,0 +1,95 @@
+{
+  "name": "Children of Silentown",
+  "source": "spectre",
+  "changenumber": 40392822,
+  "updated": "2026-11-07T21:03:22.099Z",
+  "branches": {
+    "public": {
+      "buildid": "14159774",
+      "timeupdated": "1713964615",
+      "timebuildupdated": "1713964180"
+    },
+    "experimental-public": {
+      "buildid": "10343345",
+      "description": "public branch for unstable builds",
+      "timeupdated": "1673992791",
+      "timebuildupdated": "1673992791"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1108001": {
+      "manifests": {
+        "public": {
+          "gid": "478032157096462195",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "1108002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4760676608216050671",
+          "size": "5848896464",
+          "download": "1963374160"
+        }
+      }
+    },
+    "1108003": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6935289779291329476",
+          "size": "5027745474",
+          "download": "1119708448"
+        }
+      }
+    },
+    "2213230": {
+      "manifests": {
+        "public": {
+          "gid": "4566855326883605092",
+          "size": "812440755",
+          "download": "555663664"
+        }
+      },
+      "dlcappid": "2213230"
+    },
+    "branches": {
+      "public": {
+        "buildid": "14159774",
+        "timeupdated": "1713964615",
+        "timebuildupdated": "1713964180"
+      },
+      "experimental-public": {
+        "buildid": "10343345",
+        "description": "public branch for unstable builds",
+        "timeupdated": "1673992791",
+        "timebuildupdated": "1673992791"
+      }
+    }
+  }
+}

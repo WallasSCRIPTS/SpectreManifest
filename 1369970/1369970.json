@@ -1,0 +1,63 @@
+{
+  "name": "Infinite Mana",
+  "source": "spectre",
+  "changenumber": 40585880,
+  "updated": "2026-11-06T21:04:43.979Z",
+  "branches": {
+    "public": {
+      "buildid": "19167569",
+      "timeupdated": "1752103760",
+      "timebuildupdated": "1752103717"
+    },
+    "performance": {
+      "buildid": "19619305",
+      "description": "This version changes how the game runs and might work better for some people.",
+      "timeupdated": "1755306010",
+      "timebuildupdated": "1755305986"
+    },
+    "steamos": {
+      "buildid": "24785449",
+      "description": "This version is for SteamDeck and Linux.",
+      "timeupdated": "1787006530",
+      "timebuildupdated": "1787006530"
+    }
+  },
+  "depot": {
+    "1369971": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1302985395848169732",
+          "size": "1233215024",
+          "download": "835795264"
+        }
+      }
+    },
+    "1369972": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19167569",
+        "timeupdated": "1752103760",
+        "timebuildupdated": "1752103717"
+      },
+      "performance": {
+        "buildid": "19619305",
+        "description": "This version changes how the game runs and might work better for some people.",
+        "timeupdated": "1755306010",
+        "timebuildupdated": "1755305986"
+      },
+      "steamos": {
+        "buildid": "24785449",
+        "description": "This version is for SteamDeck and Linux.",
+        "timeupdated": "1787006530",
+        "timebuildupdated": "1787006530"
+      }
+    }
+  }
+}

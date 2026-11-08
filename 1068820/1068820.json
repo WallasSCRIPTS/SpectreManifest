@@ -1,0 +1,94 @@
+{
+  "name": "OVR Toolkit",
+  "source": "spectre",
+  "changenumber": 40607179,
+  "updated": "2026-11-07T21:02:57.308Z",
+  "branches": {
+    "public": {
+      "buildid": "25682991",
+      "timeupdated": "1791225089",
+      "timebuildupdated": "1790962455"
+    },
+    "no-updates": {
+      "buildid": "12400445",
+      "description": "Static branch that will not regularly change",
+      "timeupdated": "1699915438",
+      "timebuildupdated": "1696919679"
+    },
+    "old-openvr": {
+      "buildid": "19588339",
+      "description": "Old OpenVR SDK",
+      "timeupdated": "1757474268",
+      "timebuildupdated": "1755115963"
+    },
+    "old-ui": {
+      "buildid": "18077890",
+      "description": "Old UI styling",
+      "timeupdated": "1753753152",
+      "timebuildupdated": "1744405689"
+    },
+    "open-beta": {
+      "buildid": "26443080",
+      "description": "Open Beta",
+      "timeupdated": "1793829059",
+      "timebuildupdated": "1793828961"
+    },
+    "previous-release": {
+      "buildid": "25481702",
+      "description": "Previous release build",
+      "timeupdated": "1790458123",
+      "timebuildupdated": "1790167214"
+    }
+  },
+  "depot": {
+    "1068821": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8809957869831303129",
+          "size": "1077168620",
+          "download": "330517024"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25682991",
+        "timeupdated": "1791225089",
+        "timebuildupdated": "1790962455"
+      },
+      "no-updates": {
+        "buildid": "12400445",
+        "description": "Static branch that will not regularly change",
+        "timeupdated": "1699915438",
+        "timebuildupdated": "1696919679"
+      },
+      "old-openvr": {
+        "buildid": "19588339",
+        "description": "Old OpenVR SDK",
+        "timeupdated": "1757474268",
+        "timebuildupdated": "1755115963"
+      },
+      "old-ui": {
+        "buildid": "18077890",
+        "description": "Old UI styling",
+        "timeupdated": "1753753152",
+        "timebuildupdated": "1744405689"
+      },
+      "open-beta": {
+        "buildid": "26443080",
+        "description": "Open Beta",
+        "timeupdated": "1793829059",
+        "timebuildupdated": "1793828961"
+      },
+      "previous-release": {
+        "buildid": "25481702",
+        "description": "Previous release build",
+        "timeupdated": "1790458123",
+        "timebuildupdated": "1790167214"
+      }
+    }
+  }
+}

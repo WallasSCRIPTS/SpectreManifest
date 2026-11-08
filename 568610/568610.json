@@ -1,0 +1,70 @@
+{
+  "name": "VERSUS: The Elite Trials",
+  "source": "spectre",
+  "changenumber": 37436216,
+  "updated": "2026-11-07T20:58:52.285Z",
+  "branches": {
+    "public": {
+      "buildid": "21398607",
+      "timeupdated": "1767739119",
+      "timebuildupdated": "1767716750"
+    },
+    "xplegacy": {
+      "buildid": "1559427",
+      "description": "Archived version runnable on Windows XP",
+      "timeupdated": "1488641895",
+      "timebuildupdated": "1484004230"
+    }
+  },
+  "depot": {
+    "568611": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1033263448996782741",
+          "size": "239080224",
+          "download": "81174784"
+        }
+      }
+    },
+    "568612": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4149862831189689540",
+          "size": "12706558",
+          "download": "6782384"
+        }
+      }
+    },
+    "568613": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4676179600490230962",
+          "size": "241641517",
+          "download": "75729840"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21398607",
+        "timeupdated": "1767739119",
+        "timebuildupdated": "1767716750"
+      },
+      "xplegacy": {
+        "buildid": "1559427",
+        "description": "Archived version runnable on Windows XP",
+        "timeupdated": "1488641895",
+        "timebuildupdated": "1484004230"
+      }
+    }
+  }
+}

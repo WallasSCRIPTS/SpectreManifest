@@ -1,0 +1,70 @@
+{
+  "name": "Swim Out",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:36.434Z",
+  "branches": {
+    "public": {
+      "buildid": "23610439",
+      "timeupdated": "1780933443",
+      "timebuildupdated": "1780846323"
+    },
+    "beta": {
+      "buildid": "23610439",
+      "description": "BETA BRANCH",
+      "timeupdated": "1780846412",
+      "timebuildupdated": "1780846323"
+    }
+  },
+  "depot": {
+    "662201": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "261626440738310300",
+          "size": "163890448",
+          "download": "58244480"
+        }
+      }
+    },
+    "662202": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6122704630863737440",
+          "size": "215953818",
+          "download": "73915296"
+        }
+      }
+    },
+    "662203": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8807178616517321432",
+          "size": "162092875",
+          "download": "43798640"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23610439",
+        "timeupdated": "1780933443",
+        "timebuildupdated": "1780846323"
+      },
+      "beta": {
+        "buildid": "23610439",
+        "description": "BETA BRANCH",
+        "timeupdated": "1780846412",
+        "timebuildupdated": "1780846323"
+      }
+    }
+  }
+}

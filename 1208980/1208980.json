@@ -1,0 +1,58 @@
+{
+  "name": "BlazeSky",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:04:16.298Z",
+  "branches": {
+    "public": {
+      "buildid": "5617868",
+      "timeupdated": "1601488321",
+      "timebuildupdated": "1601487647"
+    },
+    "beta": {
+      "buildid": "5617868",
+      "description": "Public test branch",
+      "timeupdated": "1601487701",
+      "timebuildupdated": "1601487647"
+    }
+  },
+  "depot": {
+    "1208981": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6169780221209226739",
+          "size": "1367239325",
+          "download": "1128884192"
+        }
+      }
+    },
+    "1208982": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5986971394521054508",
+          "size": "1370616458",
+          "download": "1131257248"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5617868",
+        "timeupdated": "1601488321",
+        "timebuildupdated": "1601487647"
+      },
+      "beta": {
+        "buildid": "5617868",
+        "description": "Public test branch",
+        "timeupdated": "1601487701",
+        "timebuildupdated": "1601487647"
+      }
+    }
+  }
+}

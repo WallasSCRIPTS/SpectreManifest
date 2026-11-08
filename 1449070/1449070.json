@@ -1,0 +1,70 @@
+{
+  "name": "Journey to the West",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:21.240Z",
+  "branches": {
+    "public": {
+      "buildid": "21326063",
+      "timeupdated": "1766871936",
+      "timebuildupdated": "1766871649"
+    },
+    "beforedlc": {
+      "buildid": "13456603",
+      "description": "无DLC版本（支持旧存档）",
+      "timeupdated": "1709401015",
+      "timebuildupdated": "1707931120"
+    },
+    "pre-release": {
+      "buildid": "21326063",
+      "description": "正式版提前测试分支",
+      "timeupdated": "1766871649",
+      "timebuildupdated": "1766871649"
+    }
+  },
+  "depot": {
+    "1449071": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4453018520931667589",
+          "size": "4513194477",
+          "download": "1369849152"
+        }
+      }
+    },
+    "1449072": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "541910206823818080",
+          "size": "4536384236",
+          "download": "1375964528"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21326063",
+        "timeupdated": "1766871936",
+        "timebuildupdated": "1766871649"
+      },
+      "beforedlc": {
+        "buildid": "13456603",
+        "description": "无DLC版本（支持旧存档）",
+        "timeupdated": "1709401015",
+        "timebuildupdated": "1707931120"
+      },
+      "pre-release": {
+        "buildid": "21326063",
+        "description": "正式版提前测试分支",
+        "timeupdated": "1766871649",
+        "timebuildupdated": "1766871649"
+      }
+    }
+  }
+}

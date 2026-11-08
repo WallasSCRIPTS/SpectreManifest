@@ -1,0 +1,71 @@
+{
+  "name": "It's A Wipe!",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:44.420Z",
+  "branches": {
+    "public": {
+      "buildid": "4176554",
+      "timeupdated": "1567910184",
+      "timebuildupdated": "1567910039"
+    },
+    "nonopengl": {
+      "buildid": "472735",
+      "description": "Video Testing",
+      "timebuildupdated": "1418621733"
+    },
+    "opengl": {
+      "buildid": "3590003",
+      "timeupdated": "1567908179",
+      "timebuildupdated": "1551019378"
+    }
+  },
+  "depot": {
+    "228982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "330621": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "330622": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9144055854540898988",
+          "size": "160560412",
+          "download": "133230048"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4176554",
+        "timeupdated": "1567910184",
+        "timebuildupdated": "1567910039"
+      },
+      "nonopengl": {
+        "buildid": "472735",
+        "description": "Video Testing",
+        "timebuildupdated": "1418621733"
+      },
+      "opengl": {
+        "buildid": "3590003",
+        "timeupdated": "1567908179",
+        "timebuildupdated": "1551019378"
+      }
+    }
+  }
+}

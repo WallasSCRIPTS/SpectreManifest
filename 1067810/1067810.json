@@ -1,0 +1,100 @@
+{
+  "name": "First Day",
+  "source": "spectre",
+  "changenumber": 39554034,
+  "updated": "2026-11-07T21:02:56.665Z",
+  "branches": {
+    "public": {
+      "buildid": "18923322",
+      "timeupdated": "1751541787",
+      "timebuildupdated": "1750318059"
+    },
+    "test_update": {
+      "buildid": "18923322",
+      "description": "Test update branch",
+      "timeupdated": "1750318059",
+      "timebuildupdated": "1750318059"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1067811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7820382884534658967",
+          "size": "7622123048",
+          "download": "2615313728"
+        }
+      }
+    },
+    "1067812": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1533257888292657915",
+          "size": "7900000249",
+          "download": "2740444976"
+        }
+      }
+    },
+    "1067813": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8407923402671536850",
+          "size": "7749503104",
+          "download": "2595515712"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18923322",
+        "timeupdated": "1751541787",
+        "timebuildupdated": "1750318059"
+      },
+      "test_update": {
+        "buildid": "18923322",
+        "description": "Test update branch",
+        "timeupdated": "1750318059",
+        "timebuildupdated": "1750318059"
+      }
+    }
+  }
+}

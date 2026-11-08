@@ -1,0 +1,151 @@
+{
+  "name": "Plague Inc: Evolved",
+  "source": "spectre",
+  "changenumber": 40250119,
+  "updated": "2026-11-07T20:56:11.022Z",
+  "branches": {
+    "public": {
+      "buildid": "26078266",
+      "timeupdated": "1792498432",
+      "timebuildupdated": "1792497725"
+    },
+    "macos32bit": {
+      "buildid": "4950777",
+      "description": "Legacy OSX 32 bit build",
+      "timeupdated": "1588066108",
+      "timebuildupdated": "1588003806"
+    },
+    "win32bit": {
+      "buildid": "4950777",
+      "description": "Legacy Windows 32 bit build",
+      "timeupdated": "1607346410",
+      "timebuildupdated": "1588003806"
+    },
+    "publicbeta": {
+      "buildid": "25319476",
+      "description": "Public Beta",
+      "timeupdated": "1789471672",
+      "timebuildupdated": "1789464965"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "246621": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5411459073788608934",
+          "size": "1321663329",
+          "download": "523996672"
+        }
+      }
+    },
+    "246622": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2355179510421951155",
+          "size": "1338138161",
+          "download": "531811376"
+        }
+      }
+    },
+    "246623": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8541002709577682196",
+          "size": "1322485655",
+          "download": "520437008"
+        }
+      }
+    },
+    "246624": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "712597846969897429",
+          "size": "193682344",
+          "download": "34415424"
+        }
+      }
+    },
+    "246625": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8060770308095908779",
+          "size": "195821014",
+          "download": "35447872"
+        }
+      }
+    },
+    "246626": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1898025581291238622",
+          "size": "231643815",
+          "download": "44431360"
+        }
+      }
+    },
+    "317520": {
+      "dlcappid": "317520"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26078266",
+        "timeupdated": "1792498432",
+        "timebuildupdated": "1792497725"
+      },
+      "macos32bit": {
+        "buildid": "4950777",
+        "description": "Legacy OSX 32 bit build",
+        "timeupdated": "1588066108",
+        "timebuildupdated": "1588003806"
+      },
+      "win32bit": {
+        "buildid": "4950777",
+        "description": "Legacy Windows 32 bit build",
+        "timeupdated": "1607346410",
+        "timebuildupdated": "1588003806"
+      },
+      "publicbeta": {
+        "buildid": "25319476",
+        "description": "Public Beta",
+        "timeupdated": "1789471672",
+        "timebuildupdated": "1789464965"
+      }
+    }
+  }
+}

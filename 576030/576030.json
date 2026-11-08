@@ -1,0 +1,68 @@
+{
+  "name": "MHRD",
+  "source": "spectre",
+  "changenumber": 37765637,
+  "updated": "2026-11-07T20:58:57.426Z",
+  "branches": {
+    "public": {
+      "buildid": "1609067",
+      "timeupdated": "1486147362",
+      "timebuildupdated": "1486146887"
+    },
+    "beta": {
+      "buildid": "1609067",
+      "timeupdated": "1486146922",
+      "timebuildupdated": "1486146887"
+    }
+  },
+  "depot": {
+    "576031": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5030465315577490063",
+          "size": "115876957",
+          "download": "37255168"
+        }
+      }
+    },
+    "576032": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8095994805620451904",
+          "size": "119068429",
+          "download": "37298080"
+        }
+      }
+    },
+    "576033": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8790843105756004236",
+          "size": "92035750",
+          "download": "24975616"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1609067",
+        "timeupdated": "1486147362",
+        "timebuildupdated": "1486146887"
+      },
+      "beta": {
+        "buildid": "1609067",
+        "timeupdated": "1486146922",
+        "timebuildupdated": "1486146887"
+      }
+    }
+  }
+}

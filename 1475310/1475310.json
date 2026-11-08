@@ -1,0 +1,67 @@
+{
+  "name": "Factory Magnate",
+  "source": "spectre",
+  "changenumber": 40208756,
+  "updated": "2026-11-05T14:55:23.523Z",
+  "branches": {
+    "public": {
+      "buildid": "26186155",
+      "timeupdated": "1792865287",
+      "timebuildupdated": "1792865205"
+    },
+    "testing": {
+      "buildid": "23135915",
+      "description": "Public testing branch",
+      "timeupdated": "1778188723",
+      "timebuildupdated": "1778188701"
+    },
+    "iio-gold-update": {
+      "buildid": "22784734",
+      "description": "indie.io gold update branch",
+      "timeupdated": "1776185481",
+      "timebuildupdated": "1776185389"
+    }
+  },
+  "depot": {
+    "1475311": {
+      "manifests": {
+        "public": {
+          "gid": "2650778065959418666",
+          "size": "115449280",
+          "download": "68503632"
+        }
+      }
+    },
+    "1475312": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7372535201370671438",
+          "size": "121817152",
+          "download": "71329360"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26186155",
+        "timeupdated": "1792865287",
+        "timebuildupdated": "1792865205"
+      },
+      "testing": {
+        "buildid": "23135915",
+        "description": "Public testing branch",
+        "timeupdated": "1778188723",
+        "timebuildupdated": "1778188701"
+      },
+      "iio-gold-update": {
+        "buildid": "22784734",
+        "description": "indie.io gold update branch",
+        "timeupdated": "1776185481",
+        "timebuildupdated": "1776185389"
+      }
+    }
+  }
+}

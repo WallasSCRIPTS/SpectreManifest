@@ -1,0 +1,58 @@
+{
+  "name": "DINO MERCS",
+  "source": "spectre",
+  "changenumber": 39493835,
+  "updated": "2026-11-06T23:11:35.829Z",
+  "branches": {
+    "public": {
+      "buildid": "15615123",
+      "timeupdated": "1725629522",
+      "timebuildupdated": "1725619825"
+    },
+    "testing": {
+      "buildid": "19470709",
+      "description": "use this for testing unreleased versions!",
+      "timeupdated": "1754315774",
+      "timebuildupdated": "1754315363"
+    }
+  },
+  "depot": {
+    "1827641": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4370545198903506838",
+          "size": "1242238807",
+          "download": "239698192"
+        }
+      }
+    },
+    "1827642": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3838326279823246057",
+          "size": "1265373804",
+          "download": "246186080"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15615123",
+        "timeupdated": "1725629522",
+        "timebuildupdated": "1725619825"
+      },
+      "testing": {
+        "buildid": "19470709",
+        "description": "use this for testing unreleased versions!",
+        "timeupdated": "1754315774",
+        "timebuildupdated": "1754315363"
+      }
+    }
+  }
+}

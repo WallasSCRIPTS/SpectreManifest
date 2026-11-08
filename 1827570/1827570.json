@@ -1,0 +1,57 @@
+{
+  "name": "Hereford 1642",
+  "source": "spectre",
+  "changenumber": 40682007,
+  "updated": "2026-11-06T23:11:35.822Z",
+  "branches": {
+    "public": {
+      "buildid": "16930841",
+      "timeupdated": "1736271917",
+      "timebuildupdated": "1736271709"
+    },
+    "local": {
+      "buildid": "7779350",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1637869511",
+      "timebuildupdated": "1637869211"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1827571": {
+      "manifests": {
+        "public": {
+          "gid": "8597056195715969263",
+          "size": "32036237743",
+          "download": "31220065264"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16930841",
+        "timeupdated": "1736271917",
+        "timebuildupdated": "1736271709"
+      },
+      "local": {
+        "buildid": "7779350",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1637869511",
+        "timebuildupdated": "1637869211"
+      }
+    }
+  }
+}

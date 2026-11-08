@@ -1,0 +1,76 @@
+{
+  "name": "STAR WARS™: The Force Unleashed™ Ultimate Sith Edition",
+  "source": "spectre",
+  "changenumber": 39965810,
+  "updated": "2026-11-07T20:55:50.861Z",
+  "branches": {
+    "public": {
+      "buildid": "6522",
+      "timebuildupdated": "1342619889"
+    },
+    "local": {
+      "buildid": "13452",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1347549760"
+    },
+    "macbeta": {
+      "buildid": "6522",
+      "timebuildupdated": "1342619889"
+    }
+  },
+  "depot": {
+    "32431": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7086741752643505745",
+          "size": "31131585001",
+          "download": "0"
+        }
+      }
+    },
+    "32433": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4034928732234361858",
+          "size": "27476142",
+          "download": "0"
+        }
+      }
+    },
+    "32434": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3832244542025695403",
+          "size": "24991155063",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6522",
+        "timebuildupdated": "1342619889"
+      },
+      "local": {
+        "buildid": "13452",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1347549760"
+      },
+      "macbeta": {
+        "buildid": "6522",
+        "timebuildupdated": "1342619889"
+      }
+    }
+  }
+}

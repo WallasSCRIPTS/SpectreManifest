@@ -1,0 +1,95 @@
+{
+  "name": "CULTIC",
+  "source": "spectre",
+  "changenumber": 40560978,
+  "updated": "2026-11-06T21:07:04.920Z",
+  "branches": {
+    "public": {
+      "buildid": "25152543",
+      "timeupdated": "1788703118",
+      "timebuildupdated": "1788702780"
+    },
+    "v102archive": {
+      "buildid": "9749486",
+      "description": "Archived version of v102b",
+      "timeupdated": "1668610960",
+      "timebuildupdated": "1666136079"
+    },
+    "beta": {
+      "buildid": "25152543",
+      "description": "A side branch for testing features that may not be stable",
+      "timeupdated": "1788702802",
+      "timebuildupdated": "1788702780"
+    },
+    "v105archive": {
+      "buildid": "13015560",
+      "description": "Archived version of v105, the pre-2.0 version of Chapter One",
+      "timeupdated": "1757254416",
+      "timebuildupdated": "1703118836"
+    },
+    "v201archive": {
+      "buildid": "20066947",
+      "description": "An archived version of 2.01",
+      "timeupdated": "1766078459",
+      "timebuildupdated": "1758473349"
+    }
+  },
+  "depot": {
+    "1684931": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3718616454060395426",
+          "size": "7063337474",
+          "download": "1429309392"
+        }
+      }
+    },
+    "3918090": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3535854849052874425",
+          "size": "8022676403",
+          "download": "1599975824"
+        }
+      },
+      "dlcappid": "3918090"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25152543",
+        "timeupdated": "1788703118",
+        "timebuildupdated": "1788702780"
+      },
+      "v102archive": {
+        "buildid": "9749486",
+        "description": "Archived version of v102b",
+        "timeupdated": "1668610960",
+        "timebuildupdated": "1666136079"
+      },
+      "beta": {
+        "buildid": "25152543",
+        "description": "A side branch for testing features that may not be stable",
+        "timeupdated": "1788702802",
+        "timebuildupdated": "1788702780"
+      },
+      "v105archive": {
+        "buildid": "13015560",
+        "description": "Archived version of v105, the pre-2.0 version of Chapter One",
+        "timeupdated": "1757254416",
+        "timebuildupdated": "1703118836"
+      },
+      "v201archive": {
+        "buildid": "20066947",
+        "description": "An archived version of 2.01",
+        "timeupdated": "1766078459",
+        "timebuildupdated": "1758473349"
+      }
+    }
+  }
+}

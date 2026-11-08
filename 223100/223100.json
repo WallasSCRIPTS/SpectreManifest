@@ -1,0 +1,118 @@
+{
+  "name": "Homefront: The Revolution",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:05.787Z",
+  "branches": {
+    "public": {
+      "buildid": "1733788",
+      "timeupdated": "1491813801",
+      "timebuildupdated": "1491293494"
+    },
+    "local": {
+      "buildid": "1006223",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1456992988"
+    }
+  },
+  "depot": {
+    "223101": {
+      "manifests": {
+        "public": {
+          "gid": "103344760119053156",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "223102": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3243358074883441516",
+          "size": "55272088",
+          "download": "19685936"
+        }
+      }
+    },
+    "223103": {
+      "manifests": {
+        "public": {
+          "gid": "8582653993015227315",
+          "size": "49366708761",
+          "download": "45417365392"
+        }
+      }
+    },
+    "223104": {},
+    "223105": {},
+    "223106": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1385625310001200108",
+          "size": "66991457",
+          "download": "59606976"
+        }
+      }
+    },
+    "223108": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "223109": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "500270": {
+      "manifests": {
+        "public": {
+          "gid": "4759160913612966074",
+          "size": "7047239928",
+          "download": "7065643232"
+        }
+      },
+      "dlcappid": "500270"
+    },
+    "500271": {
+      "manifests": {
+        "public": {
+          "gid": "89064167871442600",
+          "size": "8215672173",
+          "download": "8204557856"
+        }
+      },
+      "dlcappid": "500271"
+    },
+    "500272": {
+      "manifests": {
+        "public": {
+          "gid": "7439261246994686832",
+          "size": "7896201383",
+          "download": "7897723216"
+        }
+      },
+      "dlcappid": "500272"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1733788",
+        "timeupdated": "1491813801",
+        "timebuildupdated": "1491293494"
+      },
+      "local": {
+        "buildid": "1006223",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1456992988"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Raiding.Zone",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:17:38.628Z",
+  "branches": {
+    "public": {
+      "buildid": "18090243",
+      "timeupdated": "1744557190",
+      "timebuildupdated": "1744557130"
+    },
+    "beta": {
+      "buildid": "18090243",
+      "description": "Beta Client",
+      "timeupdated": "1744557172",
+      "timebuildupdated": "1744557130"
+    }
+  },
+  "depot": {
+    "2156441": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6145840030314585760",
+          "size": "22919582600",
+          "download": "4104966208"
+        }
+      }
+    },
+    "2156442": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "979345225876384635",
+          "size": "23103669881",
+          "download": "4207698880"
+        }
+      }
+    },
+    "2156443": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9111245224758974876",
+          "size": "22936799981",
+          "download": "4113582496"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18090243",
+        "timeupdated": "1744557190",
+        "timebuildupdated": "1744557130"
+      },
+      "beta": {
+        "buildid": "18090243",
+        "description": "Beta Client",
+        "timeupdated": "1744557172",
+        "timebuildupdated": "1744557130"
+      }
+    }
+  }
+}

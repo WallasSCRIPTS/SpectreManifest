@@ -1,0 +1,68 @@
+{
+  "name": "Deathstate",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:33.668Z",
+  "branches": {
+    "public": {
+      "buildid": "2887730",
+      "timeupdated": "1667940000",
+      "timebuildupdated": "1529699761"
+    },
+    "public_beta": {
+      "buildid": "2887730",
+      "description": "Branch for public Beta testing",
+      "timeupdated": "1529700387",
+      "timebuildupdated": "1529699761"
+    }
+  },
+  "depot": {
+    "402121": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8442966535735986406",
+          "size": "143712517",
+          "download": "111776224"
+        }
+      }
+    },
+    "402122": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6942234536222165694",
+          "size": "163732951",
+          "download": "116758640"
+        }
+      }
+    },
+    "435240": {
+      "manifests": {
+        "public": {
+          "gid": "7902189912276130528",
+          "size": "103131415",
+          "download": "102639216"
+        }
+      },
+      "dlcappid": "435240"
+    },
+    "branches": {
+      "public": {
+        "buildid": "2887730",
+        "timeupdated": "1667940000",
+        "timebuildupdated": "1529699761"
+      },
+      "public_beta": {
+        "buildid": "2887730",
+        "description": "Branch for public Beta testing",
+        "timeupdated": "1529700387",
+        "timebuildupdated": "1529699761"
+      }
+    }
+  }
+}

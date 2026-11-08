@@ -1,0 +1,262 @@
+{
+  "name": "Cosmoteer: Starship Architect & Commander",
+  "source": "spectre",
+  "changenumber": 40277386,
+  "updated": "2026-11-07T21:00:47.573Z",
+  "branches": {
+    "public": {
+      "buildid": "26230688",
+      "timeupdated": "1793058099",
+      "timebuildupdated": "1793057978"
+    },
+    "previous-build": {
+      "buildid": "23161854",
+      "description": "The previous game build, in case the latest build has any issues.",
+      "timeupdated": "1778350721",
+      "timebuildupdated": "1778350546"
+    },
+    "0.22.1": {
+      "buildid": "11436350",
+      "description": "Update 0.23.0 broke some mods, so use this version to keep playing them.",
+      "timeupdated": "1687553991",
+      "timebuildupdated": "1686344734"
+    },
+    "0.24.1": {
+      "buildid": "12586273",
+      "description": "Update 0.24.2 broke some mods, so use this version to keep playing them.",
+      "timeupdated": "1699908577",
+      "timebuildupdated": "1698784412"
+    },
+    "0.24.3": {
+      "buildid": "12955354",
+      "description": "Update 0.25.0 broke some mods, so use this version to keep playing them.",
+      "timeupdated": "1703374977",
+      "timebuildupdated": "1702505414"
+    },
+    "0.26.1": {
+      "buildid": "14723824",
+      "description": "Update 0.26.2 broke some mods, so use this version to keep playing them.",
+      "timeupdated": "1719940306",
+      "timebuildupdated": "1718399579"
+    },
+    "0.26.2": {
+      "buildid": "14922959",
+      "description": "Update 0.27.0 broke some mods, so use this version to keep playing them.",
+      "timeupdated": "1721773744",
+      "timebuildupdated": "1720034707"
+    },
+    "0.27.2": {
+      "buildid": "16072530",
+      "description": "\tUpdate 0.28.0 broke some mods, so use this version to keep playing them.",
+      "timeupdated": "1762302389",
+      "timebuildupdated": "1729116852"
+    },
+    "0.28.2": {
+      "buildid": "17700495",
+      "description": "\tUpdate 0.29.0 broke some mods, so use this version to keep playing them.",
+      "timeupdated": "1762302306",
+      "timebuildupdated": "1741821428"
+    },
+    "0.29.0": {
+      "buildid": "19677015",
+      "description": "\tUpdate 0.30.0 broke some mods, so use this version to keep playing them.",
+      "timeupdated": "1755738736",
+      "timebuildupdated": "1755738722"
+    },
+    "0.30.0": {
+      "buildid": "19817698",
+      "description": "Update 0.30.0 broke some mods, so use this version to keep playing them.",
+      "timeupdated": "1757980400",
+      "timebuildupdated": "1756767906"
+    },
+    "0.30.1": {
+      "buildid": "19992395",
+      "description": "\tUpdate 0.30.2 broke some mods, so use this version to keep playing them.",
+      "timeupdated": "1762396650",
+      "timebuildupdated": "1757982402"
+    },
+    "0.30.2": {
+      "buildid": "20774453",
+      "description": "Update 0.30.3 broke some mods, so use this version to keep playing them.",
+      "timeupdated": "1765857453",
+      "timebuildupdated": "1762984592"
+    },
+    "0.30.3": {
+      "buildid": "21875348",
+      "description": "Use this branch to play mods compatible with Cosmoteer version 0.30.3",
+      "timeupdated": "1774044820",
+      "timebuildupdated": "1770769919"
+    },
+    "0.30.4": {
+      "buildid": "23161854",
+      "description": "Use this branch to play mods compatible with Cosmoteer version 0.30.4",
+      "timeupdated": "1778350694",
+      "timebuildupdated": "1778350546"
+    },
+    "0.30.5": {
+      "buildid": "26230688",
+      "description": "Use this branch to play mods compatible with Cosmoteer version 0.30.5",
+      "timeupdated": "1793058079",
+      "timebuildupdated": "1793057978"
+    },
+    "unstable": {
+      "buildid": "26230688",
+      "description": "Bleeding-edge updates; possibly very buggy!",
+      "timeupdated": "1793058072",
+      "timebuildupdated": "1793057978"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "799601": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5983236444226080286",
+          "size": "1685484114",
+          "download": "1562627840"
+        }
+      }
+    },
+    "799602": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1761873588406179038",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "799603": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3811965438051758330",
+          "size": "211884844",
+          "download": "80251488"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26230688",
+        "timeupdated": "1793058099",
+        "timebuildupdated": "1793057978"
+      },
+      "previous-build": {
+        "buildid": "23161854",
+        "description": "The previous game build, in case the latest build has any issues.",
+        "timeupdated": "1778350721",
+        "timebuildupdated": "1778350546"
+      },
+      "0.22.1": {
+        "buildid": "11436350",
+        "description": "Update 0.23.0 broke some mods, so use this version to keep playing them.",
+        "timeupdated": "1687553991",
+        "timebuildupdated": "1686344734"
+      },
+      "0.24.1": {
+        "buildid": "12586273",
+        "description": "Update 0.24.2 broke some mods, so use this version to keep playing them.",
+        "timeupdated": "1699908577",
+        "timebuildupdated": "1698784412"
+      },
+      "0.24.3": {
+        "buildid": "12955354",
+        "description": "Update 0.25.0 broke some mods, so use this version to keep playing them.",
+        "timeupdated": "1703374977",
+        "timebuildupdated": "1702505414"
+      },
+      "0.26.1": {
+        "buildid": "14723824",
+        "description": "Update 0.26.2 broke some mods, so use this version to keep playing them.",
+        "timeupdated": "1719940306",
+        "timebuildupdated": "1718399579"
+      },
+      "0.26.2": {
+        "buildid": "14922959",
+        "description": "Update 0.27.0 broke some mods, so use this version to keep playing them.",
+        "timeupdated": "1721773744",
+        "timebuildupdated": "1720034707"
+      },
+      "0.27.2": {
+        "buildid": "16072530",
+        "description": "\tUpdate 0.28.0 broke some mods, so use this version to keep playing them.",
+        "timeupdated": "1762302389",
+        "timebuildupdated": "1729116852"
+      },
+      "0.28.2": {
+        "buildid": "17700495",
+        "description": "\tUpdate 0.29.0 broke some mods, so use this version to keep playing them.",
+        "timeupdated": "1762302306",
+        "timebuildupdated": "1741821428"
+      },
+      "0.29.0": {
+        "buildid": "19677015",
+        "description": "\tUpdate 0.30.0 broke some mods, so use this version to keep playing them.",
+        "timeupdated": "1755738736",
+        "timebuildupdated": "1755738722"
+      },
+      "0.30.0": {
+        "buildid": "19817698",
+        "description": "Update 0.30.0 broke some mods, so use this version to keep playing them.",
+        "timeupdated": "1757980400",
+        "timebuildupdated": "1756767906"
+      },
+      "0.30.1": {
+        "buildid": "19992395",
+        "description": "\tUpdate 0.30.2 broke some mods, so use this version to keep playing them.",
+        "timeupdated": "1762396650",
+        "timebuildupdated": "1757982402"
+      },
+      "0.30.2": {
+        "buildid": "20774453",
+        "description": "Update 0.30.3 broke some mods, so use this version to keep playing them.",
+        "timeupdated": "1765857453",
+        "timebuildupdated": "1762984592"
+      },
+      "0.30.3": {
+        "buildid": "21875348",
+        "description": "Use this branch to play mods compatible with Cosmoteer version 0.30.3",
+        "timeupdated": "1774044820",
+        "timebuildupdated": "1770769919"
+      },
+      "0.30.4": {
+        "buildid": "23161854",
+        "description": "Use this branch to play mods compatible with Cosmoteer version 0.30.4",
+        "timeupdated": "1778350694",
+        "timebuildupdated": "1778350546"
+      },
+      "0.30.5": {
+        "buildid": "26230688",
+        "description": "Use this branch to play mods compatible with Cosmoteer version 0.30.5",
+        "timeupdated": "1793058079",
+        "timebuildupdated": "1793057978"
+      },
+      "unstable": {
+        "buildid": "26230688",
+        "description": "Bleeding-edge updates; possibly very buggy!",
+        "timeupdated": "1793058072",
+        "timebuildupdated": "1793057978"
+      }
+    }
+  }
+}

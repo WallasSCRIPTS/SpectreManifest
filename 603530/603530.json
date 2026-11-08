@@ -1,0 +1,94 @@
+{
+  "name": "A Robot Named Fight",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:11.363Z",
+  "branches": {
+    "public": {
+      "buildid": "20456333",
+      "timeupdated": "1760903784",
+      "timebuildupdated": "1760903672"
+    },
+    "oldmac": {
+      "buildid": "2322677",
+      "description": "For Mac users that can't see anything",
+      "timeupdated": "1511890907",
+      "timebuildupdated": "1511890907"
+    },
+    "beta": {
+      "buildid": "20456333",
+      "description": "Updates that need testing",
+      "timeupdated": "1760903707",
+      "timebuildupdated": "1760903672"
+    },
+    "previousbuild": {
+      "buildid": "9129601",
+      "description": "The last build to be 'default'",
+      "timeupdated": "1760892320",
+      "timebuildupdated": "1657900835"
+    }
+  },
+  "depot": {
+    "603531": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4810356549387992747",
+          "size": "1091708056",
+          "download": "148350848"
+        }
+      }
+    },
+    "603532": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7113767537922299550",
+          "size": "1100505460",
+          "download": "147857152"
+        }
+      }
+    },
+    "603533": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4895553210137978569",
+          "size": "1095422881",
+          "download": "148000864"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20456333",
+        "timeupdated": "1760903784",
+        "timebuildupdated": "1760903672"
+      },
+      "oldmac": {
+        "buildid": "2322677",
+        "description": "For Mac users that can't see anything",
+        "timeupdated": "1511890907",
+        "timebuildupdated": "1511890907"
+      },
+      "beta": {
+        "buildid": "20456333",
+        "description": "Updates that need testing",
+        "timeupdated": "1760903707",
+        "timebuildupdated": "1760903672"
+      },
+      "previousbuild": {
+        "buildid": "9129601",
+        "description": "The last build to be 'default'",
+        "timeupdated": "1760892320",
+        "timebuildupdated": "1657900835"
+      }
+    }
+  }
+}

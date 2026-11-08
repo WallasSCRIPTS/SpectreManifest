@@ -1,0 +1,70 @@
+{
+  "name": "Quest Of Graal",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:09:44.591Z",
+  "branches": {
+    "public": {
+      "buildid": "8307878",
+      "timeupdated": "1646316206",
+      "timebuildupdated": "1646316192"
+    },
+    "arabictest": {
+      "buildid": "9056371",
+      "description": "test version for Arabic translation",
+      "timeupdated": "1656929425",
+      "timebuildupdated": "1656929412"
+    }
+  },
+  "depot": {
+    "1765701": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5243303515560429722",
+          "size": "93353296",
+          "download": "48206544"
+        }
+      }
+    },
+    "1765702": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4513066757178988585",
+          "size": "101455389",
+          "download": "50524976"
+        }
+      }
+    },
+    "1765703": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5439501628665293928",
+          "size": "143394377",
+          "download": "59534240"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8307878",
+        "timeupdated": "1646316206",
+        "timebuildupdated": "1646316192"
+      },
+      "arabictest": {
+        "buildid": "9056371",
+        "description": "test version for Arabic translation",
+        "timeupdated": "1656929425",
+        "timebuildupdated": "1656929412"
+      }
+    }
+  }
+}

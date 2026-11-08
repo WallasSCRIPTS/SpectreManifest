@@ -1,0 +1,129 @@
+{
+  "name": "A Dream of Burning Sand",
+  "source": "spectre",
+  "changenumber": 38242498,
+  "updated": "2026-11-07T21:00:43.137Z",
+  "branches": {
+    "public": {
+      "buildid": "24878203",
+      "timeupdated": "1787394436",
+      "timebuildupdated": "1787394436"
+    },
+    "local": {
+      "buildid": "2478848",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1517247210",
+      "timebuildupdated": "1517247210"
+    },
+    "alpha": {
+      "buildid": "15035795",
+      "description": "alpha test",
+      "timeupdated": "1721044536",
+      "timebuildupdated": "1721044536"
+    }
+  },
+  "depot": {
+    "789841": {
+      "manifests": {
+        "public": {
+          "gid": "8740387988968062866",
+          "size": "66137596",
+          "download": "65828576"
+        }
+      }
+    },
+    "789842": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "246961552858593466",
+          "size": "45762203",
+          "download": "12264128"
+        }
+      }
+    },
+    "789843": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "786978267797986724",
+          "size": "52125794",
+          "download": "12607264"
+        }
+      }
+    },
+    "789844": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6498474595211379078",
+          "size": "16752524",
+          "download": "4387920"
+        }
+      }
+    },
+    "789845": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8962419559450058422",
+          "size": "15412992",
+          "download": "6106848"
+        }
+      }
+    },
+    "789846": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "375667637043955443",
+          "size": "19716616",
+          "download": "5212320"
+        }
+      }
+    },
+    "789847": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1517398370200045988",
+          "size": "18893120",
+          "download": "5137168"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24878203",
+        "timeupdated": "1787394436",
+        "timebuildupdated": "1787394436"
+      },
+      "local": {
+        "buildid": "2478848",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1517247210",
+        "timebuildupdated": "1517247210"
+      },
+      "alpha": {
+        "buildid": "15035795",
+        "description": "alpha test",
+        "timeupdated": "1721044536",
+        "timebuildupdated": "1721044536"
+      }
+    }
+  }
+}

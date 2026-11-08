@@ -1,0 +1,116 @@
+{
+  "name": "The Last Tinker: City of Colors",
+  "source": "spectre",
+  "changenumber": 40429683,
+  "updated": "2026-11-07T20:56:15.252Z",
+  "branches": {
+    "public": {
+      "buildid": "2367537",
+      "timeupdated": "1518704510",
+      "timebuildupdated": "1513249215"
+    },
+    "troubleshooting": {
+      "buildid": "295377",
+      "description": "Switch here if issues occur",
+      "timeupdated": "1519132086",
+      "timebuildupdated": "1402494580"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "260161": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3655647702547344820",
+          "size": "2010954238",
+          "download": "1008275216"
+        }
+      }
+    },
+    "260162": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3405585030922281752",
+          "size": "1989841831",
+          "download": "1007426784"
+        }
+      }
+    },
+    "260163": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "601187870168997516",
+          "size": "2080683002",
+          "download": "1011264928"
+        }
+      }
+    },
+    "260164": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3395063570640788394",
+          "size": "874373479",
+          "download": "449102384"
+        }
+      }
+    },
+    "260165": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1308305052092364869",
+          "size": "857918378",
+          "download": "448641248"
+        }
+      }
+    },
+    "297610": {
+      "manifests": {
+        "public": {
+          "gid": "1651734291990535717",
+          "size": "121448644",
+          "download": "120092992"
+        }
+      },
+      "dlcappid": "297610"
+    },
+    "branches": {
+      "public": {
+        "buildid": "2367537",
+        "timeupdated": "1518704510",
+        "timebuildupdated": "1513249215"
+      },
+      "troubleshooting": {
+        "buildid": "295377",
+        "description": "Switch here if issues occur",
+        "timeupdated": "1519132086",
+        "timebuildupdated": "1402494580"
+      }
+    }
+  }
+}

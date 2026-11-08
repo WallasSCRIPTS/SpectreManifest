@@ -1,0 +1,93 @@
+{
+  "name": "Vault of the Void",
+  "source": "spectre",
+  "changenumber": 37441117,
+  "updated": "2026-11-07T21:03:38.007Z",
+  "branches": {
+    "public": {
+      "buildid": "21868434",
+      "timeupdated": "1770819148",
+      "timebuildupdated": "1770737374"
+    },
+    "beta": {
+      "buildid": "24313716",
+      "timeupdated": "1784635449",
+      "timebuildupdated": "1784635305"
+    },
+    "localisation": {
+      "buildid": "24313716",
+      "description": "Branch for testing Vault of the Voids Localisation",
+      "timeupdated": "1784635464",
+      "timebuildupdated": "1784635305"
+    },
+    "win7": {
+      "buildid": "17858825",
+      "description": "The LAST version to support Windows 7 -- you will not receive any future update when playing on this branch",
+      "timeupdated": "1745959336",
+      "timebuildupdated": "1742942417"
+    }
+  },
+  "depot": {
+    "1135811": {},
+    "1135812": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6040278553378915140",
+          "size": "571638516",
+          "download": "378320960"
+        }
+      }
+    },
+    "1135813": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7740774142930169933",
+          "size": "612024944",
+          "download": "391757952"
+        }
+      }
+    },
+    "1135814": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "87913800612579623",
+          "size": "333321408",
+          "download": "336496336"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21868434",
+        "timeupdated": "1770819148",
+        "timebuildupdated": "1770737374"
+      },
+      "beta": {
+        "buildid": "24313716",
+        "timeupdated": "1784635449",
+        "timebuildupdated": "1784635305"
+      },
+      "localisation": {
+        "buildid": "24313716",
+        "description": "Branch for testing Vault of the Voids Localisation",
+        "timeupdated": "1784635464",
+        "timebuildupdated": "1784635305"
+      },
+      "win7": {
+        "buildid": "17858825",
+        "description": "The LAST version to support Windows 7 -- you will not receive any future update when playing on this branch",
+        "timeupdated": "1745959336",
+        "timebuildupdated": "1742942417"
+      }
+    }
+  }
+}

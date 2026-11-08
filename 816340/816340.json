@@ -1,0 +1,70 @@
+{
+  "name": "Kingdom Rush Origins",
+  "source": "spectre",
+  "changenumber": 39690013,
+  "updated": "2026-11-07T21:00:55.062Z",
+  "branches": {
+    "public": {
+      "buildid": "24662341",
+      "timeupdated": "1786534267",
+      "timebuildupdated": "1786403607"
+    },
+    "beta": {
+      "buildid": "24662341",
+      "description": "Beta testing branch",
+      "timeupdated": "1786403809",
+      "timebuildupdated": "1786403607"
+    }
+  },
+  "depot": {
+    "816342": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1290820751986381754",
+          "size": "522366257",
+          "download": "518101456"
+        }
+      }
+    },
+    "816343": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8247536324359864033",
+          "size": "532716153",
+          "download": "521331120"
+        }
+      }
+    },
+    "816344": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5486005539631295414",
+          "size": "507340566",
+          "download": "490955376"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24662341",
+        "timeupdated": "1786534267",
+        "timebuildupdated": "1786403607"
+      },
+      "beta": {
+        "buildid": "24662341",
+        "description": "Beta testing branch",
+        "timeupdated": "1786403809",
+        "timebuildupdated": "1786403607"
+      }
+    }
+  }
+}

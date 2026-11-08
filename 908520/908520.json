@@ -1,0 +1,89 @@
+{
+  "name": "fpsVR",
+  "source": "spectre",
+  "changenumber": 40300994,
+  "updated": "2026-11-07T21:01:36.547Z",
+  "branches": {
+    "public": {
+      "buildid": "26048061",
+      "timeupdated": "1792562883",
+      "timebuildupdated": "1792411310"
+    },
+    "very_old": {
+      "buildid": "6121895",
+      "description": "SteamVR 1.12-1.15",
+      "timeupdated": "1698430692",
+      "timebuildupdated": "1611308447"
+    },
+    "beta": {
+      "buildid": "26048061",
+      "timeupdated": "1792412526",
+      "timebuildupdated": "1792411310"
+    },
+    "previous_": {
+      "buildid": "9490525",
+      "description": "SteamVR 1.16-1.27",
+      "timeupdated": "1698430978",
+      "timebuildupdated": "1662817483"
+    },
+    "previous_2.1.8789": {
+      "buildid": "13262820",
+      "description": "SteamVR 2.0-2.6",
+      "timeupdated": "1722581312",
+      "timebuildupdated": "1706121253"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229005": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "908521": {
+      "manifests": {
+        "public": {
+          "gid": "5727940079613473004",
+          "size": "13835342",
+          "download": "6890544"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26048061",
+        "timeupdated": "1792562883",
+        "timebuildupdated": "1792411310"
+      },
+      "very_old": {
+        "buildid": "6121895",
+        "description": "SteamVR 1.12-1.15",
+        "timeupdated": "1698430692",
+        "timebuildupdated": "1611308447"
+      },
+      "beta": {
+        "buildid": "26048061",
+        "timeupdated": "1792412526",
+        "timebuildupdated": "1792411310"
+      },
+      "previous_": {
+        "buildid": "9490525",
+        "description": "SteamVR 1.16-1.27",
+        "timeupdated": "1698430978",
+        "timebuildupdated": "1662817483"
+      },
+      "previous_2.1.8789": {
+        "buildid": "13262820",
+        "description": "SteamVR 2.0-2.6",
+        "timeupdated": "1722581312",
+        "timebuildupdated": "1706121253"
+      }
+    }
+  }
+}

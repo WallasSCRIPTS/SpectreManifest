@@ -1,0 +1,70 @@
+{
+  "name": "Alien Shooter - Last Hope",
+  "source": "spectre",
+  "changenumber": 38990602,
+  "updated": "2026-11-07T21:01:55.698Z",
+  "branches": {
+    "public": {
+      "buildid": "5819830",
+      "timeupdated": "1605173694",
+      "timebuildupdated": "1605173668"
+    },
+    "beta": {
+      "buildid": "6388458",
+      "description": "Beta version",
+      "timeupdated": "1615895015",
+      "timebuildupdated": "1615894919"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "951531": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8728526685660573380",
+          "size": "150430666",
+          "download": "79604528"
+        }
+      }
+    },
+    "951533": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6750525070115515746",
+          "size": "3307921",
+          "download": "1713504"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5819830",
+        "timeupdated": "1605173694",
+        "timebuildupdated": "1605173668"
+      },
+      "beta": {
+        "buildid": "6388458",
+        "description": "Beta version",
+        "timeupdated": "1615895015",
+        "timebuildupdated": "1615894919"
+      }
+    }
+  }
+}

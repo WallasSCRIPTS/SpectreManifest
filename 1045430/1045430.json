@@ -1,0 +1,56 @@
+{
+  "name": "Circadian City",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:44.809Z",
+  "branches": {
+    "public": {
+      "buildid": "6630776",
+      "timeupdated": "1641331620",
+      "timebuildupdated": "1619808630"
+    },
+    "alpha_test": {
+      "buildid": "7922145",
+      "timeupdated": "1641331921",
+      "timebuildupdated": "1640106941"
+    }
+  },
+  "depot": {
+    "1045431": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7189880632941549130",
+          "size": "1087726868",
+          "download": "207809504"
+        }
+      }
+    },
+    "1045432": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4554623090476237948",
+          "size": "1083395861",
+          "download": "207396784"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6630776",
+        "timeupdated": "1641331620",
+        "timebuildupdated": "1619808630"
+      },
+      "alpha_test": {
+        "buildid": "7922145",
+        "timeupdated": "1641331921",
+        "timebuildupdated": "1640106941"
+      }
+    }
+  }
+}

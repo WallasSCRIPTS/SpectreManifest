@@ -1,0 +1,80 @@
+{
+  "name": "Fighties",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:57:09.650Z",
+  "branches": {
+    "public": {
+      "buildid": "1033497",
+      "timeupdated": "1458594436",
+      "timebuildupdated": "1458557056"
+    },
+    "mac2": {
+      "buildid": "731466",
+      "timebuildupdated": "1439453898"
+    },
+    "updatetest": {
+      "buildid": "830030",
+      "timebuildupdated": "1445733226"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "362811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2390610685139602761",
+          "size": "61933102",
+          "download": "38982848"
+        }
+      }
+    },
+    "362812": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "414440804964233834",
+          "size": "63953144",
+          "download": "26269568"
+        }
+      }
+    },
+    "362813": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3220646162881039128",
+          "size": "66691435",
+          "download": "41293264"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1033497",
+        "timeupdated": "1458594436",
+        "timebuildupdated": "1458557056"
+      },
+      "mac2": {
+        "buildid": "731466",
+        "timebuildupdated": "1439453898"
+      },
+      "updatetest": {
+        "buildid": "830030",
+        "timebuildupdated": "1445733226"
+      }
+    }
+  }
+}

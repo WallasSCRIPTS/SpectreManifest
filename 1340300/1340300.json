@@ -1,0 +1,60 @@
+{
+  "name": "Crazy Kung Fu",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:32.396Z",
+  "branches": {
+    "public": {
+      "buildid": "25179179",
+      "timeupdated": "1788837715",
+      "timebuildupdated": "1788837715"
+    },
+    "local": {
+      "buildid": "5374728",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1596635180",
+      "timebuildupdated": "1596635180"
+    }
+  },
+  "depot": {
+    "1340301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7520672883424351762",
+          "size": "2553713215",
+          "download": "612038192"
+        }
+      }
+    },
+    "1340302": {
+      "config": {
+        "oslist": "android"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1567140736632905106",
+          "size": "597560991",
+          "download": "541378848"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25179179",
+        "timeupdated": "1788837715",
+        "timebuildupdated": "1788837715"
+      },
+      "local": {
+        "buildid": "5374728",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1596635180",
+        "timebuildupdated": "1596635180"
+      }
+    }
+  }
+}

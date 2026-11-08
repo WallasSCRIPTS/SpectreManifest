@@ -1,0 +1,70 @@
+{
+  "name": "Rise for the Fight",
+  "source": "spectre",
+  "changenumber": 40634123,
+  "updated": "2026-11-06T23:11:41.381Z",
+  "branches": {
+    "public": {
+      "buildid": "24146860",
+      "timeupdated": "1783687736",
+      "timebuildupdated": "1783687707"
+    },
+    "playtest": {
+      "buildid": "25997679",
+      "description": "Test builds for new features, content, bug fixes, and more before being released in the default branch.",
+      "timeupdated": "1792184215",
+      "timebuildupdated": "1792184183"
+    }
+  },
+  "depot": {
+    "1871971": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5958994769887054612",
+          "size": "541064953",
+          "download": "103107440"
+        }
+      }
+    },
+    "1871972": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8494027979378143970",
+          "size": "508773833",
+          "download": "88816224"
+        }
+      }
+    },
+    "1871973": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2481006578333064313",
+          "size": "551479094",
+          "download": "108647840"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24146860",
+        "timeupdated": "1783687736",
+        "timebuildupdated": "1783687707"
+      },
+      "playtest": {
+        "buildid": "25997679",
+        "description": "Test builds for new features, content, bug fixes, and more before being released in the default branch.",
+        "timeupdated": "1792184215",
+        "timebuildupdated": "1792184183"
+      }
+    }
+  }
+}

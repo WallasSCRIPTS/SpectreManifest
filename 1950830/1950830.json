@@ -1,0 +1,70 @@
+{
+  "name": "Arena Brutal",
+  "source": "spectre",
+  "changenumber": 34878951,
+  "updated": "2026-11-06T23:13:37.319Z",
+  "branches": {
+    "public": {
+      "buildid": "9597550",
+      "timeupdated": "1664259996",
+      "timebuildupdated": "1664259914"
+    },
+    "testing": {
+      "buildid": "9650200",
+      "description": "Public testing branch",
+      "timeupdated": "1664883887",
+      "timebuildupdated": "1664883837"
+    }
+  },
+  "depot": {
+    "1950831": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5619445179651853447",
+          "size": "118919904",
+          "download": "85095472"
+        }
+      }
+    },
+    "1950832": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2658308055053919725",
+          "size": "125796023",
+          "download": "85908544"
+        }
+      }
+    },
+    "1950833": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "748000770433318756",
+          "size": "124813487",
+          "download": "86081104"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9597550",
+        "timeupdated": "1664259996",
+        "timebuildupdated": "1664259914"
+      },
+      "testing": {
+        "buildid": "9650200",
+        "description": "Public testing branch",
+        "timeupdated": "1664883887",
+        "timebuildupdated": "1664883837"
+      }
+    }
+  }
+}

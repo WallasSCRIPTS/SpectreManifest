@@ -1,0 +1,120 @@
+{
+  "name": "Kenshi",
+  "source": "spectre",
+  "changenumber": 40620874,
+  "updated": "2026-11-07T20:56:08.176Z",
+  "branches": {
+    "public": {
+      "buildid": "13871665",
+      "timeupdated": "1711990072",
+      "timebuildupdated": "1711552510"
+    },
+    "1.0.55": {
+      "buildid": "8118971",
+      "description": "previous stable version",
+      "timeupdated": "1679573082",
+      "timebuildupdated": "1643647004"
+    },
+    "experimental": {
+      "buildid": "13923771",
+      "description": "Very latest Kenshi updates, prone to crashes and bugs.",
+      "timeupdated": "1712068552",
+      "timebuildupdated": "1712067397"
+    },
+    "old_version_966": {
+      "buildid": "2205984",
+      "description": "an older version 0.97.6",
+      "timeupdated": "1525188278",
+      "timebuildupdated": "1508256025"
+    },
+    "older_version_69": {
+      "buildid": "306546",
+      "description": "an older but stable version (0.69)",
+      "timebuildupdated": "1403610403"
+    },
+    "oldland": {
+      "buildid": "1111885",
+      "description": "Old stable version 0.74, 32-bit support",
+      "timeupdated": "1462482602",
+      "timebuildupdated": "1462461765"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "233861": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5962268813919641662",
+          "size": "12317638705",
+          "download": "6159237328"
+        }
+      }
+    },
+    "468550": {
+      "manifests": {
+        "public": {
+          "gid": "989505602589646683",
+          "size": "859952553",
+          "download": "717488128"
+        }
+      },
+      "dlcappid": "468550"
+    },
+    "branches": {
+      "public": {
+        "buildid": "13871665",
+        "timeupdated": "1711990072",
+        "timebuildupdated": "1711552510"
+      },
+      "1.0.55": {
+        "buildid": "8118971",
+        "description": "previous stable version",
+        "timeupdated": "1679573082",
+        "timebuildupdated": "1643647004"
+      },
+      "experimental": {
+        "buildid": "13923771",
+        "description": "Very latest Kenshi updates, prone to crashes and bugs.",
+        "timeupdated": "1712068552",
+        "timebuildupdated": "1712067397"
+      },
+      "old_version_966": {
+        "buildid": "2205984",
+        "description": "an older version 0.97.6",
+        "timeupdated": "1525188278",
+        "timebuildupdated": "1508256025"
+      },
+      "older_version_69": {
+        "buildid": "306546",
+        "description": "an older but stable version (0.69)",
+        "timebuildupdated": "1403610403"
+      },
+      "oldland": {
+        "buildid": "1111885",
+        "description": "Old stable version 0.74, 32-bit support",
+        "timeupdated": "1462482602",
+        "timebuildupdated": "1462461765"
+      }
+    }
+  }
+}

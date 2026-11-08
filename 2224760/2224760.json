@@ -1,0 +1,70 @@
+{
+  "name": "Island Bender",
+  "source": "spectre",
+  "changenumber": 40309743,
+  "updated": "2026-11-06T23:19:33.207Z",
+  "branches": {
+    "public": {
+      "buildid": "25809807",
+      "timeupdated": "1791541703",
+      "timebuildupdated": "1791479161"
+    },
+    "multiplayer": {
+      "buildid": "26249341",
+      "description": "For Multiplayer builds",
+      "timeupdated": "1793120424",
+      "timebuildupdated": "1793120424"
+    },
+    "unstable": {
+      "buildid": "25969330",
+      "description": "For immediate builds",
+      "timeupdated": "1792093816",
+      "timebuildupdated": "1792093816"
+    }
+  },
+  "depot": {
+    "2224761": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4454126285210129283",
+          "size": "807766101",
+          "download": "133806448"
+        }
+      }
+    },
+    "2224762": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6244855560930622084",
+          "size": "806552341",
+          "download": "131872800"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25809807",
+        "timeupdated": "1791541703",
+        "timebuildupdated": "1791479161"
+      },
+      "multiplayer": {
+        "buildid": "26249341",
+        "description": "For Multiplayer builds",
+        "timeupdated": "1793120424",
+        "timebuildupdated": "1793120424"
+      },
+      "unstable": {
+        "buildid": "25969330",
+        "description": "For immediate builds",
+        "timeupdated": "1792093816",
+        "timebuildupdated": "1792093816"
+      }
+    }
+  }
+}

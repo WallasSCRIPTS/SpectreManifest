@@ -1,0 +1,102 @@
+{
+  "name": "Brigador: Up-Armored Edition",
+  "source": "spectre",
+  "changenumber": 39056620,
+  "updated": "2026-11-07T20:56:19.931Z",
+  "branches": {
+    "public": {
+      "buildid": "9047028",
+      "timeupdated": "1656705529",
+      "timebuildupdated": "1656704512"
+    },
+    "32b_nosupport": {
+      "buildid": "5902381",
+      "description": "Unsupported 32-bit branch for legacy installs",
+      "timeupdated": "1623243795",
+      "timebuildupdated": "1606776178"
+    },
+    "previous": {
+      "buildid": "2871356",
+      "timeupdated": "1529334184",
+      "timebuildupdated": "1529334184"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "274501": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7074970293599648472",
+          "size": "1061403973",
+          "download": "505929984"
+        }
+      }
+    },
+    "274502": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7108471176398810354",
+          "size": "1077023666",
+          "download": "516895264"
+        }
+      }
+    },
+    "274503": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7882677246633817318",
+          "size": "1063768890",
+          "download": "508389632"
+        }
+      }
+    },
+    "468270": {
+      "manifests": {
+        "public": {
+          "gid": "8912760490182109991",
+          "size": "450351776",
+          "download": "413887712"
+        }
+      },
+      "dlcappid": "468270"
+    },
+    "branches": {
+      "public": {
+        "buildid": "9047028",
+        "timeupdated": "1656705529",
+        "timebuildupdated": "1656704512"
+      },
+      "32b_nosupport": {
+        "buildid": "5902381",
+        "description": "Unsupported 32-bit branch for legacy installs",
+        "timeupdated": "1623243795",
+        "timebuildupdated": "1606776178"
+      },
+      "previous": {
+        "buildid": "2871356",
+        "timeupdated": "1529334184",
+        "timebuildupdated": "1529334184"
+      }
+    }
+  }
+}

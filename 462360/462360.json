@@ -1,0 +1,70 @@
+{
+  "name": "MilitAnt Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:58:03.997Z",
+  "branches": {
+    "public": {
+      "buildid": "1572843",
+      "timeupdated": "1484613539",
+      "timebuildupdated": "1484613269"
+    },
+    "demo_test": {
+      "buildid": "1621424",
+      "description": "MilitAnt Demo Testing",
+      "timeupdated": "1486680179",
+      "timebuildupdated": "1486680179"
+    },
+    "windows_mac_test": {
+      "buildid": "1568483",
+      "description": "win & mac demos test",
+      "timeupdated": "1484348255",
+      "timebuildupdated": "1484348255"
+    }
+  },
+  "depot": {
+    "462361": {
+      "manifests": {
+        "public": {
+          "gid": "8013172566698794531",
+          "size": "1418594638",
+          "download": "645141328"
+        }
+      }
+    },
+    "462362": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "462363": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "462364": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1572843",
+        "timeupdated": "1484613539",
+        "timebuildupdated": "1484613269"
+      },
+      "demo_test": {
+        "buildid": "1621424",
+        "description": "MilitAnt Demo Testing",
+        "timeupdated": "1486680179",
+        "timebuildupdated": "1486680179"
+      },
+      "windows_mac_test": {
+        "buildid": "1568483",
+        "description": "win & mac demos test",
+        "timeupdated": "1484348255",
+        "timebuildupdated": "1484348255"
+      }
+    }
+  }
+}

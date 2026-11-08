@@ -1,0 +1,76 @@
+{
+  "name": "Graalonline Era",
+  "source": "spectre",
+  "changenumber": 40643467,
+  "updated": "2026-11-06T23:23:18.834Z",
+  "branches": {
+    "public": {
+      "buildid": "16859063",
+      "timeupdated": "1793099433",
+      "timebuildupdated": "1735286129"
+    },
+    "beta": {
+      "buildid": "16859063",
+      "description": "Public opt-in beta — V6 desktop client, dispatched by the release tracker",
+      "timeupdated": "1735286457",
+      "timebuildupdated": "1735286129"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2358051": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4549705365142872780",
+          "size": "377728488",
+          "download": "74041472"
+        }
+      }
+    },
+    "2358052": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6742942663716424724",
+          "size": "213857702",
+          "download": "84822592"
+        }
+      }
+    },
+    "2358053": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6079129420747098735",
+          "size": "694298258",
+          "download": "121786560"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16859063",
+        "timeupdated": "1793099433",
+        "timebuildupdated": "1735286129"
+      },
+      "beta": {
+        "buildid": "16859063",
+        "description": "Public opt-in beta — V6 desktop client, dispatched by the release tracker",
+        "timeupdated": "1735286457",
+        "timebuildupdated": "1735286129"
+      }
+    }
+  }
+}

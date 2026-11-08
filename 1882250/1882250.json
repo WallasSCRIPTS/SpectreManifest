@@ -1,0 +1,67 @@
+{
+  "name": "Aluminium Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-06T23:13:26.524Z",
+  "branches": {
+    "public": {
+      "buildid": "9135171",
+      "timeupdated": "1658008736",
+      "timebuildupdated": "1658008392"
+    },
+    "beta": {
+      "buildid": "9135171",
+      "description": "Beta version",
+      "timeupdated": "1658008444",
+      "timebuildupdated": "1658008392"
+    }
+  },
+  "depot": {
+    "1882251": {
+      "manifests": {
+        "public": {
+          "gid": "7053460307836443952",
+          "size": "52977121",
+          "download": "38443104"
+        }
+      }
+    },
+    "1882252": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "820602371603305055",
+          "size": "6469399",
+          "download": "2075168"
+        }
+      }
+    },
+    "1882253": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2732863770156827729",
+          "size": "4574536",
+          "download": "1201376"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9135171",
+        "timeupdated": "1658008736",
+        "timebuildupdated": "1658008392"
+      },
+      "beta": {
+        "buildid": "9135171",
+        "description": "Beta version",
+        "timeupdated": "1658008444",
+        "timebuildupdated": "1658008392"
+      }
+    }
+  }
+}

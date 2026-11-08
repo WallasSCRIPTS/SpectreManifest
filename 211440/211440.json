@@ -1,0 +1,102 @@
+{
+  "name": "Adventures of Shuggy",
+  "source": "spectre",
+  "changenumber": 39423863,
+  "updated": "2026-11-07T20:56:03.224Z",
+  "branches": {
+    "public": {
+      "buildid": "9994563",
+      "timeupdated": "1669147079",
+      "timebuildupdated": "1669147079"
+    },
+    "linux32": {
+      "buildid": "4179613",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609452542",
+      "timebuildupdated": "1568041989"
+    },
+    "oldversion": {
+      "buildid": "209668",
+      "timebuildupdated": "1394458205"
+    }
+  },
+  "depot": {
+    "211441": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1458546208947690996",
+          "size": "146080904",
+          "download": "0"
+        }
+      }
+    },
+    "211442": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1075288559654083205",
+          "size": "99047733",
+          "download": "73524960"
+        }
+      }
+    },
+    "211443": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8616054860446881600",
+          "size": "111326691",
+          "download": "76419936"
+        }
+      }
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "9994563",
+        "timeupdated": "1669147079",
+        "timebuildupdated": "1669147079"
+      },
+      "linux32": {
+        "buildid": "4179613",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609452542",
+        "timebuildupdated": "1568041989"
+      },
+      "oldversion": {
+        "buildid": "209668",
+        "timebuildupdated": "1394458205"
+      }
+    }
+  }
+}

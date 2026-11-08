@@ -1,0 +1,58 @@
+{
+  "name": "Machine Heart",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:23:21.864Z",
+  "branches": {
+    "public": {
+      "buildid": "11199245",
+      "timeupdated": "1683726171",
+      "timebuildupdated": "1683726171"
+    },
+    "mac_branch": {
+      "buildid": "11200559",
+      "description": "branch for mac",
+      "timeupdated": "1683735590",
+      "timebuildupdated": "1683735590"
+    }
+  },
+  "depot": {
+    "2382612": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3531637586660285378",
+          "size": "3492433663",
+          "download": "724943456"
+        }
+      }
+    },
+    "2382613": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6712122247268154736",
+          "size": "3518029449",
+          "download": "733429024"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11199245",
+        "timeupdated": "1683726171",
+        "timebuildupdated": "1683726171"
+      },
+      "mac_branch": {
+        "buildid": "11200559",
+        "description": "branch for mac",
+        "timeupdated": "1683735590",
+        "timebuildupdated": "1683735590"
+      }
+    }
+  }
+}

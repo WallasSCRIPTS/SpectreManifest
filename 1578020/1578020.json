@@ -1,0 +1,60 @@
+{
+  "name": "Rat Race",
+  "source": "spectre",
+  "changenumber": 37447702,
+  "updated": "2026-11-05T14:57:23.765Z",
+  "branches": {
+    "public": {
+      "buildid": "13359261",
+      "timeupdated": "1707007222",
+      "timebuildupdated": "1707007114"
+    },
+    "local": {
+      "buildid": "13290692",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1706367230",
+      "timebuildupdated": "1706367230"
+    }
+  },
+  "depot": {
+    "1578021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8233752121631858787",
+          "size": "407871409",
+          "download": "155333536"
+        }
+      }
+    },
+    "1578023": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2969474638761420860",
+          "size": "445638406",
+          "download": "163563920"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13359261",
+        "timeupdated": "1707007222",
+        "timebuildupdated": "1707007114"
+      },
+      "local": {
+        "buildid": "13290692",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1706367230",
+        "timebuildupdated": "1706367230"
+      }
+    }
+  }
+}

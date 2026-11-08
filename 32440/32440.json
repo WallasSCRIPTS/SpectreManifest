@@ -1,0 +1,84 @@
+{
+  "name": "LEGO® Star Wars™: The Complete Saga",
+  "source": "spectre",
+  "changenumber": 40699604,
+  "updated": "2026-11-07T20:55:50.873Z",
+  "branches": {
+    "public": {
+      "buildid": "1017673",
+      "timeupdated": "1458747710",
+      "timebuildupdated": "1457604181"
+    },
+    "domesticated_internal": {
+      "buildid": "1017673",
+      "timebuildupdated": "1457604181"
+    },
+    "local": {
+      "buildid": "1017670",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1457604135"
+    }
+  },
+  "depot": {
+    "32441": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4358579234166114438",
+          "size": "4676822480",
+          "download": "0"
+        }
+      }
+    },
+    "32442": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "56539961887986393",
+          "size": "4725986986",
+          "download": "4605226272"
+        }
+      }
+    },
+    "32443": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1545834275898559130",
+          "size": "32684042",
+          "download": "19271136"
+        }
+      }
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1017673",
+        "timeupdated": "1458747710",
+        "timebuildupdated": "1457604181"
+      },
+      "domesticated_internal": {
+        "buildid": "1017673",
+        "timebuildupdated": "1457604181"
+      },
+      "local": {
+        "buildid": "1017670",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1457604135"
+      }
+    }
+  }
+}

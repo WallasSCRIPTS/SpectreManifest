@@ -1,0 +1,63 @@
+{
+  "name": "WestFallen",
+  "source": "spectre",
+  "changenumber": 34879931,
+  "updated": "2026-11-06T23:15:25.386Z",
+  "branches": {
+    "public": {
+      "buildid": "10282642",
+      "timeupdated": "1673271797",
+      "timebuildupdated": "1673271181"
+    },
+    "beta-testing": {
+      "buildid": "14407114",
+      "description": "Break things!",
+      "timeupdated": "1715971773",
+      "timebuildupdated": "1715971773"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1974111": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4061382038153055696",
+          "size": "577487097",
+          "download": "461842336"
+        }
+      }
+    },
+    "1974112": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10282642",
+        "timeupdated": "1673271797",
+        "timebuildupdated": "1673271181"
+      },
+      "beta-testing": {
+        "buildid": "14407114",
+        "description": "Break things!",
+        "timeupdated": "1715971773",
+        "timebuildupdated": "1715971773"
+      }
+    }
+  }
+}

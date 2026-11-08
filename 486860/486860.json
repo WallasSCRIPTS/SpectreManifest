@@ -1,0 +1,118 @@
+{
+  "name": "MMORPG Tycoon 2",
+  "source": "spectre",
+  "changenumber": 40661045,
+  "updated": "2026-11-07T20:58:12.312Z",
+  "branches": {
+    "public": {
+      "buildid": "24993678",
+      "timeupdated": "1787924723",
+      "timebuildupdated": "1787924380"
+    },
+    "next": {
+      "buildid": "26479537",
+      "description": "Public preview builds of future features",
+      "timeupdated": "1793953772",
+      "timebuildupdated": "1793953772"
+    },
+    "test": {
+      "buildid": "25929256",
+      "description": "Public test build",
+      "timeupdated": "1791968256",
+      "timebuildupdated": "1791968256"
+    },
+    "past": {
+      "buildid": "24592252",
+      "description": "Very old build for regression testing",
+      "timeupdated": "1786166592",
+      "timebuildupdated": "1786017281"
+    }
+  },
+  "depot": {
+    "486861": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1529127425672609946",
+          "size": "485508010",
+          "download": "212183728"
+        }
+      }
+    },
+    "486862": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4648333094225862786",
+          "size": "484896764",
+          "download": "211720112"
+        }
+      }
+    },
+    "486863": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3347378565668526723",
+          "size": "477536094",
+          "download": "214174848"
+        }
+      }
+    },
+    "486864": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4657440938258456087",
+          "size": "442749218",
+          "download": "203304624"
+        }
+      }
+    },
+    "486865": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7179305304164892794",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24993678",
+        "timeupdated": "1787924723",
+        "timebuildupdated": "1787924380"
+      },
+      "next": {
+        "buildid": "26479537",
+        "description": "Public preview builds of future features",
+        "timeupdated": "1793953772",
+        "timebuildupdated": "1793953772"
+      },
+      "test": {
+        "buildid": "25929256",
+        "description": "Public test build",
+        "timeupdated": "1791968256",
+        "timebuildupdated": "1791968256"
+      },
+      "past": {
+        "buildid": "24592252",
+        "description": "Very old build for regression testing",
+        "timeupdated": "1786166592",
+        "timebuildupdated": "1786017281"
+      }
+    }
+  }
+}

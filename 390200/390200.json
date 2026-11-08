@@ -1,0 +1,56 @@
+{
+  "name": "Queen's Quest: Tower of Darkness",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:27.926Z",
+  "branches": {
+    "public": {
+      "buildid": "750200",
+      "timebuildupdated": "1440596484"
+    }
+  },
+  "depot": {
+    "390201": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5486178295507705703",
+          "size": "1056427881",
+          "download": "498175744"
+        }
+      }
+    },
+    "390202": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6053074190872418515",
+          "size": "1368960701",
+          "download": "663207216"
+        }
+      }
+    },
+    "390203": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2041691875882617776",
+          "size": "1326826440",
+          "download": "654637248"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "750200",
+        "timebuildupdated": "1440596484"
+      }
+    }
+  }
+}

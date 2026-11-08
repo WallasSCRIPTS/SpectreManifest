@@ -1,0 +1,75 @@
+{
+  "name": "Forestry",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:55.886Z",
+  "branches": {
+    "public": {
+      "buildid": "1743751",
+      "timeupdated": "1491672730",
+      "timebuildupdated": "1491671855"
+    },
+    "local": {
+      "buildid": "1673351",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1488828241",
+      "timebuildupdated": "1488828241"
+    },
+    "testing": {
+      "buildid": "1743751",
+      "timeupdated": "1491671958",
+      "timebuildupdated": "1491671855"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "574011": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "707858545252204185",
+          "size": "1609325380",
+          "download": "452754896"
+        }
+      }
+    },
+    "574012": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1743751",
+        "timeupdated": "1491672730",
+        "timebuildupdated": "1491671855"
+      },
+      "local": {
+        "buildid": "1673351",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1488828241",
+        "timebuildupdated": "1488828241"
+      },
+      "testing": {
+        "buildid": "1743751",
+        "timeupdated": "1491671958",
+        "timebuildupdated": "1491671855"
+      }
+    }
+  }
+}

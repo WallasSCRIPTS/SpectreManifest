@@ -1,0 +1,58 @@
+{
+  "name": "Troll Patrol",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:28.788Z",
+  "branches": {
+    "public": {
+      "buildid": "15943923",
+      "timeupdated": "1728201402",
+      "timebuildupdated": "1728201402"
+    },
+    "beta": {
+      "buildid": "15943910",
+      "description": "Test new features just before release",
+      "timeupdated": "1728201116",
+      "timebuildupdated": "1728201116"
+    }
+  },
+  "depot": {
+    "1331651": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8513275250690440903",
+          "size": "979865687",
+          "download": "304618912"
+        }
+      }
+    },
+    "1331652": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "745666467891193013",
+          "size": "417795516",
+          "download": "245162368"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15943923",
+        "timeupdated": "1728201402",
+        "timebuildupdated": "1728201402"
+      },
+      "beta": {
+        "buildid": "15943910",
+        "description": "Test new features just before release",
+        "timeupdated": "1728201116",
+        "timebuildupdated": "1728201116"
+      }
+    }
+  }
+}

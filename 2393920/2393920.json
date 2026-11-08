@@ -1,0 +1,80 @@
+{
+  "name": "Angeline Era",
+  "source": "spectre",
+  "changenumber": 39454368,
+  "updated": "2026-11-06T23:23:23.076Z",
+  "branches": {
+    "public": {
+      "buildid": "22739990",
+      "timeupdated": "1775873676",
+      "timebuildupdated": "1775873542"
+    },
+    "beta": {
+      "buildid": "22173212",
+      "description": "Beta patches",
+      "timeupdated": "1772519149",
+      "timebuildupdated": "1772519087"
+    },
+    "44.0": {
+      "buildid": "21475489",
+      "description": "44.0 (2026 Jan 12)",
+      "timeupdated": "1768972396",
+      "timebuildupdated": "1768289916"
+    }
+  },
+  "depot": {
+    "2393921": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "29562499191676613",
+          "size": "2311372835",
+          "download": "506196592"
+        }
+      }
+    },
+    "2393922": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3497862689676366404",
+          "size": "2363663417",
+          "download": "522667568"
+        }
+      }
+    },
+    "4166460": {
+      "manifests": {
+        "public": {
+          "gid": "5116852819612952005",
+          "size": "39889005",
+          "download": "38372416"
+        }
+      },
+      "dlcappid": "4166460"
+    },
+    "branches": {
+      "public": {
+        "buildid": "22739990",
+        "timeupdated": "1775873676",
+        "timebuildupdated": "1775873542"
+      },
+      "beta": {
+        "buildid": "22173212",
+        "description": "Beta patches",
+        "timeupdated": "1772519149",
+        "timebuildupdated": "1772519087"
+      },
+      "44.0": {
+        "buildid": "21475489",
+        "description": "44.0 (2026 Jan 12)",
+        "timeupdated": "1768972396",
+        "timebuildupdated": "1768289916"
+      }
+    }
+  }
+}

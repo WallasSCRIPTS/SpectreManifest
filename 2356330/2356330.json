@@ -1,0 +1,58 @@
+{
+  "name": "Candlelight: Lament",
+  "source": "spectre",
+  "changenumber": 39358973,
+  "updated": "2026-11-06T23:23:18.675Z",
+  "branches": {
+    "public": {
+      "buildid": "16917939",
+      "timeupdated": "1736172243",
+      "timebuildupdated": "1736172243"
+    },
+    "macostest": {
+      "buildid": "15279309",
+      "description": "测试苹果电脑",
+      "timeupdated": "1722990446",
+      "timebuildupdated": "1722961663"
+    }
+  },
+  "depot": {
+    "2356331": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "407321048810453284",
+          "size": "1166406655",
+          "download": "243826400"
+        }
+      }
+    },
+    "2356332": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7821406659511519513",
+          "size": "1189582075",
+          "download": "251176432"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16917939",
+        "timeupdated": "1736172243",
+        "timebuildupdated": "1736172243"
+      },
+      "macostest": {
+        "buildid": "15279309",
+        "description": "测试苹果电脑",
+        "timeupdated": "1722990446",
+        "timebuildupdated": "1722961663"
+      }
+    }
+  }
+}

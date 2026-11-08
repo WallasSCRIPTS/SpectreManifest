@@ -1,0 +1,70 @@
+{
+  "name": "Toki Tori 2+",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:00.533Z",
+  "branches": {
+    "public": {
+      "buildid": "5360257",
+      "timeupdated": "1596297307",
+      "timebuildupdated": "1596297307"
+    }
+  },
+  "depot": {
+    "201421": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3669378127293817350",
+          "size": "622132687",
+          "download": "520877216"
+        }
+      }
+    },
+    "201422": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7240427626966774593",
+          "size": "631604781",
+          "download": "513186976"
+        }
+      }
+    },
+    "201423": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8484050616341744552",
+          "size": "642263796",
+          "download": "515466848"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "5360257",
+        "timeupdated": "1596297307",
+        "timebuildupdated": "1596297307"
+      }
+    }
+  }
+}

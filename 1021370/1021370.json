@@ -1,0 +1,58 @@
+{
+  "name": "Slave RPG",
+  "source": "spectre",
+  "changenumber": 34843906,
+  "updated": "2026-11-07T21:02:32.129Z",
+  "branches": {
+    "public": {
+      "buildid": "11223761",
+      "timeupdated": "1684103249",
+      "timebuildupdated": "1683953554"
+    }
+  },
+  "depot": {
+    "1021371": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3673986864637728302",
+          "size": "363284371",
+          "download": "99899600"
+        }
+      }
+    },
+    "1021372": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4406282157743940956",
+          "size": "369714491",
+          "download": "101964144"
+        }
+      }
+    },
+    "1021373": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1666605721328004369",
+          "size": "383967111",
+          "download": "103012800"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11223761",
+        "timeupdated": "1684103249",
+        "timebuildupdated": "1683953554"
+      }
+    }
+  }
+}

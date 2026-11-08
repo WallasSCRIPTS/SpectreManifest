@@ -1,0 +1,77 @@
+{
+  "name": "Escape from the Cosmic Abyss",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:23.006Z",
+  "branches": {
+    "public": {
+      "buildid": "6199923",
+      "timeupdated": "1612612712",
+      "timebuildupdated": "1612611414"
+    },
+    "beta": {
+      "buildid": "6199923",
+      "timeupdated": "1612611637",
+      "timebuildupdated": "1612611414"
+    },
+    "glibc-linux-compatibility": {
+      "buildid": "6229746",
+      "description": "Branch to try out in case you're facing linux errors and compatibility issues",
+      "timeupdated": "1613122013",
+      "timebuildupdated": "1613121925"
+    }
+  },
+  "depot": {
+    "1315251": {
+      "manifests": {
+        "public": {
+          "gid": "6249943122564135755",
+          "size": "222588512",
+          "download": "75326704"
+        }
+      }
+    },
+    "1315252": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4083699199687214967",
+          "size": "61658300",
+          "download": "16542656"
+        }
+      }
+    },
+    "1315253": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3012595264263896567",
+          "size": "81011199",
+          "download": "22539824"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6199923",
+        "timeupdated": "1612612712",
+        "timebuildupdated": "1612611414"
+      },
+      "beta": {
+        "buildid": "6199923",
+        "timeupdated": "1612611637",
+        "timebuildupdated": "1612611414"
+      },
+      "glibc-linux-compatibility": {
+        "buildid": "6229746",
+        "description": "Branch to try out in case you're facing linux errors and compatibility issues",
+        "timeupdated": "1613122013",
+        "timebuildupdated": "1613121925"
+      }
+    }
+  }
+}

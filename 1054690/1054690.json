@@ -1,0 +1,67 @@
+{
+  "name": "Dreadlands",
+  "source": "spectre",
+  "changenumber": 40628222,
+  "updated": "2026-11-07T21:02:49.026Z",
+  "branches": {
+    "public": {
+      "buildid": "8261336",
+      "timeupdated": "1645690497",
+      "timebuildupdated": "1645641101"
+    },
+    "bypass_launcher": {
+      "buildid": "8261336",
+      "description": "start without launcher",
+      "timeupdated": "1645690472",
+      "timebuildupdated": "1645641101"
+    },
+    "dreadlands_test": {
+      "buildid": "25624049",
+      "description": "test",
+      "timeupdated": "1790760982",
+      "timebuildupdated": "1790760749"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1054691": {
+      "manifests": {
+        "public": {
+          "gid": "2398792525792027025",
+          "size": "13931761149",
+          "download": "14027381872"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8261336",
+        "timeupdated": "1645690497",
+        "timebuildupdated": "1645641101"
+      },
+      "bypass_launcher": {
+        "buildid": "8261336",
+        "description": "start without launcher",
+        "timeupdated": "1645690472",
+        "timebuildupdated": "1645641101"
+      },
+      "dreadlands_test": {
+        "buildid": "25624049",
+        "description": "test",
+        "timeupdated": "1790760982",
+        "timebuildupdated": "1790760749"
+      }
+    }
+  }
+}

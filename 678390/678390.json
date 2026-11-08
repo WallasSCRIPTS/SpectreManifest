@@ -1,0 +1,63 @@
+{
+  "name": "Office Management 101",
+  "source": "spectre",
+  "changenumber": 39717289,
+  "updated": "2026-11-07T20:59:44.478Z",
+  "branches": {
+    "public": {
+      "buildid": "10830844",
+      "timeupdated": "1679504200",
+      "timebuildupdated": "1679503479"
+    },
+    "alpha": {
+      "buildid": "10830844",
+      "description": "Public alpha version",
+      "timeupdated": "1679504185",
+      "timebuildupdated": "1679503479"
+    }
+  },
+  "depot": {
+    "678391": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2649723329467402685",
+          "size": "150507869",
+          "download": "82464608"
+        }
+      }
+    },
+    "678393": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2099105190588648452",
+          "size": "112780270",
+          "download": "82194224"
+        }
+      }
+    },
+    "678394": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10830844",
+        "timeupdated": "1679504200",
+        "timebuildupdated": "1679503479"
+      },
+      "alpha": {
+        "buildid": "10830844",
+        "description": "Public alpha version",
+        "timeupdated": "1679504185",
+        "timebuildupdated": "1679503479"
+      }
+    }
+  }
+}

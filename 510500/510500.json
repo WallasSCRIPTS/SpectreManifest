@@ -1,0 +1,71 @@
+{
+  "name": "Executive Assault 2",
+  "source": "spectre",
+  "changenumber": 40641448,
+  "updated": "2026-11-07T20:58:23.902Z",
+  "branches": {
+    "public": {
+      "buildid": "26108499",
+      "timeupdated": "1792663206",
+      "timebuildupdated": "1792591669"
+    },
+    "legacyversion": {
+      "buildid": "20268041",
+      "description": "Choose this to play the legacy version of the game",
+      "timeupdated": "1762858694",
+      "timebuildupdated": "1759744138"
+    }
+  },
+  "depot": {
+    "510501": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5060869544580535042",
+          "size": "12407576550",
+          "download": "3940254624"
+        }
+      }
+    },
+    "510502": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4440687639421765328",
+          "size": "12377260969",
+          "download": "4269103584"
+        }
+      }
+    },
+    "3593270": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6665065223657513305",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "3593270"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26108499",
+        "timeupdated": "1792663206",
+        "timebuildupdated": "1792591669"
+      },
+      "legacyversion": {
+        "buildid": "20268041",
+        "description": "Choose this to play the legacy version of the game",
+        "timeupdated": "1762858694",
+        "timebuildupdated": "1759744138"
+      }
+    }
+  }
+}

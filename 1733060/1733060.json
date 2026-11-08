@@ -1,0 +1,106 @@
+{
+  "name": "Ever Seen A Cat?",
+  "source": "spectre",
+  "changenumber": 37450809,
+  "updated": "2026-11-06T23:09:40.386Z",
+  "branches": {
+    "public": {
+      "buildid": "9844476",
+      "timeupdated": "1667653736",
+      "timebuildupdated": "1667303110"
+    },
+    "1.1.8": {
+      "buildid": "9541547",
+      "description": "Older release.",
+      "timeupdated": "1666019701",
+      "timebuildupdated": "1663536231"
+    },
+    "cursor-refresh": {
+      "buildid": "9828613",
+      "description": "A build that refreshes the cursor image often.",
+      "timeupdated": "1667061200",
+      "timebuildupdated": "1667061192"
+    },
+    "cursor-update": {
+      "buildid": "9828559",
+      "description": "A build that updates the cursor in a delayed wya.",
+      "timeupdated": "1667059830",
+      "timebuildupdated": "1667059804"
+    },
+    "freeze-fix": {
+      "buildid": "9584679",
+      "description": "Custom build that fixed game freezing at startup.  New versions should have these changes.",
+      "timeupdated": "1666020195",
+      "timebuildupdated": "1664041059"
+    },
+    "low-dpi": {
+      "buildid": "9828527",
+      "description": "A build that doesn't sense HiDPI.",
+      "timeupdated": "1667058981",
+      "timebuildupdated": "1667058940"
+    }
+  },
+  "depot": {
+    "1733061": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7710335829712522203",
+          "size": "76962536",
+          "download": "69879392"
+        }
+      }
+    },
+    "1733062": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7211764411587259892",
+          "size": "78477096",
+          "download": "70627072"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9844476",
+        "timeupdated": "1667653736",
+        "timebuildupdated": "1667303110"
+      },
+      "1.1.8": {
+        "buildid": "9541547",
+        "description": "Older release.",
+        "timeupdated": "1666019701",
+        "timebuildupdated": "1663536231"
+      },
+      "cursor-refresh": {
+        "buildid": "9828613",
+        "description": "A build that refreshes the cursor image often.",
+        "timeupdated": "1667061200",
+        "timebuildupdated": "1667061192"
+      },
+      "cursor-update": {
+        "buildid": "9828559",
+        "description": "A build that updates the cursor in a delayed wya.",
+        "timeupdated": "1667059830",
+        "timebuildupdated": "1667059804"
+      },
+      "freeze-fix": {
+        "buildid": "9584679",
+        "description": "Custom build that fixed game freezing at startup.  New versions should have these changes.",
+        "timeupdated": "1666020195",
+        "timebuildupdated": "1664041059"
+      },
+      "low-dpi": {
+        "buildid": "9828527",
+        "description": "A build that doesn't sense HiDPI.",
+        "timeupdated": "1667058981",
+        "timebuildupdated": "1667058940"
+      }
+    }
+  }
+}

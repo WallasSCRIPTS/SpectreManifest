@@ -1,0 +1,64 @@
+{
+  "name": "Turbo Dismount",
+  "source": "spectre",
+  "changenumber": 37432709,
+  "updated": "2026-11-07T20:56:16.450Z",
+  "branches": {
+    "public": {
+      "buildid": "3161504",
+      "timeupdated": "1538054517",
+      "timebuildupdated": "1538050704"
+    },
+    "openbeta": {
+      "buildid": "3161504",
+      "description": "Public beta",
+      "timeupdated": "1538054505",
+      "timebuildupdated": "1538050704"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "263761": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "999958597041389778",
+          "size": "444981779",
+          "download": "162612464"
+        }
+      }
+    },
+    "263762": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3386235051477497285",
+          "size": "446439525",
+          "download": "165073024"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3161504",
+        "timeupdated": "1538054517",
+        "timebuildupdated": "1538050704"
+      },
+      "openbeta": {
+        "buildid": "3161504",
+        "description": "Public beta",
+        "timeupdated": "1538054505",
+        "timebuildupdated": "1538050704"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Chicago 1930",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:20.375Z",
+  "branches": {
+    "public": {
+      "buildid": "1779963",
+      "timeupdated": "1493132709",
+      "timebuildupdated": "1493132709"
+    },
+    "beta": {
+      "buildid": "2952450",
+      "timeupdated": "1531832508",
+      "timebuildupdated": "1531832508"
+    }
+  },
+  "depot": {
+    "623921": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7584192606000980964",
+          "size": "888796381",
+          "download": "495161888"
+        }
+      }
+    },
+    "623922": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3598527583612481498",
+          "size": "930670276",
+          "download": "533405872"
+        }
+      }
+    },
+    "623923": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1779963",
+        "timeupdated": "1493132709",
+        "timebuildupdated": "1493132709"
+      },
+      "beta": {
+        "buildid": "2952450",
+        "timeupdated": "1531832508",
+        "timebuildupdated": "1531832508"
+      }
+    }
+  }
+}

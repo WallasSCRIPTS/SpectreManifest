@@ -1,0 +1,70 @@
+{
+  "name": "Helium Electric",
+  "source": "spectre",
+  "changenumber": 34872501,
+  "updated": "2026-11-06T23:09:47.292Z",
+  "branches": {
+    "public": {
+      "buildid": "7762180",
+      "timeupdated": "1637663683",
+      "timebuildupdated": "1637663604"
+    },
+    "testing": {
+      "buildid": "7558577",
+      "description": "for tests only",
+      "timeupdated": "1634634916",
+      "timebuildupdated": "1634634028"
+    }
+  },
+  "depot": {
+    "1786101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3193034945811610267",
+          "size": "78293352",
+          "download": "45969696"
+        }
+      }
+    },
+    "1786102": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7297978980063276672",
+          "size": "128152087",
+          "download": "57246064"
+        }
+      }
+    },
+    "1786103": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6755488662392351642",
+          "size": "87910310",
+          "download": "48291872"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7762180",
+        "timeupdated": "1637663683",
+        "timebuildupdated": "1637663604"
+      },
+      "testing": {
+        "buildid": "7558577",
+        "description": "for tests only",
+        "timeupdated": "1634634916",
+        "timebuildupdated": "1634634028"
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "name": "VBA-M",
+  "source": "spectre",
+  "changenumber": 40626862,
+  "updated": "2026-11-06T21:03:44.188Z",
+  "branches": {
+    "public": {
+      "buildid": "20833794",
+      "timeupdated": "1763418495",
+      "timebuildupdated": "1763416090"
+    },
+    "nightly": {
+      "buildid": "26456804",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793878755",
+      "timebuildupdated": "1793878755"
+    }
+  },
+  "depot": {
+    "1227455": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1482677640388060886",
+          "size": "2347025",
+          "download": "691584"
+        }
+      },
+      "dlcappid": "1227455"
+    },
+    "1789990": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7089143909736905843",
+          "size": "2457672",
+          "download": "588096"
+        }
+      },
+      "dlcappid": "1227455"
+    },
+    "1789991": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "130056215692440317",
+          "size": "4160688",
+          "download": "875776"
+        }
+      },
+      "dlcappid": "1227455"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833794",
+        "timeupdated": "1763418495",
+        "timebuildupdated": "1763416090"
+      },
+      "nightly": {
+        "buildid": "26456804",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793878755",
+        "timebuildupdated": "1793878755"
+      }
+    }
+  }
+}

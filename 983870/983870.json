@@ -1,0 +1,94 @@
+{
+  "name": "FOUNDRY",
+  "source": "spectre",
+  "changenumber": 40688088,
+  "updated": "2026-11-07T21:02:13.524Z",
+  "branches": {
+    "public": {
+      "buildid": "23077581",
+      "timeupdated": "1777902270",
+      "timebuildupdated": "1777901440"
+    },
+    "experimental_update5": {
+      "buildid": "26414549",
+      "description": "Experimental Update 5",
+      "timeupdated": "1793734871",
+      "timebuildupdated": "1793734871"
+    },
+    "legacy_update_1": {
+      "buildid": "20466022",
+      "description": "Legacy Update 1",
+      "timeupdated": "1760974700",
+      "timebuildupdated": "1760974222"
+    },
+    "legacy_update_2_2": {
+      "buildid": "20263526",
+      "description": "Legacy Update 2.2",
+      "timeupdated": "1768993475",
+      "timebuildupdated": "1759708003"
+    },
+    "legacy_update_3_0": {
+      "buildid": "21699867",
+      "description": "Legacy Update 3.0",
+      "timeupdated": "1769699463",
+      "timebuildupdated": "1769693439"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "983872": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5980655079533054659",
+          "size": "6010128092",
+          "download": "3733369088"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23077581",
+        "timeupdated": "1777902270",
+        "timebuildupdated": "1777901440"
+      },
+      "experimental_update5": {
+        "buildid": "26414549",
+        "description": "Experimental Update 5",
+        "timeupdated": "1793734871",
+        "timebuildupdated": "1793734871"
+      },
+      "legacy_update_1": {
+        "buildid": "20466022",
+        "description": "Legacy Update 1",
+        "timeupdated": "1760974700",
+        "timebuildupdated": "1760974222"
+      },
+      "legacy_update_2_2": {
+        "buildid": "20263526",
+        "description": "Legacy Update 2.2",
+        "timeupdated": "1768993475",
+        "timebuildupdated": "1759708003"
+      },
+      "legacy_update_3_0": {
+        "buildid": "21699867",
+        "description": "Legacy Update 3.0",
+        "timeupdated": "1769699463",
+        "timebuildupdated": "1769693439"
+      }
+    }
+  }
+}

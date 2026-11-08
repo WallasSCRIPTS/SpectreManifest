@@ -1,0 +1,58 @@
+{
+  "name": "Imperial Ambitions",
+  "source": "spectre",
+  "changenumber": 40558598,
+  "updated": "2026-11-06T23:19:32.627Z",
+  "branches": {
+    "public": {
+      "buildid": "26269625",
+      "timeupdated": "1793192196",
+      "timebuildupdated": "1793188857"
+    },
+    "public-testing-branch": {
+      "buildid": "26412437",
+      "description": "For testing next patch",
+      "timeupdated": "1793728551",
+      "timebuildupdated": "1793728551"
+    }
+  },
+  "depot": {
+    "2219391": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "288378504632034029",
+          "size": "539525990",
+          "download": "236178192"
+        }
+      }
+    },
+    "2219392": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5145818517482654156",
+          "size": "564370848",
+          "download": "245520912"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26269625",
+        "timeupdated": "1793192196",
+        "timebuildupdated": "1793188857"
+      },
+      "public-testing-branch": {
+        "buildid": "26412437",
+        "description": "For testing next patch",
+        "timeupdated": "1793728551",
+        "timebuildupdated": "1793728551"
+      }
+    }
+  }
+}

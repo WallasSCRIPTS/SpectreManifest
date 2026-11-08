@@ -1,0 +1,61 @@
+{
+  "name": "Escape First Alchemist",
+  "source": "spectre",
+  "changenumber": 38534761,
+  "updated": "2026-11-06T23:17:31.097Z",
+  "branches": {
+    "public": {
+      "buildid": "20383543",
+      "timeupdated": "1760436098",
+      "timebuildupdated": "1760436065"
+    },
+    "beta": {
+      "buildid": "20383543",
+      "description": "we test here",
+      "timeupdated": "1760436111",
+      "timebuildupdated": "1760436065"
+    },
+    "lowenddevicebuild": {
+      "buildid": "20383831",
+      "description": "Low quality build for lower-end devices",
+      "timeupdated": "1760437391",
+      "timebuildupdated": "1760437351"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2094321": {
+      "manifests": {
+        "public": {
+          "gid": "5549237541949163376",
+          "size": "7689860667",
+          "download": "3397170384"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20383543",
+        "timeupdated": "1760436098",
+        "timebuildupdated": "1760436065"
+      },
+      "beta": {
+        "buildid": "20383543",
+        "description": "we test here",
+        "timeupdated": "1760436111",
+        "timebuildupdated": "1760436065"
+      },
+      "lowenddevicebuild": {
+        "buildid": "20383831",
+        "description": "Low quality build for lower-end devices",
+        "timeupdated": "1760437391",
+        "timebuildupdated": "1760437351"
+      }
+    }
+  }
+}

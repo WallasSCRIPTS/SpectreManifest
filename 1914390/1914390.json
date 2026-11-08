@@ -1,0 +1,79 @@
+{
+  "name": "Déjà Drift",
+  "source": "spectre",
+  "changenumber": 36726735,
+  "updated": "2026-11-06T23:13:30.383Z",
+  "branches": {
+    "public": {
+      "buildid": "23839370",
+      "timeupdated": "1781997998",
+      "timebuildupdated": "1781997821"
+    },
+    "linux-beta": {
+      "buildid": "23839373",
+      "description": "Beta testing for linux support",
+      "timeupdated": "1781998068",
+      "timebuildupdated": "1781997837"
+    }
+  },
+  "depot": {
+    "1914391": {
+      "manifests": {
+        "public": {
+          "gid": "4358488879199978413",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "1914392": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3129264500278920710",
+          "size": "1164986851",
+          "download": "360034208"
+        }
+      }
+    },
+    "1914393": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1083360115186692488",
+          "size": "1164986851",
+          "download": "359972416"
+        }
+      }
+    },
+    "1914397": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3129535910037137726",
+          "size": "1398575726",
+          "download": "393622992"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23839370",
+        "timeupdated": "1781997998",
+        "timebuildupdated": "1781997821"
+      },
+      "linux-beta": {
+        "buildid": "23839373",
+        "description": "Beta testing for linux support",
+        "timeupdated": "1781998068",
+        "timebuildupdated": "1781997837"
+      }
+    }
+  }
+}

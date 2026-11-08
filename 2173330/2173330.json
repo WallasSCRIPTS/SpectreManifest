@@ -1,0 +1,58 @@
+{
+  "name": "The Kill Zone",
+  "source": "spectre",
+  "changenumber": 34888083,
+  "updated": "2026-11-06T23:19:27.185Z",
+  "branches": {
+    "public": {
+      "buildid": "20394411",
+      "timeupdated": "1760489642",
+      "timebuildupdated": "1760488243"
+    },
+    "lite": {
+      "buildid": "20567341",
+      "description": "4.9 GB required for installation. Levels are downloaded and cached as needed.",
+      "timeupdated": "1761617109",
+      "timebuildupdated": "1761616628"
+    }
+  },
+  "depot": {
+    "2173331": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9161224321958232963",
+          "size": "6278147173",
+          "download": "5259060416"
+        }
+      }
+    },
+    "2173332": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6932845015879488537",
+          "size": "6298999778",
+          "download": "5270405200"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20394411",
+        "timeupdated": "1760489642",
+        "timebuildupdated": "1760488243"
+      },
+      "lite": {
+        "buildid": "20567341",
+        "description": "4.9 GB required for installation. Levels are downloaded and cached as needed.",
+        "timeupdated": "1761617109",
+        "timebuildupdated": "1761616628"
+      }
+    }
+  }
+}

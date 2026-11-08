@@ -1,0 +1,60 @@
+{
+  "name": "Age of Heroes (VR)",
+  "source": "spectre",
+  "changenumber": 40098400,
+  "updated": "2026-11-07T20:59:02.505Z",
+  "branches": {
+    "public": {
+      "buildid": "2061111",
+      "timeupdated": "1503483357",
+      "timebuildupdated": "1503483357"
+    },
+    "local": {
+      "buildid": "1632171",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1487141566",
+      "timebuildupdated": "1487141566"
+    }
+  },
+  "depot": {
+    "586081": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1439819435946352819",
+          "size": "4237222989",
+          "download": "1231191744"
+        }
+      }
+    },
+    "586082": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7379102976662909921",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2061111",
+        "timeupdated": "1503483357",
+        "timebuildupdated": "1503483357"
+      },
+      "local": {
+        "buildid": "1632171",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1487141566",
+        "timebuildupdated": "1487141566"
+      }
+    }
+  }
+}

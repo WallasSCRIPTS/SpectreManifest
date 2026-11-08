@@ -1,0 +1,70 @@
+{
+  "name": "Blitzstrike",
+  "source": "spectre",
+  "changenumber": 35249703,
+  "updated": "2026-11-04T23:24:42.714Z",
+  "branches": {
+    "public": {
+      "buildid": "22805230",
+      "timeupdated": "1776285390",
+      "timebuildupdated": "1776285192"
+    },
+    "beta": {
+      "buildid": "18121534",
+      "description": "for testing",
+      "timeupdated": "1744765123",
+      "timebuildupdated": "1744764985"
+    }
+  },
+  "depot": {
+    "3654001": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3037100655246261825",
+          "size": "248869148",
+          "download": "80556640"
+        }
+      }
+    },
+    "3654002": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2388013282330117099",
+          "size": "167211725",
+          "download": "64302080"
+        }
+      }
+    },
+    "3654003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4535360731842502237",
+          "size": "187978241",
+          "download": "72790656"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22805230",
+        "timeupdated": "1776285390",
+        "timebuildupdated": "1776285192"
+      },
+      "beta": {
+        "buildid": "18121534",
+        "description": "for testing",
+        "timeupdated": "1744765123",
+        "timebuildupdated": "1744764985"
+      }
+    }
+  }
+}

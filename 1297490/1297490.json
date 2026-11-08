@@ -1,0 +1,64 @@
+{
+  "name": "Superior: Vengeance",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:15.353Z",
+  "branches": {
+    "public": {
+      "buildid": "15427469",
+      "timeupdated": "1724459337",
+      "timebuildupdated": "1724111882"
+    },
+    "client_ptr": {
+      "buildid": "15427469",
+      "description": "Test branch for next update",
+      "timeupdated": "1724111882",
+      "timebuildupdated": "1724111882"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1297491": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7177777727509137992",
+          "size": "4924976545",
+          "download": "4404144656"
+        }
+      }
+    },
+    "2634040": {
+      "config": {
+        "oslist": "windows"
+      },
+      "dlcappid": "2634040"
+    },
+    "branches": {
+      "public": {
+        "buildid": "15427469",
+        "timeupdated": "1724459337",
+        "timebuildupdated": "1724111882"
+      },
+      "client_ptr": {
+        "buildid": "15427469",
+        "description": "Test branch for next update",
+        "timeupdated": "1724111882",
+        "timebuildupdated": "1724111882"
+      }
+    }
+  }
+}

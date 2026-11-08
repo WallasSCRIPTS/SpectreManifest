@@ -1,0 +1,88 @@
+{
+  "name": "Turok",
+  "source": "spectre",
+  "changenumber": 40015959,
+  "updated": "2026-11-07T20:57:35.156Z",
+  "branches": {
+    "public": {
+      "buildid": "21138995",
+      "timeupdated": "1765912600",
+      "timebuildupdated": "1765410149"
+    },
+    "kex3": {
+      "buildid": "17730046",
+      "description": "Legacy Release",
+      "timeupdated": "1741978604",
+      "timebuildupdated": "1741978505"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "405821": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3640463482727940089",
+          "size": "388522436",
+          "download": "339961856"
+        }
+      }
+    },
+    "405822": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7760385175575901899",
+          "size": "266927043",
+          "download": "257691712"
+        }
+      }
+    },
+    "405823": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "478163089711204514",
+          "size": "262495515",
+          "download": "255344768"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21138995",
+        "timeupdated": "1765912600",
+        "timebuildupdated": "1765410149"
+      },
+      "kex3": {
+        "buildid": "17730046",
+        "description": "Legacy Release",
+        "timeupdated": "1741978604",
+        "timebuildupdated": "1741978505"
+      }
+    }
+  }
+}

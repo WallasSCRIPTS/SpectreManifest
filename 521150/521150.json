@@ -1,0 +1,88 @@
+{
+  "name": "Another Brick in The Mall",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:28.743Z",
+  "branches": {
+    "public": {
+      "buildid": "19812365",
+      "timeupdated": "1757085355",
+      "timebuildupdated": "1756731948"
+    },
+    "legacy10": {
+      "buildid": "5002534",
+      "description": "Legacy 1.0",
+      "timeupdated": "1616435570",
+      "timebuildupdated": "1588977574"
+    },
+    "legacy1.1.4": {
+      "buildid": "6676501",
+      "description": "Legacy 1.1.4",
+      "timeupdated": "1755701009",
+      "timebuildupdated": "1620661463"
+    },
+    "unstable": {
+      "buildid": "19812365",
+      "description": "Test branch",
+      "timeupdated": "1756741136",
+      "timebuildupdated": "1756731948"
+    }
+  },
+  "depot": {
+    "228982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "521151": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3862315000911689183",
+          "size": "216268543",
+          "download": "163389712"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19812365",
+        "timeupdated": "1757085355",
+        "timebuildupdated": "1756731948"
+      },
+      "legacy10": {
+        "buildid": "5002534",
+        "description": "Legacy 1.0",
+        "timeupdated": "1616435570",
+        "timebuildupdated": "1588977574"
+      },
+      "legacy1.1.4": {
+        "buildid": "6676501",
+        "description": "Legacy 1.1.4",
+        "timeupdated": "1755701009",
+        "timebuildupdated": "1620661463"
+      },
+      "unstable": {
+        "buildid": "19812365",
+        "description": "Test branch",
+        "timeupdated": "1756741136",
+        "timebuildupdated": "1756731948"
+      }
+    }
+  }
+}

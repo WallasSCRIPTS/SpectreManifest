@@ -1,0 +1,63 @@
+{
+  "name": "Spinch",
+  "source": "spectre",
+  "changenumber": 39509837,
+  "updated": "2026-11-07T21:00:45.182Z",
+  "branches": {
+    "public": {
+      "buildid": "17437521",
+      "timeupdated": "1740074175",
+      "timebuildupdated": "1740047738"
+    },
+    "local": {
+      "buildid": "15972512",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1728423039",
+      "timebuildupdated": "1728423039"
+    }
+  },
+  "depot": {
+    "794241": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "189443905084761167",
+          "size": "585151254",
+          "download": "474567984"
+        }
+      }
+    },
+    "794242": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4691998721159399395",
+          "size": "788734993",
+          "download": "502956816"
+        }
+      }
+    },
+    "1863710": {
+      "dlcappid": "1863710"
+    },
+    "branches": {
+      "public": {
+        "buildid": "17437521",
+        "timeupdated": "1740074175",
+        "timebuildupdated": "1740047738"
+      },
+      "local": {
+        "buildid": "15972512",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1728423039",
+        "timebuildupdated": "1728423039"
+      }
+    }
+  }
+}

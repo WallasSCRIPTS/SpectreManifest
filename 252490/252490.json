@@ -1,0 +1,103 @@
+{
+  "name": "Rust",
+  "source": "spectre",
+  "changenumber": 40692728,
+  "updated": "2026-11-07T20:56:13.089Z",
+  "branches": {
+    "public": {
+      "buildid": "26499011",
+      "timeupdated": "1794019912",
+      "timebuildupdated": "1794015971"
+    },
+    "last-last-month": {
+      "buildid": "25567513",
+      "description": "Last last months patch",
+      "timeupdated": "1790559970",
+      "timebuildupdated": "1790553027"
+    },
+    "last-month": {
+      "buildid": "26140533",
+      "description": "Last months patch",
+      "timeupdated": "1792692355",
+      "timebuildupdated": "1792691953"
+    },
+    "test": {
+      "buildid": "26499011",
+      "description": "GPU skinning test",
+      "timeupdated": "1794019912",
+      "timebuildupdated": "1794015971"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "252492": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1183900158590626314",
+          "size": "6633556108",
+          "download": "3060814464"
+        }
+      }
+    },
+    "252494": {
+      "manifests": {
+        "public": {
+          "gid": "1955748881557998549",
+          "size": "54514791846",
+          "download": "32217589344"
+        }
+      }
+    },
+    "252495": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1370875280057806627",
+          "size": "1036536797",
+          "download": "626738176"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26499011",
+        "timeupdated": "1794019912",
+        "timebuildupdated": "1794015971"
+      },
+      "last-last-month": {
+        "buildid": "25567513",
+        "description": "Last last months patch",
+        "timeupdated": "1790559970",
+        "timebuildupdated": "1790553027"
+      },
+      "last-month": {
+        "buildid": "26140533",
+        "description": "Last months patch",
+        "timeupdated": "1792692355",
+        "timebuildupdated": "1792691953"
+      },
+      "test": {
+        "buildid": "26499011",
+        "description": "GPU skinning test",
+        "timeupdated": "1794019912",
+        "timebuildupdated": "1794015971"
+      }
+    }
+  }
+}

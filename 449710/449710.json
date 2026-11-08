@@ -1,0 +1,88 @@
+{
+  "name": "REDCON",
+  "source": "spectre",
+  "changenumber": 34831695,
+  "updated": "2026-11-07T20:57:56.455Z",
+  "branches": {
+    "public": {
+      "buildid": "16964662",
+      "timeupdated": "1736514415",
+      "timebuildupdated": "1736514209"
+    },
+    "beta": {
+      "buildid": "16964662",
+      "description": "Beta Testing",
+      "timeupdated": "1736514209",
+      "timebuildupdated": "1736514209"
+    },
+    "legacy": {
+      "buildid": "1166462",
+      "description": "Legacy Version",
+      "timeupdated": "1728641483",
+      "timebuildupdated": "1465237687"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "449711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6425088331799911913",
+          "size": "57815828",
+          "download": "54903872"
+        }
+      }
+    },
+    "449712": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3111160833608034418",
+          "size": "37383879",
+          "download": "30385760"
+        }
+      }
+    },
+    "449713": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2737809434873998481",
+          "size": "38132985",
+          "download": "31869184"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16964662",
+        "timeupdated": "1736514415",
+        "timebuildupdated": "1736514209"
+      },
+      "beta": {
+        "buildid": "16964662",
+        "description": "Beta Testing",
+        "timeupdated": "1736514209",
+        "timebuildupdated": "1736514209"
+      },
+      "legacy": {
+        "buildid": "1166462",
+        "description": "Legacy Version",
+        "timeupdated": "1728641483",
+        "timebuildupdated": "1465237687"
+      }
+    }
+  }
+}

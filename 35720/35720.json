@@ -1,0 +1,170 @@
+{
+  "name": "Trine 2",
+  "source": "spectre",
+  "changenumber": 38859296,
+  "updated": "2026-11-07T20:55:52.355Z",
+  "branches": {
+    "public": {
+      "buildid": "21050656",
+      "timeupdated": "1767109222",
+      "timebuildupdated": "1764839112"
+    },
+    "old": {
+      "buildid": "4364",
+      "description": "Old v1.14",
+      "timebuildupdated": "1340288663"
+    },
+    "old_v115": {
+      "buildid": "4861",
+      "description": "Old v1.15",
+      "timebuildupdated": "1340887156"
+    },
+    "old_v116": {
+      "buildid": "8191",
+      "description": "Old v1.16",
+      "timebuildupdated": "1343915189"
+    },
+    "old_v200_b1": {
+      "buildid": "178220",
+      "description": "Old v2.00 build 1",
+      "timebuildupdated": "1391077240"
+    },
+    "test": {
+      "buildid": "758827",
+      "description": "Current patch public test \t",
+      "timebuildupdated": "1441187041"
+    },
+    "old_v201": {
+      "buildid": "758827",
+      "description": "Old v2.01 build 447",
+      "timeupdated": "1764834644",
+      "timebuildupdated": "1441187041"
+    }
+  },
+  "depot": {
+    "35721": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1862915498493885655",
+          "size": "4833883973",
+          "download": "4035342096"
+        }
+      }
+    },
+    "35722": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7383410201471924566",
+          "size": "3960437562",
+          "download": "3184869232"
+        }
+      }
+    },
+    "35723": {
+      "manifests": {
+        "public": {
+          "gid": "8584643846395801365",
+          "size": "326400228",
+          "download": "323521952"
+        }
+      },
+      "dlcappid": "35723"
+    },
+    "35724": {
+      "manifests": {
+        "public": {
+          "gid": "143574432360681819",
+          "size": "262795",
+          "download": "191472"
+        }
+      }
+    },
+    "35725": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7099658573466662950",
+          "size": "40",
+          "download": "192"
+        }
+      },
+      "dlcappid": "35725"
+    },
+    "35726": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "635227223980426539",
+          "size": "40",
+          "download": "192"
+        }
+      }
+    },
+    "35727": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1341319465068310227",
+          "size": "4133708037",
+          "download": "3558062768"
+        }
+      }
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "21050656",
+        "timeupdated": "1767109222",
+        "timebuildupdated": "1764839112"
+      },
+      "old": {
+        "buildid": "4364",
+        "description": "Old v1.14",
+        "timebuildupdated": "1340288663"
+      },
+      "old_v115": {
+        "buildid": "4861",
+        "description": "Old v1.15",
+        "timebuildupdated": "1340887156"
+      },
+      "old_v116": {
+        "buildid": "8191",
+        "description": "Old v1.16",
+        "timebuildupdated": "1343915189"
+      },
+      "old_v200_b1": {
+        "buildid": "178220",
+        "description": "Old v2.00 build 1",
+        "timebuildupdated": "1391077240"
+      },
+      "test": {
+        "buildid": "758827",
+        "description": "Current patch public test \t",
+        "timebuildupdated": "1441187041"
+      },
+      "old_v201": {
+        "buildid": "758827",
+        "description": "Old v2.01 build 447",
+        "timeupdated": "1764834644",
+        "timebuildupdated": "1441187041"
+      }
+    }
+  }
+}

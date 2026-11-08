@@ -1,0 +1,84 @@
+{
+  "name": "Natural Soccer",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:59.363Z",
+  "branches": {
+    "public": {
+      "buildid": "2280758",
+      "timeupdated": "1510598458",
+      "timebuildupdated": "1510598339"
+    },
+    "beta": {
+      "buildid": "1204737",
+      "description": "Use this branch to test out new features and help finding bugs",
+      "timeupdated": "1467220914",
+      "timebuildupdated": "1467220768"
+    },
+    "online": {
+      "buildid": "1606104",
+      "description": "Beta version of online play",
+      "timeupdated": "1486050341",
+      "timebuildupdated": "1486049718"
+    },
+    "stable": {
+      "buildid": "1246268",
+      "timeupdated": "1509810594",
+      "timebuildupdated": "1469553187"
+    },
+    "testing": {
+      "buildid": "1227821",
+      "timeupdated": "1468510101",
+      "timebuildupdated": "1468510072"
+    }
+  },
+  "depot": {
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "347691": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "723327878103742132",
+          "size": "123322162",
+          "download": "50401440"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2280758",
+        "timeupdated": "1510598458",
+        "timebuildupdated": "1510598339"
+      },
+      "beta": {
+        "buildid": "1204737",
+        "description": "Use this branch to test out new features and help finding bugs",
+        "timeupdated": "1467220914",
+        "timebuildupdated": "1467220768"
+      },
+      "online": {
+        "buildid": "1606104",
+        "description": "Beta version of online play",
+        "timeupdated": "1486050341",
+        "timebuildupdated": "1486049718"
+      },
+      "stable": {
+        "buildid": "1246268",
+        "timeupdated": "1509810594",
+        "timebuildupdated": "1469553187"
+      },
+      "testing": {
+        "buildid": "1227821",
+        "timeupdated": "1468510101",
+        "timebuildupdated": "1468510072"
+      }
+    }
+  }
+}

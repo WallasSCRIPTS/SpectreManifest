@@ -1,0 +1,110 @@
+{
+  "name": "Frozen Synapse 2",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:53.928Z",
+  "branches": {
+    "public": {
+      "buildid": "3382428",
+      "timeupdated": "1545991632",
+      "timebuildupdated": "1544446928"
+    },
+    "debug": {
+      "buildid": "3271015",
+      "timeupdated": "1541171311",
+      "timebuildupdated": "1541165042"
+    },
+    "multiplatform_test": {
+      "buildid": "3382675",
+      "timeupdated": "1544451973",
+      "timebuildupdated": "1544451973"
+    },
+    "preview": {
+      "buildid": "3268317",
+      "timeupdated": "1541097254",
+      "timebuildupdated": "1541095438"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "445021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8515188403288962346",
+          "size": "1730053975",
+          "download": "936895904"
+        }
+      }
+    },
+    "445022": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5086874048509108342",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "445023": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5794477704715726045",
+          "size": "9529535",
+          "download": "2349920"
+        }
+      }
+    },
+    "914840": {
+      "manifests": {
+        "public": {
+          "gid": "3794029664154074206",
+          "size": "1119106803",
+          "download": "1130892592"
+        }
+      },
+      "dlcappid": "914840"
+    },
+    "branches": {
+      "public": {
+        "buildid": "3382428",
+        "timeupdated": "1545991632",
+        "timebuildupdated": "1544446928"
+      },
+      "debug": {
+        "buildid": "3271015",
+        "timeupdated": "1541171311",
+        "timebuildupdated": "1541165042"
+      },
+      "multiplatform_test": {
+        "buildid": "3382675",
+        "timeupdated": "1544451973",
+        "timebuildupdated": "1544451973"
+      },
+      "preview": {
+        "buildid": "3268317",
+        "timeupdated": "1541097254",
+        "timebuildupdated": "1541095438"
+      }
+    }
+  }
+}

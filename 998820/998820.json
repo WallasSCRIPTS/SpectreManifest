@@ -1,0 +1,68 @@
+{
+  "name": "Cortex",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:20.555Z",
+  "branches": {
+    "public": {
+      "buildid": "3449440",
+      "timeupdated": "1547049735",
+      "timebuildupdated": "1546894240"
+    },
+    "beta": {
+      "buildid": "3449440",
+      "timeupdated": "1546894709",
+      "timebuildupdated": "1546894240"
+    }
+  },
+  "depot": {
+    "998821": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7046582667172000598",
+          "size": "72043638",
+          "download": "58643024"
+        }
+      }
+    },
+    "998822": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4949979775346082855",
+          "size": "73573454",
+          "download": "58771008"
+        }
+      }
+    },
+    "998823": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2636877790248375809",
+          "size": "70090616",
+          "download": "57843360"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3449440",
+        "timeupdated": "1547049735",
+        "timebuildupdated": "1546894240"
+      },
+      "beta": {
+        "buildid": "3449440",
+        "timeupdated": "1546894709",
+        "timebuildupdated": "1546894240"
+      }
+    }
+  }
+}

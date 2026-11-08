@@ -1,0 +1,109 @@
+{
+  "name": "Liftoff - Slipstream",
+  "source": "spectre",
+  "changenumber": 40678994,
+  "updated": "2026-11-06T23:15:37.235Z",
+  "branches": {
+    "public": {
+      "buildid": "26265707",
+      "timeupdated": "1793179357",
+      "timebuildupdated": "1793177021"
+    },
+    "liftoff_1.7.1": {
+      "buildid": "21789429",
+      "description": "Liftoff Legacy v1.7.1",
+      "timeupdated": "1770726303",
+      "timebuildupdated": "1770245547"
+    },
+    "experimentalbranch": {
+      "buildid": "26491054",
+      "description": "Public experimental testing",
+      "timeupdated": "1793987173",
+      "timebuildupdated": "1793987043"
+    },
+    "liftoff_1.4.10": {
+      "buildid": "9940939",
+      "description": "Liftoff Legacy v1.4",
+      "timeupdated": "1674033911",
+      "timebuildupdated": "1668513535"
+    },
+    "liftoff_physics5.0": {
+      "buildid": "20308903",
+      "description": "Liftoff Legacy v1.6 (Physics 5.0)",
+      "timeupdated": "1770288240",
+      "timebuildupdated": "1759952022"
+    }
+  },
+  "depot": {
+    "2019791": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8555206029398003661",
+          "size": "447768020",
+          "download": "409909536"
+        }
+      },
+      "dlcappid": "2019790"
+    },
+    "2019792": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7348744479800435329",
+          "size": "447335210",
+          "download": "409441904"
+        }
+      },
+      "dlcappid": "2019790"
+    },
+    "2019793": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2500418006455418474",
+          "size": "448058667",
+          "download": "410243952"
+        }
+      },
+      "dlcappid": "2019790"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26265707",
+        "timeupdated": "1793179357",
+        "timebuildupdated": "1793177021"
+      },
+      "liftoff_1.7.1": {
+        "buildid": "21789429",
+        "description": "Liftoff Legacy v1.7.1",
+        "timeupdated": "1770726303",
+        "timebuildupdated": "1770245547"
+      },
+      "experimentalbranch": {
+        "buildid": "26491054",
+        "description": "Public experimental testing",
+        "timeupdated": "1793987173",
+        "timebuildupdated": "1793987043"
+      },
+      "liftoff_1.4.10": {
+        "buildid": "9940939",
+        "description": "Liftoff Legacy v1.4",
+        "timeupdated": "1674033911",
+        "timebuildupdated": "1668513535"
+      },
+      "liftoff_physics5.0": {
+        "buildid": "20308903",
+        "description": "Liftoff Legacy v1.6 (Physics 5.0)",
+        "timeupdated": "1770288240",
+        "timebuildupdated": "1759952022"
+      }
+    }
+  }
+}

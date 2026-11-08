@@ -1,0 +1,52 @@
+{
+  "name": "Long Night",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:18.912Z",
+  "branches": {
+    "public": {
+      "buildid": "322685",
+      "timebuildupdated": "1405025265"
+    },
+    "beta": {
+      "buildid": "329572",
+      "timebuildupdated": "1405606455"
+    }
+  },
+  "depot": {
+    "270591": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4960547208108111525",
+          "size": "1102732841",
+          "download": "1759130946656"
+        }
+      }
+    },
+    "270592": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6900568728678011449",
+          "size": "1134618954",
+          "download": "216954650232"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "322685",
+        "timebuildupdated": "1405025265"
+      },
+      "beta": {
+        "buildid": "329572",
+        "timebuildupdated": "1405606455"
+      }
+    }
+  }
+}

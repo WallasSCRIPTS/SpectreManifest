@@ -1,0 +1,58 @@
+{
+  "name": "Mint Works",
+  "source": "spectre",
+  "changenumber": 34857694,
+  "updated": "2026-11-06T21:04:58.522Z",
+  "branches": {
+    "public": {
+      "buildid": "7328958",
+      "timeupdated": "1631161063",
+      "timebuildupdated": "1631160921"
+    },
+    "macos": {
+      "buildid": "5970350",
+      "description": "MacOS Branch",
+      "timeupdated": "1608039122",
+      "timebuildupdated": "1608039122"
+    }
+  },
+  "depot": {
+    "1400001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2039160514157145902",
+          "size": "77346624",
+          "download": "35938384"
+        }
+      }
+    },
+    "1400002": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9073195819468663530",
+          "size": "80527199",
+          "download": "37751792"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7328958",
+        "timeupdated": "1631161063",
+        "timebuildupdated": "1631160921"
+      },
+      "macos": {
+        "buildid": "5970350",
+        "description": "MacOS Branch",
+        "timeupdated": "1608039122",
+        "timebuildupdated": "1608039122"
+      }
+    }
+  }
+}

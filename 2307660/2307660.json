@@ -1,0 +1,70 @@
+{
+  "name": "Moving In",
+  "source": "spectre",
+  "changenumber": 34894824,
+  "updated": "2026-11-06T23:21:27.621Z",
+  "branches": {
+    "public": {
+      "buildid": "13420520",
+      "timeupdated": "1707529569",
+      "timebuildupdated": "1707529569"
+    },
+    "pre-release": {
+      "buildid": "12151577",
+      "description": "Pre-release",
+      "timeupdated": "1694306867",
+      "timebuildupdated": "1694306867"
+    }
+  },
+  "depot": {
+    "2307662": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "802171792142837775",
+          "size": "799431218",
+          "download": "321989568"
+        }
+      }
+    },
+    "2307663": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7328672399205433114",
+          "size": "802011426",
+          "download": "322746816"
+        }
+      }
+    },
+    "2307664": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5948237579657048771",
+          "size": "837147656",
+          "download": "331947712"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13420520",
+        "timeupdated": "1707529569",
+        "timebuildupdated": "1707529569"
+      },
+      "pre-release": {
+        "buildid": "12151577",
+        "description": "Pre-release",
+        "timeupdated": "1694306867",
+        "timebuildupdated": "1694306867"
+      }
+    }
+  }
+}

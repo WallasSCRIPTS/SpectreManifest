@@ -1,0 +1,68 @@
+{
+  "name": "Carrier Battles 4 Guadalcanal",
+  "source": "spectre",
+  "changenumber": 40700154,
+  "updated": "2026-11-07T21:03:51.939Z",
+  "branches": {
+    "public": {
+      "buildid": "26183676",
+      "timeupdated": "1792854090",
+      "timebuildupdated": "1792854090"
+    },
+    "beta": {
+      "buildid": "26504629",
+      "description": "Private Beta",
+      "timeupdated": "1794049354",
+      "timebuildupdated": "1794049354"
+    }
+  },
+  "depot": {
+    "1163341": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5861503613343474410",
+          "size": "1912118335",
+          "download": "323511424"
+        }
+      }
+    },
+    "1163342": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5965920824166310422",
+          "size": "1894817922",
+          "download": "317478096"
+        }
+      }
+    },
+    "1485330": {
+      "manifests": {
+        "public": {
+          "gid": "4069078396020002856",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "1485330"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26183676",
+        "timeupdated": "1792854090",
+        "timebuildupdated": "1792854090"
+      },
+      "beta": {
+        "buildid": "26504629",
+        "description": "Private Beta",
+        "timeupdated": "1794049354",
+        "timebuildupdated": "1794049354"
+      }
+    }
+  }
+}

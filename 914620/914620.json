@@ -1,0 +1,82 @@
+{
+  "name": "Mist Survival",
+  "source": "spectre",
+  "changenumber": 39689508,
+  "updated": "2026-11-07T21:01:39.215Z",
+  "branches": {
+    "public": {
+      "buildid": "20802029",
+      "timeupdated": "1763144898",
+      "timebuildupdated": "1763137719"
+    },
+    "old_build_041": {
+      "buildid": "5622237",
+      "description": "Old Build 0.4.1",
+      "timeupdated": "1658999621",
+      "timebuildupdated": "1601557163"
+    },
+    "old_build_052": {
+      "buildid": "10236012",
+      "description": "Old Build 0.5.2.1",
+      "timeupdated": "1701788038",
+      "timebuildupdated": "1672469692"
+    },
+    "coop_test_branch": {
+      "buildid": "25848608",
+      "description": "New Build 0.7.0b",
+      "timeupdated": "1791629381",
+      "timebuildupdated": "1791629234"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "914621": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7268530621364451212",
+          "size": "28615802536",
+          "download": "13672275424"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20802029",
+        "timeupdated": "1763144898",
+        "timebuildupdated": "1763137719"
+      },
+      "old_build_041": {
+        "buildid": "5622237",
+        "description": "Old Build 0.4.1",
+        "timeupdated": "1658999621",
+        "timebuildupdated": "1601557163"
+      },
+      "old_build_052": {
+        "buildid": "10236012",
+        "description": "Old Build 0.5.2.1",
+        "timeupdated": "1701788038",
+        "timebuildupdated": "1672469692"
+      },
+      "coop_test_branch": {
+        "buildid": "25848608",
+        "description": "New Build 0.7.0b",
+        "timeupdated": "1791629381",
+        "timebuildupdated": "1791629234"
+      }
+    }
+  }
+}

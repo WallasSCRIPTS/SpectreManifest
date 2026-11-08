@@ -1,0 +1,130 @@
+{
+  "name": "Territory",
+  "source": "spectre",
+  "changenumber": 40669966,
+  "updated": "2026-11-06T23:15:39.727Z",
+  "branches": {
+    "public": {
+      "buildid": "26481933",
+      "timeupdated": "1793961617",
+      "timebuildupdated": "1793961435"
+    },
+    "experimental": {
+      "buildid": "26481933",
+      "description": "Beta testing",
+      "timeupdated": "1793961558",
+      "timebuildupdated": "1793961435"
+    },
+    "territory_alpha_1.9.3": {
+      "buildid": "9224234",
+      "description": "Final Alpha 1 Version",
+      "timeupdated": "1659319540",
+      "timebuildupdated": "1659262650"
+    },
+    "territory_alpha_2.0.5.1": {
+      "buildid": "9244787",
+      "description": "Final Alpha 2 Version",
+      "timeupdated": "1660227892",
+      "timebuildupdated": "1659530986"
+    },
+    "territory_alpha_3.3.1": {
+      "buildid": "9340087",
+      "description": "Final Alpha 3 Version",
+      "timeupdated": "1661170765",
+      "timebuildupdated": "1660829715"
+    },
+    "territory_alpha_4.25": {
+      "buildid": "9734576",
+      "description": "Final Alpha 4 Version",
+      "timeupdated": "1669645088",
+      "timebuildupdated": "1665987683"
+    },
+    "territory_alpha_5.127.2": {
+      "buildid": "13051939",
+      "description": "Final Alpha 5 Version",
+      "timeupdated": "1703680568",
+      "timebuildupdated": "1703680568"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2062941": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2930783603534067030",
+          "size": "26573409536",
+          "download": "23074692624"
+        }
+      }
+    },
+    "2062942": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7260872000046343102",
+          "size": "26072579288",
+          "download": "22656399136"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26481933",
+        "timeupdated": "1793961617",
+        "timebuildupdated": "1793961435"
+      },
+      "experimental": {
+        "buildid": "26481933",
+        "description": "Beta testing",
+        "timeupdated": "1793961558",
+        "timebuildupdated": "1793961435"
+      },
+      "territory_alpha_1.9.3": {
+        "buildid": "9224234",
+        "description": "Final Alpha 1 Version",
+        "timeupdated": "1659319540",
+        "timebuildupdated": "1659262650"
+      },
+      "territory_alpha_2.0.5.1": {
+        "buildid": "9244787",
+        "description": "Final Alpha 2 Version",
+        "timeupdated": "1660227892",
+        "timebuildupdated": "1659530986"
+      },
+      "territory_alpha_3.3.1": {
+        "buildid": "9340087",
+        "description": "Final Alpha 3 Version",
+        "timeupdated": "1661170765",
+        "timebuildupdated": "1660829715"
+      },
+      "territory_alpha_4.25": {
+        "buildid": "9734576",
+        "description": "Final Alpha 4 Version",
+        "timeupdated": "1669645088",
+        "timebuildupdated": "1665987683"
+      },
+      "territory_alpha_5.127.2": {
+        "buildid": "13051939",
+        "description": "Final Alpha 5 Version",
+        "timeupdated": "1703680568",
+        "timebuildupdated": "1703680568"
+      }
+    }
+  }
+}

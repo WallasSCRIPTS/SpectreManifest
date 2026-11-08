@@ -1,0 +1,46 @@
+{
+  "name": "A Roll-Back Story",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:26.839Z",
+  "branches": {
+    "public": {
+      "buildid": "3259312",
+      "timeupdated": "1540878703",
+      "timebuildupdated": "1540878513"
+    }
+  },
+  "depot": {
+    "886391": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4429404105777523360",
+          "size": "119456412",
+          "download": "66426688"
+        }
+      }
+    },
+    "886392": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "911065353855243415",
+          "size": "117129225",
+          "download": "66545792"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3259312",
+        "timeupdated": "1540878703",
+        "timebuildupdated": "1540878513"
+      }
+    }
+  }
+}

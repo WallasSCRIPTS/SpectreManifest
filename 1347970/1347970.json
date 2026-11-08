@@ -1,0 +1,62 @@
+{
+  "name": "Patch Quest",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:35.486Z",
+  "branches": {
+    "public": {
+      "buildid": "11694594",
+      "timeupdated": "1689257681",
+      "timebuildupdated": "1689257681"
+    },
+    "experimental": {
+      "buildid": "11630699",
+      "description": "The very latest version of Patch Quest. May contain bugs!",
+      "timeupdated": "1688560529",
+      "timebuildupdated": "1688560466"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1347971": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3252623879815885615",
+          "size": "748729425",
+          "download": "408649584"
+        }
+      }
+    },
+    "2333170": {
+      "manifests": {
+        "public": {
+          "gid": "2311334381340924520",
+          "size": "221047190",
+          "download": "221013968"
+        }
+      },
+      "dlcappid": "2333170"
+    },
+    "branches": {
+      "public": {
+        "buildid": "11694594",
+        "timeupdated": "1689257681",
+        "timebuildupdated": "1689257681"
+      },
+      "experimental": {
+        "buildid": "11630699",
+        "description": "The very latest version of Patch Quest. May contain bugs!",
+        "timeupdated": "1688560529",
+        "timebuildupdated": "1688560466"
+      }
+    }
+  }
+}

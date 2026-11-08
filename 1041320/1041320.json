@@ -1,0 +1,63 @@
+{
+  "name": "Lords Mobile: Kingdom Wars",
+  "source": "spectre",
+  "changenumber": 40658250,
+  "updated": "2026-11-07T21:02:42.789Z",
+  "branches": {
+    "public": {
+      "buildid": "26074792",
+      "timeupdated": "1792487931",
+      "timebuildupdated": "1792487485"
+    },
+    "local": {
+      "buildid": "3663578",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1553073350",
+      "timebuildupdated": "1553073350"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229000": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1041321": {
+      "manifests": {
+        "public": {
+          "gid": "427796096020413061",
+          "size": "2604511294",
+          "download": "901876736"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26074792",
+        "timeupdated": "1792487931",
+        "timebuildupdated": "1792487485"
+      },
+      "local": {
+        "buildid": "3663578",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1553073350",
+        "timebuildupdated": "1553073350"
+      }
+    }
+  }
+}

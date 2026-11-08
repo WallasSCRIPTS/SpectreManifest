@@ -1,0 +1,63 @@
+{
+  "name": "Rogue Kingdom Demo",
+  "source": "spectre",
+  "changenumber": 40119677,
+  "updated": "2026-11-04T23:25:43.358Z",
+  "branches": {
+    "public": {
+      "buildid": "25576506",
+      "timeupdated": "1790595354",
+      "timebuildupdated": "1790594076"
+    },
+    "beta": {
+      "buildid": "26128359",
+      "description": "beta for devs",
+      "timeupdated": "1792657343",
+      "timebuildupdated": "1792657343"
+    }
+  },
+  "depot": {
+    "4803791": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4315636331294511000",
+          "size": "801454473",
+          "download": "303710720"
+        }
+      }
+    },
+    "4803792": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1202778028582916475",
+          "size": "709571634",
+          "download": "363599088"
+        }
+      }
+    },
+    "4803793": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25576506",
+        "timeupdated": "1790595354",
+        "timebuildupdated": "1790594076"
+      },
+      "beta": {
+        "buildid": "26128359",
+        "description": "beta for devs",
+        "timeupdated": "1792657343",
+        "timebuildupdated": "1792657343"
+      }
+    }
+  }
+}

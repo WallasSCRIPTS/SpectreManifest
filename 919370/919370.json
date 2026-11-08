@@ -1,0 +1,102 @@
+{
+  "name": "Overdungeon",
+  "source": "spectre",
+  "changenumber": 38370048,
+  "updated": "2026-11-07T21:01:41.596Z",
+  "branches": {
+    "public": {
+      "buildid": "12115666",
+      "timeupdated": "1693962054",
+      "timebuildupdated": "1693939082"
+    },
+    "alpha-2019.1.14f1": {
+      "buildid": "4520740",
+      "timeupdated": "1577058368",
+      "timebuildupdated": "1577056759"
+    },
+    "alpha-2019.2.16f": {
+      "buildid": "4526999",
+      "timeupdated": "1577358593",
+      "timebuildupdated": "1577357813"
+    },
+    "beta": {
+      "buildid": "4449938",
+      "description": "Public test branch",
+      "timeupdated": "1575273024",
+      "timebuildupdated": "1575270657"
+    },
+    "beta-nottranslated": {
+      "buildid": "4449938",
+      "description": "This is beta version but not translated yet.",
+      "timeupdated": "1575273044",
+      "timebuildupdated": "1575270657"
+    }
+  },
+  "depot": {
+    "919371": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5027899425965208274",
+          "size": "4485752090",
+          "download": "760838544"
+        }
+      }
+    },
+    "919372": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5049247022153931868",
+          "size": "3426929045",
+          "download": "553486768"
+        }
+      }
+    },
+    "919373": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6284553120834788676",
+          "size": "3410839111",
+          "download": "549159584"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12115666",
+        "timeupdated": "1693962054",
+        "timebuildupdated": "1693939082"
+      },
+      "alpha-2019.1.14f1": {
+        "buildid": "4520740",
+        "timeupdated": "1577058368",
+        "timebuildupdated": "1577056759"
+      },
+      "alpha-2019.2.16f": {
+        "buildid": "4526999",
+        "timeupdated": "1577358593",
+        "timebuildupdated": "1577357813"
+      },
+      "beta": {
+        "buildid": "4449938",
+        "description": "Public test branch",
+        "timeupdated": "1575273024",
+        "timebuildupdated": "1575270657"
+      },
+      "beta-nottranslated": {
+        "buildid": "4449938",
+        "description": "This is beta version but not translated yet.",
+        "timeupdated": "1575273044",
+        "timebuildupdated": "1575270657"
+      }
+    }
+  }
+}

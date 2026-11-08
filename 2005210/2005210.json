@@ -1,0 +1,82 @@
+{
+  "name": "Void Scrappers",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:15:31.314Z",
+  "branches": {
+    "public": {
+      "buildid": "21183460",
+      "timeupdated": "1765743573",
+      "timebuildupdated": "1765743022"
+    },
+    "experimental": {
+      "buildid": "21183460",
+      "description": "warning - save file at risk. opt in to help test unstable builds.",
+      "timeupdated": "1765743065",
+      "timebuildupdated": "1765743022"
+    },
+    "legacy_win7": {
+      "buildid": "15517481",
+      "description": "This is an older build that might still support Win 7.",
+      "timeupdated": "1766941121",
+      "timebuildupdated": "1724842465"
+    }
+  },
+  "depot": {
+    "2005211": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1388253724745994082",
+          "size": "189587584",
+          "download": "172481952"
+        }
+      }
+    },
+    "2005212": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8756716672166306700",
+          "size": "176395434",
+          "download": "167369072"
+        }
+      }
+    },
+    "2005213": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7384982005834495861",
+          "size": "183803533",
+          "download": "168996064"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21183460",
+        "timeupdated": "1765743573",
+        "timebuildupdated": "1765743022"
+      },
+      "experimental": {
+        "buildid": "21183460",
+        "description": "warning - save file at risk. opt in to help test unstable builds.",
+        "timeupdated": "1765743065",
+        "timebuildupdated": "1765743022"
+      },
+      "legacy_win7": {
+        "buildid": "15517481",
+        "description": "This is an older build that might still support Win 7.",
+        "timeupdated": "1766941121",
+        "timebuildupdated": "1724842465"
+      }
+    }
+  }
+}

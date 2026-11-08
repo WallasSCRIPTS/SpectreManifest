@@ -1,0 +1,331 @@
+{
+  "name": "Colony Survival",
+  "source": "spectre",
+  "changenumber": 38896882,
+  "updated": "2026-11-07T20:57:11.968Z",
+  "branches": {
+    "public": {
+      "buildid": "25323781",
+      "timeupdated": "1789478795",
+      "timebuildupdated": "1789478733"
+    },
+    "0.2.4": {
+      "buildid": "8564214",
+      "description": "oldest working steam build",
+      "timeupdated": "1650019534",
+      "timebuildupdated": "1650019370"
+    },
+    "0.2.7": {
+      "buildid": "1979774",
+      "timeupdated": "1500715622",
+      "timebuildupdated": "1500715375"
+    },
+    "0.3.0": {
+      "buildid": "2073823",
+      "timeupdated": "1503940874",
+      "timebuildupdated": "1503940833"
+    },
+    "0.5.3": {
+      "buildid": "2473116",
+      "timeupdated": "1516996571",
+      "timebuildupdated": "1516996525"
+    },
+    "0.6.3": {
+      "buildid": "2892244",
+      "description": "0.6.3 - compatible with worlds before 0.7.0",
+      "timeupdated": "1529922643",
+      "timebuildupdated": "1529922358"
+    },
+    "0.7.0": {
+      "buildid": "4190180",
+      "timeupdated": "1574955392",
+      "timebuildupdated": "1568293422"
+    },
+    "0.7.5": {
+      "buildid": "5680695",
+      "timeupdated": "1602666894",
+      "timebuildupdated": "1602666894"
+    },
+    "0.8.0": {
+      "buildid": "5904886",
+      "description": "0.8.0",
+      "timeupdated": "1606819640",
+      "timebuildupdated": "1606819640"
+    },
+    "0.8.1": {
+      "buildid": "6310986",
+      "description": "0.8.1 - compatible with worlds before 0.9.0",
+      "timeupdated": "1614603510",
+      "timebuildupdated": "1614603510"
+    },
+    "0.9.0": {
+      "buildid": "10440952",
+      "description": "0.9.0, big overhaul",
+      "timeupdated": "1675148483",
+      "timebuildupdated": "1675148483"
+    },
+    "0.10.2": {
+      "buildid": "13600995",
+      "description": "Steam Cloud Sync",
+      "timeupdated": "1709209177",
+      "timebuildupdated": "1709209177"
+    },
+    "0.11.0": {
+      "buildid": "14662464",
+      "description": "Colonist models, names, construction",
+      "timeupdated": "1718013442",
+      "timebuildupdated": "1718013442"
+    },
+    "0.12.0": {
+      "buildid": "16657679",
+      "description": "Mill, dynamic textures",
+      "timeupdated": "1733494777",
+      "timebuildupdated": "1733494777"
+    },
+    "0.12.1": {
+      "buildid": "17742585",
+      "description": "Localization Update",
+      "timeupdated": "1742125685",
+      "timebuildupdated": "1742125685"
+    },
+    "0.13.0": {
+      "buildid": "18089088",
+      "description": "Explosives",
+      "timeupdated": "1744540871",
+      "timebuildupdated": "1744540871"
+    },
+    "0.14.0": {
+      "buildid": "18675745",
+      "description": "Pathing change",
+      "timeupdated": "1748617267",
+      "timebuildupdated": "1748617267"
+    },
+    "0.15.0": {
+      "buildid": "20977461",
+      "description": "TopdownView",
+      "timeupdated": "1769167007",
+      "timebuildupdated": "1764323524"
+    },
+    "0.15.1": {
+      "buildid": "21622419",
+      "description": "Occlusion Culling",
+      "timeupdated": "1769189447",
+      "timebuildupdated": "1769189447"
+    },
+    "0.16.0": {
+      "buildid": "23098147",
+      "description": "Oddity Press",
+      "timeupdated": "1778004804",
+      "timebuildupdated": "1778004804"
+    },
+    "0.17.0": {
+      "buildid": "23998412",
+      "description": "Quests, Notifications, Co-op",
+      "timeupdated": "1782893552",
+      "timebuildupdated": "1782893552"
+    },
+    "debug": {
+      "buildid": "25323796",
+      "description": "Branch for debugging",
+      "timeupdated": "1789478758",
+      "timebuildupdated": "1789478758"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "366091": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "920602526144983264",
+          "size": "140685636",
+          "download": "56488480"
+        }
+      }
+    },
+    "366092": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4747605726397741356",
+          "size": "225329194",
+          "download": "91911872"
+        }
+      }
+    },
+    "366093": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1219207484887224277",
+          "size": "300772430",
+          "download": "82070704"
+        }
+      }
+    },
+    "366095": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7380931212246383400",
+          "size": "172404548",
+          "download": "69046720"
+        }
+      }
+    },
+    "366096": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4467725525573405222",
+          "size": "287335571",
+          "download": "85743792"
+        }
+      }
+    },
+    "366097": {},
+    "branches": {
+      "public": {
+        "buildid": "25323781",
+        "timeupdated": "1789478795",
+        "timebuildupdated": "1789478733"
+      },
+      "0.2.4": {
+        "buildid": "8564214",
+        "description": "oldest working steam build",
+        "timeupdated": "1650019534",
+        "timebuildupdated": "1650019370"
+      },
+      "0.2.7": {
+        "buildid": "1979774",
+        "timeupdated": "1500715622",
+        "timebuildupdated": "1500715375"
+      },
+      "0.3.0": {
+        "buildid": "2073823",
+        "timeupdated": "1503940874",
+        "timebuildupdated": "1503940833"
+      },
+      "0.5.3": {
+        "buildid": "2473116",
+        "timeupdated": "1516996571",
+        "timebuildupdated": "1516996525"
+      },
+      "0.6.3": {
+        "buildid": "2892244",
+        "description": "0.6.3 - compatible with worlds before 0.7.0",
+        "timeupdated": "1529922643",
+        "timebuildupdated": "1529922358"
+      },
+      "0.7.0": {
+        "buildid": "4190180",
+        "timeupdated": "1574955392",
+        "timebuildupdated": "1568293422"
+      },
+      "0.7.5": {
+        "buildid": "5680695",
+        "timeupdated": "1602666894",
+        "timebuildupdated": "1602666894"
+      },
+      "0.8.0": {
+        "buildid": "5904886",
+        "description": "0.8.0",
+        "timeupdated": "1606819640",
+        "timebuildupdated": "1606819640"
+      },
+      "0.8.1": {
+        "buildid": "6310986",
+        "description": "0.8.1 - compatible with worlds before 0.9.0",
+        "timeupdated": "1614603510",
+        "timebuildupdated": "1614603510"
+      },
+      "0.9.0": {
+        "buildid": "10440952",
+        "description": "0.9.0, big overhaul",
+        "timeupdated": "1675148483",
+        "timebuildupdated": "1675148483"
+      },
+      "0.10.2": {
+        "buildid": "13600995",
+        "description": "Steam Cloud Sync",
+        "timeupdated": "1709209177",
+        "timebuildupdated": "1709209177"
+      },
+      "0.11.0": {
+        "buildid": "14662464",
+        "description": "Colonist models, names, construction",
+        "timeupdated": "1718013442",
+        "timebuildupdated": "1718013442"
+      },
+      "0.12.0": {
+        "buildid": "16657679",
+        "description": "Mill, dynamic textures",
+        "timeupdated": "1733494777",
+        "timebuildupdated": "1733494777"
+      },
+      "0.12.1": {
+        "buildid": "17742585",
+        "description": "Localization Update",
+        "timeupdated": "1742125685",
+        "timebuildupdated": "1742125685"
+      },
+      "0.13.0": {
+        "buildid": "18089088",
+        "description": "Explosives",
+        "timeupdated": "1744540871",
+        "timebuildupdated": "1744540871"
+      },
+      "0.14.0": {
+        "buildid": "18675745",
+        "description": "Pathing change",
+        "timeupdated": "1748617267",
+        "timebuildupdated": "1748617267"
+      },
+      "0.15.0": {
+        "buildid": "20977461",
+        "description": "TopdownView",
+        "timeupdated": "1769167007",
+        "timebuildupdated": "1764323524"
+      },
+      "0.15.1": {
+        "buildid": "21622419",
+        "description": "Occlusion Culling",
+        "timeupdated": "1769189447",
+        "timebuildupdated": "1769189447"
+      },
+      "0.16.0": {
+        "buildid": "23098147",
+        "description": "Oddity Press",
+        "timeupdated": "1778004804",
+        "timebuildupdated": "1778004804"
+      },
+      "0.17.0": {
+        "buildid": "23998412",
+        "description": "Quests, Notifications, Co-op",
+        "timeupdated": "1782893552",
+        "timebuildupdated": "1782893552"
+      },
+      "debug": {
+        "buildid": "25323796",
+        "description": "Branch for debugging",
+        "timeupdated": "1789478758",
+        "timebuildupdated": "1789478758"
+      }
+    }
+  }
+}

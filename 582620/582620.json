@@ -1,0 +1,68 @@
+{
+  "name": "Copoka",
+  "source": "spectre",
+  "changenumber": 39434073,
+  "updated": "2026-11-07T20:59:01.047Z",
+  "branches": {
+    "public": {
+      "buildid": "1651023",
+      "timeupdated": "1544453505",
+      "timebuildupdated": "1487847691"
+    },
+    "beta": {
+      "buildid": "1651023",
+      "description": "For beta testing",
+      "timeupdated": "1487847817",
+      "timebuildupdated": "1487847691"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "582621": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3107793802771818063",
+          "size": "911257278",
+          "download": "776427824"
+        }
+      }
+    },
+    "595980": {
+      "manifests": {
+        "public": {
+          "gid": "4797447177801861008",
+          "size": "293852082",
+          "download": "292001360"
+        }
+      },
+      "dlcappid": "595980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1651023",
+        "timeupdated": "1544453505",
+        "timebuildupdated": "1487847691"
+      },
+      "beta": {
+        "buildid": "1651023",
+        "description": "For beta testing",
+        "timeupdated": "1487847817",
+        "timebuildupdated": "1487847691"
+      }
+    }
+  }
+}

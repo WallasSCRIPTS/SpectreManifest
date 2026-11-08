@@ -1,0 +1,82 @@
+{
+  "name": "Alterium Shift",
+  "source": "spectre",
+  "changenumber": 40302971,
+  "updated": "2026-11-06T21:06:23.202Z",
+  "branches": {
+    "public": {
+      "buildid": "26072131",
+      "timeupdated": "1792706336",
+      "timebuildupdated": "1792478797"
+    },
+    "preview": {
+      "buildid": "26016952",
+      "description": "Pending a release update to the main branch",
+      "timeupdated": "1792278016",
+      "timebuildupdated": "1792276442"
+    },
+    "support-preview": {
+      "buildid": "22651759",
+      "description": "Bux fixes related to current major or minor version pre-release",
+      "timeupdated": "1775354064",
+      "timebuildupdated": "1775347686"
+    }
+  },
+  "depot": {
+    "1586991": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8264548612665750101",
+          "size": "12217694957",
+          "download": "1504714224"
+        }
+      }
+    },
+    "1586992": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6541666495628696491",
+          "size": "12218515396",
+          "download": "1502708528"
+        }
+      }
+    },
+    "1586993": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5598658874868135048",
+          "size": "12210101578",
+          "download": "1498315584"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26072131",
+        "timeupdated": "1792706336",
+        "timebuildupdated": "1792478797"
+      },
+      "preview": {
+        "buildid": "26016952",
+        "description": "Pending a release update to the main branch",
+        "timeupdated": "1792278016",
+        "timebuildupdated": "1792276442"
+      },
+      "support-preview": {
+        "buildid": "22651759",
+        "description": "Bux fixes related to current major or minor version pre-release",
+        "timeupdated": "1775354064",
+        "timebuildupdated": "1775347686"
+      }
+    }
+  }
+}

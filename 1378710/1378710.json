@@ -1,0 +1,70 @@
+{
+  "name": "Placebo Love",
+  "source": "spectre",
+  "changenumber": 37251051,
+  "updated": "2026-11-06T21:04:48.354Z",
+  "branches": {
+    "public": {
+      "buildid": "13546179",
+      "timeupdated": "1710271894",
+      "timebuildupdated": "1708709948"
+    },
+    "macosx": {
+      "buildid": "7496855",
+      "description": "Used for Mac testing only",
+      "timeupdated": "1633634037",
+      "timebuildupdated": "1633633998"
+    },
+    "version1.0": {
+      "buildid": "7678550",
+      "description": "The original version",
+      "timeupdated": "1708799850",
+      "timebuildupdated": "1636412648"
+    }
+  },
+  "depot": {
+    "1378711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2490006860190730180",
+          "size": "681458794",
+          "download": "577611376"
+        }
+      }
+    },
+    "1378712": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "402024885127804569",
+          "size": "847485581",
+          "download": "596239200"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13546179",
+        "timeupdated": "1710271894",
+        "timebuildupdated": "1708709948"
+      },
+      "macosx": {
+        "buildid": "7496855",
+        "description": "Used for Mac testing only",
+        "timeupdated": "1633634037",
+        "timebuildupdated": "1633633998"
+      },
+      "version1.0": {
+        "buildid": "7678550",
+        "description": "The original version",
+        "timeupdated": "1708799850",
+        "timebuildupdated": "1636412648"
+      }
+    }
+  }
+}

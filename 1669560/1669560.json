@@ -1,0 +1,60 @@
+{
+  "name": "Into the Loop",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:06:57.879Z",
+  "branches": {
+    "public": {
+      "buildid": "7757811",
+      "timeupdated": "1637615356",
+      "timebuildupdated": "1637615356"
+    },
+    "local": {
+      "buildid": "7757723",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1637614250",
+      "timebuildupdated": "1637614250"
+    }
+  },
+  "depot": {
+    "1669561": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6045689412316535350",
+          "size": "238151016",
+          "download": "40059920"
+        }
+      }
+    },
+    "1669562": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8353283276940017302",
+          "size": "262561963",
+          "download": "38311760"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7757811",
+        "timeupdated": "1637615356",
+        "timebuildupdated": "1637615356"
+      },
+      "local": {
+        "buildid": "7757723",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1637614250",
+        "timebuildupdated": "1637614250"
+      }
+    }
+  }
+}

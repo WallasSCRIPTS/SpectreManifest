@@ -1,0 +1,106 @@
+{
+  "name": "100% Orange Juice",
+  "source": "spectre",
+  "changenumber": 40338721,
+  "updated": "2026-11-07T20:56:22.454Z",
+  "branches": {
+    "public": {
+      "buildid": "26222217",
+      "timeupdated": "1793193021",
+      "timebuildupdated": "1793032509"
+    },
+    "beta": {
+      "buildid": "24613445",
+      "description": "Public Level Editor Beta",
+      "timeupdated": "1786107270",
+      "timebuildupdated": "1786106549"
+    },
+    "legacy_3.23.1": {
+      "buildid": "19462215",
+      "description": "Legacy version 3.23.1 on DirectX9.",
+      "timeupdated": "1754244608",
+      "timebuildupdated": "1754244577"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "282801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9035674096571368961",
+          "size": "230523469",
+          "download": "104381568"
+        }
+      }
+    },
+    "282802": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6937088662583696933",
+          "size": "78114246",
+          "download": "27272512"
+        }
+      }
+    },
+    "282803": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5363550433279203831",
+          "size": "2133550651",
+          "download": "2031471520"
+        }
+      }
+    },
+    "282804": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "652578752194000762",
+          "size": "2281958394",
+          "download": "2080998256"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26222217",
+        "timeupdated": "1793193021",
+        "timebuildupdated": "1793032509"
+      },
+      "beta": {
+        "buildid": "24613445",
+        "description": "Public Level Editor Beta",
+        "timeupdated": "1786107270",
+        "timebuildupdated": "1786106549"
+      },
+      "legacy_3.23.1": {
+        "buildid": "19462215",
+        "description": "Legacy version 3.23.1 on DirectX9.",
+        "timeupdated": "1754244608",
+        "timebuildupdated": "1754244577"
+      }
+    }
+  }
+}

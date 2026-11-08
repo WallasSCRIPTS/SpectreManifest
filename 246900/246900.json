@@ -1,0 +1,122 @@
+{
+  "name": "Viscera Cleanup Detail",
+  "source": "spectre",
+  "changenumber": 37432709,
+  "updated": "2026-11-07T20:56:11.164Z",
+  "branches": {
+    "public": {
+      "buildid": "6199993",
+      "timeupdated": "1612613605",
+      "timebuildupdated": "1612613388"
+    },
+    "local": {
+      "buildid": "117184",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1379687729"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "246901": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7395860322218314333",
+          "size": "4359193969",
+          "download": "3008613088"
+        }
+      }
+    },
+    "246902": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5556939200676138839",
+          "size": "3218087954",
+          "download": "2648731024"
+        }
+      }
+    },
+    "413160": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1602724265478451695",
+          "size": "425309901",
+          "download": "283926688"
+        }
+      },
+      "dlcappid": "413160"
+    },
+    "413161": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8273550113017253736",
+          "size": "22717415",
+          "download": "17512960"
+        }
+      },
+      "dlcappid": "413160"
+    },
+    "982110": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "334312016363805832",
+          "size": "574041647",
+          "download": "366900816"
+        }
+      },
+      "dlcappid": "982110"
+    },
+    "982111": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "741593886305120790",
+          "size": "24283359",
+          "download": "18654656"
+        }
+      },
+      "dlcappid": "982110"
+    },
+    "branches": {
+      "public": {
+        "buildid": "6199993",
+        "timeupdated": "1612613605",
+        "timebuildupdated": "1612613388"
+      },
+      "local": {
+        "buildid": "117184",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1379687729"
+      }
+    }
+  }
+}

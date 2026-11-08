@@ -1,0 +1,72 @@
+{
+  "name": "Smalland: Survive the Wilds",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:32.677Z",
+  "branches": {
+    "public": {
+      "buildid": "22695059",
+      "timeupdated": "1776279573",
+      "timebuildupdated": "1775650595"
+    },
+    "local": {
+      "buildid": "3481359",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1547819659",
+      "timebuildupdated": "1547819659"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "768202": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3273920084088075654",
+          "size": "23876393786",
+          "download": "11665057584"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22695059",
+        "timeupdated": "1776279573",
+        "timebuildupdated": "1775650595"
+      },
+      "local": {
+        "buildid": "3481359",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1547819659",
+        "timebuildupdated": "1547819659"
+      }
+    }
+  }
+}

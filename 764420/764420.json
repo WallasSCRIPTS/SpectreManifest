@@ -1,0 +1,52 @@
+{
+  "name": "Rogue Racer",
+  "source": "spectre",
+  "changenumber": 40613318,
+  "updated": "2026-11-07T21:00:30.749Z",
+  "branches": {
+    "public": {
+      "buildid": "25443911",
+      "timeupdated": "1790019462",
+      "timebuildupdated": "1790018481"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "764421": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5157062757864963493",
+          "size": "3643983766",
+          "download": "2379878928"
+        }
+      }
+    },
+    "764423": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4094861109775926117",
+          "size": "3413943048",
+          "download": "2461409488"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25443911",
+        "timeupdated": "1790019462",
+        "timebuildupdated": "1790018481"
+      }
+    }
+  }
+}

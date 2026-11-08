@@ -1,0 +1,94 @@
+{
+  "name": "Master of Realms",
+  "source": "spectre",
+  "changenumber": 40376383,
+  "updated": "2026-11-06T23:21:26.308Z",
+  "branches": {
+    "public": {
+      "buildid": "25762865",
+      "timeupdated": "1791330379",
+      "timebuildupdated": "1791322058"
+    },
+    "1.9.0": {
+      "buildid": "23934952",
+      "description": "Master Of Realms v1.9.0 (for people who experience crashes on 1.10.0)",
+      "timeupdated": "1782495417",
+      "timebuildupdated": "1782490953"
+    },
+    "experimental": {
+      "buildid": "25185098",
+      "description": "Rendering Rework (NOTE: Gets updated separately from main branch)",
+      "timeupdated": "1788864348",
+      "timebuildupdated": "1788864348"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2295941": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "17526784622328979",
+          "size": "16111660697",
+          "download": "14142225152"
+        }
+      }
+    },
+    "2295942": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1254471041098152438",
+          "size": "10940497147",
+          "download": "9653323264"
+        }
+      }
+    },
+    "2295943": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6642313121717744637",
+          "size": "16915835886",
+          "download": "14117156112"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25762865",
+        "timeupdated": "1791330379",
+        "timebuildupdated": "1791322058"
+      },
+      "1.9.0": {
+        "buildid": "23934952",
+        "description": "Master Of Realms v1.9.0 (for people who experience crashes on 1.10.0)",
+        "timeupdated": "1782495417",
+        "timebuildupdated": "1782490953"
+      },
+      "experimental": {
+        "buildid": "25185098",
+        "description": "Rendering Rework (NOTE: Gets updated separately from main branch)",
+        "timeupdated": "1788864348",
+        "timebuildupdated": "1788864348"
+      }
+    }
+  }
+}

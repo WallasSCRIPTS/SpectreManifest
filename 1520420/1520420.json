@@ -1,0 +1,67 @@
+{
+  "name": "The Hopebringer",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-05T14:57:13.629Z",
+  "branches": {
+    "public": {
+      "buildid": "13226050",
+      "timeupdated": "1705741020",
+      "timebuildupdated": "1705738047"
+    },
+    "publicbeta": {
+      "buildid": "13226050",
+      "description": "Public Beta Test",
+      "timeupdated": "1705739121",
+      "timebuildupdated": "1705738047"
+    },
+    "safemode": {
+      "buildid": "12569060",
+      "description": "If you run into any issues. Try this branch.",
+      "timeupdated": "1704401955",
+      "timebuildupdated": "1698647682"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1520421": {
+      "manifests": {
+        "public": {
+          "gid": "8979663675718941528",
+          "size": "10319924174",
+          "download": "9881069920"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13226050",
+        "timeupdated": "1705741020",
+        "timebuildupdated": "1705738047"
+      },
+      "publicbeta": {
+        "buildid": "13226050",
+        "description": "Public Beta Test",
+        "timeupdated": "1705739121",
+        "timebuildupdated": "1705738047"
+      },
+      "safemode": {
+        "buildid": "12569060",
+        "description": "If you run into any issues. Try this branch.",
+        "timeupdated": "1704401955",
+        "timebuildupdated": "1698647682"
+      }
+    }
+  }
+}

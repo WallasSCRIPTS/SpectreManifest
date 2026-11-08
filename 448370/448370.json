@@ -1,0 +1,95 @@
+{
+  "name": "IS Defense",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:55.520Z",
+  "branches": {
+    "public": {
+      "buildid": "1234495",
+      "timeupdated": "1468935907",
+      "timebuildupdated": "1468934542"
+    },
+    "lbtest": {
+      "buildid": "1082873",
+      "timeupdated": "1461063974",
+      "timebuildupdated": "1461063829"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "448371": {
+      "manifests": {
+        "public": {
+          "gid": "2081494044362604548",
+          "size": "3449513805",
+          "download": "1140296368"
+        }
+      }
+    },
+    "448372": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6130136212350728941",
+          "size": "519908861",
+          "download": "94677200"
+        }
+      }
+    },
+    "448373": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5060370236060973998",
+          "size": "381431603",
+          "download": "74154688"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1234495",
+        "timeupdated": "1468935907",
+        "timebuildupdated": "1468934542"
+      },
+      "lbtest": {
+        "buildid": "1082873",
+        "timeupdated": "1461063974",
+        "timebuildupdated": "1461063829"
+      }
+    }
+  }
+}

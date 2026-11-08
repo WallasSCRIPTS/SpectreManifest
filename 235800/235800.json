@@ -1,0 +1,110 @@
+{
+  "name": "Audiosurf 2",
+  "source": "spectre",
+  "changenumber": 37432492,
+  "updated": "2026-11-07T20:56:08.559Z",
+  "branches": {
+    "public": {
+      "buildid": "8368530",
+      "timeupdated": "1647380053",
+      "timebuildupdated": "1647279523"
+    },
+    "before_videosurf": {
+      "buildid": "856463",
+      "description": "before videosurf",
+      "timeupdated": "1476813486",
+      "timebuildupdated": "1447372232"
+    },
+    "beforejune2018_xp": {
+      "buildid": "1606626",
+      "timeupdated": "1530121335",
+      "timebuildupdated": "1486062696"
+    },
+    "bleedingedge": {
+      "buildid": "8368530",
+      "description": "help test upcoming updates",
+      "timeupdated": "1647279575",
+      "timebuildupdated": "1647279523"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "235801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7698400006071476537",
+          "size": "887712623",
+          "download": "412297968"
+        }
+      }
+    },
+    "235802": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1375446549250057398",
+          "size": "1151060733",
+          "download": "475875104"
+        }
+      }
+    },
+    "235803": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1854926782790283432",
+          "size": "1109339527",
+          "download": "498578416"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8368530",
+        "timeupdated": "1647380053",
+        "timebuildupdated": "1647279523"
+      },
+      "before_videosurf": {
+        "buildid": "856463",
+        "description": "before videosurf",
+        "timeupdated": "1476813486",
+        "timebuildupdated": "1447372232"
+      },
+      "beforejune2018_xp": {
+        "buildid": "1606626",
+        "timeupdated": "1530121335",
+        "timebuildupdated": "1486062696"
+      },
+      "bleedingedge": {
+        "buildid": "8368530",
+        "description": "help test upcoming updates",
+        "timeupdated": "1647279575",
+        "timebuildupdated": "1647279523"
+      }
+    }
+  }
+}

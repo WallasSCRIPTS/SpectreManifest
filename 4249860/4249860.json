@@ -1,0 +1,58 @@
+{
+  "name": "Starfinder: Afterlight Demo",
+  "source": "spectre",
+  "changenumber": 40600606,
+  "updated": "2026-11-04T23:24:45.689Z",
+  "branches": {
+    "public": {
+      "buildid": "25940446",
+      "timeupdated": "1792011029",
+      "timebuildupdated": "1792000110"
+    },
+    "pre-demo": {
+      "buildid": "25940446",
+      "description": "Demo patch builds",
+      "timeupdated": "1792010893",
+      "timebuildupdated": "1792000110"
+    }
+  },
+  "depot": {
+    "4249861": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1461597855778344235",
+          "size": "4538194572",
+          "download": "1734246592"
+        }
+      }
+    },
+    "4249862": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8343547739190512120",
+          "size": "4526272700",
+          "download": "1731628480"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25940446",
+        "timeupdated": "1792011029",
+        "timebuildupdated": "1792000110"
+      },
+      "pre-demo": {
+        "buildid": "25940446",
+        "description": "Demo patch builds",
+        "timeupdated": "1792010893",
+        "timebuildupdated": "1792000110"
+      }
+    }
+  }
+}

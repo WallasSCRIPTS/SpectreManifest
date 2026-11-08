@@ -1,0 +1,68 @@
+{
+  "name": "SPACECOM",
+  "source": "spectre",
+  "changenumber": 40621061,
+  "updated": "2026-11-07T20:56:16.485Z",
+  "branches": {
+    "public": {
+      "buildid": "425005",
+      "timebuildupdated": "1414586806"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "263861": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "941550460431695803",
+          "size": "230851078",
+          "download": "163660745172"
+        }
+      }
+    },
+    "263862": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6436082121317592239",
+          "size": "223716358",
+          "download": "282916862814"
+        }
+      }
+    },
+    "263865": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3170516286559750919",
+          "size": "228118235",
+          "download": "80657424795"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "425005",
+        "timebuildupdated": "1414586806"
+      }
+    }
+  }
+}

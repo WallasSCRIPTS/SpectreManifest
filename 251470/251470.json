@@ -1,0 +1,98 @@
+{
+  "name": "TowerFall Ascension",
+  "source": "spectre",
+  "changenumber": 39387803,
+  "updated": "2026-11-07T20:56:12.572Z",
+  "branches": {
+    "public": {
+      "buildid": "6032486",
+      "timeupdated": "1609604845",
+      "timebuildupdated": "1609604844"
+    },
+    "linux32": {
+      "buildid": "2813507",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609454024",
+      "timebuildupdated": "1527544245"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "251471": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "978005738558790517",
+          "size": "305663599",
+          "download": "244265344"
+        }
+      }
+    },
+    "251472": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3832107080953249571",
+          "size": "331796062",
+          "download": "251277712"
+        }
+      }
+    },
+    "251473": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5296868744381090951",
+          "size": "345335938",
+          "download": "254258432"
+        }
+      }
+    },
+    "337840": {
+      "manifests": {
+        "public": {
+          "gid": "1845747980164010748",
+          "size": "49114340",
+          "download": "32626496"
+        }
+      },
+      "dlcappid": "337840"
+    },
+    "branches": {
+      "public": {
+        "buildid": "6032486",
+        "timeupdated": "1609604845",
+        "timebuildupdated": "1609604844"
+      },
+      "linux32": {
+        "buildid": "2813507",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609454024",
+        "timebuildupdated": "1527544245"
+      }
+    }
+  }
+}

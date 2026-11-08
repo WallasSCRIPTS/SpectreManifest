@@ -1,0 +1,68 @@
+{
+  "name": "Breach & Clear: Deadline Rebirth (2016)",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:34.805Z",
+  "branches": {
+    "public": {
+      "buildid": "1468090",
+      "timeupdated": "1479504891",
+      "timebuildupdated": "1479504736"
+    },
+    "dev-builds": {
+      "buildid": "848696",
+      "description": "Grants access to the most up-to-date build for each platform. These builds are not guaranteed to be stable and may totally destroy a save file.",
+      "timebuildupdated": "1446848410"
+    }
+  },
+  "depot": {
+    "310891": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4148300946245112560",
+          "size": "2298619979",
+          "download": "859895840"
+        }
+      }
+    },
+    "310892": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6739308467630632473",
+          "size": "2336383697",
+          "download": "872773776"
+        }
+      }
+    },
+    "310893": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7719541236226593297",
+          "size": "2305684473",
+          "download": "862820512"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1468090",
+        "timeupdated": "1479504891",
+        "timebuildupdated": "1479504736"
+      },
+      "dev-builds": {
+        "buildid": "848696",
+        "description": "Grants access to the most up-to-date build for each platform. These builds are not guaranteed to be stable and may totally destroy a save file.",
+        "timebuildupdated": "1446848410"
+      }
+    }
+  }
+}

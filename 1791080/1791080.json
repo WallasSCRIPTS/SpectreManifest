@@ -1,0 +1,55 @@
+{
+  "name": "Phantom-OS",
+  "source": "spectre",
+  "changenumber": 40629843,
+  "updated": "2026-11-06T23:09:47.981Z",
+  "branches": {
+    "public": {
+      "buildid": "11288299",
+      "timeupdated": "1684766461",
+      "timebuildupdated": "1684766432"
+    },
+    "dev_test": {
+      "buildid": "18785612",
+      "description": "for testing unstable builds of the game",
+      "timeupdated": "1749402830",
+      "timebuildupdated": "1749401267"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1791081": {
+      "manifests": {
+        "public": {
+          "gid": "6058482584527820679",
+          "size": "7104303174",
+          "download": "6350444464"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11288299",
+        "timeupdated": "1684766461",
+        "timebuildupdated": "1684766432"
+      },
+      "dev_test": {
+        "buildid": "18785612",
+        "description": "for testing unstable builds of the game",
+        "timeupdated": "1749402830",
+        "timebuildupdated": "1749401267"
+      }
+    }
+  }
+}

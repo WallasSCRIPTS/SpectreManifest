@@ -1,0 +1,88 @@
+{
+  "name": "Old World",
+  "source": "spectre",
+  "changenumber": 40696975,
+  "updated": "2026-11-07T20:59:08.150Z",
+  "branches": {
+    "public": {
+      "buildid": "26433529",
+      "timeupdated": "1793827752",
+      "timebuildupdated": "1793801897"
+    },
+    "legacy": {
+      "buildid": "21412191",
+      "description": "Legacy build running Unity 2022",
+      "timeupdated": "1772479786",
+      "timebuildupdated": "1767805136"
+    },
+    "test": {
+      "buildid": "26273268",
+      "description": "Testing Branch for the next version",
+      "timeupdated": "1793219923",
+      "timebuildupdated": "1793198427"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "597181": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8339749582860188012",
+          "size": "7811851812",
+          "download": "3825456944"
+        }
+      }
+    },
+    "597182": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2870119657908978375",
+          "size": "7466550289",
+          "download": "3611817024"
+        }
+      }
+    },
+    "597183": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4667959619573014332",
+          "size": "7425733506",
+          "download": "3598217872"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26433529",
+        "timeupdated": "1793827752",
+        "timebuildupdated": "1793801897"
+      },
+      "legacy": {
+        "buildid": "21412191",
+        "description": "Legacy build running Unity 2022",
+        "timeupdated": "1772479786",
+        "timebuildupdated": "1767805136"
+      },
+      "test": {
+        "buildid": "26273268",
+        "description": "Testing Branch for the next version",
+        "timeupdated": "1793219923",
+        "timebuildupdated": "1793198427"
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "name": "Rise of Industry",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:40.881Z",
+  "branches": {
+    "public": {
+      "buildid": "9064059",
+      "timeupdated": "1662726611",
+      "timebuildupdated": "1657028861"
+    },
+    "experimental": {
+      "buildid": "6076857",
+      "timeupdated": "1610555076",
+      "timebuildupdated": "1610555076"
+    },
+    "noburst": {
+      "buildid": "7376113",
+      "timeupdated": "1631868760",
+      "timebuildupdated": "1631868760"
+    },
+    "previousbuild": {
+      "buildid": "6081664",
+      "timeupdated": "1631864986",
+      "timebuildupdated": "1610631514"
+    }
+  },
+  "depot": {
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "671441": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8360881793189550917",
+          "size": "1959055311",
+          "download": "782373520"
+        }
+      }
+    },
+    "671442": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7039282614904897761",
+          "size": "1964231994",
+          "download": "784110816"
+        }
+      }
+    },
+    "671443": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1682126488526700296",
+          "size": "1987424184",
+          "download": "790124080"
+        }
+      }
+    },
+    "938410": {
+      "manifests": {
+        "public": {
+          "gid": "4100241021132616765",
+          "size": "379316691",
+          "download": "373883280"
+        }
+      },
+      "dlcappid": "938410"
+    },
+    "1139110": {
+      "dlcappid": "1139110"
+    },
+    "1182960": {
+      "manifests": {
+        "public": {
+          "gid": "6049285348538891318",
+          "size": "196278731",
+          "download": "194804656"
+        }
+      },
+      "dlcappid": "1182960"
+    },
+    "branches": {
+      "public": {
+        "buildid": "9064059",
+        "timeupdated": "1662726611",
+        "timebuildupdated": "1657028861"
+      },
+      "experimental": {
+        "buildid": "6076857",
+        "timeupdated": "1610555076",
+        "timebuildupdated": "1610555076"
+      },
+      "noburst": {
+        "buildid": "7376113",
+        "timeupdated": "1631868760",
+        "timebuildupdated": "1631868760"
+      },
+      "previousbuild": {
+        "buildid": "6081664",
+        "timeupdated": "1631864986",
+        "timebuildupdated": "1610631514"
+      }
+    }
+  }
+}

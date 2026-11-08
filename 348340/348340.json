@@ -1,0 +1,64 @@
+{
+  "name": "Siege Wars",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:00.977Z",
+  "branches": {
+    "public": {
+      "buildid": "17131343",
+      "timeupdated": "1737822867",
+      "timebuildupdated": "1737822733"
+    }
+  },
+  "depot": {
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "348341": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4318119043411185052",
+          "size": "110691919",
+          "download": "50175104"
+        }
+      }
+    },
+    "348342": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2978448251456899258",
+          "size": "131707281",
+          "download": "56954512"
+        }
+      }
+    },
+    "348343": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2739629789791637263",
+          "size": "130471452",
+          "download": "55871328"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17131343",
+        "timeupdated": "1737822867",
+        "timebuildupdated": "1737822733"
+      }
+    }
+  }
+}

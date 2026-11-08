@@ -1,0 +1,58 @@
+{
+  "name": "Mayor May Knott",
+  "source": "spectre",
+  "changenumber": 39802348,
+  "updated": "2026-11-06T23:23:21.262Z",
+  "branches": {
+    "public": {
+      "buildid": "25261405",
+      "timeupdated": "1789157294",
+      "timebuildupdated": "1789157246"
+    },
+    "feature-test": {
+      "buildid": "25156891",
+      "description": "Test branch for new features and major updates",
+      "timeupdated": "1788729195",
+      "timebuildupdated": "1788729141"
+    }
+  },
+  "depot": {
+    "2377451": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1197296770957039444",
+          "size": "1848264243",
+          "download": "840310576"
+        }
+      }
+    },
+    "2377453": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5433450527352618366",
+          "size": "1728299315",
+          "download": "733233968"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25261405",
+        "timeupdated": "1789157294",
+        "timebuildupdated": "1789157246"
+      },
+      "feature-test": {
+        "buildid": "25156891",
+        "description": "Test branch for new features and major updates",
+        "timeupdated": "1788729195",
+        "timebuildupdated": "1788729141"
+      }
+    }
+  }
+}

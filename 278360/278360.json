@@ -1,0 +1,88 @@
+{
+  "name": "A Story About My Uncle",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:20.969Z",
+  "branches": {
+    "public": {
+      "buildid": "1822049",
+      "timeupdated": "1494859181",
+      "timebuildupdated": "1494843241"
+    },
+    "local": {
+      "buildid": "265998",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1400061891"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "278361": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8314284209762417428",
+          "size": "1258264110",
+          "download": "929027136"
+        }
+      }
+    },
+    "278362": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7137994883443283717",
+          "size": "1246349269",
+          "download": "877598816"
+        }
+      }
+    },
+    "278363": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6726738844403256832",
+          "size": "1274962987",
+          "download": "888817744"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1822049",
+        "timeupdated": "1494859181",
+        "timebuildupdated": "1494843241"
+      },
+      "local": {
+        "buildid": "265998",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1400061891"
+      }
+    }
+  }
+}

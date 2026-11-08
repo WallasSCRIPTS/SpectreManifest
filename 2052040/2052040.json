@@ -1,0 +1,81 @@
+{
+  "name": "Golden Lap",
+  "source": "spectre",
+  "changenumber": 37454840,
+  "updated": "2026-11-06T23:15:38.457Z",
+  "branches": {
+    "public": {
+      "buildid": "22690839",
+      "timeupdated": "1775646967",
+      "timebuildupdated": "1775631669"
+    },
+    "public-beta": {
+      "buildid": "22690839",
+      "description": "Public beta branch",
+      "timeupdated": "1775646967",
+      "timebuildupdated": "1775631669"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2052041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3575905298437483619",
+          "size": "448868632",
+          "download": "256765840"
+        }
+      }
+    },
+    "2052042": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8393146220551825989",
+          "size": "487598784",
+          "download": "270010128"
+        }
+      }
+    },
+    "2052043": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6359049043351805288",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "2052044": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22690839",
+        "timeupdated": "1775646967",
+        "timebuildupdated": "1775631669"
+      },
+      "public-beta": {
+        "buildid": "22690839",
+        "description": "Public beta branch",
+        "timeupdated": "1775646967",
+        "timebuildupdated": "1775631669"
+      }
+    }
+  }
+}

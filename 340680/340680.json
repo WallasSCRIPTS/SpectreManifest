@@ -1,0 +1,71 @@
+{
+  "name": "Bunny Bash",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:50.583Z",
+  "branches": {
+    "public": {
+      "buildid": "1115943",
+      "timeupdated": "1462720611",
+      "timebuildupdated": "1462700119"
+    },
+    "beta": {
+      "buildid": "1115943",
+      "description": "Public Beta",
+      "timeupdated": "1462720579",
+      "timebuildupdated": "1462700119"
+    }
+  },
+  "depot": {
+    "340681": {},
+    "340683": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1463433934672202292",
+          "size": "1879271472",
+          "download": "672965424"
+        }
+      }
+    },
+    "340684": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3459333413393467977",
+          "size": "1895012163",
+          "download": "678052768"
+        }
+      }
+    },
+    "340685": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5108171830578082016",
+          "size": "1883881289",
+          "download": "673156832"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1115943",
+        "timeupdated": "1462720611",
+        "timebuildupdated": "1462700119"
+      },
+      "beta": {
+        "buildid": "1115943",
+        "description": "Public Beta",
+        "timeupdated": "1462720579",
+        "timebuildupdated": "1462700119"
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "name": "Hunt Down The Freeman",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:08.329Z",
+  "branches": {
+    "public": {
+      "buildid": "9494400",
+      "timeupdated": "1662962426",
+      "timebuildupdated": "1662921123"
+    },
+    "2018_retail": {
+      "buildid": "2604730",
+      "description": "2018 Retail build",
+      "timeupdated": "1648794460",
+      "timebuildupdated": "1521070646"
+    },
+    "2022_april_fools_update": {
+      "buildid": "8479808",
+      "description": "2022 Aprils Fools Update",
+      "timeupdated": "1662398738",
+      "timebuildupdated": "1648807351"
+    },
+    "2022_september_nvgd_update": {
+      "buildid": "9502072",
+      "description": "National Video Games Day Update",
+      "timeupdated": "1674866491",
+      "timebuildupdated": "1663022558"
+    },
+    "owf_development_build": {
+      "buildid": "19121259",
+      "description": "OWF Development Nightly-Weekly Build",
+      "timeupdated": "1751778781",
+      "timebuildupdated": "1751778781"
+    },
+    "owf_staging_prep": {
+      "buildid": "16884751",
+      "description": "Preview of next update",
+      "timeupdated": "1735699327",
+      "timebuildupdated": "1735699327"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "723391": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4943933081593682331",
+          "size": "30756925011",
+          "download": "14977900976"
+        }
+      }
+    },
+    "723392": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5521670714336968061",
+          "size": "7101073175",
+          "download": "6938335136"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9494400",
+        "timeupdated": "1662962426",
+        "timebuildupdated": "1662921123"
+      },
+      "2018_retail": {
+        "buildid": "2604730",
+        "description": "2018 Retail build",
+        "timeupdated": "1648794460",
+        "timebuildupdated": "1521070646"
+      },
+      "2022_april_fools_update": {
+        "buildid": "8479808",
+        "description": "2022 Aprils Fools Update",
+        "timeupdated": "1662398738",
+        "timebuildupdated": "1648807351"
+      },
+      "2022_september_nvgd_update": {
+        "buildid": "9502072",
+        "description": "National Video Games Day Update",
+        "timeupdated": "1674866491",
+        "timebuildupdated": "1663022558"
+      },
+      "owf_development_build": {
+        "buildid": "19121259",
+        "description": "OWF Development Nightly-Weekly Build",
+        "timeupdated": "1751778781",
+        "timebuildupdated": "1751778781"
+      },
+      "owf_staging_prep": {
+        "buildid": "16884751",
+        "description": "Preview of next update",
+        "timeupdated": "1735699327",
+        "timebuildupdated": "1735699327"
+      }
+    }
+  }
+}

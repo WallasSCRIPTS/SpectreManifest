@@ -1,0 +1,67 @@
+{
+  "name": "Block Fortress 2",
+  "source": "spectre",
+  "changenumber": 39356221,
+  "updated": "2026-11-06T21:07:13.648Z",
+  "branches": {
+    "public": {
+      "buildid": "24861980",
+      "timeupdated": "1787328134",
+      "timebuildupdated": "1787315862"
+    },
+    "beta": {
+      "buildid": "24861980",
+      "description": "beta test",
+      "timeupdated": "1787317552",
+      "timebuildupdated": "1787315862"
+    }
+  },
+  "depot": {
+    "2107031": {
+      "manifests": {
+        "public": {
+          "gid": "3464876452353578949",
+          "size": "1692501164",
+          "download": "1615152352"
+        }
+      }
+    },
+    "2107032": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7806199054094483328",
+          "size": "22127363",
+          "download": "8206432"
+        }
+      }
+    },
+    "2107033": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5393787324680967261",
+          "size": "73887633",
+          "download": "23517840"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24861980",
+        "timeupdated": "1787328134",
+        "timebuildupdated": "1787315862"
+      },
+      "beta": {
+        "buildid": "24861980",
+        "description": "beta test",
+        "timeupdated": "1787317552",
+        "timebuildupdated": "1787315862"
+      }
+    }
+  }
+}

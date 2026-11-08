@@ -1,0 +1,68 @@
+{
+  "name": "Void Invaders",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:28.451Z",
+  "branches": {
+    "public": {
+      "buildid": "2417732",
+      "timeupdated": "1630435747",
+      "timebuildupdated": "1515282064"
+    },
+    "beta": {
+      "buildid": "2417732",
+      "description": "Branch for testing",
+      "timeupdated": "1609688772",
+      "timebuildupdated": "1515282064"
+    }
+  },
+  "depot": {
+    "391171": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5467845968879342826",
+          "size": "32996463",
+          "download": "25571760"
+        }
+      }
+    },
+    "391172": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3036308211847964274",
+          "size": "31155710",
+          "download": "24381200"
+        }
+      }
+    },
+    "416900": {
+      "manifests": {
+        "public": {
+          "gid": "8073337848525208163",
+          "size": "60857536",
+          "download": "60075968"
+        }
+      },
+      "dlcappid": "416900"
+    },
+    "branches": {
+      "public": {
+        "buildid": "2417732",
+        "timeupdated": "1630435747",
+        "timebuildupdated": "1515282064"
+      },
+      "beta": {
+        "buildid": "2417732",
+        "description": "Branch for testing",
+        "timeupdated": "1609688772",
+        "timebuildupdated": "1515282064"
+      }
+    }
+  }
+}

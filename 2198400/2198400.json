@@ -1,0 +1,70 @@
+{
+  "name": "Yes Comrade",
+  "source": "spectre",
+  "changenumber": 40455966,
+  "updated": "2026-11-06T23:19:30.267Z",
+  "branches": {
+    "public": {
+      "buildid": "25140584",
+      "timeupdated": "1788609934",
+      "timebuildupdated": "1788609853"
+    },
+    "beta": {
+      "buildid": "26334648",
+      "description": "Try out our Signal System beta",
+      "timeupdated": "1793452398",
+      "timebuildupdated": "1793395647"
+    },
+    "previous_stable": {
+      "buildid": "23914291",
+      "description": "Previously known stable update",
+      "timeupdated": "1782399323",
+      "timebuildupdated": "1782398625"
+    }
+  },
+  "depot": {
+    "2198401": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8000553438672385947",
+          "size": "568315654",
+          "download": "295306816"
+        }
+      }
+    },
+    "2198402": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1990172038356728464",
+          "size": "572915162",
+          "download": "293008800"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25140584",
+        "timeupdated": "1788609934",
+        "timebuildupdated": "1788609853"
+      },
+      "beta": {
+        "buildid": "26334648",
+        "description": "Try out our Signal System beta",
+        "timeupdated": "1793452398",
+        "timebuildupdated": "1793395647"
+      },
+      "previous_stable": {
+        "buildid": "23914291",
+        "description": "Previously known stable update",
+        "timeupdated": "1782399323",
+        "timebuildupdated": "1782398625"
+      }
+    }
+  }
+}

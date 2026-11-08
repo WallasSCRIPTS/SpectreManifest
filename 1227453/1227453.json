@@ -1,0 +1,66 @@
+{
+  "name": "RACE",
+  "source": "spectre",
+  "changenumber": 40626962,
+  "updated": "2026-11-06T21:03:44.166Z",
+  "branches": {
+    "public": {
+      "buildid": "20833829",
+      "timeupdated": "1763418643",
+      "timebuildupdated": "1763416226"
+    },
+    "nightly": {
+      "buildid": "26456887",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793878954",
+      "timebuildupdated": "1793878954"
+    }
+  },
+  "depot": {
+    "1227453": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8637397421342316101",
+          "size": "323846",
+          "download": "132240"
+        }
+      },
+      "dlcappid": "1227453"
+    },
+    "1790010": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3652138296004003928",
+          "size": "390995",
+          "download": "88112"
+        }
+      },
+      "dlcappid": "1227453"
+    },
+    "1790011": {
+      "config": {
+        "oslist": "macos"
+      },
+      "dlcappid": "1227453"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833829",
+        "timeupdated": "1763418643",
+        "timebuildupdated": "1763416226"
+      },
+      "nightly": {
+        "buildid": "26456887",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793878954",
+        "timebuildupdated": "1793878954"
+      }
+    }
+  }
+}

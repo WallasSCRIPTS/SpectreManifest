@@ -1,0 +1,70 @@
+{
+  "name": "The Dead Roam Free",
+  "source": "spectre",
+  "changenumber": 36631845,
+  "updated": "2026-11-05T14:57:26.042Z",
+  "branches": {
+    "public": {
+      "buildid": "21851392",
+      "timeupdated": "1770652147",
+      "timebuildupdated": "1770652102"
+    },
+    "earlyaccess": {
+      "buildid": "21259354",
+      "description": "Early Access",
+      "timeupdated": "1766156889",
+      "timebuildupdated": "1766156546"
+    }
+  },
+  "depot": {
+    "1589401": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5338382152018637791",
+          "size": "394763892",
+          "download": "72952576"
+        }
+      }
+    },
+    "1589402": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2976350249034412930",
+          "size": "1089775469",
+          "download": "143729584"
+        }
+      }
+    },
+    "1589403": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4534288947956748757",
+          "size": "597875244",
+          "download": "118841568"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21851392",
+        "timeupdated": "1770652147",
+        "timebuildupdated": "1770652102"
+      },
+      "earlyaccess": {
+        "buildid": "21259354",
+        "description": "Early Access",
+        "timeupdated": "1766156889",
+        "timebuildupdated": "1766156546"
+      }
+    }
+  }
+}

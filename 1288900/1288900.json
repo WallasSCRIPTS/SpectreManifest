@@ -1,0 +1,70 @@
+{
+  "name": "Title_Pending",
+  "source": "spectre",
+  "changenumber": 38494100,
+  "updated": "2026-11-06T21:04:11.700Z",
+  "branches": {
+    "public": {
+      "buildid": "13137078",
+      "timeupdated": "1705615267",
+      "timebuildupdated": "1704895112"
+    },
+    "fallback": {
+      "buildid": "9635572",
+      "description": "If something breaks in new version, use this version",
+      "timeupdated": "1667762321",
+      "timebuildupdated": "1664680302"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1288901": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3924600384014513464",
+          "size": "717627336",
+          "download": "612940352"
+        }
+      }
+    },
+    "1288902": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3614161798528515108",
+          "size": "920306184",
+          "download": "612808576"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13137078",
+        "timeupdated": "1705615267",
+        "timebuildupdated": "1704895112"
+      },
+      "fallback": {
+        "buildid": "9635572",
+        "description": "If something breaks in new version, use this version",
+        "timeupdated": "1667762321",
+        "timebuildupdated": "1664680302"
+      }
+    }
+  }
+}

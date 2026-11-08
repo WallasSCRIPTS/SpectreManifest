@@ -1,0 +1,70 @@
+{
+  "name": "Dead Sky",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:15.061Z",
+  "branches": {
+    "public": {
+      "buildid": "425505",
+      "timebuildupdated": "1414614332"
+    },
+    "beta": {
+      "buildid": "425505",
+      "timebuildupdated": "1414614332"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "259701": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1158150323572510813",
+          "size": "1249538862",
+          "download": "1641646560883"
+        }
+      }
+    },
+    "259702": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4470361508480814459",
+          "size": "1241059612",
+          "download": "1020442550987"
+        }
+      }
+    },
+    "259703": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1399363519199952848",
+          "size": "1282981685",
+          "download": "1020706745289"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "425505",
+        "timebuildupdated": "1414614332"
+      },
+      "beta": {
+        "buildid": "425505",
+        "timebuildupdated": "1414614332"
+      }
+    }
+  }
+}

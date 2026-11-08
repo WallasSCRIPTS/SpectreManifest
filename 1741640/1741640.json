@@ -1,0 +1,95 @@
+{
+  "name": "Shadows of Forbidden Gods",
+  "source": "spectre",
+  "changenumber": 38168116,
+  "updated": "2026-11-06T23:09:41.461Z",
+  "branches": {
+    "public": {
+      "buildid": "24737087",
+      "timeupdated": "1786974602",
+      "timebuildupdated": "1786719393"
+    },
+    "betabranch-prevver": {
+      "buildid": "14088798",
+      "description": "Previous Version of the Beta Branch",
+      "timeupdated": "1713393960",
+      "timebuildupdated": "1713393434"
+    },
+    "demo_compatibility": {
+      "buildid": "9341569",
+      "description": "A branch for continuing saves from the demo",
+      "timeupdated": "1671593054",
+      "timebuildupdated": "1660842789"
+    },
+    "betabranch": {
+      "buildid": "24828098",
+      "description": "Testing Branch for upcoming, currently unstable, features",
+      "timeupdated": "1787180314",
+      "timebuildupdated": "1787180314"
+    },
+    "previous_version": {
+      "buildid": "20625226",
+      "description": "Old version for save compatibility",
+      "timeupdated": "1762525722",
+      "timebuildupdated": "1761930497"
+    }
+  },
+  "depot": {
+    "1741641": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5751172314911628771",
+          "size": "686979069",
+          "download": "307688528"
+        }
+      }
+    },
+    "2855250": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8064753114433758160",
+          "size": "1399422549",
+          "download": "375584512"
+        }
+      },
+      "dlcappid": "2855250"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24737087",
+        "timeupdated": "1786974602",
+        "timebuildupdated": "1786719393"
+      },
+      "betabranch-prevver": {
+        "buildid": "14088798",
+        "description": "Previous Version of the Beta Branch",
+        "timeupdated": "1713393960",
+        "timebuildupdated": "1713393434"
+      },
+      "demo_compatibility": {
+        "buildid": "9341569",
+        "description": "A branch for continuing saves from the demo",
+        "timeupdated": "1671593054",
+        "timebuildupdated": "1660842789"
+      },
+      "betabranch": {
+        "buildid": "24828098",
+        "description": "Testing Branch for upcoming, currently unstable, features",
+        "timeupdated": "1787180314",
+        "timebuildupdated": "1787180314"
+      },
+      "previous_version": {
+        "buildid": "20625226",
+        "description": "Old version for save compatibility",
+        "timeupdated": "1762525722",
+        "timebuildupdated": "1761930497"
+      }
+    }
+  }
+}

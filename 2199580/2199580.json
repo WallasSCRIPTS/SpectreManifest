@@ -1,0 +1,65 @@
+{
+  "name": "Interstellar Pilot 2",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:19:30.393Z",
+  "branches": {
+    "public": {
+      "buildid": "10244352",
+      "timeupdated": "1672685282",
+      "timebuildupdated": "1672685056"
+    },
+    "beta": {
+      "buildid": "10343211",
+      "description": "Public beta",
+      "timeupdated": "1673991222",
+      "timebuildupdated": "1673991222"
+    },
+    "local": {
+      "buildid": "10158269",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1671147193",
+      "timebuildupdated": "1671147193"
+    }
+  },
+  "depot": {
+    "2199581": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8238318458893392531",
+          "size": "207908224",
+          "download": "118488608"
+        }
+      }
+    },
+    "2199582": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10244352",
+        "timeupdated": "1672685282",
+        "timebuildupdated": "1672685056"
+      },
+      "beta": {
+        "buildid": "10343211",
+        "description": "Public beta",
+        "timeupdated": "1673991222",
+        "timebuildupdated": "1673991222"
+      },
+      "local": {
+        "buildid": "10158269",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1671147193",
+        "timebuildupdated": "1671147193"
+      }
+    }
+  }
+}

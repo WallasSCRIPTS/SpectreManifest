@@ -1,0 +1,58 @@
+{
+  "name": "Anomaly Exit",
+  "source": "spectre",
+  "changenumber": 38240101,
+  "updated": "2026-11-06T23:19:34.234Z",
+  "branches": {
+    "public": {
+      "buildid": "19121828",
+      "timeupdated": "1751788977",
+      "timebuildupdated": "1751788797"
+    },
+    "developertest": {
+      "buildid": "19121828",
+      "description": "Experimental updates prior to release",
+      "timeupdated": "1751788812",
+      "timebuildupdated": "1751788797"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2232601": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3572478997860121729",
+          "size": "1332159396",
+          "download": "1141359392"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19121828",
+        "timeupdated": "1751788977",
+        "timebuildupdated": "1751788797"
+      },
+      "developertest": {
+        "buildid": "19121828",
+        "description": "Experimental updates prior to release",
+        "timeupdated": "1751788812",
+        "timebuildupdated": "1751788797"
+      }
+    }
+  }
+}

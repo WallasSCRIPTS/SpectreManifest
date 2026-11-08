@@ -1,0 +1,58 @@
+{
+  "name": "CD-RUN",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:47.779Z",
+  "branches": {
+    "public": {
+      "buildid": "11241126",
+      "timeupdated": "1687680439",
+      "timebuildupdated": "1684220565"
+    },
+    "beta": {
+      "buildid": "11241126",
+      "description": "For newer versions of the game",
+      "timeupdated": "1684220699",
+      "timebuildupdated": "1684220565"
+    }
+  },
+  "depot": {
+    "1051921": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4345665457339037728",
+          "size": "191503090",
+          "download": "71527024"
+        }
+      }
+    },
+    "1051923": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1604126780743935589",
+          "size": "205593969",
+          "download": "72027296"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11241126",
+        "timeupdated": "1687680439",
+        "timebuildupdated": "1684220565"
+      },
+      "beta": {
+        "buildid": "11241126",
+        "description": "For newer versions of the game",
+        "timeupdated": "1684220699",
+        "timebuildupdated": "1684220565"
+      }
+    }
+  }
+}

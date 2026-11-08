@@ -1,0 +1,70 @@
+{
+  "name": "Haven Park Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-06T21:06:51.326Z",
+  "branches": {
+    "public": {
+      "buildid": "10489328",
+      "timeupdated": "1675700756",
+      "timebuildupdated": "1675700756"
+    },
+    "beta": {
+      "buildid": "20277751",
+      "description": "Public beta testing",
+      "timeupdated": "1759791559",
+      "timebuildupdated": "1759791470"
+    }
+  },
+  "depot": {
+    "1653281": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5136824926600986886",
+          "size": "399694896",
+          "download": "197370048"
+        }
+      }
+    },
+    "1653282": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1629736594951533211",
+          "size": "408361763",
+          "download": "198162240"
+        }
+      }
+    },
+    "1653283": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5653524370536279282",
+          "size": "400244816",
+          "download": "196950688"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10489328",
+        "timeupdated": "1675700756",
+        "timebuildupdated": "1675700756"
+      },
+      "beta": {
+        "buildid": "20277751",
+        "description": "Public beta testing",
+        "timeupdated": "1759791559",
+        "timebuildupdated": "1759791470"
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Slowdrive",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:59:05.803Z",
+  "branches": {
+    "public": {
+      "buildid": "2891666",
+      "timeupdated": "1529905716",
+      "timebuildupdated": "1529905675"
+    },
+    "beta": {
+      "buildid": "2891666",
+      "timeupdated": "1529905696",
+      "timebuildupdated": "1529905675"
+    }
+  },
+  "depot": {
+    "592301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3519202974360891720",
+          "size": "111145874",
+          "download": "26695200"
+        }
+      }
+    },
+    "592302": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3482429512185230041",
+          "size": "159537866",
+          "download": "42059488"
+        }
+      }
+    },
+    "592303": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1885763547308737007",
+          "size": "158813913",
+          "download": "40469840"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2891666",
+        "timeupdated": "1529905716",
+        "timebuildupdated": "1529905675"
+      },
+      "beta": {
+        "buildid": "2891666",
+        "timeupdated": "1529905696",
+        "timebuildupdated": "1529905675"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Mars Horizon",
+  "source": "spectre",
+  "changenumber": 37437721,
+  "updated": "2026-11-07T21:00:31.748Z",
+  "branches": {
+    "public": {
+      "buildid": "20691746",
+      "timeupdated": "1763394879",
+      "timebuildupdated": "1762419373"
+    },
+    "experimental": {
+      "buildid": "7136081",
+      "description": "Experimental changes and fixes for public testing",
+      "timeupdated": "1637329427",
+      "timebuildupdated": "1628070265"
+    }
+  },
+  "depot": {
+    "765811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3182188410665739195",
+          "size": "3104635090",
+          "download": "867441936"
+        }
+      }
+    },
+    "765812": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3691519829972140803",
+          "size": "3118795528",
+          "download": "869317568"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20691746",
+        "timeupdated": "1763394879",
+        "timebuildupdated": "1762419373"
+      },
+      "experimental": {
+        "buildid": "7136081",
+        "description": "Experimental changes and fixes for public testing",
+        "timeupdated": "1637329427",
+        "timebuildupdated": "1628070265"
+      }
+    }
+  }
+}

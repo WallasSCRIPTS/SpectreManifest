@@ -1,0 +1,58 @@
+{
+  "name": "SCHiM",
+  "source": "spectre",
+  "changenumber": 40402132,
+  "updated": "2026-11-06T21:05:52.184Z",
+  "branches": {
+    "public": {
+      "buildid": "21221121",
+      "timeupdated": "1765982954",
+      "timebuildupdated": "1765961036"
+    }
+  },
+  "depot": {
+    "1519711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6662117467211528811",
+          "size": "933273853",
+          "download": "668313280"
+        }
+      }
+    },
+    "1519712": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6088454129466779384",
+          "size": "1021249143",
+          "download": "722092000"
+        }
+      }
+    },
+    "1519713": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3404864201794757333",
+          "size": "921807529",
+          "download": "666510608"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21221121",
+        "timeupdated": "1765982954",
+        "timebuildupdated": "1765961036"
+      }
+    }
+  }
+}

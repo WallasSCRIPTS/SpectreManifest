@@ -1,0 +1,100 @@
+{
+  "name": "RoBoRumble",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:41.791Z",
+  "branches": {
+    "public": {
+      "buildid": "1579436",
+      "timeupdated": "1484852032",
+      "timebuildupdated": "1484852031"
+    },
+    "local": {
+      "buildid": "950740",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1453987093"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "420971": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1844965026364887570",
+          "size": "1703234",
+          "download": "437120"
+        }
+      }
+    },
+    "420972": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7829310928886404934",
+          "size": "138617976",
+          "download": "111295424"
+        }
+      }
+    },
+    "420973": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8064043608220433925",
+          "size": "138826067",
+          "download": "111507264"
+        }
+      }
+    },
+    "420974": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3893374127119274533",
+          "size": "750626896",
+          "download": "394883840"
+        }
+      }
+    },
+    "420975": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5621653396923062333",
+          "size": "750835821",
+          "download": "395096224"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1579436",
+        "timeupdated": "1484852032",
+        "timebuildupdated": "1484852031"
+      },
+      "local": {
+        "buildid": "950740",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1453987093"
+      }
+    }
+  }
+}

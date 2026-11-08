@@ -1,0 +1,58 @@
+{
+  "name": "Spades",
+  "source": "spectre",
+  "changenumber": 35946306,
+  "updated": "2026-11-05T15:00:51.996Z",
+  "branches": {
+    "public": {
+      "buildid": "14492471",
+      "timeupdated": "1716634062",
+      "timebuildupdated": "1716634036"
+    },
+    "test_new": {
+      "buildid": "9259471",
+      "description": "tests",
+      "timeupdated": "1659693528",
+      "timebuildupdated": "1659693528"
+    }
+  },
+  "depot": {
+    "1680303": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2410984119534742432",
+          "size": "196607749",
+          "download": "177056880"
+        }
+      }
+    },
+    "1680304": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2318677709571148318",
+          "size": "193250227",
+          "download": "175790640"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14492471",
+        "timeupdated": "1716634062",
+        "timebuildupdated": "1716634036"
+      },
+      "test_new": {
+        "buildid": "9259471",
+        "description": "tests",
+        "timeupdated": "1659693528",
+        "timebuildupdated": "1659693528"
+      }
+    }
+  }
+}

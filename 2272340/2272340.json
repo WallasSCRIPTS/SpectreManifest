@@ -1,0 +1,101 @@
+{
+  "name": "Horticular Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-06T23:21:23.602Z",
+  "branches": {
+    "public": {
+      "buildid": "15969213",
+      "timeupdated": "1728576477",
+      "timebuildupdated": "1728402660"
+    },
+    "demo1": {
+      "buildid": "11289941",
+      "description": "Legacy version of first demo",
+      "timeupdated": "1684781457",
+      "timebuildupdated": "1684781330"
+    },
+    "demo2": {
+      "buildid": "12162628",
+      "description": " Legacy version of demo2",
+      "timeupdated": "1696450418",
+      "timebuildupdated": "1694463914"
+    },
+    "local": {
+      "buildid": "10269943",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1673022244",
+      "timebuildupdated": "1673022243"
+    },
+    "demo3": {
+      "buildid": "12533242",
+      "description": "Legacy version of demo3",
+      "timeupdated": "1720187574",
+      "timebuildupdated": "1698248190"
+    }
+  },
+  "depot": {
+    "2272341": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5655306461626003434",
+          "size": "244990890",
+          "download": "135069424"
+        }
+      }
+    },
+    "2272342": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6881836406277338238",
+          "size": "239567429",
+          "download": "133241088"
+        }
+      }
+    },
+    "2272343": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15969213",
+        "timeupdated": "1728576477",
+        "timebuildupdated": "1728402660"
+      },
+      "demo1": {
+        "buildid": "11289941",
+        "description": "Legacy version of first demo",
+        "timeupdated": "1684781457",
+        "timebuildupdated": "1684781330"
+      },
+      "demo2": {
+        "buildid": "12162628",
+        "description": " Legacy version of demo2",
+        "timeupdated": "1696450418",
+        "timebuildupdated": "1694463914"
+      },
+      "local": {
+        "buildid": "10269943",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1673022244",
+        "timebuildupdated": "1673022243"
+      },
+      "demo3": {
+        "buildid": "12533242",
+        "description": "Legacy version of demo3",
+        "timeupdated": "1720187574",
+        "timebuildupdated": "1698248190"
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "name": "Vecter",
+  "source": "spectre",
+  "changenumber": 40683454,
+  "updated": "2026-11-07T21:03:58.141Z",
+  "branches": {
+    "public": {
+      "buildid": "26161859",
+      "timeupdated": "1792763689",
+      "timebuildupdated": "1792763429"
+    },
+    "vecter1.2": {
+      "buildid": "6644663",
+      "description": "The old Vecter 1.2 which is no longer supported",
+      "timeupdated": "1675783581",
+      "timebuildupdated": "1620121048"
+    },
+    "alpha": {
+      "buildid": "26287984",
+      "description": "the tara special branch",
+      "timeupdated": "1793244367",
+      "timebuildupdated": "1793244367"
+    }
+  },
+  "depot": {
+    "1175141": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8475747767321652083",
+          "size": "603956027",
+          "download": "252236864"
+        }
+      }
+    },
+    "1175142": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2494492023176016966",
+          "size": "616834182",
+          "download": "222515504"
+        }
+      }
+    },
+    "1175143": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4021892639083693679",
+          "size": "2123210192",
+          "download": "328403824"
+        }
+      }
+    },
+    "1219990": {
+      "manifests": {
+        "public": {
+          "gid": "765081504551762671",
+          "size": "398830768",
+          "download": "401612368"
+        }
+      },
+      "dlcappid": "1219990"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26161859",
+        "timeupdated": "1792763689",
+        "timebuildupdated": "1792763429"
+      },
+      "vecter1.2": {
+        "buildid": "6644663",
+        "description": "The old Vecter 1.2 which is no longer supported",
+        "timeupdated": "1675783581",
+        "timebuildupdated": "1620121048"
+      },
+      "alpha": {
+        "buildid": "26287984",
+        "description": "the tara special branch",
+        "timeupdated": "1793244367",
+        "timebuildupdated": "1793244367"
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Book of Beasts",
+  "source": "spectre",
+  "changenumber": 39554034,
+  "updated": "2026-11-07T21:03:45.759Z",
+  "branches": {
+    "public": {
+      "buildid": "5988588",
+      "timeupdated": "1608554697",
+      "timebuildupdated": "1608306417"
+    },
+    "develop": {
+      "buildid": "6007936",
+      "description": "Internal development branch",
+      "timeupdated": "1608740646",
+      "timebuildupdated": "1608740646"
+    },
+    "inventory_test": {
+      "buildid": "5686264",
+      "timeupdated": "1602753559",
+      "timebuildupdated": "1602753559"
+    }
+  },
+  "depot": {
+    "1150912": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "731977396102147647",
+          "size": "374830916",
+          "download": "92112880"
+        }
+      }
+    },
+    "1150913": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4741089138347955369",
+          "size": "373983656",
+          "download": "93018672"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5988588",
+        "timeupdated": "1608554697",
+        "timebuildupdated": "1608306417"
+      },
+      "develop": {
+        "buildid": "6007936",
+        "description": "Internal development branch",
+        "timeupdated": "1608740646",
+        "timebuildupdated": "1608740646"
+      },
+      "inventory_test": {
+        "buildid": "5686264",
+        "timeupdated": "1602753559",
+        "timebuildupdated": "1602753559"
+      }
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Tranzient",
+  "source": "spectre",
+  "changenumber": 39817073,
+  "updated": "2026-11-07T21:01:34.395Z",
+  "branches": {
+    "public": {
+      "buildid": "25932561",
+      "timeupdated": "1791979333",
+      "timebuildupdated": "1791978371"
+    },
+    "beta": {
+      "buildid": "7012155",
+      "description": "Cutting edge release",
+      "timeupdated": "1626108556",
+      "timebuildupdated": "1626011110"
+    },
+    "fallback": {
+      "buildid": "16289995",
+      "description": "Previous Release",
+      "timeupdated": "1732277681",
+      "timebuildupdated": "1730739376"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "903911": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1535320884879343018",
+          "size": "8357508774",
+          "download": "7517701344"
+        }
+      }
+    },
+    "956970": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5477123761441667368",
+          "size": "7",
+          "download": "64"
+        }
+      },
+      "dlcappid": "956970"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25932561",
+        "timeupdated": "1791979333",
+        "timebuildupdated": "1791978371"
+      },
+      "beta": {
+        "buildid": "7012155",
+        "description": "Cutting edge release",
+        "timeupdated": "1626108556",
+        "timebuildupdated": "1626011110"
+      },
+      "fallback": {
+        "buildid": "16289995",
+        "description": "Previous Release",
+        "timeupdated": "1732277681",
+        "timebuildupdated": "1730739376"
+      }
+    }
+  }
+}

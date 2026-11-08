@@ -1,0 +1,70 @@
+{
+  "name": "Chronicon",
+  "source": "spectre",
+  "changenumber": 40620818,
+  "updated": "2026-11-07T20:57:18.474Z",
+  "branches": {
+    "public": {
+      "buildid": "26452692",
+      "timeupdated": "1793866453",
+      "timebuildupdated": "1793865603"
+    },
+    "win_7": {
+      "buildid": "10675386",
+      "description": "Supports windows 7, but won't receive updates past 1.52.0",
+      "timeupdated": "1737976288",
+      "timebuildupdated": "1677770256"
+    },
+    "win11test": {
+      "buildid": "25962642",
+      "description": "testing win11 issues",
+      "timeupdated": "1792075348",
+      "timebuildupdated": "1792075348"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "375481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3522388073491880022",
+          "size": "675025795",
+          "download": "578251856"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26452692",
+        "timeupdated": "1793866453",
+        "timebuildupdated": "1793865603"
+      },
+      "win_7": {
+        "buildid": "10675386",
+        "description": "Supports windows 7, but won't receive updates past 1.52.0",
+        "timeupdated": "1737976288",
+        "timebuildupdated": "1677770256"
+      },
+      "win11test": {
+        "buildid": "25962642",
+        "description": "testing win11 issues",
+        "timeupdated": "1792075348",
+        "timebuildupdated": "1792075348"
+      }
+    }
+  }
+}

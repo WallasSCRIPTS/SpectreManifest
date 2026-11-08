@@ -1,0 +1,82 @@
+{
+  "name": "Star Command Galaxies",
+  "source": "spectre",
+  "changenumber": 39117285,
+  "updated": "2026-11-07T20:57:33.700Z",
+  "branches": {
+    "public": {
+      "buildid": "19154579",
+      "timeupdated": "1752198780",
+      "timebuildupdated": "1752029394"
+    },
+    "betatesting": {
+      "buildid": "19154579",
+      "description": "Beta Testing branch",
+      "timeupdated": "1752029435",
+      "timebuildupdated": "1752029394"
+    }
+  },
+  "depot": {
+    "402161": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2186034365194178789",
+          "size": "1775155599",
+          "download": "787811792"
+        }
+      }
+    },
+    "402162": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3580094982673355771",
+          "size": "1782371838",
+          "download": "789758000"
+        }
+      }
+    },
+    "402163": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "146128995381155277",
+          "size": "1772113916",
+          "download": "786636176"
+        }
+      }
+    },
+    "402164": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "114151909016756288",
+          "size": "2145306988",
+          "download": "1026113296"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19154579",
+        "timeupdated": "1752198780",
+        "timebuildupdated": "1752029394"
+      },
+      "betatesting": {
+        "buildid": "19154579",
+        "description": "Beta Testing branch",
+        "timeupdated": "1752029435",
+        "timebuildupdated": "1752029394"
+      }
+    }
+  }
+}

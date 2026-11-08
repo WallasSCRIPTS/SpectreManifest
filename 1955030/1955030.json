@@ -1,0 +1,49 @@
+{
+  "name": "SCP: EVENT CLASSIFIED",
+  "source": "spectre",
+  "changenumber": 39738990,
+  "updated": "2026-11-06T23:13:37.885Z",
+  "branches": {
+    "public": {
+      "buildid": "14203312",
+      "timeupdated": "1714347059",
+      "timebuildupdated": "1714346077"
+    },
+    "testing": {
+      "buildid": "17993184",
+      "description": "Debug Build For Testers",
+      "timeupdated": "1743823929",
+      "timebuildupdated": "1743823222"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1955031": {
+      "manifests": {
+        "public": {
+          "gid": "3627433685741591596",
+          "size": "12062971834",
+          "download": "3843391616"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14203312",
+        "timeupdated": "1714347059",
+        "timebuildupdated": "1714346077"
+      },
+      "testing": {
+        "buildid": "17993184",
+        "description": "Debug Build For Testers",
+        "timeupdated": "1743823929",
+        "timebuildupdated": "1743823222"
+      }
+    }
+  }
+}

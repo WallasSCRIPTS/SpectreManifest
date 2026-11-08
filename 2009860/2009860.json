@@ -1,0 +1,70 @@
+{
+  "name": "Tower Escape",
+  "source": "spectre",
+  "changenumber": 40317682,
+  "updated": "2026-11-06T23:15:36.030Z",
+  "branches": {
+    "public": {
+      "buildid": "22662525",
+      "timeupdated": "1775465714",
+      "timebuildupdated": "1775465578"
+    },
+    "testing-french": {
+      "buildid": "22662525",
+      "description": "Internal testing",
+      "timeupdated": "1775465596",
+      "timebuildupdated": "1775465578"
+    }
+  },
+  "depot": {
+    "2009861": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3778627194177632627",
+          "size": "280913304",
+          "download": "81720880"
+        }
+      }
+    },
+    "2009862": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4685146839420389130",
+          "size": "305250992",
+          "download": "89031872"
+        }
+      }
+    },
+    "2009863": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8127663654200294481",
+          "size": "283436270",
+          "download": "81458992"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22662525",
+        "timeupdated": "1775465714",
+        "timebuildupdated": "1775465578"
+      },
+      "testing-french": {
+        "buildid": "22662525",
+        "description": "Internal testing",
+        "timeupdated": "1775465596",
+        "timebuildupdated": "1775465578"
+      }
+    }
+  }
+}

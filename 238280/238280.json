@@ -1,0 +1,92 @@
+{
+  "name": "Legend of Dungeon",
+  "source": "spectre",
+  "changenumber": 37432709,
+  "updated": "2026-11-07T20:56:09.110Z",
+  "branches": {
+    "public": {
+      "buildid": "700724",
+      "timebuildupdated": "1437359156"
+    },
+    "beta": {
+      "buildid": "5574492",
+      "timeupdated": "1600786556",
+      "timebuildupdated": "1600705324"
+    },
+    "internaltesting": {
+      "buildid": "5574492",
+      "timeupdated": "1600705324",
+      "timebuildupdated": "1600705324"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "238281": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3591808765412086814",
+          "size": "527233977",
+          "download": "457938080"
+        }
+      }
+    },
+    "238282": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4458289430106793865",
+          "size": "558183044",
+          "download": "468648976"
+        }
+      }
+    },
+    "238283": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6429515810141467750",
+          "size": "552190960",
+          "download": "467561024"
+        }
+      }
+    },
+    "255240": {
+      "manifests": {
+        "public": {
+          "gid": "7588282343990953358",
+          "size": "70588850",
+          "download": "70207760"
+        }
+      },
+      "dlcappid": "255240"
+    },
+    "branches": {
+      "public": {
+        "buildid": "700724",
+        "timebuildupdated": "1437359156"
+      },
+      "beta": {
+        "buildid": "5574492",
+        "timeupdated": "1600786556",
+        "timebuildupdated": "1600705324"
+      },
+      "internaltesting": {
+        "buildid": "5574492",
+        "timeupdated": "1600705324",
+        "timebuildupdated": "1600705324"
+      }
+    }
+  }
+}

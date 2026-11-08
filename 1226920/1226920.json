@@ -1,0 +1,58 @@
+{
+  "name": "Riposte!",
+  "source": "spectre",
+  "changenumber": 34851046,
+  "updated": "2026-11-06T21:03:43.855Z",
+  "branches": {
+    "public": {
+      "buildid": "9457320",
+      "timeupdated": "1662432565",
+      "timebuildupdated": "1662432565"
+    },
+    "beta": {
+      "buildid": "5200659",
+      "description": "beta",
+      "timeupdated": "1592861753",
+      "timebuildupdated": "1592861753"
+    }
+  },
+  "depot": {
+    "1226921": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2940545854882990289",
+          "size": "1671384185",
+          "download": "161355760"
+        }
+      }
+    },
+    "1226922": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7544947480656428677",
+          "size": "1685538749",
+          "download": "164503744"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9457320",
+        "timeupdated": "1662432565",
+        "timebuildupdated": "1662432565"
+      },
+      "beta": {
+        "buildid": "5200659",
+        "description": "beta",
+        "timeupdated": "1592861753",
+        "timebuildupdated": "1592861753"
+      }
+    }
+  }
+}

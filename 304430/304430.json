@@ -1,0 +1,84 @@
+{
+  "name": "INSIDE",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:32.612Z",
+  "branches": {
+    "public": {
+      "buildid": "17981020",
+      "timeupdated": "1744626711",
+      "timebuildupdated": "1743751332"
+    },
+    "local": {
+      "buildid": "1330646",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1473683103",
+      "timebuildupdated": "1473683103"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "304431": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2904632601412719297",
+          "size": "2354874418",
+          "download": "1203918064"
+        }
+      }
+    },
+    "304432": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7346583495260906811",
+          "size": "2316493716",
+          "download": "1153341872"
+        }
+      }
+    },
+    "304433": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2327740499464381760",
+          "size": "2271309714",
+          "download": "1161904832"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17981020",
+        "timeupdated": "1744626711",
+        "timebuildupdated": "1743751332"
+      },
+      "local": {
+        "buildid": "1330646",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1473683103",
+        "timebuildupdated": "1473683103"
+      }
+    }
+  }
+}

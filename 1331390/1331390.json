@@ -1,0 +1,69 @@
+{
+  "name": "sfäre",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:28.669Z",
+  "branches": {
+    "public": {
+      "buildid": "9037534",
+      "timeupdated": "1656599905",
+      "timebuildupdated": "1656599796"
+    },
+    "backup": {
+      "buildid": "8576816",
+      "description": "previous build, just in case in messed up",
+      "timeupdated": "1656599893",
+      "timebuildupdated": "1650307471"
+    },
+    "test": {
+      "buildid": "8180853",
+      "description": "for testing",
+      "timeupdated": "1644509548",
+      "timebuildupdated": "1644509495"
+    }
+  },
+  "depot": {
+    "1331391": {},
+    "1331392": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5068163722386741396",
+          "size": "183398473",
+          "download": "92813744"
+        }
+      }
+    },
+    "1331393": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "1331394": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9037534",
+        "timeupdated": "1656599905",
+        "timebuildupdated": "1656599796"
+      },
+      "backup": {
+        "buildid": "8576816",
+        "description": "previous build, just in case in messed up",
+        "timeupdated": "1656599893",
+        "timebuildupdated": "1650307471"
+      },
+      "test": {
+        "buildid": "8180853",
+        "description": "for testing",
+        "timeupdated": "1644509548",
+        "timebuildupdated": "1644509495"
+      }
+    }
+  }
+}

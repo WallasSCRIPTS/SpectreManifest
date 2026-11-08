@@ -1,0 +1,58 @@
+{
+  "name": "Chillquarium",
+  "source": "spectre",
+  "changenumber": 40148398,
+  "updated": "2026-11-06T23:21:24.059Z",
+  "branches": {
+    "public": {
+      "buildid": "26001488",
+      "timeupdated": "1792199223",
+      "timebuildupdated": "1792198851"
+    },
+    "beta_testing": {
+      "buildid": "26001488",
+      "description": "Beta branch for testing changes before they go live on the main build",
+      "timeupdated": "1792199223",
+      "timebuildupdated": "1792198851"
+    }
+  },
+  "depot": {
+    "2276931": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4720596045770892485",
+          "size": "402574544",
+          "download": "285746416"
+        }
+      }
+    },
+    "2276932": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6333459524350584093",
+          "size": "470556398",
+          "download": "305614816"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26001488",
+        "timeupdated": "1792199223",
+        "timebuildupdated": "1792198851"
+      },
+      "beta_testing": {
+        "buildid": "26001488",
+        "description": "Beta branch for testing changes before they go live on the main build",
+        "timeupdated": "1792199223",
+        "timebuildupdated": "1792198851"
+      }
+    }
+  }
+}

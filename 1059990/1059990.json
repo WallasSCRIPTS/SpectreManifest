@@ -1,0 +1,82 @@
+{
+  "name": "Trombone Champ",
+  "source": "spectre",
+  "changenumber": 40620897,
+  "updated": "2026-11-07T21:02:51.813Z",
+  "branches": {
+    "public": {
+      "buildid": "22236832",
+      "timeupdated": "1773939082",
+      "timebuildupdated": "1772830851"
+    },
+    "betatesting": {
+      "buildid": "22236832",
+      "description": "Public branch for testing updates",
+      "timeupdated": "1772830886",
+      "timebuildupdated": "1772830851"
+    },
+    "last_update": {
+      "buildid": "21298257",
+      "description": "Use the last version (1.24 instead of 1.25)",
+      "timeupdated": "1773939120",
+      "timebuildupdated": "1766520222"
+    }
+  },
+  "depot": {
+    "1059991": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3484770477019692998",
+          "size": "1065049974",
+          "download": "758171232"
+        }
+      }
+    },
+    "1059992": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5093896182648178408",
+          "size": "1057707529",
+          "download": "755860624"
+        }
+      }
+    },
+    "1059993": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5995882791336426283",
+          "size": "1069459467",
+          "download": "759857808"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22236832",
+        "timeupdated": "1773939082",
+        "timebuildupdated": "1772830851"
+      },
+      "betatesting": {
+        "buildid": "22236832",
+        "description": "Public branch for testing updates",
+        "timeupdated": "1772830886",
+        "timebuildupdated": "1772830851"
+      },
+      "last_update": {
+        "buildid": "21298257",
+        "description": "Use the last version (1.24 instead of 1.25)",
+        "timeupdated": "1773939120",
+        "timebuildupdated": "1766520222"
+      }
+    }
+  }
+}

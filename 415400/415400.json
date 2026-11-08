@@ -1,0 +1,62 @@
+{
+  "name": "Cross Set",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T20:57:39.377Z",
+  "branches": {
+    "public": {
+      "buildid": "868954",
+      "timebuildupdated": "1448212004"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "415401": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "337082738113423203",
+          "size": "164452491",
+          "download": "42253728"
+        }
+      }
+    },
+    "415402": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2076884211933830793",
+          "size": "172020574",
+          "download": "43559600"
+        }
+      }
+    },
+    "415403": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3437262788986850158",
+          "size": "172936438",
+          "download": "44408448"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "868954",
+        "timebuildupdated": "1448212004"
+      }
+    }
+  }
+}

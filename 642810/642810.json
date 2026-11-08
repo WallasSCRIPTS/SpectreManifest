@@ -1,0 +1,83 @@
+{
+  "name": "AccuRC 2 Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:59:27.247Z",
+  "branches": {
+    "public": {
+      "buildid": "8888410",
+      "timeupdated": "1654613310",
+      "timebuildupdated": "1654613310"
+    },
+    "alpha": {
+      "buildid": "8888410",
+      "timeupdated": "1654613321",
+      "timebuildupdated": "1654613310"
+    },
+    "beta": {
+      "buildid": "8888410",
+      "timeupdated": "1654613330",
+      "timebuildupdated": "1654613310"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "642811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7589279464870726336",
+          "size": "2016516632",
+          "download": "1408790496"
+        }
+      }
+    },
+    "642812": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5844250024640475935",
+          "size": "3324677387",
+          "download": "2287125072"
+        }
+      }
+    },
+    "642813": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8888410",
+        "timeupdated": "1654613310",
+        "timebuildupdated": "1654613310"
+      },
+      "alpha": {
+        "buildid": "8888410",
+        "timeupdated": "1654613321",
+        "timebuildupdated": "1654613310"
+      },
+      "beta": {
+        "buildid": "8888410",
+        "timeupdated": "1654613330",
+        "timebuildupdated": "1654613310"
+      }
+    }
+  }
+}

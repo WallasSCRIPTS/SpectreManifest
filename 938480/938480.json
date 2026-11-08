@@ -1,0 +1,80 @@
+{
+  "name": "The Savior's Gang",
+  "source": "spectre",
+  "changenumber": 39096625,
+  "updated": "2026-11-07T21:01:50.024Z",
+  "branches": {
+    "public": {
+      "buildid": "3873128",
+      "timeupdated": "1559664512",
+      "timebuildupdated": "1559220437"
+    },
+    "test": {
+      "buildid": "3635412",
+      "timeupdated": "1552327085",
+      "timebuildupdated": "1552326920"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "938481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5918827186733275321",
+          "size": "2094738079",
+          "download": "2046512368"
+        }
+      }
+    },
+    "938482": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "225929085055139790",
+          "size": "2301560123",
+          "download": "2137484080"
+        }
+      }
+    },
+    "938483": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "92175494436624154",
+          "size": "2212190009",
+          "download": "2018063472"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3873128",
+        "timeupdated": "1559664512",
+        "timebuildupdated": "1559220437"
+      },
+      "test": {
+        "buildid": "3635412",
+        "timeupdated": "1552327085",
+        "timebuildupdated": "1552326920"
+      }
+    }
+  }
+}

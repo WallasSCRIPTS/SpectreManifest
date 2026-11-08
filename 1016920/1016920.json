@@ -1,0 +1,156 @@
+{
+  "name": "Unrailed!",
+  "source": "spectre",
+  "changenumber": 37439940,
+  "updated": "2026-11-07T21:02:29.751Z",
+  "branches": {
+    "public": {
+      "buildid": "19194021",
+      "timeupdated": "1752252981",
+      "timebuildupdated": "1752252981"
+    },
+    "last-version": {
+      "buildid": "7249002",
+      "description": "use this version if you have problems with the winter update 2021",
+      "timeupdated": "1640279766",
+      "timebuildupdated": "1629905448"
+    },
+    "legacy-0.10-c2379ab4c": {
+      "buildid": "5099292",
+      "timeupdated": "1597322543",
+      "timebuildupdated": "1590842341"
+    },
+    "sim17-tournament": {
+      "buildid": "13427978",
+      "description": "Tournament branch for Sim17",
+      "timeupdated": "1707676327",
+      "timebuildupdated": "1707676309"
+    },
+    "default-backup": {
+      "buildid": "13338815",
+      "description": "previous live version",
+      "timeupdated": "1752177500",
+      "timebuildupdated": "1706812222"
+    },
+    "experimental": {
+      "buildid": "19193956",
+      "description": "Public Testing Branch",
+      "timeupdated": "1752252590",
+      "timebuildupdated": "1752252590"
+    },
+    "experimental-fna3d": {
+      "buildid": "14642286",
+      "description": "Experimental with recent fna version (working on M1 macs a well)",
+      "timeupdated": "1717777549",
+      "timebuildupdated": "1717777549"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1016921": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8078967623883027128",
+          "size": "843978409",
+          "download": "405382848"
+        }
+      }
+    },
+    "1016922": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4769734068859162748",
+          "size": "824848741",
+          "download": "397951328"
+        }
+      }
+    },
+    "1016923": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7974558925845671853",
+          "size": "798823797",
+          "download": "388053936"
+        }
+      }
+    },
+    "1150940": {
+      "manifests": {
+        "public": {
+          "gid": "1819341891265115519",
+          "size": "56566198",
+          "download": "53792576"
+        }
+      },
+      "dlcappid": "1150940"
+    },
+    "branches": {
+      "public": {
+        "buildid": "19194021",
+        "timeupdated": "1752252981",
+        "timebuildupdated": "1752252981"
+      },
+      "last-version": {
+        "buildid": "7249002",
+        "description": "use this version if you have problems with the winter update 2021",
+        "timeupdated": "1640279766",
+        "timebuildupdated": "1629905448"
+      },
+      "legacy-0.10-c2379ab4c": {
+        "buildid": "5099292",
+        "timeupdated": "1597322543",
+        "timebuildupdated": "1590842341"
+      },
+      "sim17-tournament": {
+        "buildid": "13427978",
+        "description": "Tournament branch for Sim17",
+        "timeupdated": "1707676327",
+        "timebuildupdated": "1707676309"
+      },
+      "default-backup": {
+        "buildid": "13338815",
+        "description": "previous live version",
+        "timeupdated": "1752177500",
+        "timebuildupdated": "1706812222"
+      },
+      "experimental": {
+        "buildid": "19193956",
+        "description": "Public Testing Branch",
+        "timeupdated": "1752252590",
+        "timebuildupdated": "1752252590"
+      },
+      "experimental-fna3d": {
+        "buildid": "14642286",
+        "description": "Experimental with recent fna version (working on M1 macs a well)",
+        "timeupdated": "1717777549",
+        "timebuildupdated": "1717777549"
+      }
+    }
+  }
+}

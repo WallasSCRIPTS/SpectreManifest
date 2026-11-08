@@ -1,0 +1,72 @@
+{
+  "name": "Unpossible",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:30.563Z",
+  "branches": {
+    "public": {
+      "buildid": "810991",
+      "timebuildupdated": "1444628918"
+    },
+    "beta": {
+      "buildid": "683829",
+      "timebuildupdated": "1436049210"
+    },
+    "dev": {
+      "buildid": "810991",
+      "timebuildupdated": "1444628918"
+    }
+  },
+  "depot": {
+    "300401": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5104063724743855381",
+          "size": "121699417",
+          "download": "37055488"
+        }
+      }
+    },
+    "300402": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "567020663283141603",
+          "size": "126350852",
+          "download": "39341456"
+        }
+      }
+    },
+    "300403": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1754722829023439875",
+          "size": "127117034",
+          "download": "38636480"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "810991",
+        "timebuildupdated": "1444628918"
+      },
+      "beta": {
+        "buildid": "683829",
+        "timebuildupdated": "1436049210"
+      },
+      "dev": {
+        "buildid": "810991",
+        "timebuildupdated": "1444628918"
+      }
+    }
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "name": "Tropico 5",
+  "source": "spectre",
+  "changenumber": 37746119,
+  "updated": "2026-11-07T20:56:10.841Z",
+  "branches": {
+    "public": {
+      "buildid": "5820970",
+      "timeupdated": "1605191011",
+      "timebuildupdated": "1605187558"
+    },
+    "1.06": {
+      "buildid": "475623",
+      "description": "1.06 for OSX 10.7 and 10.8 only",
+      "timebuildupdated": "1418812203"
+    },
+    "1.10_legacy": {
+      "buildid": "769271",
+      "description": "1.10 Win/Linux/Mac Legacy",
+      "timeupdated": "1601452417",
+      "timebuildupdated": "1441880887"
+    },
+    "1.11_win_only": {
+      "buildid": "5426052",
+      "description": "V1.11 Win only test",
+      "timeupdated": "1605103199",
+      "timebuildupdated": "1597742371"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "245621": {
+      "manifests": {
+        "public": {
+          "gid": "1567376625565429968",
+          "size": "2234935478",
+          "download": "2151849008"
+        }
+      }
+    },
+    "245622": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7893752326340298922",
+          "size": "16188210",
+          "download": "11135424"
+        }
+      }
+    },
+    "245623": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1861159873105320112",
+          "size": "10417246",
+          "download": "4353520"
+        }
+      }
+    },
+    "245624": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7227072470969084566",
+          "size": "11596443",
+          "download": "3641520"
+        }
+      }
+    },
+    "245625": {
+      "manifests": {
+        "public": {
+          "gid": "2668377718908871117",
+          "size": "149570621",
+          "download": "149607728"
+        }
+      }
+    },
+    "245626": {
+      "manifests": {
+        "public": {
+          "gid": "3719182068513939783",
+          "size": "155674141",
+          "download": "152287280"
+        }
+      }
+    },
+    "245627": {
+      "manifests": {
+        "public": {
+          "gid": "2744934609506120162",
+          "size": "154442078",
+          "download": "154305904"
+        }
+      }
+    },
+    "245628": {
+      "manifests": {
+        "public": {
+          "gid": "7058645992126842533",
+          "size": "159230727",
+          "download": "159045632"
+        }
+      }
+    },
+    "245629": {
+      "manifests": {
+        "public": {
+          "gid": "8181631601722493609",
+          "size": "145305912",
+          "download": "145063504"
+        }
+      }
+    },
+    "245630": {
+      "manifests": {
+        "public": {
+          "gid": "2870677668750364814",
+          "size": "100278770",
+          "download": "100353536"
+        }
+      }
+    },
+    "245631": {
+      "manifests": {
+        "public": {
+          "gid": "3396887328161017122",
+          "size": "3721043",
+          "download": "3738864"
+        }
+      }
+    },
+    "245632": {
+      "manifests": {
+        "public": {
+          "gid": "3883481006768541929",
+          "size": "24811148",
+          "download": "24717712"
+        }
+      }
+    },
+    "245633": {
+      "manifests": {
+        "public": {
+          "gid": "7267719611518301745",
+          "size": "161161072",
+          "download": "161266640"
+        }
+      }
+    },
+    "245634": {
+      "manifests": {
+        "public": {
+          "gid": "8605820867900581191",
+          "size": "1146949",
+          "download": "1158672"
+        }
+      }
+    },
+    "284440": {
+      "manifests": {
+        "public": {
+          "gid": "9009783785157524027",
+          "size": "119263963",
+          "download": "120517136"
+        }
+      },
+      "dlcappid": "284440"
+    },
+    "284441": {
+      "manifests": {
+        "public": {
+          "gid": "5991065312434943780",
+          "size": "135269504",
+          "download": "136644288"
+        }
+      },
+      "dlcappid": "284441"
+    },
+    "284442": {
+      "manifests": {
+        "public": {
+          "gid": "1888771577249181526",
+          "size": "27103630",
+          "download": "26378464"
+        }
+      },
+      "dlcappid": "284442"
+    },
+    "284443": {
+      "manifests": {
+        "public": {
+          "gid": "8446242189556702839",
+          "size": "197136",
+          "download": "194704"
+        }
+      },
+      "dlcappid": "284443"
+    },
+    "306390": {
+      "manifests": {
+        "public": {
+          "gid": "748875246840928526",
+          "size": "27669435",
+          "download": "27872288"
+        }
+      },
+      "dlcappid": "306390"
+    },
+    "306391": {
+      "manifests": {
+        "public": {
+          "gid": "1721736325688159246",
+          "size": "12187530",
+          "download": "12298496"
+        }
+      },
+      "dlcappid": "306391"
+    },
+    "306392": {
+      "manifests": {
+        "public": {
+          "gid": "5890004809881832425",
+          "size": "31558452",
+          "download": "31896416"
+        }
+      },
+      "dlcappid": "306392"
+    },
+    "306393": {
+      "manifests": {
+        "public": {
+          "gid": "4460929725135031907",
+          "size": "18540401",
+          "download": "18742336"
+        }
+      },
+      "dlcappid": "306393"
+    },
+    "306394": {
+      "manifests": {
+        "public": {
+          "gid": "5555473963640845646",
+          "size": "31263621",
+          "download": "31603456"
+        }
+      },
+      "dlcappid": "306394"
+    },
+    "306395": {
+      "manifests": {
+        "public": {
+          "gid": "4178786594430472446",
+          "size": "12711968",
+          "download": "12842496"
+        }
+      },
+      "dlcappid": "306395"
+    },
+    "306396": {
+      "manifests": {
+        "public": {
+          "gid": "8894429325608657879",
+          "size": "7357901",
+          "download": "7404912"
+        }
+      },
+      "dlcappid": "306396"
+    },
+    "306397": {
+      "manifests": {
+        "public": {
+          "gid": "6217066128049704089",
+          "size": "35824683",
+          "download": "36220288"
+        }
+      },
+      "dlcappid": "306397"
+    },
+    "306398": {
+      "manifests": {
+        "public": {
+          "gid": "8417156979229263904",
+          "size": "8601291",
+          "download": "8668960"
+        }
+      },
+      "dlcappid": "306398"
+    },
+    "306399": {
+      "manifests": {
+        "public": {
+          "gid": "3858730656354745941",
+          "size": "40264869",
+          "download": "40720240"
+        }
+      },
+      "dlcappid": "306399"
+    },
+    "306400": {
+      "manifests": {
+        "public": {
+          "gid": "6906665788270132973",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "306400"
+    },
+    "306401": {
+      "manifests": {
+        "public": {
+          "gid": "6251590328878828055",
+          "size": "38534240",
+          "download": "38937968"
+        }
+      },
+      "dlcappid": "306401"
+    },
+    "306402": {
+      "manifests": {
+        "public": {
+          "gid": "8487748089405776852",
+          "size": "27842489",
+          "download": "28122000"
+        }
+      },
+      "dlcappid": "306402"
+    },
+    "306403": {
+      "dlcappid": "306403"
+    },
+    "306404": {
+      "dlcappid": "306404"
+    },
+    "branches": {
+      "public": {
+        "buildid": "5820970",
+        "timeupdated": "1605191011",
+        "timebuildupdated": "1605187558"
+      },
+      "1.06": {
+        "buildid": "475623",
+        "description": "1.06 for OSX 10.7 and 10.8 only",
+        "timebuildupdated": "1418812203"
+      },
+      "1.10_legacy": {
+        "buildid": "769271",
+        "description": "1.10 Win/Linux/Mac Legacy",
+        "timeupdated": "1601452417",
+        "timebuildupdated": "1441880887"
+      },
+      "1.11_win_only": {
+        "buildid": "5426052",
+        "description": "V1.11 Win only test",
+        "timeupdated": "1605103199",
+        "timebuildupdated": "1597742371"
+      }
+    }
+  }
+}

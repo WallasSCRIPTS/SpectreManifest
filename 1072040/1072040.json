@@ -1,0 +1,104 @@
+{
+  "name": "Panzer Corps 2",
+  "source": "spectre",
+  "changenumber": 40615803,
+  "updated": "2026-11-07T21:02:59.359Z",
+  "branches": {
+    "public": {
+      "buildid": "24199739",
+      "timeupdated": "1784727711",
+      "timebuildupdated": "1784025448"
+    },
+    "1.01.14": {
+      "buildid": "5945917",
+      "description": "v1.01.14",
+      "timeupdated": "1608141172",
+      "timebuildupdated": "1607548126"
+    },
+    "1.01.15": {
+      "buildid": "5971749",
+      "description": "v1.01.15",
+      "timeupdated": "1623333957",
+      "timebuildupdated": "1608056494"
+    },
+    "legacy": {
+      "buildid": "7657466",
+      "description": "Legacy v1.02.01",
+      "timeupdated": "1637684080",
+      "timebuildupdated": "1636037599"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1072041": {
+      "manifests": {
+        "public": {
+          "gid": "269001053550712672",
+          "size": "20814187727",
+          "download": "6341472864"
+        }
+      }
+    },
+    "1072042": {
+      "manifests": {
+        "public": {
+          "gid": "2588675137750483739",
+          "size": "16285559",
+          "download": "11851520"
+        }
+      }
+    },
+    "1072043": {
+      "manifests": {
+        "public": {
+          "gid": "4269278901670531569",
+          "size": "1428041397",
+          "download": "1359145712"
+        }
+      },
+      "dlcappid": "1233360"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24199739",
+        "timeupdated": "1784727711",
+        "timebuildupdated": "1784025448"
+      },
+      "1.01.14": {
+        "buildid": "5945917",
+        "description": "v1.01.14",
+        "timeupdated": "1608141172",
+        "timebuildupdated": "1607548126"
+      },
+      "1.01.15": {
+        "buildid": "5971749",
+        "description": "v1.01.15",
+        "timeupdated": "1623333957",
+        "timebuildupdated": "1608056494"
+      },
+      "legacy": {
+        "buildid": "7657466",
+        "description": "Legacy v1.02.01",
+        "timeupdated": "1637684080",
+        "timebuildupdated": "1636037599"
+      }
+    }
+  }
+}

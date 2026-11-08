@@ -1,0 +1,70 @@
+{
+  "name": "Deadburg",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:40.990Z",
+  "branches": {
+    "public": {
+      "buildid": "8621247",
+      "timeupdated": "1650923405",
+      "timebuildupdated": "1650918183"
+    },
+    "beta": {
+      "buildid": "8621247",
+      "description": "Beta testing branch.",
+      "timeupdated": "1650923392",
+      "timebuildupdated": "1650918183"
+    },
+    "fna_test": {
+      "buildid": "8854070",
+      "description": "FNA build of the game.",
+      "timeupdated": "1654114391",
+      "timebuildupdated": "1654114359"
+    }
+  },
+  "depot": {
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "671642": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4208891121524797857",
+          "size": "198709177",
+          "download": "131951600"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8621247",
+        "timeupdated": "1650923405",
+        "timebuildupdated": "1650918183"
+      },
+      "beta": {
+        "buildid": "8621247",
+        "description": "Beta testing branch.",
+        "timeupdated": "1650923392",
+        "timebuildupdated": "1650918183"
+      },
+      "fna_test": {
+        "buildid": "8854070",
+        "description": "FNA build of the game.",
+        "timeupdated": "1654114391",
+        "timebuildupdated": "1654114359"
+      }
+    }
+  }
+}

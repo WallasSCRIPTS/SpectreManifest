@@ -1,0 +1,53 @@
+{
+  "name": "Narcalid",
+  "source": "spectre",
+  "changenumber": 38390981,
+  "updated": "2026-11-06T23:23:16.971Z",
+  "branches": {
+    "public": {
+      "buildid": "15562633",
+      "timeupdated": "1725245111",
+      "timebuildupdated": "1725245028"
+    },
+    "local": {
+      "buildid": "13246202",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1705998548",
+      "timebuildupdated": "1705998548"
+    }
+  },
+  "depot": {
+    "2341111": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6533273840820890531",
+          "size": "5373683812",
+          "download": "1138846576"
+        }
+      }
+    },
+    "2341112": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15562633",
+        "timeupdated": "1725245111",
+        "timebuildupdated": "1725245028"
+      },
+      "local": {
+        "buildid": "13246202",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1705998548",
+        "timebuildupdated": "1705998548"
+      }
+    }
+  }
+}

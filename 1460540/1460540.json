@@ -1,0 +1,70 @@
+{
+  "name": "Farlanders: Prologue",
+  "source": "spectre",
+  "changenumber": 40618081,
+  "updated": "2026-11-06T21:05:26.605Z",
+  "branches": {
+    "public": {
+      "buildid": "7464942",
+      "timeupdated": "1633133882",
+      "timebuildupdated": "1633133848"
+    },
+    "beta": {
+      "buildid": "7464942",
+      "description": "public beta",
+      "timeupdated": "1633133890",
+      "timebuildupdated": "1633133848"
+    }
+  },
+  "depot": {
+    "1460541": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3842645572252516198",
+          "size": "629246489",
+          "download": "217137440"
+        }
+      }
+    },
+    "1460542": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8211409586836305868",
+          "size": "652570866",
+          "download": "224179760"
+        }
+      }
+    },
+    "1460543": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8790815766720029642",
+          "size": "673495064",
+          "download": "218931648"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7464942",
+        "timeupdated": "1633133882",
+        "timebuildupdated": "1633133848"
+      },
+      "beta": {
+        "buildid": "7464942",
+        "description": "public beta",
+        "timeupdated": "1633133890",
+        "timebuildupdated": "1633133848"
+      }
+    }
+  }
+}

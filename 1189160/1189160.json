@@ -1,0 +1,114 @@
+{
+  "name": "Re.Poly Server",
+  "source": "spectre",
+  "changenumber": 39628620,
+  "updated": "2026-11-07T21:04:05.277Z",
+  "branches": {
+    "public": {
+      "buildid": "25810774",
+      "timeupdated": "1791482518",
+      "timebuildupdated": "1791482384"
+    },
+    "testserver": {
+      "buildid": "11664965",
+      "description": "Re.Poly Testserver",
+      "timeupdated": "1688987929",
+      "timebuildupdated": "1688987929"
+    }
+  },
+  "depot": {
+    "1004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7604377918839582995",
+          "size": "67863136",
+          "download": "24251776"
+        }
+      },
+      "depotfromapp": "1007"
+    },
+    "1005": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2135359612286175146",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "depotfromapp": "1007"
+    },
+    "1006": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4559160656493359681",
+          "size": "111284048",
+          "download": "36733840"
+        }
+      },
+      "depotfromapp": "1007"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229005": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1189161": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9036517368271353071",
+          "size": "790339143",
+          "download": "516357632"
+        }
+      }
+    },
+    "1189163": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25810774",
+        "timeupdated": "1791482518",
+        "timebuildupdated": "1791482384"
+      },
+      "testserver": {
+        "buildid": "11664965",
+        "description": "Re.Poly Testserver",
+        "timeupdated": "1688987929",
+        "timebuildupdated": "1688987929"
+      }
+    }
+  }
+}

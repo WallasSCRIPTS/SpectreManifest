@@ -1,0 +1,68 @@
+{
+  "name": "Ghostboy",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:17:37.406Z",
+  "branches": {
+    "public": {
+      "buildid": "20810600",
+      "timeupdated": "1763407189",
+      "timebuildupdated": "1763206458"
+    },
+    "beta": {
+      "buildid": "20810600",
+      "description": "Beta branch with untested changes",
+      "timeupdated": "1763206458",
+      "timebuildupdated": "1763206458"
+    }
+  },
+  "depot": {
+    "2146561": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5716054491096433945",
+          "size": "1347203002",
+          "download": "1188045648"
+        }
+      }
+    },
+    "2146562": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2988266474311146831",
+          "size": "1387485371",
+          "download": "1202705776"
+        }
+      }
+    },
+    "3052400": {
+      "manifests": {
+        "public": {
+          "gid": "124580641213416093",
+          "size": "633085823",
+          "download": "455791280"
+        }
+      },
+      "dlcappid": "3052400"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20810600",
+        "timeupdated": "1763407189",
+        "timebuildupdated": "1763206458"
+      },
+      "beta": {
+        "buildid": "20810600",
+        "description": "Beta branch with untested changes",
+        "timeupdated": "1763206458",
+        "timebuildupdated": "1763206458"
+      }
+    }
+  }
+}

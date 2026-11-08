@@ -1,0 +1,70 @@
+{
+  "name": "Exsys",
+  "source": "spectre",
+  "changenumber": 34846687,
+  "updated": "2026-11-07T21:03:27.152Z",
+  "branches": {
+    "public": {
+      "buildid": "16872855",
+      "timeupdated": "1735527959",
+      "timebuildupdated": "1735526822"
+    },
+    "legacy": {
+      "buildid": "4712129",
+      "description": "2020 version of Exsys",
+      "timeupdated": "1682614210",
+      "timebuildupdated": "1582607190"
+    },
+    "legacy_2023": {
+      "buildid": "11229272",
+      "description": "April 2023 update",
+      "timeupdated": "1695052189",
+      "timebuildupdated": "1684078194"
+    }
+  },
+  "depot": {
+    "1116351": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4879811418487009930",
+          "size": "4151339965",
+          "download": "2985553632"
+        }
+      }
+    },
+    "1116352": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1503000764862347859",
+          "size": "4151339965",
+          "download": "2985661248"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16872855",
+        "timeupdated": "1735527959",
+        "timebuildupdated": "1735526822"
+      },
+      "legacy": {
+        "buildid": "4712129",
+        "description": "2020 version of Exsys",
+        "timeupdated": "1682614210",
+        "timebuildupdated": "1582607190"
+      },
+      "legacy_2023": {
+        "buildid": "11229272",
+        "description": "April 2023 update",
+        "timeupdated": "1695052189",
+        "timebuildupdated": "1684078194"
+      }
+    }
+  }
+}

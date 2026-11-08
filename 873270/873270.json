@@ -1,0 +1,70 @@
+{
+  "name": "Rolled Out!",
+  "source": "spectre",
+  "changenumber": 37830890,
+  "updated": "2026-11-07T21:01:20.276Z",
+  "branches": {
+    "public": {
+      "buildid": "12038113",
+      "timeupdated": "1693081383",
+      "timebuildupdated": "1693029145"
+    },
+    "beta": {
+      "buildid": "24600199",
+      "description": "Early features.",
+      "timeupdated": "1786046763",
+      "timebuildupdated": "1786046763"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "873271": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1256929527535902043",
+          "size": "5854531542",
+          "download": "1849930144"
+        }
+      }
+    },
+    "873272": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5117121090075629626",
+          "size": "5771298388",
+          "download": "1779469328"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12038113",
+        "timeupdated": "1693081383",
+        "timebuildupdated": "1693029145"
+      },
+      "beta": {
+        "buildid": "24600199",
+        "description": "Early features.",
+        "timeupdated": "1786046763",
+        "timebuildupdated": "1786046763"
+      }
+    }
+  }
+}

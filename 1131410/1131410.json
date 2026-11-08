@@ -1,0 +1,152 @@
+{
+  "name": "Sable's Grimoire: Man And Elf",
+  "source": "spectre",
+  "changenumber": 37441117,
+  "updated": "2026-11-07T21:03:35.905Z",
+  "branches": {
+    "public": {
+      "buildid": "24058726",
+      "timeupdated": "1783235201",
+      "timebuildupdated": "1783233475"
+    },
+    "oldstable": {
+      "buildid": "22221947",
+      "description": "old stable branch",
+      "timeupdated": "1772766381",
+      "timebuildupdated": "1772757391"
+    },
+    "testing": {
+      "buildid": "24058726",
+      "description": "Beta branch",
+      "timeupdated": "1783233781",
+      "timebuildupdated": "1783233475"
+    },
+    "win7": {
+      "buildid": "11990582",
+      "description": "Windows 7 and 8 builds",
+      "timeupdated": "1772691875",
+      "timebuildupdated": "1692608032"
+    }
+  },
+  "depot": {
+    "1131411": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4456153381880589913",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "1131412": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "788578682809291889",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "1131413": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "911845765102277480",
+          "size": "400457517",
+          "download": "331274960"
+        }
+      }
+    },
+    "1131414": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3613797223462222537",
+          "size": "393862862",
+          "download": "330344928"
+        }
+      }
+    },
+    "1131415": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5600438398561078048",
+          "size": "421068859",
+          "download": "340419744"
+        }
+      }
+    },
+    "1131416": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7662046163698405177",
+          "size": "377556375",
+          "download": "323195344"
+        }
+      }
+    },
+    "1131417": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "479562967278076832",
+          "size": "404992177",
+          "download": "332615856"
+        }
+      }
+    },
+    "1336930": {
+      "manifests": {
+        "public": {
+          "gid": "4904117504083864081",
+          "size": "850170",
+          "download": "425152"
+        }
+      },
+      "dlcappid": "1336930"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24058726",
+        "timeupdated": "1783235201",
+        "timebuildupdated": "1783233475"
+      },
+      "oldstable": {
+        "buildid": "22221947",
+        "description": "old stable branch",
+        "timeupdated": "1772766381",
+        "timebuildupdated": "1772757391"
+      },
+      "testing": {
+        "buildid": "24058726",
+        "description": "Beta branch",
+        "timeupdated": "1783233781",
+        "timebuildupdated": "1783233475"
+      },
+      "win7": {
+        "buildid": "11990582",
+        "description": "Windows 7 and 8 builds",
+        "timeupdated": "1772691875",
+        "timebuildupdated": "1692608032"
+      }
+    }
+  }
+}

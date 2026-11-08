@@ -1,0 +1,78 @@
+{
+  "name": "Rabbit Hole 3D: Steam Edition",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:22.796Z",
+  "branches": {
+    "public": {
+      "buildid": "800307",
+      "timebuildupdated": "1443889069"
+    },
+    "linux": {
+      "buildid": "219684",
+      "timebuildupdated": "1395761152"
+    },
+    "mac": {
+      "buildid": "219681",
+      "timebuildupdated": "1395761007"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "283661": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5504366875480224397",
+          "size": "66059058",
+          "download": "18688240"
+        }
+      }
+    },
+    "283662": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1931612115064377656",
+          "size": "79140930",
+          "download": "20826160"
+        }
+      }
+    },
+    "283663": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5321244141144240323",
+          "size": "100995855",
+          "download": "29109904"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "800307",
+        "timebuildupdated": "1443889069"
+      },
+      "linux": {
+        "buildid": "219684",
+        "timebuildupdated": "1395761152"
+      },
+      "mac": {
+        "buildid": "219681",
+        "timebuildupdated": "1395761007"
+      }
+    }
+  }
+}

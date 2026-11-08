@@ -1,0 +1,70 @@
+{
+  "name": "Artificer",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:34.646Z",
+  "branches": {
+    "public": {
+      "buildid": "6986099",
+      "timeupdated": "1625570952",
+      "timebuildupdated": "1625570931"
+    },
+    "experimental": {
+      "buildid": "5787513",
+      "description": "experimental builds",
+      "timeupdated": "1604577654",
+      "timebuildupdated": "1604577577"
+    }
+  },
+  "depot": {
+    "658831": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "130117591807786538",
+          "size": "5034235692",
+          "download": "973636960"
+        }
+      }
+    },
+    "658832": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7813869490921379819",
+          "size": "5057469870",
+          "download": "980132448"
+        }
+      }
+    },
+    "658833": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1052347894719923549",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6986099",
+        "timeupdated": "1625570952",
+        "timebuildupdated": "1625570931"
+      },
+      "experimental": {
+        "buildid": "5787513",
+        "description": "experimental builds",
+        "timeupdated": "1604577654",
+        "timebuildupdated": "1604577577"
+      }
+    }
+  }
+}

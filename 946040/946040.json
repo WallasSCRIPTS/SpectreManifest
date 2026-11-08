@@ -1,0 +1,58 @@
+{
+  "name": "Supply Chain Idle",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:53.197Z",
+  "branches": {
+    "public": {
+      "buildid": "3708843",
+      "timeupdated": "1554378743",
+      "timebuildupdated": "1554378323"
+    }
+  },
+  "depot": {
+    "946041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7574635304290538130",
+          "size": "52719061",
+          "download": "12313200"
+        }
+      }
+    },
+    "946042": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8219792020057167494",
+          "size": "56968727",
+          "download": "14072384"
+        }
+      }
+    },
+    "946043": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8957943708289598815",
+          "size": "56710609",
+          "download": "14274880"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3708843",
+        "timeupdated": "1554378743",
+        "timebuildupdated": "1554378323"
+      }
+    }
+  }
+}

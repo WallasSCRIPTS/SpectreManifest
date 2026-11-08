@@ -1,0 +1,64 @@
+{
+  "name": "Last Call BBS",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:48.974Z",
+  "branches": {
+    "public": {
+      "buildid": "13591680",
+      "timeupdated": "1709146296",
+      "timebuildupdated": "1709146260"
+    }
+  },
+  "depot": {
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1511781": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4870073482484514372",
+          "size": "165081732",
+          "download": "93162528"
+        }
+      }
+    },
+    "1511782": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6117100549356502879",
+          "size": "193706393",
+          "download": "101230960"
+        }
+      }
+    },
+    "1511783": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3079848163967794329",
+          "size": "220588560",
+          "download": "108615168"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13591680",
+        "timeupdated": "1709146296",
+        "timebuildupdated": "1709146260"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "name": "FreeRunners",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-06T21:06:36.587Z",
+  "branches": {
+    "public": {
+      "buildid": "6873793",
+      "timeupdated": "1623782935",
+      "timebuildupdated": "1623782483"
+    },
+    "local": {
+      "buildid": "6691605",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1620865123",
+      "timebuildupdated": "1620865123"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1614011": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4825432162276152356",
+          "size": "1571432761",
+          "download": "629007776"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6873793",
+        "timeupdated": "1623782935",
+        "timebuildupdated": "1623782483"
+      },
+      "local": {
+        "buildid": "6691605",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1620865123",
+        "timebuildupdated": "1620865123"
+      }
+    }
+  }
+}

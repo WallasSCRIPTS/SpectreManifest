@@ -1,0 +1,70 @@
+{
+  "name": "Samorost 2",
+  "source": "spectre",
+  "changenumber": 39881045,
+  "updated": "2026-11-07T20:55:54.124Z",
+  "branches": {
+    "public": {
+      "buildid": "10056480",
+      "timeupdated": "1669900111",
+      "timebuildupdated": "1669900110"
+    },
+    "beta": {
+      "buildid": "9958870",
+      "description": "Public beta version",
+      "timeupdated": "1669898179",
+      "timebuildupdated": "1668688750"
+    },
+    "d3d9": {
+      "buildid": "9958870",
+      "description": "Compatibility version",
+      "timeupdated": "1669899241",
+      "timebuildupdated": "1668688750"
+    }
+  },
+  "depot": {
+    "40721": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8646705069428310703",
+          "size": "148991141",
+          "download": "127817984"
+        }
+      }
+    },
+    "40722": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8672652633880742760",
+          "size": "151522679",
+          "download": "109255600"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10056480",
+        "timeupdated": "1669900111",
+        "timebuildupdated": "1669900110"
+      },
+      "beta": {
+        "buildid": "9958870",
+        "description": "Public beta version",
+        "timeupdated": "1669898179",
+        "timebuildupdated": "1668688750"
+      },
+      "d3d9": {
+        "buildid": "9958870",
+        "description": "Compatibility version",
+        "timeupdated": "1669899241",
+        "timebuildupdated": "1668688750"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Spud Customs Demo",
+  "source": "spectre",
+  "changenumber": 40111043,
+  "updated": "2026-11-04T23:24:40.980Z",
+  "branches": {
+    "public": {
+      "buildid": "26107586",
+      "timeupdated": "1792635154",
+      "timebuildupdated": "1792589184"
+    },
+    "default_linux": {
+      "buildid": "26107586",
+      "description": "Build with Linux as well",
+      "timeupdated": "1792635154",
+      "timebuildupdated": "1792589184"
+    }
+  },
+  "depot": {
+    "3356371": {
+      "manifests": {
+        "public": {
+          "gid": "2674420971007155724",
+          "size": "511372350",
+          "download": "406135600"
+        }
+      }
+    },
+    "3356372": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5158544132626269698",
+          "size": "476434778",
+          "download": "398536976"
+        }
+      }
+    },
+    "3356373": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26107586",
+        "timeupdated": "1792635154",
+        "timebuildupdated": "1792589184"
+      },
+      "default_linux": {
+        "buildid": "26107586",
+        "description": "Build with Linux as well",
+        "timeupdated": "1792635154",
+        "timebuildupdated": "1792589184"
+      }
+    }
+  }
+}

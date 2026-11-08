@@ -1,0 +1,100 @@
+{
+  "name": "Mercenary Kings",
+  "source": "spectre",
+  "changenumber": 39390857,
+  "updated": "2026-11-07T20:56:04.746Z",
+  "branches": {
+    "public": {
+      "buildid": "6029296",
+      "timeupdated": "1609456698",
+      "timebuildupdated": "1609456589"
+    },
+    "beta": {
+      "buildid": "6029296",
+      "description": "Beta",
+      "timeupdated": "1609456589",
+      "timebuildupdated": "1609456589"
+    },
+    "linux32": {
+      "buildid": "3377255",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609456571",
+      "timebuildupdated": "1544214347"
+    }
+  },
+  "depot": {
+    "218821": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "621698610113857201",
+          "size": "213986575",
+          "download": "134210080"
+        }
+      }
+    },
+    "218822": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9040633698820373098",
+          "size": "234185089",
+          "download": "142365440"
+        }
+      }
+    },
+    "218823": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5041255923054087555",
+          "size": "222495917",
+          "download": "138668128"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "6029296",
+        "timeupdated": "1609456698",
+        "timebuildupdated": "1609456589"
+      },
+      "beta": {
+        "buildid": "6029296",
+        "description": "Beta",
+        "timeupdated": "1609456589",
+        "timebuildupdated": "1609456589"
+      },
+      "linux32": {
+        "buildid": "3377255",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609456571",
+        "timebuildupdated": "1544214347"
+      }
+    }
+  }
+}

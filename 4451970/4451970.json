@@ -1,0 +1,63 @@
+{
+  "name": "Blockade Runner",
+  "source": "spectre",
+  "changenumber": 36631845,
+  "updated": "2026-11-04T23:25:41.918Z",
+  "branches": {
+    "public": {
+      "buildid": "22540173",
+      "timeupdated": "1774640018",
+      "timebuildupdated": "1774639984"
+    }
+  },
+  "depot": {
+    "4451971": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6744594195453853250",
+          "size": "225463048",
+          "download": "110554080"
+        }
+      }
+    },
+    "4451972": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7178115148622299386",
+          "size": "199026448",
+          "download": "103026704"
+        }
+      }
+    },
+    "4451973": {
+      "config": {
+        "oslist": "windows,linux"
+      }
+    },
+    "4451974": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3343087247054222035",
+          "size": "171747205",
+          "download": "171686416"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22540173",
+        "timeupdated": "1774640018",
+        "timebuildupdated": "1774639984"
+      }
+    }
+  }
+}

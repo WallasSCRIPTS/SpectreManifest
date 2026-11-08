@@ -1,0 +1,82 @@
+{
+  "name": "Maniac",
+  "source": "spectre",
+  "changenumber": 39188715,
+  "updated": "2026-11-06T21:05:35.892Z",
+  "branches": {
+    "public": {
+      "buildid": "15085881",
+      "timeupdated": "1721375666",
+      "timebuildupdated": "1721374922"
+    },
+    "ludeo-playtest": {
+      "buildid": "14676956",
+      "description": "Ludeo play test",
+      "timeupdated": "1718106209",
+      "timebuildupdated": "1718105518"
+    },
+    "test": {
+      "buildid": "17879670",
+      "description": "Testing",
+      "timeupdated": "1743064408",
+      "timebuildupdated": "1743064408"
+    }
+  },
+  "depot": {
+    "1482381": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1126467131556124749",
+          "size": "1347471249",
+          "download": "298426272"
+        }
+      }
+    },
+    "1482382": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6337807951108357628",
+          "size": "1179971645",
+          "download": "236893648"
+        }
+      }
+    },
+    "1482383": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4869309332686676749",
+          "size": "1075392574",
+          "download": "208531904"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15085881",
+        "timeupdated": "1721375666",
+        "timebuildupdated": "1721374922"
+      },
+      "ludeo-playtest": {
+        "buildid": "14676956",
+        "description": "Ludeo play test",
+        "timeupdated": "1718106209",
+        "timebuildupdated": "1718105518"
+      },
+      "test": {
+        "buildid": "17879670",
+        "description": "Testing",
+        "timeupdated": "1743064408",
+        "timebuildupdated": "1743064408"
+      }
+    }
+  }
+}

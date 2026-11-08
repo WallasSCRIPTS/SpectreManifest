@@ -1,0 +1,122 @@
+{
+  "name": "Meadow",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:11.995Z",
+  "branches": {
+    "public": {
+      "buildid": "16077360",
+      "timeupdated": "1729151183",
+      "timebuildupdated": "1729151183"
+    },
+    "classic": {
+      "buildid": "14096623",
+      "description": "Classic branch",
+      "timeupdated": "1713445177",
+      "timebuildupdated": "1713445177"
+    },
+    "public_beta": {
+      "buildid": "16077364",
+      "description": "a beta for the public",
+      "timeupdated": "1729151199",
+      "timebuildupdated": "1729151199"
+    }
+  },
+  "depot": {
+    "486311": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7080527749456518531",
+          "size": "1456422677",
+          "download": "737544016"
+        }
+      }
+    },
+    "486312": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6100302819716474522",
+          "size": "1482746580",
+          "download": "744504160"
+        }
+      }
+    },
+    "486313": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5095790489551839547",
+          "size": "1460210900",
+          "download": "736623472"
+        }
+      }
+    },
+    "813460": {
+      "manifests": {
+        "public": {
+          "gid": "3496172697187397409",
+          "size": "13443961",
+          "download": "13134896"
+        }
+      },
+      "dlcappid": "813460"
+    },
+    "815410": {
+      "manifests": {
+        "public": {
+          "gid": "1138534772719145826",
+          "size": "501290324",
+          "download": "490016816"
+        }
+      },
+      "dlcappid": "815410"
+    },
+    "942280": {
+      "manifests": {
+        "public": {
+          "gid": "1281047256000161663",
+          "size": "403959026",
+          "download": "158061344"
+        }
+      },
+      "dlcappid": "942280"
+    },
+    "1179550": {
+      "manifests": {
+        "public": {
+          "gid": "6359326727835374233",
+          "size": "99571733",
+          "download": "100038112"
+        }
+      },
+      "dlcappid": "1179550"
+    },
+    "branches": {
+      "public": {
+        "buildid": "16077360",
+        "timeupdated": "1729151183",
+        "timebuildupdated": "1729151183"
+      },
+      "classic": {
+        "buildid": "14096623",
+        "description": "Classic branch",
+        "timeupdated": "1713445177",
+        "timebuildupdated": "1713445177"
+      },
+      "public_beta": {
+        "buildid": "16077364",
+        "description": "a beta for the public",
+        "timeupdated": "1729151199",
+        "timebuildupdated": "1729151199"
+      }
+    }
+  }
+}

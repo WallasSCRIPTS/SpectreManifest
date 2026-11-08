@@ -1,0 +1,81 @@
+{
+  "name": "Take On Mars",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:10.398Z",
+  "branches": {
+    "public": {
+      "buildid": "2273099",
+      "timeupdated": "1510761789",
+      "timebuildupdated": "1510300516"
+    },
+    "community_translations": {
+      "buildid": "682676",
+      "description": "Branch for testing community translations",
+      "timebuildupdated": "1435938668"
+    },
+    "legacy": {
+      "buildid": "300433",
+      "description": "Old build with old save support",
+      "timebuildupdated": "1403020105"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "244031": {
+      "manifests": {
+        "public": {
+          "gid": "4005295699728819634",
+          "size": "6835879461",
+          "download": "5742933408"
+        }
+      }
+    },
+    "244032": {
+      "manifests": {
+        "public": {
+          "gid": "2725292454202534287",
+          "size": "5253144",
+          "download": "921456"
+        }
+      }
+    },
+    "244033": {
+      "manifests": {
+        "public": {
+          "gid": "1887551400044585651",
+          "size": "269",
+          "download": "304"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2273099",
+        "timeupdated": "1510761789",
+        "timebuildupdated": "1510300516"
+      },
+      "community_translations": {
+        "buildid": "682676",
+        "description": "Branch for testing community translations",
+        "timebuildupdated": "1435938668"
+      },
+      "legacy": {
+        "buildid": "300433",
+        "description": "Old build with old save support",
+        "timebuildupdated": "1403020105"
+      }
+    }
+  }
+}

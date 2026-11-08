@@ -1,0 +1,73 @@
+{
+  "name": "WolfQuest: Classic",
+  "source": "spectre",
+  "changenumber": 40017463,
+  "updated": "2026-11-07T20:57:47.034Z",
+  "branches": {
+    "public": {
+      "buildid": "6051863",
+      "timeupdated": "1610050252",
+      "timebuildupdated": "1610050252"
+    },
+    "linuxtest": {
+      "buildid": "2193342",
+      "description": "Test build for Linux",
+      "timeupdated": "1507824865",
+      "timebuildupdated": "1507824864"
+    }
+  },
+  "depot": {
+    "431181": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "110795274054828248",
+          "size": "1581084145",
+          "download": "566941888"
+        }
+      }
+    },
+    "431182": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8892657813424746113",
+          "size": "1558090152",
+          "download": "567649248"
+        }
+      }
+    },
+    "431183": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "431184": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "431185": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6051863",
+        "timeupdated": "1610050252",
+        "timebuildupdated": "1610050252"
+      },
+      "linuxtest": {
+        "buildid": "2193342",
+        "description": "Test build for Linux",
+        "timeupdated": "1507824865",
+        "timebuildupdated": "1507824864"
+      }
+    }
+  }
+}

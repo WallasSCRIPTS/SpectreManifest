@@ -1,0 +1,56 @@
+{
+  "name": "Bob Came in Pieces",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:55.071Z",
+  "branches": {
+    "public": {
+      "buildid": "11511",
+      "timebuildupdated": "1346360852"
+    }
+  },
+  "depot": {
+    "46001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "191202721823421685",
+          "size": "386711851",
+          "download": "0"
+        }
+      }
+    },
+    "46002": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5237995218895867849",
+          "size": "274611060",
+          "download": "0"
+        }
+      }
+    },
+    "46003": {
+      "config": {
+        "oslist": "windows,macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4851862104650530709",
+          "size": "2914",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11511",
+        "timebuildupdated": "1346360852"
+      }
+    }
+  }
+}

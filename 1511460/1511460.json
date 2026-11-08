@@ -1,0 +1,166 @@
+{
+  "name": "InfraSpace",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:48.857Z",
+  "branches": {
+    "public": {
+      "buildid": "25090756",
+      "timeupdated": "1788391612",
+      "timebuildupdated": "1788391058"
+    },
+    "alpha-10-pipes-update": {
+      "buildid": "8958662",
+      "description": "Alpha 10: Pipes Update",
+      "timeupdated": "1670587398",
+      "timebuildupdated": "1655485641"
+    },
+    "alpha-11-environment-update": {
+      "buildid": "10164450",
+      "description": "Alpha 11: Environment Update",
+      "timeupdated": "1678453262",
+      "timebuildupdated": "1671212587"
+    },
+    "alpha-12-terraforming-update": {
+      "buildid": "10918642",
+      "description": "Alpha 12: Terraforming Update",
+      "timeupdated": "1683898005",
+      "timebuildupdated": "1680528099"
+    },
+    "alpha-8-train-update": {
+      "buildid": "8108895",
+      "description": "Alpha 8: Train Update",
+      "timeupdated": "1645824211",
+      "timebuildupdated": "1643420963"
+    },
+    "alpha-9-traffic-lights-update": {
+      "buildid": "8609229",
+      "description": "Alpha 9: Traffic Lights Update",
+      "timeupdated": "1654292442",
+      "timebuildupdated": "1650675427"
+    },
+    "beta-1-improvement-update": {
+      "buildid": "11412529",
+      "description": "Beta 1: Improvement Update",
+      "timeupdated": "1689335376",
+      "timebuildupdated": "1686130700"
+    },
+    "beta-2-balancing-update": {
+      "buildid": "12238334",
+      "description": "Beta 2: Balancing Update",
+      "timeupdated": "1695394268",
+      "timebuildupdated": "1695229295"
+    },
+    "early-access-release": {
+      "buildid": "7801014",
+      "description": "Alpha 7: Early Access Release",
+      "timeupdated": "1639174904",
+      "timebuildupdated": "1638273486"
+    },
+    "preview-test": {
+      "buildid": "25090756",
+      "description": "Player Testing Branch",
+      "timeupdated": "1788391612",
+      "timebuildupdated": "1788391058"
+    },
+    "release-1-before-mountain-map": {
+      "buildid": "14487953",
+      "description": "Release 1: Before Mountain Map",
+      "timeupdated": "1736256877",
+      "timebuildupdated": "1716585529"
+    }
+  },
+  "depot": {
+    "1511461": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5796625752472937614",
+          "size": "6667359373",
+          "download": "3005843216"
+        }
+      }
+    },
+    "1511462": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6865976200282680930",
+          "size": "6671883654",
+          "download": "2987882048"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25090756",
+        "timeupdated": "1788391612",
+        "timebuildupdated": "1788391058"
+      },
+      "alpha-10-pipes-update": {
+        "buildid": "8958662",
+        "description": "Alpha 10: Pipes Update",
+        "timeupdated": "1670587398",
+        "timebuildupdated": "1655485641"
+      },
+      "alpha-11-environment-update": {
+        "buildid": "10164450",
+        "description": "Alpha 11: Environment Update",
+        "timeupdated": "1678453262",
+        "timebuildupdated": "1671212587"
+      },
+      "alpha-12-terraforming-update": {
+        "buildid": "10918642",
+        "description": "Alpha 12: Terraforming Update",
+        "timeupdated": "1683898005",
+        "timebuildupdated": "1680528099"
+      },
+      "alpha-8-train-update": {
+        "buildid": "8108895",
+        "description": "Alpha 8: Train Update",
+        "timeupdated": "1645824211",
+        "timebuildupdated": "1643420963"
+      },
+      "alpha-9-traffic-lights-update": {
+        "buildid": "8609229",
+        "description": "Alpha 9: Traffic Lights Update",
+        "timeupdated": "1654292442",
+        "timebuildupdated": "1650675427"
+      },
+      "beta-1-improvement-update": {
+        "buildid": "11412529",
+        "description": "Beta 1: Improvement Update",
+        "timeupdated": "1689335376",
+        "timebuildupdated": "1686130700"
+      },
+      "beta-2-balancing-update": {
+        "buildid": "12238334",
+        "description": "Beta 2: Balancing Update",
+        "timeupdated": "1695394268",
+        "timebuildupdated": "1695229295"
+      },
+      "early-access-release": {
+        "buildid": "7801014",
+        "description": "Alpha 7: Early Access Release",
+        "timeupdated": "1639174904",
+        "timebuildupdated": "1638273486"
+      },
+      "preview-test": {
+        "buildid": "25090756",
+        "description": "Player Testing Branch",
+        "timeupdated": "1788391612",
+        "timebuildupdated": "1788391058"
+      },
+      "release-1-before-mountain-map": {
+        "buildid": "14487953",
+        "description": "Release 1: Before Mountain Map",
+        "timeupdated": "1736256877",
+        "timebuildupdated": "1716585529"
+      }
+    }
+  }
+}

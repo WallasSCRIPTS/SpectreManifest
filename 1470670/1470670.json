@@ -1,0 +1,75 @@
+{
+  "name": "Squirrelmageddon!",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:31.056Z",
+  "branches": {
+    "public": {
+      "buildid": "25162079",
+      "timeupdated": "1788764915",
+      "timebuildupdated": "1788763388"
+    },
+    "beta": {
+      "buildid": "25180437",
+      "description": "Testing Branch",
+      "timeupdated": "1788850741",
+      "timebuildupdated": "1788845400"
+    },
+    "betamaps": {
+      "buildid": "14655383",
+      "description": "For map testing builds",
+      "timeupdated": "1717930841",
+      "timebuildupdated": "1717930605"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1470673": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1288160193549537049",
+          "size": "33846062122",
+          "download": "33210031440"
+        }
+      }
+    },
+    "1470675": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25162079",
+        "timeupdated": "1788764915",
+        "timebuildupdated": "1788763388"
+      },
+      "beta": {
+        "buildid": "25180437",
+        "description": "Testing Branch",
+        "timeupdated": "1788850741",
+        "timebuildupdated": "1788845400"
+      },
+      "betamaps": {
+        "buildid": "14655383",
+        "description": "For map testing builds",
+        "timeupdated": "1717930841",
+        "timebuildupdated": "1717930605"
+      }
+    }
+  }
+}

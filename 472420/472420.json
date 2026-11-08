@@ -1,0 +1,109 @@
+{
+  "name": "Duke Grabowski: Mighty Swashbuckler",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:08.876Z",
+  "branches": {
+    "public": {
+      "buildid": "24794945",
+      "timeupdated": "1787054707",
+      "timebuildupdated": "1787050857"
+    },
+    "legacy_version": {
+      "buildid": "1374323",
+      "description": "2016 version, use only if having problems in default version.",
+      "timeupdated": "1770668997",
+      "timebuildupdated": "1475634598"
+    },
+    "previous_version": {
+      "buildid": "23178365",
+      "description": "Contains the previous version of the game, to be used in case the new update doesn't work well.",
+      "timeupdated": "1778500392",
+      "timebuildupdated": "1778498463"
+    },
+    "testing": {
+      "buildid": "23178365",
+      "description": "Branch to publicly test out bug fixes before rolling them out to everyone",
+      "timeupdated": "1778498484",
+      "timebuildupdated": "1778498463"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "472421": {
+      "manifests": {
+        "public": {
+          "gid": "326338569209643566",
+          "size": "5303491",
+          "download": "5170064"
+        }
+      }
+    },
+    "472423": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "196978885583234529",
+          "size": "1255773630",
+          "download": "792477392"
+        }
+      }
+    },
+    "472424": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4781610633715698116",
+          "size": "1277438865",
+          "download": "803929376"
+        }
+      }
+    },
+    "472425": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1819212409039792269",
+          "size": "1245045275",
+          "download": "786592192"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24794945",
+        "timeupdated": "1787054707",
+        "timebuildupdated": "1787050857"
+      },
+      "legacy_version": {
+        "buildid": "1374323",
+        "description": "2016 version, use only if having problems in default version.",
+        "timeupdated": "1770668997",
+        "timebuildupdated": "1475634598"
+      },
+      "previous_version": {
+        "buildid": "23178365",
+        "description": "Contains the previous version of the game, to be used in case the new update doesn't work well.",
+        "timeupdated": "1778500392",
+        "timebuildupdated": "1778498463"
+      },
+      "testing": {
+        "buildid": "23178365",
+        "description": "Branch to publicly test out bug fixes before rolling them out to everyone",
+        "timeupdated": "1778498484",
+        "timebuildupdated": "1778498463"
+      }
+    }
+  }
+}

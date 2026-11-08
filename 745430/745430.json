@@ -1,0 +1,86 @@
+{
+  "name": "Neon Aileron",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:20.926Z",
+  "branches": {
+    "public": {
+      "buildid": "11170863",
+      "timeupdated": "1683371468",
+      "timebuildupdated": "1683371468"
+    },
+    "newversiontest": {
+      "buildid": "11170863",
+      "timeupdated": "1683371489",
+      "timebuildupdated": "1683371468"
+    },
+    "version2020": {
+      "buildid": "11170809",
+      "description": "Original 2020 version",
+      "timeupdated": "1683370581",
+      "timebuildupdated": "1683370435"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "745434": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6228026585568601305",
+          "size": "653372804",
+          "download": "258292160"
+        }
+      }
+    },
+    "745435": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2333282967620794872",
+          "size": "676619762",
+          "download": "265109856"
+        }
+      }
+    },
+    "745436": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8203116151250368830",
+          "size": "654659726",
+          "download": "257362336"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11170863",
+        "timeupdated": "1683371468",
+        "timebuildupdated": "1683371468"
+      },
+      "newversiontest": {
+        "buildid": "11170863",
+        "timeupdated": "1683371489",
+        "timebuildupdated": "1683371468"
+      },
+      "version2020": {
+        "buildid": "11170809",
+        "description": "Original 2020 version",
+        "timeupdated": "1683370581",
+        "timebuildupdated": "1683370435"
+      }
+    }
+  }
+}

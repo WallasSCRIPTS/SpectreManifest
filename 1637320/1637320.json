@@ -1,0 +1,113 @@
+{
+  "name": "Dome Keeper",
+  "source": "spectre",
+  "changenumber": 40449004,
+  "updated": "2026-11-06T21:06:44.979Z",
+  "branches": {
+    "public": {
+      "buildid": "25038893",
+      "timeupdated": "1788440238",
+      "timebuildupdated": "1788189064"
+    },
+    "legacy-godot3": {
+      "buildid": "13431135",
+      "description": "legacy",
+      "timeupdated": "1721905932",
+      "timebuildupdated": "1707726532"
+    },
+    "legacy-v4.0": {
+      "buildid": "15263246",
+      "description": "v4.0 of the game, to test regressions",
+      "timeupdated": "1729584044",
+      "timebuildupdated": "1722857181"
+    },
+    "legacy-v4.2": {
+      "buildid": "23789916",
+      "description": "legacy",
+      "timeupdated": "1781726907",
+      "timebuildupdated": "1781726907"
+    },
+    "staging": {
+      "buildid": "26330872",
+      "description": "The next patch that should go live soon",
+      "timeupdated": "1793384044",
+      "timebuildupdated": "1793384044"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1637321": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3694114856321861629",
+          "size": "1327788824",
+          "download": "947968752"
+        }
+      }
+    },
+    "1637322": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5728458336016451468",
+          "size": "1411917656",
+          "download": "964624016"
+        }
+      }
+    },
+    "1637323": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5631258244025245099",
+          "size": "1592226399",
+          "download": "982514016"
+        }
+      }
+    },
+    "1637324": {},
+    "branches": {
+      "public": {
+        "buildid": "25038893",
+        "timeupdated": "1788440238",
+        "timebuildupdated": "1788189064"
+      },
+      "legacy-godot3": {
+        "buildid": "13431135",
+        "description": "legacy",
+        "timeupdated": "1721905932",
+        "timebuildupdated": "1707726532"
+      },
+      "legacy-v4.0": {
+        "buildid": "15263246",
+        "description": "v4.0 of the game, to test regressions",
+        "timeupdated": "1729584044",
+        "timebuildupdated": "1722857181"
+      },
+      "legacy-v4.2": {
+        "buildid": "23789916",
+        "description": "legacy",
+        "timeupdated": "1781726907",
+        "timebuildupdated": "1781726907"
+      },
+      "staging": {
+        "buildid": "26330872",
+        "description": "The next patch that should go live soon",
+        "timeupdated": "1793384044",
+        "timebuildupdated": "1793384044"
+      }
+    }
+  }
+}

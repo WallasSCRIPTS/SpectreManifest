@@ -1,0 +1,73 @@
+{
+  "name": "Where Cards Fall",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:04.463Z",
+  "branches": {
+    "public": {
+      "buildid": "20341082",
+      "timeupdated": "1762189696",
+      "timebuildupdated": "1760116495"
+    },
+    "qa-dev": {
+      "buildid": "6622232",
+      "description": "Development builds, error console, not as performant",
+      "timeupdated": "1619712300",
+      "timebuildupdated": "1619712300"
+    },
+    "qa-release": {
+      "buildid": "20341082",
+      "timeupdated": "1760116495",
+      "timebuildupdated": "1760116495"
+    }
+  },
+  "depot": {
+    "589451": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2062805651544746198",
+          "size": "1071952956",
+          "download": "430217664"
+        }
+      }
+    },
+    "589452": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1139178312755036572",
+          "size": "993482680",
+          "download": "426065184"
+        }
+      }
+    },
+    "589453": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20341082",
+        "timeupdated": "1762189696",
+        "timebuildupdated": "1760116495"
+      },
+      "qa-dev": {
+        "buildid": "6622232",
+        "description": "Development builds, error console, not as performant",
+        "timeupdated": "1619712300",
+        "timebuildupdated": "1619712300"
+      },
+      "qa-release": {
+        "buildid": "20341082",
+        "timeupdated": "1760116495",
+        "timebuildupdated": "1760116495"
+      }
+    }
+  }
+}

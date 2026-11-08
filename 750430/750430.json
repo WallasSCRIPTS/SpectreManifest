@@ -1,0 +1,422 @@
+{
+  "name": "Sphinx and the Cursed Mummy: Authoring Tools",
+  "source": "spectre",
+  "changenumber": 39269860,
+  "updated": "2026-11-07T21:00:23.777Z",
+  "branches": {
+    "public": {
+      "buildid": "25577857",
+      "timeupdated": "1790598617",
+      "timebuildupdated": "1790598396"
+    },
+    "2018-02-19": {
+      "buildid": "2539451",
+      "timeupdated": "1530215278",
+      "timebuildupdated": "1519081759"
+    },
+    "2018-02-20": {
+      "buildid": "2542716",
+      "timeupdated": "1530215329",
+      "timebuildupdated": "1519167694"
+    },
+    "2018-03-03": {
+      "buildid": "2574163",
+      "timeupdated": "1530215402",
+      "timebuildupdated": "1520133772"
+    },
+    "2018-03-31": {
+      "buildid": "2650685",
+      "timeupdated": "1530215413",
+      "timebuildupdated": "1522538995"
+    },
+    "2018-04-01": {
+      "buildid": "2651899",
+      "timeupdated": "1530215427",
+      "timebuildupdated": "1522623320"
+    },
+    "2018-04-10": {
+      "buildid": "2676213",
+      "timeupdated": "1530215439",
+      "timebuildupdated": "1523388071"
+    },
+    "2018-05-01": {
+      "buildid": "2738041",
+      "timeupdated": "1530215451",
+      "timebuildupdated": "1525226318"
+    },
+    "2018-05-16": {
+      "buildid": "2780295",
+      "timeupdated": "1530215485",
+      "timebuildupdated": "1526507548"
+    },
+    "2018-05-22": {
+      "buildid": "2797827",
+      "timeupdated": "1530215497",
+      "timebuildupdated": "1527031928"
+    },
+    "2018-05-23": {
+      "buildid": "2800033",
+      "timeupdated": "1530215510",
+      "timebuildupdated": "1527089549"
+    },
+    "2018-06-28": {
+      "buildid": "2903530",
+      "timeupdated": "1545941517",
+      "timebuildupdated": "1530214784"
+    },
+    "2018-12-27": {
+      "buildid": "3430760",
+      "timeupdated": "1564656875",
+      "timebuildupdated": "1545939354"
+    },
+    "2019-01-04": {
+      "buildid": "3444248",
+      "timeupdated": "1564656887",
+      "timebuildupdated": "1546644820"
+    },
+    "2020-03-03": {
+      "buildid": "4737115",
+      "timeupdated": "1598944196",
+      "timebuildupdated": "1583228009"
+    },
+    "2019-08-01": {
+      "buildid": "4065246",
+      "timeupdated": "1769324936",
+      "timebuildupdated": "1564656551"
+    },
+    "2020-08-31": {
+      "buildid": "5486101",
+      "timeupdated": "1769324676",
+      "timebuildupdated": "1598939644"
+    },
+    "2021-02-22": {
+      "buildid": "6277110",
+      "timeupdated": "1769324862",
+      "timebuildupdated": "1614017325"
+    },
+    "2022-10-22": {
+      "buildid": "9776522",
+      "timeupdated": "1769324801",
+      "timebuildupdated": "1666428453"
+    },
+    "2023-04-12": {
+      "buildid": "10984686",
+      "timeupdated": "1769324742",
+      "timebuildupdated": "1681296951"
+    },
+    "2023-06-03": {
+      "buildid": "11389363",
+      "timeupdated": "1769325253",
+      "timebuildupdated": "1685858692"
+    },
+    "2023-08-30": {
+      "buildid": "12068595",
+      "timeupdated": "1769325043",
+      "timebuildupdated": "1693400272"
+    },
+    "2023-09-12": {
+      "buildid": "12171310",
+      "timeupdated": "1769325329",
+      "timebuildupdated": "1694541661"
+    },
+    "2023-10-09": {
+      "buildid": "12395059",
+      "timeupdated": "1769324479",
+      "timebuildupdated": "1696867124"
+    },
+    "2023-10-25": {
+      "buildid": "12538483",
+      "timeupdated": "1769325147",
+      "timebuildupdated": "1698293161"
+    },
+    "2024-02-20": {
+      "buildid": "13506624",
+      "timeupdated": "1769324556",
+      "timebuildupdated": "1708426369"
+    },
+    "2024-02-22": {
+      "buildid": "13536786",
+      "timeupdated": "1769324538",
+      "timebuildupdated": "1708642936"
+    },
+    "2024-02-23": {
+      "buildid": "13548063",
+      "timeupdated": "1769324395",
+      "timebuildupdated": "1708723860"
+    },
+    "2024-04-20": {
+      "buildid": "14123065",
+      "timeupdated": "1769324326",
+      "timebuildupdated": "1713671283"
+    },
+    "2024-10-31": {
+      "buildid": "15556949",
+      "timeupdated": "1769324296",
+      "timebuildupdated": "1725146834"
+    },
+    "2025-04-12": {
+      "buildid": "18085598",
+      "timeupdated": "1769324259",
+      "timebuildupdated": "1744488596"
+    },
+    "2025-07-28": {
+      "buildid": "19390389",
+      "timeupdated": "1769324232",
+      "timebuildupdated": "1753739951"
+    },
+    "2026-01-24": {
+      "buildid": "21636843",
+      "timeupdated": "1769323965",
+      "timebuildupdated": "1769323756"
+    },
+    "2026-02-03": {
+      "buildid": "21769111",
+      "timeupdated": "1770144243",
+      "timebuildupdated": "1770143971"
+    },
+    "2026-02-14": {
+      "buildid": "21935421",
+      "timeupdated": "1771093869",
+      "timebuildupdated": "1771093563"
+    },
+    "2026-04-05": {
+      "buildid": "22653743",
+      "timeupdated": "1775377081",
+      "timebuildupdated": "1775375714"
+    },
+    "2026-08-17": {
+      "buildid": "24784558",
+      "timeupdated": "1787005593",
+      "timebuildupdated": "1787002473"
+    },
+    "2026-08-29": {
+      "buildid": "25007746",
+      "timeupdated": "1787994897",
+      "timebuildupdated": "1787994773"
+    },
+    "2026-08-31": {
+      "buildid": "25050976",
+      "timeupdated": "1788239056",
+      "timebuildupdated": "1788238983"
+    },
+    "2026-09-15": {
+      "buildid": "25317850",
+      "timeupdated": "1789459935",
+      "timebuildupdated": "1789459510"
+    }
+  },
+  "depot": {
+    "750431": {
+      "manifests": {
+        "public": {
+          "gid": "8679923285433822257",
+          "size": "9180024251",
+          "download": "2646536016"
+        }
+      },
+      "dlcappid": "750430"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25577857",
+        "timeupdated": "1790598617",
+        "timebuildupdated": "1790598396"
+      },
+      "2018-02-19": {
+        "buildid": "2539451",
+        "timeupdated": "1530215278",
+        "timebuildupdated": "1519081759"
+      },
+      "2018-02-20": {
+        "buildid": "2542716",
+        "timeupdated": "1530215329",
+        "timebuildupdated": "1519167694"
+      },
+      "2018-03-03": {
+        "buildid": "2574163",
+        "timeupdated": "1530215402",
+        "timebuildupdated": "1520133772"
+      },
+      "2018-03-31": {
+        "buildid": "2650685",
+        "timeupdated": "1530215413",
+        "timebuildupdated": "1522538995"
+      },
+      "2018-04-01": {
+        "buildid": "2651899",
+        "timeupdated": "1530215427",
+        "timebuildupdated": "1522623320"
+      },
+      "2018-04-10": {
+        "buildid": "2676213",
+        "timeupdated": "1530215439",
+        "timebuildupdated": "1523388071"
+      },
+      "2018-05-01": {
+        "buildid": "2738041",
+        "timeupdated": "1530215451",
+        "timebuildupdated": "1525226318"
+      },
+      "2018-05-16": {
+        "buildid": "2780295",
+        "timeupdated": "1530215485",
+        "timebuildupdated": "1526507548"
+      },
+      "2018-05-22": {
+        "buildid": "2797827",
+        "timeupdated": "1530215497",
+        "timebuildupdated": "1527031928"
+      },
+      "2018-05-23": {
+        "buildid": "2800033",
+        "timeupdated": "1530215510",
+        "timebuildupdated": "1527089549"
+      },
+      "2018-06-28": {
+        "buildid": "2903530",
+        "timeupdated": "1545941517",
+        "timebuildupdated": "1530214784"
+      },
+      "2018-12-27": {
+        "buildid": "3430760",
+        "timeupdated": "1564656875",
+        "timebuildupdated": "1545939354"
+      },
+      "2019-01-04": {
+        "buildid": "3444248",
+        "timeupdated": "1564656887",
+        "timebuildupdated": "1546644820"
+      },
+      "2020-03-03": {
+        "buildid": "4737115",
+        "timeupdated": "1598944196",
+        "timebuildupdated": "1583228009"
+      },
+      "2019-08-01": {
+        "buildid": "4065246",
+        "timeupdated": "1769324936",
+        "timebuildupdated": "1564656551"
+      },
+      "2020-08-31": {
+        "buildid": "5486101",
+        "timeupdated": "1769324676",
+        "timebuildupdated": "1598939644"
+      },
+      "2021-02-22": {
+        "buildid": "6277110",
+        "timeupdated": "1769324862",
+        "timebuildupdated": "1614017325"
+      },
+      "2022-10-22": {
+        "buildid": "9776522",
+        "timeupdated": "1769324801",
+        "timebuildupdated": "1666428453"
+      },
+      "2023-04-12": {
+        "buildid": "10984686",
+        "timeupdated": "1769324742",
+        "timebuildupdated": "1681296951"
+      },
+      "2023-06-03": {
+        "buildid": "11389363",
+        "timeupdated": "1769325253",
+        "timebuildupdated": "1685858692"
+      },
+      "2023-08-30": {
+        "buildid": "12068595",
+        "timeupdated": "1769325043",
+        "timebuildupdated": "1693400272"
+      },
+      "2023-09-12": {
+        "buildid": "12171310",
+        "timeupdated": "1769325329",
+        "timebuildupdated": "1694541661"
+      },
+      "2023-10-09": {
+        "buildid": "12395059",
+        "timeupdated": "1769324479",
+        "timebuildupdated": "1696867124"
+      },
+      "2023-10-25": {
+        "buildid": "12538483",
+        "timeupdated": "1769325147",
+        "timebuildupdated": "1698293161"
+      },
+      "2024-02-20": {
+        "buildid": "13506624",
+        "timeupdated": "1769324556",
+        "timebuildupdated": "1708426369"
+      },
+      "2024-02-22": {
+        "buildid": "13536786",
+        "timeupdated": "1769324538",
+        "timebuildupdated": "1708642936"
+      },
+      "2024-02-23": {
+        "buildid": "13548063",
+        "timeupdated": "1769324395",
+        "timebuildupdated": "1708723860"
+      },
+      "2024-04-20": {
+        "buildid": "14123065",
+        "timeupdated": "1769324326",
+        "timebuildupdated": "1713671283"
+      },
+      "2024-10-31": {
+        "buildid": "15556949",
+        "timeupdated": "1769324296",
+        "timebuildupdated": "1725146834"
+      },
+      "2025-04-12": {
+        "buildid": "18085598",
+        "timeupdated": "1769324259",
+        "timebuildupdated": "1744488596"
+      },
+      "2025-07-28": {
+        "buildid": "19390389",
+        "timeupdated": "1769324232",
+        "timebuildupdated": "1753739951"
+      },
+      "2026-01-24": {
+        "buildid": "21636843",
+        "timeupdated": "1769323965",
+        "timebuildupdated": "1769323756"
+      },
+      "2026-02-03": {
+        "buildid": "21769111",
+        "timeupdated": "1770144243",
+        "timebuildupdated": "1770143971"
+      },
+      "2026-02-14": {
+        "buildid": "21935421",
+        "timeupdated": "1771093869",
+        "timebuildupdated": "1771093563"
+      },
+      "2026-04-05": {
+        "buildid": "22653743",
+        "timeupdated": "1775377081",
+        "timebuildupdated": "1775375714"
+      },
+      "2026-08-17": {
+        "buildid": "24784558",
+        "timeupdated": "1787005593",
+        "timebuildupdated": "1787002473"
+      },
+      "2026-08-29": {
+        "buildid": "25007746",
+        "timeupdated": "1787994897",
+        "timebuildupdated": "1787994773"
+      },
+      "2026-08-31": {
+        "buildid": "25050976",
+        "timeupdated": "1788239056",
+        "timebuildupdated": "1788238983"
+      },
+      "2026-09-15": {
+        "buildid": "25317850",
+        "timeupdated": "1789459935",
+        "timebuildupdated": "1789459510"
+      }
+    }
+  }
+}

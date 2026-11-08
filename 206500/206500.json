@@ -1,0 +1,89 @@
+{
+  "name": "AirMech",
+  "source": "spectre",
+  "changenumber": 40652764,
+  "updated": "2026-11-07T20:56:01.784Z",
+  "branches": {
+    "public": {
+      "buildid": "26129599",
+      "timeupdated": "1792678184",
+      "timebuildupdated": "1792660994"
+    },
+    "strike": {
+      "buildid": "2978329",
+      "description": "Classic 76180",
+      "timeupdated": "1703491163",
+      "timebuildupdated": "1532586494"
+    },
+    "beta": {
+      "buildid": "26129599",
+      "description": "public canary",
+      "timeupdated": "1792678125",
+      "timebuildupdated": "1792660994"
+    }
+  },
+  "depot": {
+    "206501": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "206503": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "876348286305021422",
+          "size": "939329823",
+          "download": "899781568"
+        }
+      }
+    },
+    "216173": {
+      "manifests": {
+        "public": {
+          "gid": "3249318963402083177",
+          "size": "657240345",
+          "download": "662949920"
+        }
+      },
+      "dlcappid": "216173"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "888240": {
+      "manifests": {
+        "public": {
+          "gid": "8912496837260398043",
+          "size": "156771453",
+          "download": "154192832"
+        }
+      },
+      "dlcappid": "888240"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26129599",
+        "timeupdated": "1792678184",
+        "timebuildupdated": "1792660994"
+      },
+      "strike": {
+        "buildid": "2978329",
+        "description": "Classic 76180",
+        "timeupdated": "1703491163",
+        "timebuildupdated": "1532586494"
+      },
+      "beta": {
+        "buildid": "26129599",
+        "description": "public canary",
+        "timeupdated": "1792678125",
+        "timebuildupdated": "1792660994"
+      }
+    }
+  }
+}

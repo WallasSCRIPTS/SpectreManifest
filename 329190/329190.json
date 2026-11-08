@@ -1,0 +1,94 @@
+{
+  "name": "Volo Airsport",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:43.828Z",
+  "branches": {
+    "public": {
+      "buildid": "1860413",
+      "timeupdated": "1496333458",
+      "timebuildupdated": "1496332048"
+    },
+    "test": {
+      "buildid": "1861138",
+      "description": "Help test new versions of Volo",
+      "timeupdated": "1496349383",
+      "timebuildupdated": "1496349383"
+    },
+    "v3.5": {
+      "buildid": "696337",
+      "description": "Older version of the game",
+      "timeupdated": "1462875405",
+      "timebuildupdated": "1436986506"
+    }
+  },
+  "depot": {
+    "329191": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1260316682568137857",
+          "size": "601904416",
+          "download": "296905920"
+        }
+      }
+    },
+    "329192": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2698175746893218837",
+          "size": "664798580",
+          "download": "310872544"
+        }
+      }
+    },
+    "329193": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1173983064456569592",
+          "size": "630413631",
+          "download": "301473152"
+        }
+      }
+    },
+    "329194": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2566595995990482806",
+          "size": "595345232",
+          "download": "291427408"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1860413",
+        "timeupdated": "1496333458",
+        "timebuildupdated": "1496332048"
+      },
+      "test": {
+        "buildid": "1861138",
+        "description": "Help test new versions of Volo",
+        "timeupdated": "1496349383",
+        "timebuildupdated": "1496349383"
+      },
+      "v3.5": {
+        "buildid": "696337",
+        "description": "Older version of the game",
+        "timeupdated": "1462875405",
+        "timebuildupdated": "1436986506"
+      }
+    }
+  }
+}

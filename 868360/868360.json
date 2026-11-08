@@ -1,0 +1,177 @@
+{
+  "name": "Project Hospital",
+  "source": "spectre",
+  "changenumber": 40069503,
+  "updated": "2026-11-07T21:01:17.775Z",
+  "branches": {
+    "public": {
+      "buildid": "21161440",
+      "timeupdated": "1770630704",
+      "timebuildupdated": "1765534781"
+    },
+    "beta": {
+      "buildid": "3642026",
+      "description": "Old testing version (spring 2019)",
+      "timeupdated": "1552490642",
+      "timebuildupdated": "1552490642"
+    },
+    "beta-patch-39-test": {
+      "buildid": "8292580",
+      "description": "Pre-release test of patch 39 and Steam Deck support",
+      "timeupdated": "1646300189",
+      "timebuildupdated": "1646129044"
+    },
+    "beta-patch-40-test": {
+      "buildid": "10137020",
+      "description": "Pre-release test of patch 40",
+      "timeupdated": "1670934130",
+      "timebuildupdated": "1670934130"
+    },
+    "beta-patch-41-test": {
+      "buildid": "13935422",
+      "description": "Pre-release test of patch 41",
+      "timeupdated": "1712145680",
+      "timebuildupdated": "1712145680"
+    },
+    "bold-text-fix": {
+      "buildid": "10154178",
+      "description": "Fixes some issues with Asian fonts",
+      "timeupdated": "1671108724",
+      "timebuildupdated": "1671108724"
+    },
+    "thai-language-support": {
+      "buildid": "13936801",
+      "description": "Thai community translation with different font",
+      "timeupdated": "1712152909",
+      "timebuildupdated": "1712152909"
+    },
+    "beta-debugging": {
+      "buildid": "23504263",
+      "description": "Temporary branch for investigating specific bugs",
+      "timeupdated": "1780305930",
+      "timebuildupdated": "1780305930"
+    },
+    "beta-patch-42-test": {
+      "buildid": "18012061",
+      "description": "Pre-release test of patch 42",
+      "timeupdated": "1744033436",
+      "timebuildupdated": "1744033392"
+    },
+    "beta-patch-43-test": {
+      "buildid": "21161440",
+      "description": " Pre-release test of patch 43",
+      "timeupdated": "1765903353",
+      "timebuildupdated": "1765534781"
+    }
+  },
+  "depot": {
+    "868361": {},
+    "868362": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1524862661757441836",
+          "size": "980393341",
+          "download": "205839712"
+        }
+      }
+    },
+    "868363": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4005820175882538502",
+          "size": "992325030",
+          "download": "206612288"
+        }
+      }
+    },
+    "868364": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2643269129776459190",
+          "size": "993312876",
+          "download": "206813808"
+        }
+      }
+    },
+    "1149760": {
+      "manifests": {
+        "public": {
+          "gid": "8548966852256690719",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "1149760"
+    },
+    "branches": {
+      "public": {
+        "buildid": "21161440",
+        "timeupdated": "1770630704",
+        "timebuildupdated": "1765534781"
+      },
+      "beta": {
+        "buildid": "3642026",
+        "description": "Old testing version (spring 2019)",
+        "timeupdated": "1552490642",
+        "timebuildupdated": "1552490642"
+      },
+      "beta-patch-39-test": {
+        "buildid": "8292580",
+        "description": "Pre-release test of patch 39 and Steam Deck support",
+        "timeupdated": "1646300189",
+        "timebuildupdated": "1646129044"
+      },
+      "beta-patch-40-test": {
+        "buildid": "10137020",
+        "description": "Pre-release test of patch 40",
+        "timeupdated": "1670934130",
+        "timebuildupdated": "1670934130"
+      },
+      "beta-patch-41-test": {
+        "buildid": "13935422",
+        "description": "Pre-release test of patch 41",
+        "timeupdated": "1712145680",
+        "timebuildupdated": "1712145680"
+      },
+      "bold-text-fix": {
+        "buildid": "10154178",
+        "description": "Fixes some issues with Asian fonts",
+        "timeupdated": "1671108724",
+        "timebuildupdated": "1671108724"
+      },
+      "thai-language-support": {
+        "buildid": "13936801",
+        "description": "Thai community translation with different font",
+        "timeupdated": "1712152909",
+        "timebuildupdated": "1712152909"
+      },
+      "beta-debugging": {
+        "buildid": "23504263",
+        "description": "Temporary branch for investigating specific bugs",
+        "timeupdated": "1780305930",
+        "timebuildupdated": "1780305930"
+      },
+      "beta-patch-42-test": {
+        "buildid": "18012061",
+        "description": "Pre-release test of patch 42",
+        "timeupdated": "1744033436",
+        "timebuildupdated": "1744033392"
+      },
+      "beta-patch-43-test": {
+        "buildid": "21161440",
+        "description": " Pre-release test of patch 43",
+        "timeupdated": "1765903353",
+        "timebuildupdated": "1765534781"
+      }
+    }
+  }
+}

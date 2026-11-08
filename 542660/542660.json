@@ -1,0 +1,64 @@
+{
+  "name": "Feral Fury",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:37.873Z",
+  "branches": {
+    "public": {
+      "buildid": "1931661",
+      "timeupdated": "1499016057",
+      "timebuildupdated": "1499015925"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "542661": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7747921741949645987",
+          "size": "426820022",
+          "download": "372376784"
+        }
+      }
+    },
+    "542662": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "608436247692957537",
+          "size": "426275875",
+          "download": "373015104"
+        }
+      }
+    },
+    "542663": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7458575419246076715",
+          "size": "476755970",
+          "download": "374503600"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1931661",
+        "timeupdated": "1499016057",
+        "timebuildupdated": "1499015925"
+      }
+    }
+  }
+}

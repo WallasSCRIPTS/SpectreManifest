@@ -1,0 +1,82 @@
+{
+  "name": "Neon D-Fence Remaster",
+  "source": "spectre",
+  "changenumber": 37459553,
+  "updated": "2026-11-06T23:23:24.473Z",
+  "branches": {
+    "public": {
+      "buildid": "17459730",
+      "timeupdated": "1740553232",
+      "timebuildupdated": "1740164297"
+    },
+    "beta": {
+      "buildid": "17459730",
+      "description": "Development branch",
+      "timeupdated": "1740553185",
+      "timebuildupdated": "1740164297"
+    },
+    "under_construction": {
+      "buildid": "22432237",
+      "description": "Install at your own risk, usually broken",
+      "timeupdated": "1774008435",
+      "timebuildupdated": "1774008435"
+    }
+  },
+  "depot": {
+    "2404892": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2579523016489580897",
+          "size": "54765617",
+          "download": "25601312"
+        }
+      }
+    },
+    "2404893": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8757918884334531387",
+          "size": "86271095",
+          "download": "33510704"
+        }
+      }
+    },
+    "2404898": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5115568748091583342",
+          "size": "51514492",
+          "download": "24730784"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17459730",
+        "timeupdated": "1740553232",
+        "timebuildupdated": "1740164297"
+      },
+      "beta": {
+        "buildid": "17459730",
+        "description": "Development branch",
+        "timeupdated": "1740553185",
+        "timebuildupdated": "1740164297"
+      },
+      "under_construction": {
+        "buildid": "22432237",
+        "description": "Install at your own risk, usually broken",
+        "timeupdated": "1774008435",
+        "timebuildupdated": "1774008435"
+      }
+    }
+  }
+}

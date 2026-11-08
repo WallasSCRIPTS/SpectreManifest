@@ -1,0 +1,59 @@
+{
+  "name": "RK Override",
+  "source": "spectre",
+  "changenumber": 39554034,
+  "updated": "2026-11-04T23:24:45.786Z",
+  "branches": {
+    "public": {
+      "buildid": "21663289",
+      "timeupdated": "1769508483",
+      "timebuildupdated": "1769508483"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "4267691": {},
+    "4267692": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4321527640665590798",
+          "size": "2376732782",
+          "download": "1852726144"
+        }
+      }
+    },
+    "4267693": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2491376483738142953",
+          "size": "1999770073",
+          "download": "1844907104"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21663289",
+        "timeupdated": "1769508483",
+        "timebuildupdated": "1769508483"
+      }
+    }
+  }
+}

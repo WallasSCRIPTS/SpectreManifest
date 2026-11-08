@@ -1,0 +1,58 @@
+{
+  "name": "Unbridled: That Horse Game",
+  "source": "spectre",
+  "changenumber": 39630684,
+  "updated": "2026-11-06T23:13:35.783Z",
+  "branches": {
+    "public": {
+      "buildid": "20550575",
+      "timeupdated": "1761513841",
+      "timebuildupdated": "1761513163"
+    },
+    "ridingtest": {
+      "buildid": "24983625",
+      "description": "Testing the new riding system",
+      "timeupdated": "1787908112",
+      "timebuildupdated": "1787884089"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1938051": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7032157217955493181",
+          "size": "7523934031",
+          "download": "7008786288"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20550575",
+        "timeupdated": "1761513841",
+        "timebuildupdated": "1761513163"
+      },
+      "ridingtest": {
+        "buildid": "24983625",
+        "description": "Testing the new riding system",
+        "timeupdated": "1787908112",
+        "timebuildupdated": "1787884089"
+      }
+    }
+  }
+}

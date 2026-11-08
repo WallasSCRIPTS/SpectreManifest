@@ -1,0 +1,90 @@
+{
+  "name": "On Your Hands",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:07:52.034Z",
+  "branches": {
+    "public": {
+      "buildid": "23098951",
+      "timeupdated": "1786564425",
+      "timebuildupdated": "1778008647"
+    },
+    "fresh-bugfix": {
+      "buildid": "23098951",
+      "description": "Very temporary branch for fast deployment of bugfixes",
+      "timeupdated": "1778008647",
+      "timebuildupdated": "1778008647"
+    },
+    "previous-version": {
+      "buildid": "20813731",
+      "description": "the previous version of the game",
+      "timeupdated": "1763244609",
+      "timebuildupdated": "1763244609"
+    }
+  },
+  "depot": {
+    "1708201": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6844857187890292537",
+          "size": "2698387157",
+          "download": "711996752"
+        }
+      }
+    },
+    "1708202": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7432900482957796645",
+          "size": "3285962790",
+          "download": "864116128"
+        }
+      }
+    },
+    "3019250": {
+      "manifests": {
+        "public": {
+          "gid": "2091633281049817137",
+          "size": "3330352920",
+          "download": "1051805856"
+        }
+      },
+      "dlcappid": "3019250"
+    },
+    "3055920": {
+      "manifests": {
+        "public": {
+          "gid": "5099190269879399224",
+          "size": "1478827",
+          "download": "1149088"
+        }
+      },
+      "dlcappid": "3055920"
+    },
+    "branches": {
+      "public": {
+        "buildid": "23098951",
+        "timeupdated": "1786564425",
+        "timebuildupdated": "1778008647"
+      },
+      "fresh-bugfix": {
+        "buildid": "23098951",
+        "description": "Very temporary branch for fast deployment of bugfixes",
+        "timeupdated": "1778008647",
+        "timebuildupdated": "1778008647"
+      },
+      "previous-version": {
+        "buildid": "20813731",
+        "description": "the previous version of the game",
+        "timeupdated": "1763244609",
+        "timebuildupdated": "1763244609"
+      }
+    }
+  }
+}

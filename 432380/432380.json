@@ -1,0 +1,103 @@
+{
+  "name": "Hydra Slayer",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:48.140Z",
+  "branches": {
+    "public": {
+      "buildid": "17183704",
+      "timeupdated": "1738237124",
+      "timebuildupdated": "1738236969"
+    },
+    "previous": {
+      "buildid": "10154513",
+      "description": "Earlier version. Try this if the current version is not working for some reason.",
+      "timeupdated": "1711650567",
+      "timebuildupdated": "1671111387"
+    },
+    "testing": {
+      "buildid": "17183704",
+      "description": "test before release",
+      "timeupdated": "1738237001",
+      "timebuildupdated": "1738236969"
+    }
+  },
+  "depot": {
+    "432381": {
+      "manifests": {
+        "public": {
+          "gid": "9198002354028220952",
+          "size": "36364689",
+          "download": "34013344"
+        }
+      }
+    },
+    "432382": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7840226053957404212",
+          "size": "15463943",
+          "download": "3725648"
+        }
+      }
+    },
+    "432383": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1408448849203255139",
+          "size": "2190737",
+          "download": "751744"
+        }
+      }
+    },
+    "432384": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8109569713581766606",
+          "size": "2260980",
+          "download": "749232"
+        }
+      }
+    },
+    "432385": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4533304830795170466",
+          "size": "12568189",
+          "download": "2797328"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17183704",
+        "timeupdated": "1738237124",
+        "timebuildupdated": "1738236969"
+      },
+      "previous": {
+        "buildid": "10154513",
+        "description": "Earlier version. Try this if the current version is not working for some reason.",
+        "timeupdated": "1711650567",
+        "timebuildupdated": "1671111387"
+      },
+      "testing": {
+        "buildid": "17183704",
+        "description": "test before release",
+        "timeupdated": "1738237001",
+        "timebuildupdated": "1738236969"
+      }
+    }
+  }
+}

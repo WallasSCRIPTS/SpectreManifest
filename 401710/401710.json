@@ -1,0 +1,104 @@
+{
+  "name": "Flinthook",
+  "source": "spectre",
+  "changenumber": 39429091,
+  "updated": "2026-11-07T20:57:33.507Z",
+  "branches": {
+    "public": {
+      "buildid": "14209232",
+      "timeupdated": "1714397732",
+      "timebuildupdated": "1714397732"
+    },
+    "linux32": {
+      "buildid": "2756155",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609456719",
+      "timebuildupdated": "1525803216"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "401711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "114977123182346920",
+          "size": "167532457",
+          "download": "110223712"
+        }
+      }
+    },
+    "401712": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "384737786616548689",
+          "size": "187353149",
+          "download": "116911648"
+        }
+      }
+    },
+    "401713": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1981495227245219764",
+          "size": "199866906",
+          "download": "119937488"
+        }
+      }
+    },
+    "401714": {
+      "manifests": {
+        "public": {
+          "gid": "5067616864759173833",
+          "size": "218284679",
+          "download": "215961840"
+        }
+      },
+      "dlcappid": "616530"
+    },
+    "branches": {
+      "public": {
+        "buildid": "14209232",
+        "timeupdated": "1714397732",
+        "timebuildupdated": "1714397732"
+      },
+      "linux32": {
+        "buildid": "2756155",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609456719",
+        "timebuildupdated": "1525803216"
+      }
+    }
+  }
+}

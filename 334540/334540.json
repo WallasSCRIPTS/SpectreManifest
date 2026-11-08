@@ -1,0 +1,61 @@
+{
+  "name": "Vox Machinae",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:46.451Z",
+  "branches": {
+    "public": {
+      "buildid": "15933462",
+      "timeupdated": "1728075100",
+      "timebuildupdated": "1728065643"
+    },
+    "stable": {
+      "buildid": "6896968",
+      "description": "Stable build for commercial users",
+      "timeupdated": "1646418046",
+      "timebuildupdated": "1624059115"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "334541": {
+      "manifests": {
+        "public": {
+          "gid": "7435174297297841629",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "334542": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4814429162104098492",
+          "size": "14494394938",
+          "download": "10015349584"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15933462",
+        "timeupdated": "1728075100",
+        "timebuildupdated": "1728065643"
+      },
+      "stable": {
+        "buildid": "6896968",
+        "description": "Stable build for commercial users",
+        "timeupdated": "1646418046",
+        "timebuildupdated": "1624059115"
+      }
+    }
+  }
+}

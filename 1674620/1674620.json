@@ -1,0 +1,49 @@
+{
+  "name": "Construct VR - The Volumetric Movie",
+  "source": "spectre",
+  "changenumber": 40626161,
+  "updated": "2026-11-06T21:07:00.081Z",
+  "branches": {
+    "public": {
+      "buildid": "13236599",
+      "timeupdated": "1705919420",
+      "timebuildupdated": "1705917670"
+    },
+    "rollback": {
+      "buildid": "11810165",
+      "description": "Roll back to a previous version",
+      "timeupdated": "1705919457",
+      "timebuildupdated": "1690537683"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1674621": {
+      "manifests": {
+        "public": {
+          "gid": "7691726196336879013",
+          "size": "32589702831",
+          "download": "29328035216"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13236599",
+        "timeupdated": "1705919420",
+        "timebuildupdated": "1705917670"
+      },
+      "rollback": {
+        "buildid": "11810165",
+        "description": "Roll back to a previous version",
+        "timeupdated": "1705919457",
+        "timebuildupdated": "1690537683"
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Blackdoor",
+  "source": "spectre",
+  "changenumber": 40548479,
+  "updated": "2026-11-04T23:25:42.396Z",
+  "branches": {
+    "public": {
+      "buildid": "25422119",
+      "timeupdated": "1789924369",
+      "timebuildupdated": "1789919202"
+    },
+    "beta": {
+      "buildid": "26406074",
+      "description": "Unstable; testing",
+      "timeupdated": "1793710905",
+      "timebuildupdated": "1793710905"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "4562431": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2921179585389805309",
+          "size": "100759184",
+          "download": "45448272"
+        }
+      }
+    },
+    "4562432": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8296357623971223066",
+          "size": "111091256",
+          "download": "48478144"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25422119",
+        "timeupdated": "1789924369",
+        "timebuildupdated": "1789919202"
+      },
+      "beta": {
+        "buildid": "26406074",
+        "description": "Unstable; testing",
+        "timeupdated": "1793710905",
+        "timebuildupdated": "1793710905"
+      }
+    }
+  }
+}

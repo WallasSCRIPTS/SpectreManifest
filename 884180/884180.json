@@ -1,0 +1,70 @@
+{
+  "name": "Robot Rumble 2",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T21:01:25.876Z",
+  "branches": {
+    "public": {
+      "buildid": "22619015",
+      "timeupdated": "1788287822",
+      "timebuildupdated": "1775131041"
+    },
+    "pre-weightfix": {
+      "buildid": "20258940",
+      "description": "Final version before weightfix",
+      "timeupdated": "1775128700",
+      "timebuildupdated": "1759659662"
+    },
+    "unstable": {
+      "buildid": "25961235",
+      "description": "Expect bugs and balance changes",
+      "timeupdated": "1792071624",
+      "timebuildupdated": "1792071624"
+    }
+  },
+  "depot": {
+    "884181": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5558620877513804120",
+          "size": "1264573549",
+          "download": "466747712"
+        }
+      }
+    },
+    "884182": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "775243026862722700",
+          "size": "1255270149",
+          "download": "457593424"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22619015",
+        "timeupdated": "1788287822",
+        "timebuildupdated": "1775131041"
+      },
+      "pre-weightfix": {
+        "buildid": "20258940",
+        "description": "Final version before weightfix",
+        "timeupdated": "1775128700",
+        "timebuildupdated": "1759659662"
+      },
+      "unstable": {
+        "buildid": "25961235",
+        "description": "Expect bugs and balance changes",
+        "timeupdated": "1792071624",
+        "timebuildupdated": "1792071624"
+      }
+    }
+  }
+}

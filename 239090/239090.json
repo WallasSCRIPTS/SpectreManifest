@@ -1,0 +1,60 @@
+{
+  "name": "Samurai GUNN",
+  "source": "spectre",
+  "changenumber": 40125456,
+  "updated": "2026-11-07T20:56:09.291Z",
+  "branches": {
+    "public": {
+      "buildid": "870919",
+      "timebuildupdated": "1448351882"
+    },
+    "beta": {
+      "buildid": "870919",
+      "description": "Beta Branch",
+      "timebuildupdated": "1448351882"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "239091": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4858169741758266076",
+          "size": "281748409",
+          "download": "182161936"
+        }
+      }
+    },
+    "239092": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1877147853954586848",
+          "size": "282612445",
+          "download": "181674800"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "870919",
+        "timebuildupdated": "1448351882"
+      },
+      "beta": {
+        "buildid": "870919",
+        "description": "Beta Branch",
+        "timebuildupdated": "1448351882"
+      }
+    }
+  }
+}

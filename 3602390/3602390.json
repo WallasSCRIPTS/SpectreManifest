@@ -1,0 +1,73 @@
+{
+  "name": "BIORAGE",
+  "source": "spectre",
+  "changenumber": 36618623,
+  "updated": "2026-11-04T23:24:42.465Z",
+  "branches": {
+    "public": {
+      "buildid": "20361555",
+      "timeupdated": "1760312260",
+      "timebuildupdated": "1760312172"
+    },
+    "bioragepreviousversion": {
+      "buildid": "18987136",
+      "description": "Biorage 1.2 with the old launcher and cut gamemodes",
+      "timeupdated": "1768753168",
+      "timebuildupdated": "1750805661"
+    },
+    "bioragefirstupdate": {
+      "buildid": "18816900",
+      "description": "1.1 very old version, mainly archival purposes",
+      "timeupdated": "1768753190",
+      "timebuildupdated": "1749596138"
+    },
+    "bioragelaunchversion": {
+      "buildid": "17996346",
+      "description": "1.0, has bugs, archival purposes",
+      "timeupdated": "1768753202",
+      "timebuildupdated": "1743864664"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "3602391": {
+      "manifests": {
+        "public": {
+          "gid": "6646459128378805380",
+          "size": "3317067577",
+          "download": "874596896"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20361555",
+        "timeupdated": "1760312260",
+        "timebuildupdated": "1760312172"
+      },
+      "bioragepreviousversion": {
+        "buildid": "18987136",
+        "description": "Biorage 1.2 with the old launcher and cut gamemodes",
+        "timeupdated": "1768753168",
+        "timebuildupdated": "1750805661"
+      },
+      "bioragefirstupdate": {
+        "buildid": "18816900",
+        "description": "1.1 very old version, mainly archival purposes",
+        "timeupdated": "1768753190",
+        "timebuildupdated": "1749596138"
+      },
+      "bioragelaunchversion": {
+        "buildid": "17996346",
+        "description": "1.0, has bugs, archival purposes",
+        "timeupdated": "1768753202",
+        "timebuildupdated": "1743864664"
+      }
+    }
+  }
+}

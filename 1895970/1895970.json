@@ -1,0 +1,80 @@
+{
+  "name": "Robotherapy",
+  "source": "spectre",
+  "changenumber": 38338223,
+  "updated": "2026-11-04T23:22:45.176Z",
+  "branches": {
+    "public": {
+      "buildid": "11886240",
+      "timeupdated": "1746056716",
+      "timebuildupdated": "1691432814"
+    },
+    "linux": {
+      "buildid": "11728997",
+      "description": "linux",
+      "timeupdated": "1689688926",
+      "timebuildupdated": "1689688879"
+    },
+    "macos": {
+      "buildid": "18308559",
+      "description": "mac",
+      "timeupdated": "1746097586",
+      "timebuildupdated": "1746097586"
+    }
+  },
+  "depot": {
+    "1895971": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4363902929101893463",
+          "size": "144296117",
+          "download": "71878528"
+        }
+      }
+    },
+    "1895972": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "1895973": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "1895974": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3424181750998887510",
+          "size": "145631284",
+          "download": "69366272"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11886240",
+        "timeupdated": "1746056716",
+        "timebuildupdated": "1691432814"
+      },
+      "linux": {
+        "buildid": "11728997",
+        "description": "linux",
+        "timeupdated": "1689688926",
+        "timebuildupdated": "1689688879"
+      },
+      "macos": {
+        "buildid": "18308559",
+        "description": "mac",
+        "timeupdated": "1746097586",
+        "timebuildupdated": "1746097586"
+      }
+    }
+  }
+}

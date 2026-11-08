@@ -1,0 +1,97 @@
+{
+  "name": "The Glitch Fairy",
+  "source": "spectre",
+  "changenumber": 38158791,
+  "updated": "2026-11-06T23:11:33.842Z",
+  "branches": {
+    "public": {
+      "buildid": "22130894",
+      "timeupdated": "1772209018",
+      "timebuildupdated": "1772208979"
+    },
+    "beta": {
+      "buildid": "21924155",
+      "description": "GM2",
+      "timeupdated": "1771003033",
+      "timebuildupdated": "1771003031"
+    },
+    "gm1_vm": {
+      "buildid": "22144295",
+      "description": "virtual machine",
+      "timeupdated": "1772308512",
+      "timebuildupdated": "1772308510"
+    },
+    "gm2_vm": {
+      "buildid": "22022309",
+      "description": "virtual machine",
+      "timeupdated": "1771863169",
+      "timebuildupdated": "1771603806"
+    },
+    "mac_beta": {
+      "buildid": "24742188",
+      "description": "MacOS",
+      "timeupdated": "1786738091",
+      "timebuildupdated": "1786738089"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1811912": {
+      "manifests": {
+        "public": {
+          "gid": "1445251705950448736",
+          "size": "627998789",
+          "download": "543269872"
+        }
+      }
+    },
+    "3373260": {
+      "dlcappid": "3373260"
+    },
+    "4230720": {
+      "dlcappid": "4230720"
+    },
+    "branches": {
+      "public": {
+        "buildid": "22130894",
+        "timeupdated": "1772209018",
+        "timebuildupdated": "1772208979"
+      },
+      "beta": {
+        "buildid": "21924155",
+        "description": "GM2",
+        "timeupdated": "1771003033",
+        "timebuildupdated": "1771003031"
+      },
+      "gm1_vm": {
+        "buildid": "22144295",
+        "description": "virtual machine",
+        "timeupdated": "1772308512",
+        "timebuildupdated": "1772308510"
+      },
+      "gm2_vm": {
+        "buildid": "22022309",
+        "description": "virtual machine",
+        "timeupdated": "1771863169",
+        "timebuildupdated": "1771603806"
+      },
+      "mac_beta": {
+        "buildid": "24742188",
+        "description": "MacOS",
+        "timeupdated": "1786738091",
+        "timebuildupdated": "1786738089"
+      }
+    }
+  }
+}

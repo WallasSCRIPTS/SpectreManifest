@@ -1,0 +1,59 @@
+{
+  "name": "Different Strokes",
+  "source": "spectre",
+  "changenumber": 40668056,
+  "updated": "2026-11-06T23:17:32.208Z",
+  "branches": {
+    "public": {
+      "buildid": "26003675",
+      "timeupdated": "1792209893",
+      "timebuildupdated": "1792209809"
+    },
+    "windows7": {
+      "buildid": "17639828",
+      "description": "Windows 7 Support",
+      "timeupdated": "1743494006",
+      "timebuildupdated": "1741373983"
+    }
+  },
+  "depot": {
+    "2102021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "929310496857753185",
+          "size": "123392201",
+          "download": "55786320"
+        }
+      }
+    },
+    "2182660": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6705713193035645857",
+          "size": "123391689",
+          "download": "55787488"
+        }
+      },
+      "dlcappid": "2182660"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26003675",
+        "timeupdated": "1792209893",
+        "timebuildupdated": "1792209809"
+      },
+      "windows7": {
+        "buildid": "17639828",
+        "description": "Windows 7 Support",
+        "timeupdated": "1743494006",
+        "timebuildupdated": "1741373983"
+      }
+    }
+  }
+}

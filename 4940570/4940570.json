@@ -1,0 +1,70 @@
+{
+  "name": "1 HP DUNGEON",
+  "source": "spectre",
+  "changenumber": 39731713,
+  "updated": "2026-11-04T23:25:43.807Z",
+  "branches": {
+    "public": {
+      "buildid": "25136834",
+      "timeupdated": "1788584012",
+      "timebuildupdated": "1788580832"
+    },
+    "alpha": {
+      "buildid": "25026772",
+      "description": "testing only, please don't use it oficially",
+      "timeupdated": "1788130329",
+      "timebuildupdated": "1788130227"
+    }
+  },
+  "depot": {
+    "4940571": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7626613036221984177",
+          "size": "191661432",
+          "download": "108178496"
+        }
+      }
+    },
+    "4940572": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7955004811238417892",
+          "size": "156663696",
+          "download": "99663072"
+        }
+      }
+    },
+    "4940573": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8971250786630321586",
+          "size": "256552867",
+          "download": "128232944"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25136834",
+        "timeupdated": "1788584012",
+        "timebuildupdated": "1788580832"
+      },
+      "alpha": {
+        "buildid": "25026772",
+        "description": "testing only, please don't use it oficially",
+        "timeupdated": "1788130329",
+        "timebuildupdated": "1788130227"
+      }
+    }
+  }
+}

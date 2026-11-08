@@ -1,0 +1,60 @@
+{
+  "name": "Ashes of Oahu",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:40.957Z",
+  "branches": {
+    "public": {
+      "buildid": "4262046",
+      "timeupdated": "1570384425",
+      "timebuildupdated": "1570383146"
+    },
+    "local": {
+      "buildid": "2414683",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1515144125",
+      "timebuildupdated": "1515144125"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "671601": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3814602982991316580",
+          "size": "22507116159",
+          "download": "7566519824"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4262046",
+        "timeupdated": "1570384425",
+        "timebuildupdated": "1570383146"
+      },
+      "local": {
+        "buildid": "2414683",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1515144125",
+        "timebuildupdated": "1515144125"
+      }
+    }
+  }
+}

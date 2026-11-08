@@ -1,0 +1,70 @@
+{
+  "name": "Easy Red",
+  "source": "spectre",
+  "changenumber": 37437721,
+  "updated": "2026-11-07T21:00:19.253Z",
+  "branches": {
+    "public": {
+      "buildid": "2511396",
+      "timeupdated": "1613929567",
+      "timebuildupdated": "1518165560"
+    },
+    "fixupdate": {
+      "buildid": "2790808",
+      "description": "BETA",
+      "timeupdated": "1613929601",
+      "timebuildupdated": "1526829540"
+    }
+  },
+  "depot": {
+    "741671": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5960822026774326497",
+          "size": "642617798",
+          "download": "253005824"
+        }
+      }
+    },
+    "741672": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "444244531473017758",
+          "size": "666791456",
+          "download": "263405952"
+        }
+      }
+    },
+    "741673": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2868927216478414764",
+          "size": "673908055",
+          "download": "271101856"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2511396",
+        "timeupdated": "1613929567",
+        "timebuildupdated": "1518165560"
+      },
+      "fixupdate": {
+        "buildid": "2790808",
+        "description": "BETA",
+        "timeupdated": "1613929601",
+        "timebuildupdated": "1526829540"
+      }
+    }
+  }
+}

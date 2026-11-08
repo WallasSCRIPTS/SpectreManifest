@@ -1,0 +1,104 @@
+{
+  "name": "The Colorful Creature",
+  "source": "spectre",
+  "changenumber": 39495403,
+  "updated": "2026-11-06T21:06:50.630Z",
+  "branches": {
+    "public": {
+      "buildid": "22593731",
+      "timeupdated": "1775001935",
+      "timebuildupdated": "1775001475"
+    },
+    "arm_branch": {
+      "buildid": "16572328",
+      "description": "Only for Windows ARM computers",
+      "timeupdated": "1732835923",
+      "timebuildupdated": "1732835923"
+    },
+    "32bit": {
+      "buildid": "9357053",
+      "description": "32-bit branch which supports 32-bit systems. NOT RECOMMENDED FOR 64-BIT, THIS BRANCH WON'T BE UPDATED!",
+      "timeupdated": "1661987521",
+      "timebuildupdated": "1661094574"
+    },
+    "beta": {
+      "buildid": "25724870",
+      "description": "Beta Versions",
+      "timeupdated": "1791195938",
+      "timebuildupdated": "1791195938"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1651681": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3292602525106701474",
+          "size": "146884743",
+          "download": "120910704"
+        }
+      }
+    },
+    "1651682": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5422697140506178797",
+          "size": "137317514",
+          "download": "117962976"
+        }
+      }
+    },
+    "1651683": {
+      "config": {
+        "oslist": "android"
+      }
+    },
+    "1651684": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22593731",
+        "timeupdated": "1775001935",
+        "timebuildupdated": "1775001475"
+      },
+      "arm_branch": {
+        "buildid": "16572328",
+        "description": "Only for Windows ARM computers",
+        "timeupdated": "1732835923",
+        "timebuildupdated": "1732835923"
+      },
+      "32bit": {
+        "buildid": "9357053",
+        "description": "32-bit branch which supports 32-bit systems. NOT RECOMMENDED FOR 64-BIT, THIS BRANCH WON'T BE UPDATED!",
+        "timeupdated": "1661987521",
+        "timebuildupdated": "1661094574"
+      },
+      "beta": {
+        "buildid": "25724870",
+        "description": "Beta Versions",
+        "timeupdated": "1791195938",
+        "timebuildupdated": "1791195938"
+      }
+    }
+  }
+}

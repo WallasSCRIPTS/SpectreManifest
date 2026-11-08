@@ -1,0 +1,76 @@
+{
+  "name": "Crash Drive 2",
+  "source": "spectre",
+  "changenumber": 40161972,
+  "updated": "2026-11-07T20:56:53.140Z",
+  "branches": {
+    "public": {
+      "buildid": "6211764",
+      "timeupdated": "1612865877",
+      "timebuildupdated": "1612864270"
+    },
+    "osx_10_10_5_workaround": {
+      "buildid": "3829110",
+      "description": "Steamworks.Net has an issue on OSX 10.10.5 crashing the game right at boot. This branch is from before that issue.",
+      "timeupdated": "1562928536",
+      "timebuildupdated": "1558002831"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "343441": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7648752669795963228",
+          "size": "446063187",
+          "download": "114429264"
+        }
+      }
+    },
+    "343442": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2059182048756171311",
+          "size": "433832269",
+          "download": "113212192"
+        }
+      }
+    },
+    "343443": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2521938608550164451",
+          "size": "447646245",
+          "download": "116330640"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6211764",
+        "timeupdated": "1612865877",
+        "timebuildupdated": "1612864270"
+      },
+      "osx_10_10_5_workaround": {
+        "buildid": "3829110",
+        "description": "Steamworks.Net has an issue on OSX 10.10.5 crashing the game right at boot. This branch is from before that issue.",
+        "timeupdated": "1562928536",
+        "timebuildupdated": "1558002831"
+      }
+    }
+  }
+}

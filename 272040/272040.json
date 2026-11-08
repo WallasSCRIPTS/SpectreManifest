@@ -1,0 +1,60 @@
+{
+  "name": "KAMI",
+  "source": "spectre",
+  "changenumber": 37432709,
+  "updated": "2026-11-07T20:56:19.281Z",
+  "branches": {
+    "public": {
+      "buildid": "199913",
+      "timebuildupdated": "1393424216"
+    },
+    "beta": {
+      "buildid": "205787",
+      "timebuildupdated": "1394029018"
+    },
+    "beta2": {
+      "buildid": "205841",
+      "timebuildupdated": "1394032190"
+    }
+  },
+  "depot": {
+    "272041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6869307445582119673",
+          "size": "81078597",
+          "download": "0"
+        }
+      }
+    },
+    "272042": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4598397286131050508",
+          "size": "96977870",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "199913",
+        "timebuildupdated": "1393424216"
+      },
+      "beta": {
+        "buildid": "205787",
+        "timebuildupdated": "1394029018"
+      },
+      "beta2": {
+        "buildid": "205841",
+        "timebuildupdated": "1394032190"
+      }
+    }
+  }
+}

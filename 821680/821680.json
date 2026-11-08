@@ -1,0 +1,76 @@
+{
+  "name": "Military Operations: Benchmark",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:57.814Z",
+  "branches": {
+    "public": {
+      "buildid": "3346704",
+      "timeupdated": "1543408331",
+      "timebuildupdated": "1543403935"
+    },
+    "beta": {
+      "buildid": "3346704",
+      "description": "Beta",
+      "timeupdated": "1543408315",
+      "timebuildupdated": "1543403935"
+    },
+    "previous": {
+      "buildid": "3176463",
+      "description": "previous default build",
+      "timeupdated": "1543404659",
+      "timebuildupdated": "1538500132"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "818172": {
+      "depotfromapp": "818170"
+    },
+    "821681": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1313522658136281817",
+          "size": "135955841",
+          "download": "75168288"
+        }
+      }
+    },
+    "821682": {
+      "manifests": {
+        "public": {
+          "gid": "5947601243053031806",
+          "size": "22414578528",
+          "download": "19294460560"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3346704",
+        "timeupdated": "1543408331",
+        "timebuildupdated": "1543403935"
+      },
+      "beta": {
+        "buildid": "3346704",
+        "description": "Beta",
+        "timeupdated": "1543408315",
+        "timebuildupdated": "1543403935"
+      },
+      "previous": {
+        "buildid": "3176463",
+        "description": "previous default build",
+        "timeupdated": "1543404659",
+        "timebuildupdated": "1538500132"
+      }
+    }
+  }
+}

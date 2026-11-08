@@ -1,0 +1,98 @@
+{
+  "name": "Starfighter: Infinity",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:04.928Z",
+  "branches": {
+    "public": {
+      "buildid": "14225811",
+      "timeupdated": "1714508622",
+      "timebuildupdated": "1714508558"
+    },
+    "beta": {
+      "buildid": "14225811",
+      "description": "beta testing",
+      "timeupdated": "1714508558",
+      "timebuildupdated": "1714508558"
+    },
+    "updatetest": {
+      "buildid": "23285230",
+      "description": "Testing New input system",
+      "timeupdated": "1779101013",
+      "timebuildupdated": "1779101013"
+    }
+  },
+  "depot": {
+    "967331": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2187707088513434336",
+          "size": "1559275330",
+          "download": "431759024"
+        }
+      }
+    },
+    "967332": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6216194480602463051",
+          "size": "1571893291",
+          "download": "437768928"
+        }
+      }
+    },
+    "967333": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7194830784518370740",
+          "size": "1549195729",
+          "download": "429447872"
+        }
+      },
+      "dlcappid": "1233440"
+    },
+    "967334": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5504458594948420370",
+          "size": "1567798721",
+          "download": "435911072"
+        }
+      }
+    },
+    "1233440": {
+      "dlcappid": "1233440"
+    },
+    "branches": {
+      "public": {
+        "buildid": "14225811",
+        "timeupdated": "1714508622",
+        "timebuildupdated": "1714508558"
+      },
+      "beta": {
+        "buildid": "14225811",
+        "description": "beta testing",
+        "timeupdated": "1714508558",
+        "timebuildupdated": "1714508558"
+      },
+      "updatetest": {
+        "buildid": "23285230",
+        "description": "Testing New input system",
+        "timeupdated": "1779101013",
+        "timebuildupdated": "1779101013"
+      }
+    }
+  }
+}

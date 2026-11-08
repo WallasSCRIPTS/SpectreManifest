@@ -1,0 +1,54 @@
+{
+  "name": "Shadow Hunter",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:11.335Z",
+  "branches": {
+    "public": {
+      "buildid": "1198947",
+      "timeupdated": "1466879076",
+      "timebuildupdated": "1466878994"
+    },
+    "beta": {
+      "buildid": "657867",
+      "description": "Pre-release test",
+      "timebuildupdated": "1434120405"
+    }
+  },
+  "depot": {
+    "365271": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "365272": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "365277": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4150561220059711901",
+          "size": "128047508",
+          "download": "59216384"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1198947",
+        "timeupdated": "1466879076",
+        "timebuildupdated": "1466878994"
+      },
+      "beta": {
+        "buildid": "657867",
+        "description": "Pre-release test",
+        "timebuildupdated": "1434120405"
+      }
+    }
+  }
+}

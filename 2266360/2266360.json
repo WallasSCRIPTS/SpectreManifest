@@ -1,0 +1,82 @@
+{
+  "name": "Thumb Tanks",
+  "source": "spectre",
+  "changenumber": 40539372,
+  "updated": "2026-11-06T23:21:23.007Z",
+  "branches": {
+    "public": {
+      "buildid": "21737333",
+      "timeupdated": "1769959029",
+      "timebuildupdated": "1769958980"
+    },
+    "beta": {
+      "buildid": "17293002",
+      "description": "upcoming version beta",
+      "timeupdated": "1739039640",
+      "timebuildupdated": "1739039640"
+    },
+    "previous": {
+      "buildid": "20358064",
+      "description": "previous stable default",
+      "timeupdated": "1769959002",
+      "timebuildupdated": "1760281378"
+    },
+    "ttfl": {
+      "buildid": "26223482",
+      "description": "ttfl",
+      "timeupdated": "1793035716",
+      "timebuildupdated": "1793035716"
+    }
+  },
+  "depot": {
+    "2266362": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5980993508019516893",
+          "size": "675236091",
+          "download": "390572960"
+        }
+      }
+    },
+    "2266363": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "538417744572736904",
+          "size": "677168203",
+          "download": "389912272"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21737333",
+        "timeupdated": "1769959029",
+        "timebuildupdated": "1769958980"
+      },
+      "beta": {
+        "buildid": "17293002",
+        "description": "upcoming version beta",
+        "timeupdated": "1739039640",
+        "timebuildupdated": "1739039640"
+      },
+      "previous": {
+        "buildid": "20358064",
+        "description": "previous stable default",
+        "timeupdated": "1769959002",
+        "timebuildupdated": "1760281378"
+      },
+      "ttfl": {
+        "buildid": "26223482",
+        "description": "ttfl",
+        "timeupdated": "1793035716",
+        "timebuildupdated": "1793035716"
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Cultist Astronaut Demo",
+  "source": "spectre",
+  "changenumber": 34395534,
+  "updated": "2026-11-06T23:17:35.517Z",
+  "branches": {
+    "public": {
+      "buildid": "19319454",
+      "timeupdated": "1754353362",
+      "timebuildupdated": "1753212361"
+    },
+    "beta": {
+      "buildid": "22318272",
+      "description": "Early Beta",
+      "timeupdated": "1773341967",
+      "timebuildupdated": "1773341967"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2130411": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6901081943627666593",
+          "size": "2631998745",
+          "download": "648058544"
+        }
+      }
+    },
+    "2130412": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4562202629540265187",
+          "size": "744833575",
+          "download": "151385760"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19319454",
+        "timeupdated": "1754353362",
+        "timebuildupdated": "1753212361"
+      },
+      "beta": {
+        "buildid": "22318272",
+        "description": "Early Beta",
+        "timeupdated": "1773341967",
+        "timebuildupdated": "1773341967"
+      }
+    }
+  }
+}

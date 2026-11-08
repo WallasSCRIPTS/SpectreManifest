@@ -1,0 +1,69 @@
+{
+  "name": "Sharded World",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:05.967Z",
+  "branches": {
+    "public": {
+      "buildid": "13247770",
+      "timeupdated": "1706088243",
+      "timebuildupdated": "1706008811"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1275371": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "222688536892065855",
+          "size": "3137435339",
+          "download": "2457239584"
+        }
+      }
+    },
+    "1275372": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2687402808558749782",
+          "size": "3131355008",
+          "download": "2456817824"
+        }
+      }
+    },
+    "1275373": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13247770",
+        "timeupdated": "1706088243",
+        "timebuildupdated": "1706008811"
+      }
+    }
+  }
+}

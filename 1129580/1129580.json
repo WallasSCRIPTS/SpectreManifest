@@ -1,0 +1,107 @@
+{
+  "name": "Medieval Dynasty",
+  "source": "spectre",
+  "changenumber": 40588719,
+  "updated": "2026-11-07T21:03:35.273Z",
+  "branches": {
+    "public": {
+      "buildid": "25776186",
+      "timeupdated": "1791378172",
+      "timebuildupdated": "1791372520"
+    },
+    "pre_co-op": {
+      "buildid": "11595403",
+      "description": "Last public version before Co-Op release",
+      "timeupdated": "1702385380",
+      "timebuildupdated": "1688105890"
+    },
+    "public_testing": {
+      "buildid": "25776186",
+      "description": "Public testing branch before public release",
+      "timeupdated": "1791378172",
+      "timebuildupdated": "1791372520"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1129581": {
+      "manifests": {
+        "public": {
+          "gid": "969175808141478881",
+          "size": "21146865757",
+          "download": "13963957552"
+        }
+      }
+    },
+    "1418980": {
+      "manifests": {
+        "public": {
+          "gid": "8707615711707866919",
+          "size": "5421331447",
+          "download": "5443089968"
+        }
+      },
+      "dlcappid": "1418980"
+    },
+    "1766020": {
+      "manifests": {
+        "public": {
+          "gid": "4528843924608308590",
+          "size": "262446578",
+          "download": "246575408"
+        }
+      },
+      "dlcappid": "1766020"
+    },
+    "1766021": {
+      "manifests": {
+        "public": {
+          "gid": "7860095987267006881",
+          "size": "52043844",
+          "download": "49754768"
+        }
+      },
+      "dlcappid": "1766021"
+    },
+    "1766022": {
+      "manifests": {
+        "public": {
+          "gid": "9195790049611468482",
+          "size": "329581592",
+          "download": "130719200"
+        }
+      },
+      "dlcappid": "1766022"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25776186",
+        "timeupdated": "1791378172",
+        "timebuildupdated": "1791372520"
+      },
+      "pre_co-op": {
+        "buildid": "11595403",
+        "description": "Last public version before Co-Op release",
+        "timeupdated": "1702385380",
+        "timebuildupdated": "1688105890"
+      },
+      "public_testing": {
+        "buildid": "25776186",
+        "description": "Public testing branch before public release",
+        "timeupdated": "1791378172",
+        "timebuildupdated": "1791372520"
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Save Your Nuts",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:24.552Z",
+  "branches": {
+    "public": {
+      "buildid": "18198019",
+      "timeupdated": "1745350799",
+      "timebuildupdated": "1745350799"
+    },
+    "eight_local_players": {
+      "buildid": "5142374",
+      "description": "For local party game allowing more than 4 players",
+      "timeupdated": "1630957756",
+      "timebuildupdated": "1591736173"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "752174": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7620088456536851932",
+          "size": "2787317065",
+          "download": "916663168"
+        }
+      }
+    },
+    "752175": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7851245071610098553",
+          "size": "2880172378",
+          "download": "902759344"
+        }
+      }
+    },
+    "752176": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6103601411594402866",
+          "size": "1196782336",
+          "download": "1012576000"
+        }
+      }
+    },
+    "752177": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18198019",
+        "timeupdated": "1745350799",
+        "timebuildupdated": "1745350799"
+      },
+      "eight_local_players": {
+        "buildid": "5142374",
+        "description": "For local party game allowing more than 4 players",
+        "timeupdated": "1630957756",
+        "timebuildupdated": "1591736173"
+      }
+    }
+  }
+}

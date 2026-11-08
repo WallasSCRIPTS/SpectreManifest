@@ -1,0 +1,67 @@
+{
+  "name": "Safe House ",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:25.021Z",
+  "branches": {
+    "public": {
+      "buildid": "2794899",
+      "timeupdated": "1526966001",
+      "timebuildupdated": "1526965991"
+    },
+    "beta": {
+      "buildid": "2794899",
+      "description": "Press Build for SafeHouse",
+      "timeupdated": "1526965991",
+      "timebuildupdated": "1526965991"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "636231": {
+      "manifests": {
+        "public": {
+          "gid": "6316501964524271332",
+          "size": "799177320",
+          "download": "173780336"
+        }
+      }
+    },
+    "636232": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5840647519195558593",
+          "size": "801076416",
+          "download": "173982752"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2794899",
+        "timeupdated": "1526966001",
+        "timebuildupdated": "1526965991"
+      },
+      "beta": {
+        "buildid": "2794899",
+        "description": "Press Build for SafeHouse",
+        "timeupdated": "1526965991",
+        "timebuildupdated": "1526965991"
+      }
+    }
+  }
+}

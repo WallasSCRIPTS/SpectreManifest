@@ -1,0 +1,80 @@
+{
+  "name": "Schrodinger's Cat Burglar",
+  "source": "spectre",
+  "changenumber": 39764125,
+  "updated": "2026-11-06T23:17:33.210Z",
+  "branches": {
+    "1015": {
+      "buildid": "24744699",
+      "description": "for speedrunners",
+      "timeupdated": "1786749948",
+      "timebuildupdated": "1786749948"
+    },
+    "public": {
+      "buildid": "25592678",
+      "timeupdated": "1790647807",
+      "timebuildupdated": "1790647807"
+    },
+    "beta": {
+      "buildid": "25592070",
+      "description": "For new patches etc",
+      "timeupdated": "1790645338",
+      "timebuildupdated": "1790645338"
+    }
+  },
+  "depot": {
+    "2111551": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2405904840090283091",
+          "size": "12560663817",
+          "download": "5947629648"
+        }
+      }
+    },
+    "2111552": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2029077780262785029",
+          "size": "12655419342",
+          "download": "5972099328"
+        }
+      }
+    },
+    "4489230": {
+      "manifests": {
+        "public": {
+          "gid": "3566141696273541207",
+          "size": "61584983",
+          "download": "58275584"
+        }
+      },
+      "dlcappid": "4489230"
+    },
+    "branches": {
+      "1015": {
+        "buildid": "24744699",
+        "description": "for speedrunners",
+        "timeupdated": "1786749948",
+        "timebuildupdated": "1786749948"
+      },
+      "public": {
+        "buildid": "25592678",
+        "timeupdated": "1790647807",
+        "timebuildupdated": "1790647807"
+      },
+      "beta": {
+        "buildid": "25592070",
+        "description": "For new patches etc",
+        "timeupdated": "1790645338",
+        "timebuildupdated": "1790645338"
+      }
+    }
+  }
+}

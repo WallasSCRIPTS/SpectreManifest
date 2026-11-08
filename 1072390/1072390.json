@@ -1,0 +1,58 @@
+{
+  "name": "BirdGut",
+  "source": "spectre",
+  "changenumber": 40616028,
+  "updated": "2026-11-07T21:02:59.560Z",
+  "branches": {
+    "public": {
+      "buildid": "26365761",
+      "timeupdated": "1793564210",
+      "timebuildupdated": "1793563814"
+    },
+    "default_mac_os": {
+      "buildid": "26365761",
+      "description": "Public default branch for Mac OS",
+      "timeupdated": "1793564210",
+      "timebuildupdated": "1793563814"
+    }
+  },
+  "depot": {
+    "1072391": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2978625628449452586",
+          "size": "3529773118",
+          "download": "168152400"
+        }
+      }
+    },
+    "1072392": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6746033849412635847",
+          "size": "3544096253",
+          "download": "171281504"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26365761",
+        "timeupdated": "1793564210",
+        "timebuildupdated": "1793563814"
+      },
+      "default_mac_os": {
+        "buildid": "26365761",
+        "description": "Public default branch for Mac OS",
+        "timeupdated": "1793564210",
+        "timebuildupdated": "1793563814"
+      }
+    }
+  }
+}

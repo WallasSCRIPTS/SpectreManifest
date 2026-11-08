@@ -1,0 +1,90 @@
+{
+  "name": "SCP: Secret Laboratory",
+  "source": "spectre",
+  "changenumber": 40709930,
+  "updated": "2026-11-07T20:59:55.712Z",
+  "branches": {
+    "public": {
+      "buildid": "26308644",
+      "timeupdated": "1793560060",
+      "timebuildupdated": "1793309864"
+    },
+    "earlyaccess": {
+      "buildid": "26308644",
+      "description": "Early access to client builds used for server upkeep and plugin development purposes.",
+      "timeupdated": "1793340907",
+      "timebuildupdated": "1793309864"
+    },
+    "labapi-beta": {
+      "buildid": "21260997",
+      "description": "Early testing for the LabAPI modding framework.",
+      "timeupdated": "1766181430",
+      "timebuildupdated": "1766164037"
+    },
+    "first_version_of_sl_published_on_steam": {
+      "buildid": "2404120",
+      "description": "First public version SCP:SL (official release)",
+      "timeupdated": "1610443215",
+      "timebuildupdated": "1514599459"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "700331": {
+      "manifests": {
+        "public": {
+          "gid": "8298777295189492120",
+          "size": "7511214908",
+          "download": "2941842768"
+        }
+      }
+    },
+    "700332": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26308644",
+        "timeupdated": "1793560060",
+        "timebuildupdated": "1793309864"
+      },
+      "earlyaccess": {
+        "buildid": "26308644",
+        "description": "Early access to client builds used for server upkeep and plugin development purposes.",
+        "timeupdated": "1793340907",
+        "timebuildupdated": "1793309864"
+      },
+      "labapi-beta": {
+        "buildid": "21260997",
+        "description": "Early testing for the LabAPI modding framework.",
+        "timeupdated": "1766181430",
+        "timebuildupdated": "1766164037"
+      },
+      "first_version_of_sl_published_on_steam": {
+        "buildid": "2404120",
+        "description": "First public version SCP:SL (official release)",
+        "timeupdated": "1610443215",
+        "timebuildupdated": "1514599459"
+      }
+    }
+  }
+}

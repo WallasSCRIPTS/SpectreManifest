@@ -1,0 +1,58 @@
+{
+  "name": "Kofoin - Swarm Defense",
+  "source": "spectre",
+  "changenumber": 37183072,
+  "updated": "2026-11-06T23:25:07.537Z",
+  "branches": {
+    "public": {
+      "buildid": "23117076",
+      "timeupdated": "1778101431",
+      "timebuildupdated": "1778101025"
+    },
+    "experimental": {
+      "buildid": "23223940",
+      "description": "Experimental features. May be broken without notice!",
+      "timeupdated": "1778709904",
+      "timebuildupdated": "1778709904"
+    }
+  },
+  "depot": {
+    "2418531": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7710647602052327019",
+          "size": "212262411",
+          "download": "112507216"
+        }
+      }
+    },
+    "2418532": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6828421963885085201",
+          "size": "213958891",
+          "download": "111926096"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23117076",
+        "timeupdated": "1778101431",
+        "timebuildupdated": "1778101025"
+      },
+      "experimental": {
+        "buildid": "23223940",
+        "description": "Experimental features. May be broken without notice!",
+        "timeupdated": "1778709904",
+        "timebuildupdated": "1778709904"
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Concrete Jungle",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:32.821Z",
+  "branches": {
+    "public": {
+      "buildid": "3331054",
+      "timeupdated": "1542888170",
+      "timebuildupdated": "1542887860"
+    },
+    "native": {
+      "buildid": "3331054",
+      "description": "OSX native version only",
+      "timeupdated": "1542888159",
+      "timebuildupdated": "1542887860"
+    }
+  },
+  "depot": {
+    "228982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "400161": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4311486907808161561",
+          "size": "406000951",
+          "download": "399008592"
+        }
+      }
+    },
+    "400162": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1894401229651843958",
+          "size": "417791690",
+          "download": "398228304"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3331054",
+        "timeupdated": "1542888170",
+        "timebuildupdated": "1542887860"
+      },
+      "native": {
+        "buildid": "3331054",
+        "description": "OSX native version only",
+        "timeupdated": "1542888159",
+        "timebuildupdated": "1542887860"
+      }
+    }
+  }
+}

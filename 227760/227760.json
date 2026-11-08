@@ -1,0 +1,81 @@
+{
+  "name": "March of the Eagles",
+  "source": "spectre",
+  "changenumber": 39251571,
+  "updated": "2026-11-07T20:56:06.967Z",
+  "branches": {
+    "public": {
+      "buildid": "4904507",
+      "timeupdated": "1588578568",
+      "timebuildupdated": "1587025706"
+    },
+    "1.02-no_security_fix": {
+      "buildid": "123839",
+      "description": "No LUA security fix. Use at your own risk.",
+      "timeupdated": "1581948828",
+      "timebuildupdated": "1381149605"
+    }
+  },
+  "depot": {
+    "227761": {
+      "manifests": {
+        "public": {
+          "gid": "5016133232735835363",
+          "size": "448647974",
+          "download": "212825760"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "254290": {
+      "manifests": {
+        "public": {
+          "gid": "2348431385651610690",
+          "size": "3474845",
+          "download": "3440816"
+        }
+      },
+      "dlcappid": "254290"
+    },
+    "254291": {
+      "manifests": {
+        "public": {
+          "gid": "7545313599311050518",
+          "size": "3492694",
+          "download": "3458832"
+        }
+      },
+      "dlcappid": "254291"
+    },
+    "branches": {
+      "public": {
+        "buildid": "4904507",
+        "timeupdated": "1588578568",
+        "timebuildupdated": "1587025706"
+      },
+      "1.02-no_security_fix": {
+        "buildid": "123839",
+        "description": "No LUA security fix. Use at your own risk.",
+        "timeupdated": "1581948828",
+        "timebuildupdated": "1381149605"
+      }
+    }
+  }
+}

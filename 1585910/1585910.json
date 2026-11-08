@@ -1,0 +1,58 @@
+{
+  "name": "Roll",
+  "source": "spectre",
+  "changenumber": 40553335,
+  "updated": "2026-11-06T21:06:22.460Z",
+  "branches": {
+    "public": {
+      "buildid": "26409044",
+      "timeupdated": "1793719701",
+      "timebuildupdated": "1793719311"
+    },
+    "pre-live": {
+      "buildid": "13498192",
+      "description": "For Light Testing Before Live Version",
+      "timeupdated": "1708355344",
+      "timebuildupdated": "1708355132"
+    }
+  },
+  "depot": {
+    "1585911": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3337958668715628259",
+          "size": "324042785",
+          "download": "55736176"
+        }
+      }
+    },
+    "1585912": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6637312375644327490",
+          "size": "318553503",
+          "download": "53093024"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26409044",
+        "timeupdated": "1793719701",
+        "timebuildupdated": "1793719311"
+      },
+      "pre-live": {
+        "buildid": "13498192",
+        "description": "For Light Testing Before Live Version",
+        "timeupdated": "1708355344",
+        "timebuildupdated": "1708355132"
+      }
+    }
+  }
+}

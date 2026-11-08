@@ -1,0 +1,51 @@
+{
+  "name": "subpar pool",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:23:23.472Z",
+  "branches": {
+    "public": {
+      "buildid": "12651869",
+      "timeupdated": "1700133960",
+      "timebuildupdated": "1699458298"
+    },
+    "beta": {
+      "buildid": "14207598",
+      "description": "beta",
+      "timeupdated": "1714388262",
+      "timebuildupdated": "1714388262"
+    }
+  },
+  "depot": {
+    "2397121": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2165794144957815472",
+          "size": "95805101",
+          "download": "44797376"
+        }
+      }
+    },
+    "2397122": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12651869",
+        "timeupdated": "1700133960",
+        "timebuildupdated": "1699458298"
+      },
+      "beta": {
+        "buildid": "14207598",
+        "description": "beta",
+        "timeupdated": "1714388262",
+        "timebuildupdated": "1714388262"
+      }
+    }
+  }
+}

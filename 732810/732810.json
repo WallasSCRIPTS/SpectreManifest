@@ -1,0 +1,110 @@
+{
+  "name": "Slipstream",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:14.657Z",
+  "branches": {
+    "public": {
+      "buildid": "15704123",
+      "timeupdated": "1726355362",
+      "timebuildupdated": "1726355143"
+    },
+    "legacy": {
+      "buildid": "4703314",
+      "description": "good ol' slipstream v1.1.11",
+      "timeupdated": "1631663092",
+      "timebuildupdated": "1582315778"
+    },
+    "legacy-v2": {
+      "buildid": "11257129",
+      "description": "slipstream v1.2 legacy branch",
+      "timeupdated": "1684355785",
+      "timebuildupdated": "1684355688"
+    },
+    "workshop": {
+      "buildid": "15704123",
+      "description": "includes track editor mode",
+      "timeupdated": "1726355377",
+      "timebuildupdated": "1726355143"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "732811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1083573391354303750",
+          "size": "188401909",
+          "download": "162105584"
+        }
+      }
+    },
+    "732812": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "704154936281790554",
+          "size": "189372510",
+          "download": "161842560"
+        }
+      }
+    },
+    "732813": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4526314843031562703",
+          "size": "204257317",
+          "download": "165024576"
+        }
+      }
+    },
+    "2334980": {
+      "manifests": {
+        "public": {
+          "gid": "8879517136234005257",
+          "size": "53517716",
+          "download": "52788592"
+        }
+      },
+      "dlcappid": "2334980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "15704123",
+        "timeupdated": "1726355362",
+        "timebuildupdated": "1726355143"
+      },
+      "legacy": {
+        "buildid": "4703314",
+        "description": "good ol' slipstream v1.1.11",
+        "timeupdated": "1631663092",
+        "timebuildupdated": "1582315778"
+      },
+      "legacy-v2": {
+        "buildid": "11257129",
+        "description": "slipstream v1.2 legacy branch",
+        "timeupdated": "1684355785",
+        "timebuildupdated": "1684355688"
+      },
+      "workshop": {
+        "buildid": "15704123",
+        "description": "includes track editor mode",
+        "timeupdated": "1726355377",
+        "timebuildupdated": "1726355143"
+      }
+    }
+  }
+}

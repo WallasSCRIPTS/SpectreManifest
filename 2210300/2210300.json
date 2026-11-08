@@ -1,0 +1,58 @@
+{
+  "name": "The Hellchemist",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:19:31.589Z",
+  "branches": {
+    "public": {
+      "buildid": "11106116",
+      "timeupdated": "1682607720",
+      "timebuildupdated": "1682607703"
+    },
+    "testing": {
+      "buildid": "10750139",
+      "description": "Experimental",
+      "timeupdated": "1678618491",
+      "timebuildupdated": "1678618461"
+    }
+  },
+  "depot": {
+    "2210301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7947643614241264144",
+          "size": "428198909",
+          "download": "166083440"
+        }
+      }
+    },
+    "2210302": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7487500489049308823",
+          "size": "428198909",
+          "download": "166083440"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11106116",
+        "timeupdated": "1682607720",
+        "timebuildupdated": "1682607703"
+      },
+      "testing": {
+        "buildid": "10750139",
+        "description": "Experimental",
+        "timeupdated": "1678618491",
+        "timebuildupdated": "1678618461"
+      }
+    }
+  }
+}

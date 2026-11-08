@@ -1,0 +1,184 @@
+{
+  "name": "Unexplored",
+  "source": "spectre",
+  "changenumber": 40097738,
+  "updated": "2026-11-07T20:58:22.406Z",
+  "branches": {
+    "public": {
+      "buildid": "16645262",
+      "timeupdated": "1733412448",
+      "timebuildupdated": "1733412448"
+    },
+    "linux32": {
+      "buildid": "5021406",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609455861",
+      "timebuildupdated": "1589377470"
+    },
+    "version_1_19_5": {
+      "buildid": "6029282",
+      "description": "Old version of Unexplored",
+      "timeupdated": "1711640339",
+      "timebuildupdated": "1609456344"
+    },
+    "unstable": {
+      "buildid": "16645247",
+      "description": "Unstable version of Unexplored",
+      "timeupdated": "1733412369",
+      "timebuildupdated": "1733412369"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "506871": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5205565386052403907",
+          "size": "512973050",
+          "download": "400062912"
+        }
+      }
+    },
+    "506872": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2356178596061423545",
+          "size": "537424245",
+          "download": "406598336"
+        }
+      }
+    },
+    "506873": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8689667095036542923",
+          "size": "535267549",
+          "download": "406533424"
+        }
+      }
+    },
+    "633410": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6662546749412131593",
+          "size": "11573662",
+          "download": "9970128"
+        }
+      },
+      "dlcappid": "633410"
+    },
+    "633411": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8654497526385054594",
+          "size": "11573662",
+          "download": "9970128"
+        }
+      },
+      "dlcappid": "633410"
+    },
+    "639030": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2758365116993805845",
+          "size": "16502148",
+          "download": "14832800"
+        }
+      },
+      "dlcappid": "639030"
+    },
+    "639031": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8224310848908959753",
+          "size": "16502148",
+          "download": "14832800"
+        }
+      },
+      "dlcappid": "639030"
+    },
+    "913920": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4289762145407051377",
+          "size": "11963426",
+          "download": "11025712"
+        }
+      },
+      "dlcappid": "913920"
+    },
+    "913921": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2073824025634839560",
+          "size": "11963426",
+          "download": "11025712"
+        }
+      },
+      "dlcappid": "913920"
+    },
+    "branches": {
+      "public": {
+        "buildid": "16645262",
+        "timeupdated": "1733412448",
+        "timebuildupdated": "1733412448"
+      },
+      "linux32": {
+        "buildid": "5021406",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609455861",
+        "timebuildupdated": "1589377470"
+      },
+      "version_1_19_5": {
+        "buildid": "6029282",
+        "description": "Old version of Unexplored",
+        "timeupdated": "1711640339",
+        "timebuildupdated": "1609456344"
+      },
+      "unstable": {
+        "buildid": "16645247",
+        "description": "Unstable version of Unexplored",
+        "timeupdated": "1733412369",
+        "timebuildupdated": "1733412369"
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Orcs Must Die! 3",
+  "source": "spectre",
+  "changenumber": 37447702,
+  "updated": "2026-11-06T21:05:53.418Z",
+  "branches": {
+    "public": {
+      "buildid": "15042154",
+      "timeupdated": "1721222014",
+      "timebuildupdated": "1721081530"
+    },
+    "local": {
+      "buildid": "15039070",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1721066198",
+      "timebuildupdated": "1721066198"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1522821": {
+      "manifests": {
+        "public": {
+          "gid": "4994883792205412410",
+          "size": "13603861423",
+          "download": "11032557184"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15042154",
+        "timeupdated": "1721222014",
+        "timebuildupdated": "1721081530"
+      },
+      "local": {
+        "buildid": "15039070",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1721066198",
+        "timebuildupdated": "1721066198"
+      }
+    }
+  }
+}

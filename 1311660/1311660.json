@@ -1,0 +1,70 @@
+{
+  "name": "Friendly Fire",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-06T21:04:21.729Z",
+  "branches": {
+    "public": {
+      "buildid": "13313476",
+      "timeupdated": "1706622612",
+      "timebuildupdated": "1706622519"
+    },
+    "development": {
+      "buildid": "13313476",
+      "description": "Development branch",
+      "timeupdated": "1706622519",
+      "timebuildupdated": "1706622519"
+    }
+  },
+  "depot": {
+    "1311662": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7957162408062822736",
+          "size": "330826960",
+          "download": "125054976"
+        }
+      }
+    },
+    "1311663": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2858389075106329180",
+          "size": "308376126",
+          "download": "113178160"
+        }
+      }
+    },
+    "1311664": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5368905248861646107",
+          "size": "766644603",
+          "download": "111483936"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13313476",
+        "timeupdated": "1706622612",
+        "timebuildupdated": "1706622519"
+      },
+      "development": {
+        "buildid": "13313476",
+        "description": "Development branch",
+        "timeupdated": "1706622519",
+        "timebuildupdated": "1706622519"
+      }
+    }
+  }
+}

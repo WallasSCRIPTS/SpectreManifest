@@ -1,0 +1,82 @@
+{
+  "name": "Birb Café",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:06:18.728Z",
+  "branches": {
+    "public": {
+      "buildid": "9728296",
+      "timeupdated": "1665839682",
+      "timebuildupdated": "1665839580"
+    },
+    "demo-version": {
+      "buildid": "8787689",
+      "description": "This is the demo version! I don't know why you'd want to use this, since you own the full version now, but it's here either way.",
+      "timeupdated": "1653228860",
+      "timebuildupdated": "1653228860"
+    },
+    "prev-version": {
+      "buildid": "8875325",
+      "description": "If latest update broke something, use this!",
+      "timeupdated": "1665839668",
+      "timebuildupdated": "1654438843"
+    },
+    "public-beta": {
+      "buildid": "9728296",
+      "description": "Ready for public testing!",
+      "timeupdated": "1665839580",
+      "timebuildupdated": "1665839580"
+    }
+  },
+  "depot": {
+    "1579302": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "617566673802222369",
+          "size": "281411272",
+          "download": "242576032"
+        }
+      }
+    },
+    "1579304": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5065577312062897869",
+          "size": "289722384",
+          "download": "244400272"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9728296",
+        "timeupdated": "1665839682",
+        "timebuildupdated": "1665839580"
+      },
+      "demo-version": {
+        "buildid": "8787689",
+        "description": "This is the demo version! I don't know why you'd want to use this, since you own the full version now, but it's here either way.",
+        "timeupdated": "1653228860",
+        "timebuildupdated": "1653228860"
+      },
+      "prev-version": {
+        "buildid": "8875325",
+        "description": "If latest update broke something, use this!",
+        "timeupdated": "1665839668",
+        "timebuildupdated": "1654438843"
+      },
+      "public-beta": {
+        "buildid": "9728296",
+        "description": "Ready for public testing!",
+        "timeupdated": "1665839580",
+        "timebuildupdated": "1665839580"
+      }
+    }
+  }
+}

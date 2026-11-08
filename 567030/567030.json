@@ -1,0 +1,80 @@
+{
+  "name": "Under Leaves",
+  "source": "spectre",
+  "changenumber": 35570769,
+  "updated": "2026-11-07T20:58:51.354Z",
+  "branches": {
+    "public": {
+      "buildid": "23027469",
+      "timeupdated": "1777549595",
+      "timebuildupdated": "1777544736"
+    },
+    "beta": {
+      "buildid": "5760681",
+      "timeupdated": "1604056457",
+      "timebuildupdated": "1604056457"
+    },
+    "legacy": {
+      "buildid": "2446089",
+      "description": "latest build before last update",
+      "timeupdated": "1541073157",
+      "timebuildupdated": "1516228434"
+    }
+  },
+  "depot": {
+    "567031": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2425550842400634572",
+          "size": "238051791",
+          "download": "115500256"
+        }
+      }
+    },
+    "567032": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "119602530693015691",
+          "size": "255638253",
+          "download": "126642944"
+        }
+      }
+    },
+    "567033": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8258463628125088271",
+          "size": "187428910",
+          "download": "75654016"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23027469",
+        "timeupdated": "1777549595",
+        "timebuildupdated": "1777544736"
+      },
+      "beta": {
+        "buildid": "5760681",
+        "timeupdated": "1604056457",
+        "timebuildupdated": "1604056457"
+      },
+      "legacy": {
+        "buildid": "2446089",
+        "description": "latest build before last update",
+        "timeupdated": "1541073157",
+        "timebuildupdated": "1516228434"
+      }
+    }
+  }
+}

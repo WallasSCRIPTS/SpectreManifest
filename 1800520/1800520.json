@@ -1,0 +1,70 @@
+{
+  "name": "Wonky Wizard",
+  "source": "spectre",
+  "changenumber": 40631809,
+  "updated": "2026-11-06T23:11:32.350Z",
+  "branches": {
+    "public": {
+      "buildid": "12822603",
+      "timeupdated": "1701215119",
+      "timebuildupdated": "1701214798"
+    },
+    "testingmacnew": {
+      "buildid": "12822603",
+      "description": "Making new Mac version",
+      "timeupdated": "1701215684",
+      "timebuildupdated": "1701214798"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1800521": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5930754454333928981",
+          "size": "729398760",
+          "download": "161472800"
+        }
+      }
+    },
+    "1800522": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4768216315334032727",
+          "size": "774967136",
+          "download": "175917664"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12822603",
+        "timeupdated": "1701215119",
+        "timebuildupdated": "1701214798"
+      },
+      "testingmacnew": {
+        "buildid": "12822603",
+        "description": "Making new Mac version",
+        "timeupdated": "1701215684",
+        "timebuildupdated": "1701214798"
+      }
+    }
+  }
+}

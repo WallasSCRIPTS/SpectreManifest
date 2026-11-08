@@ -1,0 +1,64 @@
+{
+  "name": "MAMIYA",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:56.347Z",
+  "branches": {
+    "public": {
+      "buildid": "22964493",
+      "timeupdated": "1777565729",
+      "timebuildupdated": "1777223590"
+    },
+    "legacy": {
+      "buildid": "8235218",
+      "description": "Legacy version of FallDown + DownFall",
+      "timeupdated": "1699198876",
+      "timebuildupdated": "1645261501"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1394931": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2520683765327653734",
+          "size": "1514606820",
+          "download": "1258633232"
+        }
+      }
+    },
+    "1394932": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5567152775140961464",
+          "size": "1834963992",
+          "download": "1258326976"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22964493",
+        "timeupdated": "1777565729",
+        "timebuildupdated": "1777223590"
+      },
+      "legacy": {
+        "buildid": "8235218",
+        "description": "Legacy version of FallDown + DownFall",
+        "timeupdated": "1699198876",
+        "timebuildupdated": "1645261501"
+      }
+    }
+  }
+}

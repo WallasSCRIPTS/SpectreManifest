@@ -1,0 +1,94 @@
+{
+  "name": "Ravenfield",
+  "source": "spectre",
+  "changenumber": 40598004,
+  "updated": "2026-11-07T20:59:25.183Z",
+  "branches": {
+    "public": {
+      "buildid": "26324504",
+      "timeupdated": "1793614139",
+      "timebuildupdated": "1793367272"
+    },
+    "beta": {
+      "buildid": "26437189",
+      "description": "Latest builds, might be buggy!!!",
+      "timeupdated": "1793811626",
+      "timebuildupdated": "1793811433"
+    },
+    "previous-ea": {
+      "buildid": "25532209",
+      "description": "The previous EA update, use when running mods that haven't yet been updated.",
+      "timeupdated": "1790353971",
+      "timebuildupdated": "1790350932"
+    }
+  },
+  "depot": {
+    "636481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8274948562117924449",
+          "size": "4379195454",
+          "download": "1713070016"
+        }
+      }
+    },
+    "636482": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "409208602550975904",
+          "size": "4371777046",
+          "download": "1710493872"
+        }
+      }
+    },
+    "636483": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4119103647401072455",
+          "size": "4409713494",
+          "download": "1727653200"
+        }
+      }
+    },
+    "636484": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7822699424774455236",
+          "size": "4485388452",
+          "download": "1751166816"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26324504",
+        "timeupdated": "1793614139",
+        "timebuildupdated": "1793367272"
+      },
+      "beta": {
+        "buildid": "26437189",
+        "description": "Latest builds, might be buggy!!!",
+        "timeupdated": "1793811626",
+        "timebuildupdated": "1793811433"
+      },
+      "previous-ea": {
+        "buildid": "25532209",
+        "description": "The previous EA update, use when running mods that haven't yet been updated.",
+        "timeupdated": "1790353971",
+        "timebuildupdated": "1790350932"
+      }
+    }
+  }
+}

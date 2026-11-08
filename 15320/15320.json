@@ -1,0 +1,72 @@
+{
+  "name": "IL-2 Sturmovik: 1946",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:45.935Z",
+  "branches": {
+    "public": {
+      "buildid": "2692945",
+      "timeupdated": "1525341257",
+      "timebuildupdated": "1523890224"
+    },
+    "4_12_2": {
+      "buildid": "516528",
+      "description": "Version 4.12.2",
+      "timeupdated": "1525341234",
+      "timebuildupdated": "1423155518"
+    },
+    "old_version": {
+      "buildid": "516563",
+      "timebuildupdated": "1423157049"
+    }
+  },
+  "depot": {
+    "15321": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6326519142567601287",
+          "size": "8425800326",
+          "download": "6779368816"
+        }
+      }
+    },
+    "15322": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6129742325214271714",
+          "size": "627425516",
+          "download": "619434416"
+        }
+      }
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "2692945",
+        "timeupdated": "1525341257",
+        "timebuildupdated": "1523890224"
+      },
+      "4_12_2": {
+        "buildid": "516528",
+        "description": "Version 4.12.2",
+        "timeupdated": "1525341234",
+        "timebuildupdated": "1423155518"
+      },
+      "old_version": {
+        "buildid": "516563",
+        "timebuildupdated": "1423157049"
+      }
+    }
+  }
+}

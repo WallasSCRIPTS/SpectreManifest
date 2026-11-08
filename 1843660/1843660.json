@@ -1,0 +1,73 @@
+{
+  "name": "RetroArch - Beetle Cygne",
+  "source": "spectre",
+  "changenumber": 40666930,
+  "updated": "2026-11-06T23:11:37.986Z",
+  "branches": {
+    "public": {
+      "buildid": "20833774",
+      "timeupdated": "1763418650",
+      "timebuildupdated": "1763415982"
+    },
+    "nightly": {
+      "buildid": "26483411",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793965615",
+      "timebuildupdated": "1793965615"
+    }
+  },
+  "depot": {
+    "1843660": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1278692009703210894",
+          "size": "1267757",
+          "download": "212704"
+        }
+      },
+      "dlcappid": "1843660"
+    },
+    "1843661": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "499588821807412135",
+          "size": "1152211",
+          "download": "104608"
+        }
+      },
+      "dlcappid": "1843660"
+    },
+    "1843662": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1728135113218141370",
+          "size": "2084491",
+          "download": "143744"
+        }
+      },
+      "dlcappid": "1843660"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833774",
+        "timeupdated": "1763418650",
+        "timebuildupdated": "1763415982"
+      },
+      "nightly": {
+        "buildid": "26483411",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793965615",
+        "timebuildupdated": "1793965615"
+      }
+    }
+  }
+}

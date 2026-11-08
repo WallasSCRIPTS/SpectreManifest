@@ -1,0 +1,68 @@
+{
+  "name": "Zapling Bygone",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:39.151Z",
+  "branches": {
+    "public": {
+      "buildid": "9296823",
+      "timeupdated": "1687366043",
+      "timebuildupdated": "1660227003"
+    },
+    "crashfix": {
+      "buildid": "9296823",
+      "description": "Branch to use if game is crashing",
+      "timeupdated": "1687355713",
+      "timebuildupdated": "1660227003"
+    },
+    "demo": {
+      "buildid": "8952494",
+      "description": "To enable FULL owners access to the demo.",
+      "timeupdated": "1655418766",
+      "timebuildupdated": "1655418302"
+    },
+    "unstable": {
+      "buildid": "9319402",
+      "description": "Experimental Randomiser mode enabled",
+      "timeupdated": "1660596753",
+      "timebuildupdated": "1660596645"
+    }
+  },
+  "depot": {
+    "1489111": {
+      "manifests": {
+        "public": {
+          "gid": "6241887714550453836",
+          "size": "1220689829",
+          "download": "825525504"
+        }
+      }
+    },
+    "1489112": {},
+    "branches": {
+      "public": {
+        "buildid": "9296823",
+        "timeupdated": "1687366043",
+        "timebuildupdated": "1660227003"
+      },
+      "crashfix": {
+        "buildid": "9296823",
+        "description": "Branch to use if game is crashing",
+        "timeupdated": "1687355713",
+        "timebuildupdated": "1660227003"
+      },
+      "demo": {
+        "buildid": "8952494",
+        "description": "To enable FULL owners access to the demo.",
+        "timeupdated": "1655418766",
+        "timebuildupdated": "1655418302"
+      },
+      "unstable": {
+        "buildid": "9319402",
+        "description": "Experimental Randomiser mode enabled",
+        "timeupdated": "1660596753",
+        "timebuildupdated": "1660596645"
+      }
+    }
+  }
+}

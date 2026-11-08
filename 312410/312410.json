@@ -1,0 +1,58 @@
+{
+  "name": "Defense Zone",
+  "source": "spectre",
+  "changenumber": 39629033,
+  "updated": "2026-11-07T20:56:35.716Z",
+  "branches": {
+    "public": {
+      "buildid": "20333117",
+      "timeupdated": "1760082876",
+      "timebuildupdated": "1760082172"
+    }
+  },
+  "depot": {
+    "312411": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "158630093071413431",
+          "size": "328439979",
+          "download": "94856288"
+        }
+      }
+    },
+    "312412": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7113111060426837937",
+          "size": "331207250",
+          "download": "95599840"
+        }
+      }
+    },
+    "312413": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4215780562616095985",
+          "size": "338414943",
+          "download": "96031056"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20333117",
+        "timeupdated": "1760082876",
+        "timebuildupdated": "1760082172"
+      }
+    }
+  }
+}

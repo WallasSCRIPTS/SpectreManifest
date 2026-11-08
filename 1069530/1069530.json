@@ -1,0 +1,58 @@
+{
+  "name": "Narita Boy",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:57.734Z",
+  "branches": {
+    "public": {
+      "buildid": "20203979",
+      "timeupdated": "1759487344",
+      "timebuildupdated": "1759312713"
+    },
+    "public_test_branch": {
+      "buildid": "6565372",
+      "description": "branch with Steam PC and Mac keybind changes",
+      "timeupdated": "1618922673",
+      "timebuildupdated": "1618850195"
+    }
+  },
+  "depot": {
+    "1069531": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1693332142242205648",
+          "size": "1887595283",
+          "download": "1219017664"
+        }
+      }
+    },
+    "1069532": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4112687671928009043",
+          "size": "1916280697",
+          "download": "1223212064"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20203979",
+        "timeupdated": "1759487344",
+        "timebuildupdated": "1759312713"
+      },
+      "public_test_branch": {
+        "buildid": "6565372",
+        "description": "branch with Steam PC and Mac keybind changes",
+        "timeupdated": "1618922673",
+        "timebuildupdated": "1618850195"
+      }
+    }
+  }
+}

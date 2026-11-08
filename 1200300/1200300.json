@@ -1,0 +1,85 @@
+{
+  "name": "Comet Golf",
+  "source": "spectre",
+  "changenumber": 34849884,
+  "updated": "2026-11-07T21:04:10.477Z",
+  "branches": {
+    "public": {
+      "buildid": "4698158",
+      "timeupdated": "1582234117",
+      "timebuildupdated": "1582232892"
+    },
+    "beta": {
+      "buildid": "4698158",
+      "description": "Public Beta (try experimental features!)",
+      "timeupdated": "1582233407",
+      "timebuildupdated": "1582232892"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1200301": {
+      "manifests": {
+        "public": {
+          "gid": "3714523346335834299",
+          "size": "120233529",
+          "download": "80880112"
+        }
+      }
+    },
+    "1200302": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8937197929127943475",
+          "size": "120233529",
+          "download": "80863456"
+        }
+      }
+    },
+    "1200303": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7992680354147350592",
+          "size": "151660684",
+          "download": "101810064"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4698158",
+        "timeupdated": "1582234117",
+        "timebuildupdated": "1582232892"
+      },
+      "beta": {
+        "buildid": "4698158",
+        "description": "Public Beta (try experimental features!)",
+        "timeupdated": "1582233407",
+        "timebuildupdated": "1582232892"
+      }
+    }
+  }
+}

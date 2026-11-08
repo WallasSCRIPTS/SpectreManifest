@@ -1,0 +1,55 @@
+{
+  "name": "Retaliation: Enemy Mine",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:57:25.206Z",
+  "branches": {
+    "public": {
+      "buildid": "1152339",
+      "timeupdated": "1464435459",
+      "timebuildupdated": "1464434185"
+    },
+    "macos": {
+      "buildid": "1152362",
+      "timeupdated": "1464436095",
+      "timebuildupdated": "1464436095"
+    }
+  },
+  "depot": {
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "385811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6568938794067918543",
+          "size": "88061726",
+          "download": "83234080"
+        }
+      }
+    },
+    "385812": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1152339",
+        "timeupdated": "1464435459",
+        "timebuildupdated": "1464434185"
+      },
+      "macos": {
+        "buildid": "1152362",
+        "timeupdated": "1464436095",
+        "timebuildupdated": "1464436095"
+      }
+    }
+  }
+}

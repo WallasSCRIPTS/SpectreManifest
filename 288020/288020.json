@@ -1,0 +1,88 @@
+{
+  "name": "Rex Rocket",
+  "source": "spectre",
+  "changenumber": 40512332,
+  "updated": "2026-11-07T20:56:24.553Z",
+  "branches": {
+    "public": {
+      "buildid": "6029224",
+      "timeupdated": "1609454646",
+      "timebuildupdated": "1609454646"
+    },
+    "linux32": {
+      "buildid": "1025518",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609454639",
+      "timebuildupdated": "1458055436"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "288021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1091952485886939091",
+          "size": "359705821",
+          "download": "85457664"
+        }
+      }
+    },
+    "288022": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7468342674717275950",
+          "size": "229054404",
+          "download": "85622112"
+        }
+      }
+    },
+    "288023": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3798789436535303593",
+          "size": "241296612",
+          "download": "88502256"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6029224",
+        "timeupdated": "1609454646",
+        "timebuildupdated": "1609454646"
+      },
+      "linux32": {
+        "buildid": "1025518",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609454639",
+        "timebuildupdated": "1458055436"
+      }
+    }
+  }
+}

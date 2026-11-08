@@ -1,0 +1,58 @@
+{
+  "name": "Scorched Islands",
+  "source": "spectre",
+  "changenumber": 34851556,
+  "updated": "2026-11-06T21:03:50.564Z",
+  "branches": {
+    "public": {
+      "buildid": "5763887",
+      "timeupdated": "1604094709",
+      "timebuildupdated": "1604094708"
+    },
+    "202010_win_mac": {
+      "buildid": "5763823",
+      "description": "update 202010 win + mac",
+      "timeupdated": "1604093695",
+      "timebuildupdated": "1604093695"
+    }
+  },
+  "depot": {
+    "1240773": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8132007941609543886",
+          "size": "197859475",
+          "download": "66049440"
+        }
+      }
+    },
+    "1240774": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5381828347459501902",
+          "size": "226037493",
+          "download": "78593008"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5763887",
+        "timeupdated": "1604094709",
+        "timebuildupdated": "1604094708"
+      },
+      "202010_win_mac": {
+        "buildid": "5763823",
+        "description": "update 202010 win + mac",
+        "timeupdated": "1604093695",
+        "timebuildupdated": "1604093695"
+      }
+    }
+  }
+}

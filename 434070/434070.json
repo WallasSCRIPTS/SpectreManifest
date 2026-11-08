@@ -1,0 +1,72 @@
+{
+  "name": "Plight of the Zombie",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:49.262Z",
+  "branches": {
+    "public": {
+      "buildid": "981899",
+      "timebuildupdated": "1455751226"
+    },
+    "beta": {
+      "buildid": "2883673",
+      "timeupdated": "1529601293",
+      "timebuildupdated": "1529601293"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "434071": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5218708872082485592",
+          "size": "320434627",
+          "download": "51516640"
+        }
+      }
+    },
+    "434072": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8528339480247961134",
+          "size": "330654592",
+          "download": "54004992"
+        }
+      }
+    },
+    "434073": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "626688318093392949",
+          "size": "329296462",
+          "download": "53647872"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "981899",
+        "timebuildupdated": "1455751226"
+      },
+      "beta": {
+        "buildid": "2883673",
+        "timeupdated": "1529601293",
+        "timebuildupdated": "1529601293"
+      }
+    }
+  }
+}

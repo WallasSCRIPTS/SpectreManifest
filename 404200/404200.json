@@ -1,0 +1,93 @@
+{
+  "name": "Wartile",
+  "source": "spectre",
+  "changenumber": 37434570,
+  "updated": "2026-11-07T20:57:34.512Z",
+  "branches": {
+    "public": {
+      "buildid": "10473647",
+      "timeupdated": "1675449599",
+      "timebuildupdated": "1675449568"
+    },
+    "beta": {
+      "buildid": "10470647",
+      "description": "Early testing of upcoming changes",
+      "timeupdated": "1675436316",
+      "timebuildupdated": "1675426723"
+    },
+    "tiltfive": {
+      "buildid": "10444532",
+      "description": "The TiltFive version",
+      "timeupdated": "1675181047",
+      "timebuildupdated": "1675181047"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "404201": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9047933954639563246",
+          "size": "6052603220",
+          "download": "5758169552"
+        }
+      }
+    },
+    "651530": {
+      "manifests": {
+        "public": {
+          "gid": "3399243213100638562",
+          "size": "567797571",
+          "download": "534797136"
+        }
+      },
+      "dlcappid": "651530"
+    },
+    "2272460": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3835064977210617122",
+          "size": "3239054205",
+          "download": "3090092336"
+        }
+      },
+      "dlcappid": "2272460"
+    },
+    "branches": {
+      "public": {
+        "buildid": "10473647",
+        "timeupdated": "1675449599",
+        "timebuildupdated": "1675449568"
+      },
+      "beta": {
+        "buildid": "10470647",
+        "description": "Early testing of upcoming changes",
+        "timeupdated": "1675436316",
+        "timebuildupdated": "1675426723"
+      },
+      "tiltfive": {
+        "buildid": "10444532",
+        "description": "The TiltFive version",
+        "timeupdated": "1675181047",
+        "timebuildupdated": "1675181047"
+      }
+    }
+  }
+}

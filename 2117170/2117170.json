@@ -1,0 +1,82 @@
+{
+  "name": "Kardun",
+  "source": "spectre",
+  "changenumber": 35946306,
+  "updated": "2026-11-06T23:17:33.972Z",
+  "branches": {
+    "public": {
+      "buildid": "9448210",
+      "timeupdated": "1662269771",
+      "timebuildupdated": "1662269752"
+    },
+    "beta": {
+      "buildid": "9448210",
+      "description": "testing",
+      "timeupdated": "1662269752",
+      "timebuildupdated": "1662269752"
+    },
+    "last_version": {
+      "buildid": "9427179",
+      "description": "last version",
+      "timeupdated": "1662488311",
+      "timebuildupdated": "1661979445"
+    }
+  },
+  "depot": {
+    "2117171": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5881692154597420306",
+          "size": "43467815",
+          "download": "12001920"
+        }
+      }
+    },
+    "2117172": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2568609184417968261",
+          "size": "52230456",
+          "download": "14504624"
+        }
+      }
+    },
+    "2117173": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6603718767101717972",
+          "size": "99086977",
+          "download": "25029744"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9448210",
+        "timeupdated": "1662269771",
+        "timebuildupdated": "1662269752"
+      },
+      "beta": {
+        "buildid": "9448210",
+        "description": "testing",
+        "timeupdated": "1662269752",
+        "timebuildupdated": "1662269752"
+      },
+      "last_version": {
+        "buildid": "9427179",
+        "description": "last version",
+        "timeupdated": "1662488311",
+        "timebuildupdated": "1661979445"
+      }
+    }
+  }
+}

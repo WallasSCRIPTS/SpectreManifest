@@ -1,0 +1,68 @@
+{
+  "name": "Enchanted Path",
+  "source": "spectre",
+  "changenumber": 40200677,
+  "updated": "2026-11-07T21:02:18.217Z",
+  "branches": {
+    "public": {
+      "buildid": "25902479",
+      "timeupdated": "1791880728",
+      "timebuildupdated": "1791880443"
+    },
+    "beta": {
+      "buildid": "25902479",
+      "description": "beta branch",
+      "timeupdated": "1791880443",
+      "timebuildupdated": "1791880443"
+    }
+  },
+  "depot": {
+    "993581": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3473609413493245609",
+          "size": "109190422",
+          "download": "42683200"
+        }
+      }
+    },
+    "993582": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8948444464030139261",
+          "size": "123189530",
+          "download": "46354096"
+        }
+      }
+    },
+    "1039730": {
+      "manifests": {
+        "public": {
+          "gid": "4344412606164657824",
+          "size": "16005032",
+          "download": "15143920"
+        }
+      },
+      "dlcappid": "1039730"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25902479",
+        "timeupdated": "1791880728",
+        "timebuildupdated": "1791880443"
+      },
+      "beta": {
+        "buildid": "25902479",
+        "description": "beta branch",
+        "timeupdated": "1791880443",
+        "timebuildupdated": "1791880443"
+      }
+    }
+  }
+}

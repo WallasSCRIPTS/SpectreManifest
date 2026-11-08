@@ -1,0 +1,58 @@
+{
+  "name": "Exorder Demo",
+  "source": "spectre",
+  "changenumber": 40302249,
+  "updated": "2026-11-07T21:01:12.228Z",
+  "branches": {
+    "public": {
+      "buildid": "2775468",
+      "timeupdated": "1526389144",
+      "timebuildupdated": "1526389087"
+    }
+  },
+  "depot": {
+    "856031": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5545586342297455337",
+          "size": "1354006003",
+          "download": "508309632"
+        }
+      }
+    },
+    "856032": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5077852638192986011",
+          "size": "1345617913",
+          "download": "467884368"
+        }
+      }
+    },
+    "856033": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8372399027635056659",
+          "size": "1398459879",
+          "download": "519947728"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2775468",
+        "timeupdated": "1526389144",
+        "timebuildupdated": "1526389087"
+      }
+    }
+  }
+}

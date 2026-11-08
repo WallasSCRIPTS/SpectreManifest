@@ -1,0 +1,93 @@
+{
+  "name": "PixPhys",
+  "source": "spectre",
+  "changenumber": 40388923,
+  "updated": "2026-11-06T21:06:08.242Z",
+  "branches": {
+    "public": {
+      "buildid": "9894825",
+      "timeupdated": "1667931899",
+      "timebuildupdated": "1667931899"
+    },
+    "0.3_pixel_physics": {
+      "buildid": "6935650",
+      "description": "This is a very old version of PixPhys. It implements pixel physics.",
+      "timeupdated": "1624654000",
+      "timebuildupdated": "1624654000"
+    },
+    "alpha": {
+      "buildid": "7049215",
+      "description": "Alpha version of PixPhys.",
+      "timeupdated": "1660506354",
+      "timebuildupdated": "1626663836"
+    },
+    "experimental": {
+      "buildid": "26301967",
+      "description": "Public test branch",
+      "timeupdated": "1793290465",
+      "timebuildupdated": "1793290465"
+    }
+  },
+  "depot": {
+    "229005": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1558101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7474279829369497966",
+          "size": "196329381",
+          "download": "56466688"
+        }
+      }
+    },
+    "1558102": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8708772613755212672",
+          "size": "234122056",
+          "download": "55355104"
+        }
+      }
+    },
+    "1558103": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9894825",
+        "timeupdated": "1667931899",
+        "timebuildupdated": "1667931899"
+      },
+      "0.3_pixel_physics": {
+        "buildid": "6935650",
+        "description": "This is a very old version of PixPhys. It implements pixel physics.",
+        "timeupdated": "1624654000",
+        "timebuildupdated": "1624654000"
+      },
+      "alpha": {
+        "buildid": "7049215",
+        "description": "Alpha version of PixPhys.",
+        "timeupdated": "1660506354",
+        "timebuildupdated": "1626663836"
+      },
+      "experimental": {
+        "buildid": "26301967",
+        "description": "Public test branch",
+        "timeupdated": "1793290465",
+        "timebuildupdated": "1793290465"
+      }
+    }
+  }
+}

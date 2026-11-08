@@ -1,0 +1,64 @@
+{
+  "name": "Angry Punisher",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:02:05.506Z",
+  "branches": {
+    "public": {
+      "buildid": "3454981",
+      "timeupdated": "1547052383",
+      "timebuildupdated": "1547052166"
+    }
+  },
+  "depot": {
+    "229000": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "968601": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6732100072036217945",
+          "size": "710655798",
+          "download": "84946544"
+        }
+      }
+    },
+    "968602": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2482144563078214849",
+          "size": "725489709",
+          "download": "87964048"
+        }
+      }
+    },
+    "968603": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "629728113317170249",
+          "size": "715942848",
+          "download": "86952048"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3454981",
+        "timeupdated": "1547052383",
+        "timebuildupdated": "1547052166"
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Task Force",
+  "source": "spectre",
+  "changenumber": 40709016,
+  "updated": "2026-11-07T20:59:14.604Z",
+  "branches": {
+    "public": {
+      "buildid": "26384878",
+      "timeupdated": "1793669937",
+      "timebuildupdated": "1793638675"
+    },
+    "0.4.2": {
+      "buildid": "10934264",
+      "description": "Unreal Engine 4.23",
+      "timeupdated": "1710976539",
+      "timebuildupdated": "1680676399"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "611301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4277084786003817667",
+          "size": "32592500917",
+          "download": "14368674368"
+        }
+      }
+    },
+    "611302": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "354792669988865584",
+          "size": "257841617",
+          "download": "57819408"
+        }
+      }
+    },
+    "611303": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7735460719396889166",
+          "size": "311885955",
+          "download": "66659840"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26384878",
+        "timeupdated": "1793669937",
+        "timebuildupdated": "1793638675"
+      },
+      "0.4.2": {
+        "buildid": "10934264",
+        "description": "Unreal Engine 4.23",
+        "timeupdated": "1710976539",
+        "timebuildupdated": "1680676399"
+      }
+    }
+  }
+}

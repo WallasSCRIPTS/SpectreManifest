@@ -1,0 +1,67 @@
+{
+  "name": "Shank 2",
+  "source": "spectre",
+  "changenumber": 38972350,
+  "updated": "2026-11-07T20:55:58.948Z",
+  "branches": {
+    "public": {
+      "buildid": "13814478",
+      "timeupdated": "1711050369",
+      "timebuildupdated": "1711050369"
+    },
+    "beta": {
+      "buildid": "202486",
+      "timebuildupdated": "1393629578"
+    }
+  },
+  "depot": {
+    "102841": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6337282187118349599",
+          "size": "1647462886",
+          "download": "1464298400"
+        }
+      }
+    },
+    "102842": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "816208169619824010",
+          "size": "1863497345",
+          "download": "1695690160"
+        }
+      },
+      "dlcappid": "102842"
+    },
+    "102843": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2930963994001926852",
+          "size": "1864387041",
+          "download": "1696629584"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13814478",
+        "timeupdated": "1711050369",
+        "timebuildupdated": "1711050369"
+      },
+      "beta": {
+        "buildid": "202486",
+        "timebuildupdated": "1393629578"
+      }
+    }
+  }
+}

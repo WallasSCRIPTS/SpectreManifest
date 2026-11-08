@@ -1,0 +1,87 @@
+{
+  "name": "Su Hack",
+  "source": "spectre",
+  "changenumber": 34842261,
+  "updated": "2026-11-07T21:01:57.765Z",
+  "branches": {
+    "public": {
+      "buildid": "11765579",
+      "timeupdated": "1690055279",
+      "timebuildupdated": "1690055250"
+    },
+    "alpha_closed": {
+      "buildid": "3407625",
+      "description": "bugged often",
+      "timeupdated": "1545120084",
+      "timebuildupdated": "1545120055"
+    },
+    "beta": {
+      "buildid": "11765579",
+      "description": "Beta Windows 64Bits",
+      "timeupdated": "1690055250",
+      "timebuildupdated": "1690055250"
+    },
+    "linux_beta": {
+      "buildid": "4009177",
+      "description": "Linux Client",
+      "timeupdated": "1563033002",
+      "timebuildupdated": "1563033002"
+    }
+  },
+  "depot": {
+    "956001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7962464394976309540",
+          "size": "146298287",
+          "download": "35482160"
+        }
+      }
+    },
+    "956002": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8149209058567774644",
+          "size": "188580525",
+          "download": "41788624"
+        }
+      }
+    },
+    "956003": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11765579",
+        "timeupdated": "1690055279",
+        "timebuildupdated": "1690055250"
+      },
+      "alpha_closed": {
+        "buildid": "3407625",
+        "description": "bugged often",
+        "timeupdated": "1545120084",
+        "timebuildupdated": "1545120055"
+      },
+      "beta": {
+        "buildid": "11765579",
+        "description": "Beta Windows 64Bits",
+        "timeupdated": "1690055250",
+        "timebuildupdated": "1690055250"
+      },
+      "linux_beta": {
+        "buildid": "4009177",
+        "description": "Linux Client",
+        "timeupdated": "1563033002",
+        "timebuildupdated": "1563033002"
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Drive-By Cop",
+  "source": "spectre",
+  "changenumber": 34854690,
+  "updated": "2026-11-06T21:04:26.115Z",
+  "branches": {
+    "public": {
+      "buildid": "7096380",
+      "timeupdated": "1627413078",
+      "timebuildupdated": "1627413016"
+    },
+    "test": {
+      "buildid": "7096380",
+      "description": "Test branch",
+      "timeupdated": "1627413017",
+      "timebuildupdated": "1627413016"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1324631": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1500840286080512251",
+          "size": "1985918334",
+          "download": "568997552"
+        }
+      }
+    },
+    "1324632": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6411517208105187291",
+          "size": "1976879884",
+          "download": "535677008"
+        }
+      }
+    },
+    "1324633": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7096380",
+        "timeupdated": "1627413078",
+        "timebuildupdated": "1627413016"
+      },
+      "test": {
+        "buildid": "7096380",
+        "description": "Test branch",
+        "timeupdated": "1627413017",
+        "timebuildupdated": "1627413016"
+      }
+    }
+  }
+}

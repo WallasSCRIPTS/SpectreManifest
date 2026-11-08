@@ -1,0 +1,97 @@
+{
+  "name": "Ryzom",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T20:57:16.882Z",
+  "branches": {
+    "public": {
+      "buildid": "26257741",
+      "timeupdated": "1793147549",
+      "timebuildupdated": "1793146241"
+    },
+    "beta": {
+      "buildid": "26257741",
+      "description": "Only for Braves",
+      "timeupdated": "1793146299",
+      "timebuildupdated": "1793146241"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "373721": {
+      "manifests": {
+        "public": {
+          "gid": "782502379000708490",
+          "size": "7532607992",
+          "download": "2191525024"
+        }
+      }
+    },
+    "373724": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5590030242792757833",
+          "size": "75123808",
+          "download": "27949968"
+        }
+      }
+    },
+    "373725": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1631337500481960396",
+          "size": "57174936",
+          "download": "21460256"
+        }
+      }
+    },
+    "373726": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4470113919554130366",
+          "size": "55919714",
+          "download": "22354224"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26257741",
+        "timeupdated": "1793147549",
+        "timebuildupdated": "1793146241"
+      },
+      "beta": {
+        "buildid": "26257741",
+        "description": "Only for Braves",
+        "timeupdated": "1793146299",
+        "timebuildupdated": "1793146241"
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "name": "Rogue Legacy",
+  "source": "spectre",
+  "changenumber": 39206122,
+  "updated": "2026-11-07T20:56:09.740Z",
+  "branches": {
+    "public": {
+      "buildid": "9456270",
+      "timeupdated": "1662415248",
+      "timebuildupdated": "1662415248"
+    },
+    "linux32": {
+      "buildid": "4825049",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609453463",
+      "timebuildupdated": "1585264519"
+    },
+    "v120b": {
+      "buildid": "1321538",
+      "description": "pre-loc update for those who want to play lament of zors",
+      "timeupdated": "1529776903",
+      "timebuildupdated": "1473212764"
+    },
+    "fna-win32": {
+      "buildid": "9456250",
+      "description": "FNA Windows Build",
+      "timeupdated": "1662415072",
+      "timebuildupdated": "1662415072"
+    },
+    "sdl3": {
+      "buildid": "24436289",
+      "description": "SDL 3.0 Testing, UNSTABLE",
+      "timeupdated": "1785257668",
+      "timebuildupdated": "1785257668"
+    }
+  },
+  "depot": {
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "241601": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6851641770807755203",
+          "size": "577700191",
+          "download": "323477504"
+        }
+      }
+    },
+    "241602": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6968800180044413055",
+          "size": "368446172",
+          "download": "161344992"
+        }
+      }
+    },
+    "241603": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3097435368854532130",
+          "size": "382687997",
+          "download": "164669472"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9456270",
+        "timeupdated": "1662415248",
+        "timebuildupdated": "1662415248"
+      },
+      "linux32": {
+        "buildid": "4825049",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609453463",
+        "timebuildupdated": "1585264519"
+      },
+      "v120b": {
+        "buildid": "1321538",
+        "description": "pre-loc update for those who want to play lament of zors",
+        "timeupdated": "1529776903",
+        "timebuildupdated": "1473212764"
+      },
+      "fna-win32": {
+        "buildid": "9456250",
+        "description": "FNA Windows Build",
+        "timeupdated": "1662415072",
+        "timebuildupdated": "1662415072"
+      },
+      "sdl3": {
+        "buildid": "24436289",
+        "description": "SDL 3.0 Testing, UNSTABLE",
+        "timeupdated": "1785257668",
+        "timebuildupdated": "1785257668"
+      }
+    }
+  }
+}

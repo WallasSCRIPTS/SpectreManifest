@@ -1,0 +1,59 @@
+{
+  "name": "Wormhole City",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T20:57:49.440Z",
+  "branches": {
+    "public": {
+      "buildid": "4029272",
+      "timeupdated": "1563608869",
+      "timebuildupdated": "1563608832"
+    },
+    "local": {
+      "buildid": "1005459",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1456956853"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "434301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6286038768005372286",
+          "size": "9347804807",
+          "download": "9092281376"
+        }
+      }
+    },
+    "434302": {},
+    "branches": {
+      "public": {
+        "buildid": "4029272",
+        "timeupdated": "1563608869",
+        "timebuildupdated": "1563608832"
+      },
+      "local": {
+        "buildid": "1005459",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1456956853"
+      }
+    }
+  }
+}

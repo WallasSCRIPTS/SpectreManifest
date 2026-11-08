@@ -1,0 +1,74 @@
+{
+  "name": "Legacy of Dorn: Herald of Oblivion",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:27.785Z",
+  "branches": {
+    "public": {
+      "buildid": "1976911",
+      "timeupdated": "1500613780",
+      "timebuildupdated": "1500611399"
+    },
+    "beta": {
+      "buildid": "1976911",
+      "timeupdated": "1500611399",
+      "timebuildupdated": "1500611399"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "389851": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "470352478675082156",
+          "size": "412656415",
+          "download": "128941664"
+        }
+      }
+    },
+    "389852": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "32266715136870304",
+          "size": "388246536",
+          "download": "120898832"
+        }
+      }
+    },
+    "389853": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "644274866689704496",
+          "size": "384514105",
+          "download": "120275792"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1976911",
+        "timeupdated": "1500613780",
+        "timebuildupdated": "1500611399"
+      },
+      "beta": {
+        "buildid": "1976911",
+        "timeupdated": "1500611399",
+        "timebuildupdated": "1500611399"
+      }
+    }
+  }
+}

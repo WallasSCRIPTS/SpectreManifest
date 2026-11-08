@@ -1,0 +1,94 @@
+{
+  "name": "EVGA Precision X1",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T20:56:18.231Z",
+  "branches": {
+    "public": {
+      "buildid": "9782965",
+      "timeupdated": "1666629278",
+      "timebuildupdated": "1666578318"
+    },
+    "evgapx1": {
+      "buildid": "3917525",
+      "description": "EVGA Precision X1",
+      "timeupdated": "1561080120",
+      "timebuildupdated": "1560489536"
+    },
+    "pxoc": {
+      "buildid": "9782965",
+      "description": "EVGA Precision XOC",
+      "timeupdated": "1666629139",
+      "timebuildupdated": "1666578318"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229005": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "268851": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5365060846135867990",
+          "size": "71017702",
+          "download": "46270144"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9782965",
+        "timeupdated": "1666629278",
+        "timebuildupdated": "1666578318"
+      },
+      "evgapx1": {
+        "buildid": "3917525",
+        "description": "EVGA Precision X1",
+        "timeupdated": "1561080120",
+        "timebuildupdated": "1560489536"
+      },
+      "pxoc": {
+        "buildid": "9782965",
+        "description": "EVGA Precision XOC",
+        "timeupdated": "1666629139",
+        "timebuildupdated": "1666578318"
+      }
+    }
+  }
+}

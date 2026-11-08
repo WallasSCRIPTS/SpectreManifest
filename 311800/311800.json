@@ -1,0 +1,94 @@
+{
+  "name": "Black Ice",
+  "source": "spectre",
+  "changenumber": 37734138,
+  "updated": "2026-11-07T20:56:35.289Z",
+  "branches": {
+    "public": {
+      "buildid": "24393261",
+      "timeupdated": "1785016628",
+      "timebuildupdated": "1785016448"
+    },
+    "indev": {
+      "buildid": "24486692",
+      "description": "public testing the next update",
+      "timeupdated": "1785476929",
+      "timebuildupdated": "1785476768"
+    },
+    "testing": {
+      "buildid": "24508887",
+      "description": "for testing specific bugs (may be broken)",
+      "timeupdated": "1785593656",
+      "timebuildupdated": "1785589720"
+    },
+    "version0.7": {
+      "buildid": "1221173",
+      "description": "the original Black Ice (may be very broken)",
+      "timeupdated": "1486692099",
+      "timebuildupdated": "1468202190"
+    }
+  },
+  "depot": {
+    "311801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2620671887206344842",
+          "size": "1266083465",
+          "download": "358783424"
+        }
+      }
+    },
+    "311802": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3854962699524245306",
+          "size": "1289103009",
+          "download": "367272080"
+        }
+      }
+    },
+    "311803": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4678974348258164713",
+          "size": "1307573935",
+          "download": "359578256"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24393261",
+        "timeupdated": "1785016628",
+        "timebuildupdated": "1785016448"
+      },
+      "indev": {
+        "buildid": "24486692",
+        "description": "public testing the next update",
+        "timeupdated": "1785476929",
+        "timebuildupdated": "1785476768"
+      },
+      "testing": {
+        "buildid": "24508887",
+        "description": "for testing specific bugs (may be broken)",
+        "timeupdated": "1785593656",
+        "timebuildupdated": "1785589720"
+      },
+      "version0.7": {
+        "buildid": "1221173",
+        "description": "the original Black Ice (may be very broken)",
+        "timeupdated": "1486692099",
+        "timebuildupdated": "1468202190"
+      }
+    }
+  }
+}

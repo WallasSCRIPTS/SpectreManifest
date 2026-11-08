@@ -1,0 +1,68 @@
+{
+  "name": "Shootout on Cash Island",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:16.475Z",
+  "branches": {
+    "public": {
+      "buildid": "2554878",
+      "timeupdated": "1519544499",
+      "timebuildupdated": "1519544499"
+    },
+    "test": {
+      "buildid": "2554866",
+      "timeupdated": "1519543383",
+      "timebuildupdated": "1519543383"
+    }
+  },
+  "depot": {
+    "614951": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3301923357930252051",
+          "size": "144440486",
+          "download": "50097744"
+        }
+      }
+    },
+    "614952": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6902324543694275494",
+          "size": "182879753",
+          "download": "61472384"
+        }
+      }
+    },
+    "614953": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8589056714170408994",
+          "size": "188486309",
+          "download": "61588032"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2554878",
+        "timeupdated": "1519544499",
+        "timebuildupdated": "1519544499"
+      },
+      "test": {
+        "buildid": "2554866",
+        "timeupdated": "1519543383",
+        "timebuildupdated": "1519543383"
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "name": "Legion TD 2",
+  "source": "spectre",
+  "changenumber": 40669619,
+  "updated": "2026-11-07T20:58:08.124Z",
+  "branches": {
+    "public": {
+      "buildid": "26243044",
+      "timeupdated": "1793103713",
+      "timebuildupdated": "1793103635"
+    },
+    "mactest": {
+      "buildid": "6947310",
+      "description": "Mac benchmark",
+      "timeupdated": "1624921895",
+      "timebuildupdated": "1624920736"
+    },
+    "mactest2": {
+      "buildid": "11052860",
+      "description": " Mac benchmark 2",
+      "timeupdated": "1682018606",
+      "timebuildupdated": "1682018606"
+    },
+    "public_test_realm": {
+      "buildid": "26485204",
+      "description": "Public beta testing",
+      "timeupdated": "1793970853",
+      "timebuildupdated": "1793970853"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "469606": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8432983084745853826",
+          "size": "2475796741",
+          "download": "1567688880"
+        }
+      }
+    },
+    "469607": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9188699719218773297",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "469608": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6286638733665185911",
+          "size": "2521928222",
+          "download": "1583292240"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26243044",
+        "timeupdated": "1793103713",
+        "timebuildupdated": "1793103635"
+      },
+      "mactest": {
+        "buildid": "6947310",
+        "description": "Mac benchmark",
+        "timeupdated": "1624921895",
+        "timebuildupdated": "1624920736"
+      },
+      "mactest2": {
+        "buildid": "11052860",
+        "description": " Mac benchmark 2",
+        "timeupdated": "1682018606",
+        "timebuildupdated": "1682018606"
+      },
+      "public_test_realm": {
+        "buildid": "26485204",
+        "description": "Public beta testing",
+        "timeupdated": "1793970853",
+        "timebuildupdated": "1793970853"
+      }
+    }
+  }
+}

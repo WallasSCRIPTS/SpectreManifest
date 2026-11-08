@@ -1,0 +1,70 @@
+{
+  "name": "Hexarchy",
+  "source": "spectre",
+  "changenumber": 39444301,
+  "updated": "2026-11-06T21:04:38.720Z",
+  "branches": {
+    "public": {
+      "buildid": "25640602",
+      "timeupdated": "1791003057",
+      "timebuildupdated": "1790812073"
+    },
+    "publictest": {
+      "buildid": "25640602",
+      "description": "Public Test Branch",
+      "timeupdated": "1791003014",
+      "timebuildupdated": "1790812073"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1356811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2206621816842812098",
+          "size": "2069924569",
+          "download": "626594096"
+        }
+      }
+    },
+    "1356812": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3094758090113081127",
+          "size": "1930215554",
+          "download": "570293312"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25640602",
+        "timeupdated": "1791003057",
+        "timebuildupdated": "1790812073"
+      },
+      "publictest": {
+        "buildid": "25640602",
+        "description": "Public Test Branch",
+        "timeupdated": "1791003014",
+        "timebuildupdated": "1790812073"
+      }
+    }
+  }
+}

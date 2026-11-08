@@ -1,0 +1,58 @@
+{
+  "name": "CINEVR",
+  "source": "spectre",
+  "changenumber": 40315868,
+  "updated": "2026-11-07T20:59:48.896Z",
+  "branches": {
+    "public": {
+      "buildid": "5468474",
+      "timeupdated": "1598599365",
+      "timebuildupdated": "1598539162"
+    },
+    "beta": {
+      "buildid": "5468474",
+      "description": "Beta testing",
+      "timeupdated": "1598539227",
+      "timebuildupdated": "1598539162"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "687871": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "811931690163969245",
+          "size": "543143520",
+          "download": "149549024"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5468474",
+        "timeupdated": "1598599365",
+        "timebuildupdated": "1598539162"
+      },
+      "beta": {
+        "buildid": "5468474",
+        "description": "Beta testing",
+        "timeupdated": "1598539227",
+        "timebuildupdated": "1598539162"
+      }
+    }
+  }
+}

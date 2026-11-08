@@ -1,0 +1,82 @@
+{
+  "name": "Easy Red 2",
+  "source": "spectre",
+  "changenumber": 40626502,
+  "updated": "2026-11-06T21:04:26.159Z",
+  "branches": {
+    "public": {
+      "buildid": "26375879",
+      "timeupdated": "1793611558",
+      "timebuildupdated": "1793611195"
+    },
+    "console_crossplay": {
+      "buildid": "25255578",
+      "description": "Crossplay Compatibility",
+      "timeupdated": "1789138231",
+      "timebuildupdated": "1789136926"
+    },
+    "publicbeta": {
+      "buildid": "26456504",
+      "description": "Public beta for easy red 2 - expect some bugs",
+      "timeupdated": "1793877960",
+      "timebuildupdated": "1793877919"
+    }
+  },
+  "depot": {
+    "1324781": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6702572878397432853",
+          "size": "18016295700",
+          "download": "9527607472"
+        }
+      }
+    },
+    "1324782": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2691658119118978816",
+          "size": "18064321522",
+          "download": "9542647120"
+        }
+      }
+    },
+    "1324783": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8331064782816677044",
+          "size": "17917200031",
+          "download": "9445213248"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26375879",
+        "timeupdated": "1793611558",
+        "timebuildupdated": "1793611195"
+      },
+      "console_crossplay": {
+        "buildid": "25255578",
+        "description": "Crossplay Compatibility",
+        "timeupdated": "1789138231",
+        "timebuildupdated": "1789136926"
+      },
+      "publicbeta": {
+        "buildid": "26456504",
+        "description": "Public beta for easy red 2 - expect some bugs",
+        "timeupdated": "1793877960",
+        "timebuildupdated": "1793877919"
+      }
+    }
+  }
+}

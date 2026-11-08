@@ -1,0 +1,59 @@
+{
+  "name": "Old Man's Journey",
+  "source": "spectre",
+  "changenumber": 40049679,
+  "updated": "2026-11-07T20:59:00.317Z",
+  "branches": {
+    "public": {
+      "buildid": "22949870",
+      "timeupdated": "1777297875",
+      "timebuildupdated": "1777075390"
+    },
+    "beta": {
+      "buildid": "22949870",
+      "description": "Test upcoming updates",
+      "timeupdated": "1777075391",
+      "timebuildupdated": "1777075390"
+    }
+  },
+  "depot": {
+    "581271": {},
+    "581272": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8695930305818649767",
+          "size": "623164994",
+          "download": "526198112"
+        }
+      }
+    },
+    "581273": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2049474094165683772",
+          "size": "725222103",
+          "download": "552344768"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22949870",
+        "timeupdated": "1777297875",
+        "timebuildupdated": "1777075390"
+      },
+      "beta": {
+        "buildid": "22949870",
+        "description": "Test upcoming updates",
+        "timeupdated": "1777075391",
+        "timebuildupdated": "1777075390"
+      }
+    }
+  }
+}

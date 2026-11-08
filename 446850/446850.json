@@ -1,0 +1,108 @@
+{
+  "name": "Mindball Play",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:54.843Z",
+  "branches": {
+    "public": {
+      "buildid": "17269819",
+      "timeupdated": "1738862876",
+      "timebuildupdated": "1738862876"
+    },
+    "experimental": {
+      "buildid": "17235560",
+      "description": "Latest experimental version",
+      "timeupdated": "1738661659",
+      "timebuildupdated": "1738661659"
+    },
+    "local": {
+      "buildid": "17235705",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1738662333",
+      "timebuildupdated": "1738662333"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "446851": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "989871132770671461",
+          "size": "3922540119",
+          "download": "1020040384"
+        }
+      }
+    },
+    "446852": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1438622451765839004",
+          "size": "4361878955",
+          "download": "1142360656"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17269819",
+        "timeupdated": "1738862876",
+        "timebuildupdated": "1738862876"
+      },
+      "experimental": {
+        "buildid": "17235560",
+        "description": "Latest experimental version",
+        "timeupdated": "1738661659",
+        "timebuildupdated": "1738661659"
+      },
+      "local": {
+        "buildid": "17235705",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1738662333",
+        "timebuildupdated": "1738662333"
+      }
+    }
+  }
+}

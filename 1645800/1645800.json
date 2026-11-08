@@ -1,0 +1,72 @@
+{
+  "name": "Doki Doki Ragnarok Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-05T14:59:16.109Z",
+  "branches": {
+    "public": {
+      "buildid": "9773331",
+      "timeupdated": "1666381186",
+      "timebuildupdated": "1666378163"
+    },
+    "local": {
+      "buildid": "6743519",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1621719674",
+      "timebuildupdated": "1621719674"
+    }
+  },
+  "depot": {
+    "1645801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7911945055933530948",
+          "size": "275612404",
+          "download": "108530448"
+        }
+      }
+    },
+    "1645802": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4142927184140273563",
+          "size": "300192057",
+          "download": "116533248"
+        }
+      }
+    },
+    "1645803": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7961491460791456385",
+          "size": "277671461",
+          "download": "108101424"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9773331",
+        "timeupdated": "1666381186",
+        "timebuildupdated": "1666378163"
+      },
+      "local": {
+        "buildid": "6743519",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1621719674",
+        "timebuildupdated": "1621719674"
+      }
+    }
+  }
+}

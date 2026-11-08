@@ -1,0 +1,58 @@
+{
+  "name": "Kaiju Panic",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:04.802Z",
+  "branches": {
+    "public": {
+      "buildid": "1825646",
+      "timeupdated": "1494955419",
+      "timebuildupdated": "1494955419"
+    },
+    "beta": {
+      "buildid": "1825645",
+      "description": "beta (includes linux)",
+      "timeupdated": "1494955403",
+      "timebuildupdated": "1494955403"
+    }
+  },
+  "depot": {
+    "352761": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8146331387544683921",
+          "size": "824840882",
+          "download": "166018096"
+        }
+      }
+    },
+    "352762": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8672024631955601249",
+          "size": "844658138",
+          "download": "164621712"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1825646",
+        "timeupdated": "1494955419",
+        "timebuildupdated": "1494955419"
+      },
+      "beta": {
+        "buildid": "1825645",
+        "description": "beta (includes linux)",
+        "timeupdated": "1494955403",
+        "timebuildupdated": "1494955403"
+      }
+    }
+  }
+}

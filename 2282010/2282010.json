@@ -1,0 +1,51 @@
+{
+  "name": "Loose OR Escape",
+  "source": "spectre",
+  "changenumber": 35946306,
+  "updated": "2026-11-06T23:21:24.611Z",
+  "branches": {
+    "public": {
+      "buildid": "21584204",
+      "timeupdated": "1768992391",
+      "timebuildupdated": "1768992309"
+    },
+    "defaultmac": {
+      "buildid": "21584020",
+      "description": "defaultMac",
+      "timeupdated": "1768991429",
+      "timebuildupdated": "1768991429"
+    }
+  },
+  "depot": {
+    "2282011": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4036107756740552169",
+          "size": "1698140621",
+          "download": "562881360"
+        }
+      }
+    },
+    "2282012": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21584204",
+        "timeupdated": "1768992391",
+        "timebuildupdated": "1768992309"
+      },
+      "defaultmac": {
+        "buildid": "21584020",
+        "description": "defaultMac",
+        "timeupdated": "1768991429",
+        "timebuildupdated": "1768991429"
+      }
+    }
+  }
+}

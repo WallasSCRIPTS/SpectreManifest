@@ -1,0 +1,102 @@
+{
+  "name": "Super Cane Magic ZERO",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:48.150Z",
+  "branches": {
+    "public": {
+      "buildid": "11038958",
+      "timeupdated": "1682067672",
+      "timebuildupdated": "1681899418"
+    },
+    "experimental": {
+      "buildid": "11038958",
+      "timeupdated": "1682070506",
+      "timebuildupdated": "1681899418"
+    },
+    "rollback": {
+      "buildid": "7603151",
+      "description": "previous version for testing",
+      "timeupdated": "1678982032",
+      "timebuildupdated": "1635262381"
+    }
+  },
+  "depot": {
+    "336441": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2087324183859122927",
+          "size": "1965560712",
+          "download": "613334304"
+        }
+      }
+    },
+    "336442": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6786927807659718280",
+          "size": "1980541360",
+          "download": "618136304"
+        }
+      }
+    },
+    "336443": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4557235311596248066",
+          "size": "1972679119",
+          "download": "616416752"
+        }
+      }
+    },
+    "336444": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4411921294960299160",
+          "size": "2014583546",
+          "download": "615956080"
+        }
+      }
+    },
+    "1069631": {
+      "manifests": {
+        "public": {
+          "gid": "2306628245137297348",
+          "size": "147993562",
+          "download": "113603808"
+        }
+      },
+      "dlcappid": "1069630"
+    },
+    "branches": {
+      "public": {
+        "buildid": "11038958",
+        "timeupdated": "1682067672",
+        "timebuildupdated": "1681899418"
+      },
+      "experimental": {
+        "buildid": "11038958",
+        "timeupdated": "1682070506",
+        "timebuildupdated": "1681899418"
+      },
+      "rollback": {
+        "buildid": "7603151",
+        "description": "previous version for testing",
+        "timeupdated": "1678982032",
+        "timebuildupdated": "1635262381"
+      }
+    }
+  }
+}

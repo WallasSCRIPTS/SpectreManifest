@@ -1,0 +1,55 @@
+{
+  "name": "Swanky Paint",
+  "source": "spectre",
+  "changenumber": 40023960,
+  "updated": "2026-11-07T20:57:47.856Z",
+  "branches": {
+    "public": {
+      "buildid": "26051613",
+      "timeupdated": "1792421677",
+      "timebuildupdated": "1792419613"
+    },
+    "older": {
+      "buildid": "26051613",
+      "description": "older version in case of bad update",
+      "timeupdated": "1792421677",
+      "timebuildupdated": "1792419613"
+    },
+    "broken": {
+      "buildid": "26065618",
+      "description": "new test version not safe to art with",
+      "timeupdated": "1792453596",
+      "timebuildupdated": "1792453596"
+    }
+  },
+  "depot": {
+    "432031": {
+      "manifests": {
+        "public": {
+          "gid": "3439055283060805996",
+          "size": "30943829",
+          "download": "22055184"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26051613",
+        "timeupdated": "1792421677",
+        "timebuildupdated": "1792419613"
+      },
+      "older": {
+        "buildid": "26051613",
+        "description": "older version in case of bad update",
+        "timeupdated": "1792421677",
+        "timebuildupdated": "1792419613"
+      },
+      "broken": {
+        "buildid": "26065618",
+        "description": "new test version not safe to art with",
+        "timeupdated": "1792453596",
+        "timebuildupdated": "1792453596"
+      }
+    }
+  }
+}

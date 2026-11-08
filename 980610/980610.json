@@ -1,0 +1,112 @@
+{
+  "name": "Quaver",
+  "source": "spectre",
+  "changenumber": 40621071,
+  "updated": "2026-11-07T21:02:12.062Z",
+  "branches": {
+    "public": {
+      "buildid": "24896500",
+      "timeupdated": "1787525818",
+      "timebuildupdated": "1787525624"
+    },
+    "canary": {
+      "buildid": "25254045",
+      "description": "Canary Testing",
+      "timeupdated": "1789132177",
+      "timebuildupdated": "1789132136"
+    },
+    "macos_intel": {
+      "buildid": "24896500",
+      "description": "Intel based Macs",
+      "timeupdated": "1787525764",
+      "timebuildupdated": "1787525624"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "980611": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7102076934200690592",
+          "size": "221407240",
+          "download": "128280768"
+        }
+      }
+    },
+    "980612": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7536968705496303462",
+          "size": "234725641",
+          "download": "128086720"
+        }
+      }
+    },
+    "980613": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8671909642803588131",
+          "size": "220920790",
+          "download": "127781184"
+        }
+      }
+    },
+    "980614": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3832160614568646197",
+          "size": "235563791",
+          "download": "137370624"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24896500",
+        "timeupdated": "1787525818",
+        "timebuildupdated": "1787525624"
+      },
+      "canary": {
+        "buildid": "25254045",
+        "description": "Canary Testing",
+        "timeupdated": "1789132177",
+        "timebuildupdated": "1789132136"
+      },
+      "macos_intel": {
+        "buildid": "24896500",
+        "description": "Intel based Macs",
+        "timeupdated": "1787525764",
+        "timebuildupdated": "1787525624"
+      }
+    }
+  }
+}

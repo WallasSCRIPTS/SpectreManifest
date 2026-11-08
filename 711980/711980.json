@@ -1,0 +1,80 @@
+{
+  "name": "Starship EVO",
+  "source": "spectre",
+  "changenumber": 40618687,
+  "updated": "2026-11-07T21:00:02.172Z",
+  "branches": {
+    "public": {
+      "buildid": "26122752",
+      "timeupdated": "1792635879",
+      "timebuildupdated": "1792634917"
+    },
+    "legacy_neovox": {
+      "buildid": "6479509",
+      "description": "Before Neovox update",
+      "timeupdated": "1622443515",
+      "timebuildupdated": "1617329202"
+    },
+    "experimental": {
+      "buildid": "26122752",
+      "timeupdated": "1792635118",
+      "timebuildupdated": "1792634917"
+    },
+    "previous": {
+      "buildid": "22877125",
+      "description": "previous build - in case default is instable",
+      "timeupdated": "1776728943",
+      "timebuildupdated": "1776728713"
+    },
+    "unity6": {
+      "buildid": "26451593",
+      "description": "Unity upgrade",
+      "timeupdated": "1793861238",
+      "timebuildupdated": "1793861176"
+    }
+  },
+  "depot": {
+    "711981": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8692885716087336979",
+          "size": "1813677099",
+          "download": "618858288"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26122752",
+        "timeupdated": "1792635879",
+        "timebuildupdated": "1792634917"
+      },
+      "legacy_neovox": {
+        "buildid": "6479509",
+        "description": "Before Neovox update",
+        "timeupdated": "1622443515",
+        "timebuildupdated": "1617329202"
+      },
+      "experimental": {
+        "buildid": "26122752",
+        "timeupdated": "1792635118",
+        "timebuildupdated": "1792634917"
+      },
+      "previous": {
+        "buildid": "22877125",
+        "description": "previous build - in case default is instable",
+        "timeupdated": "1776728943",
+        "timebuildupdated": "1776728713"
+      },
+      "unity6": {
+        "buildid": "26451593",
+        "description": "Unity upgrade",
+        "timeupdated": "1793861238",
+        "timebuildupdated": "1793861176"
+      }
+    }
+  }
+}

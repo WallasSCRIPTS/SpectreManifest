@@ -1,0 +1,73 @@
+{
+  "name": "VICE",
+  "source": "spectre",
+  "changenumber": 40315868,
+  "updated": "2026-11-06T23:11:35.928Z",
+  "branches": {
+    "public": {
+      "buildid": "20833953",
+      "timeupdated": "1763418662",
+      "timebuildupdated": "1763416716"
+    },
+    "nightly": {
+      "buildid": "24507257",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1785575839",
+      "timebuildupdated": "1785575839"
+    }
+  },
+  "depot": {
+    "1828340": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6302632534093973183",
+          "size": "29290101",
+          "download": "10519984"
+        }
+      },
+      "dlcappid": "1828340"
+    },
+    "1828341": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4257387040202750666",
+          "size": "23810973",
+          "download": "8370000"
+        }
+      },
+      "dlcappid": "1828340"
+    },
+    "1828342": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5667680694885146760",
+          "size": "45226109",
+          "download": "15747616"
+        }
+      },
+      "dlcappid": "1828340"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833953",
+        "timeupdated": "1763418662",
+        "timebuildupdated": "1763416716"
+      },
+      "nightly": {
+        "buildid": "24507257",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1785575839",
+        "timebuildupdated": "1785575839"
+      }
+    }
+  }
+}

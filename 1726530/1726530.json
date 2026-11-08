@@ -1,0 +1,109 @@
+{
+  "name": "Toaster Arena",
+  "source": "spectre",
+  "changenumber": 40686829,
+  "updated": "2026-11-06T23:09:39.505Z",
+  "branches": {
+    "public": {
+      "buildid": "25789666",
+      "timeupdated": "1791411656",
+      "timebuildupdated": "1791411350"
+    },
+    "pre_reboot": {
+      "buildid": "7945980",
+      "description": "play the most oldest version of toaster arena",
+      "timeupdated": "1674098047",
+      "timebuildupdated": "1640654869"
+    },
+    "experimental": {
+      "buildid": "26496202",
+      "description": "Experimental branch used for testing",
+      "timeupdated": "1794004104",
+      "timebuildupdated": "1794004104"
+    },
+    "maid_branch": {
+      "buildid": "8569533",
+      "description": "Play the first re-make version of toaster arena",
+      "timeupdated": "1723318581",
+      "timebuildupdated": "1650126733"
+    },
+    "postmaid": {
+      "buildid": "9832692",
+      "description": "Post maid branch version",
+      "timeupdated": "1667162644",
+      "timebuildupdated": "1667162434"
+    },
+    "server": {
+      "buildid": "21607140",
+      "description": "Dedicated Server build",
+      "timeupdated": "1769108042",
+      "timebuildupdated": "1769108042"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1726531": {
+      "manifests": {
+        "public": {
+          "gid": "4242162035279518860",
+          "size": "7657813036",
+          "download": "5684959392"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25789666",
+        "timeupdated": "1791411656",
+        "timebuildupdated": "1791411350"
+      },
+      "pre_reboot": {
+        "buildid": "7945980",
+        "description": "play the most oldest version of toaster arena",
+        "timeupdated": "1674098047",
+        "timebuildupdated": "1640654869"
+      },
+      "experimental": {
+        "buildid": "26496202",
+        "description": "Experimental branch used for testing",
+        "timeupdated": "1794004104",
+        "timebuildupdated": "1794004104"
+      },
+      "maid_branch": {
+        "buildid": "8569533",
+        "description": "Play the first re-make version of toaster arena",
+        "timeupdated": "1723318581",
+        "timebuildupdated": "1650126733"
+      },
+      "postmaid": {
+        "buildid": "9832692",
+        "description": "Post maid branch version",
+        "timeupdated": "1667162644",
+        "timebuildupdated": "1667162434"
+      },
+      "server": {
+        "buildid": "21607140",
+        "description": "Dedicated Server build",
+        "timeupdated": "1769108042",
+        "timebuildupdated": "1769108042"
+      }
+    }
+  }
+}

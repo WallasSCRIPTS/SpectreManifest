@@ -1,0 +1,72 @@
+{
+  "name": "聖剣レイヴランシル物語　",
+  "source": "spectre",
+  "changenumber": 38660215,
+  "updated": "2026-11-07T21:00:12.881Z",
+  "branches": {
+    "public": {
+      "buildid": "17214698",
+      "timeupdated": "1738586085",
+      "timebuildupdated": "1738485510"
+    },
+    "macos": {
+      "buildid": "3640236",
+      "lcsrequired": "1",
+      "timeupdated": "1553258168",
+      "timebuildupdated": "1552449309"
+    },
+    "newrelease": {
+      "buildid": "3640237",
+      "description": "+Episode",
+      "lcsrequired": "1",
+      "timeupdated": "1553260526",
+      "timebuildupdated": "1552449309"
+    }
+  },
+  "depot": {
+    "729611": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8455377086004045555",
+          "size": "354091090",
+          "download": "222923840"
+        }
+      }
+    },
+    "729612": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1847769262825637203",
+          "size": "680327755",
+          "download": "223480144"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17214698",
+        "timeupdated": "1738586085",
+        "timebuildupdated": "1738485510"
+      },
+      "macos": {
+        "buildid": "3640236",
+        "lcsrequired": "1",
+        "timeupdated": "1553258168",
+        "timebuildupdated": "1552449309"
+      },
+      "newrelease": {
+        "buildid": "3640237",
+        "description": "+Episode",
+        "lcsrequired": "1",
+        "timeupdated": "1553260526",
+        "timebuildupdated": "1552449309"
+      }
+    }
+  }
+}

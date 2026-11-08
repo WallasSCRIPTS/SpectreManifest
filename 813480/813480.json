@@ -1,0 +1,82 @@
+{
+  "name": "General Horse and the Package of Doom",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:53.670Z",
+  "branches": {
+    "public": {
+      "buildid": "19077637",
+      "timeupdated": "1751451877",
+      "timebuildupdated": "1751450899"
+    },
+    "classic_1_2": {
+      "buildid": "5944094",
+      "description": "Classic version 1.2 with lower food gains",
+      "timeupdated": "1751451908",
+      "timebuildupdated": "1607525137"
+    },
+    "classic_1_2_gpufix": {
+      "buildid": "5944215",
+      "description": "If the regular classic has issues",
+      "timeupdated": "1751452203",
+      "timebuildupdated": "1607526590"
+    },
+    "enforce_gpu_naughty_list": {
+      "buildid": "19077891",
+      "description": "If it detects a suspiciously old or weird GPU, it will play in software mode. Less chance for video issues, more chance of performance issues.",
+      "timeupdated": "1751452220",
+      "timebuildupdated": "1751452094"
+    }
+  },
+  "depot": {
+    "813481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2392278570708418386",
+          "size": "11419026567",
+          "download": "11334213072"
+        }
+      }
+    },
+    "813483": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4470297967234175091",
+          "size": "11505679391",
+          "download": "11337786896"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19077637",
+        "timeupdated": "1751451877",
+        "timebuildupdated": "1751450899"
+      },
+      "classic_1_2": {
+        "buildid": "5944094",
+        "description": "Classic version 1.2 with lower food gains",
+        "timeupdated": "1751451908",
+        "timebuildupdated": "1607525137"
+      },
+      "classic_1_2_gpufix": {
+        "buildid": "5944215",
+        "description": "If the regular classic has issues",
+        "timeupdated": "1751452203",
+        "timebuildupdated": "1607526590"
+      },
+      "enforce_gpu_naughty_list": {
+        "buildid": "19077891",
+        "description": "If it detects a suspiciously old or weird GPU, it will play in software mode. Less chance for video issues, more chance of performance issues.",
+        "timeupdated": "1751452220",
+        "timebuildupdated": "1751452094"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Interstellar Airgap",
+  "source": "spectre",
+  "changenumber": 37629667,
+  "updated": "2026-11-06T23:09:45.956Z",
+  "branches": {
+    "public": {
+      "buildid": "21399495",
+      "timeupdated": "1767739544",
+      "timebuildupdated": "1767721639"
+    }
+  },
+  "depot": {
+    "1775501": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6349888236726295896",
+          "size": "236215505",
+          "download": "78578768"
+        }
+      }
+    },
+    "1775502": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6090270090353221355",
+          "size": "10835888",
+          "download": "5444912"
+        }
+      }
+    },
+    "1775503": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5429620676915043518",
+          "size": "238757338",
+          "download": "73116400"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21399495",
+        "timeupdated": "1767739544",
+        "timebuildupdated": "1767721639"
+      }
+    }
+  }
+}

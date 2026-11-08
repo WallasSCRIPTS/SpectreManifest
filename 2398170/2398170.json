@@ -1,0 +1,82 @@
+{
+  "name": "BORE BLASTERS",
+  "source": "spectre",
+  "changenumber": 38674706,
+  "updated": "2026-11-06T23:23:23.598Z",
+  "branches": {
+    "public": {
+      "buildid": "21189828",
+      "timeupdated": "1765796049",
+      "timebuildupdated": "1765795983"
+    },
+    "experimental": {
+      "buildid": "21189828",
+      "description": "Help test bleeding edge builds. WARNING: Save file at risk",
+      "timeupdated": "1765795996",
+      "timebuildupdated": "1765795983"
+    },
+    "legacy": {
+      "buildid": "17512324",
+      "description": "This is an older build that might work for any compatibility issues.",
+      "timeupdated": "1770216158",
+      "timebuildupdated": "1740561953"
+    }
+  },
+  "depot": {
+    "2398171": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "637404338664597024",
+          "size": "533210682",
+          "download": "471582800"
+        }
+      }
+    },
+    "2398172": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3257969389733800932",
+          "size": "520021920",
+          "download": "466371072"
+        }
+      }
+    },
+    "2398173": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3321610102430177006",
+          "size": "527475082",
+          "download": "468937920"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21189828",
+        "timeupdated": "1765796049",
+        "timebuildupdated": "1765795983"
+      },
+      "experimental": {
+        "buildid": "21189828",
+        "description": "Help test bleeding edge builds. WARNING: Save file at risk",
+        "timeupdated": "1765795996",
+        "timebuildupdated": "1765795983"
+      },
+      "legacy": {
+        "buildid": "17512324",
+        "description": "This is an older build that might work for any compatibility issues.",
+        "timeupdated": "1770216158",
+        "timebuildupdated": "1740561953"
+      }
+    }
+  }
+}

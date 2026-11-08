@@ -1,0 +1,56 @@
+{
+  "name": "Street Sweeper",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-06T21:03:44.807Z",
+  "branches": {
+    "public": {
+      "buildid": "4690210",
+      "timeupdated": "1582066684",
+      "timebuildupdated": "1582066684"
+    },
+    "streetsweepermac": {
+      "buildid": "4690209",
+      "timeupdated": "1582066615",
+      "timebuildupdated": "1582066615"
+    }
+  },
+  "depot": {
+    "1228951": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1352469532921135985",
+          "size": "94266698",
+          "download": "25879376"
+        }
+      }
+    },
+    "1228952": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4374333224011408327",
+          "size": "102609533",
+          "download": "28617840"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4690210",
+        "timeupdated": "1582066684",
+        "timebuildupdated": "1582066684"
+      },
+      "streetsweepermac": {
+        "buildid": "4690209",
+        "timeupdated": "1582066615",
+        "timebuildupdated": "1582066615"
+      }
+    }
+  }
+}

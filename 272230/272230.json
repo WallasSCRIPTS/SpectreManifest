@@ -1,0 +1,81 @@
+{
+  "name": "Sub Rosa",
+  "source": "spectre",
+  "changenumber": 34827573,
+  "updated": "2026-11-07T20:56:19.313Z",
+  "branches": {
+    "public": {
+      "buildid": "7421437",
+      "timeupdated": "1632522041",
+      "timebuildupdated": "1632521953"
+    },
+    "alpha25": {
+      "buildid": "1798455",
+      "timeupdated": "1513637681",
+      "timebuildupdated": "1493857222"
+    },
+    "beta": {
+      "buildid": "7421437",
+      "description": "Windows only",
+      "timeupdated": "1632522032",
+      "timebuildupdated": "1632521953"
+    },
+    "patchtest": {
+      "buildid": "7421437",
+      "timeupdated": "1632522023",
+      "timebuildupdated": "1632521953"
+    },
+    "prevalpha": {
+      "buildid": "5395456",
+      "description": "Previous Alpha",
+      "timeupdated": "1616719404",
+      "timebuildupdated": "1597107414"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "272231": {
+      "manifests": {
+        "public": {
+          "gid": "2393410009430849767",
+          "size": "150816012",
+          "download": "46183872"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7421437",
+        "timeupdated": "1632522041",
+        "timebuildupdated": "1632521953"
+      },
+      "alpha25": {
+        "buildid": "1798455",
+        "timeupdated": "1513637681",
+        "timebuildupdated": "1493857222"
+      },
+      "beta": {
+        "buildid": "7421437",
+        "description": "Windows only",
+        "timeupdated": "1632522032",
+        "timebuildupdated": "1632521953"
+      },
+      "patchtest": {
+        "buildid": "7421437",
+        "timeupdated": "1632522023",
+        "timebuildupdated": "1632521953"
+      },
+      "prevalpha": {
+        "buildid": "5395456",
+        "description": "Previous Alpha",
+        "timeupdated": "1616719404",
+        "timebuildupdated": "1597107414"
+      }
+    }
+  }
+}

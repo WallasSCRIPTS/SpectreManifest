@@ -1,0 +1,109 @@
+{
+  "name": "s&box",
+  "source": "spectre",
+  "changenumber": 40708583,
+  "updated": "2026-11-07T20:59:05.237Z",
+  "branches": {
+    "public": {
+      "buildid": "26418881",
+      "timeupdated": "1793749453",
+      "timebuildupdated": "1793749050"
+    },
+    "modeldoc_managed": {
+      "buildid": "26442695",
+      "description": "experimental - testing only",
+      "timeupdated": "1793827584",
+      "timebuildupdated": "1793827584"
+    },
+    "staging": {
+      "buildid": "26509740",
+      "description": "Bleeding edge builds",
+      "timeupdated": "1794075910",
+      "timebuildupdated": "1794075910"
+    },
+    "animgraph2": {
+      "buildid": "26376517",
+      "description": "experimental - testing only",
+      "timeupdated": "1793613535",
+      "timebuildupdated": "1793613535"
+    },
+    "26.10.02": {
+      "buildid": "25681412",
+      "description": "26.10.02",
+      "timeupdated": "1790958186",
+      "timebuildupdated": "1790957336"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "590831": {
+      "manifests": {
+        "public": {
+          "gid": "5720445435345811785",
+          "size": "4117738281",
+          "download": "2929660832"
+        }
+      }
+    },
+    "590832": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8173637019964181110",
+          "size": "588903136",
+          "download": "245176992"
+        }
+      }
+    },
+    "590833": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5881166251050436575",
+          "size": "2344153803",
+          "download": "396726400"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26418881",
+        "timeupdated": "1793749453",
+        "timebuildupdated": "1793749050"
+      },
+      "modeldoc_managed": {
+        "buildid": "26442695",
+        "description": "experimental - testing only",
+        "timeupdated": "1793827584",
+        "timebuildupdated": "1793827584"
+      },
+      "staging": {
+        "buildid": "26509740",
+        "description": "Bleeding edge builds",
+        "timeupdated": "1794075910",
+        "timebuildupdated": "1794075910"
+      },
+      "animgraph2": {
+        "buildid": "26376517",
+        "description": "experimental - testing only",
+        "timeupdated": "1793613535",
+        "timebuildupdated": "1793613535"
+      },
+      "26.10.02": {
+        "buildid": "25681412",
+        "description": "26.10.02",
+        "timeupdated": "1790958186",
+        "timebuildupdated": "1790957336"
+      }
+    }
+  }
+}

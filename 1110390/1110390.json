@@ -1,0 +1,199 @@
+{
+  "name": "Unturned Dedicated Server",
+  "source": "spectre",
+  "changenumber": 40683156,
+  "updated": "2026-11-07T21:03:23.477Z",
+  "branches": {
+    "public": {
+      "buildid": "26491864",
+      "timeupdated": "1793995603",
+      "timebuildupdated": "1793989576"
+    },
+    "32bit-windows": {
+      "buildid": "9342957",
+      "description": "Archived compatibility version 3.22.14.2",
+      "timeupdated": "1660856942",
+      "timebuildupdated": "1660856942"
+    },
+    "unity-2017.4": {
+      "buildid": "4297942",
+      "description": "Archived compatibility version 3.19.15.0",
+      "timeupdated": "1571413238",
+      "timebuildupdated": "1571334011"
+    },
+    "unity-2018": {
+      "buildid": "5784272",
+      "description": "Archived compatibility version 3.20.13.2",
+      "timeupdated": "1605292945",
+      "timebuildupdated": "1604522685"
+    },
+    "unity-2019": {
+      "buildid": "8781058",
+      "description": "Archived compatibility version 3.22.10.1",
+      "timeupdated": "1654268889",
+      "timebuildupdated": "1653072882"
+    },
+    "unity-2020": {
+      "buildid": "11815168",
+      "description": "Archived compatibility version 3.23.11.1",
+      "timeupdated": "1697221104",
+      "timebuildupdated": "1690578181"
+    },
+    "3.24.5.1": {
+      "buildid": "15449522",
+      "description": "Released 2024-08-21",
+      "timeupdated": "1729178178",
+      "timebuildupdated": "1724254957"
+    },
+    "preview": {
+      "buildid": "26491864",
+      "description": "Public test branch",
+      "timeupdated": "1793989576",
+      "timebuildupdated": "1793989576"
+    },
+    "unity-2022-preview": {
+      "buildid": "20408931",
+      "description": " Testing upgrade to Unity 2022 LTS",
+      "timeupdated": "1760560985",
+      "timebuildupdated": "1760560985"
+    }
+  },
+  "depot": {
+    "1004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7604377918839582995",
+          "size": "67863136",
+          "download": "24251776"
+        }
+      },
+      "depotfromapp": "1007"
+    },
+    "1005": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2135359612286175146",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "depotfromapp": "1007"
+    },
+    "1006": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4559160656493359681",
+          "size": "111284048",
+          "download": "36733840"
+        }
+      },
+      "depotfromapp": "1007"
+    },
+    "1110391": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7841200501700138743",
+          "size": "234393916",
+          "download": "162481344"
+        }
+      }
+    },
+    "1110392": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4745683649546686023",
+          "size": "229764562",
+          "download": "157571072"
+        }
+      }
+    },
+    "1110393": {
+      "manifests": {
+        "public": {
+          "gid": "2570991850433701428",
+          "size": "1555223767",
+          "download": "1032120672"
+        }
+      }
+    },
+    "1110394": {
+      "manifests": {
+        "public": {
+          "gid": "8636200049805339627",
+          "size": "6203037",
+          "download": "364928"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26491864",
+        "timeupdated": "1793995603",
+        "timebuildupdated": "1793989576"
+      },
+      "32bit-windows": {
+        "buildid": "9342957",
+        "description": "Archived compatibility version 3.22.14.2",
+        "timeupdated": "1660856942",
+        "timebuildupdated": "1660856942"
+      },
+      "unity-2017.4": {
+        "buildid": "4297942",
+        "description": "Archived compatibility version 3.19.15.0",
+        "timeupdated": "1571413238",
+        "timebuildupdated": "1571334011"
+      },
+      "unity-2018": {
+        "buildid": "5784272",
+        "description": "Archived compatibility version 3.20.13.2",
+        "timeupdated": "1605292945",
+        "timebuildupdated": "1604522685"
+      },
+      "unity-2019": {
+        "buildid": "8781058",
+        "description": "Archived compatibility version 3.22.10.1",
+        "timeupdated": "1654268889",
+        "timebuildupdated": "1653072882"
+      },
+      "unity-2020": {
+        "buildid": "11815168",
+        "description": "Archived compatibility version 3.23.11.1",
+        "timeupdated": "1697221104",
+        "timebuildupdated": "1690578181"
+      },
+      "3.24.5.1": {
+        "buildid": "15449522",
+        "description": "Released 2024-08-21",
+        "timeupdated": "1729178178",
+        "timebuildupdated": "1724254957"
+      },
+      "preview": {
+        "buildid": "26491864",
+        "description": "Public test branch",
+        "timeupdated": "1793989576",
+        "timebuildupdated": "1793989576"
+      },
+      "unity-2022-preview": {
+        "buildid": "20408931",
+        "description": " Testing upgrade to Unity 2022 LTS",
+        "timeupdated": "1760560985",
+        "timebuildupdated": "1760560985"
+      }
+    }
+  }
+}

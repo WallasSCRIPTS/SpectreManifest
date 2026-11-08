@@ -1,0 +1,73 @@
+{
+  "name": "Stop Sign VR",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:04:08.542Z",
+  "branches": {
+    "public": {
+      "buildid": "8905855",
+      "timeupdated": "1654797948",
+      "timebuildupdated": "1654796706"
+    },
+    "beta": {
+      "buildid": "9508591",
+      "description": "v.0.12.8.2 - Accepts more audio formats + Ctrl-O-O-O to open SteamVR Dashboard",
+      "timeupdated": "1663093706",
+      "timebuildupdated": "1663090180"
+    },
+    "previous_beta": {
+      "buildid": "8659155",
+      "description": "v.0.12.6.10 - Quest RoomId changes",
+      "timeupdated": "1654797699",
+      "timebuildupdated": "1651426859"
+    },
+    "previous_version": {
+      "buildid": "8659155",
+      "description": "v.0.12.6.10 - Quest RoomId changes",
+      "timeupdated": "1654797821",
+      "timebuildupdated": "1651426859"
+    }
+  },
+  "depot": {
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1196451": {
+      "manifests": {
+        "public": {
+          "gid": "5274592362768695309",
+          "size": "27065245",
+          "download": "19337712"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8905855",
+        "timeupdated": "1654797948",
+        "timebuildupdated": "1654796706"
+      },
+      "beta": {
+        "buildid": "9508591",
+        "description": "v.0.12.8.2 - Accepts more audio formats + Ctrl-O-O-O to open SteamVR Dashboard",
+        "timeupdated": "1663093706",
+        "timebuildupdated": "1663090180"
+      },
+      "previous_beta": {
+        "buildid": "8659155",
+        "description": "v.0.12.6.10 - Quest RoomId changes",
+        "timeupdated": "1654797699",
+        "timebuildupdated": "1651426859"
+      },
+      "previous_version": {
+        "buildid": "8659155",
+        "description": "v.0.12.6.10 - Quest RoomId changes",
+        "timeupdated": "1654797821",
+        "timebuildupdated": "1651426859"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Flashout 2",
+  "source": "spectre",
+  "changenumber": 40528161,
+  "updated": "2026-11-07T20:56:29.631Z",
+  "branches": {
+    "public": {
+      "buildid": "9474448",
+      "timeupdated": "1662647834",
+      "timebuildupdated": "1662620650"
+    },
+    "local": {
+      "buildid": "352123",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1407752200"
+    }
+  },
+  "depot": {
+    "298341": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5528037904230896224",
+          "size": "260432225",
+          "download": "114491840"
+        }
+      }
+    },
+    "298342": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6382962595588912894",
+          "size": "307699692",
+          "download": "81380535464"
+        }
+      }
+    },
+    "298343": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7473132681621711552",
+          "size": "374714510",
+          "download": "11340978256"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9474448",
+        "timeupdated": "1662647834",
+        "timebuildupdated": "1662620650"
+      },
+      "local": {
+        "buildid": "352123",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1407752200"
+      }
+    }
+  }
+}

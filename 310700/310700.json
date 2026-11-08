@@ -1,0 +1,70 @@
+{
+  "name": "Super Win the Game",
+  "source": "spectre",
+  "changenumber": 38320691,
+  "updated": "2026-11-07T20:56:34.710Z",
+  "branches": {
+    "public": {
+      "buildid": "5598721",
+      "timeupdated": "1601093979",
+      "timebuildupdated": "1601093254"
+    }
+  },
+  "depot": {
+    "228981": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "310701": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8184720581154183538",
+          "size": "21160262",
+          "download": "2120912"
+        }
+      }
+    },
+    "310702": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4495550790537535704",
+          "size": "26727160",
+          "download": "3496544"
+        }
+      }
+    },
+    "310703": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5886900108771823633",
+          "size": "22701265",
+          "download": "2427472"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5598721",
+        "timeupdated": "1601093979",
+        "timebuildupdated": "1601093254"
+      }
+    }
+  }
+}

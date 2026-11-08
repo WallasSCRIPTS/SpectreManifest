@@ -1,0 +1,76 @@
+{
+  "name": "Noita",
+  "source": "spectre",
+  "changenumber": 40022921,
+  "updated": "2026-11-07T21:01:24.290Z",
+  "branches": {
+    "public": {
+      "buildid": "17130612",
+      "timeupdated": "1737816174",
+      "timebuildupdated": "1737813812"
+    },
+    "update_20240214": {
+      "buildid": "13451050",
+      "description": "Older version of Noita (to help with your old save games)",
+      "timeupdated": "1712588301",
+      "timebuildupdated": "1707890050"
+    },
+    "noitabeta": {
+      "buildid": "17129670",
+      "description": "Beta branch",
+      "timeupdated": "1737803043",
+      "timebuildupdated": "1737802192"
+    },
+    "update_20240812": {
+      "buildid": "15345724",
+      "description": "Older version of Noita (to help with old mods)",
+      "timeupdated": "1737840145",
+      "timebuildupdated": "1723488881"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "881101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1707227655636660075",
+          "size": "1639174567",
+          "download": "1390940496"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17130612",
+        "timeupdated": "1737816174",
+        "timebuildupdated": "1737813812"
+      },
+      "update_20240214": {
+        "buildid": "13451050",
+        "description": "Older version of Noita (to help with your old save games)",
+        "timeupdated": "1712588301",
+        "timebuildupdated": "1707890050"
+      },
+      "noitabeta": {
+        "buildid": "17129670",
+        "description": "Beta branch",
+        "timeupdated": "1737803043",
+        "timebuildupdated": "1737802192"
+      },
+      "update_20240812": {
+        "buildid": "15345724",
+        "description": "Older version of Noita (to help with old mods)",
+        "timeupdated": "1737840145",
+        "timebuildupdated": "1723488881"
+      }
+    }
+  }
+}

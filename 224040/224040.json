@@ -1,0 +1,44 @@
+{
+  "name": "LocoCycle",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:06.074Z",
+  "branches": {
+    "public": {
+      "buildid": "212485",
+      "timebuildupdated": "1394733188"
+    }
+  },
+  "depot": {
+    "224045": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3748998384189175486",
+          "size": "16182816692",
+          "download": "0"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "212485",
+        "timebuildupdated": "1394733188"
+      }
+    }
+  }
+}

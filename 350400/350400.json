@@ -1,0 +1,44 @@
+{
+  "name": "Environmental Station Alpha Demo",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:03.359Z",
+  "branches": {
+    "public": {
+      "buildid": "602241",
+      "timebuildupdated": "1430003942"
+    }
+  },
+  "depot": {
+    "350401": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5208938553759807985",
+          "size": "37569976",
+          "download": "35306272"
+        }
+      }
+    },
+    "350402": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4172941972547907204",
+          "size": "59534888",
+          "download": "58681616"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "602241",
+        "timebuildupdated": "1430003942"
+      }
+    }
+  }
+}

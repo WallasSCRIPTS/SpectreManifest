@@ -1,0 +1,122 @@
+{
+  "name": "Infested Planet",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:01.265Z",
+  "branches": {
+    "public": {
+      "buildid": "2749209",
+      "timeupdated": "1525555713",
+      "timebuildupdated": "1525555393"
+    },
+    "old": {
+      "buildid": "1618528",
+      "description": "Last Patch Version",
+      "timeupdated": "1525538656",
+      "timebuildupdated": "1486579643"
+    },
+    "testing": {
+      "buildid": "6029265",
+      "description": "Public Testing Version",
+      "timeupdated": "1609455914",
+      "timebuildupdated": "1609455801"
+    }
+  },
+  "depot": {
+    "204531": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5921738104024249072",
+          "size": "313193622",
+          "download": "73491280"
+        }
+      }
+    },
+    "204532": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2764536555667398512",
+          "size": "316717656",
+          "download": "73482176"
+        }
+      }
+    },
+    "204533": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3966532919961795420",
+          "size": "71265",
+          "download": "21872"
+        }
+      },
+      "dlcappid": "358020"
+    },
+    "204534": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9051358338432017819",
+          "size": "46482019",
+          "download": "3454176"
+        }
+      },
+      "dlcappid": "529620"
+    },
+    "358020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6535862790061167297",
+          "size": "65424",
+          "download": "21360"
+        }
+      },
+      "dlcappid": "358020"
+    },
+    "529620": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "381598490186719427",
+          "size": "46476178",
+          "download": "3453664"
+        }
+      },
+      "dlcappid": "529620"
+    },
+    "branches": {
+      "public": {
+        "buildid": "2749209",
+        "timeupdated": "1525555713",
+        "timebuildupdated": "1525555393"
+      },
+      "old": {
+        "buildid": "1618528",
+        "description": "Last Patch Version",
+        "timeupdated": "1525538656",
+        "timebuildupdated": "1486579643"
+      },
+      "testing": {
+        "buildid": "6029265",
+        "description": "Public Testing Version",
+        "timeupdated": "1609455914",
+        "timebuildupdated": "1609455801"
+      }
+    }
+  }
+}

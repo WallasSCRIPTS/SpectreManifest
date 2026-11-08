@@ -1,0 +1,89 @@
+{
+  "name": "NITRO GEN OMEGA",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:07:19.689Z",
+  "branches": {
+    "public": {
+      "buildid": "23937946",
+      "timeupdated": "1783784491",
+      "timebuildupdated": "1782505260"
+    },
+    "earlyaccess": {
+      "buildid": "22201651",
+      "description": "The 0.9 branch with the Patriot update before 1.0",
+      "timeupdated": "1772658025",
+      "timebuildupdated": "1772658025"
+    },
+    "permanent-beta": {
+      "buildid": "23937946",
+      "description": "A branch where we'll test things ahead of release!",
+      "timeupdated": "1782505260",
+      "timebuildupdated": "1782505260"
+    },
+    "previous": {
+      "buildid": "23200073",
+      "description": "the previous version of the game",
+      "timeupdated": "1778602761",
+      "timebuildupdated": "1778598968"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2525511": {
+      "manifests": {
+        "public": {
+          "gid": "8788630880643352850",
+          "size": "2401213472",
+          "download": "2134255280"
+        }
+      }
+    },
+    "3782960": {
+      "manifests": {
+        "public": {
+          "gid": "1705370016985156851",
+          "size": "121857717",
+          "download": "112318416"
+        }
+      },
+      "dlcappid": "3782960"
+    },
+    "branches": {
+      "public": {
+        "buildid": "23937946",
+        "timeupdated": "1783784491",
+        "timebuildupdated": "1782505260"
+      },
+      "earlyaccess": {
+        "buildid": "22201651",
+        "description": "The 0.9 branch with the Patriot update before 1.0",
+        "timeupdated": "1772658025",
+        "timebuildupdated": "1772658025"
+      },
+      "permanent-beta": {
+        "buildid": "23937946",
+        "description": "A branch where we'll test things ahead of release!",
+        "timeupdated": "1782505260",
+        "timebuildupdated": "1782505260"
+      },
+      "previous": {
+        "buildid": "23200073",
+        "description": "the previous version of the game",
+        "timeupdated": "1778602761",
+        "timebuildupdated": "1778598968"
+      }
+    }
+  }
+}

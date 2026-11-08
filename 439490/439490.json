@@ -1,0 +1,106 @@
+{
+  "name": "BLUE REVOLVER",
+  "source": "spectre",
+  "changenumber": 40467380,
+  "updated": "2026-11-07T20:57:51.795Z",
+  "branches": {
+    "public": {
+      "buildid": "16616887",
+      "timeupdated": "1733241731",
+      "timebuildupdated": "1733241279"
+    },
+    "1.12": {
+      "buildid": "16412602",
+      "description": "Old pre-DA version",
+      "timeupdated": "1731626334",
+      "timebuildupdated": "1731625881"
+    },
+    "1.51d": {
+      "buildid": "16501676",
+      "description": "November 2024",
+      "timeupdated": "1733239615",
+      "timebuildupdated": "1732287424"
+    },
+    "hautefix": {
+      "buildid": "16648121",
+      "description": "Fix for Haute42 controllers",
+      "timeupdated": "1733428803",
+      "timebuildupdated": "1733428633"
+    }
+  },
+  "depot": {
+    "439491": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2294351241466825511",
+          "size": "1246205769",
+          "download": "1195119920"
+        }
+      }
+    },
+    "439492": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4418773377630782369",
+          "size": "1263362898",
+          "download": "1199876096"
+        }
+      }
+    },
+    "439493": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2583846437361481995",
+          "size": "1249492173",
+          "download": "1195957760"
+        }
+      }
+    },
+    "439494": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3769906124355020964",
+          "size": "1247991113",
+          "download": "1195646624"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16616887",
+        "timeupdated": "1733241731",
+        "timebuildupdated": "1733241279"
+      },
+      "1.12": {
+        "buildid": "16412602",
+        "description": "Old pre-DA version",
+        "timeupdated": "1731626334",
+        "timebuildupdated": "1731625881"
+      },
+      "1.51d": {
+        "buildid": "16501676",
+        "description": "November 2024",
+        "timeupdated": "1733239615",
+        "timebuildupdated": "1732287424"
+      },
+      "hautefix": {
+        "buildid": "16648121",
+        "description": "Fix for Haute42 controllers",
+        "timeupdated": "1733428803",
+        "timebuildupdated": "1733428633"
+      }
+    }
+  }
+}

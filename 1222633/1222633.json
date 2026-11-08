@@ -1,0 +1,73 @@
+{
+  "name": "Flycast",
+  "source": "spectre",
+  "changenumber": 40627142,
+  "updated": "2026-11-06T21:03:41.997Z",
+  "branches": {
+    "public": {
+      "buildid": "20833907",
+      "timeupdated": "1763418489",
+      "timebuildupdated": "1763416569"
+    },
+    "nightly": {
+      "buildid": "26457018",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793879326",
+      "timebuildupdated": "1793879326"
+    }
+  },
+  "depot": {
+    "1222633": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2755225105502663038",
+          "size": "20102625",
+          "download": "5604976"
+        }
+      },
+      "dlcappid": "1222633"
+    },
+    "1790150": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3187456293639613040",
+          "size": "36992385",
+          "download": "5608672"
+        }
+      },
+      "dlcappid": "1222633"
+    },
+    "1790151": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3042163993817374830",
+          "size": "49910361",
+          "download": "8661456"
+        }
+      },
+      "dlcappid": "1222633"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833907",
+        "timeupdated": "1763418489",
+        "timebuildupdated": "1763416569"
+      },
+      "nightly": {
+        "buildid": "26457018",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793879326",
+        "timebuildupdated": "1793879326"
+      }
+    }
+  }
+}

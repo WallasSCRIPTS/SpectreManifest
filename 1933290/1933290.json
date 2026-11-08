@@ -1,0 +1,82 @@
+{
+  "name": "Best Of Eleven",
+  "source": "spectre",
+  "changenumber": 39975724,
+  "updated": "2026-11-06T23:13:35.244Z",
+  "branches": {
+    "public": {
+      "buildid": "26029557",
+      "timeupdated": "1792351063",
+      "timebuildupdated": "1792343979"
+    },
+    "beta": {
+      "buildid": "26029557",
+      "description": "beta test before releases",
+      "timeupdated": "1792343979",
+      "timebuildupdated": "1792343979"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1933291": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3549229019186188724",
+          "size": "833692004",
+          "download": "751574880"
+        }
+      }
+    },
+    "1933292": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "92746519239781713",
+          "size": "868740712",
+          "download": "760048416"
+        }
+      }
+    },
+    "1933293": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1600502504600595788",
+          "size": "932058729",
+          "download": "778688288"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26029557",
+        "timeupdated": "1792351063",
+        "timebuildupdated": "1792343979"
+      },
+      "beta": {
+        "buildid": "26029557",
+        "description": "beta test before releases",
+        "timeupdated": "1792343979",
+        "timebuildupdated": "1792343979"
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Mythic Archive",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:29.836Z",
+  "branches": {
+    "public": {
+      "buildid": "8239161",
+      "timeupdated": "1645366174",
+      "timebuildupdated": "1645366165"
+    },
+    "testing": {
+      "buildid": "7825916",
+      "description": "Testing Branch before deployment",
+      "timeupdated": "1638571524",
+      "timebuildupdated": "1638571513"
+    }
+  },
+  "depot": {
+    "1334471": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "955723295185066222",
+          "size": "630084207",
+          "download": "193119872"
+        }
+      }
+    },
+    "1834270": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4974684234251313036",
+          "size": "36724690",
+          "download": "36562976"
+        }
+      },
+      "dlcappid": "1834270"
+    },
+    "branches": {
+      "public": {
+        "buildid": "8239161",
+        "timeupdated": "1645366174",
+        "timebuildupdated": "1645366165"
+      },
+      "testing": {
+        "buildid": "7825916",
+        "description": "Testing Branch before deployment",
+        "timeupdated": "1638571524",
+        "timebuildupdated": "1638571513"
+      }
+    }
+  }
+}

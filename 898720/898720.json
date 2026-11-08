@@ -1,0 +1,80 @@
+{
+  "name": "Kubifaktorium",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:32.649Z",
+  "branches": {
+    "public": {
+      "buildid": "9097265",
+      "timeupdated": "1660459728",
+      "timebuildupdated": "1657524991"
+    },
+    "beta": {
+      "buildid": "9097265",
+      "timeupdated": "1657524991",
+      "timebuildupdated": "1657524991"
+    },
+    "macos": {
+      "buildid": "5532213",
+      "description": "Compatibility patch",
+      "timeupdated": "1606172247",
+      "timebuildupdated": "1599836847"
+    }
+  },
+  "depot": {
+    "898721": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7542395277995051336",
+          "size": "467959115",
+          "download": "226811488"
+        }
+      }
+    },
+    "898722": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6150611895435318408",
+          "size": "477185567",
+          "download": "227665968"
+        }
+      }
+    },
+    "898723": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8373979989923178321",
+          "size": "335788433",
+          "download": "160439232"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9097265",
+        "timeupdated": "1660459728",
+        "timebuildupdated": "1657524991"
+      },
+      "beta": {
+        "buildid": "9097265",
+        "timeupdated": "1657524991",
+        "timebuildupdated": "1657524991"
+      },
+      "macos": {
+        "buildid": "5532213",
+        "description": "Compatibility patch",
+        "timeupdated": "1606172247",
+        "timebuildupdated": "1599836847"
+      }
+    }
+  }
+}

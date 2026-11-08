@@ -1,0 +1,82 @@
+{
+  "name": "GUN KING",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:17:36.828Z",
+  "branches": {
+    "public": {
+      "buildid": "19889707",
+      "timeupdated": "1757275926",
+      "timebuildupdated": "1757275888"
+    },
+    "beta": {
+      "buildid": "20067969",
+      "description": "Testing future updates.",
+      "timeupdated": "1758484050",
+      "timebuildupdated": "1758484050"
+    },
+    "store": {
+      "buildid": "19889707",
+      "description": "Commercial build",
+      "timeupdated": "1757275888",
+      "timebuildupdated": "1757275888"
+    }
+  },
+  "depot": {
+    "2141811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2473971401352797294",
+          "size": "103322849",
+          "download": "81923760"
+        }
+      }
+    },
+    "2141812": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6356263459553286302",
+          "size": "136644043",
+          "download": "97626128"
+        }
+      }
+    },
+    "2141813": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "978775199252355579",
+          "size": "91694272",
+          "download": "91575744"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19889707",
+        "timeupdated": "1757275926",
+        "timebuildupdated": "1757275888"
+      },
+      "beta": {
+        "buildid": "20067969",
+        "description": "Testing future updates.",
+        "timeupdated": "1758484050",
+        "timebuildupdated": "1758484050"
+      },
+      "store": {
+        "buildid": "19889707",
+        "description": "Commercial build",
+        "timeupdated": "1757275888",
+        "timebuildupdated": "1757275888"
+      }
+    }
+  }
+}

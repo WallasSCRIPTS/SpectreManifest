@@ -1,0 +1,70 @@
+{
+  "name": "The Bard's Tale",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:54.414Z",
+  "branches": {
+    "public": {
+      "buildid": "7828788",
+      "timeupdated": "1638641229",
+      "timebuildupdated": "1638641229"
+    }
+  },
+  "depot": {
+    "41901": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7457128207740512685",
+          "size": "4051889455",
+          "download": "3496436544"
+        }
+      }
+    },
+    "41902": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5577412546042144555",
+          "size": "3583125444",
+          "download": "3124528384"
+        }
+      }
+    },
+    "41903": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5709958786316292242",
+          "size": "3613845896",
+          "download": "3160340400"
+        }
+      }
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "7828788",
+        "timeupdated": "1638641229",
+        "timebuildupdated": "1638641229"
+      }
+    }
+  }
+}

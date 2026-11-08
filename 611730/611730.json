@@ -1,0 +1,68 @@
+{
+  "name": "Galactic Feud",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:14.774Z",
+  "branches": {
+    "public": {
+      "buildid": "2954272",
+      "timeupdated": "1531882037",
+      "timebuildupdated": "1531881835"
+    },
+    "classic": {
+      "buildid": "1976875",
+      "timeupdated": "1508190751",
+      "timebuildupdated": "1500609924"
+    },
+    "testing": {
+      "buildid": "3034937",
+      "description": "Daily updated build that most likely contains bugs and other horrors!",
+      "timeupdated": "1534372441",
+      "timebuildupdated": "1534344499"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "611731": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6136019583554593507",
+          "size": "1885005081",
+          "download": "527254816"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2954272",
+        "timeupdated": "1531882037",
+        "timebuildupdated": "1531881835"
+      },
+      "classic": {
+        "buildid": "1976875",
+        "timeupdated": "1508190751",
+        "timebuildupdated": "1500609924"
+      },
+      "testing": {
+        "buildid": "3034937",
+        "description": "Daily updated build that most likely contains bugs and other horrors!",
+        "timeupdated": "1534372441",
+        "timebuildupdated": "1534344499"
+      }
+    }
+  }
+}

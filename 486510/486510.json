@@ -1,0 +1,55 @@
+{
+  "name": "TOKYO WARFARE",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:12.169Z",
+  "branches": {
+    "public": {
+      "buildid": "2829067",
+      "timeupdated": "1527979302",
+      "timebuildupdated": "1527979104"
+    }
+  },
+  "depot": {
+    "486511": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3290255767697980472",
+          "size": "6221042555",
+          "download": "2187107104"
+        }
+      }
+    },
+    "977391": {
+      "manifests": {
+        "public": {
+          "gid": "846218233691152946",
+          "size": "14786196678",
+          "download": "6202198432"
+        }
+      },
+      "depotfromapp": "977390"
+    },
+    "1055220": {
+      "manifests": {
+        "public": {
+          "gid": "5722165322262358481",
+          "size": "545430467",
+          "download": "228604544"
+        }
+      },
+      "dlcappid": "1055220",
+      "depotfromapp": "977390"
+    },
+    "branches": {
+      "public": {
+        "buildid": "2829067",
+        "timeupdated": "1527979302",
+        "timebuildupdated": "1527979104"
+      }
+    }
+  }
+}

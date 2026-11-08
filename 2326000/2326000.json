@@ -1,0 +1,58 @@
+{
+  "name": "Courier",
+  "source": "spectre",
+  "changenumber": 35945136,
+  "updated": "2026-11-06T23:21:29.694Z",
+  "branches": {
+    "public": {
+      "buildid": "16825550",
+      "timeupdated": "1734813303",
+      "timebuildupdated": "1734813303"
+    }
+  },
+  "depot": {
+    "2326001": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4907466576041618303",
+          "size": "376032925",
+          "download": "162114544"
+        }
+      }
+    },
+    "2326002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6587192293197573127",
+          "size": "300418856",
+          "download": "146337056"
+        }
+      }
+    },
+    "2326003": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6246660866636112672",
+          "size": "294615928",
+          "download": "144369216"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16825550",
+        "timeupdated": "1734813303",
+        "timebuildupdated": "1734813303"
+      }
+    }
+  }
+}

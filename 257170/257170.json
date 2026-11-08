@@ -1,0 +1,140 @@
+{
+  "name": "Rebuild 3: Gangs of Deadsville",
+  "source": "spectre",
+  "changenumber": 40485767,
+  "updated": "2026-11-07T20:56:14.361Z",
+  "branches": {
+    "public": {
+      "buildid": "9222743",
+      "timeupdated": "1659225505",
+      "timebuildupdated": "1659221250"
+    },
+    "1.6.28": {
+      "buildid": "4714802",
+      "description": "Feb 2020 using AIR 33",
+      "timeupdated": "1597985821",
+      "timebuildupdated": "1582661953"
+    },
+    "1.6.31": {
+      "buildid": "5440639",
+      "description": "Aug 2020 v 1.6.31",
+      "timeupdated": "1613194828",
+      "timebuildupdated": "1597983581"
+    },
+    "1.6.40": {
+      "buildid": "6261775",
+      "description": "Feb 2021",
+      "timeupdated": "1659222270",
+      "timebuildupdated": "1613693928"
+    },
+    "testing": {
+      "buildid": "9222743",
+      "description": "Updates a week early",
+      "timeupdated": "1659222229",
+      "timebuildupdated": "1659221250"
+    },
+    "v1.6.14": {
+      "buildid": "1613785",
+      "description": "Feb 2017 using AIR 22",
+      "timeupdated": "1486491995",
+      "timebuildupdated": "1486422201"
+    },
+    "v1.6.18": {
+      "buildid": "1882569",
+      "description": "Jun 2017 using AIR 25",
+      "timeupdated": "1497148192",
+      "timebuildupdated": "1497148068"
+    },
+    "v1.6.8": {
+      "buildid": "1278564",
+      "description": "Aug 2016",
+      "timeupdated": "1485280625",
+      "timebuildupdated": "1471111136"
+    }
+  },
+  "depot": {
+    "257171": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5035605697004178054",
+          "size": "120470082",
+          "download": "105476032"
+        }
+      }
+    },
+    "257172": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8719137174904567233",
+          "size": "136630671",
+          "download": "109198272"
+        }
+      }
+    },
+    "301140": {
+      "manifests": {
+        "public": {
+          "gid": "7208194114251337213",
+          "size": "31308468",
+          "download": "28250224"
+        }
+      },
+      "dlcappid": "301140"
+    },
+    "branches": {
+      "public": {
+        "buildid": "9222743",
+        "timeupdated": "1659225505",
+        "timebuildupdated": "1659221250"
+      },
+      "1.6.28": {
+        "buildid": "4714802",
+        "description": "Feb 2020 using AIR 33",
+        "timeupdated": "1597985821",
+        "timebuildupdated": "1582661953"
+      },
+      "1.6.31": {
+        "buildid": "5440639",
+        "description": "Aug 2020 v 1.6.31",
+        "timeupdated": "1613194828",
+        "timebuildupdated": "1597983581"
+      },
+      "1.6.40": {
+        "buildid": "6261775",
+        "description": "Feb 2021",
+        "timeupdated": "1659222270",
+        "timebuildupdated": "1613693928"
+      },
+      "testing": {
+        "buildid": "9222743",
+        "description": "Updates a week early",
+        "timeupdated": "1659222229",
+        "timebuildupdated": "1659221250"
+      },
+      "v1.6.14": {
+        "buildid": "1613785",
+        "description": "Feb 2017 using AIR 22",
+        "timeupdated": "1486491995",
+        "timebuildupdated": "1486422201"
+      },
+      "v1.6.18": {
+        "buildid": "1882569",
+        "description": "Jun 2017 using AIR 25",
+        "timeupdated": "1497148192",
+        "timebuildupdated": "1497148068"
+      },
+      "v1.6.8": {
+        "buildid": "1278564",
+        "description": "Aug 2016",
+        "timeupdated": "1485280625",
+        "timebuildupdated": "1471111136"
+      }
+    }
+  }
+}

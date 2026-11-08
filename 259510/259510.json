@@ -1,0 +1,144 @@
+{
+  "name": "Shufflepuck Cantina Deluxe",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:14.960Z",
+  "branches": {
+    "public": {
+      "buildid": "461626",
+      "timebuildupdated": "1417616207"
+    },
+    "debugaudio": {
+      "buildid": "467248",
+      "description": "Debug Audio",
+      "timebuildupdated": "1418141100"
+    },
+    "debuggfx1": {
+      "buildid": "153761",
+      "description": "Debug GFX 1",
+      "timebuildupdated": "1386263258"
+    },
+    "debuggfx2": {
+      "buildid": "154690",
+      "description": "Debug GFX 2",
+      "timebuildupdated": "1386412510"
+    },
+    "debuggfx3": {
+      "buildid": "155631",
+      "description": "Debug GFX 3",
+      "timebuildupdated": "1386626606"
+    },
+    "debugnosound": {
+      "buildid": "155434",
+      "description": "Debug Without Sound",
+      "timebuildupdated": "1386604656"
+    },
+    "oculus": {
+      "buildid": "178303",
+      "description": "Oculus VR Demo (w Linux)",
+      "timebuildupdated": "1391083586"
+    },
+    "winopengl": {
+      "buildid": "178310",
+      "description": "Previous build (before Oculus)",
+      "timebuildupdated": "1391083883"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "259511": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7690029632201565610",
+          "size": "82517728",
+          "download": "491639710"
+        }
+      }
+    },
+    "259512": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3137425639417343345",
+          "size": "85505180",
+          "download": "1087416648"
+        }
+      }
+    },
+    "259513": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5658944792552225056",
+          "size": "67722906",
+          "download": "5610520972"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "461626",
+        "timebuildupdated": "1417616207"
+      },
+      "debugaudio": {
+        "buildid": "467248",
+        "description": "Debug Audio",
+        "timebuildupdated": "1418141100"
+      },
+      "debuggfx1": {
+        "buildid": "153761",
+        "description": "Debug GFX 1",
+        "timebuildupdated": "1386263258"
+      },
+      "debuggfx2": {
+        "buildid": "154690",
+        "description": "Debug GFX 2",
+        "timebuildupdated": "1386412510"
+      },
+      "debuggfx3": {
+        "buildid": "155631",
+        "description": "Debug GFX 3",
+        "timebuildupdated": "1386626606"
+      },
+      "debugnosound": {
+        "buildid": "155434",
+        "description": "Debug Without Sound",
+        "timebuildupdated": "1386604656"
+      },
+      "oculus": {
+        "buildid": "178303",
+        "description": "Oculus VR Demo (w Linux)",
+        "timebuildupdated": "1391083586"
+      },
+      "winopengl": {
+        "buildid": "178310",
+        "description": "Previous build (before Oculus)",
+        "timebuildupdated": "1391083883"
+      }
+    }
+  }
+}

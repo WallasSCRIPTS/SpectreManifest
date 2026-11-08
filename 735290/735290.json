@@ -1,0 +1,130 @@
+{
+  "name": "Genesis Noir",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:16.195Z",
+  "branches": {
+    "public": {
+      "buildid": "9109584",
+      "timeupdated": "1657829059",
+      "timebuildupdated": "1657670800"
+    },
+    "beta": {
+      "buildid": "6470284",
+      "description": "Backup",
+      "timeupdated": "1617203950",
+      "timebuildupdated": "1617203950"
+    },
+    "collision_fix": {
+      "buildid": "9109584",
+      "description": "fix for a loading issue in Collision",
+      "timeupdated": "1657670800",
+      "timebuildupdated": "1657670800"
+    },
+    "previous": {
+      "buildid": "6726719",
+      "description": "The previous version of the game",
+      "timeupdated": "1626105645",
+      "timebuildupdated": "1621451457"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "735291": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7370712175545779758",
+          "size": "3765815029",
+          "download": "3504993904"
+        }
+      }
+    },
+    "735292": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8106997911574878736",
+          "size": "8676022469",
+          "download": "5173264608"
+        }
+      }
+    },
+    "1550160": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4467495797446742241",
+          "size": "30565285",
+          "download": "29921152"
+        }
+      },
+      "dlcappid": "1550160"
+    },
+    "1550161": {
+      "manifests": {
+        "public": {
+          "gid": "691860882968654821",
+          "size": "70237600",
+          "download": "67882416"
+        }
+      },
+      "dlcappid": "1550161"
+    },
+    "1550162": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7127850671394424838",
+          "size": "31687134",
+          "download": "31127888"
+        }
+      },
+      "dlcappid": "1550160"
+    },
+    "branches": {
+      "public": {
+        "buildid": "9109584",
+        "timeupdated": "1657829059",
+        "timebuildupdated": "1657670800"
+      },
+      "beta": {
+        "buildid": "6470284",
+        "description": "Backup",
+        "timeupdated": "1617203950",
+        "timebuildupdated": "1617203950"
+      },
+      "collision_fix": {
+        "buildid": "9109584",
+        "description": "fix for a loading issue in Collision",
+        "timeupdated": "1657670800",
+        "timebuildupdated": "1657670800"
+      },
+      "previous": {
+        "buildid": "6726719",
+        "description": "The previous version of the game",
+        "timeupdated": "1626105645",
+        "timebuildupdated": "1621451457"
+      }
+    }
+  }
+}

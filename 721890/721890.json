@@ -1,0 +1,60 @@
+{
+  "name": "ZhanDou",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:07.338Z",
+  "branches": {
+    "public": {
+      "buildid": "2351178",
+      "timeupdated": "1512726174",
+      "timebuildupdated": "1512725716"
+    },
+    "local": {
+      "buildid": "2141962",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1506153380",
+      "timebuildupdated": "1506153380"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "721891": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3631871540083186316",
+          "size": "10349138953",
+          "download": "3390754800"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2351178",
+        "timeupdated": "1512726174",
+        "timebuildupdated": "1512725716"
+      },
+      "local": {
+        "buildid": "2141962",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1506153380",
+        "timebuildupdated": "1506153380"
+      }
+    }
+  }
+}

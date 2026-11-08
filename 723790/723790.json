@@ -1,0 +1,76 @@
+{
+  "name": "The Pirate: Plague of the Dead",
+  "source": "spectre",
+  "changenumber": 40709592,
+  "updated": "2026-11-07T21:00:08.533Z",
+  "branches": {
+    "public": {
+      "buildid": "20383532",
+      "timeupdated": "1760446450",
+      "timebuildupdated": "1760435988"
+    },
+    "ver2.7": {
+      "buildid": "5106741",
+      "description": "compability version 2.7",
+      "timeupdated": "1631652361",
+      "timebuildupdated": "1591045648"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "723791": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4318807274000771391",
+          "size": "166687151",
+          "download": "60695168"
+        }
+      }
+    },
+    "723792": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3719250775603786950",
+          "size": "185372605",
+          "download": "71459360"
+        }
+      }
+    },
+    "723793": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "251373717927334856",
+          "size": "161806769",
+          "download": "58146416"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20383532",
+        "timeupdated": "1760446450",
+        "timebuildupdated": "1760435988"
+      },
+      "ver2.7": {
+        "buildid": "5106741",
+        "description": "compability version 2.7",
+        "timeupdated": "1631652361",
+        "timebuildupdated": "1591045648"
+      }
+    }
+  }
+}

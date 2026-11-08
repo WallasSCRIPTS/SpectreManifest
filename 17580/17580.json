@@ -1,0 +1,89 @@
+{
+  "name": "Dystopia",
+  "source": "spectre",
+  "changenumber": 40710509,
+  "updated": "2026-11-07T20:55:47.012Z",
+  "branches": {
+    "public": {
+      "buildid": "26349019",
+      "timeupdated": "1793469081",
+      "timebuildupdated": "1793468249"
+    },
+    "release_candidate": {
+      "buildid": "26510973",
+      "timeupdated": "1794081959",
+      "timebuildupdated": "1794081959"
+    },
+    "experimental": {
+      "buildid": "24848092",
+      "description": "Playground for significant work",
+      "timeupdated": "1787256345",
+      "timebuildupdated": "1787256345"
+    }
+  },
+  "depot": {
+    "17581": {
+      "manifests": {
+        "public": {
+          "gid": "1673832790838817291",
+          "size": "4719415369",
+          "download": "2153666384"
+        }
+      }
+    },
+    "17582": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2167101076785414633",
+          "size": "59685534",
+          "download": "26123200"
+        }
+      }
+    },
+    "17583": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "932443046188745920",
+          "size": "123874194",
+          "download": "36529600"
+        }
+      }
+    },
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26349019",
+        "timeupdated": "1793469081",
+        "timebuildupdated": "1793468249"
+      },
+      "release_candidate": {
+        "buildid": "26510973",
+        "timeupdated": "1794081959",
+        "timebuildupdated": "1794081959"
+      },
+      "experimental": {
+        "buildid": "24848092",
+        "description": "Playground for significant work",
+        "timeupdated": "1787256345",
+        "timebuildupdated": "1787256345"
+      }
+    }
+  }
+}

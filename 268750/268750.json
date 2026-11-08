@@ -1,0 +1,66 @@
+{
+  "name": "Magicite",
+  "source": "spectre",
+  "changenumber": 34827505,
+  "updated": "2026-11-07T20:56:18.210Z",
+  "branches": {
+    "public": {
+      "buildid": "1311161",
+      "timeupdated": "1472677437",
+      "timebuildupdated": "1472677354"
+    },
+    "beta": {
+      "buildid": "208395",
+      "timebuildupdated": "1394239243"
+    }
+  },
+  "depot": {
+    "268751": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5908306246876234228",
+          "size": "520374254",
+          "download": "303921712"
+        }
+      }
+    },
+    "268752": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2168706182749095841",
+          "size": "536615669",
+          "download": "303324112"
+        }
+      }
+    },
+    "268753": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3179981852413123474",
+          "size": "536492877",
+          "download": "313924912"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1311161",
+        "timeupdated": "1472677437",
+        "timebuildupdated": "1472677354"
+      },
+      "beta": {
+        "buildid": "208395",
+        "timebuildupdated": "1394239243"
+      }
+    }
+  }
+}

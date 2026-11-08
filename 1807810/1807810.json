@@ -1,0 +1,60 @@
+{
+  "name": "The Axis Unseen",
+  "source": "spectre",
+  "changenumber": 39652809,
+  "updated": "2026-11-06T23:11:33.369Z",
+  "branches": {
+    "public": {
+      "buildid": "21609410",
+      "timeupdated": "1769188923",
+      "timebuildupdated": "1769120368"
+    },
+    "local": {
+      "buildid": "12226831",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1695136345",
+      "timebuildupdated": "1695136345"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1807811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1946040114488608160",
+          "size": "26005633049",
+          "download": "24733581840"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21609410",
+        "timeupdated": "1769188923",
+        "timebuildupdated": "1769120368"
+      },
+      "local": {
+        "buildid": "12226831",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1695136345",
+        "timebuildupdated": "1695136345"
+      }
+    }
+  }
+}

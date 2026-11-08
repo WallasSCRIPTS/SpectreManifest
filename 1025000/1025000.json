@@ -1,0 +1,68 @@
+{
+  "name": "Edge of Galaxy",
+  "source": "spectre",
+  "changenumber": 34843977,
+  "updated": "2026-11-07T21:02:34.986Z",
+  "branches": {
+    "public": {
+      "buildid": "7229523",
+      "timeupdated": "1629684929",
+      "timebuildupdated": "1629612535"
+    },
+    "beta": {
+      "buildid": "7229523",
+      "timeupdated": "1629612559",
+      "timebuildupdated": "1629612535"
+    }
+  },
+  "depot": {
+    "1025001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4441081879619053713",
+          "size": "312443212",
+          "download": "142877280"
+        }
+      }
+    },
+    "1025002": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1044975117940106292",
+          "size": "308755550",
+          "download": "142112880"
+        }
+      }
+    },
+    "1025003": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8146959141303281414",
+          "size": "317771607",
+          "download": "142736976"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7229523",
+        "timeupdated": "1629684929",
+        "timebuildupdated": "1629612535"
+      },
+      "beta": {
+        "buildid": "7229523",
+        "timeupdated": "1629612559",
+        "timebuildupdated": "1629612535"
+      }
+    }
+  }
+}

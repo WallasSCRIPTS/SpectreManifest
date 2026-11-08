@@ -1,0 +1,58 @@
+{
+  "name": "Base Defense VR",
+  "source": "spectre",
+  "changenumber": 40619423,
+  "updated": "2026-11-06T21:05:47.411Z",
+  "branches": {
+    "public": {
+      "buildid": "8233490",
+      "timeupdated": "1645226601",
+      "timebuildupdated": "1645226586"
+    },
+    "debug": {
+      "buildid": "10026495",
+      "description": "Enables enhanced logging and log window",
+      "timeupdated": "1669589975",
+      "timebuildupdated": "1669589975"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1507801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2806301099535050188",
+          "size": "14386605752",
+          "download": "12714077600"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8233490",
+        "timeupdated": "1645226601",
+        "timebuildupdated": "1645226586"
+      },
+      "debug": {
+        "buildid": "10026495",
+        "description": "Enables enhanced logging and log window",
+        "timeupdated": "1669589975",
+        "timebuildupdated": "1669589975"
+      }
+    }
+  }
+}

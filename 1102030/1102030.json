@@ -1,0 +1,64 @@
+{
+  "name": "KLAC",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:03:17.662Z",
+  "branches": {
+    "public": {
+      "buildid": "3918496",
+      "timeupdated": "1560509422",
+      "timebuildupdated": "1560509422"
+    }
+  },
+  "depot": {
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1102031": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6813532036682556426",
+          "size": "7226045",
+          "download": "5688096"
+        }
+      }
+    },
+    "1102032": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4663292436832947466",
+          "size": "15429152",
+          "download": "9640288"
+        }
+      }
+    },
+    "1102033": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6255996279053535733",
+          "size": "19028722",
+          "download": "8213824"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3918496",
+        "timeupdated": "1560509422",
+        "timebuildupdated": "1560509422"
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "The Jean-Paul Software Screen Explosion",
+  "source": "spectre",
+  "changenumber": 40624363,
+  "updated": "2026-11-05T14:59:14.243Z",
+  "branches": {
+    "public": {
+      "buildid": "9796739",
+      "timeupdated": "1666715874",
+      "timebuildupdated": "1666715838"
+    },
+    "amd-fixes": {
+      "buildid": "10314822",
+      "description": "potential fixes for AMD cards",
+      "timeupdated": "1673606676",
+      "timebuildupdated": "1673606634"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1631281": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3367694784559664395",
+          "size": "764710188",
+          "download": "385669184"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9796739",
+        "timeupdated": "1666715874",
+        "timebuildupdated": "1666715838"
+      },
+      "amd-fixes": {
+        "buildid": "10314822",
+        "description": "potential fixes for AMD cards",
+        "timeupdated": "1673606676",
+        "timebuildupdated": "1673606634"
+      }
+    }
+  }
+}

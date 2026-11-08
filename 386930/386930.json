@@ -1,0 +1,70 @@
+{
+  "name": "Dragonflight",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T20:57:26.175Z",
+  "branches": {
+    "public": {
+      "buildid": "2043213",
+      "timeupdated": "1502915221",
+      "timebuildupdated": "1502904999"
+    },
+    "legacy_alpha": {
+      "buildid": "1285192",
+      "description": "1.3.0EAα",
+      "timeupdated": "1501027388",
+      "timebuildupdated": "1471464729"
+    },
+    "legacy_game": {
+      "buildid": "1005869",
+      "description": "1.1.0EA",
+      "timeupdated": "1501027348",
+      "timebuildupdated": "1456972000"
+    }
+  },
+  "depot": {
+    "386931": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2026033966240361328",
+          "size": "1564872376",
+          "download": "713110528"
+        }
+      }
+    },
+    "386932": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2844611222307443758",
+          "size": "1529123878",
+          "download": "699136928"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2043213",
+        "timeupdated": "1502915221",
+        "timebuildupdated": "1502904999"
+      },
+      "legacy_alpha": {
+        "buildid": "1285192",
+        "description": "1.3.0EAα",
+        "timeupdated": "1501027388",
+        "timebuildupdated": "1471464729"
+      },
+      "legacy_game": {
+        "buildid": "1005869",
+        "description": "1.1.0EA",
+        "timeupdated": "1501027348",
+        "timebuildupdated": "1456972000"
+      }
+    }
+  }
+}

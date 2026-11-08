@@ -1,0 +1,52 @@
+{
+  "name": "Nightly Maintenance",
+  "source": "spectre",
+  "changenumber": 39973710,
+  "updated": "2026-11-06T23:15:38.572Z",
+  "branches": {
+    "public": {
+      "buildid": "26032523",
+      "timeupdated": "1792355297",
+      "timebuildupdated": "1792355257"
+    },
+    "nm-beta": {
+      "buildid": "26032523",
+      "description": "Nightly Maintenance Beta",
+      "timeupdated": "1792355297",
+      "timebuildupdated": "1792355257"
+    }
+  },
+  "depot": {
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2053051": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1704479169459688866",
+          "size": "1802053475",
+          "download": "607071888"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26032523",
+        "timeupdated": "1792355297",
+        "timebuildupdated": "1792355257"
+      },
+      "nm-beta": {
+        "buildid": "26032523",
+        "description": "Nightly Maintenance Beta",
+        "timeupdated": "1792355297",
+        "timebuildupdated": "1792355257"
+      }
+    }
+  }
+}

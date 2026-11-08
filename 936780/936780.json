@@ -1,0 +1,76 @@
+{
+  "name": "Warplanes: WW2 Dogfight",
+  "source": "spectre",
+  "changenumber": 40638880,
+  "updated": "2026-11-07T21:01:49.165Z",
+  "branches": {
+    "public": {
+      "buildid": "26211494",
+      "timeupdated": "1793002779",
+      "timebuildupdated": "1793000229"
+    },
+    "ver2.1": {
+      "buildid": "5697982",
+      "description": "compability version 2.1",
+      "timeupdated": "1629390575",
+      "timebuildupdated": "1602959119"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "936781": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "954836276832093725",
+          "size": "306138712",
+          "download": "143567152"
+        }
+      }
+    },
+    "936782": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2822943664561058801",
+          "size": "328087089",
+          "download": "153384224"
+        }
+      }
+    },
+    "936783": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7604732678468211290",
+          "size": "301109236",
+          "download": "139747104"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26211494",
+        "timeupdated": "1793002779",
+        "timebuildupdated": "1793000229"
+      },
+      "ver2.1": {
+        "buildid": "5697982",
+        "description": "compability version 2.1",
+        "timeupdated": "1629390575",
+        "timebuildupdated": "1602959119"
+      }
+    }
+  }
+}

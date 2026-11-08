@@ -1,0 +1,67 @@
+{
+  "name": "Pixel Shopkeeper",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:11.609Z",
+  "branches": {
+    "public": {
+      "buildid": "13087521",
+      "timeupdated": "1704323185",
+      "timebuildupdated": "1704322827"
+    },
+    "x86_64": {
+      "buildid": "13094416",
+      "description": "Early previews & beta features",
+      "timeupdated": "1704393954",
+      "timebuildupdated": "1704393940"
+    }
+  },
+  "depot": {
+    "603941": {
+      "manifests": {
+        "public": {
+          "gid": "8973975223552683520",
+          "size": "107100425",
+          "download": "54003872"
+        }
+      }
+    },
+    "603942": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3796817249575341422",
+          "size": "120503965",
+          "download": "56902992"
+        }
+      }
+    },
+    "603943": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2804522695096333281",
+          "size": "121967238",
+          "download": "57916656"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13087521",
+        "timeupdated": "1704323185",
+        "timebuildupdated": "1704322827"
+      },
+      "x86_64": {
+        "buildid": "13094416",
+        "description": "Early previews & beta features",
+        "timeupdated": "1704393954",
+        "timebuildupdated": "1704393940"
+      }
+    }
+  }
+}

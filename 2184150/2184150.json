@@ -1,0 +1,91 @@
+{
+  "name": "Dead Matter",
+  "source": "spectre",
+  "changenumber": 40425114,
+  "updated": "2026-11-06T23:19:28.555Z",
+  "branches": {
+    "public": {
+      "buildid": "13664354",
+      "timeupdated": "1709847201",
+      "timebuildupdated": "1709778840"
+    },
+    "0.11": {
+      "buildid": "21779247",
+      "description": "0.11 (launch build)",
+      "timeupdated": "1770199796",
+      "timebuildupdated": "1770199796"
+    },
+    "automatic-build": {
+      "buildid": "23839214",
+      "description": "builds live from our CI.",
+      "timeupdated": "1781996153",
+      "timebuildupdated": "1781996153"
+    },
+    "automatic-nightly": {
+      "buildid": "21881732",
+      "description": "nightly builds from our CI.",
+      "timeupdated": "1770807457",
+      "timebuildupdated": "1770807457"
+    },
+    "release-staging": {
+      "buildid": "21733717",
+      "description": "initial build for review",
+      "timeupdated": "1769913788",
+      "timebuildupdated": "1769913788"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2184151": {
+      "manifests": {
+        "public": {
+          "gid": "7032576386046463821",
+          "size": "84683131211",
+          "download": "71366434512"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13664354",
+        "timeupdated": "1709847201",
+        "timebuildupdated": "1709778840"
+      },
+      "0.11": {
+        "buildid": "21779247",
+        "description": "0.11 (launch build)",
+        "timeupdated": "1770199796",
+        "timebuildupdated": "1770199796"
+      },
+      "automatic-build": {
+        "buildid": "23839214",
+        "description": "builds live from our CI.",
+        "timeupdated": "1781996153",
+        "timebuildupdated": "1781996153"
+      },
+      "automatic-nightly": {
+        "buildid": "21881732",
+        "description": "nightly builds from our CI.",
+        "timeupdated": "1770807457",
+        "timebuildupdated": "1770807457"
+      },
+      "release-staging": {
+        "buildid": "21733717",
+        "description": "initial build for review",
+        "timeupdated": "1769913788",
+        "timebuildupdated": "1769913788"
+      }
+    }
+  }
+}

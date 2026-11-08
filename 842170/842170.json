@@ -1,0 +1,66 @@
+{
+  "name": "Hyperspace Dogfights",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:06.264Z",
+  "branches": {
+    "public": {
+      "buildid": "15328895",
+      "timeupdated": "1723299107",
+      "timebuildupdated": "1723299107"
+    },
+    "patch_dog_beta": {
+      "buildid": "7555113",
+      "timeupdated": "1634583867",
+      "timebuildupdated": "1634583867"
+    }
+  },
+  "depot": {
+    "842171": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8743323726734816371",
+          "size": "731154480",
+          "download": "532287136"
+        }
+      }
+    },
+    "842172": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8058128388653620853",
+          "size": "750308793",
+          "download": "532206624"
+        }
+      }
+    },
+    "1259270": {
+      "manifests": {
+        "public": {
+          "gid": "3517314329762254728",
+          "size": "138",
+          "download": "160"
+        }
+      },
+      "dlcappid": "1259270"
+    },
+    "branches": {
+      "public": {
+        "buildid": "15328895",
+        "timeupdated": "1723299107",
+        "timebuildupdated": "1723299107"
+      },
+      "patch_dog_beta": {
+        "buildid": "7555113",
+        "timeupdated": "1634583867",
+        "timebuildupdated": "1634583867"
+      }
+    }
+  }
+}

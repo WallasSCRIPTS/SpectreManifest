@@ -1,0 +1,120 @@
+{
+  "name": "InfinitasDM",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:44.837Z",
+  "branches": {
+    "public": {
+      "buildid": "24498832",
+      "timeupdated": "1785523016",
+      "timebuildupdated": "1785523016"
+    },
+    "release-1.8.0": {
+      "buildid": "1967147",
+      "timeupdated": "1500315028",
+      "timebuildupdated": "1500315028"
+    },
+    "release-1.8.5": {
+      "buildid": "4584132",
+      "description": "adding 64bit MacOS support",
+      "timeupdated": "1579365134",
+      "timebuildupdated": "1579365134"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "555181": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8343499017253246720",
+          "size": "231276734",
+          "download": "15520128"
+        }
+      }
+    },
+    "555182": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "665529362273399363",
+          "size": "250558851",
+          "download": "19860432"
+        }
+      }
+    },
+    "682830": {
+      "manifests": {
+        "public": {
+          "gid": "8234766600196160545",
+          "size": "926793",
+          "download": "929728"
+        }
+      },
+      "dlcappid": "682830"
+    },
+    "682840": {
+      "manifests": {
+        "public": {
+          "gid": "3174599660037819769",
+          "size": "990960",
+          "download": "977072"
+        }
+      },
+      "dlcappid": "682840"
+    },
+    "682850": {
+      "manifests": {
+        "public": {
+          "gid": "7668907087696034323",
+          "size": "748037",
+          "download": "746784"
+        }
+      },
+      "dlcappid": "682850"
+    },
+    "5042660": {
+      "manifests": {
+        "public": {
+          "gid": "3884136244506265056",
+          "size": "100060946",
+          "download": "71584704"
+        }
+      },
+      "dlcappid": "5042660"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24498832",
+        "timeupdated": "1785523016",
+        "timebuildupdated": "1785523016"
+      },
+      "release-1.8.0": {
+        "buildid": "1967147",
+        "timeupdated": "1500315028",
+        "timebuildupdated": "1500315028"
+      },
+      "release-1.8.5": {
+        "buildid": "4584132",
+        "description": "adding 64bit MacOS support",
+        "timeupdated": "1579365134",
+        "timebuildupdated": "1579365134"
+      }
+    }
+  }
+}

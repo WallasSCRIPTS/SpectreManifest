@@ -1,0 +1,94 @@
+{
+  "name": "It came from space and ate our brains",
+  "source": "spectre",
+  "changenumber": 37433691,
+  "updated": "2026-11-07T20:56:52.344Z",
+  "branches": {
+    "public": {
+      "buildid": "6123838",
+      "timeupdated": "1611332802",
+      "timebuildupdated": "1611331452"
+    },
+    "beta": {
+      "buildid": "6087627",
+      "description": "Public beta branch",
+      "timeupdated": "1610964190",
+      "timebuildupdated": "1610716324"
+    },
+    "classic": {
+      "buildid": "911519",
+      "description": "Original version of the game",
+      "timeupdated": "1579525716",
+      "timebuildupdated": "1450884730"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "342621": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7918030782125534988",
+          "size": "1131681073",
+          "download": "556385360"
+        }
+      }
+    },
+    "342622": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7932311735168254306",
+          "size": "350862837",
+          "download": "108423680"
+        }
+      }
+    },
+    "342623": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8718732943605128366",
+          "size": "1176324430",
+          "download": "548084896"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6123838",
+        "timeupdated": "1611332802",
+        "timebuildupdated": "1611331452"
+      },
+      "beta": {
+        "buildid": "6087627",
+        "description": "Public beta branch",
+        "timeupdated": "1610964190",
+        "timebuildupdated": "1610716324"
+      },
+      "classic": {
+        "buildid": "911519",
+        "description": "Original version of the game",
+        "timeupdated": "1579525716",
+        "timebuildupdated": "1450884730"
+      }
+    }
+  }
+}

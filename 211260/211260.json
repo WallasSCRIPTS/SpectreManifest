@@ -1,0 +1,90 @@
+{
+  "name": "They Bleed Pixels",
+  "source": "spectre",
+  "changenumber": 40269107,
+  "updated": "2026-11-07T20:56:03.145Z",
+  "branches": {
+    "public": {
+      "buildid": "19191019",
+      "timeupdated": "1752238032",
+      "timebuildupdated": "1752238003"
+    },
+    "linux32": {
+      "buildid": "1020325",
+      "description": "32-bit Linux (unsupported!)",
+      "timeupdated": "1603309873",
+      "timebuildupdated": "1457714292"
+    },
+    "xnaversion": {
+      "buildid": "27459",
+      "timebuildupdated": "1353810077"
+    },
+    "sdl3": {
+      "buildid": "19153222",
+      "description": "SDL 3.0 Testing, UNSTABLE",
+      "timeupdated": "1790789085",
+      "timebuildupdated": "1752018839"
+    }
+  },
+  "depot": {
+    "211261": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3510953833464920734",
+          "size": "359773269",
+          "download": "322646656"
+        }
+      }
+    },
+    "211263": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6094883562503021809",
+          "size": "361017465",
+          "download": "322927152"
+        }
+      }
+    },
+    "211264": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3926365291026859360",
+          "size": "360367717",
+          "download": "322691168"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19191019",
+        "timeupdated": "1752238032",
+        "timebuildupdated": "1752238003"
+      },
+      "linux32": {
+        "buildid": "1020325",
+        "description": "32-bit Linux (unsupported!)",
+        "timeupdated": "1603309873",
+        "timebuildupdated": "1457714292"
+      },
+      "xnaversion": {
+        "buildid": "27459",
+        "timebuildupdated": "1353810077"
+      },
+      "sdl3": {
+        "buildid": "19153222",
+        "description": "SDL 3.0 Testing, UNSTABLE",
+        "timeupdated": "1790789085",
+        "timebuildupdated": "1752018839"
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Draugen",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:33.697Z",
+  "branches": {
+    "public": {
+      "buildid": "3917808",
+      "timeupdated": "1560511432",
+      "timebuildupdated": "1560497296"
+    },
+    "beta": {
+      "buildid": "3917808",
+      "description": "Beta builds",
+      "timeupdated": "1560511391",
+      "timebuildupdated": "1560497296"
+    }
+  },
+  "depot": {
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "770391": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5434647265578506966",
+          "size": "11731592807",
+          "download": "4176280912"
+        }
+      }
+    },
+    "1080001": {
+      "manifests": {
+        "public": {
+          "gid": "6714098557356148277",
+          "size": "53217805",
+          "download": "53305600"
+        }
+      },
+      "dlcappid": "1080001"
+    },
+    "branches": {
+      "public": {
+        "buildid": "3917808",
+        "timeupdated": "1560511432",
+        "timebuildupdated": "1560497296"
+      },
+      "beta": {
+        "buildid": "3917808",
+        "description": "Beta builds",
+        "timeupdated": "1560511391",
+        "timebuildupdated": "1560497296"
+      }
+    }
+  }
+}

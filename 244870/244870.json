@@ -1,0 +1,120 @@
+{
+  "name": "Electronic Super Joy",
+  "source": "spectre",
+  "changenumber": 37432709,
+  "updated": "2026-11-07T20:56:10.630Z",
+  "branches": {
+    "public": {
+      "buildid": "790940",
+      "timebuildupdated": "1443280366"
+    },
+    "local": {
+      "buildid": "163377",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1388383244"
+    },
+    "old": {
+      "buildid": "494170",
+      "timebuildupdated": "1421341551"
+    },
+    "unstable": {
+      "buildid": "790965",
+      "description": "Unstable",
+      "timebuildupdated": "1443283329"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "244871": {
+      "manifests": {
+        "public": {
+          "gid": "1350445942682598097",
+          "size": "408556287",
+          "download": "234657696"
+        }
+      }
+    },
+    "244872": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6526664800628422072",
+          "size": "11958096",
+          "download": "4188352"
+        }
+      }
+    },
+    "244873": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5734611220971377331",
+          "size": "24344984",
+          "download": "6279600"
+        }
+      }
+    },
+    "244874": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "19677270295155674",
+          "size": "19191842",
+          "download": "5958688"
+        }
+      }
+    },
+    "244875": {
+      "manifests": {
+        "public": {
+          "gid": "6545320944222851268",
+          "size": "10955372",
+          "download": "11084000"
+        }
+      }
+    },
+    "271400": {
+      "manifests": {
+        "public": {
+          "gid": "2831228701060599779",
+          "size": "177651783",
+          "download": "176406016"
+        }
+      },
+      "dlcappid": "271400"
+    },
+    "branches": {
+      "public": {
+        "buildid": "790940",
+        "timebuildupdated": "1443280366"
+      },
+      "local": {
+        "buildid": "163377",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1388383244"
+      },
+      "old": {
+        "buildid": "494170",
+        "timebuildupdated": "1421341551"
+      },
+      "unstable": {
+        "buildid": "790965",
+        "description": "Unstable",
+        "timebuildupdated": "1443283329"
+      }
+    }
+  }
+}

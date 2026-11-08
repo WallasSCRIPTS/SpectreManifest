@@ -1,0 +1,124 @@
+{
+  "name": "Moon VR Video Player",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:58.556Z",
+  "branches": {
+    "public": {
+      "buildid": "11808956",
+      "timeupdated": "1690772985",
+      "timebuildupdated": "1690526951"
+    },
+    "alpha": {
+      "buildid": "11808956",
+      "description": "alpha test channel",
+      "timeupdated": "1690530890",
+      "timebuildupdated": "1690526951"
+    },
+    "beta": {
+      "buildid": "11808956",
+      "description": "Pre-release",
+      "timeupdated": "1690530900",
+      "timebuildupdated": "1690526951"
+    },
+    "legacy": {
+      "buildid": "8563013",
+      "description": "legacy channel",
+      "timeupdated": "1650000997",
+      "timebuildupdated": "1650000937"
+    },
+    "legacy2": {
+      "buildid": "9198864",
+      "description": "legacy 2.2.12",
+      "timeupdated": "1672985062",
+      "timebuildupdated": "1658911730"
+    },
+    "test": {
+      "buildid": "10215502",
+      "description": "developer only",
+      "timeupdated": "1672033823",
+      "timebuildupdated": "1672033769"
+    },
+    "dev_pc30": {
+      "buildid": "24543782",
+      "description": "test version pc30",
+      "timeupdated": "1785810466",
+      "timebuildupdated": "1785810465"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "705161": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4479643595097008104",
+          "size": "1316594527",
+          "download": "358470528"
+        }
+      }
+    },
+    "705169": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4994317480261856251",
+          "size": "1316594527",
+          "download": "358471504"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11808956",
+        "timeupdated": "1690772985",
+        "timebuildupdated": "1690526951"
+      },
+      "alpha": {
+        "buildid": "11808956",
+        "description": "alpha test channel",
+        "timeupdated": "1690530890",
+        "timebuildupdated": "1690526951"
+      },
+      "beta": {
+        "buildid": "11808956",
+        "description": "Pre-release",
+        "timeupdated": "1690530900",
+        "timebuildupdated": "1690526951"
+      },
+      "legacy": {
+        "buildid": "8563013",
+        "description": "legacy channel",
+        "timeupdated": "1650000997",
+        "timebuildupdated": "1650000937"
+      },
+      "legacy2": {
+        "buildid": "9198864",
+        "description": "legacy 2.2.12",
+        "timeupdated": "1672985062",
+        "timebuildupdated": "1658911730"
+      },
+      "test": {
+        "buildid": "10215502",
+        "description": "developer only",
+        "timeupdated": "1672033823",
+        "timebuildupdated": "1672033769"
+      },
+      "dev_pc30": {
+        "buildid": "24543782",
+        "description": "test version pc30",
+        "timeupdated": "1785810466",
+        "timebuildupdated": "1785810465"
+      }
+    }
+  }
+}

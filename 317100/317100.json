@@ -1,0 +1,113 @@
+{
+  "name": "Republique",
+  "source": "spectre",
+  "changenumber": 40427083,
+  "updated": "2026-11-07T20:56:38.132Z",
+  "branches": {
+    "public": {
+      "buildid": "20421263",
+      "timeupdated": "1761671408",
+      "timebuildupdated": "1760628995"
+    },
+    "local": {
+      "buildid": "1059192",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1459890628",
+      "timebuildupdated": "1459890628"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "317101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2402190762804758857",
+          "size": "6380729664",
+          "download": "5444197168"
+        }
+      }
+    },
+    "317102": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "646549911969924124",
+          "size": "6456848352",
+          "download": "5492509840"
+        }
+      }
+    },
+    "317103": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "319240": {
+      "manifests": {
+        "public": {
+          "gid": "925772256416422059",
+          "size": "4391787559",
+          "download": "3520292896"
+        }
+      },
+      "dlcappid": "319240"
+    },
+    "319241": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2256930550341287554",
+          "size": "249366682",
+          "download": "105072848"
+        }
+      },
+      "dlcappid": "319240"
+    },
+    "319242": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "979792060345189221",
+          "size": "250958830",
+          "download": "106807728"
+        }
+      },
+      "dlcappid": "319240"
+    },
+    "319243": {
+      "config": {
+        "oslist": "linux"
+      },
+      "dlcappid": "319240"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20421263",
+        "timeupdated": "1761671408",
+        "timebuildupdated": "1760628995"
+      },
+      "local": {
+        "buildid": "1059192",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1459890628",
+        "timebuildupdated": "1459890628"
+      }
+    }
+  }
+}

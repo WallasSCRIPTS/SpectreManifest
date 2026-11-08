@@ -1,0 +1,70 @@
+{
+  "name": "Truck and Logistics Simulator",
+  "source": "spectre",
+  "changenumber": 40551453,
+  "updated": "2026-11-07T21:01:20.504Z",
+  "branches": {
+    "public": {
+      "buildid": "15048534",
+      "timeupdated": "1721131250",
+      "timebuildupdated": "1721127930"
+    },
+    "32bit": {
+      "buildid": "6563901",
+      "description": "Version that works on 32 bit windows installations",
+      "timeupdated": "1618833118",
+      "timebuildupdated": "1618833118"
+    },
+    "nintendo-switch-crossplay": {
+      "buildid": "8474819",
+      "description": "Old version of the game that is compatible with Nintendo Switch cross play",
+      "timeupdated": "1740690217",
+      "timebuildupdated": "1648744748"
+    }
+  },
+  "depot": {
+    "873841": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "82000782646201457",
+          "size": "1801457793",
+          "download": "846409568"
+        }
+      }
+    },
+    "873842": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "363446099620416809",
+          "size": "2362799229",
+          "download": "1163036720"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15048534",
+        "timeupdated": "1721131250",
+        "timebuildupdated": "1721127930"
+      },
+      "32bit": {
+        "buildid": "6563901",
+        "description": "Version that works on 32 bit windows installations",
+        "timeupdated": "1618833118",
+        "timebuildupdated": "1618833118"
+      },
+      "nintendo-switch-crossplay": {
+        "buildid": "8474819",
+        "description": "Old version of the game that is compatible with Nintendo Switch cross play",
+        "timeupdated": "1740690217",
+        "timebuildupdated": "1648744748"
+      }
+    }
+  }
+}

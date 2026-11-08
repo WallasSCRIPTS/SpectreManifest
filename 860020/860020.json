@@ -1,0 +1,64 @@
+{
+  "name": "Exfil",
+  "source": "spectre",
+  "changenumber": 40612841,
+  "updated": "2026-11-07T21:01:13.966Z",
+  "branches": {
+    "public": {
+      "buildid": "26370137",
+      "timeupdated": "1793585165",
+      "timebuildupdated": "1793584663"
+    },
+    "public-testing": {
+      "buildid": "26370137",
+      "description": "Public access to the latest features for testing",
+      "timeupdated": "1793584720",
+      "timebuildupdated": "1793584663"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "860021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5078661144339911463",
+          "size": "15460181374",
+          "download": "11881046800"
+        }
+      }
+    },
+    "3370650": {
+      "dlcappid": "3370650"
+    },
+    "4246801": {
+      "dlcappid": "4246800"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26370137",
+        "timeupdated": "1793585165",
+        "timebuildupdated": "1793584663"
+      },
+      "public-testing": {
+        "buildid": "26370137",
+        "description": "Public access to the latest features for testing",
+        "timeupdated": "1793584720",
+        "timebuildupdated": "1793584663"
+      }
+    }
+  }
+}

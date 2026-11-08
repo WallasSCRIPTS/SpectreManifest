@@ -1,0 +1,94 @@
+{
+  "name": "No Plan B",
+  "source": "spectre",
+  "changenumber": 38489859,
+  "updated": "2026-11-06T21:04:02.680Z",
+  "branches": {
+    "public": {
+      "buildid": "19445194",
+      "timeupdated": "1754063953",
+      "timebuildupdated": "1754056661"
+    },
+    "test": {
+      "buildid": "20692594",
+      "description": "Test branch",
+      "timeupdated": "1762423895",
+      "timebuildupdated": "1762423826"
+    },
+    "beta11": {
+      "buildid": "11640213",
+      "description": "Beta 11 legacy branch\t",
+      "timeupdated": "1703162649",
+      "timebuildupdated": "1688649487"
+    },
+    "beta14": {
+      "buildid": "12849749",
+      "description": "Beta 14 legacy branch\t",
+      "timeupdated": "1703162671",
+      "timebuildupdated": "1701432826"
+    }
+  },
+  "depot": {
+    "1269021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1899601295071259410",
+          "size": "1351794699",
+          "download": "478622688"
+        }
+      }
+    },
+    "1269022": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4940908149698071686",
+          "size": "1385541869",
+          "download": "488384448"
+        }
+      }
+    },
+    "1269023": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7052996468511459314",
+          "size": "1410562483",
+          "download": "487138048"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19445194",
+        "timeupdated": "1754063953",
+        "timebuildupdated": "1754056661"
+      },
+      "test": {
+        "buildid": "20692594",
+        "description": "Test branch",
+        "timeupdated": "1762423895",
+        "timebuildupdated": "1762423826"
+      },
+      "beta11": {
+        "buildid": "11640213",
+        "description": "Beta 11 legacy branch\t",
+        "timeupdated": "1703162649",
+        "timebuildupdated": "1688649487"
+      },
+      "beta14": {
+        "buildid": "12849749",
+        "description": "Beta 14 legacy branch\t",
+        "timeupdated": "1703162671",
+        "timebuildupdated": "1701432826"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "VRChat",
+  "source": "spectre",
+  "changenumber": 40654958,
+  "updated": "2026-11-07T20:57:51.235Z",
+  "branches": {
+    "public": {
+      "buildid": "26309255",
+      "timeupdated": "1793312041",
+      "timebuildupdated": "1793312041"
+    },
+    "open-beta": {
+      "buildid": "26307424",
+      "description": "Open Beta",
+      "timeupdated": "1793312025",
+      "timebuildupdated": "1793305901"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "438101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6059614847633859337",
+          "size": "1237023694",
+          "download": "359720096"
+        }
+      }
+    },
+    "438102": {
+      "config": {
+        "oslist": "android"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3890349135434461805",
+          "size": "371352209",
+          "download": "356163888"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26309255",
+        "timeupdated": "1793312041",
+        "timebuildupdated": "1793312041"
+      },
+      "open-beta": {
+        "buildid": "26307424",
+        "description": "Open Beta",
+        "timeupdated": "1793312025",
+        "timebuildupdated": "1793305901"
+      }
+    }
+  }
+}

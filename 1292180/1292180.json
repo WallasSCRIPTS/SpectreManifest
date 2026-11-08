@@ -1,0 +1,67 @@
+{
+  "name": "Krush Kill 'N Destroy 2: Krossfire",
+  "source": "spectre",
+  "changenumber": 39758525,
+  "updated": "2026-11-06T21:04:12.958Z",
+  "branches": {
+    "public": {
+      "buildid": "24937581",
+      "timeupdated": "1787695485",
+      "timebuildupdated": "1787695355"
+    },
+    "legacy": {
+      "buildid": "24681689",
+      "description": "1998 release",
+      "timeupdated": "1786489716",
+      "timebuildupdated": "1786489445"
+    },
+    "open-beta": {
+      "buildid": "25893633",
+      "description": "Open Beta",
+      "timeupdated": "1791844212",
+      "timebuildupdated": "1791844029"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1292181": {
+      "manifests": {
+        "public": {
+          "gid": "5583228181441097434",
+          "size": "1934884229",
+          "download": "1368413632"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24937581",
+        "timeupdated": "1787695485",
+        "timebuildupdated": "1787695355"
+      },
+      "legacy": {
+        "buildid": "24681689",
+        "description": "1998 release",
+        "timeupdated": "1786489716",
+        "timebuildupdated": "1786489445"
+      },
+      "open-beta": {
+        "buildid": "25893633",
+        "description": "Open Beta",
+        "timeupdated": "1791844212",
+        "timebuildupdated": "1791844029"
+      }
+    }
+  }
+}

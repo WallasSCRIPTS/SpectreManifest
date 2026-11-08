@@ -1,0 +1,139 @@
+{
+  "name": "Quiplash",
+  "source": "spectre",
+  "changenumber": 40689304,
+  "updated": "2026-11-07T20:57:04.126Z",
+  "branches": {
+    "public": {
+      "buildid": "15292788",
+      "timeupdated": "1723047104",
+      "timebuildupdated": "1723047104"
+    },
+    "linux-beta": {
+      "buildid": "7667370",
+      "description": "Linux beta branch",
+      "timeupdated": "1636164279",
+      "timebuildupdated": "1636164279"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "351511": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "303797384544699849",
+          "size": "107955759",
+          "download": "75592224"
+        }
+      }
+    },
+    "351512": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6727841938987254954",
+          "size": "122187327",
+          "download": "76053024"
+        }
+      }
+    },
+    "351513": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8973703727337350299",
+          "size": "46325584",
+          "download": "13134480"
+        }
+      }
+    },
+    "351514": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3721364626756268765",
+          "size": "16637464",
+          "download": "9470880"
+        }
+      }
+    },
+    "351515": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2290153183659963409",
+          "size": "20800264",
+          "download": "11119264"
+        }
+      }
+    },
+    "359570": {
+      "manifests": {
+        "public": {
+          "gid": "3791448555239228980",
+          "size": "3449462",
+          "download": "3329152"
+        }
+      },
+      "dlcappid": "359570"
+    },
+    "371860": {
+      "manifests": {
+        "public": {
+          "gid": "356686679486390573",
+          "size": "342254",
+          "download": "334752"
+        }
+      },
+      "dlcappid": "371860"
+    },
+    "2828508": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5145691608909662874",
+          "size": "2021",
+          "download": "848"
+        }
+      },
+      "depotfromapp": "2828500"
+    },
+    "branches": {
+      "public": {
+        "buildid": "15292788",
+        "timeupdated": "1723047104",
+        "timebuildupdated": "1723047104"
+      },
+      "linux-beta": {
+        "buildid": "7667370",
+        "description": "Linux beta branch",
+        "timeupdated": "1636164279",
+        "timebuildupdated": "1636164279"
+      }
+    }
+  }
+}

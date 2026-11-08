@@ -1,0 +1,70 @@
+{
+  "name": "Rustler",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:07.274Z",
+  "branches": {
+    "public": {
+      "buildid": "16473888",
+      "timeupdated": "1732195802",
+      "timebuildupdated": "1732114407"
+    },
+    "open_fresh_build": {
+      "buildid": "7770475",
+      "description": "If you prefer fresh builds, and you don't mind risking the stability.",
+      "timeupdated": "1637773242",
+      "timebuildupdated": "1637761018"
+    },
+    "steamdeck_test": {
+      "buildid": "8394364",
+      "description": "Steam Deck testing",
+      "timeupdated": "1647788199",
+      "timebuildupdated": "1647571222"
+    }
+  },
+  "depot": {
+    "844261": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7698605529541794309",
+          "size": "4880315282",
+          "download": "2109170688"
+        }
+      }
+    },
+    "844262": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "959906961750161552",
+          "size": "4764563083",
+          "download": "2007950448"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16473888",
+        "timeupdated": "1732195802",
+        "timebuildupdated": "1732114407"
+      },
+      "open_fresh_build": {
+        "buildid": "7770475",
+        "description": "If you prefer fresh builds, and you don't mind risking the stability.",
+        "timeupdated": "1637773242",
+        "timebuildupdated": "1637761018"
+      },
+      "steamdeck_test": {
+        "buildid": "8394364",
+        "description": "Steam Deck testing",
+        "timeupdated": "1647788199",
+        "timebuildupdated": "1647571222"
+      }
+    }
+  }
+}

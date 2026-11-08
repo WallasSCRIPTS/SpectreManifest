@@ -1,0 +1,70 @@
+{
+  "name": "Ride with The Reaper",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:02:50.874Z",
+  "branches": {
+    "public": {
+      "buildid": "3814521",
+      "timeupdated": "1557571738",
+      "timebuildupdated": "1557571737"
+    },
+    "local": {
+      "buildid": "3713024",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1554479036",
+      "timebuildupdated": "1554479036"
+    }
+  },
+  "depot": {
+    "1058571": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2863144657387535396",
+          "size": "89832260",
+          "download": "63485760"
+        }
+      }
+    },
+    "1058573": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4829168738836203577",
+          "size": "98090277",
+          "download": "65322896"
+        }
+      }
+    },
+    "1059610": {
+      "manifests": {
+        "public": {
+          "gid": "2515822820777750535",
+          "size": "59729753",
+          "download": "56324832"
+        }
+      },
+      "dlcappid": "1059610"
+    },
+    "branches": {
+      "public": {
+        "buildid": "3814521",
+        "timeupdated": "1557571738",
+        "timebuildupdated": "1557571737"
+      },
+      "local": {
+        "buildid": "3713024",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1554479036",
+        "timebuildupdated": "1554479036"
+      }
+    }
+  }
+}

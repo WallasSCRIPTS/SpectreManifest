@@ -1,0 +1,58 @@
+{
+  "name": "Fadeout: Underground",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:19.539Z",
+  "branches": {
+    "public": {
+      "buildid": "22257850",
+      "timeupdated": "1773035005",
+      "timebuildupdated": "1773034959"
+    },
+    "sigma": {
+      "buildid": "22257850",
+      "description": "Public Testing",
+      "timeupdated": "1773034959",
+      "timebuildupdated": "1773034959"
+    }
+  },
+  "depot": {
+    "1306571": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "811659426161693401",
+          "size": "3418036758",
+          "download": "3317813136"
+        }
+      }
+    },
+    "1306572": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4740141268361196521",
+          "size": "3479071722",
+          "download": "3326902144"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22257850",
+        "timeupdated": "1773035005",
+        "timebuildupdated": "1773034959"
+      },
+      "sigma": {
+        "buildid": "22257850",
+        "description": "Public Testing",
+        "timeupdated": "1773034959",
+        "timebuildupdated": "1773034959"
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Paperback Adventures",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:17:31.193Z",
+  "branches": {
+    "public": {
+      "buildid": "19236470",
+      "timeupdated": "1752618535",
+      "timebuildupdated": "1752618535"
+    },
+    "mac_test": {
+      "buildid": "11372810",
+      "description": "Mac",
+      "timeupdated": "1685642722",
+      "timebuildupdated": "1685642722"
+    },
+    "beta": {
+      "buildid": "14729910",
+      "description": "beta branch",
+      "timeupdated": "1718471100",
+      "timebuildupdated": "1718471087"
+    }
+  },
+  "depot": {
+    "2095081": {
+      "manifests": {
+        "public": {
+          "gid": "7842380123094588023",
+          "size": "1346432456",
+          "download": "376441072"
+        }
+      }
+    },
+    "2095082": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5777661902895085981",
+          "size": "1356182755",
+          "download": "378311008"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19236470",
+        "timeupdated": "1752618535",
+        "timebuildupdated": "1752618535"
+      },
+      "mac_test": {
+        "buildid": "11372810",
+        "description": "Mac",
+        "timeupdated": "1685642722",
+        "timebuildupdated": "1685642722"
+      },
+      "beta": {
+        "buildid": "14729910",
+        "description": "beta branch",
+        "timeupdated": "1718471100",
+        "timebuildupdated": "1718471087"
+      }
+    }
+  }
+}

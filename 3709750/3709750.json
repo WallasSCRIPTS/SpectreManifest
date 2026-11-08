@@ -1,0 +1,60 @@
+{
+  "name": "100 Trials",
+  "source": "spectre",
+  "changenumber": 34973331,
+  "updated": "2026-11-04T23:24:42.983Z",
+  "branches": {
+    "public": {
+      "buildid": "19124803",
+      "timeupdated": "1751830825",
+      "timebuildupdated": "1751830806"
+    },
+    "local": {
+      "buildid": "18306675",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1746083246",
+      "timebuildupdated": "1746083246"
+    }
+  },
+  "depot": {
+    "3709751": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6693630082914327220",
+          "size": "320115414",
+          "download": "173056208"
+        }
+      }
+    },
+    "3709752": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5103731454912661975",
+          "size": "349088937",
+          "download": "176078832"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19124803",
+        "timeupdated": "1751830825",
+        "timebuildupdated": "1751830806"
+      },
+      "local": {
+        "buildid": "18306675",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1746083246",
+        "timebuildupdated": "1746083246"
+      }
+    }
+  }
+}

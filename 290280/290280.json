@@ -1,0 +1,64 @@
+{
+  "name": "Volt",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:25.648Z",
+  "branches": {
+    "public": {
+      "buildid": "941786",
+      "timebuildupdated": "1453414329"
+    },
+    "test": {
+      "buildid": "935993",
+      "timebuildupdated": "1453121018"
+    }
+  },
+  "depot": {
+    "290281": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2880911474701519824",
+          "size": "109696768",
+          "download": "41562848"
+        }
+      }
+    },
+    "290282": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2745724246552835675",
+          "size": "137507236",
+          "download": "50061360"
+        }
+      }
+    },
+    "290283": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3679667636847219550",
+          "size": "138352223",
+          "download": "49682880"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "941786",
+        "timebuildupdated": "1453414329"
+      },
+      "test": {
+        "buildid": "935993",
+        "timebuildupdated": "1453121018"
+      }
+    }
+  }
+}

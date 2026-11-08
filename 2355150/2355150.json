@@ -1,0 +1,94 @@
+{
+  "name": "Mudborne",
+  "source": "spectre",
+  "changenumber": 40033717,
+  "updated": "2026-11-06T23:23:18.570Z",
+  "branches": {
+    "public": {
+      "buildid": "24649183",
+      "timeupdated": "1786350321",
+      "timebuildupdated": "1786350263"
+    },
+    "last_patch": {
+      "buildid": "24147526",
+      "description": "This branch will always contain the last update that was released",
+      "timeupdated": "1783690192",
+      "timebuildupdated": "1783690167"
+    },
+    "preview_patch": {
+      "buildid": "25075257",
+      "description": "This branch will sometimes contain the next update due to be released",
+      "timeupdated": "1788336565",
+      "timebuildupdated": "1788336562"
+    }
+  },
+  "depot": {
+    "2355151": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6551739831514263555",
+          "size": "117963813",
+          "download": "97641152"
+        }
+      }
+    },
+    "2355152": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1095537910735298095",
+          "size": "98322310",
+          "download": "90747232"
+        }
+      }
+    },
+    "2355153": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6933296710634123994",
+          "size": "124075885",
+          "download": "97955680"
+        }
+      }
+    },
+    "2355154": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "357116944259865506",
+          "size": "117936361",
+          "download": "97457328"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24649183",
+        "timeupdated": "1786350321",
+        "timebuildupdated": "1786350263"
+      },
+      "last_patch": {
+        "buildid": "24147526",
+        "description": "This branch will always contain the last update that was released",
+        "timeupdated": "1783690192",
+        "timebuildupdated": "1783690167"
+      },
+      "preview_patch": {
+        "buildid": "25075257",
+        "description": "This branch will sometimes contain the next update due to be released",
+        "timeupdated": "1788336565",
+        "timebuildupdated": "1788336562"
+      }
+    }
+  }
+}

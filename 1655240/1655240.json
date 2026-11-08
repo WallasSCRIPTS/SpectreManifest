@@ -1,0 +1,344 @@
+{
+  "name": "Please Be Happy Demo",
+  "source": "spectre",
+  "changenumber": 36850718,
+  "updated": "2026-11-05T14:59:17.084Z",
+  "branches": {
+    "public": {
+      "buildid": "23796645",
+      "timeupdated": "1782442356",
+      "timebuildupdated": "1781761253"
+    },
+    "renpy": {
+      "buildid": "20331006",
+      "description": "Ren'Py builds. (※ Save data from Unity versions will not work.)",
+      "timeupdated": "1760067451",
+      "timebuildupdated": "1760067273"
+    },
+    "downgrade-2.0.5-unity": {
+      "buildid": "22881268",
+      "description": "Downgrades to 2.0.5 (Unity). (※ Newer save data may not work correctly.)",
+      "timeupdated": "1776755919",
+      "timebuildupdated": "1776754803"
+    },
+    "downgrade-2.0.4-unity": {
+      "buildid": "22495333",
+      "description": "Downgrades to 2.0.4 (Unity). (※ Newer save data may not work correctly.)",
+      "timeupdated": "1775063307",
+      "timebuildupdated": "1774429832"
+    },
+    "downgrade-2.0.3-unity": {
+      "buildid": "22065455",
+      "description": "Downgrades to 2.0.3 (Unity). (※ Newer save data may not work correctly.)",
+      "timeupdated": "1774409448",
+      "timebuildupdated": "1771896456"
+    },
+    "downgrade-2.0.2-unity": {
+      "buildid": "21700214",
+      "description": "Downgrades to 2.0.2 (Unity). (※ Newer save data may not work correctly.)",
+      "timeupdated": "1770693481",
+      "timebuildupdated": "1769694956"
+    },
+    "downgrade-2.0.1-unity": {
+      "buildid": "20301184",
+      "description": "Downgrades to 2.0.1 (Unity). (※ Newer save data may not work correctly.)",
+      "timeupdated": "1769694055",
+      "timebuildupdated": "1759918266"
+    },
+    "downgrade-2.0-unity": {
+      "buildid": "20296074",
+      "description": "Downgrades to 2.0 (Unity). Downgrades to 2.0.1 (Unity). (※ Newer save data may not work correctly.)",
+      "timeupdated": "1759926484",
+      "timebuildupdated": "1759889914"
+    },
+    "downgrade-0.2-renpy": {
+      "buildid": "20331006",
+      "description": "Downgrades to 0.2 (Ren'Py). (※ Save data from Unity versions will not work.)",
+      "timeupdated": "1760067460",
+      "timebuildupdated": "1760067273"
+    }
+  },
+  "depot": {
+    "1655241": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5494018357470766895",
+          "size": "85",
+          "download": "128"
+        }
+      }
+    },
+    "1655242": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6938986744177842856",
+          "size": "85",
+          "download": "128"
+        }
+      }
+    },
+    "1655243": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6185502676581930240",
+          "size": "4563106730",
+          "download": "3816251056"
+        }
+      }
+    },
+    "1655244": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7748808511610487414",
+          "size": "4193625285",
+          "download": "3582202048"
+        }
+      }
+    },
+    "1655245": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4013322353718030781",
+          "size": "4542783456",
+          "download": "3810930880"
+        }
+      }
+    },
+    "1655246": {
+      "manifests": {
+        "public": {
+          "gid": "5151174135492522312",
+          "size": "85",
+          "download": "128"
+        }
+      }
+    },
+    "1655247": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4166270098770444938",
+          "size": "4542238985",
+          "download": "3808892288"
+        }
+      }
+    },
+    "1655248": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7317871741912516313",
+          "size": "4172029145",
+          "download": "3579311808"
+        }
+      }
+    },
+    "1655249": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2085303734614699177",
+          "size": "4163484733",
+          "download": "3606488288"
+        }
+      }
+    },
+    "2226572": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3439619371073167248",
+          "size": "4171488248",
+          "download": "3576777008"
+        }
+      }
+    },
+    "4458710": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "929888376981759651",
+          "size": "4563106730",
+          "download": "3816251040"
+        }
+      }
+    },
+    "4458711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5550480840297902696",
+          "size": "4542783456",
+          "download": "3810930880"
+        }
+      }
+    },
+    "4458712": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4524621117680452911",
+          "size": "4542238985",
+          "download": "3808892640"
+        }
+      }
+    },
+    "4458713": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8817838732815863125",
+          "size": "4563106730",
+          "download": "3816497776"
+        }
+      }
+    },
+    "4458714": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "609323833156244844",
+          "size": "4542783456",
+          "download": "3813024864"
+        }
+      }
+    },
+    "4458715": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6177751836151222412",
+          "size": "4542238985",
+          "download": "3808892656"
+        }
+      }
+    },
+    "4458716": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7199495556448056031",
+          "size": "4532980250",
+          "download": "3806536224"
+        }
+      }
+    },
+    "4458717": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7198845539558439714",
+          "size": "4532980250",
+          "download": "3805762112"
+        }
+      }
+    },
+    "4458718": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1145557647765591282",
+          "size": "4532980250",
+          "download": "3806795200"
+        }
+      }
+    },
+    "4458719": {},
+    "branches": {
+      "public": {
+        "buildid": "23796645",
+        "timeupdated": "1782442356",
+        "timebuildupdated": "1781761253"
+      },
+      "renpy": {
+        "buildid": "20331006",
+        "description": "Ren'Py builds. (※ Save data from Unity versions will not work.)",
+        "timeupdated": "1760067451",
+        "timebuildupdated": "1760067273"
+      },
+      "downgrade-2.0.5-unity": {
+        "buildid": "22881268",
+        "description": "Downgrades to 2.0.5 (Unity). (※ Newer save data may not work correctly.)",
+        "timeupdated": "1776755919",
+        "timebuildupdated": "1776754803"
+      },
+      "downgrade-2.0.4-unity": {
+        "buildid": "22495333",
+        "description": "Downgrades to 2.0.4 (Unity). (※ Newer save data may not work correctly.)",
+        "timeupdated": "1775063307",
+        "timebuildupdated": "1774429832"
+      },
+      "downgrade-2.0.3-unity": {
+        "buildid": "22065455",
+        "description": "Downgrades to 2.0.3 (Unity). (※ Newer save data may not work correctly.)",
+        "timeupdated": "1774409448",
+        "timebuildupdated": "1771896456"
+      },
+      "downgrade-2.0.2-unity": {
+        "buildid": "21700214",
+        "description": "Downgrades to 2.0.2 (Unity). (※ Newer save data may not work correctly.)",
+        "timeupdated": "1770693481",
+        "timebuildupdated": "1769694956"
+      },
+      "downgrade-2.0.1-unity": {
+        "buildid": "20301184",
+        "description": "Downgrades to 2.0.1 (Unity). (※ Newer save data may not work correctly.)",
+        "timeupdated": "1769694055",
+        "timebuildupdated": "1759918266"
+      },
+      "downgrade-2.0-unity": {
+        "buildid": "20296074",
+        "description": "Downgrades to 2.0 (Unity). Downgrades to 2.0.1 (Unity). (※ Newer save data may not work correctly.)",
+        "timeupdated": "1759926484",
+        "timebuildupdated": "1759889914"
+      },
+      "downgrade-0.2-renpy": {
+        "buildid": "20331006",
+        "description": "Downgrades to 0.2 (Ren'Py). (※ Save data from Unity versions will not work.)",
+        "timeupdated": "1760067460",
+        "timebuildupdated": "1760067273"
+      }
+    }
+  }
+}

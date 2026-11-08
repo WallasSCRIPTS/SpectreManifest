@@ -1,0 +1,83 @@
+{
+  "name": "Dual Souls: The Last Bearer",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:08.850Z",
+  "branches": {
+    "public": {
+      "buildid": "23839504",
+      "timeupdated": "1782036755",
+      "timebuildupdated": "1781998913"
+    },
+    "beta": {
+      "buildid": "12918696",
+      "description": "Open Beta Test",
+      "timeupdated": "1702213844",
+      "timebuildupdated": "1702119888"
+    }
+  },
+  "depot": {
+    "361101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1248713527563351087",
+          "size": "1400142071",
+          "download": "561014624"
+        }
+      }
+    },
+    "361102": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1659400190853634450",
+          "size": "1506052354",
+          "download": "518278960"
+        }
+      }
+    },
+    "361103": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4889432706598462467",
+          "size": "1553362938",
+          "download": "519253776"
+        }
+      }
+    },
+    "1125120": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "724181318676481369",
+          "size": "276357021",
+          "download": "150212784"
+        }
+      },
+      "dlcappid": "1125120"
+    },
+    "branches": {
+      "public": {
+        "buildid": "23839504",
+        "timeupdated": "1782036755",
+        "timebuildupdated": "1781998913"
+      },
+      "beta": {
+        "buildid": "12918696",
+        "description": "Open Beta Test",
+        "timeupdated": "1702213844",
+        "timebuildupdated": "1702119888"
+      }
+    }
+  }
+}

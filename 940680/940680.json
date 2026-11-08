@@ -1,0 +1,82 @@
+{
+  "name": "The Textorcist: The Story of Ray Bibbia",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:51.027Z",
+  "branches": {
+    "public": {
+      "buildid": "19467525",
+      "timeupdated": "1754642921",
+      "timebuildupdated": "1754297657"
+    },
+    "no_internet_testing": {
+      "buildid": "10146741",
+      "description": "For testing the new build without leaderboard calls",
+      "timeupdated": "1671030175",
+      "timebuildupdated": "1671029876"
+    },
+    "fixes": {
+      "buildid": "17182600",
+      "description": "Branch for testing fixes",
+      "timeupdated": "1738230840",
+      "timebuildupdated": "1738230840"
+    }
+  },
+  "depot": {
+    "940681": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "199991155481994377",
+          "size": "536929672",
+          "download": "459090752"
+        }
+      }
+    },
+    "940682": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2135108313069957481",
+          "size": "552487877",
+          "download": "463443824"
+        }
+      }
+    },
+    "940683": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5823941701626160290",
+          "size": "563063697",
+          "download": "512225184"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19467525",
+        "timeupdated": "1754642921",
+        "timebuildupdated": "1754297657"
+      },
+      "no_internet_testing": {
+        "buildid": "10146741",
+        "description": "For testing the new build without leaderboard calls",
+        "timeupdated": "1671030175",
+        "timebuildupdated": "1671029876"
+      },
+      "fixes": {
+        "buildid": "17182600",
+        "description": "Branch for testing fixes",
+        "timeupdated": "1738230840",
+        "timebuildupdated": "1738230840"
+      }
+    }
+  }
+}

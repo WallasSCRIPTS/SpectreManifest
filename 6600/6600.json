@@ -1,0 +1,94 @@
+{
+  "name": "Bullet Candy",
+  "source": "spectre",
+  "changenumber": 40417296,
+  "updated": "2026-11-07T20:55:43.340Z",
+  "branches": {
+    "2013": {
+      "buildid": "25692983",
+      "description": "bc2013",
+      "timeupdated": "1791009979",
+      "timebuildupdated": "1791009979"
+    },
+    "public": {
+      "buildid": "26267669",
+      "timeupdated": "1793183496",
+      "timebuildupdated": "1793183496"
+    },
+    "beta": {
+      "buildid": "25790265",
+      "description": "beta2026",
+      "timeupdated": "1791413451",
+      "timebuildupdated": "1791413451"
+    },
+    "original": {
+      "buildid": "2692",
+      "description": "originalbc",
+      "timeupdated": "1337974301",
+      "timebuildupdated": "1337974283"
+    }
+  },
+  "depot": {
+    "6601": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6556425831761128502",
+          "size": "67670588",
+          "download": "60091232"
+        }
+      }
+    },
+    "6602": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8912785387192891352",
+          "size": "77609722",
+          "download": "64787936"
+        }
+      }
+    },
+    "6603": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1061971242854919050",
+          "size": "76672799",
+          "download": "63502768"
+        }
+      }
+    },
+    "branches": {
+      "2013": {
+        "buildid": "25692983",
+        "description": "bc2013",
+        "timeupdated": "1791009979",
+        "timebuildupdated": "1791009979"
+      },
+      "public": {
+        "buildid": "26267669",
+        "timeupdated": "1793183496",
+        "timebuildupdated": "1793183496"
+      },
+      "beta": {
+        "buildid": "25790265",
+        "description": "beta2026",
+        "timeupdated": "1791413451",
+        "timebuildupdated": "1791413451"
+      },
+      "original": {
+        "buildid": "2692",
+        "description": "originalbc",
+        "timeupdated": "1337974301",
+        "timebuildupdated": "1337974283"
+      }
+    }
+  }
+}

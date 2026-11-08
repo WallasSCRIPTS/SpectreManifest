@@ -1,0 +1,73 @@
+{
+  "name": "RetroArch - Theodore",
+  "source": "spectre",
+  "changenumber": 40626833,
+  "updated": "2026-11-06T21:03:44.101Z",
+  "branches": {
+    "public": {
+      "buildid": "20833782",
+      "timeupdated": "1763418537",
+      "timebuildupdated": "1763416031"
+    },
+    "nightly": {
+      "buildid": "26456786",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793878686",
+      "timebuildupdated": "1793878686"
+    }
+  },
+  "depot": {
+    "1227442": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5704822131987254347",
+          "size": "2290756",
+          "download": "648784"
+        }
+      },
+      "dlcappid": "1227442"
+    },
+    "1790090": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4878512563169599191",
+          "size": "2281559",
+          "download": "771840"
+        }
+      },
+      "dlcappid": "1227442"
+    },
+    "1790091": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5913533801094896288",
+          "size": "4545343",
+          "download": "1560320"
+        }
+      },
+      "dlcappid": "1227442"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833782",
+        "timeupdated": "1763418537",
+        "timebuildupdated": "1763416031"
+      },
+      "nightly": {
+        "buildid": "26456786",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793878686",
+        "timebuildupdated": "1793878686"
+      }
+    }
+  }
+}

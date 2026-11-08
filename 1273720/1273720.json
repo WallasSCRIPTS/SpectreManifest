@@ -1,0 +1,58 @@
+{
+  "name": "SBX 5K",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-06T21:04:05.155Z",
+  "branches": {
+    "public": {
+      "buildid": "7513380",
+      "timeupdated": "1633958320",
+      "timebuildupdated": "1633958320"
+    }
+  },
+  "depot": {
+    "1273721": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7632506246023784232",
+          "size": "214106675",
+          "download": "68035648"
+        }
+      }
+    },
+    "1273722": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1563826351427686919",
+          "size": "325392298",
+          "download": "84151728"
+        }
+      }
+    },
+    "1273723": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "927793477872979094",
+          "size": "392237140",
+          "download": "142331744"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7513380",
+        "timeupdated": "1633958320",
+        "timebuildupdated": "1633958320"
+      }
+    }
+  }
+}

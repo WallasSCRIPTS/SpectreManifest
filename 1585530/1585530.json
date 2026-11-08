@@ -1,0 +1,67 @@
+{
+  "name": "GW: Legacy",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:06:22.157Z",
+  "branches": {
+    "public": {
+      "buildid": "12393009",
+      "timeupdated": "1696861887",
+      "timebuildupdated": "1696853446"
+    },
+    "alpha1": {
+      "buildid": "12393009",
+      "description": "alpha branch",
+      "timeupdated": "1696861879",
+      "timebuildupdated": "1696853446"
+    },
+    "pre-openxr": {
+      "buildid": "8527075",
+      "description": "pre-openxr version",
+      "timeupdated": "1652146319",
+      "timebuildupdated": "1649473684"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1585531": {
+      "manifests": {
+        "public": {
+          "gid": "5907073544516843477",
+          "size": "4355286706",
+          "download": "1550793728"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12393009",
+        "timeupdated": "1696861887",
+        "timebuildupdated": "1696853446"
+      },
+      "alpha1": {
+        "buildid": "12393009",
+        "description": "alpha branch",
+        "timeupdated": "1696861879",
+        "timebuildupdated": "1696853446"
+      },
+      "pre-openxr": {
+        "buildid": "8527075",
+        "description": "pre-openxr version",
+        "timeupdated": "1652146319",
+        "timebuildupdated": "1649473684"
+      }
+    }
+  }
+}

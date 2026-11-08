@@ -1,0 +1,70 @@
+{
+  "name": "Last Dream Fishing Arcade",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:23:16.096Z",
+  "branches": {
+    "public": {
+      "buildid": "15667647",
+      "timeupdated": "1726173954",
+      "timebuildupdated": "1726078287"
+    },
+    "testing": {
+      "buildid": "15667647",
+      "description": "For testing new builds",
+      "timeupdated": "1726078402",
+      "timebuildupdated": "1726078287"
+    }
+  },
+  "depot": {
+    "2334081": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "113892519414783735",
+          "size": "157354200",
+          "download": "96821712"
+        }
+      }
+    },
+    "2334082": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5085994783050660067",
+          "size": "248548562",
+          "download": "115917792"
+        }
+      }
+    },
+    "2334083": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1441061963511475770",
+          "size": "154633650",
+          "download": "95219824"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15667647",
+        "timeupdated": "1726173954",
+        "timebuildupdated": "1726078287"
+      },
+      "testing": {
+        "buildid": "15667647",
+        "description": "For testing new builds",
+        "timeupdated": "1726078402",
+        "timebuildupdated": "1726078287"
+      }
+    }
+  }
+}

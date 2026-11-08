@@ -1,0 +1,82 @@
+{
+  "name": "MegaFactory Titan",
+  "source": "spectre",
+  "changenumber": 40577020,
+  "updated": "2026-11-06T23:11:32.753Z",
+  "branches": {
+    "public": {
+      "buildid": "26308841",
+      "timeupdated": "1793310823",
+      "timebuildupdated": "1793310662"
+    },
+    "test": {
+      "buildid": "26308841",
+      "description": "test",
+      "timeupdated": "1793310662",
+      "timebuildupdated": "1793310662"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1803551": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2777637304814525402",
+          "size": "633799565",
+          "download": "387337904"
+        }
+      }
+    },
+    "1803552": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4626360002504625240",
+          "size": "532608748",
+          "download": "371027536"
+        }
+      }
+    },
+    "1803553": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6576932074035011789",
+          "size": "637077981",
+          "download": "405400272"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26308841",
+        "timeupdated": "1793310823",
+        "timebuildupdated": "1793310662"
+      },
+      "test": {
+        "buildid": "26308841",
+        "description": "test",
+        "timeupdated": "1793310662",
+        "timebuildupdated": "1793310662"
+      }
+    }
+  }
+}

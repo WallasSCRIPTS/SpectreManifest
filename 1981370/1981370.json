@@ -1,0 +1,58 @@
+{
+  "name": "Down the Drain",
+  "source": "spectre",
+  "changenumber": 34880158,
+  "updated": "2026-11-06T23:15:26.175Z",
+  "branches": {
+    "public": {
+      "buildid": "11267950",
+      "timeupdated": "1684460254",
+      "timebuildupdated": "1684460254"
+    },
+    "steamdeck_test": {
+      "buildid": "10639140",
+      "description": "Testing Linux Build in Steam",
+      "timeupdated": "1677387283",
+      "timebuildupdated": "1677385558"
+    }
+  },
+  "depot": {
+    "1981371": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7247735270721992332",
+          "size": "992171673",
+          "download": "74701264"
+        }
+      }
+    },
+    "1981372": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6159085091535498050",
+          "size": "1007122537",
+          "download": "78735856"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11267950",
+        "timeupdated": "1684460254",
+        "timebuildupdated": "1684460254"
+      },
+      "steamdeck_test": {
+        "buildid": "10639140",
+        "description": "Testing Linux Build in Steam",
+        "timeupdated": "1677387283",
+        "timebuildupdated": "1677385558"
+      }
+    }
+  }
+}

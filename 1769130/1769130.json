@@ -1,0 +1,70 @@
+{
+  "name": "The Ancients",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:09:45.059Z",
+  "branches": {
+    "public": {
+      "buildid": "15111348",
+      "timeupdated": "1721647768",
+      "timebuildupdated": "1721647503"
+    },
+    "beta": {
+      "buildid": "15612378",
+      "description": "To test the game",
+      "timeupdated": "1725604725",
+      "timebuildupdated": "1725604461"
+    },
+    "demo": {
+      "buildid": "14612794",
+      "description": "demo build with only tutorial",
+      "timeupdated": "1717593294",
+      "timebuildupdated": "1717593204"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1769131": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1939447111078845212",
+          "size": "10842656253",
+          "download": "3060092000"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15111348",
+        "timeupdated": "1721647768",
+        "timebuildupdated": "1721647503"
+      },
+      "beta": {
+        "buildid": "15612378",
+        "description": "To test the game",
+        "timeupdated": "1725604725",
+        "timebuildupdated": "1725604461"
+      },
+      "demo": {
+        "buildid": "14612794",
+        "description": "demo build with only tutorial",
+        "timeupdated": "1717593294",
+        "timebuildupdated": "1717593204"
+      }
+    }
+  }
+}

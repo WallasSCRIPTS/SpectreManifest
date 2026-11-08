@@ -1,0 +1,98 @@
+{
+  "name": "ネクロサーガ",
+  "source": "spectre",
+  "changenumber": 40641671,
+  "updated": "2026-11-06T23:17:37.338Z",
+  "branches": {
+    "public": {
+      "buildid": "9949334",
+      "timeupdated": "1668596677",
+      "timebuildupdated": "1668596677"
+    },
+    "local": {
+      "buildid": "9823280",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1666975443",
+      "timebuildupdated": "1666975443"
+    },
+    "test": {
+      "buildid": "9822934",
+      "description": "test",
+      "lcsrequired": "1",
+      "timeupdated": "1666972556",
+      "timebuildupdated": "1666972556"
+    }
+  },
+  "depot": {
+    "2146043": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2389403198117297587",
+          "size": "107892105",
+          "download": "54360448"
+        }
+      }
+    },
+    "2146044": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2247037288443773873",
+          "size": "131258378",
+          "download": "61166400"
+        }
+      }
+    },
+    "2146045": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6591041373980856245",
+          "size": "108576336",
+          "download": "54912128"
+        }
+      }
+    },
+    "2146046": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5148971951560002677",
+          "size": "131914382",
+          "download": "61719744"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9949334",
+        "timeupdated": "1668596677",
+        "timebuildupdated": "1668596677"
+      },
+      "local": {
+        "buildid": "9823280",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1666975443",
+        "timebuildupdated": "1666975443"
+      },
+      "test": {
+        "buildid": "9822934",
+        "description": "test",
+        "lcsrequired": "1",
+        "timeupdated": "1666972556",
+        "timebuildupdated": "1666972556"
+      }
+    }
+  }
+}

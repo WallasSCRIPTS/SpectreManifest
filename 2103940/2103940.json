@@ -1,0 +1,76 @@
+{
+  "name": "Skate Rift",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:17:32.413Z",
+  "branches": {
+    "public": {
+      "buildid": "19974827",
+      "timeupdated": "1757850649",
+      "timebuildupdated": "1757850561"
+    },
+    "beta": {
+      "buildid": "19228944",
+      "description": "high chance of brokenness!",
+      "timeupdated": "1752578125",
+      "timebuildupdated": "1752577995"
+    }
+  },
+  "depot": {
+    "2103941": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1602872692948932577",
+          "size": "12676647",
+          "download": "3648912"
+        }
+      }
+    },
+    "2103942": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6501693494390457825",
+          "size": "7536233",
+          "download": "2293632"
+        }
+      }
+    },
+    "2103943": {
+      "manifests": {
+        "public": {
+          "gid": "8581223058730517995",
+          "size": "140651467",
+          "download": "65181472"
+        }
+      }
+    },
+    "2103944": {
+      "manifests": {
+        "public": {
+          "gid": "7088260203597462084",
+          "size": "7",
+          "download": "64"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19974827",
+        "timeupdated": "1757850649",
+        "timebuildupdated": "1757850561"
+      },
+      "beta": {
+        "buildid": "19228944",
+        "description": "high chance of brokenness!",
+        "timeupdated": "1752578125",
+        "timebuildupdated": "1752577995"
+      }
+    }
+  }
+}

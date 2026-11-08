@@ -1,0 +1,100 @@
+{
+  "name": "OS:Path",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:01.378Z",
+  "branches": {
+    "public": {
+      "buildid": "3663700",
+      "timeupdated": "1553076478",
+      "timebuildupdated": "1553075977"
+    },
+    "test": {
+      "buildid": "3663700",
+      "description": "Branch for testing new updates",
+      "timeupdated": "1553076001",
+      "timebuildupdated": "1553075977"
+    },
+    "v1.2": {
+      "buildid": "2875978",
+      "description": "Old version",
+      "timeupdated": "1537305509",
+      "timebuildupdated": "1529426719"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "831091": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4632131563899893982",
+          "size": "97651977",
+          "download": "31914416"
+        }
+      }
+    },
+    "831092": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4347371467962327763",
+          "size": "99825844",
+          "download": "31316224"
+        }
+      }
+    },
+    "831093": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4062236896679952356",
+          "size": "109014080",
+          "download": "34095808"
+        }
+      }
+    },
+    "831094": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1866426690075203589",
+          "size": "106362287",
+          "download": "32544416"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3663700",
+        "timeupdated": "1553076478",
+        "timebuildupdated": "1553075977"
+      },
+      "test": {
+        "buildid": "3663700",
+        "description": "Branch for testing new updates",
+        "timeupdated": "1553076001",
+        "timebuildupdated": "1553075977"
+      },
+      "v1.2": {
+        "buildid": "2875978",
+        "description": "Old version",
+        "timeupdated": "1537305509",
+        "timebuildupdated": "1529426719"
+      }
+    }
+  }
+}

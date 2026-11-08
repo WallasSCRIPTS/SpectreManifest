@@ -1,0 +1,130 @@
+{
+  "name": "Valheim",
+  "source": "spectre",
+  "changenumber": 40682731,
+  "updated": "2026-11-07T21:01:30.021Z",
+  "branches": {
+    "public": {
+      "buildid": "26249040",
+      "timeupdated": "1793193042",
+      "timebuildupdated": "1793119723"
+    },
+    "default_old": {
+      "buildid": "25909357",
+      "description": "Previous stable",
+      "timeupdated": "1792054633",
+      "timebuildupdated": "1791900583"
+    },
+    "default_pre1_0": {
+      "buildid": "21981559",
+      "description": "Last stable build before 1.0",
+      "timeupdated": "1771488470",
+      "timebuildupdated": "1771406664"
+    },
+    "default_preal": {
+      "buildid": "20221215",
+      "description": "Last stable build before Ashlands",
+      "timeupdated": "1759477915",
+      "timebuildupdated": "1759402360"
+    },
+    "default_prebw": {
+      "buildid": "20221609",
+      "description": "\tLast stable build before Bog Witch",
+      "timeupdated": "1759478010",
+      "timebuildupdated": "1759404010"
+    },
+    "default_precta": {
+      "buildid": "20221837",
+      "description": "Last stable build before Call to Arms",
+      "timeupdated": "1759478046",
+      "timebuildupdated": "1759405114"
+    },
+    "default_preml": {
+      "buildid": "20222077",
+      "description": "Last stable build before Mistlands",
+      "timeupdated": "1759478350",
+      "timebuildupdated": "1759406080"
+    }
+  },
+  "depot": {
+    "892971": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4702704970510748940",
+          "size": "4222188741",
+          "download": "3951611344"
+        }
+      }
+    },
+    "892972": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3316048117713314105",
+          "size": "4542664874",
+          "download": "4355216064"
+        }
+      }
+    },
+    "892973": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1288151680412615980",
+          "size": "4586639854",
+          "download": "4352600624"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26249040",
+        "timeupdated": "1793193042",
+        "timebuildupdated": "1793119723"
+      },
+      "default_old": {
+        "buildid": "25909357",
+        "description": "Previous stable",
+        "timeupdated": "1792054633",
+        "timebuildupdated": "1791900583"
+      },
+      "default_pre1_0": {
+        "buildid": "21981559",
+        "description": "Last stable build before 1.0",
+        "timeupdated": "1771488470",
+        "timebuildupdated": "1771406664"
+      },
+      "default_preal": {
+        "buildid": "20221215",
+        "description": "Last stable build before Ashlands",
+        "timeupdated": "1759477915",
+        "timebuildupdated": "1759402360"
+      },
+      "default_prebw": {
+        "buildid": "20221609",
+        "description": "\tLast stable build before Bog Witch",
+        "timeupdated": "1759478010",
+        "timebuildupdated": "1759404010"
+      },
+      "default_precta": {
+        "buildid": "20221837",
+        "description": "Last stable build before Call to Arms",
+        "timeupdated": "1759478046",
+        "timebuildupdated": "1759405114"
+      },
+      "default_preml": {
+        "buildid": "20222077",
+        "description": "Last stable build before Mistlands",
+        "timeupdated": "1759478350",
+        "timebuildupdated": "1759406080"
+      }
+    }
+  }
+}

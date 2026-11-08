@@ -1,0 +1,122 @@
+{
+  "name": "Heliborne Collection",
+  "source": "spectre",
+  "changenumber": 40607353,
+  "updated": "2026-11-07T20:57:48.927Z",
+  "branches": {
+    "public": {
+      "buildid": "10955800",
+      "timeupdated": "1681201424",
+      "timebuildupdated": "1680878098"
+    },
+    "enhanced_edition": {
+      "buildid": "5983491",
+      "timeupdated": "1608230637",
+      "timebuildupdated": "1608230476"
+    },
+    "heliborne_original": {
+      "buildid": "5442909",
+      "timeupdated": "1598018696",
+      "timebuildupdated": "1598018696"
+    },
+    "new_servers_and_dlc": {
+      "buildid": "4983862",
+      "timeupdated": "1588664431",
+      "timebuildupdated": "1588664123"
+    },
+    "win32_only": {
+      "buildid": "3784436",
+      "description": "32bit windows build",
+      "timeupdated": "1556713772",
+      "timebuildupdated": "1556713771"
+    }
+  },
+  "depot": {
+    "433531": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6329196377773479596",
+          "size": "3263670673",
+          "download": "2401002880"
+        }
+      }
+    },
+    "433532": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7862525666674347939",
+          "size": "13841605019",
+          "download": "10573033392"
+        }
+      }
+    },
+    "433533": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6111304028477769874",
+          "size": "13872766857",
+          "download": "10435330416"
+        }
+      }
+    },
+    "433534": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3640539312989607801",
+          "size": "14102404040",
+          "download": "10848658448"
+        }
+      }
+    },
+    "730350": {
+      "manifests": {
+        "public": {
+          "gid": "3403045467688160020",
+          "size": "440395081",
+          "download": "420543472"
+        }
+      },
+      "dlcappid": "730350"
+    },
+    "branches": {
+      "public": {
+        "buildid": "10955800",
+        "timeupdated": "1681201424",
+        "timebuildupdated": "1680878098"
+      },
+      "enhanced_edition": {
+        "buildid": "5983491",
+        "timeupdated": "1608230637",
+        "timebuildupdated": "1608230476"
+      },
+      "heliborne_original": {
+        "buildid": "5442909",
+        "timeupdated": "1598018696",
+        "timebuildupdated": "1598018696"
+      },
+      "new_servers_and_dlc": {
+        "buildid": "4983862",
+        "timeupdated": "1588664431",
+        "timebuildupdated": "1588664123"
+      },
+      "win32_only": {
+        "buildid": "3784436",
+        "description": "32bit windows build",
+        "timeupdated": "1556713772",
+        "timebuildupdated": "1556713771"
+      }
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Defend Your Kingdom",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T20:59:31.697Z",
+  "branches": {
+    "public": {
+      "buildid": "1931684",
+      "timeupdated": "1499026976",
+      "timebuildupdated": "1499017280"
+    },
+    "test": {
+      "buildid": "1931684",
+      "timeupdated": "1499017289",
+      "timebuildupdated": "1499017280"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "653781": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2077928659876959451",
+          "size": "304512433",
+          "download": "36628272"
+        }
+      }
+    },
+    "653782": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6100312259478919486",
+          "size": "310076584",
+          "download": "39828304"
+        }
+      }
+    },
+    "653783": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4902223389789253341",
+          "size": "310091261",
+          "download": "40275664"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1931684",
+        "timeupdated": "1499026976",
+        "timebuildupdated": "1499017280"
+      },
+      "test": {
+        "buildid": "1931684",
+        "timeupdated": "1499017289",
+        "timebuildupdated": "1499017280"
+      }
+    }
+  }
+}

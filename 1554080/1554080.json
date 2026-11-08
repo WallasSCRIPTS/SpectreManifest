@@ -1,0 +1,70 @@
+{
+  "name": "The Stonks Market",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:06:06.274Z",
+  "branches": {
+    "public": {
+      "buildid": "6771063",
+      "timeupdated": "1622201015",
+      "timebuildupdated": "1622149065"
+    },
+    "beta": {
+      "buildid": "6771063",
+      "description": "Stonks Beta",
+      "timeupdated": "1622149112",
+      "timebuildupdated": "1622149065"
+    }
+  },
+  "depot": {
+    "1554081": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4083784258293882709",
+          "size": "884069180",
+          "download": "676571728"
+        }
+      }
+    },
+    "1554082": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2683587416354538267",
+          "size": "1115833438",
+          "download": "652394496"
+        }
+      }
+    },
+    "1554083": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1117381509323036823",
+          "size": "813989069",
+          "download": "648240176"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6771063",
+        "timeupdated": "1622201015",
+        "timebuildupdated": "1622149065"
+      },
+      "beta": {
+        "buildid": "6771063",
+        "description": "Stonks Beta",
+        "timeupdated": "1622149112",
+        "timebuildupdated": "1622149065"
+      }
+    }
+  }
+}

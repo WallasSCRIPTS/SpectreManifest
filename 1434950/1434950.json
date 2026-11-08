@@ -1,0 +1,70 @@
+{
+  "name": "HighFleet",
+  "source": "spectre",
+  "changenumber": 38412820,
+  "updated": "2026-11-06T21:05:14.810Z",
+  "branches": {
+    "public": {
+      "buildid": "10047296",
+      "timeupdated": "1669818104",
+      "timebuildupdated": "1669811661"
+    },
+    "beta-public": {
+      "buildid": "9578297",
+      "description": "Beta version",
+      "timeupdated": "1664880773",
+      "timebuildupdated": "1663939158"
+    },
+    "v1.15": {
+      "buildid": "8250268",
+      "description": "Highfleet V.1.15 (Older version)",
+      "timeupdated": "1669819700",
+      "timebuildupdated": "1645521272"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1434951": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3715257932606719126",
+          "size": "1494561778",
+          "download": "1263570512"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10047296",
+        "timeupdated": "1669818104",
+        "timebuildupdated": "1669811661"
+      },
+      "beta-public": {
+        "buildid": "9578297",
+        "description": "Beta version",
+        "timeupdated": "1664880773",
+        "timebuildupdated": "1663939158"
+      },
+      "v1.15": {
+        "buildid": "8250268",
+        "description": "Highfleet V.1.15 (Older version)",
+        "timeupdated": "1669819700",
+        "timebuildupdated": "1645521272"
+      }
+    }
+  }
+}

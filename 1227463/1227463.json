@@ -1,0 +1,73 @@
+{
+  "name": "RetroArch - PX68K",
+  "source": "spectre",
+  "changenumber": 40627133,
+  "updated": "2026-11-06T21:03:44.256Z",
+  "branches": {
+    "public": {
+      "buildid": "20833901",
+      "timeupdated": "1763418483",
+      "timebuildupdated": "1763416558"
+    },
+    "nightly": {
+      "buildid": "26457010",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793879305",
+      "timebuildupdated": "1793879305"
+    }
+  },
+  "depot": {
+    "1227463": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9016028550427403707",
+          "size": "1059642",
+          "download": "263696"
+        }
+      },
+      "dlcappid": "1227463"
+    },
+    "1789920": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "930215557867456346",
+          "size": "973869",
+          "download": "165936"
+        }
+      },
+      "dlcappid": "1227463"
+    },
+    "1789921": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "820252162312948751",
+          "size": "1694437",
+          "download": "313680"
+        }
+      },
+      "dlcappid": "1227463"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833901",
+        "timeupdated": "1763418483",
+        "timebuildupdated": "1763416558"
+      },
+      "nightly": {
+        "buildid": "26457010",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793879305",
+        "timebuildupdated": "1793879305"
+      }
+    }
+  }
+}

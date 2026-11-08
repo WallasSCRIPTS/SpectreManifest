@@ -1,0 +1,62 @@
+{
+  "name": "Snuggle Truck",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:59.792Z",
+  "branches": {
+    "public": {
+      "buildid": "433762",
+      "timebuildupdated": "1415321527"
+    }
+  },
+  "depot": {
+    "111101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2478040298995721821",
+          "size": "76793658",
+          "download": "6463547888"
+        }
+      }
+    },
+    "111102": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4062312711591857793",
+          "size": "84959328",
+          "download": "10646516303"
+        }
+      }
+    },
+    "111103": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1076675499747206971",
+          "size": "82077385",
+          "download": "5493759603"
+        }
+      }
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "433762",
+        "timebuildupdated": "1415321527"
+      }
+    }
+  }
+}

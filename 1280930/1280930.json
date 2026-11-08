@@ -1,0 +1,70 @@
+{
+  "name": "Astral Ascent",
+  "source": "spectre",
+  "changenumber": 40524681,
+  "updated": "2026-11-06T21:04:08.180Z",
+  "branches": {
+    "public": {
+      "buildid": "25866301",
+      "timeupdated": "1791739428",
+      "timebuildupdated": "1791735786"
+    },
+    "public.beta": {
+      "buildid": "25866301",
+      "description": "unstable versions",
+      "timeupdated": "1791739407",
+      "timebuildupdated": "1791735786"
+    }
+  },
+  "depot": {
+    "1280931": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "498867983681054727",
+          "size": "1942123633",
+          "download": "1429822752"
+        }
+      }
+    },
+    "1280932": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5166856532989179225",
+          "size": "2070055204",
+          "download": "1489802288"
+        }
+      }
+    },
+    "1280933": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4370874724701371453",
+          "size": "1902315751",
+          "download": "1463684176"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25866301",
+        "timeupdated": "1791739428",
+        "timebuildupdated": "1791735786"
+      },
+      "public.beta": {
+        "buildid": "25866301",
+        "description": "unstable versions",
+        "timeupdated": "1791739407",
+        "timebuildupdated": "1791735786"
+      }
+    }
+  }
+}

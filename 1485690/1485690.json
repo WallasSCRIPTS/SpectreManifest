@@ -1,0 +1,87 @@
+{
+  "name": "Potion Tycoon",
+  "source": "spectre",
+  "changenumber": 40585880,
+  "updated": "2026-11-06T21:05:37.430Z",
+  "branches": {
+    "public": {
+      "buildid": "16178308",
+      "timeupdated": "1729850072",
+      "timebuildupdated": "1729848627"
+    },
+    "rollback": {
+      "buildid": "13272415",
+      "description": "latest stable build",
+      "timeupdated": "1707478270",
+      "timebuildupdated": "1706195681"
+    },
+    "experimental-public": {
+      "buildid": "16037355",
+      "description": "unstable builds",
+      "timeupdated": "1728913822",
+      "timebuildupdated": "1728913822"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1485691": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6262064825271092391",
+          "size": "1032329771",
+          "download": "697597904"
+        }
+      }
+    },
+    "2239080": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5588315491262859765",
+          "size": "24888717",
+          "download": "19549232"
+        }
+      },
+      "dlcappid": "2239080"
+    },
+    "2239081": {
+      "manifests": {
+        "public": {
+          "gid": "4507019552982981583",
+          "size": "23588025",
+          "download": "7940720"
+        }
+      },
+      "dlcappid": "2239080"
+    },
+    "branches": {
+      "public": {
+        "buildid": "16178308",
+        "timeupdated": "1729850072",
+        "timebuildupdated": "1729848627"
+      },
+      "rollback": {
+        "buildid": "13272415",
+        "description": "latest stable build",
+        "timeupdated": "1707478270",
+        "timebuildupdated": "1706195681"
+      },
+      "experimental-public": {
+        "buildid": "16037355",
+        "description": "unstable builds",
+        "timeupdated": "1728913822",
+        "timebuildupdated": "1728913822"
+      }
+    }
+  }
+}

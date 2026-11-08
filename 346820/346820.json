@@ -1,0 +1,70 @@
+{
+  "name": "Crash Drive 3",
+  "source": "spectre",
+  "changenumber": 40161947,
+  "updated": "2026-11-07T20:56:58.230Z",
+  "branches": {
+    "public": {
+      "buildid": "8314308",
+      "timeupdated": "1646400337",
+      "timebuildupdated": "1646397847"
+    },
+    "oldpublic": {
+      "buildid": "8286609",
+      "description": "Test steam deck",
+      "timeupdated": "1646052546",
+      "timebuildupdated": "1646052546"
+    }
+  },
+  "depot": {
+    "346821": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8539853702897137194",
+          "size": "5965006984",
+          "download": "2032836960"
+        }
+      }
+    },
+    "346822": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6868223548590295920",
+          "size": "5948480672",
+          "download": "2024125872"
+        }
+      }
+    },
+    "346823": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4280863052367263885",
+          "size": "6000018442",
+          "download": "2051072608"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8314308",
+        "timeupdated": "1646400337",
+        "timebuildupdated": "1646397847"
+      },
+      "oldpublic": {
+        "buildid": "8286609",
+        "description": "Test steam deck",
+        "timeupdated": "1646052546",
+        "timebuildupdated": "1646052546"
+      }
+    }
+  }
+}

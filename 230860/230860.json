@@ -1,0 +1,96 @@
+{
+  "name": "Cannon Brawl",
+  "source": "spectre",
+  "changenumber": 40388757,
+  "updated": "2026-11-07T20:56:07.510Z",
+  "branches": {
+    "public": {
+      "buildid": "732240",
+      "timebuildupdated": "1439487328"
+    },
+    "local": {
+      "buildid": "45531",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1361325641"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "230861": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5251547331077574419",
+          "size": "720066043",
+          "download": "587896432"
+        }
+      }
+    },
+    "230862": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "79450111027985153",
+          "size": "746099430",
+          "download": "596692288"
+        }
+      }
+    },
+    "230863": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3297041617630321377",
+          "size": "740620379",
+          "download": "597082864"
+        }
+      }
+    },
+    "367310": {
+      "manifests": {
+        "public": {
+          "gid": "640358147168753995",
+          "size": "49037905",
+          "download": "49154144"
+        }
+      },
+      "dlcappid": "367310"
+    },
+    "branches": {
+      "public": {
+        "buildid": "732240",
+        "timebuildupdated": "1439487328"
+      },
+      "local": {
+        "buildid": "45531",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1361325641"
+      }
+    }
+  }
+}

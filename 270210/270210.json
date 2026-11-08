@@ -1,0 +1,94 @@
+{
+  "name": "Melody's Escape",
+  "source": "spectre",
+  "changenumber": 37432709,
+  "updated": "2026-11-07T20:56:18.770Z",
+  "branches": {
+    "public": {
+      "buildid": "9803963",
+      "timeupdated": "1666789970",
+      "timebuildupdated": "1666789598"
+    },
+    "local": {
+      "buildid": "184856",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1391788874"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "270211": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1769534007594252676",
+          "size": "38075028",
+          "download": "30486704"
+        }
+      }
+    },
+    "270212": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6784908499464855861",
+          "size": "60221227",
+          "download": "38055664"
+        }
+      }
+    },
+    "270213": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6147547395441140906",
+          "size": "60574425",
+          "download": "39339056"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9803963",
+        "timeupdated": "1666789970",
+        "timebuildupdated": "1666789598"
+      },
+      "local": {
+        "buildid": "184856",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1391788874"
+      }
+    }
+  }
+}

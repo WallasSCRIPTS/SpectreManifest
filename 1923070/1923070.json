@@ -1,0 +1,68 @@
+{
+  "name": "Deadland 4000",
+  "source": "spectre",
+  "changenumber": 34877817,
+  "updated": "2026-11-06T23:13:31.575Z",
+  "branches": {
+    "public": {
+      "buildid": "10670549",
+      "timeupdated": "1677725574",
+      "timebuildupdated": "1677725517"
+    },
+    "beta": {
+      "buildid": "11092886",
+      "description": "Testing Version 1.3",
+      "timeupdated": "1682493666",
+      "timebuildupdated": "1682493666"
+    }
+  },
+  "depot": {
+    "1923071": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7078018161395390942",
+          "size": "212200823",
+          "download": "126123888"
+        }
+      }
+    },
+    "1923072": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8944296740367579208",
+          "size": "259196879",
+          "download": "128638464"
+        }
+      }
+    },
+    "1923073": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "1923074": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10670549",
+        "timeupdated": "1677725574",
+        "timebuildupdated": "1677725517"
+      },
+      "beta": {
+        "buildid": "11092886",
+        "description": "Testing Version 1.3",
+        "timeupdated": "1682493666",
+        "timebuildupdated": "1682493666"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "HopDodge",
+  "source": "spectre",
+  "changenumber": 37487213,
+  "updated": "2026-11-06T23:15:24.275Z",
+  "branches": {
+    "public": {
+      "buildid": "24363014",
+      "timeupdated": "1784846416",
+      "timebuildupdated": "1784846371"
+    },
+    "beta": {
+      "buildid": "24363014",
+      "description": "Virtual Machine Build",
+      "timeupdated": "1784846372",
+      "timebuildupdated": "1784846371"
+    }
+  },
+  "depot": {
+    "1965681": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5086797273963756010",
+          "size": "365581268",
+          "download": "265048592"
+        }
+      }
+    },
+    "1965682": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "912431093920652145",
+          "size": "329686590",
+          "download": "231840576"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24363014",
+        "timeupdated": "1784846416",
+        "timebuildupdated": "1784846371"
+      },
+      "beta": {
+        "buildid": "24363014",
+        "description": "Virtual Machine Build",
+        "timeupdated": "1784846372",
+        "timebuildupdated": "1784846371"
+      }
+    }
+  }
+}

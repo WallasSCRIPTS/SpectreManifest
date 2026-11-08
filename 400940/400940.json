@@ -1,0 +1,82 @@
+{
+  "name": "Budget Cuts",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:33.255Z",
+  "branches": {
+    "public": {
+      "buildid": "7574335",
+      "timeupdated": "1634821988",
+      "timebuildupdated": "1634819867"
+    },
+    "fix_controller_bindings": {
+      "buildid": "4942025",
+      "description": "Branch for fixing broken controller bindings",
+      "timeupdated": "1611051584",
+      "timebuildupdated": "1587758255"
+    },
+    "oculussdk": {
+      "buildid": "5998045",
+      "description": "Oculus SDK support",
+      "timeupdated": "1608644663",
+      "timebuildupdated": "1608564612"
+    },
+    "old_demo": {
+      "buildid": "1060357",
+      "description": "Old Budget Cuts Demo",
+      "timeupdated": "1531132817",
+      "timebuildupdated": "1459946555"
+    },
+    "pre_arcade_patch_6": {
+      "buildid": "3368784",
+      "description": "For speedrunners who want to use old exploits",
+      "timeupdated": "1565123119",
+      "timebuildupdated": "1544016487"
+    }
+  },
+  "depot": {
+    "400941": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5957495084434193383",
+          "size": "8832093768",
+          "download": "2205393680"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7574335",
+        "timeupdated": "1634821988",
+        "timebuildupdated": "1634819867"
+      },
+      "fix_controller_bindings": {
+        "buildid": "4942025",
+        "description": "Branch for fixing broken controller bindings",
+        "timeupdated": "1611051584",
+        "timebuildupdated": "1587758255"
+      },
+      "oculussdk": {
+        "buildid": "5998045",
+        "description": "Oculus SDK support",
+        "timeupdated": "1608644663",
+        "timebuildupdated": "1608564612"
+      },
+      "old_demo": {
+        "buildid": "1060357",
+        "description": "Old Budget Cuts Demo",
+        "timeupdated": "1531132817",
+        "timebuildupdated": "1459946555"
+      },
+      "pre_arcade_patch_6": {
+        "buildid": "3368784",
+        "description": "For speedrunners who want to use old exploits",
+        "timeupdated": "1565123119",
+        "timebuildupdated": "1544016487"
+      }
+    }
+  }
+}

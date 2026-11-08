@@ -1,0 +1,60 @@
+{
+  "name": "Hive",
+  "source": "spectre",
+  "changenumber": 34883263,
+  "updated": "2026-11-06T23:17:28.867Z",
+  "branches": {
+    "public": {
+      "buildid": "15453595",
+      "timeupdated": "1724282295",
+      "timebuildupdated": "1724282217"
+    },
+    "local": {
+      "buildid": "9071652",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1657116654",
+      "timebuildupdated": "1657116654"
+    }
+  },
+  "depot": {
+    "2077121": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4640484820596378082",
+          "size": "406335264",
+          "download": "77396848"
+        }
+      }
+    },
+    "2077122": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6866522960166266433",
+          "size": "452826070",
+          "download": "79052224"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15453595",
+        "timeupdated": "1724282295",
+        "timebuildupdated": "1724282217"
+      },
+      "local": {
+        "buildid": "9071652",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1657116654",
+        "timebuildupdated": "1657116654"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Dash Dash World",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:50.480Z",
+  "branches": {
+    "public": {
+      "buildid": "18317240",
+      "timeupdated": "1746171260",
+      "timebuildupdated": "1746160540"
+    },
+    "china_test": {
+      "buildid": "6838156",
+      "description": "test access from china",
+      "timeupdated": "1623228615",
+      "timebuildupdated": "1623228428"
+    },
+    "beta": {
+      "buildid": "18317240",
+      "description": "beta",
+      "timeupdated": "1746161004",
+      "timebuildupdated": "1746160540"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1159861": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "905582991558378941",
+          "size": "11721669501",
+          "download": "10236854512"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "18317240",
+        "timeupdated": "1746171260",
+        "timebuildupdated": "1746160540"
+      },
+      "china_test": {
+        "buildid": "6838156",
+        "description": "test access from china",
+        "timeupdated": "1623228615",
+        "timebuildupdated": "1623228428"
+      },
+      "beta": {
+        "buildid": "18317240",
+        "description": "beta",
+        "timeupdated": "1746161004",
+        "timebuildupdated": "1746160540"
+      }
+    }
+  }
+}

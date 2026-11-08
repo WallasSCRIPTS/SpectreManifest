@@ -1,0 +1,108 @@
+{
+  "name": "AIDroneSim",
+  "source": "spectre",
+  "changenumber": 38460641,
+  "updated": "2026-11-06T21:06:34.503Z",
+  "branches": {
+    "public": {
+      "buildid": "11748523",
+      "timeupdated": "1690278111",
+      "timebuildupdated": "1689859157"
+    },
+    "1.39.9_beta": {
+      "buildid": "11748523",
+      "description": "1.39.9 beta",
+      "timeupdated": "1689859299",
+      "timebuildupdated": "1689859157"
+    },
+    "old_usb": {
+      "buildid": "6765089",
+      "description": "Old USB if you have any issue with 1.01. DEPRECATED.",
+      "timeupdated": "1622309268",
+      "timebuildupdated": "1622075731"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1608561": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4996083967909843105",
+          "size": "19107782354",
+          "download": "18421052000"
+        }
+      }
+    },
+    "1608562": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6162494008525840764",
+          "size": "20453373378",
+          "download": "19637189152"
+        }
+      }
+    },
+    "1770450": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3644127996504991527",
+          "size": "1858575990",
+          "download": "1831352528"
+        }
+      },
+      "dlcappid": "1770450"
+    },
+    "1770452": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1033015173936709682",
+          "size": "1987722048",
+          "download": "1944560176"
+        }
+      },
+      "dlcappid": "1770450"
+    },
+    "branches": {
+      "public": {
+        "buildid": "11748523",
+        "timeupdated": "1690278111",
+        "timebuildupdated": "1689859157"
+      },
+      "1.39.9_beta": {
+        "buildid": "11748523",
+        "description": "1.39.9 beta",
+        "timeupdated": "1689859299",
+        "timebuildupdated": "1689859157"
+      },
+      "old_usb": {
+        "buildid": "6765089",
+        "description": "Old USB if you have any issue with 1.01. DEPRECATED.",
+        "timeupdated": "1622309268",
+        "timebuildupdated": "1622075731"
+      }
+    }
+  }
+}

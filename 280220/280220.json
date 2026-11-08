@@ -1,0 +1,116 @@
+{
+  "name": "Creeper World 3: Arc Eternal",
+  "source": "spectre",
+  "changenumber": 37432709,
+  "updated": "2026-11-07T20:56:21.559Z",
+  "branches": {
+    "public": {
+      "buildid": "22453699",
+      "timeupdated": "1774204364",
+      "timebuildupdated": "1774195150"
+    },
+    "local": {
+      "buildid": "200303",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1393449119"
+    },
+    "prenotarized": {
+      "buildid": "943573",
+      "timeupdated": "1570390000",
+      "timebuildupdated": "1453501822"
+    },
+    "version208": {
+      "buildid": "304910",
+      "timebuildupdated": "1403378414"
+    },
+    "pre-patch": {
+      "buildid": "4260516",
+      "description": "Before https patch",
+      "timeupdated": "1774204332",
+      "timebuildupdated": "1570289038"
+    },
+    "prerelease": {
+      "buildid": "22453699",
+      "timeupdated": "1774195150",
+      "timebuildupdated": "1774195150"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "280221": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "378696316259944923",
+          "size": "270393232",
+          "download": "96952656"
+        }
+      }
+    },
+    "280222": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1201032468392168546",
+          "size": "309019024",
+          "download": "107630944"
+        }
+      }
+    },
+    "280223": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5604121395266471360",
+          "size": "311125707",
+          "download": "108148672"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22453699",
+        "timeupdated": "1774204364",
+        "timebuildupdated": "1774195150"
+      },
+      "local": {
+        "buildid": "200303",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1393449119"
+      },
+      "prenotarized": {
+        "buildid": "943573",
+        "timeupdated": "1570390000",
+        "timebuildupdated": "1453501822"
+      },
+      "version208": {
+        "buildid": "304910",
+        "timebuildupdated": "1403378414"
+      },
+      "pre-patch": {
+        "buildid": "4260516",
+        "description": "Before https patch",
+        "timeupdated": "1774204332",
+        "timebuildupdated": "1570289038"
+      },
+      "prerelease": {
+        "buildid": "22453699",
+        "timeupdated": "1774195150",
+        "timebuildupdated": "1774195150"
+      }
+    }
+  }
+}

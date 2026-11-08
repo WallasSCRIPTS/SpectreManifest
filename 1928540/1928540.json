@@ -1,0 +1,92 @@
+{
+  "name": "Horticular",
+  "source": "spectre",
+  "changenumber": 40360582,
+  "updated": "2026-11-06T23:13:34.655Z",
+  "branches": {
+    "public": {
+      "buildid": "24224592",
+      "timeupdated": "1784138395",
+      "timebuildupdated": "1784134917"
+    },
+    "test": {
+      "buildid": "15878754",
+      "description": "Test branch for v1.1",
+      "timeupdated": "1727720008",
+      "timebuildupdated": "1727718301"
+    },
+    "test-1.6": {
+      "buildid": "26284986",
+      "description": "Beta branch for 1.6.2",
+      "timeupdated": "1793232307",
+      "timebuildupdated": "1793232267"
+    }
+  },
+  "depot": {
+    "1928541": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5182713364092525324",
+          "size": "366240606",
+          "download": "149087680"
+        }
+      }
+    },
+    "1928542": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "590960667010118580",
+          "size": "378337781",
+          "download": "153460992"
+        }
+      }
+    },
+    "1928543": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4770754561363576989",
+          "size": "375003968",
+          "download": "150710288"
+        }
+      }
+    },
+    "3421790": {
+      "manifests": {
+        "public": {
+          "gid": "3236486145121132625",
+          "size": "5086536",
+          "download": "2362112"
+        }
+      },
+      "dlcappid": "3421790"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24224592",
+        "timeupdated": "1784138395",
+        "timebuildupdated": "1784134917"
+      },
+      "test": {
+        "buildid": "15878754",
+        "description": "Test branch for v1.1",
+        "timeupdated": "1727720008",
+        "timebuildupdated": "1727718301"
+      },
+      "test-1.6": {
+        "buildid": "26284986",
+        "description": "Beta branch for 1.6.2",
+        "timeupdated": "1793232307",
+        "timebuildupdated": "1793232267"
+      }
+    }
+  }
+}

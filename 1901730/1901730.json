@@ -1,0 +1,58 @@
+{
+  "name": "Lootbox RPG",
+  "source": "spectre",
+  "changenumber": 40291541,
+  "updated": "2026-11-06T23:13:28.745Z",
+  "branches": {
+    "public": {
+      "buildid": "25073467",
+      "timeupdated": "1788328575",
+      "timebuildupdated": "1788328533"
+    },
+    "experimental": {
+      "buildid": "26240091",
+      "description": "not stable",
+      "timeupdated": "1793095059",
+      "timebuildupdated": "1793095057"
+    }
+  },
+  "depot": {
+    "1901732": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2915753455583403452",
+          "size": "322134099",
+          "download": "114805520"
+        }
+      }
+    },
+    "1901733": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "844416105573496858",
+          "size": "309459332",
+          "download": "110972608"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25073467",
+        "timeupdated": "1788328575",
+        "timebuildupdated": "1788328533"
+      },
+      "experimental": {
+        "buildid": "26240091",
+        "description": "not stable",
+        "timeupdated": "1793095059",
+        "timebuildupdated": "1793095057"
+      }
+    }
+  }
+}

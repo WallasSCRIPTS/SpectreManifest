@@ -1,0 +1,58 @@
+{
+  "name": "Fortune Avenue",
+  "source": "spectre",
+  "changenumber": 39530786,
+  "updated": "2026-11-06T23:11:33.636Z",
+  "branches": {
+    "public": {
+      "buildid": "25748527",
+      "timeupdated": "1791280038",
+      "timebuildupdated": "1791279770"
+    },
+    "unstable": {
+      "buildid": "25748527",
+      "description": "Public test",
+      "timeupdated": "1791280003",
+      "timebuildupdated": "1791279770"
+    }
+  },
+  "depot": {
+    "1810052": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2039012827424716604",
+          "size": "543571873",
+          "download": "277222256"
+        }
+      }
+    },
+    "1810054": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8077519119891055982",
+          "size": "540457773",
+          "download": "277278336"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25748527",
+        "timeupdated": "1791280038",
+        "timebuildupdated": "1791279770"
+      },
+      "unstable": {
+        "buildid": "25748527",
+        "description": "Public test",
+        "timeupdated": "1791280003",
+        "timebuildupdated": "1791279770"
+      }
+    }
+  }
+}

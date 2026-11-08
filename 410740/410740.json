@@ -1,0 +1,70 @@
+{
+  "name": "Flying Neko Delivery",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:37.302Z",
+  "branches": {
+    "public": {
+      "buildid": "10001963",
+      "timeupdated": "1669224330",
+      "timebuildupdated": "1669221958"
+    },
+    "test": {
+      "buildid": "10001963",
+      "description": "testing branch with the latest bugfixes but also potentially buggy features",
+      "timeupdated": "1669224320",
+      "timebuildupdated": "1669221958"
+    }
+  },
+  "depot": {
+    "410741": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4282719073430363753",
+          "size": "501439840",
+          "download": "120499760"
+        }
+      }
+    },
+    "410742": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9063473201934130638",
+          "size": "525330719",
+          "download": "127472688"
+        }
+      }
+    },
+    "410743": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5377160049888279198",
+          "size": "551614959",
+          "download": "124105008"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10001963",
+        "timeupdated": "1669224330",
+        "timebuildupdated": "1669221958"
+      },
+      "test": {
+        "buildid": "10001963",
+        "description": "testing branch with the latest bugfixes but also potentially buggy features",
+        "timeupdated": "1669224320",
+        "timebuildupdated": "1669221958"
+      }
+    }
+  }
+}

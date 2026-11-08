@@ -1,0 +1,124 @@
+{
+  "name": "Cook, Serve, Delicious!",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:11.246Z",
+  "branches": {
+    "public": {
+      "buildid": "11959469",
+      "timeupdated": "1692226928",
+      "timebuildupdated": "1692226928"
+    },
+    "integratedcards": {
+      "buildid": "161386",
+      "description": "For users with problems starting the game w/integrated cards",
+      "timebuildupdated": "1387517879"
+    },
+    "macoptin": {
+      "buildid": "817109",
+      "description": "Opt into v3.20 (MAC ONLY)",
+      "timebuildupdated": "1444934129"
+    },
+    "prevversion": {
+      "buildid": "1541338",
+      "description": "The previous stable version of CSD1",
+      "timeupdated": "1690433161",
+      "timebuildupdated": "1482789526"
+    },
+    "version3_12": {
+      "buildid": "774374",
+      "description": "v3.12 (Mac, Win, Linux)",
+      "timebuildupdated": "1442261611"
+    },
+    "version3_20": {
+      "buildid": "817084",
+      "description": "v.3.20 (Mac, Win, Linux)",
+      "timeupdated": "1482787857",
+      "timebuildupdated": "1444933133"
+    },
+    "version3_21": {
+      "buildid": "1541338",
+      "description": "v.3.21 (Mac, Win, Linux)",
+      "timeupdated": "1511845793",
+      "timebuildupdated": "1482789526"
+    }
+  },
+  "depot": {
+    "247021": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5126682347004467660",
+          "size": "158664464",
+          "download": "128327792"
+        }
+      }
+    },
+    "247022": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5563978212514097685",
+          "size": "215048454",
+          "download": "139957232"
+        }
+      }
+    },
+    "247023": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5835552657532917646",
+          "size": "133942577",
+          "download": "102933872"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11959469",
+        "timeupdated": "1692226928",
+        "timebuildupdated": "1692226928"
+      },
+      "integratedcards": {
+        "buildid": "161386",
+        "description": "For users with problems starting the game w/integrated cards",
+        "timebuildupdated": "1387517879"
+      },
+      "macoptin": {
+        "buildid": "817109",
+        "description": "Opt into v3.20 (MAC ONLY)",
+        "timebuildupdated": "1444934129"
+      },
+      "prevversion": {
+        "buildid": "1541338",
+        "description": "The previous stable version of CSD1",
+        "timeupdated": "1690433161",
+        "timebuildupdated": "1482789526"
+      },
+      "version3_12": {
+        "buildid": "774374",
+        "description": "v3.12 (Mac, Win, Linux)",
+        "timebuildupdated": "1442261611"
+      },
+      "version3_20": {
+        "buildid": "817084",
+        "description": "v.3.20 (Mac, Win, Linux)",
+        "timeupdated": "1482787857",
+        "timebuildupdated": "1444933133"
+      },
+      "version3_21": {
+        "buildid": "1541338",
+        "description": "v.3.21 (Mac, Win, Linux)",
+        "timeupdated": "1511845793",
+        "timebuildupdated": "1482789526"
+      }
+    }
+  }
+}

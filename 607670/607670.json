@@ -1,0 +1,60 @@
+{
+  "name": "Puzzle Guardians",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:59:13.186Z",
+  "branches": {
+    "public": {
+      "buildid": "1745496",
+      "timeupdated": "1491816042",
+      "timebuildupdated": "1491815685"
+    },
+    "local": {
+      "buildid": "1745504",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1491815777",
+      "timebuildupdated": "1491815776"
+    }
+  },
+  "depot": {
+    "607671": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "246862706202712508",
+          "size": "1297558026",
+          "download": "191623264"
+        }
+      }
+    },
+    "607672": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2969190373459110320",
+          "size": "1284301848",
+          "download": "188762352"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1745496",
+        "timeupdated": "1491816042",
+        "timebuildupdated": "1491815685"
+      },
+      "local": {
+        "buildid": "1745504",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1491815777",
+        "timebuildupdated": "1491815776"
+      }
+    }
+  }
+}

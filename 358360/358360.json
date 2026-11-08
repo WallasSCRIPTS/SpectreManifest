@@ -1,0 +1,59 @@
+{
+  "name": "Raptor: Call of the Shadows (1994 Classic Edition)",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:07.622Z",
+  "branches": {
+    "public": {
+      "buildid": "606145",
+      "timebuildupdated": "1430315838"
+    }
+  },
+  "depot": {
+    "358282": {
+      "depotfromapp": "358280"
+    },
+    "358361": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3609105698531570813",
+          "size": "41547466",
+          "download": "15890816"
+        }
+      }
+    },
+    "358362": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2530472414133564837",
+          "size": "19984460",
+          "download": "7310160"
+        }
+      }
+    },
+    "358363": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8610957799627616560",
+          "size": "21569946",
+          "download": "7982960"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "606145",
+        "timebuildupdated": "1430315838"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Dungeon Run",
+  "source": "spectre",
+  "changenumber": 34877230,
+  "updated": "2026-11-06T23:13:29.544Z",
+  "branches": {
+    "public": {
+      "buildid": "8785314",
+      "timeupdated": "1653155770",
+      "timebuildupdated": "1653155729"
+    },
+    "local": {
+      "buildid": "8744895",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1652671298",
+      "timebuildupdated": "1652671298"
+    }
+  },
+  "depot": {
+    "1908191": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5542083935137660051",
+          "size": "470606105",
+          "download": "90378672"
+        }
+      }
+    },
+    "1908192": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1948810977659833425",
+          "size": "493336872",
+          "download": "97159840"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8785314",
+        "timeupdated": "1653155770",
+        "timebuildupdated": "1653155729"
+      },
+      "local": {
+        "buildid": "8744895",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1652671298",
+        "timebuildupdated": "1652671298"
+      }
+    }
+  }
+}

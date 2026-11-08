@@ -1,0 +1,64 @@
+{
+  "name": "Wayward Terran Frontier: Zero Falls",
+  "source": "spectre",
+  "changenumber": 38843489,
+  "updated": "2026-11-07T20:57:29.023Z",
+  "branches": {
+    "public": {
+      "buildid": "15478173",
+      "timeupdated": "1724459808",
+      "timebuildupdated": "1724459733"
+    },
+    "secretmp": {
+      "buildid": "24557977",
+      "description": "Multiplayer test",
+      "timeupdated": "1785869497",
+      "timebuildupdated": "1785869418"
+    },
+    "unstable": {
+      "buildid": "24557977",
+      "description": "unstable alpha branch",
+      "timeupdated": "1785869418",
+      "timebuildupdated": "1785869418"
+    }
+  },
+  "depot": {
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "392081": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6261654740073730675",
+          "size": "1870209808",
+          "download": "535307264"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15478173",
+        "timeupdated": "1724459808",
+        "timebuildupdated": "1724459733"
+      },
+      "secretmp": {
+        "buildid": "24557977",
+        "description": "Multiplayer test",
+        "timeupdated": "1785869497",
+        "timebuildupdated": "1785869418"
+      },
+      "unstable": {
+        "buildid": "24557977",
+        "description": "unstable alpha branch",
+        "timeupdated": "1785869418",
+        "timebuildupdated": "1785869418"
+      }
+    }
+  }
+}

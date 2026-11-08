@@ -1,0 +1,74 @@
+{
+  "name": "Marooners",
+  "source": "spectre",
+  "changenumber": 40162029,
+  "updated": "2026-11-07T20:57:43.010Z",
+  "branches": {
+    "public": {
+      "buildid": "3372706",
+      "timeupdated": "1646041249",
+      "timebuildupdated": "1544108121"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "423811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1266364906596785467",
+          "size": "827523563",
+          "download": "226668480"
+        }
+      }
+    },
+    "423812": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3651593770978077539",
+          "size": "863696757",
+          "download": "238527712"
+        }
+      }
+    },
+    "423813": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2169066844599651468",
+          "size": "861027715",
+          "download": "238440688"
+        }
+      }
+    },
+    "423814": {
+      "manifests": {
+        "public": {
+          "gid": "630817622110740387",
+          "size": "90235257",
+          "download": "83194496"
+        }
+      },
+      "dlcappid": "674000"
+    },
+    "branches": {
+      "public": {
+        "buildid": "3372706",
+        "timeupdated": "1646041249",
+        "timebuildupdated": "1544108121"
+      }
+    }
+  }
+}

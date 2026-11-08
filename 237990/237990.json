@@ -1,0 +1,132 @@
+{
+  "name": "The Banner Saga",
+  "source": "spectre",
+  "changenumber": 39326595,
+  "updated": "2026-11-07T20:56:09.027Z",
+  "branches": {
+    "public": {
+      "buildid": "3268685",
+      "timeupdated": "1541103315",
+      "timebuildupdated": "1541103315"
+    },
+    "beta": {
+      "buildid": "1993295",
+      "description": "Banner Saga 1 public beta branch",
+      "timeupdated": "1506471400",
+      "timebuildupdated": "1501207908"
+    },
+    "linuxfix": {
+      "buildid": "677376",
+      "timebuildupdated": "1435626186"
+    },
+    "localization": {
+      "buildid": "1630588",
+      "timeupdated": "1487089609",
+      "timebuildupdated": "1487085155"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "237991": {
+      "manifests": {
+        "public": {
+          "gid": "3499918462660022991",
+          "size": "1570983414",
+          "download": "1546779136"
+        }
+      }
+    },
+    "237992": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3616398893514644491",
+          "size": "184922098",
+          "download": "73020464"
+        }
+      }
+    },
+    "237993": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7614195244336262598",
+          "size": "143185052",
+          "download": "94542224"
+        }
+      }
+    },
+    "237994": {
+      "manifests": {
+        "public": {
+          "gid": "6380451030615603478",
+          "size": "1621492749",
+          "download": "1542844528"
+        }
+      }
+    },
+    "272640": {
+      "manifests": {
+        "public": {
+          "gid": "8105992652755453528",
+          "size": "12940689",
+          "download": "12896160"
+        }
+      },
+      "dlcappid": "272640"
+    },
+    "306850": {
+      "manifests": {
+        "public": {
+          "gid": "910631641017926013",
+          "size": "3126494456",
+          "download": "2885413888"
+        }
+      },
+      "dlcappid": "306850"
+    },
+    "4843001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "dlcappid": "4843000"
+    },
+    "branches": {
+      "public": {
+        "buildid": "3268685",
+        "timeupdated": "1541103315",
+        "timebuildupdated": "1541103315"
+      },
+      "beta": {
+        "buildid": "1993295",
+        "description": "Banner Saga 1 public beta branch",
+        "timeupdated": "1506471400",
+        "timebuildupdated": "1501207908"
+      },
+      "linuxfix": {
+        "buildid": "677376",
+        "timebuildupdated": "1435626186"
+      },
+      "localization": {
+        "buildid": "1630588",
+        "timeupdated": "1487089609",
+        "timebuildupdated": "1487085155"
+      }
+    }
+  }
+}

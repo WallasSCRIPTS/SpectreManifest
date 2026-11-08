@@ -1,0 +1,79 @@
+{
+  "name": "Destination Sol",
+  "source": "spectre",
+  "changenumber": 40062413,
+  "updated": "2026-11-07T20:56:52.629Z",
+  "branches": {
+    "public": {
+      "buildid": "10906291",
+      "timeupdated": "1680725414",
+      "timebuildupdated": "1680304215"
+    },
+    "openbeta": {
+      "buildid": "12210647",
+      "description": "Open Beta Testing",
+      "timeupdated": "1694973193",
+      "timebuildupdated": "1694972292"
+    }
+  },
+  "depot": {
+    "342981": {
+      "manifests": {
+        "public": {
+          "gid": "5216915265449701987",
+          "size": "99157792",
+          "download": "96937888"
+        }
+      }
+    },
+    "342982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3848952273942486228",
+          "size": "92859078",
+          "download": "28787536"
+        }
+      }
+    },
+    "342983": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5569032562166600624",
+          "size": "109493763",
+          "download": "31840240"
+        }
+      }
+    },
+    "342984": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7433718583638412790",
+          "size": "108040517",
+          "download": "30872304"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10906291",
+        "timeupdated": "1680725414",
+        "timebuildupdated": "1680304215"
+      },
+      "openbeta": {
+        "buildid": "12210647",
+        "description": "Open Beta Testing",
+        "timeupdated": "1694973193",
+        "timebuildupdated": "1694972292"
+      }
+    }
+  }
+}

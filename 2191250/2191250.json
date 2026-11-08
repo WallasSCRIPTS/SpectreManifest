@@ -1,0 +1,70 @@
+{
+  "name": "sunny-place-2 Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-06T23:19:29.375Z",
+  "branches": {
+    "public": {
+      "buildid": "10050086",
+      "timeupdated": "1669834243",
+      "timebuildupdated": "1669834092"
+    },
+    "beta": {
+      "buildid": "10050086",
+      "description": "beta very dangerous",
+      "timeupdated": "1669834092",
+      "timebuildupdated": "1669834092"
+    }
+  },
+  "depot": {
+    "2191252": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7392914299617953679",
+          "size": "1037310664",
+          "download": "217054080"
+        }
+      }
+    },
+    "2191253": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4291585890212837997",
+          "size": "280330969",
+          "download": "94948864"
+        }
+      }
+    },
+    "2191254": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1687708962792228659",
+          "size": "317873418",
+          "download": "102403440"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10050086",
+        "timeupdated": "1669834243",
+        "timebuildupdated": "1669834092"
+      },
+      "beta": {
+        "buildid": "10050086",
+        "description": "beta very dangerous",
+        "timeupdated": "1669834092",
+        "timebuildupdated": "1669834092"
+      }
+    }
+  }
+}

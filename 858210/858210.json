@@ -1,0 +1,95 @@
+{
+  "name": "Nova Drift",
+  "source": "spectre",
+  "changenumber": 39753517,
+  "updated": "2026-11-07T21:01:13.241Z",
+  "branches": {
+    "public": {
+      "buildid": "25890040",
+      "timeupdated": "1791831606",
+      "timebuildupdated": "1791831606"
+    },
+    "legacy_syzygy": {
+      "buildid": "6568309",
+      "description": "Legacy version: Syzygy",
+      "timeupdated": "1642438817",
+      "timebuildupdated": "1618896229"
+    },
+    "legacyosx": {
+      "buildid": "8179462",
+      "timeupdated": "1644493857",
+      "timebuildupdated": "1644493857"
+    },
+    "beta": {
+      "buildid": "25890057",
+      "description": "Open beta testing",
+      "timeupdated": "1791831653",
+      "timebuildupdated": "1791831653"
+    },
+    "experimental": {
+      "buildid": "25885670",
+      "description": "Early beta testing",
+      "timeupdated": "1791818454",
+      "timebuildupdated": "1791818454"
+    }
+  },
+  "depot": {
+    "858211": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2730720291377512459",
+          "size": "852255215",
+          "download": "399295424"
+        }
+      }
+    },
+    "858212": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4651711398783149808",
+          "size": "911378334",
+          "download": "436828512"
+        }
+      }
+    },
+    "5217190": {
+      "dlcappid": "5217190"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25890040",
+        "timeupdated": "1791831606",
+        "timebuildupdated": "1791831606"
+      },
+      "legacy_syzygy": {
+        "buildid": "6568309",
+        "description": "Legacy version: Syzygy",
+        "timeupdated": "1642438817",
+        "timebuildupdated": "1618896229"
+      },
+      "legacyosx": {
+        "buildid": "8179462",
+        "timeupdated": "1644493857",
+        "timebuildupdated": "1644493857"
+      },
+      "beta": {
+        "buildid": "25890057",
+        "description": "Open beta testing",
+        "timeupdated": "1791831653",
+        "timebuildupdated": "1791831653"
+      },
+      "experimental": {
+        "buildid": "25885670",
+        "description": "Early beta testing",
+        "timeupdated": "1791818454",
+        "timebuildupdated": "1791818454"
+      }
+    }
+  }
+}

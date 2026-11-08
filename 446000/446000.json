@@ -1,0 +1,74 @@
+{
+  "name": "Stellar Monarch",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:54.322Z",
+  "branches": {
+    "public": {
+      "buildid": "23394995",
+      "timeupdated": "1779702128",
+      "timebuildupdated": "1779702128"
+    },
+    "compatibility": {
+      "buildid": "7141841",
+      "description": "In case of problems",
+      "timeupdated": "1628152209",
+      "timebuildupdated": "1628151127"
+    },
+    "legacy": {
+      "buildid": "4782094",
+      "description": "Old v1.43",
+      "timeupdated": "1584363419",
+      "timebuildupdated": "1584363419"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "446001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8049036412261281685",
+          "size": "33285424",
+          "download": "28124560"
+        }
+      }
+    },
+    "1148180": {
+      "manifests": {
+        "public": {
+          "gid": "664339917850225622",
+          "size": "1100280",
+          "download": "1066032"
+        }
+      },
+      "dlcappid": "1148180"
+    },
+    "branches": {
+      "public": {
+        "buildid": "23394995",
+        "timeupdated": "1779702128",
+        "timebuildupdated": "1779702128"
+      },
+      "compatibility": {
+        "buildid": "7141841",
+        "description": "In case of problems",
+        "timeupdated": "1628152209",
+        "timebuildupdated": "1628151127"
+      },
+      "legacy": {
+        "buildid": "4782094",
+        "description": "Old v1.43",
+        "timeupdated": "1584363419",
+        "timebuildupdated": "1584363419"
+      }
+    }
+  }
+}

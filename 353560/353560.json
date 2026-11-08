@@ -1,0 +1,58 @@
+{
+  "name": "Plug & Play",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:05.132Z",
+  "branches": {
+    "public": {
+      "buildid": "19827419",
+      "timeupdated": "1756885665",
+      "timebuildupdated": "1756828599"
+    }
+  },
+  "depot": {
+    "353561": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2296358161388055688",
+          "size": "287614864",
+          "download": "44616960"
+        }
+      }
+    },
+    "353562": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3109935677900829425",
+          "size": "303212929",
+          "download": "52831248"
+        }
+      }
+    },
+    "353563": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3075753016488776491",
+          "size": "282559634",
+          "download": "42407648"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19827419",
+        "timeupdated": "1756885665",
+        "timebuildupdated": "1756828599"
+      }
+    }
+  }
+}

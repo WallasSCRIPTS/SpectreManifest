@@ -1,0 +1,86 @@
+{
+  "name": "Realpolitiks II",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:03:53.206Z",
+  "branches": {
+    "public": {
+      "buildid": "19853644",
+      "timeupdated": "1757075180",
+      "timebuildupdated": "1756978773"
+    },
+    "betatest": {
+      "buildid": "6711457",
+      "description": "Beta test of an upcoming patch",
+      "timeupdated": "1621417978",
+      "timebuildupdated": "1621255464"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1248061": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1991885916395510123",
+          "size": "10126582672",
+          "download": "3339179712"
+        }
+      }
+    },
+    "1248062": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3344326778517932853",
+          "size": "9301093053",
+          "download": "2958096480"
+        }
+      }
+    },
+    "1248063": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2020600963043205323",
+          "size": "9399828450",
+          "download": "3088367184"
+        }
+      }
+    },
+    "1581130": {
+      "manifests": {
+        "public": {
+          "gid": "2902076147201338177",
+          "size": "35725306",
+          "download": "30798640"
+        }
+      },
+      "dlcappid": "1581130"
+    },
+    "branches": {
+      "public": {
+        "buildid": "19853644",
+        "timeupdated": "1757075180",
+        "timebuildupdated": "1756978773"
+      },
+      "betatest": {
+        "buildid": "6711457",
+        "description": "Beta test of an upcoming patch",
+        "timeupdated": "1621417978",
+        "timebuildupdated": "1621255464"
+      }
+    }
+  }
+}

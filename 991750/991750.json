@@ -1,0 +1,68 @@
+{
+  "name": "Super Grower",
+  "source": "spectre",
+  "changenumber": 40584500,
+  "updated": "2026-11-07T21:02:17.258Z",
+  "branches": {
+    "public": {
+      "buildid": "9912876",
+      "timeupdated": "1668114966",
+      "timebuildupdated": "1668114966"
+    },
+    "beta": {
+      "buildid": "26428766",
+      "description": "beta",
+      "timeupdated": "1793787861",
+      "timebuildupdated": "1793787861"
+    }
+  },
+  "depot": {
+    "991751": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1015834607459863409",
+          "size": "71922725",
+          "download": "23484752"
+        }
+      }
+    },
+    "991752": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "953870358805070471",
+          "size": "76313973",
+          "download": "24591024"
+        }
+      }
+    },
+    "1039720": {
+      "manifests": {
+        "public": {
+          "gid": "2027415010340420789",
+          "size": "16081766",
+          "download": "15614208"
+        }
+      },
+      "dlcappid": "1039720"
+    },
+    "branches": {
+      "public": {
+        "buildid": "9912876",
+        "timeupdated": "1668114966",
+        "timebuildupdated": "1668114966"
+      },
+      "beta": {
+        "buildid": "26428766",
+        "description": "beta",
+        "timeupdated": "1793787861",
+        "timebuildupdated": "1793787861"
+      }
+    }
+  }
+}

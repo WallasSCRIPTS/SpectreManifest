@@ -1,0 +1,76 @@
+{
+  "name": "Seeds of Resilience",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:22.269Z",
+  "branches": {
+    "public": {
+      "buildid": "4399934",
+      "timeupdated": "1574070865",
+      "timebuildupdated": "1574070520"
+    },
+    "test": {
+      "buildid": "4399934",
+      "description": "Public test branch",
+      "timeupdated": "1574070857",
+      "timebuildupdated": "1574070520"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "877081": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2141881112317134325",
+          "size": "234864945",
+          "download": "72370816"
+        }
+      }
+    },
+    "877082": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2055095871932391285",
+          "size": "246176547",
+          "download": "75368160"
+        }
+      }
+    },
+    "877083": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7126665087789767012",
+          "size": "259105360",
+          "download": "76134576"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4399934",
+        "timeupdated": "1574070865",
+        "timebuildupdated": "1574070520"
+      },
+      "test": {
+        "buildid": "4399934",
+        "description": "Public test branch",
+        "timeupdated": "1574070857",
+        "timebuildupdated": "1574070520"
+      }
+    }
+  }
+}

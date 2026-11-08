@@ -1,0 +1,67 @@
+{
+  "name": "Spud Customs",
+  "source": "spectre",
+  "changenumber": 40111026,
+  "updated": "2026-11-04T23:24:40.598Z",
+  "branches": {
+    "public": {
+      "buildid": "26122804",
+      "timeupdated": "1792635124",
+      "timebuildupdated": "1792635124"
+    },
+    "public_test": {
+      "buildid": "24278366",
+      "description": "Unstable test branch for Spud Customs",
+      "timeupdated": "1784416861",
+      "timebuildupdated": "1784416861"
+    }
+  },
+  "depot": {
+    "3291881": {
+      "manifests": {
+        "public": {
+          "gid": "4161408745706740550",
+          "size": "511372318",
+          "download": "406136912"
+        }
+      }
+    },
+    "3291882": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5029730936362024770",
+          "size": "476434746",
+          "download": "398525424"
+        }
+      }
+    },
+    "3291883": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2697385745443349620",
+          "size": "434313044",
+          "download": "349675504"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26122804",
+        "timeupdated": "1792635124",
+        "timebuildupdated": "1792635124"
+      },
+      "public_test": {
+        "buildid": "24278366",
+        "description": "Unstable test branch for Spud Customs",
+        "timeupdated": "1784416861",
+        "timebuildupdated": "1784416861"
+      }
+    }
+  }
+}

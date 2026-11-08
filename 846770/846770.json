@@ -1,0 +1,88 @@
+{
+  "name": "DYSMANTLE",
+  "source": "spectre",
+  "changenumber": 40699604,
+  "updated": "2026-11-07T21:01:08.573Z",
+  "branches": {
+    "public": {
+      "buildid": "20918527",
+      "timeupdated": "1763987158",
+      "timebuildupdated": "1763987158"
+    },
+    "beta": {
+      "buildid": "26460294",
+      "description": "Test builds, backup saves before trying!",
+      "timeupdated": "1793889056",
+      "timebuildupdated": "1793888598"
+    },
+    "pre_beta": {
+      "buildid": "26460294",
+      "description": "Experimental builds, try at your own risk!",
+      "timeupdated": "1793888598",
+      "timebuildupdated": "1793888598"
+    },
+    "previous_default": {
+      "buildid": "18821236",
+      "description": "Previous main branch build. Switch to this if you've got problems with a new update.",
+      "timeupdated": "1757574951",
+      "timebuildupdated": "1749626618"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "846771": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5075101902608519471",
+          "size": "1981540187",
+          "download": "1449569584"
+        }
+      }
+    },
+    "846772": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8514681507973902214",
+          "size": "1565872968",
+          "download": "1162714848"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20918527",
+        "timeupdated": "1763987158",
+        "timebuildupdated": "1763987158"
+      },
+      "beta": {
+        "buildid": "26460294",
+        "description": "Test builds, backup saves before trying!",
+        "timeupdated": "1793889056",
+        "timebuildupdated": "1793888598"
+      },
+      "pre_beta": {
+        "buildid": "26460294",
+        "description": "Experimental builds, try at your own risk!",
+        "timeupdated": "1793888598",
+        "timebuildupdated": "1793888598"
+      },
+      "previous_default": {
+        "buildid": "18821236",
+        "description": "Previous main branch build. Switch to this if you've got problems with a new update.",
+        "timeupdated": "1757574951",
+        "timebuildupdated": "1749626618"
+      }
+    }
+  }
+}

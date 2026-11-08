@@ -1,0 +1,102 @@
+{
+  "name": "Wailing Heights",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:53.171Z",
+  "branches": {
+    "public": {
+      "buildid": "3236500",
+      "timeupdated": "1540235604",
+      "timebuildupdated": "1540235604"
+    },
+    "linux_build": {
+      "buildid": "1096844",
+      "description": "Public Linux branch",
+      "timeupdated": "1461743785",
+      "timebuildupdated": "1461743785"
+    },
+    "mac_build": {
+      "buildid": "1101294",
+      "description": "Public MAC branch",
+      "timeupdated": "1461875999",
+      "timebuildupdated": "1461875999"
+    }
+  },
+  "depot": {
+    "443651": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9029296760299215585",
+          "size": "6631630173",
+          "download": "1911429712"
+        }
+      }
+    },
+    "443652": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9223330216892060514",
+          "size": "6983671220",
+          "download": "1596469584"
+        }
+      }
+    },
+    "443653": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6811111744683141190",
+          "size": "6974477622",
+          "download": "1595408160"
+        }
+      }
+    },
+    "465210": {
+      "manifests": {
+        "public": {
+          "gid": "8405375896128505554",
+          "size": "330128585",
+          "download": "315053936"
+        }
+      },
+      "dlcappid": "465210"
+    },
+    "636600": {
+      "manifests": {
+        "public": {
+          "gid": "478671332399163241",
+          "size": "6450644",
+          "download": "5801952"
+        }
+      },
+      "dlcappid": "636600"
+    },
+    "branches": {
+      "public": {
+        "buildid": "3236500",
+        "timeupdated": "1540235604",
+        "timebuildupdated": "1540235604"
+      },
+      "linux_build": {
+        "buildid": "1096844",
+        "description": "Public Linux branch",
+        "timeupdated": "1461743785",
+        "timebuildupdated": "1461743785"
+      },
+      "mac_build": {
+        "buildid": "1101294",
+        "description": "Public MAC branch",
+        "timeupdated": "1461875999",
+        "timebuildupdated": "1461875999"
+      }
+    }
+  }
+}

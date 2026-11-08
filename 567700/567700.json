@@ -1,0 +1,61 @@
+{
+  "name": "Mekside VR",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:58:51.686Z",
+  "branches": {
+    "public": {
+      "buildid": "2179649",
+      "timeupdated": "1507332619",
+      "timebuildupdated": "1507332576"
+    },
+    "beta": {
+      "buildid": "4936949",
+      "timeupdated": "1587758280",
+      "timebuildupdated": "1587674491"
+    },
+    "local": {
+      "buildid": "1633714",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1487182351",
+      "timebuildupdated": "1487182351"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "567701": {
+      "manifests": {
+        "public": {
+          "gid": "3689376683948875218",
+          "size": "133600362",
+          "download": "73646928"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2179649",
+        "timeupdated": "1507332619",
+        "timebuildupdated": "1507332576"
+      },
+      "beta": {
+        "buildid": "4936949",
+        "timeupdated": "1587758280",
+        "timebuildupdated": "1587674491"
+      },
+      "local": {
+        "buildid": "1633714",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1487182351",
+        "timebuildupdated": "1487182351"
+      }
+    }
+  }
+}

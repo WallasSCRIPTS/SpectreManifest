@@ -1,0 +1,82 @@
+{
+  "name": "D100 Dungeon",
+  "source": "spectre",
+  "changenumber": 40615428,
+  "updated": "2026-11-06T21:04:51.555Z",
+  "branches": {
+    "public": {
+      "buildid": "26003899",
+      "timeupdated": "1792210886",
+      "timebuildupdated": "1792210886"
+    },
+    "v2-production": {
+      "buildid": "7139312",
+      "description": "The last production version of V2.",
+      "timeupdated": "1673280746",
+      "timebuildupdated": "1628111717"
+    },
+    "test": {
+      "buildid": "26449380",
+      "description": "Testing",
+      "timeupdated": "1793850977",
+      "timebuildupdated": "1793850977"
+    },
+    "v3-production": {
+      "buildid": "19818244",
+      "description": "The last production verson of V3.",
+      "timeupdated": "1772489649",
+      "timebuildupdated": "1756772793"
+    }
+  },
+  "depot": {
+    "1384792": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5018091272175365545",
+          "size": "1925092852",
+          "download": "672463280"
+        }
+      }
+    },
+    "1384793": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4638081303457219054",
+          "size": "1941561937",
+          "download": "680451184"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26003899",
+        "timeupdated": "1792210886",
+        "timebuildupdated": "1792210886"
+      },
+      "v2-production": {
+        "buildid": "7139312",
+        "description": "The last production version of V2.",
+        "timeupdated": "1673280746",
+        "timebuildupdated": "1628111717"
+      },
+      "test": {
+        "buildid": "26449380",
+        "description": "Testing",
+        "timeupdated": "1793850977",
+        "timebuildupdated": "1793850977"
+      },
+      "v3-production": {
+        "buildid": "19818244",
+        "description": "The last production verson of V3.",
+        "timeupdated": "1772489649",
+        "timebuildupdated": "1756772793"
+      }
+    }
+  }
+}

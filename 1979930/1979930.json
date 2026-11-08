@@ -1,0 +1,82 @@
+{
+  "name": "FreedroidRPG",
+  "source": "spectre",
+  "changenumber": 40640629,
+  "updated": "2026-11-06T23:15:25.992Z",
+  "branches": {
+    "public": {
+      "buildid": "10543383",
+      "timeupdated": "1677075685",
+      "timebuildupdated": "1676325334"
+    },
+    "beta": {
+      "buildid": "10543383",
+      "description": "Beta branch",
+      "timeupdated": "1676325334",
+      "timebuildupdated": "1676325334"
+    },
+    "oldstable": {
+      "buildid": "10611336",
+      "description": "Old default, reverts a single update",
+      "timeupdated": "1677075887",
+      "timebuildupdated": "1677075887"
+    }
+  },
+  "depot": {
+    "1979931": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "871151632705285154",
+          "size": "235402432",
+          "download": "237291344"
+        }
+      }
+    },
+    "1979932": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7183769516467535538",
+          "size": "263199023",
+          "download": "235896448"
+        }
+      }
+    },
+    "1979933": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "236080039295272812",
+          "size": "260041950",
+          "download": "235844704"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10543383",
+        "timeupdated": "1677075685",
+        "timebuildupdated": "1676325334"
+      },
+      "beta": {
+        "buildid": "10543383",
+        "description": "Beta branch",
+        "timeupdated": "1676325334",
+        "timebuildupdated": "1676325334"
+      },
+      "oldstable": {
+        "buildid": "10611336",
+        "description": "Old default, reverts a single update",
+        "timeupdated": "1677075887",
+        "timebuildupdated": "1677075887"
+      }
+    }
+  }
+}

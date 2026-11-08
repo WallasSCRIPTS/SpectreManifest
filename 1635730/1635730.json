@@ -1,0 +1,76 @@
+{
+  "name": "VIVE Console for SteamVR",
+  "source": "spectre",
+  "changenumber": 40624363,
+  "updated": "2026-11-06T21:06:44.408Z",
+  "branches": {
+    "public": {
+      "buildid": "16386294",
+      "timeupdated": "1731488521",
+      "timebuildupdated": "1731463796"
+    },
+    "backup": {
+      "buildid": "9897519",
+      "description": "Public backup",
+      "timeupdated": "1675151560",
+      "timebuildupdated": "1667960741"
+    },
+    "elite7": {
+      "buildid": "7021366",
+      "description": "June 2021 final release for Win7 & Win8",
+      "timeupdated": "1626171638",
+      "timebuildupdated": "1626171603"
+    },
+    "beta": {
+      "buildid": "16936426",
+      "description": "VIVE Console Beta Update",
+      "timeupdated": "1736316990",
+      "timebuildupdated": "1736316878"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1635731": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4589982208829936133",
+          "size": "1693479902",
+          "download": "613703008"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16386294",
+        "timeupdated": "1731488521",
+        "timebuildupdated": "1731463796"
+      },
+      "backup": {
+        "buildid": "9897519",
+        "description": "Public backup",
+        "timeupdated": "1675151560",
+        "timebuildupdated": "1667960741"
+      },
+      "elite7": {
+        "buildid": "7021366",
+        "description": "June 2021 final release for Win7 & Win8",
+        "timeupdated": "1626171638",
+        "timebuildupdated": "1626171603"
+      },
+      "beta": {
+        "buildid": "16936426",
+        "description": "VIVE Console Beta Update",
+        "timeupdated": "1736316990",
+        "timebuildupdated": "1736316878"
+      }
+    }
+  }
+}

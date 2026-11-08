@@ -1,0 +1,70 @@
+{
+  "name": "XBall",
+  "source": "spectre",
+  "changenumber": 36631845,
+  "updated": "2026-11-06T23:15:37.400Z",
+  "branches": {
+    "public": {
+      "buildid": "15554731",
+      "timeupdated": "1725115623",
+      "timebuildupdated": "1725115489"
+    },
+    "beta_internal": {
+      "buildid": "15554731",
+      "description": "For internal testing",
+      "timeupdated": "1725115490",
+      "timebuildupdated": "1725115489"
+    }
+  },
+  "depot": {
+    "2021071": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3943502881971280537",
+          "size": "323614029",
+          "download": "118905184"
+        }
+      }
+    },
+    "2021072": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1428191471652933865",
+          "size": "583975500",
+          "download": "161296352"
+        }
+      }
+    },
+    "2021073": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4237711544762569123",
+          "size": "345806596",
+          "download": "126443712"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15554731",
+        "timeupdated": "1725115623",
+        "timebuildupdated": "1725115489"
+      },
+      "beta_internal": {
+        "buildid": "15554731",
+        "description": "For internal testing",
+        "timeupdated": "1725115490",
+        "timebuildupdated": "1725115489"
+      }
+    }
+  }
+}

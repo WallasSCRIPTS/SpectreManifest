@@ -1,0 +1,70 @@
+{
+  "name": "Ferus- The dark abyss",
+  "source": "spectre",
+  "changenumber": 39254093,
+  "updated": "2026-11-06T23:19:35.315Z",
+  "branches": {
+    "public": {
+      "buildid": "11259090",
+      "timeupdated": "1684375842",
+      "timebuildupdated": "1684375378"
+    },
+    "beta": {
+      "buildid": "25567118",
+      "description": "public beta",
+      "timeupdated": "1790550851",
+      "timebuildupdated": "1790550851"
+    }
+  },
+  "depot": {
+    "2242361": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "472990689138779182",
+          "size": "560672660",
+          "download": "430417008"
+        }
+      }
+    },
+    "2242362": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8583020520854218620",
+          "size": "613081094",
+          "download": "450655776"
+        }
+      }
+    },
+    "2242363": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8386217675221851131",
+          "size": "585306076",
+          "download": "440443312"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11259090",
+        "timeupdated": "1684375842",
+        "timebuildupdated": "1684375378"
+      },
+      "beta": {
+        "buildid": "25567118",
+        "description": "public beta",
+        "timeupdated": "1790550851",
+        "timebuildupdated": "1790550851"
+      }
+    }
+  }
+}

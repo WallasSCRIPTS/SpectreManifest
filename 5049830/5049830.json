@@ -1,0 +1,58 @@
+{
+  "name": "Star Heir: Dark Crusade",
+  "source": "spectre",
+  "changenumber": 40605378,
+  "updated": "2026-11-04T23:25:44.136Z",
+  "branches": {
+    "public": {
+      "buildid": "26431447",
+      "timeupdated": "1793811207",
+      "timebuildupdated": "1793795890"
+    },
+    "beta": {
+      "buildid": "26441857",
+      "description": "Live testing",
+      "timeupdated": "1793825174",
+      "timebuildupdated": "1793825174"
+    }
+  },
+  "depot": {
+    "5049831": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7187805739134929148",
+          "size": "3187566373",
+          "download": "838762288"
+        }
+      }
+    },
+    "5049832": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3910941155626595479",
+          "size": "3175555821",
+          "download": "831808128"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26431447",
+        "timeupdated": "1793811207",
+        "timebuildupdated": "1793795890"
+      },
+      "beta": {
+        "buildid": "26441857",
+        "description": "Live testing",
+        "timeupdated": "1793825174",
+        "timebuildupdated": "1793825174"
+      }
+    }
+  }
+}

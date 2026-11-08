@@ -1,0 +1,80 @@
+{
+  "name": "APB Reloaded",
+  "source": "spectre",
+  "changenumber": 40619564,
+  "updated": "2026-11-07T20:55:59.919Z",
+  "branches": {
+    "public": {
+      "buildid": "25980537",
+      "timeupdated": "1792136867",
+      "timebuildupdated": "1792136812"
+    },
+    "local": {
+      "buildid": "2156774",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1506627200",
+      "timebuildupdated": "1506627199"
+    }
+  },
+  "depot": {
+    "113401": {
+      "manifests": {
+        "public": {
+          "gid": "2456185758838102180",
+          "size": "7809242254",
+          "download": "6706036224"
+        }
+      }
+    },
+    "113409": {
+      "manifests": {
+        "public": {
+          "gid": "4435644351262518037",
+          "size": "1363",
+          "download": "704"
+        }
+      }
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2547553897526095397",
+          "size": "13742505",
+          "download": "13436144"
+        }
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7260605429366465749",
+          "size": "50450161",
+          "download": "50365280"
+        }
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "25980537",
+        "timeupdated": "1792136867",
+        "timebuildupdated": "1792136812"
+      },
+      "local": {
+        "buildid": "2156774",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1506627200",
+        "timebuildupdated": "1506627199"
+      }
+    }
+  }
+}

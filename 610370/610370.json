@@ -1,0 +1,89 @@
+{
+  "name": "Desperados III",
+  "source": "spectre",
+  "changenumber": 37436216,
+  "updated": "2026-11-07T20:59:14.108Z",
+  "branches": {
+    "public": {
+      "buildid": "6101019",
+      "timeupdated": "1611010190",
+      "timebuildupdated": "1611010190"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "610371": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1026796419896246112",
+          "size": "23456104368",
+          "download": "10045713072"
+        }
+      }
+    },
+    "610372": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6454656903798300902",
+          "size": "23648146598",
+          "download": "10123898432"
+        }
+      }
+    },
+    "610373": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1716129747829083633",
+          "size": "24356522876",
+          "download": "10936273552"
+        }
+      }
+    },
+    "610374": {
+      "manifests": {
+        "public": {
+          "gid": "6435867264939876538",
+          "size": "602631",
+          "download": "503328"
+        }
+      }
+    },
+    "1308850": {
+      "manifests": {
+        "public": {
+          "gid": "7278237865980967493",
+          "size": "128281086",
+          "download": "71306464"
+        }
+      },
+      "dlcappid": "1308850"
+    },
+    "branches": {
+      "public": {
+        "buildid": "6101019",
+        "timeupdated": "1611010190",
+        "timebuildupdated": "1611010190"
+      }
+    }
+  }
+}

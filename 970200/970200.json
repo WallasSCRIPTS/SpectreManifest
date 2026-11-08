@@ -1,0 +1,65 @@
+{
+  "name": "Campido",
+  "source": "spectre",
+  "changenumber": 35946306,
+  "updated": "2026-11-07T21:02:06.304Z",
+  "branches": {
+    "public": {
+      "buildid": "5223014",
+      "timeupdated": "1593255604",
+      "timebuildupdated": "1593255151"
+    },
+    "testing_branch": {
+      "buildid": "5223014",
+      "timeupdated": "1593255171",
+      "timebuildupdated": "1593255151"
+    }
+  },
+  "depot": {
+    "970201": {
+      "manifests": {
+        "public": {
+          "gid": "2656713708048798742",
+          "size": "348445129",
+          "download": "71655280"
+        }
+      }
+    },
+    "970202": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "329272385778226740",
+          "size": "171901530",
+          "download": "54416416"
+        }
+      }
+    },
+    "970204": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5416293514180344746",
+          "size": "176543599",
+          "download": "57025776"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5223014",
+        "timeupdated": "1593255604",
+        "timebuildupdated": "1593255151"
+      },
+      "testing_branch": {
+        "buildid": "5223014",
+        "timeupdated": "1593255171",
+        "timebuildupdated": "1593255151"
+      }
+    }
+  }
+}

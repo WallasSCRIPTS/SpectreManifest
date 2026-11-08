@@ -1,0 +1,54 @@
+{
+  "name": "VALKYRIE CONNECT",
+  "source": "spectre",
+  "changenumber": 40625083,
+  "updated": "2026-11-06T21:03:42.111Z",
+  "branches": {
+    "public": {
+      "buildid": "26077526",
+      "timeupdated": "1793172159",
+      "timebuildupdated": "1792495626"
+    },
+    "local": {
+      "buildid": "26047650",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1792410327",
+      "timebuildupdated": "1792410327"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1222801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6347793248695709669",
+          "size": "182709511",
+          "download": "90393840"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26077526",
+        "timeupdated": "1793172159",
+        "timebuildupdated": "1792495626"
+      },
+      "local": {
+        "buildid": "26047650",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1792410327",
+        "timebuildupdated": "1792410327"
+      }
+    }
+  }
+}

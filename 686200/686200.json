@@ -1,0 +1,82 @@
+{
+  "name": "Door Kickers: Action Squad",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:48.176Z",
+  "branches": {
+    "public": {
+      "buildid": "8023066",
+      "timeupdated": "1642184859",
+      "timebuildupdated": "1642184279"
+    },
+    "test": {
+      "buildid": "8023066",
+      "description": "Testing new updates",
+      "timeupdated": "1642184279",
+      "timebuildupdated": "1642184279"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "686201": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6189754203756058134",
+          "size": "65190902",
+          "download": "48407152"
+        }
+      }
+    },
+    "1286400": {
+      "manifests": {
+        "public": {
+          "gid": "1563186294227171949",
+          "size": "39343684",
+          "download": "36662336"
+        }
+      },
+      "dlcappid": "1286400"
+    },
+    "1788610": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5178780171593935957",
+          "size": "2121782",
+          "download": "144512"
+        }
+      },
+      "dlcappid": "1788610",
+      "depotfromapp": "1788610"
+    },
+    "branches": {
+      "public": {
+        "buildid": "8023066",
+        "timeupdated": "1642184859",
+        "timebuildupdated": "1642184279"
+      },
+      "test": {
+        "buildid": "8023066",
+        "description": "Testing new updates",
+        "timeupdated": "1642184279",
+        "timebuildupdated": "1642184279"
+      }
+    }
+  }
+}

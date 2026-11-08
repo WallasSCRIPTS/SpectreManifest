@@ -1,0 +1,58 @@
+{
+  "name": "Sprint City",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:07:52.027Z",
+  "branches": {
+    "public": {
+      "buildid": "23124736",
+      "timeupdated": "1778145375",
+      "timebuildupdated": "1778144263"
+    },
+    "beta": {
+      "buildid": "23124736",
+      "description": "Our beta channel",
+      "timeupdated": "1778145351",
+      "timebuildupdated": "1778144263"
+    }
+  },
+  "depot": {
+    "4191251": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6126775799218646057",
+          "size": "175885390",
+          "download": "138999888"
+        }
+      }
+    },
+    "4191252": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1633015103671810143",
+          "size": "195943950",
+          "download": "144106944"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23124736",
+        "timeupdated": "1778145375",
+        "timebuildupdated": "1778144263"
+      },
+      "beta": {
+        "buildid": "23124736",
+        "description": "Our beta channel",
+        "timeupdated": "1778145351",
+        "timebuildupdated": "1778144263"
+      }
+    }
+  }
+}

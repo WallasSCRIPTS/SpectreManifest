@@ -1,0 +1,68 @@
+{
+  "name": "Tokyo Snap",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:29.517Z",
+  "branches": {
+    "public": {
+      "buildid": "4060152",
+      "timeupdated": "1564539455",
+      "timebuildupdated": "1564539255"
+    },
+    "beta": {
+      "buildid": "4060152",
+      "timeupdated": "1564539255",
+      "timebuildupdated": "1564539255"
+    }
+  },
+  "depot": {
+    "1016431": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8087567001573822354",
+          "size": "110482798",
+          "download": "27250896"
+        }
+      }
+    },
+    "1016432": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7797542229350942563",
+          "size": "134662074",
+          "download": "32011488"
+        }
+      }
+    },
+    "1016433": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3784985108896130082",
+          "size": "156655217",
+          "download": "43212160"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4060152",
+        "timeupdated": "1564539455",
+        "timebuildupdated": "1564539255"
+      },
+      "beta": {
+        "buildid": "4060152",
+        "timeupdated": "1564539255",
+        "timebuildupdated": "1564539255"
+      }
+    }
+  }
+}

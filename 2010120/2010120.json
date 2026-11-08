@@ -1,0 +1,73 @@
+{
+  "name": "TGB Dual",
+  "source": "spectre",
+  "changenumber": 40667124,
+  "updated": "2026-11-06T23:15:36.070Z",
+  "branches": {
+    "public": {
+      "buildid": "20833838",
+      "timeupdated": "1763418617",
+      "timebuildupdated": "1763416248"
+    },
+    "nightly": {
+      "buildid": "26483579",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793966029",
+      "timebuildupdated": "1793966029"
+    }
+  },
+  "depot": {
+    "2010120": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5237218417635933034",
+          "size": "257848",
+          "download": "110480"
+        }
+      },
+      "dlcappid": "2010120"
+    },
+    "2010122": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8626628294391504479",
+          "size": "137749",
+          "download": "44528"
+        }
+      },
+      "dlcappid": "2010120"
+    },
+    "2010123": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3757025987081137271",
+          "size": "278845",
+          "download": "67520"
+        }
+      },
+      "dlcappid": "2010120"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833838",
+        "timeupdated": "1763418617",
+        "timebuildupdated": "1763416248"
+      },
+      "nightly": {
+        "buildid": "26483579",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793966029",
+        "timebuildupdated": "1793966029"
+      }
+    }
+  }
+}

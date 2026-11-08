@@ -1,0 +1,82 @@
+{
+  "name": "Iron Rebellion",
+  "source": "spectre",
+  "changenumber": 40688185,
+  "updated": "2026-11-07T21:04:06.865Z",
+  "branches": {
+    "public": {
+      "buildid": "25444940",
+      "timeupdated": "1790106429",
+      "timebuildupdated": "1790022360"
+    },
+    "android_branch": {
+      "buildid": "25443165",
+      "description": "Android_branch",
+      "timeupdated": "1790015514",
+      "timebuildupdated": "1790015514"
+    },
+    "beta_branch": {
+      "buildid": "26497191",
+      "description": "New features tests",
+      "timeupdated": "1794007671",
+      "timebuildupdated": "1794007671"
+    },
+    "qol_branch": {
+      "buildid": "26305584",
+      "description": "Quality of Life Branch",
+      "timeupdated": "1793300447",
+      "timebuildupdated": "1793300447"
+    }
+  },
+  "depot": {
+    "1192901": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "262383668483347717",
+          "size": "10976161037",
+          "download": "4741320544"
+        }
+      }
+    },
+    "1192902": {
+      "config": {
+        "oslist": "android"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3356460349393913942",
+          "size": "3689369749",
+          "download": "3679112000"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25444940",
+        "timeupdated": "1790106429",
+        "timebuildupdated": "1790022360"
+      },
+      "android_branch": {
+        "buildid": "25443165",
+        "description": "Android_branch",
+        "timeupdated": "1790015514",
+        "timebuildupdated": "1790015514"
+      },
+      "beta_branch": {
+        "buildid": "26497191",
+        "description": "New features tests",
+        "timeupdated": "1794007671",
+        "timebuildupdated": "1794007671"
+      },
+      "qol_branch": {
+        "buildid": "26305584",
+        "description": "Quality of Life Branch",
+        "timeupdated": "1793300447",
+        "timebuildupdated": "1793300447"
+      }
+    }
+  }
+}

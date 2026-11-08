@@ -1,0 +1,84 @@
+{
+  "name": "WarriOrb: Prologue",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T21:04:07.318Z",
+  "branches": {
+    "public": {
+      "buildid": "5385389",
+      "timeupdated": "1596819942",
+      "timebuildupdated": "1596817821"
+    },
+    "local": {
+      "buildid": "4555673",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1578593280",
+      "timebuildupdated": "1578593280"
+    },
+    "testing": {
+      "buildid": "5385389",
+      "description": "for testing purposes",
+      "timeupdated": "1596818103",
+      "timebuildupdated": "1596817821"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1193761": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5692430188903565184",
+          "size": "3055736803",
+          "download": "823797808"
+        }
+      }
+    },
+    "1193762": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2376009115387117793",
+          "size": "3879029428",
+          "download": "1079067088"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5385389",
+        "timeupdated": "1596819942",
+        "timebuildupdated": "1596817821"
+      },
+      "local": {
+        "buildid": "4555673",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1578593280",
+        "timebuildupdated": "1578593280"
+      },
+      "testing": {
+        "buildid": "5385389",
+        "description": "for testing purposes",
+        "timeupdated": "1596818103",
+        "timebuildupdated": "1596817821"
+      }
+    }
+  }
+}

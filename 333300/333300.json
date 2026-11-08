@@ -1,0 +1,226 @@
+{
+  "name": "ADOM (Ancient Domains Of Mystery)",
+  "source": "spectre",
+  "changenumber": 39682527,
+  "updated": "2026-11-07T20:56:45.797Z",
+  "branches": {
+    "public": {
+      "buildid": "5820078",
+      "timeupdated": "1605177290",
+      "timebuildupdated": "1605177196"
+    },
+    "2.3.8-r81": {
+      "buildid": "2277841",
+      "description": "2.3.8 (Release 81)",
+      "timeupdated": "1514019336",
+      "timebuildupdated": "1510478870"
+    },
+    "beta": {
+      "buildid": "5820078",
+      "description": "Public beta test",
+      "timeupdated": "1605177276",
+      "timebuildupdated": "1605177196"
+    },
+    "release-100": {
+      "buildid": "3420788",
+      "description": "Release 100 (3.3.2)",
+      "timeupdated": "1548766123",
+      "timebuildupdated": "1545405578"
+    },
+    "release-101": {
+      "buildid": "3512046",
+      "description": "Release 101 (3.3.3)",
+      "timeupdated": "1604655354",
+      "timebuildupdated": "1548765647"
+    },
+    "release-64": {
+      "buildid": "909973",
+      "description": "Release 64 (2.0.3)",
+      "timeupdated": "1473101114",
+      "timebuildupdated": "1450793687"
+    },
+    "release-69": {
+      "buildid": "1316622",
+      "description": "Release 69 (2.2.3)",
+      "timeupdated": "1474131444",
+      "timebuildupdated": "1472928367"
+    },
+    "release-70": {
+      "buildid": "1341416",
+      "description": "Release 70 (2.2.4)",
+      "timeupdated": "1478014614",
+      "timebuildupdated": "1474130063"
+    },
+    "release-72": {
+      "buildid": "2208167",
+      "description": "Release 72 (2.2.6)",
+      "timeupdated": "1509359654",
+      "timebuildupdated": "1508315992"
+    },
+    "release-88": {
+      "buildid": "2407268",
+      "description": "Release 88 (3.0.6)",
+      "timeupdated": "1522233833",
+      "timebuildupdated": "1514888264"
+    },
+    "release-94": {
+      "buildid": "2678243",
+      "description": "Release 94 (3.1.5)",
+      "timeupdated": "1525345357",
+      "timebuildupdated": "1523447325"
+    },
+    "release-96": {
+      "buildid": "2759162",
+      "description": "Release 96 (3.2.1)",
+      "timeupdated": "1527161349",
+      "timebuildupdated": "1525881280"
+    },
+    "release-98": {
+      "buildid": "3149378",
+      "description": "Release 98 (3.3.0)",
+      "timeupdated": "1539176673",
+      "timebuildupdated": "1537729794"
+    },
+    "release-99": {
+      "buildid": "3164433",
+      "description": "Release 99 (3.3.1)",
+      "timeupdated": "1540901711",
+      "timebuildupdated": "1538121378"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "333301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7630884721185693106",
+          "size": "578116871",
+          "download": "533905904"
+        }
+      }
+    },
+    "333302": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1735692159990042256",
+          "size": "569992594",
+          "download": "532575616"
+        }
+      }
+    },
+    "333303": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8937853492504983558",
+          "size": "559936265",
+          "download": "528556000"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5820078",
+        "timeupdated": "1605177290",
+        "timebuildupdated": "1605177196"
+      },
+      "2.3.8-r81": {
+        "buildid": "2277841",
+        "description": "2.3.8 (Release 81)",
+        "timeupdated": "1514019336",
+        "timebuildupdated": "1510478870"
+      },
+      "beta": {
+        "buildid": "5820078",
+        "description": "Public beta test",
+        "timeupdated": "1605177276",
+        "timebuildupdated": "1605177196"
+      },
+      "release-100": {
+        "buildid": "3420788",
+        "description": "Release 100 (3.3.2)",
+        "timeupdated": "1548766123",
+        "timebuildupdated": "1545405578"
+      },
+      "release-101": {
+        "buildid": "3512046",
+        "description": "Release 101 (3.3.3)",
+        "timeupdated": "1604655354",
+        "timebuildupdated": "1548765647"
+      },
+      "release-64": {
+        "buildid": "909973",
+        "description": "Release 64 (2.0.3)",
+        "timeupdated": "1473101114",
+        "timebuildupdated": "1450793687"
+      },
+      "release-69": {
+        "buildid": "1316622",
+        "description": "Release 69 (2.2.3)",
+        "timeupdated": "1474131444",
+        "timebuildupdated": "1472928367"
+      },
+      "release-70": {
+        "buildid": "1341416",
+        "description": "Release 70 (2.2.4)",
+        "timeupdated": "1478014614",
+        "timebuildupdated": "1474130063"
+      },
+      "release-72": {
+        "buildid": "2208167",
+        "description": "Release 72 (2.2.6)",
+        "timeupdated": "1509359654",
+        "timebuildupdated": "1508315992"
+      },
+      "release-88": {
+        "buildid": "2407268",
+        "description": "Release 88 (3.0.6)",
+        "timeupdated": "1522233833",
+        "timebuildupdated": "1514888264"
+      },
+      "release-94": {
+        "buildid": "2678243",
+        "description": "Release 94 (3.1.5)",
+        "timeupdated": "1525345357",
+        "timebuildupdated": "1523447325"
+      },
+      "release-96": {
+        "buildid": "2759162",
+        "description": "Release 96 (3.2.1)",
+        "timeupdated": "1527161349",
+        "timebuildupdated": "1525881280"
+      },
+      "release-98": {
+        "buildid": "3149378",
+        "description": "Release 98 (3.3.0)",
+        "timeupdated": "1539176673",
+        "timebuildupdated": "1537729794"
+      },
+      "release-99": {
+        "buildid": "3164433",
+        "description": "Release 99 (3.3.1)",
+        "timeupdated": "1540901711",
+        "timebuildupdated": "1538121378"
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Monarch : Medieval Remastered",
+  "source": "spectre",
+  "changenumber": 40698001,
+  "updated": "2026-11-07T21:02:51.005Z",
+  "branches": {
+    "public": {
+      "buildid": "26503255",
+      "timeupdated": "1794041731",
+      "timebuildupdated": "1794041676"
+    },
+    "classic_edition": {
+      "buildid": "7632103",
+      "description": "2021年结束的经典版",
+      "timeupdated": "1751699757",
+      "timebuildupdated": "1635656597"
+    },
+    "new_test_version": {
+      "buildid": "26503255",
+      "description": "v2026.11.7",
+      "timeupdated": "1794041707",
+      "timebuildupdated": "1794041676"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1058711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1831417442855178232",
+          "size": "2280763813",
+          "download": "472028640"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26503255",
+        "timeupdated": "1794041731",
+        "timebuildupdated": "1794041676"
+      },
+      "classic_edition": {
+        "buildid": "7632103",
+        "description": "2021年结束的经典版",
+        "timeupdated": "1751699757",
+        "timebuildupdated": "1635656597"
+      },
+      "new_test_version": {
+        "buildid": "26503255",
+        "description": "v2026.11.7",
+        "timeupdated": "1794041707",
+        "timebuildupdated": "1794041676"
+      }
+    }
+  }
+}

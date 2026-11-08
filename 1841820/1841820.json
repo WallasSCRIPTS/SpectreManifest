@@ -1,0 +1,58 @@
+{
+  "name": "GlowBoarding",
+  "source": "spectre",
+  "changenumber": 37452352,
+  "updated": "2026-11-06T23:11:37.812Z",
+  "branches": {
+    "public": {
+      "buildid": "12203300",
+      "timeupdated": "1694818039",
+      "timebuildupdated": "1694817984"
+    },
+    "linux": {
+      "buildid": "12210083",
+      "description": "linux build",
+      "timeupdated": "1694961866",
+      "timebuildupdated": "1694961568"
+    }
+  },
+  "depot": {
+    "1841821": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7294147064823383654",
+          "size": "6676293910",
+          "download": "2281788992"
+        }
+      }
+    },
+    "1841822": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7275963889782855776",
+          "size": "7151704010",
+          "download": "2482875968"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12203300",
+        "timeupdated": "1694818039",
+        "timebuildupdated": "1694817984"
+      },
+      "linux": {
+        "buildid": "12210083",
+        "description": "linux build",
+        "timeupdated": "1694961866",
+        "timebuildupdated": "1694961568"
+      }
+    }
+  }
+}

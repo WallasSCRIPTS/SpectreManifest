@@ -1,0 +1,70 @@
+{
+  "name": "Super Cable Boy",
+  "source": "spectre",
+  "changenumber": 37443736,
+  "updated": "2026-11-06T21:04:18.796Z",
+  "branches": {
+    "public": {
+      "buildid": "15533682",
+      "timeupdated": "1724946507",
+      "timebuildupdated": "1724946507"
+    },
+    "publictest": {
+      "buildid": "13281351",
+      "description": "public test branch",
+      "timeupdated": "1706268771",
+      "timebuildupdated": "1706268771"
+    }
+  },
+  "depot": {
+    "1304421": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7917936013979511964",
+          "size": "321086698",
+          "download": "138387648"
+        }
+      }
+    },
+    "1304422": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2968495499054063421",
+          "size": "343624649",
+          "download": "144850288"
+        }
+      }
+    },
+    "1304423": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5186383594791330393",
+          "size": "320953019",
+          "download": "136944192"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15533682",
+        "timeupdated": "1724946507",
+        "timebuildupdated": "1724946507"
+      },
+      "publictest": {
+        "buildid": "13281351",
+        "description": "public test branch",
+        "timeupdated": "1706268771",
+        "timebuildupdated": "1706268771"
+      }
+    }
+  }
+}

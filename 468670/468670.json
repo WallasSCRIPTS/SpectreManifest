@@ -1,0 +1,58 @@
+{
+  "name": "Speed Brawl",
+  "source": "spectre",
+  "changenumber": 40016636,
+  "updated": "2026-11-07T20:58:07.976Z",
+  "branches": {
+    "public": {
+      "buildid": "9971354",
+      "timeupdated": "1669049533",
+      "timebuildupdated": "1668804927"
+    },
+    "beta": {
+      "buildid": "9508830",
+      "description": "Public beta branch for anyone who wants to test the latest version.",
+      "timeupdated": "1664300534",
+      "timebuildupdated": "1663092456"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "468671": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4489357976937400367",
+          "size": "2205100563",
+          "download": "1648042704"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9971354",
+        "timeupdated": "1669049533",
+        "timebuildupdated": "1668804927"
+      },
+      "beta": {
+        "buildid": "9508830",
+        "description": "Public beta branch for anyone who wants to test the latest version.",
+        "timeupdated": "1664300534",
+        "timebuildupdated": "1663092456"
+      }
+    }
+  }
+}

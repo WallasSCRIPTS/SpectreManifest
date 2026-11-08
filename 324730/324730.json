@@ -1,0 +1,70 @@
+{
+  "name": "Caverns of the Snow Witch",
+  "source": "spectre",
+  "changenumber": 38902458,
+  "updated": "2026-11-07T20:56:41.729Z",
+  "branches": {
+    "public": {
+      "buildid": "856650",
+      "timebuildupdated": "1447383820"
+    },
+    "beta": {
+      "buildid": "929184",
+      "timebuildupdated": "1452661325"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "324731": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "553033309609470221",
+          "size": "348337944",
+          "download": "146719472"
+        }
+      }
+    },
+    "324732": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4456480851527647340",
+          "size": "329280399",
+          "download": "141340544"
+        }
+      }
+    },
+    "324733": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5272313431260323911",
+          "size": "318708548",
+          "download": "138033408"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "856650",
+        "timebuildupdated": "1447383820"
+      },
+      "beta": {
+        "buildid": "929184",
+        "timebuildupdated": "1452661325"
+      }
+    }
+  }
+}

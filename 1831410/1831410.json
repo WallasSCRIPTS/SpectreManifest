@@ -1,0 +1,70 @@
+{
+  "name": "Poly Vita",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:11:36.373Z",
+  "branches": {
+    "public": {
+      "buildid": "11126756",
+      "timeupdated": "1682882671",
+      "timebuildupdated": "1682882671"
+    },
+    "macos": {
+      "buildid": "11126756",
+      "description": "for mac",
+      "timeupdated": "1682882833",
+      "timebuildupdated": "1682882671"
+    }
+  },
+  "depot": {
+    "1831411": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2146466732340303537",
+          "size": "159565776",
+          "download": "32312576"
+        }
+      }
+    },
+    "1831412": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6742792608637737133",
+          "size": "137366838",
+          "download": "31539568"
+        }
+      }
+    },
+    "1831413": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8095913705720840756",
+          "size": "183419605",
+          "download": "39705952"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11126756",
+        "timeupdated": "1682882671",
+        "timebuildupdated": "1682882671"
+      },
+      "macos": {
+        "buildid": "11126756",
+        "description": "for mac",
+        "timeupdated": "1682882833",
+        "timebuildupdated": "1682882671"
+      }
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "name": "RPG Tycoon",
+  "source": "spectre",
+  "changenumber": 38387481,
+  "updated": "2026-11-07T20:56:36.799Z",
+  "branches": {
+    "public": {
+      "buildid": "14959725",
+      "timeupdated": "1720399465",
+      "timebuildupdated": "1720398863"
+    },
+    "rollback": {
+      "buildid": "14956105",
+      "timeupdated": "1720399484",
+      "timebuildupdated": "1720338772"
+    }
+  },
+  "depot": {
+    "314241": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1964070086641493950",
+          "size": "295462123",
+          "download": "267788016"
+        }
+      }
+    },
+    "314244": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5945915518457026878",
+          "size": "316194897",
+          "download": "273933040"
+        }
+      }
+    },
+    "551250": {
+      "manifests": {
+        "public": {
+          "gid": "804118652109119048",
+          "size": "25719669",
+          "download": "25267632"
+        }
+      },
+      "dlcappid": "551250"
+    },
+    "570920": {
+      "dlcappid": "570920"
+    },
+    "branches": {
+      "public": {
+        "buildid": "14959725",
+        "timeupdated": "1720399465",
+        "timebuildupdated": "1720398863"
+      },
+      "rollback": {
+        "buildid": "14956105",
+        "timeupdated": "1720399484",
+        "timebuildupdated": "1720338772"
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Your Computer Might Be At Risk",
+  "source": "spectre",
+  "changenumber": 35946306,
+  "updated": "2026-11-06T23:15:24.827Z",
+  "branches": {
+    "public": {
+      "buildid": "20251474",
+      "timeupdated": "1759575368",
+      "timebuildupdated": "1759575368"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1969621": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4920095115074507093",
+          "size": "1955135580",
+          "download": "1009982288"
+        }
+      }
+    },
+    "1969622": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4744677911611324119",
+          "size": "1997558327",
+          "download": "1038173360"
+        }
+      }
+    },
+    "1969623": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6430820935969287055",
+          "size": "2103924053",
+          "download": "1045963392"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20251474",
+        "timeupdated": "1759575368",
+        "timebuildupdated": "1759575368"
+      }
+    }
+  }
+}

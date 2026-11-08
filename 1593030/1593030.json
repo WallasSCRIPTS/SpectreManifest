@@ -1,0 +1,92 @@
+{
+  "name": "Terra Nil",
+  "source": "spectre",
+  "changenumber": 40617010,
+  "updated": "2026-11-06T21:06:26.893Z",
+  "branches": {
+    "public": {
+      "buildid": "22566272",
+      "timeupdated": "1774870643",
+      "timebuildupdated": "1774870030"
+    },
+    "v1.0.4": {
+      "buildid": "12336053",
+      "description": "Roll back to version 1.0.4",
+      "timeupdated": "1719331504",
+      "timebuildupdated": "1696260811"
+    },
+    "beta": {
+      "buildid": "15356665",
+      "description": "Beta",
+      "timeupdated": "1723562218",
+      "timebuildupdated": "1723561248"
+    }
+  },
+  "depot": {
+    "1593031": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2388819406400532681",
+          "size": "2357841316",
+          "download": "1081679984"
+        }
+      }
+    },
+    "1593032": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "318061527935608997",
+          "size": "2392537438",
+          "download": "1095658672"
+        }
+      }
+    },
+    "1593033": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1787556630851197372",
+          "size": "2372733057",
+          "download": "1089386000"
+        }
+      }
+    },
+    "2321930": {
+      "manifests": {
+        "public": {
+          "gid": "4914755245632957518",
+          "size": "14912676",
+          "download": "13396192"
+        }
+      },
+      "dlcappid": "2321930"
+    },
+    "branches": {
+      "public": {
+        "buildid": "22566272",
+        "timeupdated": "1774870643",
+        "timebuildupdated": "1774870030"
+      },
+      "v1.0.4": {
+        "buildid": "12336053",
+        "description": "Roll back to version 1.0.4",
+        "timeupdated": "1719331504",
+        "timebuildupdated": "1696260811"
+      },
+      "beta": {
+        "buildid": "15356665",
+        "description": "Beta",
+        "timeupdated": "1723562218",
+        "timebuildupdated": "1723561248"
+      }
+    }
+  }
+}

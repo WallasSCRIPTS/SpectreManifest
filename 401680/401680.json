@@ -1,0 +1,130 @@
+{
+  "name": "POSTAL Redux",
+  "source": "spectre",
+  "changenumber": 40491095,
+  "updated": "2026-11-07T20:57:33.480Z",
+  "branches": {
+    "public": {
+      "buildid": "22106749",
+      "timeupdated": "1772101489",
+      "timebuildupdated": "1772099356"
+    },
+    "4.0.1": {
+      "buildid": "1959331",
+      "description": "Old version (unsupported)",
+      "timeupdated": "1527617265",
+      "timebuildupdated": "1499984759"
+    },
+    "4.2.1": {
+      "buildid": "1841898",
+      "description": "Old version (unsupported)",
+      "timeupdated": "1527617753",
+      "timebuildupdated": "1495591694"
+    },
+    "sslfixtest": {
+      "buildid": "22106749",
+      "description": "for testing the OpenSSL fix",
+      "timeupdated": "1772099356",
+      "timebuildupdated": "1772099356"
+    }
+  },
+  "depot": {
+    "401681": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3914599598838946193",
+          "size": "1098626641",
+          "download": "998914640"
+        }
+      }
+    },
+    "401682": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6222116235039793827",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "401683": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2504145601774977058",
+          "size": "1342412850",
+          "download": "1107568384"
+        }
+      }
+    },
+    "401684": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9202629513538553961",
+          "size": "1743747485",
+          "download": "1102217616"
+        }
+      }
+    },
+    "401685": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2846684166415870920",
+          "size": "1218759509",
+          "download": "975375376"
+        }
+      }
+    },
+    "401686": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7598919311012993660",
+          "size": "1686468435",
+          "download": "1057495472"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22106749",
+        "timeupdated": "1772101489",
+        "timebuildupdated": "1772099356"
+      },
+      "4.0.1": {
+        "buildid": "1959331",
+        "description": "Old version (unsupported)",
+        "timeupdated": "1527617265",
+        "timebuildupdated": "1499984759"
+      },
+      "4.2.1": {
+        "buildid": "1841898",
+        "description": "Old version (unsupported)",
+        "timeupdated": "1527617753",
+        "timebuildupdated": "1495591694"
+      },
+      "sslfixtest": {
+        "buildid": "22106749",
+        "description": "for testing the OpenSSL fix",
+        "timeupdated": "1772099356",
+        "timebuildupdated": "1772099356"
+      }
+    }
+  }
+}

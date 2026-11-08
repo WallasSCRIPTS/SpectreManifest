@@ -1,0 +1,58 @@
+{
+  "name": "Security Hole",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:20.950Z",
+  "branches": {
+    "public": {
+      "buildid": "1930753",
+      "timeupdated": "1499066173",
+      "timebuildupdated": "1498941685"
+    }
+  },
+  "depot": {
+    "503461": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9072511121297925122",
+          "size": "168887651",
+          "download": "69885312"
+        }
+      }
+    },
+    "503462": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2913615330488948666",
+          "size": "218328270",
+          "download": "84637920"
+        }
+      }
+    },
+    "503463": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7302668784472541378",
+          "size": "222116743",
+          "download": "84508480"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1930753",
+        "timeupdated": "1499066173",
+        "timebuildupdated": "1498941685"
+      }
+    }
+  }
+}

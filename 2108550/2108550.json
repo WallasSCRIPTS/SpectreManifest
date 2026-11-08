@@ -1,0 +1,88 @@
+{
+  "name": "Inochi Creator",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:17:32.858Z",
+  "branches": {
+    "public": {
+      "buildid": "15736355",
+      "timeupdated": "1726663318",
+      "timebuildupdated": "1726624085"
+    },
+    "nightly": {
+      "buildid": "16754286",
+      "description": "Nightly builds",
+      "timeupdated": "1734314684",
+      "timebuildupdated": "1734314684"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2108553": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5430654112297468225",
+          "size": "31407437",
+          "download": "18649584"
+        }
+      }
+    },
+    "2108554": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1685170793410060506",
+          "size": "31225893",
+          "download": "18223248"
+        }
+      }
+    },
+    "2108555": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "204066710846031415",
+          "size": "82337825",
+          "download": "24341072"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15736355",
+        "timeupdated": "1726663318",
+        "timebuildupdated": "1726624085"
+      },
+      "nightly": {
+        "buildid": "16754286",
+        "description": "Nightly builds",
+        "timeupdated": "1734314684",
+        "timebuildupdated": "1734314684"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Sacre Bleu",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:03.874Z",
+  "branches": {
+    "public": {
+      "buildid": "23170806",
+      "timeupdated": "1778445924",
+      "timebuildupdated": "1778445834"
+    },
+    "debug-branch": {
+      "buildid": "18450201",
+      "description": "Here are builds with debug-volumes",
+      "timeupdated": "1747166893",
+      "timebuildupdated": "1747166799"
+    },
+    "dev-branch": {
+      "buildid": "19069901",
+      "description": "Development Branch",
+      "timeupdated": "1751399058",
+      "timebuildupdated": "1751399032"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1081301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7152887475031777025",
+          "size": "2845046097",
+          "download": "2631201200"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23170806",
+        "timeupdated": "1778445924",
+        "timebuildupdated": "1778445834"
+      },
+      "debug-branch": {
+        "buildid": "18450201",
+        "description": "Here are builds with debug-volumes",
+        "timeupdated": "1747166893",
+        "timebuildupdated": "1747166799"
+      },
+      "dev-branch": {
+        "buildid": "19069901",
+        "description": "Development Branch",
+        "timeupdated": "1751399058",
+        "timebuildupdated": "1751399032"
+      }
+    }
+  }
+}

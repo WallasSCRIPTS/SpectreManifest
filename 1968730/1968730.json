@@ -1,0 +1,80 @@
+{
+  "name": "Bounty of One",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:15:24.707Z",
+  "branches": {
+    "public": {
+      "buildid": "22158375",
+      "timeupdated": "1773163613",
+      "timebuildupdated": "1772444515"
+    },
+    "public-beta": {
+      "buildid": "22158375",
+      "description": "Public BETA",
+      "timeupdated": "1773163589",
+      "timebuildupdated": "1772444515"
+    }
+  },
+  "depot": {
+    "1968731": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3641629872831588326",
+          "size": "2608516661",
+          "download": "461184064"
+        }
+      }
+    },
+    "1968732": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4413146327373984178",
+          "size": "2609146683",
+          "download": "458157360"
+        }
+      }
+    },
+    "1968733": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7085551464819089984",
+          "size": "2631599039",
+          "download": "468637488"
+        }
+      }
+    },
+    "2900140": {
+      "manifests": {
+        "public": {
+          "gid": "5835348148835568030",
+          "size": "14494",
+          "download": "5552"
+        }
+      },
+      "dlcappid": "2900140"
+    },
+    "branches": {
+      "public": {
+        "buildid": "22158375",
+        "timeupdated": "1773163613",
+        "timebuildupdated": "1772444515"
+      },
+      "public-beta": {
+        "buildid": "22158375",
+        "description": "Public BETA",
+        "timeupdated": "1773163589",
+        "timebuildupdated": "1772444515"
+      }
+    }
+  }
+}

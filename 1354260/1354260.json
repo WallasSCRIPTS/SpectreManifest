@@ -1,0 +1,82 @@
+{
+  "name": "Brave Escape",
+  "source": "spectre",
+  "changenumber": 39928947,
+  "updated": "2026-11-06T21:04:37.663Z",
+  "branches": {
+    "public": {
+      "buildid": "25020087",
+      "timeupdated": "1788089728",
+      "timebuildupdated": "1788087588"
+    },
+    "dx12": {
+      "buildid": "25020413",
+      "description": "DirectX12 Experimental Branch",
+      "timeupdated": "1788090085",
+      "timebuildupdated": "1788090085"
+    },
+    "previous": {
+      "buildid": "23093081",
+      "description": "Previous Build",
+      "timeupdated": "1777984481",
+      "timebuildupdated": "1777984388"
+    }
+  },
+  "depot": {
+    "1354261": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5570488965742954272",
+          "size": "165419549",
+          "download": "135945904"
+        }
+      }
+    },
+    "1354262": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8085036701853007505",
+          "size": "243948322",
+          "download": "163987264"
+        }
+      }
+    },
+    "1354263": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6070018891557255769",
+          "size": "256893751",
+          "download": "170371904"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25020087",
+        "timeupdated": "1788089728",
+        "timebuildupdated": "1788087588"
+      },
+      "dx12": {
+        "buildid": "25020413",
+        "description": "DirectX12 Experimental Branch",
+        "timeupdated": "1788090085",
+        "timebuildupdated": "1788090085"
+      },
+      "previous": {
+        "buildid": "23093081",
+        "description": "Previous Build",
+        "timeupdated": "1777984481",
+        "timebuildupdated": "1777984388"
+      }
+    }
+  }
+}

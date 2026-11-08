@@ -1,0 +1,44 @@
+{
+  "name": "RESCUE 2",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:49.625Z",
+  "branches": {
+    "public": {
+      "buildid": "885641",
+      "timebuildupdated": "1449235788"
+    }
+  },
+  "depot": {
+    "339211": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8042815992756364406",
+          "size": "1453865983",
+          "download": "467801392"
+        }
+      }
+    },
+    "339212": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "29133129826914749",
+          "size": "1439378982",
+          "download": "463740096"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "885641",
+        "timebuildupdated": "1449235788"
+      }
+    }
+  }
+}

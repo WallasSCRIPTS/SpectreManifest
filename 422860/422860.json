@@ -1,0 +1,82 @@
+{
+  "name": "Holodance",
+  "source": "spectre",
+  "changenumber": 34831064,
+  "updated": "2026-11-07T20:57:42.425Z",
+  "branches": {
+    "public": {
+      "buildid": "15405590",
+      "timeupdated": "1724000547",
+      "timebuildupdated": "1723904331"
+    },
+    "alphadev": {
+      "buildid": "15405590",
+      "description": "alphadev: We test on this one. You can, too!",
+      "timeupdated": "1723905845",
+      "timebuildupdated": "1723904331"
+    },
+    "beta": {
+      "buildid": "15405590",
+      "description": "beta: Testing on this is fairly safe.",
+      "timeupdated": "1723905914",
+      "timebuildupdated": "1723904331"
+    },
+    "prevbeta": {
+      "buildid": "6089277",
+      "description": "prevbeta: The previous beta.",
+      "timeupdated": "1723905896",
+      "timebuildupdated": "1610734442"
+    },
+    "previous": {
+      "buildid": "5929171",
+      "description": "previous: Last default, as emergency fallback.",
+      "timeupdated": "1723905876",
+      "timebuildupdated": "1607262351"
+    }
+  },
+  "depot": {
+    "422861": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8235940677080788820",
+          "size": "8249443771",
+          "download": "2927979424"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15405590",
+        "timeupdated": "1724000547",
+        "timebuildupdated": "1723904331"
+      },
+      "alphadev": {
+        "buildid": "15405590",
+        "description": "alphadev: We test on this one. You can, too!",
+        "timeupdated": "1723905845",
+        "timebuildupdated": "1723904331"
+      },
+      "beta": {
+        "buildid": "15405590",
+        "description": "beta: Testing on this is fairly safe.",
+        "timeupdated": "1723905914",
+        "timebuildupdated": "1723904331"
+      },
+      "prevbeta": {
+        "buildid": "6089277",
+        "description": "prevbeta: The previous beta.",
+        "timeupdated": "1723905896",
+        "timebuildupdated": "1610734442"
+      },
+      "previous": {
+        "buildid": "5929171",
+        "description": "previous: Last default, as emergency fallback.",
+        "timeupdated": "1723905876",
+        "timebuildupdated": "1607262351"
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "name": "DurDanto Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-05T14:59:11.666Z",
+  "branches": {
+    "public": {
+      "buildid": "13465772",
+      "timeupdated": "1708007696",
+      "timebuildupdated": "1708007696"
+    },
+    "linux": {
+      "buildid": "7445929",
+      "description": "For Linux",
+      "timeupdated": "1632923354",
+      "timebuildupdated": "1632923353"
+    },
+    "macosx": {
+      "buildid": "7445927",
+      "description": "For Mac OSX",
+      "timeupdated": "1632923309",
+      "timebuildupdated": "1632923309"
+    },
+    "windows": {
+      "buildid": "7445857",
+      "description": "For Windows",
+      "timeupdated": "1632923286",
+      "timebuildupdated": "1632922785"
+    }
+  },
+  "depot": {
+    "1605411": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1348428172298114182",
+          "size": "673394506",
+          "download": "124630832"
+        }
+      }
+    },
+    "1605412": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6485666996812749060",
+          "size": "696244976",
+          "download": "131291552"
+        }
+      }
+    },
+    "1605413": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1702141431018788263",
+          "size": "674718555",
+          "download": "123817600"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13465772",
+        "timeupdated": "1708007696",
+        "timebuildupdated": "1708007696"
+      },
+      "linux": {
+        "buildid": "7445929",
+        "description": "For Linux",
+        "timeupdated": "1632923354",
+        "timebuildupdated": "1632923353"
+      },
+      "macosx": {
+        "buildid": "7445927",
+        "description": "For Mac OSX",
+        "timeupdated": "1632923309",
+        "timebuildupdated": "1632923309"
+      },
+      "windows": {
+        "buildid": "7445857",
+        "description": "For Windows",
+        "timeupdated": "1632923286",
+        "timebuildupdated": "1632922785"
+      }
+    }
+  }
+}

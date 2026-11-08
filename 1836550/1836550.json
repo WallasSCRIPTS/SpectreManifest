@@ -1,0 +1,70 @@
+{
+  "name": "Tap Wizard 2",
+  "source": "spectre",
+  "changenumber": 40631809,
+  "updated": "2026-11-06T23:11:37.076Z",
+  "branches": {
+    "public": {
+      "buildid": "23985338",
+      "timeupdated": "1782829329",
+      "timebuildupdated": "1782828837"
+    },
+    "beta": {
+      "buildid": "23985338",
+      "description": "Public Beta",
+      "timeupdated": "1782829054",
+      "timebuildupdated": "1782828837"
+    }
+  },
+  "depot": {
+    "1836551": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6183143757437897750",
+          "size": "313714390",
+          "download": "93178240"
+        }
+      }
+    },
+    "1836552": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8217984585103412336",
+          "size": "527331938",
+          "download": "133791776"
+        }
+      }
+    },
+    "1836553": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4171069841290521568",
+          "size": "680973058",
+          "download": "174039856"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23985338",
+        "timeupdated": "1782829329",
+        "timebuildupdated": "1782828837"
+      },
+      "beta": {
+        "buildid": "23985338",
+        "description": "Public Beta",
+        "timeupdated": "1782829054",
+        "timebuildupdated": "1782828837"
+      }
+    }
+  }
+}

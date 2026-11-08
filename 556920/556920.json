@@ -1,0 +1,92 @@
+{
+  "name": "Equilibrium Of Divinity",
+  "source": "spectre",
+  "changenumber": 38247500,
+  "updated": "2026-11-07T20:58:45.916Z",
+  "branches": {
+    "public": {
+      "buildid": "17160660",
+      "timeupdated": "1742556308",
+      "timebuildupdated": "1738082793"
+    },
+    "debug": {
+      "buildid": "8199635",
+      "description": "debug version with more verbose options",
+      "timeupdated": "1644845014",
+      "timebuildupdated": "1644845014"
+    },
+    "original": {
+      "buildid": "2242051",
+      "description": "original release",
+      "timeupdated": "1609696348",
+      "timebuildupdated": "1509371542"
+    },
+    "beta": {
+      "buildid": "24881872",
+      "description": "branch for beta builds",
+      "timeupdated": "1787418389",
+      "timebuildupdated": "1787418389"
+    }
+  },
+  "depot": {
+    "556921": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "939976089004133524",
+          "size": "504569274",
+          "download": "275326912"
+        }
+      }
+    },
+    "556922": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3813051423464363082",
+          "size": "515767219",
+          "download": "284483264"
+        }
+      }
+    },
+    "632740": {
+      "manifests": {
+        "public": {
+          "gid": "8043808343572223096",
+          "size": "112313635",
+          "download": "109613776"
+        }
+      },
+      "dlcappid": "632740"
+    },
+    "branches": {
+      "public": {
+        "buildid": "17160660",
+        "timeupdated": "1742556308",
+        "timebuildupdated": "1738082793"
+      },
+      "debug": {
+        "buildid": "8199635",
+        "description": "debug version with more verbose options",
+        "timeupdated": "1644845014",
+        "timebuildupdated": "1644845014"
+      },
+      "original": {
+        "buildid": "2242051",
+        "description": "original release",
+        "timeupdated": "1609696348",
+        "timebuildupdated": "1509371542"
+      },
+      "beta": {
+        "buildid": "24881872",
+        "description": "branch for beta builds",
+        "timeupdated": "1787418389",
+        "timebuildupdated": "1787418389"
+      }
+    }
+  }
+}

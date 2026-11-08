@@ -1,0 +1,82 @@
+{
+  "name": "Beyond Sunset",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:06:56.011Z",
+  "branches": {
+    "public": {
+      "buildid": "22229631",
+      "timeupdated": "1772798718",
+      "timebuildupdated": "1772798718"
+    },
+    "latest": {
+      "buildid": "22229640",
+      "description": "latest build",
+      "timeupdated": "1772798766",
+      "timebuildupdated": "1772798766"
+    },
+    "previous": {
+      "buildid": "20293289",
+      "description": "Previous live build",
+      "timeupdated": "1772798821",
+      "timebuildupdated": "1759872872"
+    }
+  },
+  "depot": {
+    "1665261": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4371680143814498276",
+          "size": "462172200",
+          "download": "407754592"
+        }
+      }
+    },
+    "1665262": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "598893841962737914",
+          "size": "501836758",
+          "download": "418204848"
+        }
+      }
+    },
+    "1665263": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "111056769859574370",
+          "size": "477352885",
+          "download": "411111600"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22229631",
+        "timeupdated": "1772798718",
+        "timebuildupdated": "1772798718"
+      },
+      "latest": {
+        "buildid": "22229640",
+        "description": "latest build",
+        "timeupdated": "1772798766",
+        "timebuildupdated": "1772798766"
+      },
+      "previous": {
+        "buildid": "20293289",
+        "description": "Previous live build",
+        "timeupdated": "1772798821",
+        "timebuildupdated": "1759872872"
+      }
+    }
+  }
+}

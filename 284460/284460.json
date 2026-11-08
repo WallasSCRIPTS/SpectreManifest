@@ -1,0 +1,88 @@
+{
+  "name": "DeadCore",
+  "source": "spectre",
+  "changenumber": 38625094,
+  "updated": "2026-11-07T20:56:23.110Z",
+  "branches": {
+    "public": {
+      "buildid": "639964",
+      "timebuildupdated": "1432882537"
+    },
+    "deadcore_1.0": {
+      "buildid": "401758",
+      "timebuildupdated": "1412581386"
+    },
+    "local": {
+      "buildid": "367575",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1409238422"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "284461": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3184595469101695176",
+          "size": "3851898656",
+          "download": "1578401808"
+        }
+      }
+    },
+    "284462": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4644777690704129229",
+          "size": "3855798854",
+          "download": "1616309104"
+        }
+      }
+    },
+    "284463": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8810631418131657214",
+          "size": "3852816048",
+          "download": "1626526032"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "639964",
+        "timebuildupdated": "1432882537"
+      },
+      "deadcore_1.0": {
+        "buildid": "401758",
+        "timebuildupdated": "1412581386"
+      },
+      "local": {
+        "buildid": "367575",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1409238422"
+      }
+    }
+  }
+}

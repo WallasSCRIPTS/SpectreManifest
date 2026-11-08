@@ -1,0 +1,64 @@
+{
+  "name": "Radial-G : Racing Revolved",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:44.484Z",
+  "branches": {
+    "public": {
+      "buildid": "1351360",
+      "timeupdated": "1474645807",
+      "timebuildupdated": "1474563424"
+    },
+    "oculusruntime0.8": {
+      "buildid": "861586",
+      "description": "Only for Oculus DK2",
+      "timeupdated": "1460266398",
+      "timebuildupdated": "1447770552"
+    },
+    "osvr_dedicated": {
+      "buildid": "1353532",
+      "description": "Dedicated OSVR Build",
+      "timeupdated": "1474643482",
+      "timebuildupdated": "1474643464"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "330771": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6771308402617739403",
+          "size": "4810119716",
+          "download": "1926407856"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1351360",
+        "timeupdated": "1474645807",
+        "timebuildupdated": "1474563424"
+      },
+      "oculusruntime0.8": {
+        "buildid": "861586",
+        "description": "Only for Oculus DK2",
+        "timeupdated": "1460266398",
+        "timebuildupdated": "1447770552"
+      },
+      "osvr_dedicated": {
+        "buildid": "1353532",
+        "description": "Dedicated OSVR Build",
+        "timeupdated": "1474643482",
+        "timebuildupdated": "1474643464"
+      }
+    }
+  }
+}

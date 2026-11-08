@@ -1,0 +1,70 @@
+{
+  "name": "HIGHBLAST",
+  "source": "spectre",
+  "changenumber": 39554034,
+  "updated": "2026-11-06T23:11:32.478Z",
+  "branches": {
+    "public": {
+      "buildid": "13297438",
+      "timeupdated": "1706491492",
+      "timebuildupdated": "1706491378"
+    },
+    "beta": {
+      "buildid": "13297438",
+      "description": "The beta branch",
+      "timeupdated": "1706491413",
+      "timebuildupdated": "1706491378"
+    }
+  },
+  "depot": {
+    "1801631": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6750883498003614053",
+          "size": "590047468",
+          "download": "254792128"
+        }
+      }
+    },
+    "1801632": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8830540281246522577",
+          "size": "387329112",
+          "download": "387325616"
+        }
+      }
+    },
+    "1801633": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8198269463640350912",
+          "size": "584781365",
+          "download": "252083136"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13297438",
+        "timeupdated": "1706491492",
+        "timebuildupdated": "1706491378"
+      },
+      "beta": {
+        "buildid": "13297438",
+        "description": "The beta branch",
+        "timeupdated": "1706491413",
+        "timebuildupdated": "1706491378"
+      }
+    }
+  }
+}

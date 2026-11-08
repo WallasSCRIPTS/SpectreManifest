@@ -1,0 +1,76 @@
+{
+  "name": "Kairo",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:07.935Z",
+  "branches": {
+    "public": {
+      "buildid": "200149",
+      "timebuildupdated": "1393438079"
+    },
+    "dk1version": {
+      "buildid": "200149",
+      "description": "Older Oculus DK1 build",
+      "timebuildupdated": "1393438079"
+    },
+    "dk2version": {
+      "buildid": "808445",
+      "description": "Oculus DK2 beta",
+      "timebuildupdated": "1444400618"
+    }
+  },
+  "depot": {
+    "233231": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6840292480696217416",
+          "size": "578751645",
+          "download": "0"
+        }
+      }
+    },
+    "233232": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4229522174878207981",
+          "size": "591570016",
+          "download": "0"
+        }
+      }
+    },
+    "233233": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6678920751493770129",
+          "size": "600829711",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "200149",
+        "timebuildupdated": "1393438079"
+      },
+      "dk1version": {
+        "buildid": "200149",
+        "description": "Older Oculus DK1 build",
+        "timebuildupdated": "1393438079"
+      },
+      "dk2version": {
+        "buildid": "808445",
+        "description": "Oculus DK2 beta",
+        "timebuildupdated": "1444400618"
+      }
+    }
+  }
+}

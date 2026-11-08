@@ -1,0 +1,61 @@
+{
+  "name": "Robots In The Wild",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:58:19.483Z",
+  "branches": {
+    "public": {
+      "buildid": "1664681",
+      "timeupdated": "1488408708",
+      "timebuildupdated": "1488408627"
+    },
+    "devtest": {
+      "buildid": "1676777",
+      "timeupdated": "1488934216",
+      "timebuildupdated": "1488934195"
+    }
+  },
+  "depot": {
+    "501271": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5805287280447473820",
+          "size": "66115072",
+          "download": "66887328"
+        }
+      }
+    },
+    "501272": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1769132776646705158",
+          "size": "90846701",
+          "download": "64439904"
+        }
+      }
+    },
+    "501273": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1664681",
+        "timeupdated": "1488408708",
+        "timebuildupdated": "1488408627"
+      },
+      "devtest": {
+        "buildid": "1676777",
+        "timeupdated": "1488934216",
+        "timebuildupdated": "1488934195"
+      }
+    }
+  }
+}

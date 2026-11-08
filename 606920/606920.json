@@ -1,0 +1,62 @@
+{
+  "name": "EXA: The Infinite Instrument",
+  "source": "spectre",
+  "changenumber": 35244599,
+  "updated": "2026-11-07T20:59:12.882Z",
+  "branches": {
+    "public": {
+      "buildid": "3526571",
+      "timeupdated": "1549134455",
+      "timebuildupdated": "1549134335"
+    },
+    "preview": {
+      "buildid": "3605641",
+      "timeupdated": "1551399978",
+      "timebuildupdated": "1551399951"
+    },
+    "rollback": {
+      "buildid": "3112748",
+      "description": "The previous build.",
+      "timeupdated": "1548966564",
+      "timebuildupdated": "1536700510"
+    }
+  },
+  "depot": {
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "606921": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5177140004614429010",
+          "size": "741147398",
+          "download": "396001056"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3526571",
+        "timeupdated": "1549134455",
+        "timebuildupdated": "1549134335"
+      },
+      "preview": {
+        "buildid": "3605641",
+        "timeupdated": "1551399978",
+        "timebuildupdated": "1551399951"
+      },
+      "rollback": {
+        "buildid": "3112748",
+        "description": "The previous build.",
+        "timeupdated": "1548966564",
+        "timebuildupdated": "1536700510"
+      }
+    }
+  }
+}

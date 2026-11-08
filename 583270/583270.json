@@ -1,0 +1,70 @@
+{
+  "name": "Cosmic Express",
+  "source": "spectre",
+  "changenumber": 37436216,
+  "updated": "2026-11-07T20:59:01.376Z",
+  "branches": {
+    "public": {
+      "buildid": "1735392",
+      "timeupdated": "1491342620",
+      "timebuildupdated": "1491342392"
+    },
+    "v1.0": {
+      "buildid": "1735392",
+      "description": "Older build, in case of incompatibility",
+      "timeupdated": "1631835211",
+      "timebuildupdated": "1491342392"
+    }
+  },
+  "depot": {
+    "583271": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5413144616197613053",
+          "size": "208120092",
+          "download": "61288432"
+        }
+      }
+    },
+    "583272": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "447393174861213990",
+          "size": "256363423",
+          "download": "73712624"
+        }
+      }
+    },
+    "583273": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7086465685385556408",
+          "size": "249360791",
+          "download": "73822224"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1735392",
+        "timeupdated": "1491342620",
+        "timebuildupdated": "1491342392"
+      },
+      "v1.0": {
+        "buildid": "1735392",
+        "description": "Older build, in case of incompatibility",
+        "timeupdated": "1631835211",
+        "timebuildupdated": "1491342392"
+      }
+    }
+  }
+}

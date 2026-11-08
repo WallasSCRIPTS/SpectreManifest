@@ -1,0 +1,58 @@
+{
+  "name": "ONRAID",
+  "source": "spectre",
+  "changenumber": 40315868,
+  "updated": "2026-11-07T20:58:24.707Z",
+  "branches": {
+    "public": {
+      "buildid": "2039325",
+      "timeupdated": "1502809993",
+      "timebuildupdated": "1502802708"
+    }
+  },
+  "depot": {
+    "511801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9125685905927074350",
+          "size": "764224399",
+          "download": "326549424"
+        }
+      }
+    },
+    "511802": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2376643191890950713",
+          "size": "743992166",
+          "download": "315327088"
+        }
+      }
+    },
+    "511803": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7464595657199317886",
+          "size": "724728548",
+          "download": "300813584"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2039325",
+        "timeupdated": "1502809993",
+        "timebuildupdated": "1502802708"
+      }
+    }
+  }
+}

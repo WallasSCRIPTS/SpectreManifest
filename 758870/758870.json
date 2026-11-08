@@ -1,0 +1,70 @@
+{
+  "name": "Kynseed",
+  "source": "spectre",
+  "changenumber": 40458312,
+  "updated": "2026-11-07T21:00:28.009Z",
+  "branches": {
+    "public": {
+      "buildid": "26295747",
+      "timeupdated": "1793362245",
+      "timebuildupdated": "1793273567"
+    },
+    "legacyearlyaccess": {
+      "buildid": "10082973",
+      "description": "To play the old early access version",
+      "timeupdated": "1670272636",
+      "timebuildupdated": "1670272229"
+    },
+    "32bit_version": {
+      "buildid": "21925398",
+      "description": "for compatibility",
+      "timeupdated": "1771244617",
+      "timebuildupdated": "1771008769"
+    },
+    "experimental": {
+      "buildid": "26295224",
+      "description": "Unstable and may break saves.  Use for testing latest only",
+      "timeupdated": "1793273703",
+      "timebuildupdated": "1793271931"
+    }
+  },
+  "depot": {
+    "758871": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8641588368772689312",
+          "size": "752900945",
+          "download": "530149472"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26295747",
+        "timeupdated": "1793362245",
+        "timebuildupdated": "1793273567"
+      },
+      "legacyearlyaccess": {
+        "buildid": "10082973",
+        "description": "To play the old early access version",
+        "timeupdated": "1670272636",
+        "timebuildupdated": "1670272229"
+      },
+      "32bit_version": {
+        "buildid": "21925398",
+        "description": "for compatibility",
+        "timeupdated": "1771244617",
+        "timebuildupdated": "1771008769"
+      },
+      "experimental": {
+        "buildid": "26295224",
+        "description": "Unstable and may break saves.  Use for testing latest only",
+        "timeupdated": "1793273703",
+        "timebuildupdated": "1793271931"
+      }
+    }
+  }
+}

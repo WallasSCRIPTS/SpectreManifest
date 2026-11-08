@@ -1,0 +1,70 @@
+{
+  "name": "Outpost Delta",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:15.897Z",
+  "branches": {
+    "public": {
+      "buildid": "6722364",
+      "timeupdated": "1626425274",
+      "timebuildupdated": "1621401517"
+    },
+    "beta": {
+      "buildid": "6107179",
+      "description": "Beta test/preview",
+      "timeupdated": "1613167710",
+      "timebuildupdated": "1611089086"
+    }
+  },
+  "depot": {
+    "1099091": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1281910264515103138",
+          "size": "190233702",
+          "download": "53989040"
+        }
+      }
+    },
+    "1099092": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8718809349843030361",
+          "size": "189274110",
+          "download": "53039312"
+        }
+      }
+    },
+    "1099093": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7346131064555019944",
+          "size": "202858621",
+          "download": "56451280"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6722364",
+        "timeupdated": "1626425274",
+        "timebuildupdated": "1621401517"
+      },
+      "beta": {
+        "buildid": "6107179",
+        "description": "Beta test/preview",
+        "timeupdated": "1613167710",
+        "timebuildupdated": "1611089086"
+      }
+    }
+  }
+}

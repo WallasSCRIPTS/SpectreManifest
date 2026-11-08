@@ -1,0 +1,64 @@
+{
+  "name": "Jeklynn Heights",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T20:56:11.124Z",
+  "branches": {
+    "public": {
+      "buildid": "1194430",
+      "timeupdated": "1466660548",
+      "timebuildupdated": "1466660496"
+    },
+    "local": {
+      "buildid": "230270",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1396883195"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "246821": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "551202132442970083",
+          "size": "1113002194",
+          "download": "813316720"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1194430",
+        "timeupdated": "1466660548",
+        "timebuildupdated": "1466660496"
+      },
+      "local": {
+        "buildid": "230270",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1396883195"
+      }
+    }
+  }
+}

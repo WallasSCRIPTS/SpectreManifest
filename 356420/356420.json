@@ -1,0 +1,81 @@
+{
+  "name": "Interloper",
+  "source": "spectre",
+  "changenumber": 40062413,
+  "updated": "2026-11-07T20:57:06.589Z",
+  "branches": {
+    "public": {
+      "buildid": "1851187",
+      "timeupdated": "1496008973",
+      "timebuildupdated": "1496008929"
+    },
+    "windowsfna": {
+      "buildid": "1157789",
+      "description": "FNA version of Windows build",
+      "timeupdated": "1464774404",
+      "timebuildupdated": "1464774404"
+    }
+  },
+  "depot": {
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "356421": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7726841099995136684",
+          "size": "287924516",
+          "download": "277851152"
+        }
+      }
+    },
+    "356422": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2960998528694935284",
+          "size": "333995053",
+          "download": "288299504"
+        }
+      }
+    },
+    "356423": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7425526924343033969",
+          "size": "460761359",
+          "download": "292973168"
+        }
+      }
+    },
+    "356424": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1851187",
+        "timeupdated": "1496008973",
+        "timebuildupdated": "1496008929"
+      },
+      "windowsfna": {
+        "buildid": "1157789",
+        "description": "FNA version of Windows build",
+        "timeupdated": "1464774404",
+        "timebuildupdated": "1464774404"
+      }
+    }
+  }
+}

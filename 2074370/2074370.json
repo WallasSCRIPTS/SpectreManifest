@@ -1,0 +1,58 @@
+{
+  "name": "REPLAY BOYS",
+  "source": "spectre",
+  "changenumber": 39471542,
+  "updated": "2026-11-06T23:17:28.538Z",
+  "branches": {
+    "public": {
+      "buildid": "14800801",
+      "timeupdated": "1719016965",
+      "timebuildupdated": "1719016849"
+    },
+    "beta": {
+      "buildid": "14800801",
+      "description": "for testing patches",
+      "timeupdated": "1736202448",
+      "timebuildupdated": "1719016849"
+    }
+  },
+  "depot": {
+    "2074371": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6175820079895360044",
+          "size": "466557772",
+          "download": "453975472"
+        }
+      }
+    },
+    "2074372": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2843534526876266025",
+          "size": "468181978",
+          "download": "457087088"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14800801",
+        "timeupdated": "1719016965",
+        "timebuildupdated": "1719016849"
+      },
+      "beta": {
+        "buildid": "14800801",
+        "description": "for testing patches",
+        "timeupdated": "1736202448",
+        "timebuildupdated": "1719016849"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Armored Evolution",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:37.915Z",
+  "branches": {
+    "public": {
+      "buildid": "6103217",
+      "timeupdated": "1611032971",
+      "timebuildupdated": "1611032863"
+    },
+    "beta": {
+      "buildid": "6103217",
+      "description": "beta testing",
+      "timeupdated": "1611032863",
+      "timebuildupdated": "1611032863"
+    }
+  },
+  "depot": {
+    "778841": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4440320470872789545",
+          "size": "2069226215",
+          "download": "745897504"
+        }
+      }
+    },
+    "778842": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8710695900969784405",
+          "size": "2069007829",
+          "download": "746151440"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6103217",
+        "timeupdated": "1611032971",
+        "timebuildupdated": "1611032863"
+      },
+      "beta": {
+        "buildid": "6103217",
+        "description": "beta testing",
+        "timeupdated": "1611032863",
+        "timebuildupdated": "1611032863"
+      }
+    }
+  }
+}

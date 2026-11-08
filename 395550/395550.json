@@ -1,0 +1,58 @@
+{
+  "name": "Operation Hardcore",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:30.607Z",
+  "branches": {
+    "public": {
+      "buildid": "4974575",
+      "timeupdated": "1590242670",
+      "timebuildupdated": "1588429189"
+    },
+    "beta": {
+      "buildid": "6272206",
+      "description": "Beta branch",
+      "timeupdated": "1613919728",
+      "timebuildupdated": "1613919728"
+    }
+  },
+  "depot": {
+    "395551": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7556926826422208353",
+          "size": "368094238",
+          "download": "223694816"
+        }
+      }
+    },
+    "395552": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "315511083743982227",
+          "size": "383281243",
+          "download": "230715664"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4974575",
+        "timeupdated": "1590242670",
+        "timebuildupdated": "1588429189"
+      },
+      "beta": {
+        "buildid": "6272206",
+        "description": "Beta branch",
+        "timeupdated": "1613919728",
+        "timebuildupdated": "1613919728"
+      }
+    }
+  }
+}

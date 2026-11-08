@@ -1,0 +1,78 @@
+{
+  "name": "Knockback: The Awakening",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:04:18.232Z",
+  "branches": {
+    "public": {
+      "buildid": "5221015",
+      "timeupdated": "1593200315",
+      "timebuildupdated": "1593199899"
+    },
+    "blundershire": {
+      "buildid": "5381580",
+      "timeupdated": "1596751145",
+      "timebuildupdated": "1596749927"
+    },
+    "release-candidate": {
+      "buildid": "5216947",
+      "timeupdated": "1593139958",
+      "timebuildupdated": "1593133505"
+    }
+  },
+  "depot": {
+    "1212111": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8359943198863117612",
+          "size": "1111441737",
+          "download": "310786720"
+        }
+      }
+    },
+    "1212112": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7455824540155664851",
+          "size": "1121448704",
+          "download": "318347088"
+        }
+      }
+    },
+    "1212113": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "418553753950284039",
+          "size": "1134738934",
+          "download": "327169856"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5221015",
+        "timeupdated": "1593200315",
+        "timebuildupdated": "1593199899"
+      },
+      "blundershire": {
+        "buildid": "5381580",
+        "timeupdated": "1596751145",
+        "timebuildupdated": "1596749927"
+      },
+      "release-candidate": {
+        "buildid": "5216947",
+        "timeupdated": "1593139958",
+        "timebuildupdated": "1593133505"
+      }
+    }
+  }
+}

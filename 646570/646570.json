@@ -1,0 +1,302 @@
+{
+  "name": "Slay the Spire",
+  "source": "spectre",
+  "changenumber": 40309375,
+  "updated": "2026-11-07T20:59:28.796Z",
+  "branches": {
+    "public": {
+      "buildid": "10180494",
+      "timeupdated": "1671497797",
+      "timebuildupdated": "1671496024"
+    },
+    "beta": {
+      "buildid": "10174821",
+      "description": "Beta branch for testing new content and risky fixes. Unstable",
+      "timeupdated": "1671497193",
+      "timebuildupdated": "1671430290"
+    },
+    "libgdx199": {
+      "buildid": "8331620",
+      "description": "Updated game engine version (BETA BRANCH)",
+      "timeupdated": "1646772626",
+      "timebuildupdated": "1646722468"
+    },
+    "libgdx199.main": {
+      "buildid": "8335992",
+      "description": "Updated game engine version (MAIN BRANCH)",
+      "timeupdated": "1646777707",
+      "timebuildupdated": "1646774871"
+    },
+    "troubleshoot": {
+      "buildid": "10180494",
+      "description": "For troubleshooting game issues.",
+      "timeupdated": "1671497875",
+      "timebuildupdated": "1671496024"
+    },
+    "v1.0": {
+      "buildid": "3495375",
+      "description": "2019-23-01",
+      "timeupdated": "1562010477",
+      "timebuildupdated": "1548268856"
+    },
+    "v1.1": {
+      "buildid": "4021395",
+      "description": "2019-17-07",
+      "timeupdated": "1579031304",
+      "timebuildupdated": "1563409631"
+    },
+    "v2.0": {
+      "buildid": "4614548",
+      "description": "2020-27-01",
+      "timeupdated": "1590444764",
+      "timebuildupdated": "1580195098"
+    },
+    "v2.0-libgdx199": {
+      "buildid": "4614333",
+      "description": "2020-27-01 Updated game engine version (MAIN BRANCH)",
+      "timeupdated": "1590444753",
+      "timebuildupdated": "1580187915"
+    },
+    "v2.1": {
+      "buildid": "5353427",
+      "description": "2020-30-07",
+      "timeupdated": "1596227057",
+      "timebuildupdated": "1596147010"
+    },
+    "v2.1-libgdx199": {
+      "buildid": "5353516",
+      "description": "2020-30-07 Updated game engine version (MAIN BRANCH)",
+      "timeupdated": "1596227065",
+      "timebuildupdated": "1596148552"
+    },
+    "v2.2": {
+      "buildid": "6004835",
+      "description": "2020-29-11",
+      "timeupdated": "1608697027",
+      "timebuildupdated": "1608680819"
+    },
+    "v2.2-libgdx199": {
+      "buildid": "6004870",
+      "description": "2020-29-11 Updated game engine version (MAIN BRANCH)",
+      "timeupdated": "1608697017",
+      "timebuildupdated": "1608681437"
+    },
+    "v2.3": {
+      "buildid": "8335972",
+      "description": "2022-26-02",
+      "timeupdated": "1646777672",
+      "timebuildupdated": "1646774550"
+    },
+    "v2.3-libgdx199": {
+      "buildid": "8335992",
+      "description": "2022-26-02 Updated game engine version (MAIN BRANCH)",
+      "timeupdated": "1646777682",
+      "timebuildupdated": "1646774871"
+    },
+    "v2.3.1": {
+      "buildid": "9654957",
+      "description": "2022-10-04",
+      "timeupdated": "1664931652",
+      "timebuildupdated": "1664930823"
+    },
+    "v2.3.2": {
+      "buildid": "9656851",
+      "description": "2022-10-04",
+      "timeupdated": "1664955053",
+      "timebuildupdated": "1664954561"
+    },
+    "v2.3.3": {
+      "buildid": "10052103",
+      "description": "2022-12-01",
+      "timeupdated": "1669937071",
+      "timebuildupdated": "1669854743"
+    },
+    "v2.3.4": {
+      "buildid": "10180494",
+      "description": "2022-12-18",
+      "timeupdated": "1671496917",
+      "timebuildupdated": "1671496024"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "646571": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9072802409324604124",
+          "size": "541513970",
+          "download": "420565344"
+        }
+      }
+    },
+    "646572": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2910015420030023273",
+          "size": "471113092",
+          "download": "400802112"
+        }
+      }
+    },
+    "646573": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5221386008033040636",
+          "size": "573377566",
+          "download": "426709056"
+        }
+      }
+    },
+    "646574": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6089130681980710352",
+          "size": "538030886",
+          "download": "421207264"
+        }
+      }
+    },
+    "877621": {
+      "manifests": {
+        "public": {
+          "gid": "1616206291221819177",
+          "size": "153829851",
+          "download": "148973696"
+        }
+      },
+      "depotfromapp": "877620"
+    },
+    "branches": {
+      "public": {
+        "buildid": "10180494",
+        "timeupdated": "1671497797",
+        "timebuildupdated": "1671496024"
+      },
+      "beta": {
+        "buildid": "10174821",
+        "description": "Beta branch for testing new content and risky fixes. Unstable",
+        "timeupdated": "1671497193",
+        "timebuildupdated": "1671430290"
+      },
+      "libgdx199": {
+        "buildid": "8331620",
+        "description": "Updated game engine version (BETA BRANCH)",
+        "timeupdated": "1646772626",
+        "timebuildupdated": "1646722468"
+      },
+      "libgdx199.main": {
+        "buildid": "8335992",
+        "description": "Updated game engine version (MAIN BRANCH)",
+        "timeupdated": "1646777707",
+        "timebuildupdated": "1646774871"
+      },
+      "troubleshoot": {
+        "buildid": "10180494",
+        "description": "For troubleshooting game issues.",
+        "timeupdated": "1671497875",
+        "timebuildupdated": "1671496024"
+      },
+      "v1.0": {
+        "buildid": "3495375",
+        "description": "2019-23-01",
+        "timeupdated": "1562010477",
+        "timebuildupdated": "1548268856"
+      },
+      "v1.1": {
+        "buildid": "4021395",
+        "description": "2019-17-07",
+        "timeupdated": "1579031304",
+        "timebuildupdated": "1563409631"
+      },
+      "v2.0": {
+        "buildid": "4614548",
+        "description": "2020-27-01",
+        "timeupdated": "1590444764",
+        "timebuildupdated": "1580195098"
+      },
+      "v2.0-libgdx199": {
+        "buildid": "4614333",
+        "description": "2020-27-01 Updated game engine version (MAIN BRANCH)",
+        "timeupdated": "1590444753",
+        "timebuildupdated": "1580187915"
+      },
+      "v2.1": {
+        "buildid": "5353427",
+        "description": "2020-30-07",
+        "timeupdated": "1596227057",
+        "timebuildupdated": "1596147010"
+      },
+      "v2.1-libgdx199": {
+        "buildid": "5353516",
+        "description": "2020-30-07 Updated game engine version (MAIN BRANCH)",
+        "timeupdated": "1596227065",
+        "timebuildupdated": "1596148552"
+      },
+      "v2.2": {
+        "buildid": "6004835",
+        "description": "2020-29-11",
+        "timeupdated": "1608697027",
+        "timebuildupdated": "1608680819"
+      },
+      "v2.2-libgdx199": {
+        "buildid": "6004870",
+        "description": "2020-29-11 Updated game engine version (MAIN BRANCH)",
+        "timeupdated": "1608697017",
+        "timebuildupdated": "1608681437"
+      },
+      "v2.3": {
+        "buildid": "8335972",
+        "description": "2022-26-02",
+        "timeupdated": "1646777672",
+        "timebuildupdated": "1646774550"
+      },
+      "v2.3-libgdx199": {
+        "buildid": "8335992",
+        "description": "2022-26-02 Updated game engine version (MAIN BRANCH)",
+        "timeupdated": "1646777682",
+        "timebuildupdated": "1646774871"
+      },
+      "v2.3.1": {
+        "buildid": "9654957",
+        "description": "2022-10-04",
+        "timeupdated": "1664931652",
+        "timebuildupdated": "1664930823"
+      },
+      "v2.3.2": {
+        "buildid": "9656851",
+        "description": "2022-10-04",
+        "timeupdated": "1664955053",
+        "timebuildupdated": "1664954561"
+      },
+      "v2.3.3": {
+        "buildid": "10052103",
+        "description": "2022-12-01",
+        "timeupdated": "1669937071",
+        "timebuildupdated": "1669854743"
+      },
+      "v2.3.4": {
+        "buildid": "10180494",
+        "description": "2022-12-18",
+        "timeupdated": "1671496917",
+        "timebuildupdated": "1671496024"
+      }
+    }
+  }
+}

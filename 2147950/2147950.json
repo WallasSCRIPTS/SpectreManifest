@@ -1,0 +1,70 @@
+{
+  "name": "4D Golf",
+  "source": "spectre",
+  "changenumber": 40467376,
+  "updated": "2026-11-06T21:07:14.327Z",
+  "branches": {
+    "public": {
+      "buildid": "15796678",
+      "timeupdated": "1727194993",
+      "timebuildupdated": "1727105700"
+    },
+    "beta": {
+      "buildid": "24848009",
+      "description": "Latest changes, may have bugs.",
+      "timeupdated": "1787256269",
+      "timebuildupdated": "1787256027"
+    }
+  },
+  "depot": {
+    "2147951": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6007596817015187582",
+          "size": "1133617669",
+          "download": "167480032"
+        }
+      }
+    },
+    "2147952": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3277942535432226922",
+          "size": "1101686358",
+          "download": "162566880"
+        }
+      }
+    },
+    "2147953": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1082510335987126974",
+          "size": "1134795599",
+          "download": "169915104"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15796678",
+        "timeupdated": "1727194993",
+        "timebuildupdated": "1727105700"
+      },
+      "beta": {
+        "buildid": "24848009",
+        "description": "Latest changes, may have bugs.",
+        "timeupdated": "1787256269",
+        "timebuildupdated": "1787256027"
+      }
+    }
+  }
+}

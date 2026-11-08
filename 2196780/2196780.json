@@ -1,0 +1,72 @@
+{
+  "name": "ANXRacers",
+  "source": "spectre",
+  "changenumber": 35318293,
+  "updated": "2026-11-06T23:19:30.067Z",
+  "branches": {
+    "public": {
+      "buildid": "12682684",
+      "timeupdated": "1699790824",
+      "timebuildupdated": "1699790582"
+    },
+    "local": {
+      "buildid": "12041441",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1693100625",
+      "timebuildupdated": "1693100625"
+    }
+  },
+  "depot": {
+    "2196781": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3526339637496880617",
+          "size": "98611421",
+          "download": "42134688"
+        }
+      }
+    },
+    "2196782": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4770723682969163779",
+          "size": "206059684",
+          "download": "66213184"
+        }
+      }
+    },
+    "2196783": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4374813275508854673",
+          "size": "112689946",
+          "download": "43255664"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12682684",
+        "timeupdated": "1699790824",
+        "timebuildupdated": "1699790582"
+      },
+      "local": {
+        "buildid": "12041441",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1693100625",
+        "timebuildupdated": "1693100625"
+      }
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "name": "ALICE VR",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:25.493Z",
+  "branches": {
+    "public": {
+      "buildid": "1801899",
+      "timeupdated": "1494256439",
+      "timebuildupdated": "1493974235"
+    },
+    "legacy": {
+      "buildid": "1635807",
+      "description": "Alice VR patch 6 (W7 compatible)",
+      "timeupdated": "1493971641",
+      "timebuildupdated": "1487251660"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229033": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "513321": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1646150157609617544",
+          "size": "8970199370",
+          "download": "8855362208"
+        }
+      }
+    },
+    "513322": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "79931574517506438",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "513323": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3271906696192113006",
+          "size": "9104771971",
+          "download": "8616159376"
+        }
+      }
+    },
+    "530670": {
+      "manifests": {
+        "public": {
+          "gid": "2013020044397712650",
+          "size": "1095251290",
+          "download": "905571792"
+        }
+      },
+      "dlcappid": "530670"
+    },
+    "530671": {
+      "manifests": {
+        "public": {
+          "gid": "4557314950196578938",
+          "size": "451436688",
+          "download": "358174688"
+        }
+      },
+      "dlcappid": "530671"
+    },
+    "544620": {
+      "manifests": {
+        "public": {
+          "gid": "4816681018804892247",
+          "size": "784324448",
+          "download": "789712128"
+        }
+      },
+      "dlcappid": "544620"
+    },
+    "612870": {
+      "manifests": {
+        "public": {
+          "gid": "5467136075960186464",
+          "size": "637439407",
+          "download": "634614432"
+        }
+      },
+      "dlcappid": "612870"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1801899",
+        "timeupdated": "1494256439",
+        "timebuildupdated": "1493974235"
+      },
+      "legacy": {
+        "buildid": "1635807",
+        "description": "Alice VR patch 6 (W7 compatible)",
+        "timeupdated": "1493971641",
+        "timebuildupdated": "1487251660"
+      }
+    }
+  }
+}

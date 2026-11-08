@@ -1,0 +1,70 @@
+{
+  "name": "The Last Plague: Blight",
+  "source": "spectre",
+  "changenumber": 40061326,
+  "updated": "2026-11-06T21:06:11.278Z",
+  "branches": {
+    "public": {
+      "buildid": "24535672",
+      "timeupdated": "1785776517",
+      "timebuildupdated": "1785773191"
+    },
+    "new-save-system": {
+      "buildid": "26090150",
+      "description": "Beta branch to test out the new save system",
+      "timeupdated": "1792531465",
+      "timebuildupdated": "1792530024"
+    }
+  },
+  "depot": {
+    "1564601": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6402971272640274489",
+          "size": "5580923273",
+          "download": "2461335312"
+        }
+      }
+    },
+    "1564602": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2867280299929022937",
+          "size": "5451030567",
+          "download": "2423966160"
+        }
+      }
+    },
+    "1564603": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7558104991443384133",
+          "size": "5748690348",
+          "download": "2553125392"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24535672",
+        "timeupdated": "1785776517",
+        "timebuildupdated": "1785773191"
+      },
+      "new-save-system": {
+        "buildid": "26090150",
+        "description": "Beta branch to test out the new save system",
+        "timeupdated": "1792531465",
+        "timebuildupdated": "1792530024"
+      }
+    }
+  }
+}

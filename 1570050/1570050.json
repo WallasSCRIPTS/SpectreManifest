@@ -1,0 +1,82 @@
+{
+  "name": "冲击五十关",
+  "source": "spectre",
+  "changenumber": 34864317,
+  "updated": "2026-11-06T21:06:14.081Z",
+  "branches": {
+    "public": {
+      "buildid": "7224291",
+      "timeupdated": "1629481510",
+      "timebuildupdated": "1629481495"
+    },
+    "linux": {
+      "buildid": "7224291",
+      "description": "linux",
+      "timeupdated": "1629481504",
+      "timebuildupdated": "1629481495"
+    },
+    "macos": {
+      "buildid": "7224291",
+      "description": "macos",
+      "timeupdated": "1629481496",
+      "timebuildupdated": "1629481495"
+    }
+  },
+  "depot": {
+    "1570052": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3862713611278932818",
+          "size": "130126420",
+          "download": "46776816"
+        }
+      }
+    },
+    "1570053": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4585057279313081279",
+          "size": "154190405",
+          "download": "44164704"
+        }
+      }
+    },
+    "1570054": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4674785036888479156",
+          "size": "106992839",
+          "download": "39865328"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7224291",
+        "timeupdated": "1629481510",
+        "timebuildupdated": "1629481495"
+      },
+      "linux": {
+        "buildid": "7224291",
+        "description": "linux",
+        "timeupdated": "1629481504",
+        "timebuildupdated": "1629481495"
+      },
+      "macos": {
+        "buildid": "7224291",
+        "description": "macos",
+        "timeupdated": "1629481496",
+        "timebuildupdated": "1629481495"
+      }
+    }
+  }
+}

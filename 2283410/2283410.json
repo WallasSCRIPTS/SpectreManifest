@@ -1,0 +1,70 @@
+{
+  "name": "Cthuloot",
+  "source": "spectre",
+  "changenumber": 40457152,
+  "updated": "2026-11-06T23:21:24.788Z",
+  "branches": {
+    "public": {
+      "buildid": "23358499",
+      "timeupdated": "1779704226",
+      "timebuildupdated": "1779433825"
+    },
+    "staging": {
+      "buildid": "23358499",
+      "description": "Testing builds",
+      "timeupdated": "1779433825",
+      "timebuildupdated": "1779433825"
+    }
+  },
+  "depot": {
+    "2283411": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "53904690373343376",
+          "size": "902173222",
+          "download": "222000864"
+        }
+      }
+    },
+    "2283412": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "548146508561695154",
+          "size": "930566462",
+          "download": "233684576"
+        }
+      }
+    },
+    "2283413": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3511895458693816657",
+          "size": "906326098",
+          "download": "225430624"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23358499",
+        "timeupdated": "1779704226",
+        "timebuildupdated": "1779433825"
+      },
+      "staging": {
+        "buildid": "23358499",
+        "description": "Testing builds",
+        "timeupdated": "1779433825",
+        "timebuildupdated": "1779433825"
+      }
+    }
+  }
+}

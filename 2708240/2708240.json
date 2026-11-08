@@ -1,0 +1,88 @@
+{
+  "name": "Starfire Skies Demo",
+  "source": "spectre",
+  "changenumber": 40463829,
+  "updated": "2026-11-04T23:24:37.250Z",
+  "branches": {
+    "public": {
+      "buildid": "26350531",
+      "timeupdated": "1793475437",
+      "timebuildupdated": "1793475365"
+    },
+    "beta": {
+      "buildid": "26030595",
+      "description": "beta",
+      "timeupdated": "1792347879",
+      "timebuildupdated": "1792347831"
+    },
+    "macos-testing": {
+      "buildid": "26350531",
+      "description": "MacOS beta testing",
+      "timeupdated": "1793475365",
+      "timebuildupdated": "1793475365"
+    }
+  },
+  "depot": {
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2708241": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3151045212759504644",
+          "size": "313682848",
+          "download": "194385072"
+        }
+      }
+    },
+    "2708242": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6705867714017008608",
+          "size": "293277093",
+          "download": "185007968"
+        }
+      }
+    },
+    "2708243": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8985227197806452764",
+          "size": "408290028",
+          "download": "200805824"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26350531",
+        "timeupdated": "1793475437",
+        "timebuildupdated": "1793475365"
+      },
+      "beta": {
+        "buildid": "26030595",
+        "description": "beta",
+        "timeupdated": "1792347879",
+        "timebuildupdated": "1792347831"
+      },
+      "macos-testing": {
+        "buildid": "26350531",
+        "description": "MacOS beta testing",
+        "timeupdated": "1793475365",
+        "timebuildupdated": "1793475365"
+      }
+    }
+  }
+}

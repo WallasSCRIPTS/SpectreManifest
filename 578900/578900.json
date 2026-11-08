@@ -1,0 +1,82 @@
+{
+  "name": "Demonheart",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:59.291Z",
+  "branches": {
+    "public": {
+      "buildid": "13307210",
+      "timeupdated": "1706573136",
+      "timebuildupdated": "1706573136"
+    },
+    "v165": {
+      "buildid": "11078618",
+      "description": "Old builds, before version 2.00 - Use this if newer versions don't work for you.",
+      "timeupdated": "1682356270",
+      "timebuildupdated": "1682356023"
+    }
+  },
+  "depot": {
+    "578902": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7708349439727195950",
+          "size": "792463329",
+          "download": "678023520"
+        }
+      }
+    },
+    "578904": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5407388747532281572",
+          "size": "893827623",
+          "download": "702826544"
+        }
+      }
+    },
+    "578905": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "234362683970550949",
+          "size": "834783670",
+          "download": "632695232"
+        }
+      }
+    },
+    "578906": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4819152390536988509",
+          "size": "829084599",
+          "download": "636529904"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13307210",
+        "timeupdated": "1706573136",
+        "timebuildupdated": "1706573136"
+      },
+      "v165": {
+        "buildid": "11078618",
+        "description": "Old builds, before version 2.00 - Use this if newer versions don't work for you.",
+        "timeupdated": "1682356270",
+        "timebuildupdated": "1682356023"
+      }
+    }
+  }
+}

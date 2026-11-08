@@ -1,0 +1,76 @@
+{
+  "name": "Infectonator 3: Apocalypse",
+  "source": "spectre",
+  "changenumber": 37436921,
+  "updated": "2026-11-07T20:59:38.383Z",
+  "branches": {
+    "public": {
+      "buildid": "3970375",
+      "timeupdated": "1561982060",
+      "timebuildupdated": "1561979476"
+    },
+    "public-testing": {
+      "buildid": "3970375",
+      "description": "beta branch that is visible to public",
+      "timeupdated": "1561980261",
+      "timebuildupdated": "1561979476"
+    }
+  },
+  "depot": {
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "666571": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8808412321471075087",
+          "size": "264587763",
+          "download": "105340672"
+        }
+      }
+    },
+    "666572": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7027413966533886599",
+          "size": "365227827",
+          "download": "118362480"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3970375",
+        "timeupdated": "1561982060",
+        "timebuildupdated": "1561979476"
+      },
+      "public-testing": {
+        "buildid": "3970375",
+        "description": "beta branch that is visible to public",
+        "timeupdated": "1561980261",
+        "timebuildupdated": "1561979476"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Search and Rescue",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:13:29.974Z",
+  "branches": {
+    "public": {
+      "buildid": "20033299",
+      "timeupdated": "1758206519",
+      "timebuildupdated": "1758206400"
+    }
+  },
+  "depot": {
+    "1911421": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6286757407758962894",
+          "size": "450772192",
+          "download": "79402848"
+        }
+      }
+    },
+    "1911422": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6141431332931551820",
+          "size": "448490466",
+          "download": "76986976"
+        }
+      }
+    },
+    "1911423": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "807590466320061921",
+          "size": "474621154",
+          "download": "88685136"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20033299",
+        "timeupdated": "1758206519",
+        "timebuildupdated": "1758206400"
+      }
+    }
+  }
+}

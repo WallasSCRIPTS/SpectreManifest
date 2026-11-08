@@ -1,0 +1,58 @@
+{
+  "name": "Flying Tank",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:21:26.621Z",
+  "branches": {
+    "public": {
+      "buildid": "17068308",
+      "timeupdated": "1737397995",
+      "timebuildupdated": "1737397608"
+    },
+    "beta": {
+      "buildid": "17017118",
+      "description": "Beta Testing",
+      "timeupdated": "1737023486",
+      "timebuildupdated": "1736969602"
+    }
+  },
+  "depot": {
+    "2298951": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2612447056560255675",
+          "size": "209782797",
+          "download": "199097680"
+        }
+      }
+    },
+    "2298952": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "294331203694837373",
+          "size": "210561933",
+          "download": "200782880"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17068308",
+        "timeupdated": "1737397995",
+        "timebuildupdated": "1737397608"
+      },
+      "beta": {
+        "buildid": "17017118",
+        "description": "Beta Testing",
+        "timeupdated": "1737023486",
+        "timebuildupdated": "1736969602"
+      }
+    }
+  }
+}

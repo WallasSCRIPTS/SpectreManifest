@@ -1,0 +1,58 @@
+{
+  "name": "Internal Storm",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:00:41.325Z",
+  "branches": {
+    "public": {
+      "buildid": "2659830",
+      "timeupdated": "1522861292",
+      "timebuildupdated": "1522861093"
+    }
+  },
+  "depot": {
+    "786331": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8540529141576076277",
+          "size": "59136608",
+          "download": "14542592"
+        }
+      }
+    },
+    "786332": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3924747445632647771",
+          "size": "101644491",
+          "download": "28322848"
+        }
+      }
+    },
+    "786333": {
+      "config": {
+        "oslist": "macos,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3164931148694428911",
+          "size": "69835806",
+          "download": "16524128"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2659830",
+        "timeupdated": "1522861292",
+        "timebuildupdated": "1522861093"
+      }
+    }
+  }
+}

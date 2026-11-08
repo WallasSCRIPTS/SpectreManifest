@@ -1,0 +1,58 @@
+{
+  "name": "Enclosure 3-D",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:17:35.291Z",
+  "branches": {
+    "public": {
+      "buildid": "19008578",
+      "timeupdated": "1750931071",
+      "timebuildupdated": "1750930966"
+    }
+  },
+  "depot": {
+    "2128442": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5694767321905199187",
+          "size": "35469957",
+          "download": "24714976"
+        }
+      }
+    },
+    "2128443": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5553870819710339194",
+          "size": "23214921",
+          "download": "19636608"
+        }
+      }
+    },
+    "2128444": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7940764491944157022",
+          "size": "22650893",
+          "download": "19431248"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19008578",
+        "timeupdated": "1750931071",
+        "timebuildupdated": "1750930966"
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "name": "TERROR SQUID",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:44.546Z",
+  "branches": {
+    "public": {
+      "buildid": "5684311",
+      "timeupdated": "1602717673",
+      "timebuildupdated": "1602717620"
+    },
+    "beta": {
+      "buildid": "5684280",
+      "description": "Beta releases",
+      "timeupdated": "1602717323",
+      "timebuildupdated": "1602717099"
+    },
+    "local": {
+      "buildid": "5356344",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1596200295",
+      "timebuildupdated": "1596200295"
+    }
+  },
+  "depot": {
+    "1148551": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "523163971579704021",
+          "size": "159943363",
+          "download": "78237232"
+        }
+      }
+    },
+    "1148552": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5664067578127933982",
+          "size": "173714646",
+          "download": "81198656"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5684311",
+        "timeupdated": "1602717673",
+        "timebuildupdated": "1602717620"
+      },
+      "beta": {
+        "buildid": "5684280",
+        "description": "Beta releases",
+        "timeupdated": "1602717323",
+        "timebuildupdated": "1602717099"
+      },
+      "local": {
+        "buildid": "5356344",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1596200295",
+        "timebuildupdated": "1596200295"
+      }
+    }
+  }
+}

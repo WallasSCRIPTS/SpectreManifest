@@ -1,0 +1,123 @@
+{
+  "name": "Neon Chrome",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:45.823Z",
+  "branches": {
+    "public": {
+      "buildid": "6182212",
+      "timeupdated": "1612356648",
+      "timebuildupdated": "1612355934"
+    },
+    "beta": {
+      "buildid": "6182212",
+      "description": "general update beta branch",
+      "timeupdated": "1612355934",
+      "timebuildupdated": "1612355934"
+    },
+    "macos_old": {
+      "buildid": "2876615",
+      "description": "Old macOS build",
+      "timeupdated": "1611729376",
+      "timebuildupdated": "1529442090"
+    },
+    "older_beta": {
+      "buildid": "1589923",
+      "timeupdated": "1485345343",
+      "timebuildupdated": "1485345343"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "428751": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8579756546736533724",
+          "size": "157389695",
+          "download": "58052176"
+        }
+      }
+    },
+    "428752": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "142298954794648705",
+          "size": "225921513",
+          "download": "103625472"
+        }
+      }
+    },
+    "428753": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6027247917930520055",
+          "size": "141563760",
+          "download": "58210608"
+        }
+      }
+    },
+    "453250": {
+      "manifests": {
+        "public": {
+          "gid": "351248175688382270",
+          "size": "247161580",
+          "download": "249536624"
+        }
+      },
+      "dlcappid": "453250"
+    },
+    "568850": {
+      "dlcappid": "568850"
+    },
+    "branches": {
+      "public": {
+        "buildid": "6182212",
+        "timeupdated": "1612356648",
+        "timebuildupdated": "1612355934"
+      },
+      "beta": {
+        "buildid": "6182212",
+        "description": "general update beta branch",
+        "timeupdated": "1612355934",
+        "timebuildupdated": "1612355934"
+      },
+      "macos_old": {
+        "buildid": "2876615",
+        "description": "Old macOS build",
+        "timeupdated": "1611729376",
+        "timebuildupdated": "1529442090"
+      },
+      "older_beta": {
+        "buildid": "1589923",
+        "timeupdated": "1485345343",
+        "timebuildupdated": "1485345343"
+      }
+    }
+  }
+}

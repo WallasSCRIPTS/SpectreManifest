@@ -1,0 +1,108 @@
+{
+  "name": "Time Recoil",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:21.097Z",
+  "branches": {
+    "public": {
+      "buildid": "6182220",
+      "timeupdated": "1612356713",
+      "timebuildupdated": "1612355976"
+    },
+    "beta": {
+      "buildid": "6182220",
+      "timeupdated": "1612355976",
+      "timebuildupdated": "1612355976"
+    },
+    "macos_old": {
+      "buildid": "2772228",
+      "description": "Old macOS build",
+      "timeupdated": "1611841278",
+      "timebuildupdated": "1526305237"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "625911": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5262244606549489755",
+          "size": "141071477",
+          "download": "85724256"
+        }
+      }
+    },
+    "625912": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6425761774171460781",
+          "size": "204617520",
+          "download": "124615184"
+        }
+      }
+    },
+    "625913": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7953710357998511873",
+          "size": "148791671",
+          "download": "87031344"
+        }
+      }
+    },
+    "694210": {
+      "manifests": {
+        "public": {
+          "gid": "3822096661746117760",
+          "size": "186340975",
+          "download": "188174528"
+        }
+      },
+      "dlcappid": "694210"
+    },
+    "branches": {
+      "public": {
+        "buildid": "6182220",
+        "timeupdated": "1612356713",
+        "timebuildupdated": "1612355976"
+      },
+      "beta": {
+        "buildid": "6182220",
+        "timeupdated": "1612355976",
+        "timebuildupdated": "1612355976"
+      },
+      "macos_old": {
+        "buildid": "2772228",
+        "description": "Old macOS build",
+        "timeupdated": "1611841278",
+        "timebuildupdated": "1526305237"
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Police Heroes",
+  "source": "spectre",
+  "changenumber": 34895541,
+  "updated": "2026-11-06T23:21:29.569Z",
+  "branches": {
+    "public": {
+      "buildid": "12652410",
+      "timeupdated": "1699462157",
+      "timebuildupdated": "1699462017"
+    }
+  },
+  "depot": {
+    "2324671": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6568359591480643741",
+          "size": "209856123",
+          "download": "142300736"
+        }
+      }
+    },
+    "2460241": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "2460240"
+    },
+    "branches": {
+      "public": {
+        "buildid": "12652410",
+        "timeupdated": "1699462157",
+        "timebuildupdated": "1699462017"
+      }
+    }
+  }
+}

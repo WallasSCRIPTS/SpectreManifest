@@ -1,0 +1,58 @@
+{
+  "name": "Orta X",
+  "source": "spectre",
+  "changenumber": 38367412,
+  "updated": "2026-11-06T21:06:04.703Z",
+  "branches": {
+    "public": {
+      "buildid": "23319229",
+      "timeupdated": "1779258613",
+      "timebuildupdated": "1779257928"
+    },
+    "beta": {
+      "buildid": "22069853",
+      "description": "testing",
+      "timeupdated": "1771922517",
+      "timebuildupdated": "1771922332"
+    }
+  },
+  "depot": {
+    "1550781": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2685063353584455233",
+          "size": "53005304",
+          "download": "26238256"
+        }
+      }
+    },
+    "1550782": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3483154045996037919",
+          "size": "26235461",
+          "download": "19825888"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23319229",
+        "timeupdated": "1779258613",
+        "timebuildupdated": "1779257928"
+      },
+      "beta": {
+        "buildid": "22069853",
+        "description": "testing",
+        "timeupdated": "1771922517",
+        "timebuildupdated": "1771922332"
+      }
+    }
+  }
+}

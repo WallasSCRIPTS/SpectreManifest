@@ -1,0 +1,71 @@
+{
+  "name": "BIT.TRIP VOID",
+  "source": "spectre",
+  "changenumber": 35352739,
+  "updated": "2026-11-07T20:56:01.399Z",
+  "branches": {
+    "public": {
+      "buildid": "1155764",
+      "timeupdated": "1464736372",
+      "timebuildupdated": "1464687395"
+    },
+    "internaltest": {
+      "buildid": "1155764",
+      "timeupdated": "1464687396",
+      "timebuildupdated": "1464687395"
+    }
+  },
+  "depot": {
+    "205071": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8940057620885489245",
+          "size": "71727262",
+          "download": "0"
+        }
+      }
+    },
+    "205072": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "534435156371910825",
+          "size": "121444042",
+          "download": "87768288"
+        }
+      }
+    },
+    "205073": {
+      "manifests": {
+        "public": {
+          "gid": "9032452641814367076",
+          "size": "26162976",
+          "download": "0"
+        }
+      },
+      "dlcappid": "205073"
+    },
+    "205074": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1155764",
+        "timeupdated": "1464736372",
+        "timebuildupdated": "1464687395"
+      },
+      "internaltest": {
+        "buildid": "1155764",
+        "timeupdated": "1464687396",
+        "timebuildupdated": "1464687395"
+      }
+    }
+  }
+}

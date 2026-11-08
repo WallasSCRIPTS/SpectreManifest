@@ -1,0 +1,70 @@
+{
+  "name": "Forest Fire",
+  "source": "spectre",
+  "changenumber": 40328241,
+  "updated": "2026-11-06T23:19:35.297Z",
+  "branches": {
+    "public": {
+      "buildid": "11436148",
+      "timeupdated": "1686342887",
+      "timebuildupdated": "1686342859"
+    },
+    "development": {
+      "buildid": "11335164",
+      "description": "development",
+      "timeupdated": "1685234555",
+      "timebuildupdated": "1685234531"
+    }
+  },
+  "depot": {
+    "2242221": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5961370910031031616",
+          "size": "262203151",
+          "download": "95345760"
+        }
+      }
+    },
+    "2242222": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8411868768922138765",
+          "size": "287142962",
+          "download": "103143632"
+        }
+      }
+    },
+    "2242223": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7094657275256594692",
+          "size": "306810851",
+          "download": "95695200"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11436148",
+        "timeupdated": "1686342887",
+        "timebuildupdated": "1686342859"
+      },
+      "development": {
+        "buildid": "11335164",
+        "description": "development",
+        "timeupdated": "1685234555",
+        "timebuildupdated": "1685234531"
+      }
+    }
+  }
+}

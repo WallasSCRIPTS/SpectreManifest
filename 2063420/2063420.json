@@ -1,0 +1,94 @@
+{
+  "name": "CozyTyper",
+  "source": "spectre",
+  "changenumber": 37454840,
+  "updated": "2026-11-06T23:15:39.790Z",
+  "branches": {
+    "public": {
+      "buildid": "21723234",
+      "timeupdated": "1770308706",
+      "timebuildupdated": "1769808919"
+    },
+    "updatepreview": {
+      "buildid": "21723234",
+      "description": "This branch will host the updates for bug testing prior to release",
+      "timeupdated": "1769808956",
+      "timebuildupdated": "1769808919"
+    },
+    "1.2_lts": {
+      "buildid": "10786852",
+      "description": "Use this to play 1.2",
+      "timeupdated": "1734793822",
+      "timebuildupdated": "1678984921"
+    },
+    "1.3_mac_fix_only": {
+      "buildid": "15758618",
+      "description": "Only play this if 1.2 is giving you an input issue on mac",
+      "timeupdated": "1734793838",
+      "timebuildupdated": "1726759246"
+    }
+  },
+  "depot": {
+    "2063421": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1722212325939388997",
+          "size": "340913634",
+          "download": "201376576"
+        }
+      }
+    },
+    "2063422": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7160352064669364615",
+          "size": "339676383",
+          "download": "199523280"
+        }
+      }
+    },
+    "2063423": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5049070454882258005",
+          "size": "364774774",
+          "download": "210291056"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21723234",
+        "timeupdated": "1770308706",
+        "timebuildupdated": "1769808919"
+      },
+      "updatepreview": {
+        "buildid": "21723234",
+        "description": "This branch will host the updates for bug testing prior to release",
+        "timeupdated": "1769808956",
+        "timebuildupdated": "1769808919"
+      },
+      "1.2_lts": {
+        "buildid": "10786852",
+        "description": "Use this to play 1.2",
+        "timeupdated": "1734793822",
+        "timebuildupdated": "1678984921"
+      },
+      "1.3_mac_fix_only": {
+        "buildid": "15758618",
+        "description": "Only play this if 1.2 is giving you an input issue on mac",
+        "timeupdated": "1734793838",
+        "timebuildupdated": "1726759246"
+      }
+    }
+  }
+}

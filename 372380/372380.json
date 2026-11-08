@@ -1,0 +1,70 @@
+{
+  "name": "Warriors & Castles",
+  "source": "spectre",
+  "changenumber": 39840073,
+  "updated": "2026-11-07T20:57:16.132Z",
+  "branches": {
+    "public": {
+      "buildid": "25793461",
+      "timeupdated": "1791425619",
+      "timebuildupdated": "1791425619"
+    },
+    "experimental": {
+      "buildid": "25946900",
+      "description": "public test version",
+      "timeupdated": "1792021213",
+      "timebuildupdated": "1792021094"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "372382": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4587692821020847956",
+          "size": "1229387052",
+          "download": "454575280"
+        }
+      }
+    },
+    "372383": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "896021268334916409",
+          "size": "1154958651",
+          "download": "410778400"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25793461",
+        "timeupdated": "1791425619",
+        "timebuildupdated": "1791425619"
+      },
+      "experimental": {
+        "buildid": "25946900",
+        "description": "public test version",
+        "timeupdated": "1792021213",
+        "timebuildupdated": "1792021094"
+      }
+    }
+  }
+}

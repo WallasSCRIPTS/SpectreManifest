@@ -1,0 +1,70 @@
+{
+  "name": "Joe's Diner",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:56.990Z",
+  "branches": {
+    "public": {
+      "buildid": "1106163",
+      "timeupdated": "1462255242",
+      "timebuildupdated": "1462200567"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "346041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6782492770604910364",
+          "size": "1074198931",
+          "download": "541195440"
+        }
+      }
+    },
+    "346042": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8576232886506419691",
+          "size": "1067686250",
+          "download": "542165648"
+        }
+      }
+    },
+    "346043": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "819165839423060466",
+          "size": "1007366580",
+          "download": "502938064"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1106163",
+        "timeupdated": "1462255242",
+        "timebuildupdated": "1462200567"
+      }
+    }
+  }
+}

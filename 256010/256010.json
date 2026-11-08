@@ -1,0 +1,69 @@
+{
+  "name": "Jagged Alliance Flashback",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:14.195Z",
+  "branches": {
+    "public": {
+      "buildid": "590468",
+      "timebuildupdated": "1429185240"
+    },
+    "public_test": {
+      "buildid": "477037",
+      "description": "Public test builds",
+      "timebuildupdated": "1418898990"
+    }
+  },
+  "depot": {
+    "256011": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7127718388165759380",
+          "size": "2926319279",
+          "download": "1522869072"
+        }
+      }
+    },
+    "256012": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5933135049814882797",
+          "size": "2926545385",
+          "download": "1524813584"
+        }
+      }
+    },
+    "256013": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5052539592406857956",
+          "size": "2924360000",
+          "download": "1519823712"
+        }
+      }
+    },
+    "338560": {
+      "dlcappid": "338560"
+    },
+    "branches": {
+      "public": {
+        "buildid": "590468",
+        "timebuildupdated": "1429185240"
+      },
+      "public_test": {
+        "buildid": "477037",
+        "description": "Public test builds",
+        "timebuildupdated": "1418898990"
+      }
+    }
+  }
+}

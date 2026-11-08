@@ -1,0 +1,70 @@
+{
+  "name": "CIBOS",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:00:12.231Z",
+  "branches": {
+    "public": {
+      "buildid": "7658185",
+      "timeupdated": "1636044739",
+      "timebuildupdated": "1636044539"
+    },
+    "unstable": {
+      "buildid": "7658185",
+      "description": "development branch",
+      "timeupdated": "1636044539",
+      "timebuildupdated": "1636044539"
+    }
+  },
+  "depot": {
+    "728091": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9118923393764864539",
+          "size": "3564674892",
+          "download": "363725200"
+        }
+      }
+    },
+    "728092": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8064031887450679988",
+          "size": "3578308204",
+          "download": "368238752"
+        }
+      }
+    },
+    "728093": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2674507019409489097",
+          "size": "3608844341",
+          "download": "378321168"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7658185",
+        "timeupdated": "1636044739",
+        "timebuildupdated": "1636044539"
+      },
+      "unstable": {
+        "buildid": "7658185",
+        "description": "development branch",
+        "timeupdated": "1636044539",
+        "timebuildupdated": "1636044539"
+      }
+    }
+  }
+}

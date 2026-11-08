@@ -1,0 +1,70 @@
+{
+  "name": "LOK Digital Demo",
+  "source": "spectre",
+  "changenumber": 36336182,
+  "updated": "2026-11-06T23:23:17.558Z",
+  "branches": {
+    "public": {
+      "buildid": "20985571",
+      "timeupdated": "1764592908",
+      "timebuildupdated": "1764367218"
+    },
+    "development": {
+      "buildid": "20985571",
+      "description": "testing branch",
+      "timeupdated": "1764367384",
+      "timebuildupdated": "1764367218"
+    }
+  },
+  "depot": {
+    "2346311": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5063353274342636904",
+          "size": "559614688",
+          "download": "199977552"
+        }
+      }
+    },
+    "2346312": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5920445273461757758",
+          "size": "593745101",
+          "download": "213043904"
+        }
+      }
+    },
+    "2346313": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5763209084311192732",
+          "size": "563999153",
+          "download": "198976480"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20985571",
+        "timeupdated": "1764592908",
+        "timebuildupdated": "1764367218"
+      },
+      "development": {
+        "buildid": "20985571",
+        "description": "testing branch",
+        "timeupdated": "1764367384",
+        "timebuildupdated": "1764367218"
+      }
+    }
+  }
+}

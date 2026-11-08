@@ -1,0 +1,82 @@
+{
+  "name": "Craftomation 101 Demo",
+  "source": "spectre",
+  "changenumber": 40679809,
+  "updated": "2026-11-06T23:15:31.213Z",
+  "branches": {
+    "public": {
+      "buildid": "26489851",
+      "timeupdated": "1793988733",
+      "timebuildupdated": "1793983621"
+    },
+    "old_saves": {
+      "buildid": "16567329",
+      "description": "\tbranch with old version, working with saves before 0.86 version",
+      "timeupdated": "1732803634",
+      "timebuildupdated": "1732803357"
+    },
+    "unstable": {
+      "buildid": "26489851",
+      "description": "Unstable build",
+      "timeupdated": "1793983621",
+      "timebuildupdated": "1793983621"
+    }
+  },
+  "depot": {
+    "2004471": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2341519640139874354",
+          "size": "286711005",
+          "download": "246886704"
+        }
+      }
+    },
+    "2004472": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1732689343482597322",
+          "size": "294744841",
+          "download": "249613120"
+        }
+      }
+    },
+    "2004473": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "310829406422493293",
+          "size": "285617813",
+          "download": "246187152"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26489851",
+        "timeupdated": "1793988733",
+        "timebuildupdated": "1793983621"
+      },
+      "old_saves": {
+        "buildid": "16567329",
+        "description": "\tbranch with old version, working with saves before 0.86 version",
+        "timeupdated": "1732803634",
+        "timebuildupdated": "1732803357"
+      },
+      "unstable": {
+        "buildid": "26489851",
+        "description": "Unstable build",
+        "timeupdated": "1793983621",
+        "timebuildupdated": "1793983621"
+      }
+    }
+  }
+}

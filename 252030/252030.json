@@ -1,0 +1,70 @@
+{
+  "name": "Valdis Story: Abyssal City",
+  "source": "spectre",
+  "changenumber": 37432709,
+  "updated": "2026-11-07T20:56:12.822Z",
+  "branches": {
+    "public": {
+      "buildid": "722041",
+      "timebuildupdated": "1438802622"
+    },
+    "igpu_version": {
+      "buildid": "150787",
+      "description": "Test Version for devices with Integrated GPU",
+      "timebuildupdated": "1385965012"
+    },
+    "update_beta": {
+      "buildid": "722041",
+      "description": "v1.0.0.25",
+      "timebuildupdated": "1438802622"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "252031": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8804124830284567035",
+          "size": "448377529",
+          "download": "408652256"
+        }
+      }
+    },
+    "252032": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2580769776694130807",
+          "size": "450729470",
+          "download": "407456784"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "722041",
+        "timebuildupdated": "1438802622"
+      },
+      "igpu_version": {
+        "buildid": "150787",
+        "description": "Test Version for devices with Integrated GPU",
+        "timebuildupdated": "1385965012"
+      },
+      "update_beta": {
+        "buildid": "722041",
+        "description": "v1.0.0.25",
+        "timebuildupdated": "1438802622"
+      }
+    }
+  }
+}

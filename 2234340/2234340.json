@@ -1,0 +1,73 @@
+{
+  "name": "RetroArch - ep128emu",
+  "source": "spectre",
+  "changenumber": 40666961,
+  "updated": "2026-11-06T23:19:34.465Z",
+  "branches": {
+    "public": {
+      "buildid": "20833778",
+      "timeupdated": "1763418476",
+      "timebuildupdated": "1763416007"
+    },
+    "nightly": {
+      "buildid": "26483436",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793965676",
+      "timebuildupdated": "1793965676"
+    }
+  },
+  "depot": {
+    "2234340": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "684231858983040639",
+          "size": "4559420",
+          "download": "1473984"
+        }
+      },
+      "dlcappid": "2234340"
+    },
+    "2234341": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7273496741462516128",
+          "size": "3719652",
+          "download": "1293664"
+        }
+      },
+      "dlcappid": "2234340"
+    },
+    "2234342": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5612258396677738947",
+          "size": "7896284",
+          "download": "2429680"
+        }
+      },
+      "dlcappid": "2234340"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833778",
+        "timeupdated": "1763418476",
+        "timebuildupdated": "1763416007"
+      },
+      "nightly": {
+        "buildid": "26483436",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793965676",
+        "timebuildupdated": "1793965676"
+      }
+    }
+  }
+}

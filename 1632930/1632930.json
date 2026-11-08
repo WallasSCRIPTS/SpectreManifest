@@ -1,0 +1,57 @@
+{
+  "name": "Cycled",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:06:43.124Z",
+  "branches": {
+    "public": {
+      "buildid": "11225083",
+      "timeupdated": "1683980444",
+      "timebuildupdated": "1683979500"
+    },
+    "local": {
+      "buildid": "6860559",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1623581077",
+      "timebuildupdated": "1623581076"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1632931": {
+      "manifests": {
+        "public": {
+          "gid": "1434837214896798726",
+          "size": "4268829978",
+          "download": "1763529168"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11225083",
+        "timeupdated": "1683980444",
+        "timebuildupdated": "1683979500"
+      },
+      "local": {
+        "buildid": "6860559",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1623581077",
+        "timebuildupdated": "1623581076"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "ASTROKILL",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:19.244Z",
+  "branches": {
+    "public": {
+      "buildid": "8741485",
+      "timeupdated": "1652583049",
+      "timebuildupdated": "1652582575"
+    },
+    "stable": {
+      "buildid": "8087295",
+      "description": "Last good branch",
+      "timeupdated": "1650238089",
+      "timebuildupdated": "1643173958"
+    }
+  },
+  "depot": {
+    "376881": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1032708204951394936",
+          "size": "1802625394",
+          "download": "1608489984"
+        }
+      }
+    },
+    "376882": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1708252409099223701",
+          "size": "1722786479",
+          "download": "1521491072"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8741485",
+        "timeupdated": "1652583049",
+        "timebuildupdated": "1652582575"
+      },
+      "stable": {
+        "buildid": "8087295",
+        "description": "Last good branch",
+        "timeupdated": "1650238089",
+        "timebuildupdated": "1643173958"
+      }
+    }
+  }
+}

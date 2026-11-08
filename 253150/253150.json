@@ -1,0 +1,112 @@
+{
+  "name": "Halfway",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:13.322Z",
+  "branches": {
+    "public": {
+      "buildid": "8365772",
+      "timeupdated": "1647336315",
+      "timebuildupdated": "1647251482"
+    },
+    "1.2.7": {
+      "buildid": "749880",
+      "description": "Win 10 / Intel HD 3000",
+      "timeupdated": "1499069960",
+      "timebuildupdated": "1440584422"
+    },
+    "free-cursor": {
+      "buildid": "883931",
+      "description": "Disables mouse cursor locked-in to game window.",
+      "timeupdated": "1467966891",
+      "timebuildupdated": "1449150850"
+    },
+    "test": {
+      "buildid": "8365772",
+      "description": "Public test version",
+      "timeupdated": "1647336300",
+      "timebuildupdated": "1647251482"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "253151": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2054655058113348936",
+          "size": "264666297",
+          "download": "181178672"
+        }
+      }
+    },
+    "253152": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7486992941536397541",
+          "size": "275259811",
+          "download": "186214384"
+        }
+      }
+    },
+    "253153": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7953923163101763360",
+          "size": "278298135",
+          "download": "186574928"
+        }
+      }
+    },
+    "253154": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6328378722838445335",
+          "size": "275705738",
+          "download": "184841856"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8365772",
+        "timeupdated": "1647336315",
+        "timebuildupdated": "1647251482"
+      },
+      "1.2.7": {
+        "buildid": "749880",
+        "description": "Win 10 / Intel HD 3000",
+        "timeupdated": "1499069960",
+        "timebuildupdated": "1440584422"
+      },
+      "free-cursor": {
+        "buildid": "883931",
+        "description": "Disables mouse cursor locked-in to game window.",
+        "timeupdated": "1467966891",
+        "timebuildupdated": "1449150850"
+      },
+      "test": {
+        "buildid": "8365772",
+        "description": "Public test version",
+        "timeupdated": "1647336300",
+        "timebuildupdated": "1647251482"
+      }
+    }
+  }
+}

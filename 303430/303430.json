@@ -1,0 +1,129 @@
+{
+  "name": "Roundabout",
+  "source": "spectre",
+  "changenumber": 37432709,
+  "updated": "2026-11-07T20:56:32.111Z",
+  "branches": {
+    "public": {
+      "buildid": "593963",
+      "timebuildupdated": "1429322783"
+    },
+    "preview": {
+      "buildid": "593963",
+      "description": "Preview the next Roundabout update",
+      "timebuildupdated": "1429322783"
+    },
+    "safety": {
+      "buildid": "413802",
+      "description": "Having trouble with the latest build? Choose this to revert to the previous stable build.",
+      "timebuildupdated": "1413578445"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "303431": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3228225945829830815",
+          "size": "2990676148",
+          "download": "2484918368"
+        }
+      }
+    },
+    "303432": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "64022711852912949",
+          "size": "2987781722",
+          "download": "2485531632"
+        }
+      }
+    },
+    "303433": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9180723180761069358",
+          "size": "2986907868",
+          "download": "2486911952"
+        }
+      }
+    },
+    "303434": {},
+    "309920": {
+      "manifests": {
+        "public": {
+          "gid": "4182030443473281322",
+          "size": "3224135736",
+          "download": "188493714568"
+        }
+      },
+      "dlcappid": "309920"
+    },
+    "309921": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1779411080379113009",
+          "size": "76849793",
+          "download": "2731539508"
+        }
+      }
+    },
+    "309922": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3403178924178180576",
+          "size": "80634008",
+          "download": "2101438709"
+        }
+      }
+    },
+    "309923": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1145852903037098298",
+          "size": "102483230",
+          "download": "2833749722"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "593963",
+        "timebuildupdated": "1429322783"
+      },
+      "preview": {
+        "buildid": "593963",
+        "description": "Preview the next Roundabout update",
+        "timebuildupdated": "1429322783"
+      },
+      "safety": {
+        "buildid": "413802",
+        "description": "Having trouble with the latest build? Choose this to revert to the previous stable build.",
+        "timebuildupdated": "1413578445"
+      }
+    }
+  }
+}

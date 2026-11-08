@@ -1,0 +1,115 @@
+{
+  "name": "Sickness Demo",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:47.335Z",
+  "branches": {
+    "public": {
+      "buildid": "10235827",
+      "timeupdated": "1672483203",
+      "timebuildupdated": "1672464478"
+    },
+    "beta": {
+      "buildid": "10235827",
+      "description": "Public beta testing branch",
+      "timeupdated": "1672480577",
+      "timebuildupdated": "1672464478"
+    },
+    "oldstable": {
+      "buildid": "9631408",
+      "description": "old stable branch",
+      "timeupdated": "1672483190",
+      "timebuildupdated": "1664588484"
+    }
+  },
+  "depot": {
+    "431421": {
+      "manifests": {
+        "public": {
+          "gid": "6097920877646369418",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "431422": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3292876562971495138",
+          "size": "178287265",
+          "download": "140369360"
+        }
+      }
+    },
+    "431423": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1102707657574802629",
+          "size": "178211959",
+          "download": "140169024"
+        }
+      }
+    },
+    "431424": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6157304371262289526",
+          "size": "168329967",
+          "download": "137021776"
+        }
+      }
+    },
+    "431425": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4473462988664721288",
+          "size": "169479956",
+          "download": "137024944"
+        }
+      }
+    },
+    "431426": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3450971173335863568",
+          "size": "166214281",
+          "download": "136490768"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10235827",
+        "timeupdated": "1672483203",
+        "timebuildupdated": "1672464478"
+      },
+      "beta": {
+        "buildid": "10235827",
+        "description": "Public beta testing branch",
+        "timeupdated": "1672480577",
+        "timebuildupdated": "1672464478"
+      },
+      "oldstable": {
+        "buildid": "9631408",
+        "description": "old stable branch",
+        "timeupdated": "1672483190",
+        "timebuildupdated": "1664588484"
+      }
+    }
+  }
+}

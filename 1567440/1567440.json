@@ -1,0 +1,70 @@
+{
+  "name": "inbento",
+  "source": "spectre",
+  "changenumber": 37447702,
+  "updated": "2026-11-06T21:06:12.780Z",
+  "branches": {
+    "public": {
+      "buildid": "20782473",
+      "timeupdated": "1763033164",
+      "timebuildupdated": "1763032869"
+    },
+    "legacy": {
+      "buildid": "14664552",
+      "description": "pre-2.50 build",
+      "timeupdated": "1731414678",
+      "timebuildupdated": "1718025382"
+    },
+    "steamremote": {
+      "buildid": "16377063",
+      "description": "Steam Remote Cloud Save fix",
+      "timeupdated": "1731418779",
+      "timebuildupdated": "1731407673"
+    }
+  },
+  "depot": {
+    "1567441": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8054203638057280657",
+          "size": "138844780",
+          "download": "64087040"
+        }
+      }
+    },
+    "1567442": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1302979473917237448",
+          "size": "217032557",
+          "download": "85158576"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20782473",
+        "timeupdated": "1763033164",
+        "timebuildupdated": "1763032869"
+      },
+      "legacy": {
+        "buildid": "14664552",
+        "description": "pre-2.50 build",
+        "timeupdated": "1731414678",
+        "timebuildupdated": "1718025382"
+      },
+      "steamremote": {
+        "buildid": "16377063",
+        "description": "Steam Remote Cloud Save fix",
+        "timeupdated": "1731418779",
+        "timebuildupdated": "1731407673"
+      }
+    }
+  }
+}

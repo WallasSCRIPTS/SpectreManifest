@@ -1,0 +1,70 @@
+{
+  "name": "Bloon Rush",
+  "source": "spectre",
+  "changenumber": 35400799,
+  "updated": "2026-11-05T14:59:13.800Z",
+  "branches": {
+    "public": {
+      "buildid": "12061359",
+      "timeupdated": "1712951862",
+      "timebuildupdated": "1693331232"
+    },
+    "bloonv2": {
+      "buildid": "12061359",
+      "description": "Bloon v2 test branch",
+      "timeupdated": "1693331318",
+      "timebuildupdated": "1693331232"
+    },
+    "develop": {
+      "buildid": "10798641",
+      "description": "develop branch",
+      "timeupdated": "1679090149",
+      "timebuildupdated": "1679090078"
+    }
+  },
+  "depot": {
+    "1627031": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1832533193730487011",
+          "size": "354289813",
+          "download": "105795824"
+        }
+      }
+    },
+    "1627032": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1224253621968122062",
+          "size": "378513112",
+          "download": "112875984"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12061359",
+        "timeupdated": "1712951862",
+        "timebuildupdated": "1693331232"
+      },
+      "bloonv2": {
+        "buildid": "12061359",
+        "description": "Bloon v2 test branch",
+        "timeupdated": "1693331318",
+        "timebuildupdated": "1693331232"
+      },
+      "develop": {
+        "buildid": "10798641",
+        "description": "develop branch",
+        "timeupdated": "1679090149",
+        "timebuildupdated": "1679090078"
+      }
+    }
+  }
+}

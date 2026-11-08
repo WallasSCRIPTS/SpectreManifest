@@ -1,0 +1,66 @@
+{
+  "name": "GRAV",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:45.363Z",
+  "branches": {
+    "public": {
+      "buildid": "1763174",
+      "timeupdated": "1492452617",
+      "timebuildupdated": "1492452553"
+    },
+    "local": {
+      "buildid": "1709022",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1490232533",
+      "timebuildupdated": "1490232533"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "332501": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7061587480614612855",
+          "size": "4349677776",
+          "download": "3238659248"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1763174",
+        "timeupdated": "1492452617",
+        "timebuildupdated": "1492452553"
+      },
+      "local": {
+        "buildid": "1709022",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1490232533",
+        "timebuildupdated": "1490232533"
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Kill The Bad Guy",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:27.426Z",
+  "branches": {
+    "public": {
+      "buildid": "818185",
+      "timebuildupdated": "1444990931"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "293941": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8401902531699332490",
+          "size": "860285792",
+          "download": "203900032"
+        }
+      }
+    },
+    "293942": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5914488741380137599",
+          "size": "824106447",
+          "download": "175440608"
+        }
+      }
+    },
+    "293943": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3278391484871508000",
+          "size": "817204194",
+          "download": "179728592"
+        }
+      }
+    },
+    "293944": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "818185",
+        "timebuildupdated": "1444990931"
+      }
+    }
+  }
+}

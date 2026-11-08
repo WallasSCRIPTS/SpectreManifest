@@ -1,0 +1,73 @@
+{
+  "name": "ibb & obb",
+  "source": "spectre",
+  "changenumber": 37432492,
+  "updated": "2026-11-07T20:55:58.453Z",
+  "branches": {
+    "public": {
+      "buildid": "5680513",
+      "timeupdated": "1602664881",
+      "timebuildupdated": "1602664881"
+    }
+  },
+  "depot": {
+    "95401": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6558583960734084337",
+          "size": "741786908",
+          "download": "513657856"
+        }
+      }
+    },
+    "95402": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8999149081429608286",
+          "size": "740092280",
+          "download": "510452608"
+        }
+      }
+    },
+    "95403": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4915284286319059187",
+          "size": "778464093",
+          "download": "510104224"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "299190": {
+      "manifests": {
+        "public": {
+          "gid": "2717877618152326067",
+          "size": "148926098",
+          "download": "148275216"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5680513",
+        "timeupdated": "1602664881",
+        "timebuildupdated": "1602664881"
+      }
+    }
+  }
+}

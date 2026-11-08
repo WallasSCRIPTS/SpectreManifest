@@ -1,0 +1,64 @@
+{
+  "name": "RAM BOE",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:59.041Z",
+  "branches": {
+    "public": {
+      "buildid": "14001090",
+      "timeupdated": "1712690323",
+      "timebuildupdated": "1712687418"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "454721": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4030004645990746977",
+          "size": "2466526917",
+          "download": "688720096"
+        }
+      }
+    },
+    "454722": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5479549664578384938",
+          "size": "2486466597",
+          "download": "689232464"
+        }
+      }
+    },
+    "454723": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8252948789884965969",
+          "size": "2528985333",
+          "download": "701932016"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14001090",
+        "timeupdated": "1712690323",
+        "timebuildupdated": "1712687418"
+      }
+    }
+  }
+}

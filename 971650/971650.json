@@ -1,0 +1,56 @@
+{
+  "name": "Failspace",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:07.163Z",
+  "branches": {
+    "public": {
+      "buildid": "4628234",
+      "timeupdated": "1583013958",
+      "timebuildupdated": "1580480246"
+    },
+    "testing_public": {
+      "buildid": "4628234",
+      "description": "For public testing of builds",
+      "timeupdated": "1580481663",
+      "timebuildupdated": "1580480246"
+    }
+  },
+  "depot": {
+    "971651": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5503403020718577536",
+          "size": "1750447212",
+          "download": "434688496"
+        }
+      }
+    },
+    "971652": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "971653": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4628234",
+        "timeupdated": "1583013958",
+        "timebuildupdated": "1580480246"
+      },
+      "testing_public": {
+        "buildid": "4628234",
+        "description": "For public testing of builds",
+        "timeupdated": "1580481663",
+        "timebuildupdated": "1580480246"
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Creature Romances: Kokonoe Kokoro",
+  "source": "spectre",
+  "changenumber": 40634440,
+  "updated": "2026-11-07T20:57:06.616Z",
+  "branches": {
+    "public": {
+      "buildid": "7634230",
+      "timeupdated": "1635724819",
+      "timebuildupdated": "1635724723"
+    },
+    "beta": {
+      "buildid": "8162694",
+      "description": "test fullscreen and blank screen fixes",
+      "timeupdated": "1644294474",
+      "timebuildupdated": "1644294198"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229000": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "356451": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1066293871318276391",
+          "size": "377056746",
+          "download": "186060512"
+        }
+      }
+    },
+    "356452": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1359885232748452340",
+          "size": "392426771",
+          "download": "190167296"
+        }
+      }
+    },
+    "356453": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4485839634844714216",
+          "size": "389110830",
+          "download": "189716720"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7634230",
+        "timeupdated": "1635724819",
+        "timebuildupdated": "1635724723"
+      },
+      "beta": {
+        "buildid": "8162694",
+        "description": "test fullscreen and blank screen fixes",
+        "timeupdated": "1644294474",
+        "timebuildupdated": "1644294198"
+      }
+    }
+  }
+}

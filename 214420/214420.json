@@ -1,0 +1,70 @@
+{
+  "name": "Gear Up",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T20:56:03.788Z",
+  "branches": {
+    "public": {
+      "buildid": "3281859",
+      "timeupdated": "1541669016",
+      "timebuildupdated": "1541536195"
+    }
+  },
+  "depot": {
+    "214421": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5268986484080894264",
+          "size": "1163996183",
+          "download": "628200640"
+        }
+      }
+    },
+    "214422": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3472279219074703931",
+          "size": "1398634423",
+          "download": "674205904"
+        }
+      }
+    },
+    "214423": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6860093152232554029",
+          "size": "1188444450",
+          "download": "631148832"
+        }
+      }
+    },
+    "228987": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "3281859",
+        "timeupdated": "1541669016",
+        "timebuildupdated": "1541536195"
+      }
+    }
+  }
+}

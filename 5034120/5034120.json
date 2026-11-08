@@ -1,0 +1,70 @@
+{
+  "name": "6F: NIGHT SCHOOL LOOP∞",
+  "source": "spectre",
+  "changenumber": 39219365,
+  "updated": "2026-11-04T23:25:44.094Z",
+  "branches": {
+    "public": {
+      "buildid": "25544267",
+      "timeupdated": "1790408359",
+      "timebuildupdated": "1790408170"
+    },
+    "nsl-99-windows": {
+      "buildid": "25103752",
+      "description": "Windows Shipping validation for NSL-99",
+      "timeupdated": "1788445207",
+      "timebuildupdated": "1788445206"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "5034121": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6034063280797743023",
+          "size": "1100919218",
+          "download": "689079872"
+        }
+      }
+    },
+    "5034122": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6355215303183244228",
+          "size": "603140082",
+          "download": "442815024"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25544267",
+        "timeupdated": "1790408359",
+        "timebuildupdated": "1790408170"
+      },
+      "nsl-99-windows": {
+        "buildid": "25103752",
+        "description": "Windows Shipping validation for NSL-99",
+        "timeupdated": "1788445207",
+        "timebuildupdated": "1788445206"
+      }
+    }
+  }
+}

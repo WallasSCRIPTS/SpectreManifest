@@ -1,0 +1,82 @@
+{
+  "name": "Volgarr the Viking",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:11.282Z",
+  "branches": {
+    "public": {
+      "buildid": "9565774",
+      "timeupdated": "1665523152",
+      "timebuildupdated": "1663807627"
+    },
+    "prev": {
+      "buildid": "817735",
+      "description": "Previous version (1.35)",
+      "timeupdated": "1462812716",
+      "timebuildupdated": "1444962011"
+    },
+    "sdl": {
+      "buildid": "9566537",
+      "description": "SDL-based version",
+      "timeupdated": "1665523135",
+      "timebuildupdated": "1663816504"
+    }
+  },
+  "depot": {
+    "247241": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1449819860270498707",
+          "size": "176689582",
+          "download": "154334736"
+        }
+      }
+    },
+    "247242": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "87477116526794499",
+          "size": "185429551",
+          "download": "158572528"
+        }
+      }
+    },
+    "247243": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3275072570069967144",
+          "size": "180866070",
+          "download": "156572864"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9565774",
+        "timeupdated": "1665523152",
+        "timebuildupdated": "1663807627"
+      },
+      "prev": {
+        "buildid": "817735",
+        "description": "Previous version (1.35)",
+        "timeupdated": "1462812716",
+        "timebuildupdated": "1444962011"
+      },
+      "sdl": {
+        "buildid": "9566537",
+        "description": "SDL-based version",
+        "timeupdated": "1665523135",
+        "timebuildupdated": "1663816504"
+      }
+    }
+  }
+}

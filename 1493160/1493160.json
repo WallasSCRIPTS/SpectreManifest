@@ -1,0 +1,94 @@
+{
+  "name": "DARK MINUTE: Kira's Adventure",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:41.105Z",
+  "branches": {
+    "public": {
+      "buildid": "9660847",
+      "timeupdated": "1664990689",
+      "timebuildupdated": "1664990689"
+    },
+    "beta": {
+      "buildid": "7205294",
+      "description": "Windows beta",
+      "timeupdated": "1629233106",
+      "timebuildupdated": "1629233034"
+    },
+    "linux": {
+      "buildid": "8056254",
+      "description": "Linux Version",
+      "timeupdated": "1642704016",
+      "timebuildupdated": "1642704015"
+    },
+    "macos": {
+      "buildid": "9660795",
+      "description": "MacOS Beta",
+      "timeupdated": "1664990117",
+      "timebuildupdated": "1664990117"
+    }
+  },
+  "depot": {
+    "1493164": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4337158445764655480",
+          "size": "156999465",
+          "download": "98341584"
+        }
+      }
+    },
+    "1493165": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5498370932812540206",
+          "size": "150628662",
+          "download": "96086128"
+        }
+      }
+    },
+    "1493166": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4342961129805462192",
+          "size": "161084541",
+          "download": "95827776"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9660847",
+        "timeupdated": "1664990689",
+        "timebuildupdated": "1664990689"
+      },
+      "beta": {
+        "buildid": "7205294",
+        "description": "Windows beta",
+        "timeupdated": "1629233106",
+        "timebuildupdated": "1629233034"
+      },
+      "linux": {
+        "buildid": "8056254",
+        "description": "Linux Version",
+        "timeupdated": "1642704016",
+        "timebuildupdated": "1642704015"
+      },
+      "macos": {
+        "buildid": "9660795",
+        "description": "MacOS Beta",
+        "timeupdated": "1664990117",
+        "timebuildupdated": "1664990117"
+      }
+    }
+  }
+}

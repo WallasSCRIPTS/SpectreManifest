@@ -1,0 +1,59 @@
+{
+  "name": "Shadow Warrior (Classic)",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:07.651Z",
+  "branches": {
+    "public": {
+      "buildid": "613173",
+      "timebuildupdated": "1430902304"
+    }
+  },
+  "depot": {
+    "358282": {
+      "depotfromapp": "358280"
+    },
+    "358401": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4231017113756616561",
+          "size": "119174146",
+          "download": "63528864"
+        }
+      }
+    },
+    "358402": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8753742606406165732",
+          "size": "134199181",
+          "download": "64744208"
+        }
+      }
+    },
+    "358403": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3911928836510645034",
+          "size": "99109732",
+          "download": "55580752"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "613173",
+        "timebuildupdated": "1430902304"
+      }
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "name": "BeatBlasters III",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:11.114Z",
+  "branches": {
+    "public": {
+      "buildid": "221913",
+      "timebuildupdated": "1395947124"
+    },
+    "local": {
+      "buildid": "107385",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1377540983"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "246801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4276001731041731080",
+          "size": "699908531",
+          "download": "0"
+        }
+      }
+    },
+    "246802": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4379143042530777354",
+          "size": "703465499",
+          "download": "0"
+        }
+      }
+    },
+    "246803": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2852077533851112035",
+          "size": "708733907",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "221913",
+        "timebuildupdated": "1395947124"
+      },
+      "local": {
+        "buildid": "107385",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1377540983"
+      }
+    }
+  }
+}

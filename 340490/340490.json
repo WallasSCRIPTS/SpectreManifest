@@ -1,0 +1,70 @@
+{
+  "name": "Subterrain",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:50.466Z",
+  "branches": {
+    "public": {
+      "buildid": "7390416",
+      "timeupdated": "1632151382",
+      "timebuildupdated": "1632151291"
+    },
+    "defaultbeta": {
+      "buildid": "7390416",
+      "description": "Public default beta branch",
+      "timeupdated": "1632151359",
+      "timebuildupdated": "1632151291"
+    },
+    "pressrelease": {
+      "buildid": "7390416",
+      "description": "Press branch",
+      "timeupdated": "1632151425",
+      "timebuildupdated": "1632151291"
+    }
+  },
+  "depot": {
+    "340491": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "506311693049793788",
+          "size": "1107985349",
+          "download": "638387504"
+        }
+      }
+    },
+    "470670": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "421404235482172229",
+          "size": "76556878",
+          "download": "76376784"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7390416",
+        "timeupdated": "1632151382",
+        "timebuildupdated": "1632151291"
+      },
+      "defaultbeta": {
+        "buildid": "7390416",
+        "description": "Public default beta branch",
+        "timeupdated": "1632151359",
+        "timebuildupdated": "1632151291"
+      },
+      "pressrelease": {
+        "buildid": "7390416",
+        "description": "Press branch",
+        "timeupdated": "1632151425",
+        "timebuildupdated": "1632151291"
+      }
+    }
+  }
+}

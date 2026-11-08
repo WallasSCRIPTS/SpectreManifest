@@ -1,0 +1,59 @@
+{
+  "name": "sunny-place-3: microgods Demo",
+  "source": "spectre",
+  "changenumber": 34896298,
+  "updated": "2026-11-06T23:23:16.832Z",
+  "branches": {
+    "public": {
+      "buildid": "10850598",
+      "timeupdated": "1679681950",
+      "timebuildupdated": "1679680167"
+    },
+    "beta": {
+      "buildid": "10850598",
+      "description": "beta",
+      "timeupdated": "1680349475",
+      "timebuildupdated": "1679680167"
+    }
+  },
+  "depot": {
+    "2340041": {},
+    "2340042": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4713347842492948069",
+          "size": "227822525",
+          "download": "62148400"
+        }
+      }
+    },
+    "2340043": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3301987298804088540",
+          "size": "206050300",
+          "download": "61360832"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10850598",
+        "timeupdated": "1679681950",
+        "timebuildupdated": "1679680167"
+      },
+      "beta": {
+        "buildid": "10850598",
+        "description": "beta",
+        "timeupdated": "1680349475",
+        "timebuildupdated": "1679680167"
+      }
+    }
+  }
+}

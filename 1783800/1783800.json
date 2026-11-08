@@ -1,0 +1,51 @@
+{
+  "name": "Crossroad OS",
+  "source": "spectre",
+  "changenumber": 37450809,
+  "updated": "2026-11-06T23:09:47.016Z",
+  "branches": {
+    "public": {
+      "buildid": "14468907",
+      "timeupdated": "1716474501",
+      "timebuildupdated": "1716470030"
+    }
+  },
+  "depot": {
+    "1783801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7222669709971138840",
+          "size": "392545704",
+          "download": "254040192"
+        }
+      }
+    },
+    "1783802": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6687786448039027261",
+          "size": "398871904",
+          "download": "254976704"
+        }
+      }
+    },
+    "1783803": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14468907",
+        "timeupdated": "1716474501",
+        "timebuildupdated": "1716470030"
+      }
+    }
+  }
+}

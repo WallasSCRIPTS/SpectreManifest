@@ -1,0 +1,94 @@
+{
+  "name": "Vectorio",
+  "source": "spectre",
+  "changenumber": 40467478,
+  "updated": "2026-11-06T23:17:29.484Z",
+  "branches": {
+    "public": {
+      "buildid": "22324003",
+      "timeupdated": "1773374564",
+      "timebuildupdated": "1773374552"
+    },
+    "experimental": {
+      "buildid": "23489156",
+      "description": "Used for testing new versions of the game",
+      "timeupdated": "1780177075",
+      "timebuildupdated": "1780177075"
+    },
+    "legacy": {
+      "buildid": "13024611",
+      "description": "Legacy version of Vectorio (0.1)",
+      "timeupdated": "1721157406",
+      "timebuildupdated": "1703198639"
+    },
+    "legacy02": {
+      "buildid": "15474923",
+      "description": "Legacy version of Vectorio (0.2)",
+      "timeupdated": "1773071827",
+      "timebuildupdated": "1724433007"
+    }
+  },
+  "depot": {
+    "2082352": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5132417321458455017",
+          "size": "1290493483",
+          "download": "313412496"
+        }
+      }
+    },
+    "2082353": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2012567720594073584",
+          "size": "1315620627",
+          "download": "323243152"
+        }
+      }
+    },
+    "2082354": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4141365849875230762",
+          "size": "1289396022",
+          "download": "311663072"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22324003",
+        "timeupdated": "1773374564",
+        "timebuildupdated": "1773374552"
+      },
+      "experimental": {
+        "buildid": "23489156",
+        "description": "Used for testing new versions of the game",
+        "timeupdated": "1780177075",
+        "timebuildupdated": "1780177075"
+      },
+      "legacy": {
+        "buildid": "13024611",
+        "description": "Legacy version of Vectorio (0.1)",
+        "timeupdated": "1721157406",
+        "timebuildupdated": "1703198639"
+      },
+      "legacy02": {
+        "buildid": "15474923",
+        "description": "Legacy version of Vectorio (0.2)",
+        "timeupdated": "1773071827",
+        "timebuildupdated": "1724433007"
+      }
+    }
+  }
+}

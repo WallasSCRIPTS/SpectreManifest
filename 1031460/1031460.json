@@ -1,0 +1,106 @@
+{
+  "name": "Sail Forth",
+  "source": "spectre",
+  "changenumber": 39788388,
+  "updated": "2026-11-07T21:02:37.977Z",
+  "branches": {
+    "public": {
+      "buildid": "22611552",
+      "timeupdated": "1775255939",
+      "timebuildupdated": "1775091849"
+    },
+    "demo": {
+      "buildid": "9218740",
+      "description": "Demo build, same as steam demo",
+      "timeupdated": "1659131186",
+      "timebuildupdated": "1659131177"
+    },
+    "first_build": {
+      "buildid": "3545999",
+      "description": "a build older than the sea",
+      "timeupdated": "1623390897",
+      "timebuildupdated": "1549678958"
+    },
+    "bugfix_test": {
+      "buildid": "25686351",
+      "description": "Temp branch for testing fixes with the community",
+      "timeupdated": "1790977423",
+      "timebuildupdated": "1790974665"
+    },
+    "public_preview": {
+      "buildid": "25686351",
+      "description": "Experimental branch, may contain bugs!",
+      "timeupdated": "1790977411",
+      "timebuildupdated": "1790974665"
+    }
+  },
+  "depot": {
+    "1031461": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5486634515133705349",
+          "size": "604491156",
+          "download": "365452608"
+        }
+      }
+    },
+    "1031462": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5085743283143161574",
+          "size": "609010056",
+          "download": "367438464"
+        }
+      }
+    },
+    "1031463": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1217827367322112476",
+          "size": "616896191",
+          "download": "365903440"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22611552",
+        "timeupdated": "1775255939",
+        "timebuildupdated": "1775091849"
+      },
+      "demo": {
+        "buildid": "9218740",
+        "description": "Demo build, same as steam demo",
+        "timeupdated": "1659131186",
+        "timebuildupdated": "1659131177"
+      },
+      "first_build": {
+        "buildid": "3545999",
+        "description": "a build older than the sea",
+        "timeupdated": "1623390897",
+        "timebuildupdated": "1549678958"
+      },
+      "bugfix_test": {
+        "buildid": "25686351",
+        "description": "Temp branch for testing fixes with the community",
+        "timeupdated": "1790977423",
+        "timebuildupdated": "1790974665"
+      },
+      "public_preview": {
+        "buildid": "25686351",
+        "description": "Experimental branch, may contain bugs!",
+        "timeupdated": "1790977411",
+        "timebuildupdated": "1790974665"
+      }
+    }
+  }
+}

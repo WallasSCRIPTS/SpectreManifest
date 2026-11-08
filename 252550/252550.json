@@ -1,0 +1,105 @@
+{
+  "name": "Qbeh-1: The Atlas Cube",
+  "source": "spectre",
+  "changenumber": 37774798,
+  "updated": "2026-11-07T20:56:13.114Z",
+  "branches": {
+    "public": {
+      "buildid": "1856921",
+      "timeupdated": "1496319517",
+      "timebuildupdated": "1496228035"
+    },
+    "1.1.3a": {
+      "buildid": "781801",
+      "timebuildupdated": "1442657854"
+    },
+    "rift_beta": {
+      "buildid": "366421",
+      "description": "Oculus Rift 0.4.2",
+      "timebuildupdated": "1409148302"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "252551": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "252552": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "651343262028025236",
+          "size": "3021506446",
+          "download": "248644601069"
+        }
+      }
+    },
+    "252553": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2684836263106808186",
+          "size": "3033337231",
+          "download": "804433744"
+        }
+      }
+    },
+    "252554": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7104645968652087868",
+          "size": "3085143170",
+          "download": "813961696"
+        }
+      }
+    },
+    "252555": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "344210": {
+      "dlcappid": "344210"
+    },
+    "344211": {
+      "manifests": {
+        "public": {
+          "gid": "8629010914341608556",
+          "size": "239117392",
+          "download": "236374176"
+        }
+      },
+      "dlcappid": "344210"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1856921",
+        "timeupdated": "1496319517",
+        "timebuildupdated": "1496228035"
+      },
+      "1.1.3a": {
+        "buildid": "781801",
+        "timebuildupdated": "1442657854"
+      },
+      "rift_beta": {
+        "buildid": "366421",
+        "description": "Oculus Rift 0.4.2",
+        "timebuildupdated": "1409148302"
+      }
+    }
+  }
+}

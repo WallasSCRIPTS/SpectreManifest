@@ -1,0 +1,64 @@
+{
+  "name": "Verde Station",
+  "source": "spectre",
+  "changenumber": 40653830,
+  "updated": "2026-11-07T20:56:41.435Z",
+  "branches": {
+    "public": {
+      "buildid": "507172",
+      "timebuildupdated": "1422483400"
+    },
+    "beta": {
+      "buildid": "507172",
+      "timebuildupdated": "1422483400"
+    }
+  },
+  "depot": {
+    "324121": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9031574372556562327",
+          "size": "1090690185",
+          "download": "407451024"
+        }
+      }
+    },
+    "324122": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8121025007262632545",
+          "size": "1119878005",
+          "download": "416793312"
+        }
+      }
+    },
+    "324123": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2139573298282594684",
+          "size": "1114590638",
+          "download": "340582272"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "507172",
+        "timebuildupdated": "1422483400"
+      },
+      "beta": {
+        "buildid": "507172",
+        "timebuildupdated": "1422483400"
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Holodrive",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-07T20:57:15.073Z",
+  "branches": {
+    "public": {
+      "buildid": "9701051",
+      "timeupdated": "1665529490",
+      "timebuildupdated": "1665528795"
+    },
+    "beta": {
+      "buildid": "9701051",
+      "description": "Staging",
+      "timeupdated": "1665528795",
+      "timebuildupdated": "1665528795"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "370771": {
+      "manifests": {
+        "public": {
+          "gid": "8916204875651594959",
+          "size": "185538855",
+          "download": "151967744"
+        }
+      }
+    },
+    "370772": {
+      "manifests": {
+        "public": {
+          "gid": "1056023388071869869",
+          "size": "667388564",
+          "download": "293324000"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9701051",
+        "timeupdated": "1665529490",
+        "timebuildupdated": "1665528795"
+      },
+      "beta": {
+        "buildid": "9701051",
+        "description": "Staging",
+        "timeupdated": "1665528795",
+        "timebuildupdated": "1665528795"
+      }
+    }
+  }
+}

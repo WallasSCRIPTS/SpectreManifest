@@ -1,0 +1,80 @@
+{
+  "name": "Steam Squad",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:25.935Z",
+  "branches": {
+    "public": {
+      "buildid": "1627034",
+      "timeupdated": "1487072873",
+      "timebuildupdated": "1486977103"
+    },
+    "bleeding_edge": {
+      "buildid": "1627034",
+      "description": "Latest features but not perfectly tested",
+      "timeupdated": "1487072837",
+      "timebuildupdated": "1486977103"
+    }
+  },
+  "depot": {
+    "290871": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8900552252842965215",
+          "size": "2398584741",
+          "download": "1078311408"
+        }
+      }
+    },
+    "290872": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1068907328019489593",
+          "size": "2418456422",
+          "download": "1086826608"
+        }
+      }
+    },
+    "290873": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3701538512227882489",
+          "size": "2416023976",
+          "download": "1084853152"
+        }
+      }
+    },
+    "522630": {
+      "manifests": {
+        "public": {
+          "gid": "4346620916089528607",
+          "size": "246203952",
+          "download": "247044960"
+        }
+      },
+      "dlcappid": "522630"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1627034",
+        "timeupdated": "1487072873",
+        "timebuildupdated": "1486977103"
+      },
+      "bleeding_edge": {
+        "buildid": "1627034",
+        "description": "Latest features but not perfectly tested",
+        "timeupdated": "1487072837",
+        "timebuildupdated": "1486977103"
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Fobia",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:18.887Z",
+  "branches": {
+    "public": {
+      "buildid": "3048422",
+      "timeupdated": "1534785019",
+      "timebuildupdated": "1534785019"
+    },
+    "testing": {
+      "buildid": "3048406",
+      "timeupdated": "1534784613",
+      "timebuildupdated": "1534784613"
+    }
+  },
+  "depot": {
+    "870451": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6820638099155628121",
+          "size": "506883211",
+          "download": "38169184"
+        }
+      }
+    },
+    "870452": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9134001005356724415",
+          "size": "516347534",
+          "download": "41635072"
+        }
+      }
+    },
+    "870453": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4751631050848473973",
+          "size": "516153625",
+          "download": "44103376"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3048422",
+        "timeupdated": "1534785019",
+        "timebuildupdated": "1534785019"
+      },
+      "testing": {
+        "buildid": "3048406",
+        "timeupdated": "1534784613",
+        "timebuildupdated": "1534784613"
+      }
+    }
+  }
+}

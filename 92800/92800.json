@@ -1,0 +1,118 @@
+{
+  "name": "SpaceChem",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:58.314Z",
+  "branches": {
+    "public": {
+      "buildid": "24286672",
+      "timeupdated": "1784492595",
+      "timebuildupdated": "1784492535"
+    },
+    "crash-reporter": {
+      "buildid": "13307988",
+      "description": "Additional crash reporting",
+      "timeupdated": "1706579618",
+      "timebuildupdated": "1706579555"
+    },
+    "hardware-cursor": {
+      "buildid": "11861587",
+      "description": "Hardware mouse cursor",
+      "timeupdated": "1691097923",
+      "timebuildupdated": "1691097820"
+    },
+    "v1015": {
+      "buildid": "4728335",
+      "description": "SpaceChem v1015 (old version)",
+      "timeupdated": "1594854238",
+      "timebuildupdated": "1582930584"
+    },
+    "community-edition": {
+      "buildid": "25414534",
+      "description": "SpaceChem Community Edition",
+      "timeupdated": "1789861705",
+      "timebuildupdated": "1789861692"
+    },
+    "community-unstable": {
+      "buildid": "25414534",
+      "description": "SpaceChem Community Edition (preview branch)",
+      "timeupdated": "1789861711",
+      "timebuildupdated": "1789861692"
+    }
+  },
+  "depot": {
+    "92801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3250531279835245261",
+          "size": "284208172",
+          "download": "94424832"
+        }
+      }
+    },
+    "92802": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2793503825822668781",
+          "size": "305669542",
+          "download": "100518032"
+        }
+      }
+    },
+    "92804": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5659506174186305590",
+          "size": "306763512",
+          "download": "100776288"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24286672",
+        "timeupdated": "1784492595",
+        "timebuildupdated": "1784492535"
+      },
+      "crash-reporter": {
+        "buildid": "13307988",
+        "description": "Additional crash reporting",
+        "timeupdated": "1706579618",
+        "timebuildupdated": "1706579555"
+      },
+      "hardware-cursor": {
+        "buildid": "11861587",
+        "description": "Hardware mouse cursor",
+        "timeupdated": "1691097923",
+        "timebuildupdated": "1691097820"
+      },
+      "v1015": {
+        "buildid": "4728335",
+        "description": "SpaceChem v1015 (old version)",
+        "timeupdated": "1594854238",
+        "timebuildupdated": "1582930584"
+      },
+      "community-edition": {
+        "buildid": "25414534",
+        "description": "SpaceChem Community Edition",
+        "timeupdated": "1789861705",
+        "timebuildupdated": "1789861692"
+      },
+      "community-unstable": {
+        "buildid": "25414534",
+        "description": "SpaceChem Community Edition (preview branch)",
+        "timeupdated": "1789861711",
+        "timebuildupdated": "1789861692"
+      }
+    }
+  }
+}

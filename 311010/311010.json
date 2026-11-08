@@ -1,0 +1,92 @@
+{
+  "name": "The Way",
+  "source": "spectre",
+  "changenumber": 39960981,
+  "updated": "2026-11-07T20:56:34.865Z",
+  "branches": {
+    "public": {
+      "buildid": "1784629",
+      "timeupdated": "1493289356",
+      "timebuildupdated": "1493289356"
+    },
+    "debug": {
+      "buildid": "1141550",
+      "description": "Test build with prototype fixes",
+      "timeupdated": "1464022860",
+      "timebuildupdated": "1464022860"
+    }
+  },
+  "depot": {
+    "311011": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6541236403640860027",
+          "size": "442624673",
+          "download": "330386608"
+        }
+      }
+    },
+    "311012": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7151353546249005038",
+          "size": "442676129",
+          "download": "347707776"
+        }
+      }
+    },
+    "311013": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5388679043430739741",
+          "size": "419341101",
+          "download": "338644992"
+        }
+      }
+    },
+    "311014": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4168610331875972990",
+          "size": "443216057",
+          "download": "349545952"
+        }
+      }
+    },
+    "363640": {
+      "manifests": {
+        "public": {
+          "gid": "3606828443531406653",
+          "size": "832639662",
+          "download": "835954560"
+        }
+      },
+      "dlcappid": "363640"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1784629",
+        "timeupdated": "1493289356",
+        "timebuildupdated": "1493289356"
+      },
+      "debug": {
+        "buildid": "1141550",
+        "description": "Test build with prototype fixes",
+        "timeupdated": "1464022860",
+        "timebuildupdated": "1464022860"
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "name": "The King's Feast",
+  "source": "spectre",
+  "changenumber": 34891656,
+  "updated": "2026-11-06T23:19:35.156Z",
+  "branches": {
+    "public": {
+      "buildid": "11015705",
+      "timeupdated": "1681678540",
+      "timebuildupdated": "1681669978"
+    },
+    "beta": {
+      "buildid": "10885638",
+      "description": "experimental",
+      "timeupdated": "1680112543",
+      "timebuildupdated": "1680112491"
+    },
+    "demo": {
+      "buildid": "10886989",
+      "description": "Demo for Cons",
+      "timeupdated": "1680124830",
+      "timebuildupdated": "1680124781"
+    }
+  },
+  "depot": {
+    "2240901": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "241084695639718385",
+          "size": "5626278951",
+          "download": "304059024"
+        }
+      }
+    },
+    "2240902": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11015705",
+        "timeupdated": "1681678540",
+        "timebuildupdated": "1681669978"
+      },
+      "beta": {
+        "buildid": "10885638",
+        "description": "experimental",
+        "timeupdated": "1680112543",
+        "timebuildupdated": "1680112491"
+      },
+      "demo": {
+        "buildid": "10886989",
+        "description": "Demo for Cons",
+        "timeupdated": "1680124830",
+        "timebuildupdated": "1680124781"
+      }
+    }
+  }
+}

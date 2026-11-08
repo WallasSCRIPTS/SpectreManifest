@@ -1,0 +1,58 @@
+{
+  "name": "Rescue your chickens",
+  "source": "spectre",
+  "changenumber": 40432029,
+  "updated": "2026-11-07T20:58:42.472Z",
+  "branches": {
+    "public": {
+      "buildid": "1436200",
+      "timeupdated": "1478119772",
+      "timebuildupdated": "1478119772"
+    }
+  },
+  "depot": {
+    "551081": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2880275153812948576",
+          "size": "17689722",
+          "download": "6126016"
+        }
+      }
+    },
+    "551082": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3478237829359693272",
+          "size": "9415466",
+          "download": "4391200"
+        }
+      }
+    },
+    "551083": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "845447862640377734",
+          "size": "40636918",
+          "download": "13457600"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1436200",
+        "timeupdated": "1478119772",
+        "timebuildupdated": "1478119772"
+      }
+    }
+  }
+}

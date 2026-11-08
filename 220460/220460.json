@@ -1,0 +1,128 @@
+{
+  "name": "Cargo Commander",
+  "source": "spectre",
+  "changenumber": 37432492,
+  "updated": "2026-11-07T20:56:05.167Z",
+  "branches": {
+    "public": {
+      "buildid": "159511",
+      "timebuildupdated": "1387279956"
+    },
+    "local": {
+      "buildid": "17020",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1349343528"
+    }
+  },
+  "depot": {
+    "220461": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3189998232449907546",
+          "size": "157873495",
+          "download": "0"
+        }
+      }
+    },
+    "220462": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3368116020886017992",
+          "size": "176618699",
+          "download": "0"
+        }
+      }
+    },
+    "220463": {
+      "manifests": {
+        "public": {
+          "gid": "2960075285399400421",
+          "size": "4",
+          "download": "0"
+        }
+      }
+    },
+    "220464": {
+      "manifests": {
+        "public": {
+          "gid": "1633117858435130170",
+          "size": "4",
+          "download": "0"
+        }
+      }
+    },
+    "220465": {
+      "manifests": {
+        "public": {
+          "gid": "3538591933216031194",
+          "size": "4",
+          "download": "0"
+        }
+      }
+    },
+    "220466": {
+      "manifests": {
+        "public": {
+          "gid": "8209785959145698097",
+          "size": "4",
+          "download": "0"
+        }
+      }
+    },
+    "220467": {
+      "manifests": {
+        "public": {
+          "gid": "8832652254617286063",
+          "size": "4",
+          "download": "0"
+        }
+      }
+    },
+    "220468": {
+      "manifests": {
+        "public": {
+          "gid": "4974294385253293123",
+          "size": "4",
+          "download": "0"
+        }
+      }
+    },
+    "220469": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6612960941971011744",
+          "size": "170496336",
+          "download": "0"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "159511",
+        "timebuildupdated": "1387279956"
+      },
+      "local": {
+        "buildid": "17020",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1349343528"
+      }
+    }
+  }
+}

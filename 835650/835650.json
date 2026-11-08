@@ -1,0 +1,80 @@
+{
+  "name": "Rising Lords",
+  "source": "spectre",
+  "changenumber": 39700152,
+  "updated": "2026-11-07T21:01:02.917Z",
+  "branches": {
+    "public": {
+      "buildid": "24273360",
+      "timeupdated": "1784403246",
+      "timebuildupdated": "1784375173"
+    },
+    "beta": {
+      "buildid": "24273360",
+      "description": "unstable",
+      "timeupdated": "1784375173",
+      "timebuildupdated": "1784375173"
+    },
+    "previous": {
+      "buildid": "23239812",
+      "timeupdated": "1778851988",
+      "timebuildupdated": "1778786307"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "835651": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3562164620893743490",
+          "size": "959647488",
+          "download": "906087408"
+        }
+      }
+    },
+    "835652": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7224757215891973034",
+          "size": "477522149",
+          "download": "427621760"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24273360",
+        "timeupdated": "1784403246",
+        "timebuildupdated": "1784375173"
+      },
+      "beta": {
+        "buildid": "24273360",
+        "description": "unstable",
+        "timeupdated": "1784375173",
+        "timebuildupdated": "1784375173"
+      },
+      "previous": {
+        "buildid": "23239812",
+        "timeupdated": "1778851988",
+        "timebuildupdated": "1778786307"
+      }
+    }
+  }
+}

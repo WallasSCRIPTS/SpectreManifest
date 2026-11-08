@@ -1,0 +1,78 @@
+{
+  "name": "Anodyne 2: Return to Dust",
+  "source": "spectre",
+  "changenumber": 37438766,
+  "updated": "2026-11-07T21:01:22.645Z",
+  "branches": {
+    "public": {
+      "buildid": "12017921",
+      "timeupdated": "1692837684",
+      "timebuildupdated": "1692837602"
+    },
+    "beta": {
+      "buildid": "12017921",
+      "timeupdated": "1692837602",
+      "timebuildupdated": "1692837602"
+    },
+    "linuxtest": {
+      "buildid": "4155612",
+      "timeupdated": "1567228344",
+      "timebuildupdated": "1567228344"
+    }
+  },
+  "depot": {
+    "877811": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6657526585877531443",
+          "size": "469425559",
+          "download": "186753536"
+        }
+      }
+    },
+    "877812": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4848182388261349663",
+          "size": "487687146",
+          "download": "192795040"
+        }
+      }
+    },
+    "877813": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6682193769153043852",
+          "size": "529335288",
+          "download": "209551984"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12017921",
+        "timeupdated": "1692837684",
+        "timebuildupdated": "1692837602"
+      },
+      "beta": {
+        "buildid": "12017921",
+        "timeupdated": "1692837602",
+        "timebuildupdated": "1692837602"
+      },
+      "linuxtest": {
+        "buildid": "4155612",
+        "timeupdated": "1567228344",
+        "timebuildupdated": "1567228344"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Total Lockdown",
+  "source": "spectre",
+  "changenumber": 40315868,
+  "updated": "2026-11-07T21:03:30.137Z",
+  "branches": {
+    "public": {
+      "buildid": "5634176",
+      "timeupdated": "1601805590",
+      "timebuildupdated": "1601804229"
+    },
+    "test": {
+      "buildid": "5634176",
+      "description": "QA builds",
+      "timeupdated": "1601805606",
+      "timebuildupdated": "1601804229"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1121711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5125679414307340738",
+          "size": "5441210873",
+          "download": "2200677696"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5634176",
+        "timeupdated": "1601805590",
+        "timebuildupdated": "1601804229"
+      },
+      "test": {
+        "buildid": "5634176",
+        "description": "QA builds",
+        "timeupdated": "1601805606",
+        "timebuildupdated": "1601804229"
+      }
+    }
+  }
+}

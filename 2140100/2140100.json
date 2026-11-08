@@ -1,0 +1,92 @@
+{
+  "name": "Whisker Squadron: Survivor",
+  "source": "spectre",
+  "changenumber": 39673889,
+  "updated": "2026-11-06T23:17:36.561Z",
+  "branches": {
+    "public": {
+      "buildid": "17488265",
+      "timeupdated": "1740421569",
+      "timebuildupdated": "1740421569"
+    },
+    "beta": {
+      "buildid": "17488165",
+      "description": "Early look at new features. Join the Discord for feedback!",
+      "timeupdated": "1740421079",
+      "timebuildupdated": "1740421079"
+    },
+    "feb_2024": {
+      "buildid": "13521278",
+      "description": "Final public release piior to Campaign update. Use at your own risk!",
+      "timeupdated": "1718305464",
+      "timebuildupdated": "1708530814"
+    }
+  },
+  "depot": {
+    "2140101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3841789479222517921",
+          "size": "1322825315",
+          "download": "360306128"
+        }
+      }
+    },
+    "2140102": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6419274158336258847",
+          "size": "1315726216",
+          "download": "357481456"
+        }
+      }
+    },
+    "2140103": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2499445580772388060",
+          "size": "1427379180",
+          "download": "373056512"
+        }
+      }
+    },
+    "2666630": {
+      "manifests": {
+        "public": {
+          "gid": "5161405275882937760",
+          "size": "23263617",
+          "download": "22288512"
+        }
+      },
+      "dlcappid": "2666630"
+    },
+    "branches": {
+      "public": {
+        "buildid": "17488265",
+        "timeupdated": "1740421569",
+        "timebuildupdated": "1740421569"
+      },
+      "beta": {
+        "buildid": "17488165",
+        "description": "Early look at new features. Join the Discord for feedback!",
+        "timeupdated": "1740421079",
+        "timebuildupdated": "1740421079"
+      },
+      "feb_2024": {
+        "buildid": "13521278",
+        "description": "Final public release piior to Campaign update. Use at your own risk!",
+        "timeupdated": "1718305464",
+        "timebuildupdated": "1708530814"
+      }
+    }
+  }
+}

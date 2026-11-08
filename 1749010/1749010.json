@@ -1,0 +1,59 @@
+{
+  "name": "Royal Order",
+  "source": "spectre",
+  "changenumber": 37450809,
+  "updated": "2026-11-06T23:09:42.451Z",
+  "branches": {
+    "public": {
+      "buildid": "13979889",
+      "timeupdated": "1712516995",
+      "timebuildupdated": "1712516573"
+    }
+  },
+  "depot": {
+    "1749011": {},
+    "1749012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5147791262597333807",
+          "size": "902165929",
+          "download": "679764128"
+        }
+      }
+    },
+    "1749013": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "955604895544148473",
+          "size": "921429238",
+          "download": "684256640"
+        }
+      }
+    },
+    "1749014": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5162562048576084206",
+          "size": "890737238",
+          "download": "675966336"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13979889",
+        "timeupdated": "1712516995",
+        "timebuildupdated": "1712516573"
+      }
+    }
+  }
+}

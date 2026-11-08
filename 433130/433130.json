@@ -1,0 +1,62 @@
+{
+  "name": "WarBirds Dogfights",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:48.630Z",
+  "branches": {
+    "public": {
+      "buildid": "8208842",
+      "timeupdated": "1644954111",
+      "timebuildupdated": "1644954110"
+    },
+    "dogfightsmac": {
+      "buildid": "2587515",
+      "timeupdated": "1520527572",
+      "timebuildupdated": "1520527572"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "433131": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7128530182606326376",
+          "size": "6299742328",
+          "download": "2288974144"
+        }
+      }
+    },
+    "433132": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1802713752055462237",
+          "size": "5266418577",
+          "download": "2060211296"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8208842",
+        "timeupdated": "1644954111",
+        "timebuildupdated": "1644954110"
+      },
+      "dogfightsmac": {
+        "buildid": "2587515",
+        "timeupdated": "1520527572",
+        "timebuildupdated": "1520527572"
+      }
+    }
+  }
+}

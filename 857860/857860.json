@@ -1,0 +1,52 @@
+{
+  "name": "Planetary Settlers",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:13.053Z",
+  "branches": {
+    "public": {
+      "buildid": "8701169",
+      "timeupdated": "1652051606",
+      "timebuildupdated": "1652051488"
+    },
+    "test": {
+      "buildid": "8701169",
+      "description": "Used to test risky new features before releasing to the general userbase",
+      "timeupdated": "1652051592",
+      "timebuildupdated": "1652051488"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "857861": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5954626151758666144",
+          "size": "7469808002",
+          "download": "1898716112"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8701169",
+        "timeupdated": "1652051606",
+        "timebuildupdated": "1652051488"
+      },
+      "test": {
+        "buildid": "8701169",
+        "description": "Used to test risky new features before releasing to the general userbase",
+        "timeupdated": "1652051592",
+        "timebuildupdated": "1652051488"
+      }
+    }
+  }
+}

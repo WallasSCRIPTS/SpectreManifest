@@ -1,0 +1,82 @@
+{
+  "name": "Machinarium Demo",
+  "source": "spectre",
+  "changenumber": 39609538,
+  "updated": "2026-11-07T20:55:54.113Z",
+  "branches": {
+    "public": {
+      "buildid": "24292099",
+      "timeupdated": "1784534750",
+      "timebuildupdated": "1784534511"
+    },
+    "mac_2021": {
+      "buildid": "6787148",
+      "description": "New Mac 'Metal render' version",
+      "timeupdated": "1622468567",
+      "timebuildupdated": "1622466827"
+    },
+    "pc_2021": {
+      "buildid": "6787148",
+      "description": "Updated PC version 2021",
+      "timeupdated": "1622468575",
+      "timebuildupdated": "1622466827"
+    },
+    "beta": {
+      "buildid": "24417715",
+      "description": "latest beta testing",
+      "timeupdated": "1785182539",
+      "timebuildupdated": "1785176988"
+    }
+  },
+  "depot": {
+    "40711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7697899124887691653",
+          "size": "48800160",
+          "download": "44570064"
+        }
+      }
+    },
+    "40712": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1309664061929155132",
+          "size": "48885885",
+          "download": "46526560"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24292099",
+        "timeupdated": "1784534750",
+        "timebuildupdated": "1784534511"
+      },
+      "mac_2021": {
+        "buildid": "6787148",
+        "description": "New Mac 'Metal render' version",
+        "timeupdated": "1622468567",
+        "timebuildupdated": "1622466827"
+      },
+      "pc_2021": {
+        "buildid": "6787148",
+        "description": "Updated PC version 2021",
+        "timeupdated": "1622468575",
+        "timebuildupdated": "1622466827"
+      },
+      "beta": {
+        "buildid": "24417715",
+        "description": "latest beta testing",
+        "timeupdated": "1785182539",
+        "timebuildupdated": "1785176988"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Shave & Stuff",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:19:29.874Z",
+  "branches": {
+    "public": {
+      "buildid": "24950965",
+      "timeupdated": "1787836810",
+      "timebuildupdated": "1787753030"
+    },
+    "beta": {
+      "buildid": "24950965",
+      "description": "Public beta",
+      "timeupdated": "1787836783",
+      "timebuildupdated": "1787753030"
+    }
+  },
+  "depot": {
+    "2195401": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8875673258834927626",
+          "size": "1253187693",
+          "download": "285536992"
+        }
+      }
+    },
+    "2195402": {
+      "config": {
+        "oslist": "android"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6969524260361723251",
+          "size": "487286232",
+          "download": "452681104"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24950965",
+        "timeupdated": "1787836810",
+        "timebuildupdated": "1787753030"
+      },
+      "beta": {
+        "buildid": "24950965",
+        "description": "Public beta",
+        "timeupdated": "1787836783",
+        "timebuildupdated": "1787753030"
+      }
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "name": "Atom Zombie Smasher ",
+  "source": "spectre",
+  "changenumber": 40308898,
+  "updated": "2026-11-07T20:55:56.412Z",
+  "branches": {
+    "public": {
+      "buildid": "21625966",
+      "timeupdated": "1769456794",
+      "timebuildupdated": "1769208221"
+    },
+    "prev_build": {
+      "buildid": "7579476",
+      "description": "Previous build",
+      "timeupdated": "1692632311",
+      "timebuildupdated": "1634883413"
+    },
+    "anniversary2026": {
+      "buildid": "21625966",
+      "description": "beta test for anniversary build",
+      "timeupdated": "1769208278",
+      "timebuildupdated": "1769208221"
+    },
+    "next_update": {
+      "buildid": "21625966",
+      "description": "Incoming fixes and changes.",
+      "timeupdated": "1769456771",
+      "timebuildupdated": "1769208221"
+    }
+  },
+  "depot": {
+    "55041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1085714016912195293",
+          "size": "26783607",
+          "download": "24212848"
+        }
+      }
+    },
+    "55042": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3737798738700482162",
+          "size": "53732788",
+          "download": "32810624"
+        }
+      }
+    },
+    "55043": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6195456139882087282",
+          "size": "50237647",
+          "download": "32483936"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229006": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "21625966",
+        "timeupdated": "1769456794",
+        "timebuildupdated": "1769208221"
+      },
+      "prev_build": {
+        "buildid": "7579476",
+        "description": "Previous build",
+        "timeupdated": "1692632311",
+        "timebuildupdated": "1634883413"
+      },
+      "anniversary2026": {
+        "buildid": "21625966",
+        "description": "beta test for anniversary build",
+        "timeupdated": "1769208278",
+        "timebuildupdated": "1769208221"
+      },
+      "next_update": {
+        "buildid": "21625966",
+        "description": "Incoming fixes and changes.",
+        "timeupdated": "1769456771",
+        "timebuildupdated": "1769208221"
+      }
+    }
+  }
+}

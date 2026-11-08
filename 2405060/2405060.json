@@ -1,0 +1,76 @@
+{
+  "name": "KIBORG",
+  "source": "spectre",
+  "changenumber": 40436444,
+  "updated": "2026-11-06T23:23:24.498Z",
+  "branches": {
+    "public": {
+      "buildid": "26332453",
+      "timeupdated": "1793388511",
+      "timebuildupdated": "1793388511"
+    },
+    "stable_build": {
+      "buildid": "22150140",
+      "description": "Stable Alpha Test Shipping",
+      "timeupdated": "1774262943",
+      "timebuildupdated": "1772378391"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2405061": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3598045828530674427",
+          "size": "28137506949",
+          "download": "11071039040"
+        }
+      }
+    },
+    "2405062": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3876114828541577428",
+          "size": "21129038744",
+          "download": "8793416512"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26332453",
+        "timeupdated": "1793388511",
+        "timebuildupdated": "1793388511"
+      },
+      "stable_build": {
+        "buildid": "22150140",
+        "description": "Stable Alpha Test Shipping",
+        "timeupdated": "1774262943",
+        "timebuildupdated": "1772378391"
+      }
+    }
+  }
+}

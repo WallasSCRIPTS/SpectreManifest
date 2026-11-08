@@ -1,0 +1,51 @@
+{
+  "name": "WavePlayer",
+  "source": "spectre",
+  "changenumber": 37450809,
+  "updated": "2026-11-06T23:09:44.282Z",
+  "branches": {
+    "public": {
+      "buildid": "7555887",
+      "timeupdated": "1634594138",
+      "timebuildupdated": "1634594045"
+    },
+    "macbuild": {
+      "buildid": "7555887",
+      "description": "for mac",
+      "timeupdated": "1635182139",
+      "timebuildupdated": "1634594045"
+    }
+  },
+  "depot": {
+    "1763211": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5631038955438392495",
+          "size": "186366124",
+          "download": "32003984"
+        }
+      }
+    },
+    "1763212": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7555887",
+        "timeupdated": "1634594138",
+        "timebuildupdated": "1634594045"
+      },
+      "macbuild": {
+        "buildid": "7555887",
+        "description": "for mac",
+        "timeupdated": "1635182139",
+        "timebuildupdated": "1634594045"
+      }
+    }
+  }
+}

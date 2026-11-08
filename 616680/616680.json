@@ -1,0 +1,58 @@
+{
+  "name": "Monster Showdown VR",
+  "source": "spectre",
+  "changenumber": 39329368,
+  "updated": "2026-11-07T20:59:17.107Z",
+  "branches": {
+    "public": {
+      "buildid": "25135679",
+      "timeupdated": "1788573648",
+      "timebuildupdated": "1788572947"
+    },
+    "classic": {
+      "buildid": "6249295",
+      "description": "The classic Monster Reapers VR game.",
+      "timeupdated": "1628923327",
+      "timebuildupdated": "1613513617"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "616681": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2979093119891337919",
+          "size": "2866438287",
+          "download": "2716462992"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25135679",
+        "timeupdated": "1788573648",
+        "timebuildupdated": "1788572947"
+      },
+      "classic": {
+        "buildid": "6249295",
+        "description": "The classic Monster Reapers VR game.",
+        "timeupdated": "1628923327",
+        "timebuildupdated": "1613513617"
+      }
+    }
+  }
+}

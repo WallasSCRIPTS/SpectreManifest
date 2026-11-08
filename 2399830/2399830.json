@@ -1,0 +1,55 @@
+{
+  "name": "ARK: Survival Ascended",
+  "source": "spectre",
+  "changenumber": 40681198,
+  "updated": "2026-11-06T23:23:23.866Z",
+  "branches": {
+    "public": {
+      "buildid": "26257694",
+      "timeupdated": "1793240022",
+      "timebuildupdated": "1793146088"
+    },
+    "public_test_realm": {
+      "buildid": "26241347",
+      "description": "Try out the new stuff",
+      "timeupdated": "1793679216",
+      "timebuildupdated": "1793098685"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2399831": {
+      "manifests": {
+        "public": {
+          "gid": "8811032427332223301",
+          "size": "230542752362",
+          "download": "209648764448"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26257694",
+        "timeupdated": "1793240022",
+        "timebuildupdated": "1793146088"
+      },
+      "public_test_realm": {
+        "buildid": "26241347",
+        "description": "Try out the new stuff",
+        "timeupdated": "1793679216",
+        "timebuildupdated": "1793098685"
+      }
+    }
+  }
+}

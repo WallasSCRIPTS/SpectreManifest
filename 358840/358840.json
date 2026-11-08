@@ -1,0 +1,66 @@
+{
+  "name": "ZombieRun",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:07.771Z",
+  "branches": {
+    "public": {
+      "buildid": "710097",
+      "timebuildupdated": "1438023288"
+    },
+    "user_beta": {
+      "buildid": "710097",
+      "description": "For user testing",
+      "timebuildupdated": "1438023288"
+    }
+  },
+  "depot": {
+    "358841": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6761221152098817346",
+          "size": "35809308",
+          "download": "35288672"
+        }
+      }
+    },
+    "358842": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4014780311361166581",
+          "size": "35876069",
+          "download": "35309472"
+        }
+      }
+    },
+    "358843": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2798839520115016406",
+          "size": "35840704",
+          "download": "35324544"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "710097",
+        "timebuildupdated": "1438023288"
+      },
+      "user_beta": {
+        "buildid": "710097",
+        "description": "For user testing",
+        "timebuildupdated": "1438023288"
+      }
+    }
+  }
+}

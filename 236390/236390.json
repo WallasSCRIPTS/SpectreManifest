@@ -1,0 +1,133 @@
+{
+  "name": "War Thunder",
+  "source": "spectre",
+  "changenumber": 40699238,
+  "updated": "2026-11-07T20:56:08.681Z",
+  "branches": {
+    "public": {
+      "buildid": "26504030",
+      "timeupdated": "1794045977",
+      "timebuildupdated": "1794045977"
+    },
+    "release_candidate": {
+      "buildid": "26504021",
+      "description": "release candidate",
+      "timeupdated": "1794045922",
+      "timebuildupdated": "1794045922"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "236391": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2614944674515475990",
+          "size": "90860607313",
+          "download": "88742126176"
+        }
+      }
+    },
+    "236392": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4187238515141173811",
+          "size": "90732617955",
+          "download": "88587024976"
+        }
+      }
+    },
+    "236393": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3107564198757572212",
+          "size": "489314795",
+          "download": "252485568"
+        }
+      }
+    },
+    "236394": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "678463046528336859",
+          "size": "2256736108",
+          "download": "1307472000"
+        }
+      }
+    },
+    "1945840": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4296444878479419053",
+          "size": "47129293752",
+          "download": "47204709552"
+        }
+      },
+      "dlcappid": "1945840"
+    },
+    "1945841": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2114270428315418375",
+          "size": "20324194947",
+          "download": "20399708832"
+        }
+      },
+      "dlcappid": "1945841"
+    },
+    "1945930": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1811921569544140691",
+          "size": "13945235467",
+          "download": "13789991200"
+        }
+      },
+      "dlcappid": "1945930"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26504030",
+        "timeupdated": "1794045977",
+        "timebuildupdated": "1794045977"
+      },
+      "release_candidate": {
+        "buildid": "26504021",
+        "description": "release candidate",
+        "timeupdated": "1794045922",
+        "timebuildupdated": "1794045922"
+      }
+    }
+  }
+}

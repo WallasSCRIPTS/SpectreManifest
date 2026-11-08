@@ -1,0 +1,68 @@
+{
+  "name": "WolfQuest: Anniversary Edition",
+  "source": "spectre",
+  "changenumber": 40707276,
+  "updated": "2026-11-07T21:01:44.679Z",
+  "branches": {
+    "public": {
+      "buildid": "26050161",
+      "timeupdated": "1792416482",
+      "timebuildupdated": "1792416482"
+    },
+    "beta": {
+      "buildid": "26049769",
+      "description": "WQ Public Beta",
+      "timeupdated": "1792415609",
+      "timebuildupdated": "1792415609"
+    }
+  },
+  "depot": {
+    "926991": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4264220327889587219",
+          "size": "15582758740",
+          "download": "7523617344"
+        }
+      }
+    },
+    "926992": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3434991994086468983",
+          "size": "15734199812",
+          "download": "7622382960"
+        }
+      }
+    },
+    "926993": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "926994": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26050161",
+        "timeupdated": "1792416482",
+        "timebuildupdated": "1792416482"
+      },
+      "beta": {
+        "buildid": "26049769",
+        "description": "WQ Public Beta",
+        "timeupdated": "1792415609",
+        "timebuildupdated": "1792415609"
+      }
+    }
+  }
+}

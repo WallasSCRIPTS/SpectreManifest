@@ -1,0 +1,85 @@
+{
+  "name": "SimplePlanes VR",
+  "source": "spectre",
+  "changenumber": 38947095,
+  "updated": "2026-11-06T23:07:50.135Z",
+  "branches": {
+    "public": {
+      "buildid": "24025960",
+      "timeupdated": "1787163857",
+      "timebuildupdated": "1783017049"
+    },
+    "experimental": {
+      "buildid": "24025960",
+      "description": "Home of the brave",
+      "timeupdated": "1783017128",
+      "timebuildupdated": "1783017049"
+    },
+    "public-test": {
+      "buildid": "24025960",
+      "description": "Public Test",
+      "timeupdated": "1787158713",
+      "timebuildupdated": "1783017049"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1692703": {
+      "manifests": {
+        "public": {
+          "gid": "6027616670110779039",
+          "size": "31456593",
+          "download": "31167792"
+        }
+      }
+    },
+    "1692704": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1939708960555588714",
+          "size": "899033298",
+          "download": "276618368"
+        }
+      }
+    },
+    "1692705": {
+      "config": {
+        "oslist": "android"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6605577746163704077",
+          "size": "332474133",
+          "download": "330916768"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24025960",
+        "timeupdated": "1787163857",
+        "timebuildupdated": "1783017049"
+      },
+      "experimental": {
+        "buildid": "24025960",
+        "description": "Home of the brave",
+        "timeupdated": "1783017128",
+        "timebuildupdated": "1783017049"
+      },
+      "public-test": {
+        "buildid": "24025960",
+        "description": "Public Test",
+        "timeupdated": "1787158713",
+        "timebuildupdated": "1783017049"
+      }
+    }
+  }
+}

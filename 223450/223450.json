@@ -1,0 +1,44 @@
+{
+  "name": "Dyad",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:05.867Z",
+  "branches": {
+    "public": {
+      "buildid": "62869",
+      "timebuildupdated": "1366883739"
+    }
+  },
+  "depot": {
+    "223451": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2211358369924925007",
+          "size": "1458292589",
+          "download": "0"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "62869",
+        "timebuildupdated": "1366883739"
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Gravity Break",
+  "source": "spectre",
+  "changenumber": 40019980,
+  "updated": "2026-11-06T23:11:41.194Z",
+  "branches": {
+    "public": {
+      "buildid": "26061849",
+      "timeupdated": "1792444279",
+      "timebuildupdated": "1792444021"
+    },
+    "testing": {
+      "buildid": "26061849",
+      "description": "Have I not updated this?",
+      "timeupdated": "1792444279",
+      "timebuildupdated": "1792444021"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229033": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1870591": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8446236383176148103",
+          "size": "345211643",
+          "download": "106425056"
+        }
+      }
+    },
+    "1870592": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5214580376294426936",
+          "size": "363827450",
+          "download": "117989296"
+        }
+      }
+    },
+    "1870593": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4669382343356262383",
+          "size": "340975924",
+          "download": "102791968"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26061849",
+        "timeupdated": "1792444279",
+        "timebuildupdated": "1792444021"
+      },
+      "testing": {
+        "buildid": "26061849",
+        "description": "Have I not updated this?",
+        "timeupdated": "1792444279",
+        "timebuildupdated": "1792444021"
+      }
+    }
+  }
+}

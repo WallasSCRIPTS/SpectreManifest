@@ -1,0 +1,66 @@
+{
+  "name": "Odinfall",
+  "source": "spectre",
+  "changenumber": 40594281,
+  "updated": "2026-11-06T23:17:38.390Z",
+  "branches": {
+    "public": {
+      "buildid": "26428505",
+      "timeupdated": "1793805606",
+      "timebuildupdated": "1793787121"
+    },
+    "experimental": {
+      "buildid": "22162880",
+      "description": "Public Experimental Branch",
+      "timeupdated": "1772532295",
+      "timebuildupdated": "1772465250"
+    },
+    "local": {
+      "buildid": "16404640",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1731580214",
+      "timebuildupdated": "1731580214"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2154241": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7549838444294410517",
+          "size": "852492217",
+          "download": "704108144"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26428505",
+        "timeupdated": "1793805606",
+        "timebuildupdated": "1793787121"
+      },
+      "experimental": {
+        "buildid": "22162880",
+        "description": "Public Experimental Branch",
+        "timeupdated": "1772532295",
+        "timebuildupdated": "1772465250"
+      },
+      "local": {
+        "buildid": "16404640",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1731580214",
+        "timebuildupdated": "1731580214"
+      }
+    }
+  }
+}

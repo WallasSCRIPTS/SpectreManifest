@@ -1,0 +1,96 @@
+{
+  "name": "Super Vili",
+  "source": "spectre",
+  "changenumber": 37629617,
+  "updated": "2026-11-06T21:06:20.416Z",
+  "branches": {
+    "public": {
+      "buildid": "7242304",
+      "timeupdated": "1629821695",
+      "timebuildupdated": "1629821452"
+    },
+    "linux": {
+      "buildid": "6519580",
+      "description": "linux version",
+      "timeupdated": "1618042753",
+      "timebuildupdated": "1618042753"
+    },
+    "local": {
+      "buildid": "6525891",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1618220869",
+      "timebuildupdated": "1618220869"
+    },
+    "macos": {
+      "buildid": "6519590",
+      "description": "macosx version",
+      "timeupdated": "1618042987",
+      "timebuildupdated": "1618042987"
+    }
+  },
+  "depot": {
+    "1583181": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8289341109692772192",
+          "size": "94327824",
+          "download": "67859104"
+        }
+      }
+    },
+    "1583182": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6681102034007587934",
+          "size": "95309440",
+          "download": "68334752"
+        }
+      }
+    },
+    "1583183": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5816786594394231709",
+          "size": "130678597",
+          "download": "76935856"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7242304",
+        "timeupdated": "1629821695",
+        "timebuildupdated": "1629821452"
+      },
+      "linux": {
+        "buildid": "6519580",
+        "description": "linux version",
+        "timeupdated": "1618042753",
+        "timebuildupdated": "1618042753"
+      },
+      "local": {
+        "buildid": "6525891",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1618220869",
+        "timebuildupdated": "1618220869"
+      },
+      "macos": {
+        "buildid": "6519590",
+        "description": "macosx version",
+        "timeupdated": "1618042987",
+        "timebuildupdated": "1618042987"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Pixel Starships",
+  "source": "spectre",
+  "changenumber": 40687900,
+  "updated": "2026-11-07T20:57:20.792Z",
+  "branches": {
+    "public": {
+      "buildid": "25922512",
+      "timeupdated": "1791941928",
+      "timebuildupdated": "1791941472"
+    },
+    "staging": {
+      "buildid": "26489700",
+      "description": "Public Test Realm. Used for testing incoming release builds",
+      "timeupdated": "1793983095",
+      "timebuildupdated": "1793983095"
+    }
+  },
+  "depot": {
+    "378761": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2068944901004013068",
+          "size": "847141653",
+          "download": "199758944"
+        }
+      }
+    },
+    "378762": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6779573426097665650",
+          "size": "483748394",
+          "download": "131650240"
+        }
+      }
+    },
+    "378763": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6872556898645446525",
+          "size": "326708187",
+          "download": "109387872"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25922512",
+        "timeupdated": "1791941928",
+        "timebuildupdated": "1791941472"
+      },
+      "staging": {
+        "buildid": "26489700",
+        "description": "Public Test Realm. Used for testing incoming release builds",
+        "timeupdated": "1793983095",
+        "timebuildupdated": "1793983095"
+      }
+    }
+  }
+}

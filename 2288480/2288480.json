@@ -1,0 +1,58 @@
+{
+  "name": "Kiss Effect",
+  "source": "spectre",
+  "changenumber": 40600577,
+  "updated": "2026-11-06T23:21:25.454Z",
+  "branches": {
+    "public": {
+      "buildid": "24734771",
+      "timeupdated": "1786711912",
+      "timebuildupdated": "1786711912"
+    },
+    "mac_os": {
+      "buildid": "24734768",
+      "description": "Mac_OS",
+      "timeupdated": "1786711900",
+      "timebuildupdated": "1786711900"
+    }
+  },
+  "depot": {
+    "2288481": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1000782103769754400",
+          "size": "407055712",
+          "download": "304555776"
+        }
+      }
+    },
+    "2288482": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7681838981921149289",
+          "size": "531826289",
+          "download": "347053760"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24734771",
+        "timeupdated": "1786711912",
+        "timebuildupdated": "1786711912"
+      },
+      "mac_os": {
+        "buildid": "24734768",
+        "description": "Mac_OS",
+        "timeupdated": "1786711900",
+        "timebuildupdated": "1786711900"
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "name": "Kabounce",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:47.772Z",
+  "branches": {
+    "public": {
+      "buildid": "5736891",
+      "timeupdated": "1603716959",
+      "timebuildupdated": "1603706302"
+    },
+    "local": {
+      "buildid": "1023437",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1457961088"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229000": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "431931": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1676972921826863634",
+          "size": "2997306460",
+          "download": "881061904"
+        }
+      }
+    },
+    "431932": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6835211348409183572",
+          "size": "2964466865",
+          "download": "855990624"
+        }
+      }
+    },
+    "866320": {
+      "manifests": {
+        "public": {
+          "gid": "985159723497214847",
+          "size": "98975733",
+          "download": "98855008"
+        }
+      },
+      "dlcappid": "866320"
+    },
+    "branches": {
+      "public": {
+        "buildid": "5736891",
+        "timeupdated": "1603716959",
+        "timebuildupdated": "1603706302"
+      },
+      "local": {
+        "buildid": "1023437",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1457961088"
+      }
+    }
+  }
+}

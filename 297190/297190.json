@@ -1,0 +1,63 @@
+{
+  "name": "Grayland",
+  "source": "spectre",
+  "changenumber": 40013466,
+  "updated": "2026-11-07T20:56:29.174Z",
+  "branches": {
+    "public": {
+      "buildid": "5988809",
+      "timeupdated": "1608309405",
+      "timebuildupdated": "1608309302"
+    },
+    "local": {
+      "buildid": "4519807",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1577007146",
+      "timebuildupdated": "1577007146"
+    }
+  },
+  "depot": {
+    "297191": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "297192": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4253099106981982720",
+          "size": "154535051",
+          "download": "45087536"
+        }
+      }
+    },
+    "297193": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "297194": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5988809",
+        "timeupdated": "1608309405",
+        "timebuildupdated": "1608309302"
+      },
+      "local": {
+        "buildid": "4519807",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1577007146",
+        "timebuildupdated": "1577007146"
+      }
+    }
+  }
+}

@@ -1,0 +1,614 @@
+{
+  "name": "The Witcher 3: Wild Hunt — Remastered",
+  "source": "spectre",
+  "changenumber": 40546396,
+  "updated": "2026-11-07T20:56:26.423Z",
+  "branches": {
+    "public": {
+      "buildid": "26238013",
+      "timeupdated": "1793271592",
+      "timebuildupdated": "1793088230"
+    },
+    "classic": {
+      "buildid": "3280809",
+      "description": "Select this branch to play the classic release of The Witcher 3 (Patch 1.32).",
+      "timeupdated": "1670930292",
+      "timebuildupdated": "1541515320"
+    },
+    "next-gen": {
+      "buildid": "14504303",
+      "description": "Select this branch to play the latest release of The Witcher 3 Next-Gen update (Patch 4.04).",
+      "timeupdated": "1717668030",
+      "timebuildupdated": "1716794744"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "292031": {
+      "manifests": {
+        "public": {
+          "gid": "7640729138264148143",
+          "size": "58758644924",
+          "download": "54882185888"
+        }
+      }
+    },
+    "292032": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2256163960874529295",
+          "size": "505064516",
+          "download": "215603504"
+        }
+      }
+    },
+    "292033": {
+      "manifests": {
+        "public": {
+          "gid": "5639169236463762487",
+          "size": "4439952978",
+          "download": "3724906608"
+        }
+      }
+    },
+    "292034": {
+      "manifests": {
+        "public": {
+          "gid": "7682788265650954229",
+          "size": "91257732",
+          "download": "18557440"
+        }
+      }
+    },
+    "292035": {
+      "manifests": {
+        "public": {
+          "gid": "9053368527192647225",
+          "size": "4268727402",
+          "download": "4079000240"
+        }
+      }
+    },
+    "292036": {
+      "manifests": {
+        "public": {
+          "gid": "1350518231851738693",
+          "size": "4243075334",
+          "download": "4044291088"
+        }
+      }
+    },
+    "292037": {
+      "manifests": {
+        "public": {
+          "gid": "4787189081574313929",
+          "size": "4312061074",
+          "download": "4122266256"
+        }
+      }
+    },
+    "292038": {
+      "manifests": {
+        "public": {
+          "gid": "2546870301126763293",
+          "size": "4150542737",
+          "download": "3965053264"
+        }
+      }
+    },
+    "292039": {
+      "manifests": {
+        "public": {
+          "gid": "9060604549578612001",
+          "size": "4489547745",
+          "download": "4289501824"
+        }
+      }
+    },
+    "292040": {
+      "manifests": {
+        "public": {
+          "gid": "256245197882592515",
+          "size": "4446431258",
+          "download": "4248281776"
+        }
+      }
+    },
+    "292041": {
+      "manifests": {
+        "public": {
+          "gid": "7062215793958162938",
+          "size": "4281514583",
+          "download": "4090041824"
+        }
+      }
+    },
+    "292042": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8938212801694946028",
+          "size": "90705872",
+          "download": "25706160"
+        }
+      }
+    },
+    "292043": {
+      "manifests": {
+        "public": {
+          "gid": "3224788696559960258",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378649"
+    },
+    "292044": {
+      "manifests": {
+        "public": {
+          "gid": "7319355989709117663",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378649"
+    },
+    "292045": {
+      "manifests": {
+        "public": {
+          "gid": "2980093624239492924",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378649"
+    },
+    "292046": {
+      "manifests": {
+        "public": {
+          "gid": "6699794026611737765",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378649"
+    },
+    "292047": {
+      "manifests": {
+        "public": {
+          "gid": "8033749702667252673",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378649"
+    },
+    "292048": {
+      "manifests": {
+        "public": {
+          "gid": "8068089983214791839",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378649"
+    },
+    "292049": {
+      "manifests": {
+        "public": {
+          "gid": "3420980930248486732",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378649"
+    },
+    "310611": {
+      "manifests": {
+        "public": {
+          "gid": "9087403118674428852",
+          "size": "262696726",
+          "download": "258006176"
+        }
+      },
+      "dlcappid": "378649"
+    },
+    "310612": {
+      "manifests": {
+        "public": {
+          "gid": "2614767638404209537",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378648"
+    },
+    "310613": {
+      "manifests": {
+        "public": {
+          "gid": "1526094604877473372",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378648"
+    },
+    "310614": {
+      "manifests": {
+        "public": {
+          "gid": "3038509315532966100",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378648"
+    },
+    "310615": {
+      "manifests": {
+        "public": {
+          "gid": "5648194689497943259",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378648"
+    },
+    "310616": {
+      "manifests": {
+        "public": {
+          "gid": "2202010618887106180",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378648"
+    },
+    "310617": {
+      "manifests": {
+        "public": {
+          "gid": "68019541730715317",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378648"
+    },
+    "310618": {
+      "manifests": {
+        "public": {
+          "gid": "5913845749361060719",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378648"
+    },
+    "310619": {
+      "manifests": {
+        "public": {
+          "gid": "4855315366624356663",
+          "size": "654772037",
+          "download": "628167680"
+        }
+      },
+      "dlcappid": "378648"
+    },
+    "355881": {},
+    "355882": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "355883": {},
+    "355884": {},
+    "355885": {},
+    "355886": {},
+    "355887": {},
+    "355888": {},
+    "355889": {},
+    "370000": {
+      "manifests": {
+        "public": {
+          "gid": "1653958035531848512",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "370000"
+    },
+    "370001": {
+      "manifests": {
+        "public": {
+          "gid": "1204639110471518678",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "370001"
+    },
+    "370002": {
+      "manifests": {
+        "public": {
+          "gid": "7721190399573192199",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "370002"
+    },
+    "370003": {
+      "manifests": {
+        "public": {
+          "gid": "2195229081197516271",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "370003"
+    },
+    "370004": {},
+    "370005": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "370006": {},
+    "370007": {
+      "manifests": {
+        "public": {
+          "gid": "7742184241984785988",
+          "size": "4323187584",
+          "download": "4118138544"
+        }
+      }
+    },
+    "370008": {
+      "manifests": {
+        "public": {
+          "gid": "4933855675216807766",
+          "size": "4458093515",
+          "download": "4228282944"
+        }
+      }
+    },
+    "370009": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6477146200145051414",
+          "size": "749208427",
+          "download": "735665904"
+        }
+      }
+    },
+    "373950": {
+      "manifests": {
+        "public": {
+          "gid": "8486483100787022172",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "373950"
+    },
+    "373951": {
+      "manifests": {
+        "public": {
+          "gid": "8759872022218147175",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "373951"
+    },
+    "373952": {
+      "manifests": {
+        "public": {
+          "gid": "3931286550915688743",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378649"
+    },
+    "373953": {
+      "manifests": {
+        "public": {
+          "gid": "1825803883141078963",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378649"
+    },
+    "373954": {
+      "manifests": {
+        "public": {
+          "gid": "8778275441324066197",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378648"
+    },
+    "373955": {
+      "manifests": {
+        "public": {
+          "gid": "3916072704540224373",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378648"
+    },
+    "376390": {
+      "manifests": {
+        "public": {
+          "gid": "4285752591534583939",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "376390"
+    },
+    "376391": {
+      "manifests": {
+        "public": {
+          "gid": "3461380538776555956",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "376391"
+    },
+    "378640": {
+      "manifests": {
+        "public": {
+          "gid": "1498381954802017435",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378640"
+    },
+    "378641": {
+      "manifests": {
+        "public": {
+          "gid": "3109178057418823536",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378641"
+    },
+    "378642": {
+      "manifests": {
+        "public": {
+          "gid": "273613555462614304",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378642"
+    },
+    "378643": {
+      "manifests": {
+        "public": {
+          "gid": "5854667155896207638",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378643"
+    },
+    "378644": {
+      "manifests": {
+        "public": {
+          "gid": "7490217566021618693",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378644"
+    },
+    "378645": {
+      "manifests": {
+        "public": {
+          "gid": "8441451759415111119",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378645"
+    },
+    "378646": {
+      "manifests": {
+        "public": {
+          "gid": "3452152612647495693",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378646"
+    },
+    "378647": {
+      "manifests": {
+        "public": {
+          "gid": "8635321000097690546",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378647"
+    },
+    "378648": {
+      "manifests": {
+        "public": {
+          "gid": "6605799836918508538",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378648"
+    },
+    "378649": {
+      "manifests": {
+        "public": {
+          "gid": "3257423189031698049",
+          "size": "0",
+          "download": "0"
+        }
+      },
+      "dlcappid": "378649"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26238013",
+        "timeupdated": "1793271592",
+        "timebuildupdated": "1793088230"
+      },
+      "classic": {
+        "buildid": "3280809",
+        "description": "Select this branch to play the classic release of The Witcher 3 (Patch 1.32).",
+        "timeupdated": "1670930292",
+        "timebuildupdated": "1541515320"
+      },
+      "next-gen": {
+        "buildid": "14504303",
+        "description": "Select this branch to play the latest release of The Witcher 3 Next-Gen update (Patch 4.04).",
+        "timeupdated": "1717668030",
+        "timebuildupdated": "1716794744"
+      }
+    }
+  }
+}

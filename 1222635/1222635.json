@@ -1,0 +1,73 @@
+{
+  "name": "Nestopia",
+  "source": "spectre",
+  "changenumber": 40626742,
+  "updated": "2026-11-06T21:03:42.017Z",
+  "branches": {
+    "public": {
+      "buildid": "20833760",
+      "timeupdated": "1763418632",
+      "timebuildupdated": "1763415903"
+    },
+    "nightly": {
+      "buildid": "26456713",
+      "description": "Nightly unstable builds",
+      "timeupdated": "1793878501",
+      "timebuildupdated": "1793878501"
+    }
+  },
+  "depot": {
+    "1222635": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8242940149879076244",
+          "size": "5872590",
+          "download": "895552"
+        }
+      },
+      "dlcappid": "1222635"
+    },
+    "1790140": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1857764896721808677",
+          "size": "5377364",
+          "download": "636528"
+        }
+      },
+      "dlcappid": "1222635"
+    },
+    "1790141": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4097626054110827152",
+          "size": "10663324",
+          "download": "1301296"
+        }
+      },
+      "dlcappid": "1222635"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20833760",
+        "timeupdated": "1763418632",
+        "timebuildupdated": "1763415903"
+      },
+      "nightly": {
+        "buildid": "26456713",
+        "description": "Nightly unstable builds",
+        "timeupdated": "1793878501",
+        "timebuildupdated": "1793878501"
+      }
+    }
+  }
+}

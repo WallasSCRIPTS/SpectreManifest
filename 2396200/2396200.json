@@ -1,0 +1,68 @@
+{
+  "name": "Letalis",
+  "source": "spectre",
+  "changenumber": 40403318,
+  "updated": "2026-11-06T23:23:23.365Z",
+  "branches": {
+    "public": {
+      "buildid": "26311154",
+      "timeupdated": "1793318632",
+      "timebuildupdated": "1793318632"
+    },
+    "prerelease": {
+      "buildid": "26311102",
+      "description": "Builds uploaded as prerelease before sending them to live",
+      "timeupdated": "1793318465",
+      "timebuildupdated": "1793318465"
+    }
+  },
+  "depot": {
+    "2396201": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7693495318926902234",
+          "size": "329174374",
+          "download": "70723312"
+        }
+      }
+    },
+    "2396202": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7950670254411510768",
+          "size": "346489929",
+          "download": "78385280"
+        }
+      }
+    },
+    "4902930": {
+      "manifests": {
+        "public": {
+          "gid": "7674742187255669130",
+          "size": "4250840",
+          "download": "1859328"
+        }
+      },
+      "dlcappid": "4902930"
+    },
+    "branches": {
+      "public": {
+        "buildid": "26311154",
+        "timeupdated": "1793318632",
+        "timebuildupdated": "1793318632"
+      },
+      "prerelease": {
+        "buildid": "26311102",
+        "description": "Builds uploaded as prerelease before sending them to live",
+        "timeupdated": "1793318465",
+        "timebuildupdated": "1793318465"
+      }
+    }
+  }
+}

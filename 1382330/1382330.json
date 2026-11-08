@@ -1,0 +1,90 @@
+{
+  "name": "Persona 5 Strikers",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:50.012Z",
+  "branches": {
+    "public": {
+      "buildid": "20427252",
+      "timeupdated": "1761782371",
+      "timebuildupdated": "1760659115"
+    },
+    "local": {
+      "buildid": "6208235",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1612808371",
+      "timebuildupdated": "1612808371"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1382331": {
+      "manifests": {
+        "public": {
+          "gid": "541657970914493992",
+          "size": "23009324777",
+          "download": "22242769936"
+        }
+      }
+    },
+    "1382332": {
+      "manifests": {
+        "public": {
+          "gid": "1217603562634354986",
+          "size": "3023317224",
+          "download": "2917576032"
+        }
+      },
+      "dlcappid": "1523810"
+    },
+    "1382333": {
+      "dlcappid": "1523810"
+    },
+    "1482080": {
+      "manifests": {
+        "public": {
+          "gid": "213556939175564631",
+          "size": "16",
+          "download": "64"
+        }
+      },
+      "dlcappid": "1482080"
+    },
+    "1482081": {
+      "manifests": {
+        "public": {
+          "gid": "180884191516666770",
+          "size": "16",
+          "download": "64"
+        }
+      },
+      "dlcappid": "1482081"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20427252",
+        "timeupdated": "1761782371",
+        "timebuildupdated": "1760659115"
+      },
+      "local": {
+        "buildid": "6208235",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1612808371",
+        "timebuildupdated": "1612808371"
+      }
+    }
+  }
+}

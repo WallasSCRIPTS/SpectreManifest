@@ -1,0 +1,63 @@
+{
+  "name": "Leylines",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:02.343Z",
+  "branches": {
+    "public": {
+      "buildid": "12982916",
+      "timeupdated": "1703423148",
+      "timebuildupdated": "1702797074"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "585821": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3473729469927896383",
+          "size": "66696923",
+          "download": "58165344"
+        }
+      }
+    },
+    "585822": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6542223341667321929",
+          "size": "63561385",
+          "download": "58231216"
+        }
+      }
+    },
+    "585823": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12982916",
+        "timeupdated": "1703423148",
+        "timebuildupdated": "1702797074"
+      }
+    }
+  }
+}

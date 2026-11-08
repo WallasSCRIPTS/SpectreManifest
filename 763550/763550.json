@@ -1,0 +1,70 @@
+{
+  "name": "A Journey Through Valhalla",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:00:30.354Z",
+  "branches": {
+    "public": {
+      "buildid": "7941994",
+      "timeupdated": "1640537179",
+      "timebuildupdated": "1640537042"
+    },
+    "development": {
+      "buildid": "7941780",
+      "description": "Development builds",
+      "timeupdated": "1640527370",
+      "timebuildupdated": "1640527370"
+    },
+    "shipping": {
+      "buildid": "7941994",
+      "description": "Staging area",
+      "timeupdated": "1640537042",
+      "timebuildupdated": "1640537042"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "763551": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6779259954999119596",
+          "size": "2625862008",
+          "download": "936981984"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7941994",
+        "timeupdated": "1640537179",
+        "timebuildupdated": "1640537042"
+      },
+      "development": {
+        "buildid": "7941780",
+        "description": "Development builds",
+        "timeupdated": "1640527370",
+        "timebuildupdated": "1640527370"
+      },
+      "shipping": {
+        "buildid": "7941994",
+        "description": "Staging area",
+        "timeupdated": "1640537042",
+        "timebuildupdated": "1640537042"
+      }
+    }
+  }
+}

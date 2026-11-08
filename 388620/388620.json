@@ -1,0 +1,63 @@
+{
+  "name": "DungeonUp",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:27.145Z",
+  "branches": {
+    "public": {
+      "buildid": "1901642",
+      "timeupdated": "1497927528",
+      "timebuildupdated": "1497925761"
+    },
+    "local": {
+      "buildid": "712092",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1438138708"
+    }
+  },
+  "depot": {
+    "388621": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3070653110670814595",
+          "size": "68001686",
+          "download": "49719072"
+        }
+      }
+    },
+    "388622": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "388623": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5488946710224641430",
+          "size": "100737198",
+          "download": "59287104"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1901642",
+        "timeupdated": "1497927528",
+        "timebuildupdated": "1497925761"
+      },
+      "local": {
+        "buildid": "712092",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1438138708"
+      }
+    }
+  }
+}

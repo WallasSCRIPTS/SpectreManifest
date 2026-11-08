@@ -1,0 +1,70 @@
+{
+  "name": "Monster Slayers",
+  "source": "spectre",
+  "changenumber": 39372196,
+  "updated": "2026-11-07T20:58:16.772Z",
+  "branches": {
+    "public": {
+      "buildid": "25646591",
+      "timeupdated": "1790838562",
+      "timebuildupdated": "1790838562"
+    },
+    "legacy": {
+      "buildid": "2024778",
+      "description": "Legacy version",
+      "timeupdated": "1609199799",
+      "timebuildupdated": "1502288360"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "496621": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "361181126895907205",
+          "size": "277265856",
+          "download": "222925344"
+        }
+      }
+    },
+    "496622": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2822484226385182686",
+          "size": "232967256",
+          "download": "187448016"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25646591",
+        "timeupdated": "1790838562",
+        "timebuildupdated": "1790838562"
+      },
+      "legacy": {
+        "buildid": "2024778",
+        "description": "Legacy version",
+        "timeupdated": "1609199799",
+        "timebuildupdated": "1502288360"
+      }
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Bot Wars",
+  "source": "spectre",
+  "changenumber": 40510669,
+  "updated": "2026-11-06T21:06:58.958Z",
+  "branches": {
+    "public": {
+      "buildid": "22639137",
+      "timeupdated": "1775234012",
+      "timebuildupdated": "1775233841"
+    },
+    "beta": {
+      "buildid": "23184839",
+      "description": "Dev Build For Testing",
+      "timeupdated": "1778525095",
+      "timebuildupdated": "1778524920"
+    },
+    "halloween": {
+      "buildid": "16188674",
+      "description": "halloween",
+      "timeupdated": "1729921820",
+      "timebuildupdated": "1729913773"
+    },
+    "legacy": {
+      "buildid": "17970417",
+      "description": "year1",
+      "timeupdated": "1743689079",
+      "timebuildupdated": "1743685794"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1672141": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7591008153844036889",
+          "size": "6675365281",
+          "download": "1720055984"
+        }
+      }
+    },
+    "1672142": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22639137",
+        "timeupdated": "1775234012",
+        "timebuildupdated": "1775233841"
+      },
+      "beta": {
+        "buildid": "23184839",
+        "description": "Dev Build For Testing",
+        "timeupdated": "1778525095",
+        "timebuildupdated": "1778524920"
+      },
+      "halloween": {
+        "buildid": "16188674",
+        "description": "halloween",
+        "timeupdated": "1729921820",
+        "timebuildupdated": "1729913773"
+      },
+      "legacy": {
+        "buildid": "17970417",
+        "description": "year1",
+        "timeupdated": "1743689079",
+        "timebuildupdated": "1743685794"
+      }
+    }
+  }
+}

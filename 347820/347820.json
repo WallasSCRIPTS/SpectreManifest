@@ -1,0 +1,68 @@
+{
+  "name": "Street Arena",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:59.784Z",
+  "branches": {
+    "public": {
+      "buildid": "696447",
+      "timebuildupdated": "1436993214"
+    }
+  },
+  "depot": {
+    "228982": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "347821": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6902714553596446344",
+          "size": "416445719",
+          "download": "188043408"
+        }
+      }
+    },
+    "347822": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6284362143136113593",
+          "size": "431268675",
+          "download": "189150128"
+        }
+      }
+    },
+    "347823": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4612469422701054037",
+          "size": "448142611",
+          "download": "191047632"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "696447",
+        "timebuildupdated": "1436993214"
+      }
+    }
+  }
+}

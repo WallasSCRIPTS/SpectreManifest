@@ -1,0 +1,94 @@
+{
+  "name": "Growing Pains",
+  "source": "spectre",
+  "changenumber": 40174088,
+  "updated": "2026-11-07T20:56:26.232Z",
+  "branches": {
+    "public": {
+      "buildid": "6029151",
+      "timeupdated": "1609452645",
+      "timebuildupdated": "1609452645"
+    },
+    "linux32": {
+      "buildid": "4181755",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609452636",
+      "timebuildupdated": "1568097578"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229012": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "291611": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5693168286671876830",
+          "size": "98674356",
+          "download": "0"
+        }
+      }
+    },
+    "291613": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7187076012472242729",
+          "size": "42971298",
+          "download": "23118400"
+        }
+      }
+    },
+    "291614": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8414418130008739841",
+          "size": "55385076",
+          "download": "26000832"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6029151",
+        "timeupdated": "1609452645",
+        "timebuildupdated": "1609452645"
+      },
+      "linux32": {
+        "buildid": "4181755",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609452636",
+        "timebuildupdated": "1568097578"
+      }
+    }
+  }
+}

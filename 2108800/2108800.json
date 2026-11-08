@@ -1,0 +1,70 @@
+{
+  "name": "Synchronicity",
+  "source": "spectre",
+  "changenumber": 36631845,
+  "updated": "2026-11-06T23:17:32.889Z",
+  "branches": {
+    "public": {
+      "buildid": "16411238",
+      "timeupdated": "1731616878",
+      "timebuildupdated": "1731616775"
+    },
+    "debug": {
+      "buildid": "17069882",
+      "description": "Debug Builds",
+      "timeupdated": "1737408720",
+      "timebuildupdated": "1737408720"
+    }
+  },
+  "depot": {
+    "2108801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7272442957792583445",
+          "size": "292453572",
+          "download": "111604048"
+        }
+      }
+    },
+    "2108802": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "811618492832303818",
+          "size": "398991854",
+          "download": "181333408"
+        }
+      }
+    },
+    "2108803": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4313996089246801704",
+          "size": "311960416",
+          "download": "119242240"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16411238",
+        "timeupdated": "1731616878",
+        "timebuildupdated": "1731616775"
+      },
+      "debug": {
+        "buildid": "17069882",
+        "description": "Debug Builds",
+        "timeupdated": "1737408720",
+        "timebuildupdated": "1737408720"
+      }
+    }
+  }
+}

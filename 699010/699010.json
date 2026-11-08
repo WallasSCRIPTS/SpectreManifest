@@ -1,0 +1,87 @@
+{
+  "name": "Unsettled",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:55.057Z",
+  "branches": {
+    "public": {
+      "buildid": "10170310",
+      "timeupdated": "1671318995",
+      "timebuildupdated": "1671317841"
+    },
+    "_laststable": {
+      "buildid": "8167866",
+      "description": "Unsettled_PreviousStableRelease",
+      "timeupdated": "1671319072",
+      "timebuildupdated": "1644353135"
+    },
+    "_prerelease": {
+      "buildid": "10170310",
+      "description": "Unsettled_ExperimentalRelease",
+      "timeupdated": "1671319062",
+      "timebuildupdated": "1671317841"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229033": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "699011": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3436821827422180908",
+          "size": "1937918809",
+          "download": "1649645616"
+        }
+      }
+    },
+    "699012": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "10170310",
+        "timeupdated": "1671318995",
+        "timebuildupdated": "1671317841"
+      },
+      "_laststable": {
+        "buildid": "8167866",
+        "description": "Unsettled_PreviousStableRelease",
+        "timeupdated": "1671319072",
+        "timebuildupdated": "1644353135"
+      },
+      "_prerelease": {
+        "buildid": "10170310",
+        "description": "Unsettled_ExperimentalRelease",
+        "timeupdated": "1671319062",
+        "timebuildupdated": "1671317841"
+      }
+    }
+  }
+}

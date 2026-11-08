@@ -1,0 +1,60 @@
+{
+  "name": "Colorful Demo",
+  "source": "spectre",
+  "changenumber": 39026319,
+  "updated": "2026-11-06T23:21:24.101Z",
+  "branches": {
+    "public": {
+      "buildid": "11530610",
+      "timeupdated": "1687393204",
+      "timebuildupdated": "1687393204"
+    },
+    "local": {
+      "buildid": "11226802",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1684015404",
+      "timebuildupdated": "1684015403"
+    }
+  },
+  "depot": {
+    "2277381": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4947967009867579150",
+          "size": "551569664",
+          "download": "153422624"
+        }
+      }
+    },
+    "2277382": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3914161027909193844",
+          "size": "743002248",
+          "download": "184075296"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11530610",
+        "timeupdated": "1687393204",
+        "timebuildupdated": "1687393204"
+      },
+      "local": {
+        "buildid": "11226802",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1684015404",
+        "timebuildupdated": "1684015403"
+      }
+    }
+  }
+}

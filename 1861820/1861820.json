@@ -1,0 +1,58 @@
+{
+  "name": "Drop one NPC to another",
+  "source": "spectre",
+  "changenumber": 38869450,
+  "updated": "2026-11-06T23:11:40.143Z",
+  "branches": {
+    "public": {
+      "buildid": "25305203",
+      "timeupdated": "1789406519",
+      "timebuildupdated": "1789405989"
+    }
+  },
+  "depot": {
+    "1861822": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1352127447843802415",
+          "size": "634298740",
+          "download": "171544256"
+        }
+      }
+    },
+    "1861823": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2309899616054194338",
+          "size": "768577945",
+          "download": "115730496"
+        }
+      }
+    },
+    "1861824": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5384798666692972030",
+          "size": "660536229",
+          "download": "103299936"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25305203",
+        "timeupdated": "1789406519",
+        "timebuildupdated": "1789405989"
+      }
+    }
+  }
+}

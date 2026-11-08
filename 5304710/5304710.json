@@ -1,0 +1,70 @@
+{
+  "name": "STACKPUNK Demo",
+  "source": "spectre",
+  "changenumber": 39427621,
+  "updated": "2026-11-04T23:25:44.967Z",
+  "branches": {
+    "public": {
+      "buildid": "25608649",
+      "timeupdated": "1790703203",
+      "timebuildupdated": "1790702343"
+    },
+    "release-0.9.11": {
+      "buildid": "25608649",
+      "description": "STACKPUNK Demo 0.9.11 Windows Linux and notarized Mac",
+      "timeupdated": "1790702343",
+      "timebuildupdated": "1790702343"
+    }
+  },
+  "depot": {
+    "5304711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5886050048939749995",
+          "size": "183642321",
+          "download": "106130560"
+        }
+      }
+    },
+    "5304712": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5945794861821795100",
+          "size": "150942065",
+          "download": "98123552"
+        }
+      }
+    },
+    "5304713": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7350454323325871820",
+          "size": "265643103",
+          "download": "127822464"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25608649",
+        "timeupdated": "1790703203",
+        "timebuildupdated": "1790702343"
+      },
+      "release-0.9.11": {
+        "buildid": "25608649",
+        "description": "STACKPUNK Demo 0.9.11 Windows Linux and notarized Mac",
+        "timeupdated": "1790702343",
+        "timebuildupdated": "1790702343"
+      }
+    }
+  }
+}

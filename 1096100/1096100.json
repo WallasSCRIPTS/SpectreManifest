@@ -1,0 +1,70 @@
+{
+  "name": "Skellboy",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:13.049Z",
+  "branches": {
+    "public": {
+      "buildid": "6439703",
+      "timeupdated": "1616689881",
+      "timebuildupdated": "1616688929"
+    },
+    "beta": {
+      "buildid": "6439703",
+      "description": "Testing branch for the next release",
+      "timeupdated": "1616689901",
+      "timebuildupdated": "1616688929"
+    }
+  },
+  "depot": {
+    "1096101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5700559862710073709",
+          "size": "962329525",
+          "download": "371544400"
+        }
+      }
+    },
+    "1096102": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8891795455005515774",
+          "size": "1001536302",
+          "download": "394589328"
+        }
+      }
+    },
+    "1096103": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6872604887080276442",
+          "size": "973567308",
+          "download": "380200048"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6439703",
+        "timeupdated": "1616689881",
+        "timebuildupdated": "1616688929"
+      },
+      "beta": {
+        "buildid": "6439703",
+        "description": "Testing branch for the next release",
+        "timeupdated": "1616689901",
+        "timebuildupdated": "1616688929"
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Jack Lumber",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:05.296Z",
+  "branches": {
+    "public": {
+      "buildid": "423225",
+      "timebuildupdated": "1414444468"
+    }
+  },
+  "depot": {
+    "220901": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "12751063879750618",
+          "size": "262083157",
+          "download": "13054689600"
+        }
+      }
+    },
+    "220902": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8290475647708295712",
+          "size": "270547858",
+          "download": "20850436128"
+        }
+      }
+    },
+    "220903": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3804366490935705774",
+          "size": "267689327",
+          "download": "3086966460"
+        }
+      }
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "423225",
+        "timebuildupdated": "1414444468"
+      }
+    }
+  }
+}

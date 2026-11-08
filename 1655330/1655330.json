@@ -1,0 +1,60 @@
+{
+  "name": "The World After - Retro Filter Edition",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-06T21:06:52.218Z",
+  "branches": {
+    "public": {
+      "buildid": "7985517",
+      "timeupdated": "1641574055",
+      "timebuildupdated": "1641567731"
+    },
+    "beta": {
+      "buildid": "8033450",
+      "description": "beta test dlc",
+      "timeupdated": "1642415535",
+      "timebuildupdated": "1642415413"
+    }
+  },
+  "depot": {
+    "1655331": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "70243427810233654",
+          "size": "15676453978",
+          "download": "11022301168"
+        }
+      },
+      "dlcappid": "1655330"
+    },
+    "1655332": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3036227749446894409",
+          "size": "15698592952",
+          "download": "11029287424"
+        }
+      },
+      "dlcappid": "1655330"
+    },
+    "branches": {
+      "public": {
+        "buildid": "7985517",
+        "timeupdated": "1641574055",
+        "timebuildupdated": "1641567731"
+      },
+      "beta": {
+        "buildid": "8033450",
+        "description": "beta test dlc",
+        "timeupdated": "1642415535",
+        "timebuildupdated": "1642415413"
+      }
+    }
+  }
+}

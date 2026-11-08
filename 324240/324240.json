@@ -1,0 +1,69 @@
+{
+  "name": "I Will Escape",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:41.500Z",
+  "branches": {
+    "public": {
+      "buildid": "494088",
+      "timebuildupdated": "1421337589"
+    },
+    "beta": {
+      "buildid": "494088",
+      "description": "Bleeding edge",
+      "timebuildupdated": "1421337589"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "324241": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5252805595112220782",
+          "size": "1409145351",
+          "download": "580284336"
+        }
+      }
+    },
+    "324242": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "324243": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "324244": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "494088",
+        "timebuildupdated": "1421337589"
+      },
+      "beta": {
+        "buildid": "494088",
+        "description": "Bleeding edge",
+        "timebuildupdated": "1421337589"
+      }
+    }
+  }
+}

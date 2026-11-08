@@ -1,0 +1,78 @@
+{
+  "name": "Hyperdrive Massacre",
+  "source": "spectre",
+  "changenumber": 40442543,
+  "updated": "2026-11-07T20:57:33.814Z",
+  "branches": {
+    "public": {
+      "buildid": "2825873",
+      "timeupdated": "1530803554",
+      "timebuildupdated": "1527860789"
+    },
+    "local": {
+      "buildid": "1119376",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1462895580",
+      "timebuildupdated": "1462895580"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "402391": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3014977526515043645",
+          "size": "378006876",
+          "download": "97234032"
+        }
+      }
+    },
+    "402392": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2519123643606404589",
+          "size": "382612218",
+          "download": "99022896"
+        }
+      }
+    },
+    "402393": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "70272525162359071",
+          "size": "403086807",
+          "download": "106196224"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2825873",
+        "timeupdated": "1530803554",
+        "timebuildupdated": "1527860789"
+      },
+      "local": {
+        "buildid": "1119376",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1462895580",
+        "timebuildupdated": "1462895580"
+      }
+    }
+  }
+}

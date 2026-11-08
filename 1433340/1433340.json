@@ -1,0 +1,83 @@
+{
+  "name": "Happy's Humble Burger Farm",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:05:13.928Z",
+  "branches": {
+    "public": {
+      "buildid": "23775767",
+      "timeupdated": "1781821571",
+      "timebuildupdated": "1781670003"
+    },
+    "twitch_edition": {
+      "buildid": "8915794",
+      "description": "Happy's Humble Burger Farm Twitch Edition",
+      "timeupdated": "1654912795",
+      "timebuildupdated": "1654912795"
+    },
+    "staging": {
+      "buildid": "23775767",
+      "description": "Bleeding edge version of the game (unstable)",
+      "timeupdated": "1781670039",
+      "timebuildupdated": "1781670003"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1433341": {
+      "manifests": {
+        "public": {
+          "gid": "7842845103829589178",
+          "size": "9202893186",
+          "download": "8493216464"
+        }
+      }
+    },
+    "1816590": {
+      "manifests": {
+        "public": {
+          "gid": "4677353275115601063",
+          "size": "439252544",
+          "download": "440753792"
+        }
+      },
+      "dlcappid": "1816590"
+    },
+    "branches": {
+      "public": {
+        "buildid": "23775767",
+        "timeupdated": "1781821571",
+        "timebuildupdated": "1781670003"
+      },
+      "twitch_edition": {
+        "buildid": "8915794",
+        "description": "Happy's Humble Burger Farm Twitch Edition",
+        "timeupdated": "1654912795",
+        "timebuildupdated": "1654912795"
+      },
+      "staging": {
+        "buildid": "23775767",
+        "description": "Bleeding edge version of the game (unstable)",
+        "timeupdated": "1781670039",
+        "timebuildupdated": "1781670003"
+      }
+    }
+  }
+}

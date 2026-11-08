@@ -1,0 +1,70 @@
+{
+  "name": "Tactical Operations",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:50.597Z",
+  "branches": {
+    "public": {
+      "buildid": "11213024",
+      "timeupdated": "1684178875",
+      "timebuildupdated": "1683845688"
+    },
+    "pubtest": {
+      "buildid": "13816588",
+      "description": "Public test",
+      "timeupdated": "1711084129",
+      "timebuildupdated": "1711066238"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "690981": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4486375289560092332",
+          "size": "23108228849",
+          "download": "19975657696"
+        }
+      }
+    },
+    "690982": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "390720005116176566",
+          "size": "22899726294",
+          "download": "19887861616"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11213024",
+        "timeupdated": "1684178875",
+        "timebuildupdated": "1683845688"
+      },
+      "pubtest": {
+        "buildid": "13816588",
+        "description": "Public test",
+        "timeupdated": "1711084129",
+        "timebuildupdated": "1711066238"
+      }
+    }
+  }
+}

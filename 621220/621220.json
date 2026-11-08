@@ -1,0 +1,85 @@
+{
+  "name": "Nantucket",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:19.305Z",
+  "branches": {
+    "public": {
+      "buildid": "4235359",
+      "timeupdated": "1569587810",
+      "timebuildupdated": "1569581790"
+    },
+    "beta": {
+      "buildid": "4199382",
+      "description": "1.4",
+      "timeupdated": "1568628765",
+      "timebuildupdated": "1568625859"
+    }
+  },
+  "depot": {
+    "621221": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "621222": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7473065202472942597",
+          "size": "1186880860",
+          "download": "492159312"
+        }
+      }
+    },
+    "621223": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2808382470876025475",
+          "size": "1331765085",
+          "download": "550120176"
+        }
+      }
+    },
+    "621224": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5217420255000865568",
+          "size": "1185523977",
+          "download": "492321536"
+        }
+      }
+    },
+    "963260": {
+      "manifests": {
+        "public": {
+          "gid": "2609429984459769693",
+          "size": "40367457",
+          "download": "40919568"
+        }
+      },
+      "dlcappid": "963260"
+    },
+    "branches": {
+      "public": {
+        "buildid": "4235359",
+        "timeupdated": "1569587810",
+        "timebuildupdated": "1569581790"
+      },
+      "beta": {
+        "buildid": "4199382",
+        "description": "1.4",
+        "timeupdated": "1568628765",
+        "timebuildupdated": "1568625859"
+      }
+    }
+  }
+}

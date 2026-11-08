@@ -1,0 +1,130 @@
+{
+  "name": "Proteus",
+  "source": "spectre",
+  "changenumber": 40677069,
+  "updated": "2026-11-07T20:56:04.909Z",
+  "branches": {
+    "public": {
+      "buildid": "8580011",
+      "timeupdated": "1650341040",
+      "timebuildupdated": "1650341040"
+    },
+    "beta": {
+      "buildid": "286925",
+      "timebuildupdated": "1401738861"
+    },
+    "linux32": {
+      "buildid": "4264979",
+      "description": "Legacy 32-bit Linux build",
+      "timeupdated": "1650341021",
+      "timebuildupdated": "1570475236"
+    },
+    "steam_1_0": {
+      "buildid": "39834",
+      "timebuildupdated": "1359476631"
+    },
+    "steam_1_1": {
+      "buildid": "58107",
+      "timebuildupdated": "1365456184"
+    },
+    "steam_1_1_2": {
+      "buildid": "78911",
+      "timebuildupdated": "1370602682"
+    },
+    "steam_1_2": {
+      "buildid": "156024",
+      "timebuildupdated": "1386680285"
+    },
+    "steam_1_2_1": {
+      "buildid": "270642",
+      "timebuildupdated": "1400273920"
+    },
+    "linux-arm64": {
+      "buildid": "26489914",
+      "description": "Linux AArch64 Testing, UNSTABLE",
+      "timeupdated": "1793983788",
+      "timebuildupdated": "1793983788"
+    }
+  },
+  "depot": {
+    "219681": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5616161979702663446",
+          "size": "96681952",
+          "download": "0"
+        }
+      }
+    },
+    "219682": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7432678913619343839",
+          "size": "115669805",
+          "download": "92909776"
+        }
+      }
+    },
+    "219683": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6155279931439847000",
+          "size": "115984427",
+          "download": "93223984"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8580011",
+        "timeupdated": "1650341040",
+        "timebuildupdated": "1650341040"
+      },
+      "beta": {
+        "buildid": "286925",
+        "timebuildupdated": "1401738861"
+      },
+      "linux32": {
+        "buildid": "4264979",
+        "description": "Legacy 32-bit Linux build",
+        "timeupdated": "1650341021",
+        "timebuildupdated": "1570475236"
+      },
+      "steam_1_0": {
+        "buildid": "39834",
+        "timebuildupdated": "1359476631"
+      },
+      "steam_1_1": {
+        "buildid": "58107",
+        "timebuildupdated": "1365456184"
+      },
+      "steam_1_1_2": {
+        "buildid": "78911",
+        "timebuildupdated": "1370602682"
+      },
+      "steam_1_2": {
+        "buildid": "156024",
+        "timebuildupdated": "1386680285"
+      },
+      "steam_1_2_1": {
+        "buildid": "270642",
+        "timebuildupdated": "1400273920"
+      },
+      "linux-arm64": {
+        "buildid": "26489914",
+        "description": "Linux AArch64 Testing, UNSTABLE",
+        "timeupdated": "1793983788",
+        "timebuildupdated": "1793983788"
+      }
+    }
+  }
+}

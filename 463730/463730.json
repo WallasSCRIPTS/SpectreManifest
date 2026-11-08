@@ -1,0 +1,52 @@
+{
+  "name": "Bioframe Outpost",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:04.986Z",
+  "branches": {
+    "public": {
+      "buildid": "16511696",
+      "timeupdated": "1732381758",
+      "timebuildupdated": "1732381730"
+    },
+    "demo": {
+      "buildid": "14398940",
+      "description": "Release Build with demo flag, Manually updated",
+      "timeupdated": "1715925116",
+      "timebuildupdated": "1715925039"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "463731": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "968572184079999690",
+          "size": "705021450",
+          "download": "626401808"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "16511696",
+        "timeupdated": "1732381758",
+        "timebuildupdated": "1732381730"
+      },
+      "demo": {
+        "buildid": "14398940",
+        "description": "Release Build with demo flag, Manually updated",
+        "timeupdated": "1715925116",
+        "timebuildupdated": "1715925039"
+      }
+    }
+  }
+}

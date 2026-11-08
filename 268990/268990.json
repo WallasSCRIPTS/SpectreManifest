@@ -1,0 +1,104 @@
+{
+  "name": "The Dishwasher: Vampire Smile",
+  "source": "spectre",
+  "changenumber": 39620410,
+  "updated": "2026-11-07T20:56:18.293Z",
+  "branches": {
+    "public": {
+      "buildid": "8270154",
+      "timeupdated": "1645734854",
+      "timebuildupdated": "1645734819"
+    },
+    "lastupdate": {
+      "buildid": "2149193",
+      "timeupdated": "1543275901",
+      "timebuildupdated": "1506440787"
+    },
+    "linux32": {
+      "buildid": "4348330",
+      "description": "32-bit Linux (Legacy)",
+      "timeupdated": "1609457346",
+      "timebuildupdated": "1572622389"
+    },
+    "tutorialfix": {
+      "buildid": "11821474",
+      "description": "Possible fix for tutorial crash",
+      "timeupdated": "1690694910",
+      "timebuildupdated": "1690694805"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "268991": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "381558314979488051",
+          "size": "335721490",
+          "download": "269002256"
+        }
+      }
+    },
+    "268992": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2808065542849337844",
+          "size": "357255068",
+          "download": "265777136"
+        }
+      }
+    },
+    "268993": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5865563321652162922",
+          "size": "370318096",
+          "download": "268705584"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "8270154",
+        "timeupdated": "1645734854",
+        "timebuildupdated": "1645734819"
+      },
+      "lastupdate": {
+        "buildid": "2149193",
+        "timeupdated": "1543275901",
+        "timebuildupdated": "1506440787"
+      },
+      "linux32": {
+        "buildid": "4348330",
+        "description": "32-bit Linux (Legacy)",
+        "timeupdated": "1609457346",
+        "timebuildupdated": "1572622389"
+      },
+      "tutorialfix": {
+        "buildid": "11821474",
+        "description": "Possible fix for tutorial crash",
+        "timeupdated": "1690694910",
+        "timebuildupdated": "1690694805"
+      }
+    }
+  }
+}

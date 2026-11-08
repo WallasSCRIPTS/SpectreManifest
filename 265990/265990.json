@@ -1,0 +1,122 @@
+{
+  "name": "Rogue's Tale",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:17.519Z",
+  "branches": {
+    "public": {
+      "buildid": "21323917",
+      "timeupdated": "1766839831",
+      "timebuildupdated": "1766838260"
+    },
+    "1.15": {
+      "buildid": "1955263",
+      "description": "Old version",
+      "timeupdated": "1560530523",
+      "timebuildupdated": "1499871068"
+    },
+    "test": {
+      "buildid": "21323917",
+      "description": "Public test branch",
+      "timeupdated": "1766838880",
+      "timebuildupdated": "1766838260"
+    }
+  },
+  "depot": {
+    "265991": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2226113881765332837",
+          "size": "372428764",
+          "download": "103070496"
+        }
+      }
+    },
+    "265992": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5668390346654424726",
+          "size": "370073802",
+          "download": "100398240"
+        }
+      }
+    },
+    "265993": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3307488830682020649",
+          "size": "397580805",
+          "download": "113110576"
+        }
+      }
+    },
+    "1123270": {
+      "manifests": {
+        "public": {
+          "gid": "1471443451710317124",
+          "size": "15",
+          "download": "64"
+        }
+      },
+      "dlcappid": "1123270"
+    },
+    "1618410": {
+      "manifests": {
+        "public": {
+          "gid": "6013339490038714721",
+          "size": "16",
+          "download": "64"
+        }
+      },
+      "dlcappid": "1618410"
+    },
+    "2335700": {
+      "manifests": {
+        "public": {
+          "gid": "3544350069341048349",
+          "size": "13",
+          "download": "64"
+        }
+      },
+      "dlcappid": "2335700"
+    },
+    "3685720": {
+      "manifests": {
+        "public": {
+          "gid": "8696568484645341942",
+          "size": "15",
+          "download": "64"
+        }
+      },
+      "dlcappid": "3685720"
+    },
+    "branches": {
+      "public": {
+        "buildid": "21323917",
+        "timeupdated": "1766839831",
+        "timebuildupdated": "1766838260"
+      },
+      "1.15": {
+        "buildid": "1955263",
+        "description": "Old version",
+        "timeupdated": "1560530523",
+        "timebuildupdated": "1499871068"
+      },
+      "test": {
+        "buildid": "21323917",
+        "description": "Public test branch",
+        "timeupdated": "1766838880",
+        "timebuildupdated": "1766838260"
+      }
+    }
+  }
+}

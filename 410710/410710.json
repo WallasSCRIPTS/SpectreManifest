@@ -1,0 +1,102 @@
+{
+  "name": "System Shock: Enhanced Edition",
+  "source": "spectre",
+  "changenumber": 40687091,
+  "updated": "2026-11-07T20:57:37.292Z",
+  "branches": {
+    "public": {
+      "buildid": "6057092",
+      "timeupdated": "1611347352",
+      "timebuildupdated": "1610136373"
+    },
+    "beta": {
+      "buildid": "6057092",
+      "description": "1.2.16 Beta",
+      "timeupdated": "1610136441",
+      "timebuildupdated": "1610136373"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229020": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "410711": {
+      "manifests": {
+        "public": {
+          "gid": "8550297823940424259",
+          "size": "10187637",
+          "download": "8000160"
+        }
+      }
+    },
+    "410712": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7141801272733210925",
+          "size": "258810079",
+          "download": "251750080"
+        }
+      }
+    },
+    "410713": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1369798452919228",
+          "size": "271756280",
+          "download": "174552000"
+        }
+      }
+    },
+    "410714": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "275772316640291086",
+          "size": "5",
+          "download": "64"
+        }
+      }
+    },
+    "1364440": {
+      "manifests": {
+        "public": {
+          "gid": "155828767656591436",
+          "size": "785123404",
+          "download": "789247536"
+        }
+      },
+      "dlcappid": "1364440"
+    },
+    "1364550": {},
+    "branches": {
+      "public": {
+        "buildid": "6057092",
+        "timeupdated": "1611347352",
+        "timebuildupdated": "1610136373"
+      },
+      "beta": {
+        "buildid": "6057092",
+        "description": "1.2.16 Beta",
+        "timeupdated": "1610136441",
+        "timebuildupdated": "1610136373"
+      }
+    }
+  }
+}

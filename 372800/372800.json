@@ -1,0 +1,82 @@
+{
+  "name": "RPG MO",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T20:57:16.398Z",
+  "branches": {
+    "public": {
+      "buildid": "26418505",
+      "timeupdated": "1793751917",
+      "timebuildupdated": "1793747748"
+    },
+    "linuxbeta": {
+      "buildid": "26418505",
+      "description": "New Linux Client Testing",
+      "timeupdated": "1793747748",
+      "timebuildupdated": "1793747748"
+    }
+  },
+  "depot": {
+    "372801": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3670577720981664589",
+          "size": "131266942",
+          "download": "95463968"
+        }
+      }
+    },
+    "372802": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1694108760238525923",
+          "size": "456727641",
+          "download": "241524784"
+        }
+      }
+    },
+    "372805": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2938567949688456752",
+          "size": "119933822",
+          "download": "88055760"
+        }
+      }
+    },
+    "372806": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "599944295240030800",
+          "size": "160649967",
+          "download": "132189040"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26418505",
+        "timeupdated": "1793751917",
+        "timebuildupdated": "1793747748"
+      },
+      "linuxbeta": {
+        "buildid": "26418505",
+        "description": "New Linux Client Testing",
+        "timeupdated": "1793747748",
+        "timebuildupdated": "1793747748"
+      }
+    }
+  }
+}

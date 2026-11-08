@@ -1,0 +1,94 @@
+{
+  "name": "Langoth",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:00.247Z",
+  "branches": {
+    "public": {
+      "buildid": "1691519",
+      "timeupdated": "1489558847",
+      "timebuildupdated": "1489556539"
+    },
+    "beta": {
+      "buildid": "1660534",
+      "description": "Public beta",
+      "timeupdated": "1488268295",
+      "timebuildupdated": "1488268205"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229005": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229033": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "581101": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5506140667681983434",
+          "size": "3511513435",
+          "download": "1087698768"
+        }
+      }
+    },
+    "581102": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8286114448013660421",
+          "size": "3167803364",
+          "download": "1088328256"
+        }
+      }
+    },
+    "581103": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1978899925563855478",
+          "size": "3294132295",
+          "download": "1085162528"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1691519",
+        "timeupdated": "1489558847",
+        "timebuildupdated": "1489556539"
+      },
+      "beta": {
+        "buildid": "1660534",
+        "description": "Public beta",
+        "timeupdated": "1488268295",
+        "timebuildupdated": "1488268205"
+      }
+    }
+  }
+}

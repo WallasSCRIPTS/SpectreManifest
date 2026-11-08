@@ -1,0 +1,62 @@
+{
+  "name": "Don Bradman Cricket 14",
+  "source": "spectre",
+  "changenumber": 39765080,
+  "updated": "2026-11-07T20:56:04.317Z",
+  "branches": {
+    "public": {
+      "buildid": "770693",
+      "timebuildupdated": "1441958472"
+    },
+    "local": {
+      "buildid": "14095",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1347949174"
+    }
+  },
+  "depot": {
+    "216261": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "785411795042587513",
+          "size": "1991376299",
+          "download": "1715844512"
+        }
+      }
+    },
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "770693",
+        "timebuildupdated": "1441958472"
+      },
+      "local": {
+        "buildid": "14095",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1347949174"
+      }
+    }
+  }
+}

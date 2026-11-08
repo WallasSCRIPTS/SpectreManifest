@@ -1,0 +1,70 @@
+{
+  "name": "CyberClub-2077",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:19.971Z",
+  "branches": {
+    "public": {
+      "buildid": "2092515",
+      "timeupdated": "1504773197",
+      "timebuildupdated": "1504597518"
+    },
+    "local": {
+      "buildid": "1754612",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1492073211",
+      "timebuildupdated": "1492073211"
+    },
+    "test": {
+      "buildid": "2092515",
+      "timeupdated": "1504603211",
+      "timebuildupdated": "1504597518"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "623052": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "532910251254738681",
+          "size": "2600337906",
+          "download": "882264272"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2092515",
+        "timeupdated": "1504773197",
+        "timebuildupdated": "1504597518"
+      },
+      "local": {
+        "buildid": "1754612",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1492073211",
+        "timebuildupdated": "1492073211"
+      },
+      "test": {
+        "buildid": "2092515",
+        "timeupdated": "1504603211",
+        "timebuildupdated": "1504597518"
+      }
+    }
+  }
+}

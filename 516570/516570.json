@@ -1,0 +1,68 @@
+{
+  "name": "ADAPTR",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:26.936Z",
+  "branches": {
+    "public": {
+      "buildid": "3340035",
+      "timeupdated": "1543243655",
+      "timebuildupdated": "1543243655"
+    },
+    "beta-test": {
+      "buildid": "4686503",
+      "timeupdated": "1581987284",
+      "timebuildupdated": "1581987284"
+    }
+  },
+  "depot": {
+    "516571": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "883270086717360662",
+          "size": "4768060351",
+          "download": "1540936256"
+        }
+      }
+    },
+    "516572": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3012403400039189101",
+          "size": "4937342269",
+          "download": "1644797376"
+        }
+      }
+    },
+    "516573": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5267121700632310996",
+          "size": "4863032360",
+          "download": "1590820992"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3340035",
+        "timeupdated": "1543243655",
+        "timebuildupdated": "1543243655"
+      },
+      "beta-test": {
+        "buildid": "4686503",
+        "timeupdated": "1581987284",
+        "timebuildupdated": "1581987284"
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Bug Battle",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:00:24.494Z",
+  "branches": {
+    "public": {
+      "buildid": "2529864",
+      "timeupdated": "1518728177",
+      "timebuildupdated": "1518728077"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "752001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2753977479940949445",
+          "size": "575428772",
+          "download": "500803920"
+        }
+      }
+    },
+    "752002": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4792499485722740888",
+          "size": "576164440",
+          "download": "500595024"
+        }
+      }
+    },
+    "752003": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7471961205223089478",
+          "size": "581220364",
+          "download": "502691648"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2529864",
+        "timeupdated": "1518728177",
+        "timebuildupdated": "1518728077"
+      }
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Ancient Amuletor VR",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:37.823Z",
+  "branches": {
+    "public": {
+      "buildid": "2863299",
+      "timeupdated": "1529026849",
+      "timebuildupdated": "1529026849"
+    },
+    "local": {
+      "buildid": "2067491",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1503648680",
+      "timebuildupdated": "1503648680"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8782296191957114623",
+          "size": "29759921",
+          "download": "23045488"
+        }
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1829726630299308803",
+          "size": "102931551",
+          "download": "100658080"
+        }
+      },
+      "depotfromapp": "228980"
+    },
+    "665341": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3130573910536178615",
+          "size": "4040456455",
+          "download": "3932815456"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2863299",
+        "timeupdated": "1529026849",
+        "timebuildupdated": "1529026849"
+      },
+      "local": {
+        "buildid": "2067491",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1503648680",
+        "timebuildupdated": "1503648680"
+      }
+    }
+  }
+}

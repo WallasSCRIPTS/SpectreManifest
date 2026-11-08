@@ -1,0 +1,72 @@
+{
+  "name": "Appointment With FEAR",
+  "source": "spectre",
+  "changenumber": 38548949,
+  "updated": "2026-11-07T20:56:37.742Z",
+  "branches": {
+    "public": {
+      "buildid": "473773",
+      "timebuildupdated": "1418688356"
+    },
+    "beta": {
+      "buildid": "473773",
+      "description": "beta testing",
+      "timebuildupdated": "1418688356"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "316141": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3277144602145794988",
+          "size": "515671361",
+          "download": "2134628864"
+        }
+      }
+    },
+    "316142": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2507173976562737998",
+          "size": "495650889",
+          "download": "2488493688"
+        }
+      }
+    },
+    "316143": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4994137387397921630",
+          "size": "485728580",
+          "download": "34701843760"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "473773",
+        "timebuildupdated": "1418688356"
+      },
+      "beta": {
+        "buildid": "473773",
+        "description": "beta testing",
+        "timebuildupdated": "1418688356"
+      }
+    }
+  }
+}

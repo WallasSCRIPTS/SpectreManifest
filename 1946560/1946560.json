@@ -1,0 +1,58 @@
+{
+  "name": "sobosuba",
+  "source": "spectre",
+  "changenumber": 40640326,
+  "updated": "2026-11-06T23:13:36.836Z",
+  "branches": {
+    "public": {
+      "buildid": "26465074",
+      "timeupdated": "1793901768",
+      "timebuildupdated": "1793901234"
+    },
+    "beta": {
+      "buildid": "26465074",
+      "description": "Test the next sobosuba update to make sure I haven't broken everything",
+      "timeupdated": "1793901234",
+      "timebuildupdated": "1793901234"
+    }
+  },
+  "depot": {
+    "1946561": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6093976889301836376",
+          "size": "120011376",
+          "download": "58537584"
+        }
+      }
+    },
+    "1946562": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8912132668928661803",
+          "size": "116391376",
+          "download": "60595936"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26465074",
+        "timeupdated": "1793901768",
+        "timebuildupdated": "1793901234"
+      },
+      "beta": {
+        "buildid": "26465074",
+        "description": "Test the next sobosuba update to make sure I haven't broken everything",
+        "timeupdated": "1793901234",
+        "timebuildupdated": "1793901234"
+      }
+    }
+  }
+}

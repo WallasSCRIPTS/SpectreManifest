@@ -1,0 +1,60 @@
+{
+  "name": "Madrid Noir",
+  "source": "spectre",
+  "changenumber": 38947415,
+  "updated": "2026-11-06T23:09:44.035Z",
+  "branches": {
+    "public": {
+      "buildid": "7625747",
+      "timeupdated": "1635527083",
+      "timebuildupdated": "1635519247"
+    },
+    "local": {
+      "buildid": "7604157",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1635272511",
+      "timebuildupdated": "1635272511"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1761451": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5003745986441460122",
+          "size": "3301329115",
+          "download": "1400930992"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7625747",
+        "timeupdated": "1635527083",
+        "timebuildupdated": "1635519247"
+      },
+      "local": {
+        "buildid": "7604157",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1635272511",
+        "timebuildupdated": "1635272511"
+      }
+    }
+  }
+}

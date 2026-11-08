@@ -1,0 +1,70 @@
+{
+  "name": "Bugvasion TD",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:30.915Z",
+  "branches": {
+    "public": {
+      "buildid": "7402122",
+      "timeupdated": "1632295639",
+      "timebuildupdated": "1632295639"
+    },
+    "linux_internal_experimental_branch": {
+      "buildid": "7388568",
+      "description": "linux inner test branch",
+      "timeupdated": "1632128052",
+      "timebuildupdated": "1632128052"
+    },
+    "public_experimental_branch": {
+      "buildid": "6985746",
+      "description": "Public Experimental Branch",
+      "timeupdated": "1625566746",
+      "timebuildupdated": "1625566089"
+    }
+  },
+  "depot": {
+    "1337001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4198581178209912783",
+          "size": "1776180975",
+          "download": "1124729728"
+        }
+      }
+    },
+    "1337002": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7317524525360808834",
+          "size": "1450151697",
+          "download": "788439632"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7402122",
+        "timeupdated": "1632295639",
+        "timebuildupdated": "1632295639"
+      },
+      "linux_internal_experimental_branch": {
+        "buildid": "7388568",
+        "description": "linux inner test branch",
+        "timeupdated": "1632128052",
+        "timebuildupdated": "1632128052"
+      },
+      "public_experimental_branch": {
+        "buildid": "6985746",
+        "description": "Public Experimental Branch",
+        "timeupdated": "1625566746",
+        "timebuildupdated": "1625566089"
+      }
+    }
+  }
+}

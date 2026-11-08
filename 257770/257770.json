@@ -1,0 +1,87 @@
+{
+  "name": "Signal Ops",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:14.530Z",
+  "branches": {
+    "public": {
+      "buildid": "174556",
+      "timebuildupdated": "1390594480"
+    },
+    "beta": {
+      "buildid": "174556",
+      "description": "Beta branch",
+      "timebuildupdated": "1390594480"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "257771": {
+      "manifests": {
+        "public": {
+          "gid": "7552465972705168953",
+          "size": "1981911423",
+          "download": "0"
+        }
+      }
+    },
+    "257772": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3390380754610858074",
+          "size": "60378292",
+          "download": "0"
+        }
+      }
+    },
+    "257773": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6603020937966851496",
+          "size": "56073048",
+          "download": "0"
+        }
+      }
+    },
+    "257774": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3722598376348690522",
+          "size": "61155981",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "174556",
+        "timebuildupdated": "1390594480"
+      },
+      "beta": {
+        "buildid": "174556",
+        "description": "Beta branch",
+        "timebuildupdated": "1390594480"
+      }
+    }
+  }
+}

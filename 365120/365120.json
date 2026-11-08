@@ -1,0 +1,80 @@
+{
+  "name": "Curse of the Crescent Isle DX",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:11.199Z",
+  "branches": {
+    "public": {
+      "buildid": "1671843",
+      "timeupdated": "1488774569",
+      "timebuildupdated": "1488774389"
+    },
+    "beta": {
+      "buildid": "1671843",
+      "timeupdated": "1488774520",
+      "timebuildupdated": "1488774389"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "365122": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4537658444747949572",
+          "size": "474905460",
+          "download": "240564368"
+        }
+      }
+    },
+    "365123": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6142949112642561165",
+          "size": "497189794",
+          "download": "246918128"
+        }
+      }
+    },
+    "365124": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3851725401338492897",
+          "size": "592116982",
+          "download": "292033920"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1671843",
+        "timeupdated": "1488774569",
+        "timebuildupdated": "1488774389"
+      },
+      "beta": {
+        "buildid": "1671843",
+        "timeupdated": "1488774520",
+        "timebuildupdated": "1488774389"
+      }
+    }
+  }
+}

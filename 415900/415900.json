@@ -1,0 +1,68 @@
+{
+  "name": "Bugspeed Collider",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T20:57:39.611Z",
+  "branches": {
+    "public": {
+      "buildid": "1544640",
+      "timeupdated": "1483043852",
+      "timebuildupdated": "1483043306"
+    },
+    "testing": {
+      "buildid": "1483045",
+      "description": "This is the branch for testing Steam builds before posting to default.",
+      "timeupdated": "1480222904",
+      "timebuildupdated": "1480222667"
+    }
+  },
+  "depot": {
+    "415901": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5406747156358810906",
+          "size": "346074739",
+          "download": "105446512"
+        }
+      }
+    },
+    "415902": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6213147130324811583",
+          "size": "356144430",
+          "download": "107138768"
+        }
+      }
+    },
+    "548250": {
+      "manifests": {
+        "public": {
+          "gid": "847375093127961547",
+          "size": "82743023",
+          "download": "77268992"
+        }
+      },
+      "dlcappid": "548250"
+    },
+    "branches": {
+      "public": {
+        "buildid": "1544640",
+        "timeupdated": "1483043852",
+        "timebuildupdated": "1483043306"
+      },
+      "testing": {
+        "buildid": "1483045",
+        "description": "This is the branch for testing Steam builds before posting to default.",
+        "timeupdated": "1480222904",
+        "timebuildupdated": "1480222667"
+      }
+    }
+  }
+}

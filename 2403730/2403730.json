@@ -1,0 +1,46 @@
+{
+  "name": "Grocery Grab",
+  "source": "spectre",
+  "changenumber": 34900026,
+  "updated": "2026-11-06T23:23:24.347Z",
+  "branches": {
+    "public": {
+      "buildid": "11756353",
+      "timeupdated": "1689933009",
+      "timebuildupdated": "1689933009"
+    }
+  },
+  "depot": {
+    "2403731": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2901231539255022759",
+          "size": "574476963",
+          "download": "202506624"
+        }
+      }
+    },
+    "2403732": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "993539101369835974",
+          "size": "561638145",
+          "download": "198784528"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "11756353",
+        "timeupdated": "1689933009",
+        "timebuildupdated": "1689933009"
+      }
+    }
+  }
+}

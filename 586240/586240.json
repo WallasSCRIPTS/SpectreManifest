@@ -1,0 +1,74 @@
+{
+  "name": "Soul Searching",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:02.636Z",
+  "branches": {
+    "public": {
+      "buildid": "5000984",
+      "timeupdated": "1588955505",
+      "timebuildupdated": "1588953426"
+    },
+    "beta": {
+      "buildid": "5000984",
+      "timeupdated": "1588953494",
+      "timebuildupdated": "1588953426"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "586241": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1433560812032019958",
+          "size": "389866693",
+          "download": "258238272"
+        }
+      }
+    },
+    "586242": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5920520683985227734",
+          "size": "397480821",
+          "download": "260848608"
+        }
+      }
+    },
+    "586243": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5107848500473883627",
+          "size": "430636766",
+          "download": "271287072"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5000984",
+        "timeupdated": "1588955505",
+        "timebuildupdated": "1588953426"
+      },
+      "beta": {
+        "buildid": "5000984",
+        "timeupdated": "1588953494",
+        "timebuildupdated": "1588953426"
+      }
+    }
+  }
+}

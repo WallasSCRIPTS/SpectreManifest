@@ -1,0 +1,64 @@
+{
+  "name": "Supreme Ruler 1936",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:10.474Z",
+  "branches": {
+    "public": {
+      "buildid": "879318",
+      "timebuildupdated": "1448914343"
+    },
+    "beta": {
+      "buildid": "879318",
+      "description": "Public Beta",
+      "timebuildupdated": "1448914343"
+    },
+    "winxp": {
+      "buildid": "511525",
+      "description": "Windows XP Compatible",
+      "timebuildupdated": "1422724773"
+    }
+  },
+  "depot": {
+    "244411": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4005982137185439133",
+          "size": "931457514",
+          "download": "537318096"
+        }
+      }
+    },
+    "244412": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3591618830143928927",
+          "size": "1595895349",
+          "download": "727273712"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "879318",
+        "timebuildupdated": "1448914343"
+      },
+      "beta": {
+        "buildid": "879318",
+        "description": "Public Beta",
+        "timebuildupdated": "1448914343"
+      },
+      "winxp": {
+        "buildid": "511525",
+        "description": "Windows XP Compatible",
+        "timebuildupdated": "1422724773"
+      }
+    }
+  }
+}

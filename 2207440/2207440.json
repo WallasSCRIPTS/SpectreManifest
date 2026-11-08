@@ -1,0 +1,70 @@
+{
+  "name": "LOK Digital",
+  "source": "spectre",
+  "changenumber": 39479678,
+  "updated": "2026-11-06T23:19:31.280Z",
+  "branches": {
+    "public": {
+      "buildid": "22650646",
+      "timeupdated": "1775337250",
+      "timebuildupdated": "1775334900"
+    },
+    "bugfix-test": {
+      "buildid": "17364839",
+      "description": "To publicly test potential bugfixes",
+      "timeupdated": "1743772733",
+      "timebuildupdated": "1739527893"
+    }
+  },
+  "depot": {
+    "2207441": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "750729235128853217",
+          "size": "759503269",
+          "download": "394825104"
+        }
+      }
+    },
+    "2207442": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1595128927174101733",
+          "size": "589732899",
+          "download": "204181424"
+        }
+      }
+    },
+    "2207443": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1583787032510488626",
+          "size": "563999177",
+          "download": "193161296"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22650646",
+        "timeupdated": "1775337250",
+        "timebuildupdated": "1775334900"
+      },
+      "bugfix-test": {
+        "buildid": "17364839",
+        "description": "To publicly test potential bugfixes",
+        "timeupdated": "1743772733",
+        "timebuildupdated": "1739527893"
+      }
+    }
+  }
+}

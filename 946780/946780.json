@@ -1,0 +1,70 @@
+{
+  "name": "MOMO.EXE 2",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:53.559Z",
+  "branches": {
+    "public": {
+      "buildid": "3231478",
+      "timeupdated": "1540032556",
+      "timebuildupdated": "1540029878"
+    },
+    "beta": {
+      "buildid": "3231478",
+      "description": "Public beta branch",
+      "timeupdated": "1540032259",
+      "timebuildupdated": "1540029878"
+    }
+  },
+  "depot": {
+    "946781": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2104041461909185273",
+          "size": "471066248",
+          "download": "190657184"
+        }
+      }
+    },
+    "946782": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5665800079082376856",
+          "size": "485099624",
+          "download": "194149536"
+        }
+      }
+    },
+    "946783": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2046683435512300365",
+          "size": "508819181",
+          "download": "204327024"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3231478",
+        "timeupdated": "1540032556",
+        "timebuildupdated": "1540029878"
+      },
+      "beta": {
+        "buildid": "3231478",
+        "description": "Public beta branch",
+        "timeupdated": "1540032259",
+        "timebuildupdated": "1540029878"
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Metrocide",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:36.188Z",
+  "branches": {
+    "public": {
+      "buildid": "487080",
+      "timebuildupdated": "1420631687"
+    },
+    "bleedingedge": {
+      "buildid": "487080",
+      "description": "For the latest, bleeding-edge Builds. May be buggy!",
+      "timebuildupdated": "1420631687"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "313131": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "151323021668162386",
+          "size": "142517945",
+          "download": "98770544"
+        }
+      }
+    },
+    "313132": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5581490189059361553",
+          "size": "144786282",
+          "download": "99383472"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "487080",
+        "timebuildupdated": "1420631687"
+      },
+      "bleedingedge": {
+        "buildid": "487080",
+        "description": "For the latest, bleeding-edge Builds. May be buggy!",
+        "timebuildupdated": "1420631687"
+      }
+    }
+  }
+}

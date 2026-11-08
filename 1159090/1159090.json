@@ -1,0 +1,127 @@
+{
+  "name": "Zoria: Age of Shattering",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:50.067Z",
+  "branches": {
+    "public": {
+      "buildid": "25287719",
+      "timeupdated": "1789331359",
+      "timebuildupdated": "1789331359"
+    },
+    "localization-qa": {
+      "buildid": "16424375",
+      "description": "Localization QA",
+      "timeupdated": "1731696312",
+      "timebuildupdated": "1731696312"
+    },
+    "demo-2023": {
+      "buildid": "12033665",
+      "description": "Demo 2023",
+      "timeupdated": "1692976870",
+      "timebuildupdated": "1692976870"
+    },
+    "beta": {
+      "buildid": "25176144",
+      "description": "Beta branch",
+      "timeupdated": "1788821718",
+      "timebuildupdated": "1788821718"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1159091": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8537134152811556024",
+          "size": "20237341996",
+          "download": "9874233712"
+        }
+      }
+    },
+    "1159092": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6520927891026333001",
+          "size": "20332839736",
+          "download": "9943215584"
+        }
+      }
+    },
+    "1159093": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6128008771177539192",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "1159094": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3164885963724753729",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "1159095": {
+      "config": {
+        "oslist": "windows,linux"
+      }
+    },
+    "1159096": {
+      "config": {
+        "oslist": "windows"
+      }
+    },
+    "1159097": {
+      "config": {
+        "oslist": "linux"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25287719",
+        "timeupdated": "1789331359",
+        "timebuildupdated": "1789331359"
+      },
+      "localization-qa": {
+        "buildid": "16424375",
+        "description": "Localization QA",
+        "timeupdated": "1731696312",
+        "timebuildupdated": "1731696312"
+      },
+      "demo-2023": {
+        "buildid": "12033665",
+        "description": "Demo 2023",
+        "timeupdated": "1692976870",
+        "timebuildupdated": "1692976870"
+      },
+      "beta": {
+        "buildid": "25176144",
+        "description": "Beta branch",
+        "timeupdated": "1788821718",
+        "timebuildupdated": "1788821718"
+      }
+    }
+  }
+}

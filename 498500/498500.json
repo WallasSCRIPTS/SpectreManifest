@@ -1,0 +1,82 @@
+{
+  "name": "I Am The Hero",
+  "source": "spectre",
+  "changenumber": 37435436,
+  "updated": "2026-11-07T20:58:17.919Z",
+  "branches": {
+    "public": {
+      "buildid": "2305982",
+      "timeupdated": "1511319305",
+      "timebuildupdated": "1511319268"
+    },
+    "local": {
+      "buildid": "1510482",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1481348506",
+      "timebuildupdated": "1481348506"
+    },
+    "rus_beta": {
+      "buildid": "2183134",
+      "timeupdated": "1507544234",
+      "timebuildupdated": "1507544141"
+    }
+  },
+  "depot": {
+    "498501": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "936342853600978267",
+          "size": "360061831",
+          "download": "96087456"
+        }
+      }
+    },
+    "498502": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4892083771951459518",
+          "size": "354523602",
+          "download": "93577792"
+        }
+      }
+    },
+    "498503": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1548462254066287003",
+          "size": "365902530",
+          "download": "96487984"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2305982",
+        "timeupdated": "1511319305",
+        "timebuildupdated": "1511319268"
+      },
+      "local": {
+        "buildid": "1510482",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1481348506",
+        "timebuildupdated": "1481348506"
+      },
+      "rus_beta": {
+        "buildid": "2183134",
+        "timeupdated": "1507544234",
+        "timebuildupdated": "1507544141"
+      }
+    }
+  }
+}

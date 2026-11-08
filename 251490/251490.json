@@ -1,0 +1,74 @@
+{
+  "name": "Gravity Ghost",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:12.582Z",
+  "branches": {
+    "public": {
+      "buildid": "505843",
+      "timebuildupdated": "1422400625"
+    },
+    "beta": {
+      "buildid": "922776",
+      "timebuildupdated": "1452206588"
+    }
+  },
+  "depot": {
+    "251491": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6059588253549960853",
+          "size": "1690905883",
+          "download": "404327616"
+        }
+      }
+    },
+    "251492": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8253325297477169585",
+          "size": "1698774943",
+          "download": "404450128"
+        }
+      }
+    },
+    "251493": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1208324420809752362",
+          "size": "1702498543",
+          "download": "381786160"
+        }
+      }
+    },
+    "343510": {
+      "manifests": {
+        "public": {
+          "gid": "5866326928073509880",
+          "size": "110984323",
+          "download": "102784848"
+        }
+      },
+      "dlcappid": "343510"
+    },
+    "branches": {
+      "public": {
+        "buildid": "505843",
+        "timebuildupdated": "1422400625"
+      },
+      "beta": {
+        "buildid": "922776",
+        "timebuildupdated": "1452206588"
+      }
+    }
+  }
+}

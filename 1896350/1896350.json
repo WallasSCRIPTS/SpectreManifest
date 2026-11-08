@@ -1,0 +1,88 @@
+{
+  "name": "Shroomscape Zone Demo",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-06T23:13:28.064Z",
+  "branches": {
+    "public": {
+      "buildid": "15976666",
+      "timeupdated": "1728455612",
+      "timebuildupdated": "1728455255"
+    },
+    "unstable": {
+      "buildid": "16134639",
+      "description": "branch intended for development and testing",
+      "timeupdated": "1729591434",
+      "timebuildupdated": "1729591434"
+    },
+    "legacy": {
+      "buildid": "15976666",
+      "description": "Legacy 4.27 branch, no longer in development",
+      "timeupdated": "1728455255",
+      "timebuildupdated": "1728455255"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1896351": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3452947482761501127",
+          "size": "5941086322",
+          "download": "3030989872"
+        }
+      }
+    },
+    "1896352": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6969762957153895300",
+          "size": "5805982385",
+          "download": "3046869248"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15976666",
+        "timeupdated": "1728455612",
+        "timebuildupdated": "1728455255"
+      },
+      "unstable": {
+        "buildid": "16134639",
+        "description": "branch intended for development and testing",
+        "timeupdated": "1729591434",
+        "timebuildupdated": "1729591434"
+      },
+      "legacy": {
+        "buildid": "15976666",
+        "description": "Legacy 4.27 branch, no longer in development",
+        "timeupdated": "1728455255",
+        "timebuildupdated": "1728455255"
+      }
+    }
+  }
+}

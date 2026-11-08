@@ -1,0 +1,70 @@
+{
+  "name": "Kittens Game",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:14.426Z",
+  "branches": {
+    "public": {
+      "buildid": "25274724",
+      "timeupdated": "1789241266",
+      "timebuildupdated": "1789240469"
+    },
+    "beta": {
+      "buildid": "25161431",
+      "description": "Beta builds for KG Steam client",
+      "timeupdated": "1788759555",
+      "timebuildupdated": "1788759448"
+    }
+  },
+  "depot": {
+    "1097412": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7361061520059729134",
+          "size": "326342453",
+          "download": "128747600"
+        }
+      }
+    },
+    "1097413": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3116681927228026978",
+          "size": "300211968",
+          "download": "126089296"
+        }
+      }
+    },
+    "1097414": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6039910173829677600",
+          "size": "326000348",
+          "download": "135098480"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25274724",
+        "timeupdated": "1789241266",
+        "timebuildupdated": "1789240469"
+      },
+      "beta": {
+        "buildid": "25161431",
+        "description": "Beta builds for KG Steam client",
+        "timeupdated": "1788759555",
+        "timebuildupdated": "1788759448"
+      }
+    }
+  }
+}

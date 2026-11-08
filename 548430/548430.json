@@ -1,0 +1,58 @@
+{
+  "name": "Deep Rock Galactic",
+  "source": "spectre",
+  "changenumber": 40660568,
+  "updated": "2026-11-07T20:58:41.231Z",
+  "branches": {
+    "public": {
+      "buildid": "26107973",
+      "timeupdated": "1792657545",
+      "timebuildupdated": "1792590220"
+    },
+    "drg_legacy": {
+      "buildid": "20573320",
+      "description": "DRG + 2018 Legacy Edition",
+      "timeupdated": "1761653137",
+      "timebuildupdated": "1761653137"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "548431": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2329711483481111034",
+          "size": "3963988601",
+          "download": "3619043024"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26107973",
+        "timeupdated": "1792657545",
+        "timebuildupdated": "1792590220"
+      },
+      "drg_legacy": {
+        "buildid": "20573320",
+        "description": "DRG + 2018 Legacy Edition",
+        "timeupdated": "1761653137",
+        "timebuildupdated": "1761653137"
+      }
+    }
+  }
+}

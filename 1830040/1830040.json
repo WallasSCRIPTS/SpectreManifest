@@ -1,0 +1,70 @@
+{
+  "name": "False Skies",
+  "source": "spectre",
+  "changenumber": 39745200,
+  "updated": "2026-11-06T23:11:36.155Z",
+  "branches": {
+    "public": {
+      "buildid": "25884500",
+      "timeupdated": "1791815352",
+      "timebuildupdated": "1791815239"
+    },
+    "linuxver": {
+      "buildid": "25884500",
+      "description": "the linux version",
+      "timeupdated": "1791815242",
+      "timebuildupdated": "1791815239"
+    },
+    "testing": {
+      "buildid": "20156723",
+      "description": "Same as default but with the debug key enabled",
+      "timeupdated": "1758998883",
+      "timebuildupdated": "1758998883"
+    }
+  },
+  "depot": {
+    "1830041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9137823429336540779",
+          "size": "122707736",
+          "download": "66379104"
+        }
+      }
+    },
+    "1830042": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6346484781341353995",
+          "size": "122176099",
+          "download": "66499280"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25884500",
+        "timeupdated": "1791815352",
+        "timebuildupdated": "1791815239"
+      },
+      "linuxver": {
+        "buildid": "25884500",
+        "description": "the linux version",
+        "timeupdated": "1791815242",
+        "timebuildupdated": "1791815239"
+      },
+      "testing": {
+        "buildid": "20156723",
+        "description": "Same as default but with the debug key enabled",
+        "timeupdated": "1758998883",
+        "timebuildupdated": "1758998883"
+      }
+    }
+  }
+}

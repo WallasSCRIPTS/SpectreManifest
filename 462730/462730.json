@@ -1,0 +1,82 @@
+{
+  "name": "Townopolis",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:04.296Z",
+  "branches": {
+    "public": {
+      "buildid": "17107436",
+      "timeupdated": "1737648659",
+      "timebuildupdated": "1737647746"
+    },
+    "legacy": {
+      "buildid": "5021724",
+      "description": "The legacy version of the game.",
+      "timeupdated": "1713879931",
+      "timebuildupdated": "1589381215"
+    }
+  },
+  "depot": {
+    "462731": {
+      "config": {
+        "oslist": "windows,linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1501952433967358140",
+          "size": "191356422",
+          "download": "102438528"
+        }
+      }
+    },
+    "462732": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2844375264285951460",
+          "size": "2678160",
+          "download": "695136"
+        }
+      }
+    },
+    "462733": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2608978615795187985",
+          "size": "207668389",
+          "download": "105546256"
+        }
+      }
+    },
+    "462734": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "702536978634374728",
+          "size": "1670737",
+          "download": "469344"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17107436",
+        "timeupdated": "1737648659",
+        "timebuildupdated": "1737647746"
+      },
+      "legacy": {
+        "buildid": "5021724",
+        "description": "The legacy version of the game.",
+        "timeupdated": "1713879931",
+        "timebuildupdated": "1589381215"
+      }
+    }
+  }
+}

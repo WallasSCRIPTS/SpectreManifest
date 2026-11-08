@@ -1,0 +1,103 @@
+{
+  "name": "Idle Monsters RPG",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:21:27.900Z",
+  "branches": {
+    "public": {
+      "buildid": "12776225",
+      "timeupdated": "1700705069",
+      "timebuildupdated": "1700694862"
+    },
+    "demo": {
+      "buildid": "13285504",
+      "description": "Demo Test",
+      "timeupdated": "1706298396",
+      "timebuildupdated": "1706298396"
+    },
+    "gpu-fix": {
+      "buildid": "12565850",
+      "description": "This version disable the gpu and allows the game open properly in some graphics cards",
+      "timeupdated": "1698595840",
+      "timebuildupdated": "1698595840"
+    },
+    "release_candidate": {
+      "buildid": "12776225",
+      "description": "WIP changes - can be broken",
+      "timeupdated": "1700705082",
+      "timebuildupdated": "1700694862"
+    },
+    "develop": {
+      "buildid": "14877646",
+      "description": "Development Branch",
+      "timeupdated": "1719616265",
+      "timebuildupdated": "1719616265"
+    }
+  },
+  "depot": {
+    "2310191": {
+      "manifests": {
+        "public": {
+          "gid": "2545972307376548359",
+          "size": "428705196",
+          "download": "120813920"
+        }
+      }
+    },
+    "2310192": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8120180483763803604",
+          "size": "433831979",
+          "download": "116612896"
+        }
+      }
+    },
+    "2310193": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5245512067918393748",
+          "size": "827712192",
+          "download": "114881040"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12776225",
+        "timeupdated": "1700705069",
+        "timebuildupdated": "1700694862"
+      },
+      "demo": {
+        "buildid": "13285504",
+        "description": "Demo Test",
+        "timeupdated": "1706298396",
+        "timebuildupdated": "1706298396"
+      },
+      "gpu-fix": {
+        "buildid": "12565850",
+        "description": "This version disable the gpu and allows the game open properly in some graphics cards",
+        "timeupdated": "1698595840",
+        "timebuildupdated": "1698595840"
+      },
+      "release_candidate": {
+        "buildid": "12776225",
+        "description": "WIP changes - can be broken",
+        "timeupdated": "1700705082",
+        "timebuildupdated": "1700694862"
+      },
+      "develop": {
+        "buildid": "14877646",
+        "description": "Development Branch",
+        "timeupdated": "1719616265",
+        "timebuildupdated": "1719616265"
+      }
+    }
+  }
+}

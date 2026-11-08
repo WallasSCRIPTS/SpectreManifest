@@ -1,0 +1,124 @@
+{
+  "name": "Protolife",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:52.010Z",
+  "branches": {
+    "public": {
+      "buildid": "24280713",
+      "timeupdated": "1785550639",
+      "timebuildupdated": "1784441963"
+    },
+    "no-overlay": {
+      "buildid": "4199271",
+      "description": "Disabled Steam Overlay",
+      "timeupdated": "1568623000",
+      "timebuildupdated": "1568622926"
+    },
+    "1.2.2": {
+      "buildid": "4198310",
+      "description": "2019 pre Steam Deck",
+      "timeupdated": "1568573829",
+      "timebuildupdated": "1568572788"
+    },
+    "unstable": {
+      "buildid": "24280713",
+      "description": "Unstable Changes",
+      "timeupdated": "1784446746",
+      "timebuildupdated": "1784441963"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "809441": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8266085760449717851",
+          "size": "599426424",
+          "download": "237173152"
+        }
+      }
+    },
+    "809442": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "920266496343730756",
+          "size": "589133264",
+          "download": "121667552"
+        }
+      }
+    },
+    "809443": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7883443465718161129",
+          "size": "321141722",
+          "download": "154346992"
+        }
+      }
+    },
+    "809444": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "958638079843278394",
+          "size": "271435134",
+          "download": "123594000"
+        }
+      }
+    },
+    "809445": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4755246345030103181",
+          "size": "278041054",
+          "download": "126285168"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24280713",
+        "timeupdated": "1785550639",
+        "timebuildupdated": "1784441963"
+      },
+      "no-overlay": {
+        "buildid": "4199271",
+        "description": "Disabled Steam Overlay",
+        "timeupdated": "1568623000",
+        "timebuildupdated": "1568622926"
+      },
+      "1.2.2": {
+        "buildid": "4198310",
+        "description": "2019 pre Steam Deck",
+        "timeupdated": "1568573829",
+        "timebuildupdated": "1568572788"
+      },
+      "unstable": {
+        "buildid": "24280713",
+        "description": "Unstable Changes",
+        "timeupdated": "1784446746",
+        "timebuildupdated": "1784441963"
+      }
+    }
+  }
+}

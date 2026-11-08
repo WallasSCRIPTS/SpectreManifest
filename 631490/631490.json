@@ -1,0 +1,70 @@
+{
+  "name": "Son of Scoregasm",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:59:23.378Z",
+  "branches": {
+    "public": {
+      "buildid": "24187050",
+      "timeupdated": "1783961792",
+      "timebuildupdated": "1783961791"
+    },
+    "publicbeta": {
+      "buildid": "23618662",
+      "description": "public beta",
+      "timeupdated": "1780908161",
+      "timebuildupdated": "1780908161"
+    }
+  },
+  "depot": {
+    "631491": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "903306508857391309",
+          "size": "143571368",
+          "download": "115680320"
+        }
+      }
+    },
+    "631492": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3572451136535311294",
+          "size": "75123984",
+          "download": "63596592"
+        }
+      }
+    },
+    "631493": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3563795973092331617",
+          "size": "85008654",
+          "download": "67751024"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24187050",
+        "timeupdated": "1783961792",
+        "timebuildupdated": "1783961791"
+      },
+      "publicbeta": {
+        "buildid": "23618662",
+        "description": "public beta",
+        "timeupdated": "1780908161",
+        "timebuildupdated": "1780908161"
+      }
+    }
+  }
+}

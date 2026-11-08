@@ -1,0 +1,66 @@
+{
+  "name": "Krater",
+  "source": "spectre",
+  "changenumber": 34826342,
+  "updated": "2026-11-07T20:55:54.458Z",
+  "branches": {
+    "public": {
+      "buildid": "3571402",
+      "timeupdated": "1550664914",
+      "timebuildupdated": "1550500060"
+    },
+    "beta": {
+      "buildid": "29359",
+      "description": "Public testing of new content",
+      "timebuildupdated": "1354699346"
+    }
+  },
+  "depot": {
+    "42171": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4815917791475444568",
+          "size": "4280320899",
+          "download": "2696657952"
+        }
+      }
+    },
+    "42172": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8697889714859640047",
+          "size": "3583933159",
+          "download": "0"
+        }
+      }
+    },
+    "204731": {
+      "manifests": {
+        "public": {
+          "gid": "6340647582050006766",
+          "size": "183589127",
+          "download": "0"
+        }
+      },
+      "dlcappid": "204731"
+    },
+    "branches": {
+      "public": {
+        "buildid": "3571402",
+        "timeupdated": "1550664914",
+        "timebuildupdated": "1550500060"
+      },
+      "beta": {
+        "buildid": "29359",
+        "description": "Public testing of new content",
+        "timebuildupdated": "1354699346"
+      }
+    }
+  }
+}

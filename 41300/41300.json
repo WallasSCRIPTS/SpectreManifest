@@ -1,0 +1,100 @@
+{
+  "name": "Altitude",
+  "source": "spectre",
+  "changenumber": 40062413,
+  "updated": "2026-11-07T20:55:54.289Z",
+  "branches": {
+    "public": {
+      "buildid": "19295538",
+      "timeupdated": "1753070831",
+      "timebuildupdated": "1753070574"
+    },
+    "previous": {
+      "buildid": "374586",
+      "description": "The legacy 32bit Altitude.",
+      "timeupdated": "1617203994",
+      "timebuildupdated": "1409947484"
+    },
+    "beta": {
+      "buildid": "19295538",
+      "description": "Beta branch for testing Altitude",
+      "timeupdated": "1753070708",
+      "timebuildupdated": "1753070574"
+    }
+  },
+  "depot": {
+    "41301": {
+      "manifests": {
+        "public": {
+          "gid": "7348674636034381845",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "41302": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9212941411731750178",
+          "size": "308438547",
+          "download": "176840752"
+        }
+      }
+    },
+    "41303": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4842180458463061052",
+          "size": "312598605",
+          "download": "176494288"
+        }
+      }
+    },
+    "41304": {
+      "manifests": {
+        "public": {
+          "gid": "2270626899600309162",
+          "size": "0",
+          "download": "0"
+        }
+      }
+    },
+    "41305": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8956400798772137002",
+          "size": "318835565",
+          "download": "178237696"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19295538",
+        "timeupdated": "1753070831",
+        "timebuildupdated": "1753070574"
+      },
+      "previous": {
+        "buildid": "374586",
+        "description": "The legacy 32bit Altitude.",
+        "timeupdated": "1617203994",
+        "timebuildupdated": "1409947484"
+      },
+      "beta": {
+        "buildid": "19295538",
+        "description": "Beta branch for testing Altitude",
+        "timeupdated": "1753070708",
+        "timebuildupdated": "1753070574"
+      }
+    }
+  }
+}

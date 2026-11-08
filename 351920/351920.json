@@ -1,0 +1,58 @@
+{
+  "name": "Crazy Machines 3",
+  "source": "spectre",
+  "changenumber": 37433691,
+  "updated": "2026-11-07T20:57:04.334Z",
+  "branches": {
+    "public": {
+      "buildid": "2806019",
+      "timeupdated": "1528820350",
+      "timebuildupdated": "1527241350"
+    },
+    "local": {
+      "buildid": "553792",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1426241347"
+    }
+  },
+  "depot": {
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "351921": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6741230604525514871",
+          "size": "6153516356",
+          "download": "2216464928"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "2806019",
+        "timeupdated": "1528820350",
+        "timebuildupdated": "1527241350"
+      },
+      "local": {
+        "buildid": "553792",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1426241347"
+      }
+    }
+  }
+}

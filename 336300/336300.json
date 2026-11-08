@@ -1,0 +1,64 @@
+{
+  "name": "Hearthlands",
+  "source": "spectre",
+  "changenumber": 39660177,
+  "updated": "2026-11-07T20:56:48.110Z",
+  "branches": {
+    "public": {
+      "buildid": "22560060",
+      "timeupdated": "1774829710",
+      "timebuildupdated": "1774829710"
+    }
+  },
+  "depot": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "336301": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3833398280838413804",
+          "size": "435127012",
+          "download": "300190816"
+        }
+      }
+    },
+    "336302": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8201281760322358201",
+          "size": "521137614",
+          "download": "373094912"
+        }
+      }
+    },
+    "336303": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7731619137432011290",
+          "size": "525134452",
+          "download": "359843648"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22560060",
+        "timeupdated": "1774829710",
+        "timebuildupdated": "1774829710"
+      }
+    }
+  }
+}

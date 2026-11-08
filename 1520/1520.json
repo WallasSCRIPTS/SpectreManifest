@@ -1,0 +1,94 @@
+{
+  "name": "DEFCON",
+  "source": "spectre",
+  "changenumber": 40109602,
+  "updated": "2026-11-07T20:55:40.974Z",
+  "branches": {
+    "public": {
+      "buildid": "25390430",
+      "timeupdated": "1789742455",
+      "timebuildupdated": "1789733402"
+    },
+    "previous": {
+      "buildid": "4370575",
+      "description": "Previous default branch",
+      "timeupdated": "1705857732",
+      "timebuildupdated": "1573232573"
+    },
+    "beta": {
+      "buildid": "25390430",
+      "description": "Public Beta",
+      "timeupdated": "1789742337",
+      "timebuildupdated": "1789733402"
+    },
+    "legacy": {
+      "buildid": "15579130",
+      "description": "Defcon 1.62",
+      "timeupdated": "1725794598",
+      "timebuildupdated": "1725374690"
+    }
+  },
+  "depot": {
+    "1521": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2443966290036242809",
+          "size": "136566140",
+          "download": "130048048"
+        }
+      }
+    },
+    "1524": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1245621141676759622",
+          "size": "143287594",
+          "download": "131794640"
+        }
+      }
+    },
+    "1527": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6968455457298929266",
+          "size": "154647170",
+          "download": "135393056"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25390430",
+        "timeupdated": "1789742455",
+        "timebuildupdated": "1789733402"
+      },
+      "previous": {
+        "buildid": "4370575",
+        "description": "Previous default branch",
+        "timeupdated": "1705857732",
+        "timebuildupdated": "1573232573"
+      },
+      "beta": {
+        "buildid": "25390430",
+        "description": "Public Beta",
+        "timeupdated": "1789742337",
+        "timebuildupdated": "1789733402"
+      },
+      "legacy": {
+        "buildid": "15579130",
+        "description": "Defcon 1.62",
+        "timeupdated": "1725794598",
+        "timebuildupdated": "1725374690"
+      }
+    }
+  }
+}

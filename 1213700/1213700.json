@@ -1,0 +1,80 @@
+{
+  "name": "Spirit of the North",
+  "source": "spectre",
+  "changenumber": 37949705,
+  "updated": "2026-11-07T21:04:19.110Z",
+  "branches": {
+    "public": {
+      "buildid": "6112756",
+      "timeupdated": "1612447134",
+      "timebuildupdated": "1611167543"
+    },
+    "public_update_beta_branch": {
+      "buildid": "6112756",
+      "description": "Public Update Beta Branch",
+      "timeupdated": "1611169338",
+      "timebuildupdated": "1611167543"
+    },
+    "shadowbugtestingbranch": {
+      "buildid": "4906433",
+      "timeupdated": "1594833186",
+      "timebuildupdated": "1587057666"
+    },
+    "sotn_standard_edition": {
+      "buildid": "5755320",
+      "description": "Standard Edition of Spirit of the North",
+      "timeupdated": "1611247528",
+      "timebuildupdated": "1603979030"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1213701": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4191926537624696875",
+          "size": "3848599643",
+          "download": "3746649456"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6112756",
+        "timeupdated": "1612447134",
+        "timebuildupdated": "1611167543"
+      },
+      "public_update_beta_branch": {
+        "buildid": "6112756",
+        "description": "Public Update Beta Branch",
+        "timeupdated": "1611169338",
+        "timebuildupdated": "1611167543"
+      },
+      "shadowbugtestingbranch": {
+        "buildid": "4906433",
+        "timeupdated": "1594833186",
+        "timebuildupdated": "1587057666"
+      },
+      "sotn_standard_edition": {
+        "buildid": "5755320",
+        "description": "Standard Edition of Spirit of the North",
+        "timeupdated": "1611247528",
+        "timebuildupdated": "1603979030"
+      }
+    }
+  }
+}

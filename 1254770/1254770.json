@@ -1,0 +1,82 @@
+{
+  "name": "Haulin' Oats",
+  "source": "spectre",
+  "changenumber": 37443736,
+  "updated": "2026-11-05T14:49:44.734Z",
+  "branches": {
+    "public": {
+      "buildid": "17628560",
+      "timeupdated": "1741542855",
+      "timebuildupdated": "1741311337"
+    },
+    "steamdeck": {
+      "buildid": "17628560",
+      "description": "Steam Deck testing",
+      "timeupdated": "1741311469",
+      "timebuildupdated": "1741311337"
+    }
+  },
+  "depot": {
+    "1254771": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8977884335862040073",
+          "size": "507692976",
+          "download": "273935712"
+        }
+      }
+    },
+    "1254772": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2368013750874552788",
+          "size": "502214064",
+          "download": "272042192"
+        }
+      }
+    },
+    "1254773": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2494082368342191808",
+          "size": "513132808",
+          "download": "275809504"
+        }
+      }
+    },
+    "1254774": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6298151104625906258",
+          "size": "532202204",
+          "download": "280204112"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17628560",
+        "timeupdated": "1741542855",
+        "timebuildupdated": "1741311337"
+      },
+      "steamdeck": {
+        "buildid": "17628560",
+        "description": "Steam Deck testing",
+        "timeupdated": "1741311469",
+        "timebuildupdated": "1741311337"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Out There: Ω Edition",
+  "source": "spectre",
+  "changenumber": 35945266,
+  "updated": "2026-11-07T20:56:46.398Z",
+  "branches": {
+    "public": {
+      "buildid": "6575389",
+      "timeupdated": "1618992262",
+      "timebuildupdated": "1618991611"
+    },
+    "public-beta": {
+      "buildid": "4595290",
+      "description": "public beta",
+      "timeupdated": "1579777242",
+      "timebuildupdated": "1579684546"
+    }
+  },
+  "depot": {
+    "334421": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1218919841514392834",
+          "size": "450405163",
+          "download": "158047456"
+        }
+      }
+    },
+    "334422": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8033752419759594016",
+          "size": "462529470",
+          "download": "163925168"
+        }
+      }
+    },
+    "334423": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5148479207444454232",
+          "size": "461168823",
+          "download": "162802432"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6575389",
+        "timeupdated": "1618992262",
+        "timebuildupdated": "1618991611"
+      },
+      "public-beta": {
+        "buildid": "4595290",
+        "description": "public beta",
+        "timeupdated": "1579777242",
+        "timebuildupdated": "1579684546"
+      }
+    }
+  }
+}

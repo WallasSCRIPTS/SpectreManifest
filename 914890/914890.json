@@ -1,0 +1,82 @@
+{
+  "name": "Nine Noir Lives",
+  "source": "spectre",
+  "changenumber": 40234121,
+  "updated": "2026-11-07T21:01:39.317Z",
+  "branches": {
+    "public": {
+      "buildid": "15027990",
+      "timeupdated": "1721562096",
+      "timebuildupdated": "1720953384"
+    },
+    "legacy": {
+      "buildid": "9938802",
+      "description": "Pre-engine update build",
+      "timeupdated": "1695834790",
+      "timebuildupdated": "1668494117"
+    },
+    "controller": {
+      "buildid": "15027990",
+      "description": "Controller and engine update testing.",
+      "timeupdated": "1720953384",
+      "timebuildupdated": "1720953384"
+    }
+  },
+  "depot": {
+    "914891": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7386093956254508843",
+          "size": "4537256437",
+          "download": "3646713648"
+        }
+      }
+    },
+    "914893": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7814231597726094632",
+          "size": "3790095359",
+          "download": "3255357024"
+        }
+      }
+    },
+    "914894": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1952583514730894437",
+          "size": "3735606987",
+          "download": "3232892192"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15027990",
+        "timeupdated": "1721562096",
+        "timebuildupdated": "1720953384"
+      },
+      "legacy": {
+        "buildid": "9938802",
+        "description": "Pre-engine update build",
+        "timeupdated": "1695834790",
+        "timebuildupdated": "1668494117"
+      },
+      "controller": {
+        "buildid": "15027990",
+        "description": "Controller and engine update testing.",
+        "timeupdated": "1720953384",
+        "timebuildupdated": "1720953384"
+      }
+    }
+  }
+}

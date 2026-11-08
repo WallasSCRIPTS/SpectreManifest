@@ -1,0 +1,70 @@
+{
+  "name": "Death Trash Demo",
+  "source": "spectre",
+  "changenumber": 36502781,
+  "updated": "2026-11-05T14:53:26.593Z",
+  "branches": {
+    "public": {
+      "buildid": "23682646",
+      "timeupdated": "1781188360",
+      "timebuildupdated": "1781186563"
+    },
+    "beta": {
+      "buildid": "23682646",
+      "description": "test builds",
+      "timeupdated": "1781186563",
+      "timebuildupdated": "1781186563"
+    }
+  },
+  "depot": {
+    "1361551": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5055016241799171515",
+          "size": "940722889",
+          "download": "207551072"
+        }
+      }
+    },
+    "1361552": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2592547725889151622",
+          "size": "936889635",
+          "download": "207152816"
+        }
+      }
+    },
+    "1361553": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "338098840338830159",
+          "size": "941356654",
+          "download": "207896688"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23682646",
+        "timeupdated": "1781188360",
+        "timebuildupdated": "1781186563"
+      },
+      "beta": {
+        "buildid": "23682646",
+        "description": "test builds",
+        "timeupdated": "1781186563",
+        "timebuildupdated": "1781186563"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Unexpected Journey",
+  "source": "spectre",
+  "changenumber": 34840221,
+  "updated": "2026-11-07T21:01:14.085Z",
+  "branches": {
+    "public": {
+      "buildid": "6981327",
+      "timeupdated": "1626075088",
+      "timebuildupdated": "1625492741"
+    },
+    "beta": {
+      "buildid": "6981327",
+      "description": "unstable build",
+      "timeupdated": "1625492821",
+      "timebuildupdated": "1625492741"
+    }
+  },
+  "depot": {
+    "860401": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4477845820184919783",
+          "size": "441291375",
+          "download": "101547952"
+        }
+      }
+    },
+    "860402": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "325166892640939027",
+          "size": "433538066",
+          "download": "99974640"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6981327",
+        "timeupdated": "1626075088",
+        "timebuildupdated": "1625492741"
+      },
+      "beta": {
+        "buildid": "6981327",
+        "description": "unstable build",
+        "timeupdated": "1625492821",
+        "timebuildupdated": "1625492741"
+      }
+    }
+  }
+}

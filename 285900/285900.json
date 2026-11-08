@@ -1,0 +1,83 @@
+{
+  "name": "Gang Beasts",
+  "source": "spectre",
+  "changenumber": 40710713,
+  "updated": "2026-11-07T20:56:23.621Z",
+  "branches": {
+    "public": {
+      "buildid": "20270933",
+      "timeupdated": "1759844900",
+      "timebuildupdated": "1759757341"
+    },
+    "1_17": {
+      "buildid": "6935027",
+      "description": "Version before the graphics pipeline update",
+      "timeupdated": "1645206449",
+      "timebuildupdated": "1624645889"
+    },
+    "legacy": {
+      "buildid": "481425",
+      "description": "Last Unity 4 build (unsupported)",
+      "timebuildupdated": "1419441832"
+    }
+  },
+  "depot": {
+    "285901": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4905063432706063925",
+          "size": "1301532845",
+          "download": "946908960"
+        }
+      }
+    },
+    "285902": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3264082452678762042",
+          "size": "1285664947",
+          "download": "947689776"
+        }
+      }
+    },
+    "285903": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1815274778430318286",
+          "size": "3415730182",
+          "download": "864293056"
+        }
+      }
+    },
+    "415410": {
+      "dlcappid": "415410"
+    },
+    "branches": {
+      "public": {
+        "buildid": "20270933",
+        "timeupdated": "1759844900",
+        "timebuildupdated": "1759757341"
+      },
+      "1_17": {
+        "buildid": "6935027",
+        "description": "Version before the graphics pipeline update",
+        "timeupdated": "1645206449",
+        "timebuildupdated": "1624645889"
+      },
+      "legacy": {
+        "buildid": "481425",
+        "description": "Last Unity 4 build (unsupported)",
+        "timebuildupdated": "1419441832"
+      }
+    }
+  }
+}

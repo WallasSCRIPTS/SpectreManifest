@@ -1,0 +1,56 @@
+{
+  "name": "Edge of Sanity",
+  "source": "spectre",
+  "changenumber": 39984387,
+  "updated": "2026-11-06T23:13:28.237Z",
+  "branches": {
+    "public": {
+      "buildid": "16343969",
+      "timeupdated": "1731513613",
+      "timebuildupdated": "1731081261"
+    },
+    "fallback": {
+      "buildid": "16367769",
+      "description": "Public Fallback: v.1.1.1",
+      "timeupdated": "1731342762",
+      "timebuildupdated": "1731342762"
+    }
+  },
+  "depot": {
+    "1897111": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8175195749223838281",
+          "size": "1424426168",
+          "download": "988156000"
+        }
+      }
+    },
+    "2983820": {
+      "manifests": {
+        "public": {
+          "gid": "8877470032797557114",
+          "size": "77614842",
+          "download": "71480096"
+        }
+      },
+      "dlcappid": "2983820"
+    },
+    "branches": {
+      "public": {
+        "buildid": "16343969",
+        "timeupdated": "1731513613",
+        "timebuildupdated": "1731081261"
+      },
+      "fallback": {
+        "buildid": "16367769",
+        "description": "Public Fallback: v.1.1.1",
+        "timeupdated": "1731342762",
+        "timebuildupdated": "1731342762"
+      }
+    }
+  }
+}

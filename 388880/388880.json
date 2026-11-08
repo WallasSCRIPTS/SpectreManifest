@@ -1,0 +1,136 @@
+{
+  "name": "Oxenfree",
+  "source": "spectre",
+  "changenumber": 37434570,
+  "updated": "2026-11-07T20:57:27.272Z",
+  "branches": {
+    "public": {
+      "buildid": "21724823",
+      "timeupdated": "1770231803",
+      "timebuildupdated": "1769819455"
+    },
+    "beta": {
+      "buildid": "7320467",
+      "description": "Public beta branch.",
+      "timeupdated": "1631142281",
+      "timebuildupdated": "1631061468"
+    },
+    "linux_pre64": {
+      "buildid": "6459854",
+      "description": "Pre-x86 deprecation.",
+      "timeupdated": "1625801459",
+      "timebuildupdated": "1617066316"
+    },
+    "pre-loc": {
+      "buildid": "1472866",
+      "description": "Last branch before localization",
+      "timeupdated": "1506539425",
+      "timebuildupdated": "1479779775"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "388881": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3021993810711723171",
+          "size": "4160910549",
+          "download": "3044684480"
+        }
+      }
+    },
+    "388882": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2676463719963793922",
+          "size": "4114861079",
+          "download": "3047079056"
+        }
+      }
+    },
+    "388883": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5428810816993209399",
+          "size": "3044338556",
+          "download": "1906696912"
+        }
+      }
+    },
+    "388884": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7108578419670967731",
+          "size": "3942999946",
+          "download": "2803401552"
+        }
+      }
+    },
+    "388885": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "760220395727681197",
+          "size": "397463",
+          "download": "76288"
+        }
+      }
+    },
+    "388886": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4817487458570974807",
+          "size": "405256",
+          "download": "84096"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21724823",
+        "timeupdated": "1770231803",
+        "timebuildupdated": "1769819455"
+      },
+      "beta": {
+        "buildid": "7320467",
+        "description": "Public beta branch.",
+        "timeupdated": "1631142281",
+        "timebuildupdated": "1631061468"
+      },
+      "linux_pre64": {
+        "buildid": "6459854",
+        "description": "Pre-x86 deprecation.",
+        "timeupdated": "1625801459",
+        "timebuildupdated": "1617066316"
+      },
+      "pre-loc": {
+        "buildid": "1472866",
+        "description": "Last branch before localization",
+        "timeupdated": "1506539425",
+        "timebuildupdated": "1479779775"
+      }
+    }
+  }
+}

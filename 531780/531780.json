@@ -1,0 +1,88 @@
+{
+  "name": "Castle Explorer",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:33.594Z",
+  "branches": {
+    "public": {
+      "buildid": "23486077",
+      "timeupdated": "1781373243",
+      "timebuildupdated": "1780149546"
+    },
+    "beta": {
+      "buildid": "23486077",
+      "description": "Beta test early build",
+      "timeupdated": "1780150090",
+      "timebuildupdated": "1780149546"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229002": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "531781": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6827605302219463831",
+          "size": "576652064",
+          "download": "433888480"
+        }
+      }
+    },
+    "531782": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6841385056355102819",
+          "size": "584961290",
+          "download": "436730624"
+        }
+      }
+    },
+    "531783": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "30951057755287644",
+          "size": "586357043",
+          "download": "436935392"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23486077",
+        "timeupdated": "1781373243",
+        "timebuildupdated": "1780149546"
+      },
+      "beta": {
+        "buildid": "23486077",
+        "description": "Beta test early build",
+        "timeupdated": "1780150090",
+        "timebuildupdated": "1780149546"
+      }
+    }
+  }
+}

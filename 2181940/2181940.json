@@ -1,0 +1,76 @@
+{
+  "name": "CivIdle",
+  "source": "spectre",
+  "changenumber": 40642006,
+  "updated": "2026-11-06T23:19:28.271Z",
+  "branches": {
+    "public": {
+      "buildid": "25185130",
+      "timeupdated": "1788864489",
+      "timebuildupdated": "1788864407"
+    },
+    "beta": {
+      "buildid": "25811373",
+      "description": "Beta builds",
+      "timeupdated": "1791484239",
+      "timebuildupdated": "1791484239"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "2181941": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2505481557963077697",
+          "size": "271220620",
+          "download": "106813840"
+        }
+      }
+    },
+    "2181942": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1391734349991909005",
+          "size": "277067905",
+          "download": "102785552"
+        }
+      }
+    },
+    "2181943": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "749922237125639489",
+          "size": "264339966",
+          "download": "117161280"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25185130",
+        "timeupdated": "1788864489",
+        "timebuildupdated": "1788864407"
+      },
+      "beta": {
+        "buildid": "25811373",
+        "description": "Beta builds",
+        "timeupdated": "1791484239",
+        "timebuildupdated": "1791484239"
+      }
+    }
+  }
+}

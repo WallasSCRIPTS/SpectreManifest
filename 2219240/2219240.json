@@ -1,0 +1,70 @@
+{
+  "name": "Sisypush",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:19:32.610Z",
+  "branches": {
+    "public": {
+      "buildid": "14044324",
+      "timeupdated": "1713008910",
+      "timebuildupdated": "1713008533"
+    },
+    "test": {
+      "buildid": "15404002",
+      "description": "Test branch for experimental updates",
+      "timeupdated": "1723884333",
+      "timebuildupdated": "1723883720"
+    }
+  },
+  "depot": {
+    "2219241": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "546955539295290779",
+          "size": "125108248",
+          "download": "66199568"
+        }
+      }
+    },
+    "2219242": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2291799808437140715",
+          "size": "118260024",
+          "download": "63775728"
+        }
+      }
+    },
+    "2219243": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9066507002578969074",
+          "size": "197186933",
+          "download": "81092928"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "14044324",
+        "timeupdated": "1713008910",
+        "timebuildupdated": "1713008533"
+      },
+      "test": {
+        "buildid": "15404002",
+        "description": "Test branch for experimental updates",
+        "timeupdated": "1723884333",
+        "timebuildupdated": "1723883720"
+      }
+    }
+  }
+}

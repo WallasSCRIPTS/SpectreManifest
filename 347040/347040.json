@@ -1,0 +1,54 @@
+{
+  "name": "Keebles",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:58.537Z",
+  "branches": {
+    "public": {
+      "buildid": "569619",
+      "timebuildupdated": "1427498083"
+    },
+    "beta": {
+      "buildid": "569621",
+      "description": "Beta branch",
+      "timebuildupdated": "1427498278"
+    }
+  },
+  "depot": {
+    "347041": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1361782176119276737",
+          "size": "487737053",
+          "download": "51360560"
+        }
+      }
+    },
+    "347042": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5491005736097541713",
+          "size": "599847098",
+          "download": "61620224"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "569619",
+        "timebuildupdated": "1427498083"
+      },
+      "beta": {
+        "buildid": "569621",
+        "description": "Beta branch",
+        "timebuildupdated": "1427498278"
+      }
+    }
+  }
+}

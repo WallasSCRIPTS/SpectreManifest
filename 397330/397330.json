@@ -1,0 +1,150 @@
+{
+  "name": "Little Big Adventure",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:31.363Z",
+  "branches": {
+    "public": {
+      "buildid": "10340094",
+      "timeupdated": "1673969214",
+      "timebuildupdated": "1673963015"
+    },
+    "classic3.1.x": {
+      "buildid": "8836892",
+      "description": "TLBA Classic Edition - beta",
+      "timeupdated": "1653927662",
+      "timebuildupdated": "1653927662"
+    },
+    "develop": {
+      "buildid": "10525608",
+      "description": "Develop branch",
+      "timeupdated": "1676375543",
+      "timebuildupdated": "1676046252"
+    },
+    "retro3.1.x": {
+      "buildid": "8823203",
+      "description": "TLBA Original Edition - beta",
+      "timeupdated": "1653664844",
+      "timebuildupdated": "1653664844"
+    },
+    "v3.2.x": {
+      "buildid": "10340094",
+      "description": "TLBA Classic - test",
+      "timeupdated": "1673963015",
+      "timebuildupdated": "1673963015"
+    }
+  },
+  "depot": {
+    "228984": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "397332": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7723989905965683458",
+          "size": "502631336",
+          "download": "399624304"
+        }
+      }
+    },
+    "397333": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7236411696712780535",
+          "size": "514673686",
+          "download": "406020720"
+        }
+      }
+    },
+    "397338": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "606382556722002081",
+          "size": "313072886",
+          "download": "215923920"
+        }
+      }
+    },
+    "1857700": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1409942060700823979",
+          "size": "311659633",
+          "download": "215659456"
+        }
+      },
+      "dlcappid": "1857700"
+    },
+    "1972490": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2041390717256564212",
+          "size": "982728349",
+          "download": "751727216"
+        }
+      },
+      "dlcappid": "1972490"
+    },
+    "branches": {
+      "public": {
+        "buildid": "10340094",
+        "timeupdated": "1673969214",
+        "timebuildupdated": "1673963015"
+      },
+      "classic3.1.x": {
+        "buildid": "8836892",
+        "description": "TLBA Classic Edition - beta",
+        "timeupdated": "1653927662",
+        "timebuildupdated": "1653927662"
+      },
+      "develop": {
+        "buildid": "10525608",
+        "description": "Develop branch",
+        "timeupdated": "1676375543",
+        "timebuildupdated": "1676046252"
+      },
+      "retro3.1.x": {
+        "buildid": "8823203",
+        "description": "TLBA Original Edition - beta",
+        "timeupdated": "1653664844",
+        "timebuildupdated": "1653664844"
+      },
+      "v3.2.x": {
+        "buildid": "10340094",
+        "description": "TLBA Classic - test",
+        "timeupdated": "1673963015",
+        "timebuildupdated": "1673963015"
+      }
+    }
+  }
+}

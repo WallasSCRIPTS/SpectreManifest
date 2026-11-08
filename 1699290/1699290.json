@@ -1,0 +1,64 @@
+{
+  "name": "Cult of Personality",
+  "source": "spectre",
+  "changenumber": 40626161,
+  "updated": "2026-11-06T23:07:50.963Z",
+  "branches": {
+    "public": {
+      "buildid": "13456787",
+      "timeupdated": "1707947408",
+      "timebuildupdated": "1707932408"
+    },
+    "development": {
+      "buildid": "13456787",
+      "description": "branch for testing unstable builds, to allow the main branch to stay on a (semi) stable build",
+      "timeupdated": "1707932447",
+      "timebuildupdated": "1707932408"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1699291": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8172350331805312703",
+          "size": "199180479",
+          "download": "47065520"
+        }
+      }
+    },
+    "1699292": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3162558691581389686",
+          "size": "192780830",
+          "download": "45978992"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "13456787",
+        "timeupdated": "1707947408",
+        "timebuildupdated": "1707932408"
+      },
+      "development": {
+        "buildid": "13456787",
+        "description": "branch for testing unstable builds, to allow the main branch to stay on a (semi) stable build",
+        "timeupdated": "1707932447",
+        "timebuildupdated": "1707932408"
+      }
+    }
+  }
+}

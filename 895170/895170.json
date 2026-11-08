@@ -1,0 +1,74 @@
+{
+  "name": "Drop Up",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:01:30.966Z",
+  "branches": {
+    "public": {
+      "buildid": "3033477",
+      "timeupdated": "1534306944",
+      "timebuildupdated": "1534306857"
+    },
+    "beta": {
+      "buildid": "3033477",
+      "timeupdated": "1534307454",
+      "timebuildupdated": "1534306857"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "895171": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3023603735048779233",
+          "size": "307246020",
+          "download": "273503840"
+        }
+      }
+    },
+    "895172": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6268364275148001651",
+          "size": "593947795",
+          "download": "581357264"
+        }
+      }
+    },
+    "895173": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5871471331177529606",
+          "size": "303463916",
+          "download": "269924576"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3033477",
+        "timeupdated": "1534306944",
+        "timebuildupdated": "1534306857"
+      },
+      "beta": {
+        "buildid": "3033477",
+        "timeupdated": "1534307454",
+        "timebuildupdated": "1534306857"
+      }
+    }
+  }
+}

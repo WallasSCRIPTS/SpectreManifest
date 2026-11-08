@@ -1,0 +1,58 @@
+{
+  "name": "Chambara",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:21.181Z",
+  "branches": {
+    "public": {
+      "buildid": "5217596",
+      "timeupdated": "1593146706",
+      "timebuildupdated": "1593146559"
+    },
+    "mac-branch": {
+      "buildid": "4536505",
+      "description": "mac",
+      "timeupdated": "1577933336",
+      "timebuildupdated": "1577933336"
+    }
+  },
+  "depot": {
+    "745791": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5346323089451022800",
+          "size": "2035919307",
+          "download": "509235392"
+        }
+      }
+    },
+    "745792": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5053417017014995814",
+          "size": "1749540434",
+          "download": "224397856"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "5217596",
+        "timeupdated": "1593146706",
+        "timebuildupdated": "1593146559"
+      },
+      "mac-branch": {
+        "buildid": "4536505",
+        "description": "mac",
+        "timeupdated": "1577933336",
+        "timebuildupdated": "1577933336"
+      }
+    }
+  }
+}

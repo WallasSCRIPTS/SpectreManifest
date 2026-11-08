@@ -1,0 +1,124 @@
+{
+  "name": "Chippy",
+  "source": "spectre",
+  "changenumber": 39144990,
+  "updated": "2026-11-07T20:59:10.782Z",
+  "branches": {
+    "public": {
+      "buildid": "20272527",
+      "timeupdated": "1759780518",
+      "timebuildupdated": "1759764039"
+    },
+    "legacy": {
+      "buildid": "5001262",
+      "description": "Archived replays from before the Redux Update",
+      "timeupdated": "1648046746",
+      "timebuildupdated": "1588957015"
+    },
+    "legacy-v56": {
+      "buildid": "4332716",
+      "description": "Legacy replay support",
+      "timeupdated": "1572296117",
+      "timebuildupdated": "1572283925"
+    },
+    "no-rendertextures": {
+      "buildid": "9150099",
+      "description": "Test build to support older GPUs",
+      "timeupdated": "1658248175",
+      "timebuildupdated": "1658247469"
+    },
+    "redux-workshop": {
+      "buildid": "5874901",
+      "description": "Test workshop support in redux",
+      "timeupdated": "1606227439",
+      "timebuildupdated": "1606225097"
+    },
+    "debug": {
+      "buildid": "20272559",
+      "description": "Development builds with extra diagnostics",
+      "timeupdated": "1759780470",
+      "timebuildupdated": "1759764167"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "602701": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5093346309493694941",
+          "size": "693620773",
+          "download": "283158208"
+        }
+      }
+    },
+    "602702": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "841794234869740701",
+          "size": "682658352",
+          "download": "275943792"
+        }
+      }
+    },
+    "602704": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3347842311627339156",
+          "size": "740842176",
+          "download": "283996768"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20272527",
+        "timeupdated": "1759780518",
+        "timebuildupdated": "1759764039"
+      },
+      "legacy": {
+        "buildid": "5001262",
+        "description": "Archived replays from before the Redux Update",
+        "timeupdated": "1648046746",
+        "timebuildupdated": "1588957015"
+      },
+      "legacy-v56": {
+        "buildid": "4332716",
+        "description": "Legacy replay support",
+        "timeupdated": "1572296117",
+        "timebuildupdated": "1572283925"
+      },
+      "no-rendertextures": {
+        "buildid": "9150099",
+        "description": "Test build to support older GPUs",
+        "timeupdated": "1658248175",
+        "timebuildupdated": "1658247469"
+      },
+      "redux-workshop": {
+        "buildid": "5874901",
+        "description": "Test workshop support in redux",
+        "timeupdated": "1606227439",
+        "timebuildupdated": "1606225097"
+      },
+      "debug": {
+        "buildid": "20272559",
+        "description": "Development builds with extra diagnostics",
+        "timeupdated": "1759780470",
+        "timebuildupdated": "1759764167"
+      }
+    }
+  }
+}

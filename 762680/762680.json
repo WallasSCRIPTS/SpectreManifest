@@ -1,0 +1,70 @@
+{
+  "name": "Double Turn",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:00:29.876Z",
+  "branches": {
+    "public": {
+      "buildid": "6861623",
+      "timeupdated": "1623613566",
+      "timebuildupdated": "1623613118"
+    },
+    "next": {
+      "buildid": "6861623",
+      "description": "Public preview version",
+      "timeupdated": "1623613551",
+      "timebuildupdated": "1623613118"
+    }
+  },
+  "depot": {
+    "762681": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1452628534566920885",
+          "size": "152202570",
+          "download": "109590704"
+        }
+      }
+    },
+    "762682": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2260847452839901295",
+          "size": "151205772",
+          "download": "109005456"
+        }
+      }
+    },
+    "762683": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6629088020990417868",
+          "size": "173102131",
+          "download": "113943920"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "6861623",
+        "timeupdated": "1623613566",
+        "timebuildupdated": "1623613118"
+      },
+      "next": {
+        "buildid": "6861623",
+        "description": "Public preview version",
+        "timeupdated": "1623613551",
+        "timebuildupdated": "1623613118"
+      }
+    }
+  }
+}

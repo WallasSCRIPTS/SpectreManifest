@@ -1,0 +1,94 @@
+{
+  "name": "Call of Duty: Ghosts",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:02.486Z",
+  "branches": {
+    "public": {
+      "buildid": "24723416",
+      "timeupdated": "1787846473",
+      "timebuildupdated": "1786662156"
+    },
+    "local": {
+      "buildid": "121552",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timebuildupdated": "1380645189"
+    }
+  },
+  "depot": {
+    "209161": {
+      "manifests": {
+        "public": {
+          "gid": "7048320834456545280",
+          "size": "13017351",
+          "download": "9023712"
+        }
+      }
+    },
+    "209162": {
+      "depotfromapp": "209170"
+    },
+    "209163": {
+      "manifests": {
+        "public": {
+          "gid": "3536227071105591070",
+          "size": "8068233883",
+          "download": "7824324624"
+        }
+      }
+    },
+    "209172": {
+      "depotfromapp": "209170"
+    },
+    "209173": {
+      "depotfromapp": "209170"
+    },
+    "209174": {
+      "depotfromapp": "209170"
+    },
+    "209175": {
+      "depotfromapp": "209170"
+    },
+    "209176": {
+      "depotfromapp": "209170"
+    },
+    "209177": {
+      "depotfromapp": "209170"
+    },
+    "209178": {
+      "depotfromapp": "209170"
+    },
+    "209179": {
+      "depotfromapp": "209170"
+    },
+    "209180": {
+      "depotfromapp": "209170"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "branches": {
+      "public": {
+        "buildid": "24723416",
+        "timeupdated": "1787846473",
+        "timebuildupdated": "1786662156"
+      },
+      "local": {
+        "buildid": "121552",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1380645189"
+      }
+    }
+  }
+}

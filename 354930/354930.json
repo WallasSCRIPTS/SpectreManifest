@@ -1,0 +1,56 @@
+{
+  "name": "Slinki",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:57:05.679Z",
+  "branches": {
+    "public": {
+      "buildid": "635225",
+      "timebuildupdated": "1432589831"
+    },
+    "beta": {
+      "buildid": "4682565",
+      "description": "Experimental build",
+      "timeupdated": "1581888190",
+      "timebuildupdated": "1581888189"
+    }
+  },
+  "depot": {
+    "354931": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2920997377226625580",
+          "size": "579771140",
+          "download": "178822608"
+        }
+      }
+    },
+    "354932": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9181699851079364279",
+          "size": "600430775",
+          "download": "188459424"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "635225",
+        "timebuildupdated": "1432589831"
+      },
+      "beta": {
+        "buildid": "4682565",
+        "description": "Experimental build",
+        "timeupdated": "1581888190",
+        "timebuildupdated": "1581888189"
+      }
+    }
+  }
+}

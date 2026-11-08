@@ -1,0 +1,80 @@
+{
+  "name": "Spectre",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:56:37.278Z",
+  "branches": {
+    "public": {
+      "buildid": "1374420",
+      "timeupdated": "1475640768",
+      "timebuildupdated": "1475640475"
+    },
+    "dk1": {
+      "buildid": "445014",
+      "description": "For playing with Oculus DK1",
+      "timebuildupdated": "1416192927"
+    },
+    "traditional-display": {
+      "buildid": "1374386",
+      "description": "Use this mode for playing without a VR headset.",
+      "timeupdated": "1475638298",
+      "timebuildupdated": "1475638147"
+    }
+  },
+  "depot": {
+    "314951": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9088749051029728270",
+          "size": "1310282866",
+          "download": "317121360"
+        }
+      }
+    },
+    "314952": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1986165175512282617",
+          "size": "608080933",
+          "download": "283068528"
+        }
+      }
+    },
+    "314953": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1785585618309131107",
+          "size": "650329496",
+          "download": "335194016"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1374420",
+        "timeupdated": "1475640768",
+        "timebuildupdated": "1475640475"
+      },
+      "dk1": {
+        "buildid": "445014",
+        "description": "For playing with Oculus DK1",
+        "timebuildupdated": "1416192927"
+      },
+      "traditional-display": {
+        "buildid": "1374386",
+        "description": "Use this mode for playing without a VR headset.",
+        "timeupdated": "1475638298",
+        "timebuildupdated": "1475638147"
+      }
+    }
+  }
+}

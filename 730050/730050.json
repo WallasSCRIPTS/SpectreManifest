@@ -1,0 +1,76 @@
+{
+  "name": "Verdant Skies",
+  "source": "spectre",
+  "changenumber": 40430523,
+  "updated": "2026-11-07T21:00:13.121Z",
+  "branches": {
+    "public": {
+      "buildid": "26308656",
+      "timeupdated": "1793378307",
+      "timebuildupdated": "1793309904"
+    },
+    "publictesting": {
+      "buildid": "26308656",
+      "description": "Public Testing",
+      "timeupdated": "1793309917",
+      "timebuildupdated": "1793309904"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "730051": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5598884670607209952",
+          "size": "838099039",
+          "download": "318764512"
+        }
+      }
+    },
+    "730052": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "691933455337021631",
+          "size": "1262273943",
+          "download": "381451552"
+        }
+      }
+    },
+    "730053": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3445591600477881746",
+          "size": "1258758383",
+          "download": "378843968"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "26308656",
+        "timeupdated": "1793378307",
+        "timebuildupdated": "1793309904"
+      },
+      "publictesting": {
+        "buildid": "26308656",
+        "description": "Public Testing",
+        "timeupdated": "1793309917",
+        "timebuildupdated": "1793309904"
+      }
+    }
+  }
+}

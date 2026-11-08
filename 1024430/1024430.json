@@ -1,0 +1,64 @@
+{
+  "name": "Super Arcade Soccer",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:34.654Z",
+  "branches": {
+    "public": {
+      "buildid": "4616291",
+      "timeupdated": "1580229176",
+      "timebuildupdated": "1580229036"
+    },
+    "beta": {
+      "buildid": "3821578",
+      "description": "Beta",
+      "timeupdated": "1557829254",
+      "timebuildupdated": "1557829226"
+    }
+  },
+  "depot": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1024431": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4350029212202645717",
+          "size": "230534628",
+          "download": "65192416"
+        }
+      }
+    },
+    "1024432": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3957156528872077037",
+          "size": "236452790",
+          "download": "68260160"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4616291",
+        "timeupdated": "1580229176",
+        "timebuildupdated": "1580229036"
+      },
+      "beta": {
+        "buildid": "3821578",
+        "description": "Beta",
+        "timeupdated": "1557829254",
+        "timebuildupdated": "1557829226"
+      }
+    }
+  }
+}

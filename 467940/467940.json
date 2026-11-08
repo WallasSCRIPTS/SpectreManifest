@@ -1,0 +1,68 @@
+{
+  "name": "Memoir En Code: Reissue",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:07.644Z",
+  "branches": {
+    "public": {
+      "buildid": "1353623",
+      "timeupdated": "1474789343",
+      "timebuildupdated": "1474645780"
+    },
+    "beta": {
+      "buildid": "1353623",
+      "timeupdated": "1474645794",
+      "timebuildupdated": "1474645780"
+    }
+  },
+  "depot": {
+    "467941": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7996068873113889152",
+          "size": "144324000",
+          "download": "145782768"
+        }
+      }
+    },
+    "467942": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4678695731266191918",
+          "size": "182923275",
+          "download": "144433712"
+        }
+      }
+    },
+    "467943": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "9031833478717869532",
+          "size": "177928437",
+          "download": "141858096"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1353623",
+        "timeupdated": "1474789343",
+        "timebuildupdated": "1474645780"
+      },
+      "beta": {
+        "buildid": "1353623",
+        "timeupdated": "1474645794",
+        "timebuildupdated": "1474645780"
+      }
+    }
+  }
+}

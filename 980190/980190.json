@@ -1,0 +1,70 @@
+{
+  "name": "Flaky Bakery",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:02:11.885Z",
+  "branches": {
+    "public": {
+      "buildid": "20242546",
+      "timeupdated": "1759509823",
+      "timebuildupdated": "1759509751"
+    },
+    "test": {
+      "buildid": "20242546",
+      "description": "Test Branch",
+      "timeupdated": "1759509805",
+      "timebuildupdated": "1759509751"
+    }
+  },
+  "depot": {
+    "980191": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5135279466135118091",
+          "size": "120121214",
+          "download": "49075888"
+        }
+      }
+    },
+    "980192": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3748399388341761623",
+          "size": "120745033",
+          "download": "48322032"
+        }
+      }
+    },
+    "980193": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3744048266056657047",
+          "size": "121199327",
+          "download": "49358944"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20242546",
+        "timeupdated": "1759509823",
+        "timebuildupdated": "1759509751"
+      },
+      "test": {
+        "buildid": "20242546",
+        "description": "Test Branch",
+        "timeupdated": "1759509805",
+        "timebuildupdated": "1759509751"
+      }
+    }
+  }
+}

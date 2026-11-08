@@ -1,0 +1,76 @@
+{
+  "name": "RAILGRADE",
+  "source": "spectre",
+  "changenumber": 40632832,
+  "updated": "2026-11-06T21:04:37.945Z",
+  "branches": {
+    "public": {
+      "buildid": "19395085",
+      "timeupdated": "1753774058",
+      "timebuildupdated": "1753773682"
+    },
+    "macfallback": {
+      "buildid": "19395085",
+      "description": "Use for old MacOS versions or Intel Macs",
+      "timeupdated": "1753774058",
+      "timebuildupdated": "1753773682"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1355091": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "367202970304796727",
+          "size": "4235985781",
+          "download": "4078158208"
+        }
+      }
+    },
+    "1355092": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8852258941661286652",
+          "size": "4153145578",
+          "download": "3946106224"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "19395085",
+        "timeupdated": "1753774058",
+        "timebuildupdated": "1753773682"
+      },
+      "macfallback": {
+        "buildid": "19395085",
+        "description": "Use for old MacOS versions or Intel Macs",
+        "timeupdated": "1753774058",
+        "timebuildupdated": "1753773682"
+      }
+    }
+  }
+}

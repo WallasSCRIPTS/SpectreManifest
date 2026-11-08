@@ -1,0 +1,240 @@
+{
+  "name": "The Orville - Interactive Fan Experience",
+  "source": "spectre",
+  "changenumber": 40614710,
+  "updated": "2026-11-07T21:03:13.108Z",
+  "branches": {
+    "public": {
+      "buildid": "25185299",
+      "timeupdated": "1789151139",
+      "timebuildupdated": "1788864970"
+    },
+    "beta": {
+      "buildid": "22352197",
+      "description": "Pre-Release Testing",
+      "timeupdated": "1773594970",
+      "timebuildupdated": "1773594955"
+    },
+    "v1.0.17.6": {
+      "buildid": "9463117",
+      "description": "New Horizons Update",
+      "timeupdated": "1728449590",
+      "timebuildupdated": "1662491756"
+    },
+    "v1.0.17": {
+      "buildid": "9044171",
+      "description": "v1.0.17",
+      "timeupdated": "1659367303",
+      "timebuildupdated": "1656676454"
+    },
+    "v1.0.16": {
+      "buildid": "6451743",
+      "description": "v1.0.16",
+      "timeupdated": "1656694972",
+      "timebuildupdated": "1616904416"
+    },
+    "v1.0.15": {
+      "buildid": "5613142",
+      "description": "Last macOS version prior to v18",
+      "timeupdated": "1604052577",
+      "timebuildupdated": "1601411513"
+    },
+    "v1.0.14": {
+      "buildid": "5215585",
+      "timeupdated": "1601306702",
+      "timebuildupdated": "1593110361"
+    },
+    "v1.0.13": {
+      "buildid": "4742303",
+      "timeupdated": "1593421756",
+      "timebuildupdated": "1583335071"
+    },
+    "v1.0.12": {
+      "buildid": "4524788",
+      "description": "Last version with VR Support",
+      "timeupdated": "1601306595",
+      "timebuildupdated": "1577217278"
+    },
+    "v1.0.11": {
+      "buildid": "4140591",
+      "timeupdated": "1601306543",
+      "timebuildupdated": "1566854861"
+    },
+    "v1.0.9": {
+      "buildid": "4071085",
+      "timeupdated": "1601306234",
+      "timebuildupdated": "1564782515"
+    },
+    "v1.0.8": {
+      "buildid": "4063427",
+      "timeupdated": "1601306162",
+      "timebuildupdated": "1564609279"
+    },
+    "v1.0.7": {
+      "buildid": "4059888",
+      "timeupdated": "1601306106",
+      "timebuildupdated": "1564533266"
+    },
+    "v1.0.4": {
+      "buildid": "4052511",
+      "timeupdated": "1601306049",
+      "timebuildupdated": "1564358566"
+    },
+    "v1.0.3": {
+      "buildid": "4051844",
+      "timeupdated": "1601306003",
+      "timebuildupdated": "1564326473"
+    },
+    "v1.0.2": {
+      "buildid": "4042274",
+      "timeupdated": "1601305946",
+      "timebuildupdated": "1564017027"
+    },
+    "v1.0.1": {
+      "buildid": "4038568",
+      "timeupdated": "1601305905",
+      "timebuildupdated": "1563926873"
+    },
+    "v1.0.0": {
+      "buildid": "4037125",
+      "timeupdated": "1601305863",
+      "timebuildupdated": "1563894024"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1096201": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1927992138827577494",
+          "size": "10066689583",
+          "download": "8900763488"
+        }
+      }
+    },
+    "1096202": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "411813542319057987",
+          "size": "8808049304",
+          "download": "8233804272"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25185299",
+        "timeupdated": "1789151139",
+        "timebuildupdated": "1788864970"
+      },
+      "beta": {
+        "buildid": "22352197",
+        "description": "Pre-Release Testing",
+        "timeupdated": "1773594970",
+        "timebuildupdated": "1773594955"
+      },
+      "v1.0.17.6": {
+        "buildid": "9463117",
+        "description": "New Horizons Update",
+        "timeupdated": "1728449590",
+        "timebuildupdated": "1662491756"
+      },
+      "v1.0.17": {
+        "buildid": "9044171",
+        "description": "v1.0.17",
+        "timeupdated": "1659367303",
+        "timebuildupdated": "1656676454"
+      },
+      "v1.0.16": {
+        "buildid": "6451743",
+        "description": "v1.0.16",
+        "timeupdated": "1656694972",
+        "timebuildupdated": "1616904416"
+      },
+      "v1.0.15": {
+        "buildid": "5613142",
+        "description": "Last macOS version prior to v18",
+        "timeupdated": "1604052577",
+        "timebuildupdated": "1601411513"
+      },
+      "v1.0.14": {
+        "buildid": "5215585",
+        "timeupdated": "1601306702",
+        "timebuildupdated": "1593110361"
+      },
+      "v1.0.13": {
+        "buildid": "4742303",
+        "timeupdated": "1593421756",
+        "timebuildupdated": "1583335071"
+      },
+      "v1.0.12": {
+        "buildid": "4524788",
+        "description": "Last version with VR Support",
+        "timeupdated": "1601306595",
+        "timebuildupdated": "1577217278"
+      },
+      "v1.0.11": {
+        "buildid": "4140591",
+        "timeupdated": "1601306543",
+        "timebuildupdated": "1566854861"
+      },
+      "v1.0.9": {
+        "buildid": "4071085",
+        "timeupdated": "1601306234",
+        "timebuildupdated": "1564782515"
+      },
+      "v1.0.8": {
+        "buildid": "4063427",
+        "timeupdated": "1601306162",
+        "timebuildupdated": "1564609279"
+      },
+      "v1.0.7": {
+        "buildid": "4059888",
+        "timeupdated": "1601306106",
+        "timebuildupdated": "1564533266"
+      },
+      "v1.0.4": {
+        "buildid": "4052511",
+        "timeupdated": "1601306049",
+        "timebuildupdated": "1564358566"
+      },
+      "v1.0.3": {
+        "buildid": "4051844",
+        "timeupdated": "1601306003",
+        "timebuildupdated": "1564326473"
+      },
+      "v1.0.2": {
+        "buildid": "4042274",
+        "timeupdated": "1601305946",
+        "timebuildupdated": "1564017027"
+      },
+      "v1.0.1": {
+        "buildid": "4038568",
+        "timeupdated": "1601305905",
+        "timebuildupdated": "1563926873"
+      },
+      "v1.0.0": {
+        "buildid": "4037125",
+        "timeupdated": "1601305863",
+        "timebuildupdated": "1563894024"
+      }
+    }
+  }
+}

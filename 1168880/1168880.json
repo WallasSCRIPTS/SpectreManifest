@@ -1,0 +1,76 @@
+{
+  "name": "MOLEK-SYNTEZ",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T21:03:54.797Z",
+  "branches": {
+    "public": {
+      "buildid": "9717150",
+      "timeupdated": "1665698780",
+      "timebuildupdated": "1665698755"
+    },
+    "m1-mac-fix": {
+      "buildid": "6332182",
+      "description": "Fix for launch hang on M1 Macs",
+      "timeupdated": "1670199437",
+      "timebuildupdated": "1614892901"
+    }
+  },
+  "depot": {
+    "229004": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1168881": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2673798913566596804",
+          "size": "141174226",
+          "download": "136569760"
+        }
+      }
+    },
+    "1168882": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6029421069548313980",
+          "size": "168014056",
+          "download": "143329952"
+        }
+      }
+    },
+    "1168883": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2965302548692693733",
+          "size": "195989343",
+          "download": "151837280"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "9717150",
+        "timeupdated": "1665698780",
+        "timebuildupdated": "1665698755"
+      },
+      "m1-mac-fix": {
+        "buildid": "6332182",
+        "description": "Fix for launch hang on M1 Macs",
+        "timeupdated": "1670199437",
+        "timebuildupdated": "1614892901"
+      }
+    }
+  }
+}

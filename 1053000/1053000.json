@@ -1,0 +1,58 @@
+{
+  "name": "PLANES ATTACK",
+  "source": "spectre",
+  "changenumber": 40567886,
+  "updated": "2026-11-07T21:02:48.318Z",
+  "branches": {
+    "public": {
+      "buildid": "3724791",
+      "timeupdated": "1554888033",
+      "timebuildupdated": "1554887988"
+    }
+  },
+  "depot": {
+    "1053001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5101757644171983153",
+          "size": "123342856",
+          "download": "19314688"
+        }
+      }
+    },
+    "1053002": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1824487686105458510",
+          "size": "128924873",
+          "download": "20150208"
+        }
+      }
+    },
+    "1053003": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4246956638674977101",
+          "size": "124181072",
+          "download": "19663888"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3724791",
+        "timeupdated": "1554888033",
+        "timebuildupdated": "1554887988"
+      }
+    }
+  }
+}

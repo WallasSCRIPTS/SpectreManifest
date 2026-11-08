@@ -1,0 +1,76 @@
+{
+  "name": "Myst",
+  "source": "spectre",
+  "changenumber": 40400577,
+  "updated": "2026-11-06T21:03:56.513Z",
+  "branches": {
+    "public": {
+      "buildid": "24056767",
+      "timeupdated": "1783469241",
+      "timebuildupdated": "1783209196"
+    },
+    "rollback_macos_under14-5": {
+      "buildid": "16320994",
+      "description": "\tOnly use this branch if you wish to play an unsupported (legacy) version of Myst on MacOS under 14.5.",
+      "timeupdated": "1730939303",
+      "timebuildupdated": "1730939303"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "229005": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1255561": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8992356624963788650",
+          "size": "10966138714",
+          "download": "10430727840"
+        }
+      }
+    },
+    "1255562": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8209422207171635708",
+          "size": "14605230793",
+          "download": "10954316816"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24056767",
+        "timeupdated": "1783469241",
+        "timebuildupdated": "1783209196"
+      },
+      "rollback_macos_under14-5": {
+        "buildid": "16320994",
+        "description": "\tOnly use this branch if you wish to play an unsupported (legacy) version of Myst on MacOS under 14.5.",
+        "timeupdated": "1730939303",
+        "timebuildupdated": "1730939303"
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Crisis Wing",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:04:59.580Z",
+  "branches": {
+    "public": {
+      "buildid": "21339485",
+      "timeupdated": "1767044328",
+      "timebuildupdated": "1767044328"
+    },
+    "beta": {
+      "buildid": "21335503",
+      "description": "Crisis Wing Beta version",
+      "timeupdated": "1767004184",
+      "timebuildupdated": "1767004184"
+    },
+    "macos_beta": {
+      "buildid": "17706816",
+      "description": "Crisis Wing Beta Version (MacOs)",
+      "timeupdated": "1741860008",
+      "timebuildupdated": "1741860008"
+    }
+  },
+  "depot": {
+    "1402091": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "383322707224398541",
+          "size": "136093995",
+          "download": "52213776"
+        }
+      }
+    },
+    "1402092": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2929031272018199596",
+          "size": "136093995",
+          "download": "52215856"
+        }
+      }
+    },
+    "1402093": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4813880637339135549",
+          "size": "148061647",
+          "download": "55118528"
+        }
+      }
+    },
+    "1402094": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3661703066271764174",
+          "size": "148061647",
+          "download": "55118528"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21339485",
+        "timeupdated": "1767044328",
+        "timebuildupdated": "1767044328"
+      },
+      "beta": {
+        "buildid": "21335503",
+        "description": "Crisis Wing Beta version",
+        "timeupdated": "1767004184",
+        "timebuildupdated": "1767004184"
+      },
+      "macos_beta": {
+        "buildid": "17706816",
+        "description": "Crisis Wing Beta Version (MacOs)",
+        "timeupdated": "1741860008",
+        "timebuildupdated": "1741860008"
+      }
+    }
+  }
+}

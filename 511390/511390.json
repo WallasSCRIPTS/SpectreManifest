@@ -1,0 +1,58 @@
+{
+  "name": "Base Raid",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:58:24.479Z",
+  "branches": {
+    "public": {
+      "buildid": "3897732",
+      "timeupdated": "1559908201",
+      "timebuildupdated": "1559907676"
+    }
+  },
+  "depot": {
+    "511391": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7174803061519901432",
+          "size": "370320232",
+          "download": "54593792"
+        }
+      }
+    },
+    "511392": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "837948285363740907",
+          "size": "404646282",
+          "download": "65491328"
+        }
+      }
+    },
+    "511393": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "895348693954801065",
+          "size": "424737482",
+          "download": "67469744"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "3897732",
+        "timeupdated": "1559908201",
+        "timebuildupdated": "1559907676"
+      }
+    }
+  }
+}

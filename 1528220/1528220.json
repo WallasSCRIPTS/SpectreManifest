@@ -1,0 +1,76 @@
+{
+  "name": "Gordian Rooms 2: A curious island",
+  "source": "spectre",
+  "changenumber": 40050559,
+  "updated": "2026-11-06T21:05:55.365Z",
+  "branches": {
+    "public": {
+      "buildid": "21215522",
+      "timeupdated": "1765927608",
+      "timebuildupdated": "1765925653"
+    },
+    "delayedupdatebranch": {
+      "buildid": "13568745",
+      "description": "Uses Older version of the game (2024-Feb-26)",
+      "timeupdated": "1712932115",
+      "timebuildupdated": "1708983709"
+    },
+    "update6": {
+      "buildid": "14024301",
+      "description": "Update 6 version of the game",
+      "timeupdated": "1727766977",
+      "timebuildupdated": "1712849665"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1528221": {
+      "manifests": {
+        "public": {
+          "gid": "7988508691076170160",
+          "size": "12059144699",
+          "download": "10652505536"
+        }
+      }
+    },
+    "1528222": {
+      "manifests": {
+        "public": {
+          "gid": "7754534945490254859",
+          "size": "7",
+          "download": "64"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "21215522",
+        "timeupdated": "1765927608",
+        "timebuildupdated": "1765925653"
+      },
+      "delayedupdatebranch": {
+        "buildid": "13568745",
+        "description": "Uses Older version of the game (2024-Feb-26)",
+        "timeupdated": "1712932115",
+        "timebuildupdated": "1708983709"
+      },
+      "update6": {
+        "buildid": "14024301",
+        "description": "Update 6 version of the game",
+        "timeupdated": "1727766977",
+        "timebuildupdated": "1712849665"
+      }
+    }
+  }
+}

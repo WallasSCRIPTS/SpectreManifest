@@ -1,0 +1,70 @@
+{
+  "name": "Refraction",
+  "source": "spectre",
+  "changenumber": 34351876,
+  "updated": "2026-11-07T21:01:55.611Z",
+  "branches": {
+    "public": {
+      "buildid": "4237280",
+      "timeupdated": "1569620278",
+      "timebuildupdated": "1569620266"
+    },
+    "developer": {
+      "buildid": "4237280",
+      "description": "Developer Unstable Branch",
+      "timeupdated": "1569620287",
+      "timebuildupdated": "1569620266"
+    }
+  },
+  "depot": {
+    "951421": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1364185528769013257",
+          "size": "853159723",
+          "download": "86095824"
+        }
+      }
+    },
+    "951422": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6419479576441936991",
+          "size": "852133052",
+          "download": "87116464"
+        }
+      }
+    },
+    "951423": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "6685380959393818011",
+          "size": "854692249",
+          "download": "89205280"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "4237280",
+        "timeupdated": "1569620278",
+        "timebuildupdated": "1569620266"
+      },
+      "developer": {
+        "buildid": "4237280",
+        "description": "Developer Unstable Branch",
+        "timeupdated": "1569620287",
+        "timebuildupdated": "1569620266"
+      }
+    }
+  }
+}

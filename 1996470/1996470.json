@@ -1,0 +1,80 @@
+{
+  "name": "Skator Gator 3D",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:15:30.325Z",
+  "branches": {
+    "public": {
+      "buildid": "20325483",
+      "timeupdated": "1760035592",
+      "timebuildupdated": "1760035405"
+    },
+    "premay2024": {
+      "buildid": "20325714",
+      "description": "Original build before optimizations.",
+      "timeupdated": "1760036470",
+      "timebuildupdated": "1760036430"
+    },
+    "testing": {
+      "buildid": "14282223",
+      "description": "Branch for QA builds.",
+      "timeupdated": "1715027486",
+      "timebuildupdated": "1715027486"
+    }
+  },
+  "depot": {
+    "1996471": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4437463829199509339",
+          "size": "429476283",
+          "download": "249206864"
+        }
+      }
+    },
+    "1996472": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5003139079534570917",
+          "size": "429476283",
+          "download": "293387936"
+        }
+      }
+    },
+    "1996473": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "1996474": {
+      "config": {
+        "oslist": "macos"
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "20325483",
+        "timeupdated": "1760035592",
+        "timebuildupdated": "1760035405"
+      },
+      "premay2024": {
+        "buildid": "20325714",
+        "description": "Original build before optimizations.",
+        "timeupdated": "1760036470",
+        "timebuildupdated": "1760036430"
+      },
+      "testing": {
+        "buildid": "14282223",
+        "description": "Branch for QA builds.",
+        "timeupdated": "1715027486",
+        "timebuildupdated": "1715027486"
+      }
+    }
+  }
+}

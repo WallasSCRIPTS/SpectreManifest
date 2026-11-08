@@ -1,0 +1,55 @@
+{
+  "name": "Stray Blade",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T21:06:38.938Z",
+  "branches": {
+    "public": {
+      "buildid": "12682948",
+      "timeupdated": "1700060014",
+      "timebuildupdated": "1699796116"
+    },
+    "beta_test": {
+      "buildid": "11377830",
+      "description": "Used for testing",
+      "timeupdated": "1686126534",
+      "timebuildupdated": "1685693001"
+    }
+  },
+  "depot": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "1621991": {
+      "manifests": {
+        "public": {
+          "gid": "1378961617894193761",
+          "size": "30195558900",
+          "download": "9460634080"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "12682948",
+        "timeupdated": "1700060014",
+        "timebuildupdated": "1699796116"
+      },
+      "beta_test": {
+        "buildid": "11377830",
+        "description": "Used for testing",
+        "timeupdated": "1686126534",
+        "timebuildupdated": "1685693001"
+      }
+    }
+  }
+}

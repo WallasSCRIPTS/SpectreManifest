@@ -1,0 +1,73 @@
+{
+  "name": "Skyfear",
+  "source": "spectre",
+  "changenumber": 40152974,
+  "updated": "2026-11-07T21:00:53.964Z",
+  "branches": {
+    "public": {
+      "buildid": "24931916",
+      "timeupdated": "1787675835",
+      "timebuildupdated": "1787673138"
+    },
+    "experimental": {
+      "buildid": "26115459",
+      "description": "Private testing branch",
+      "timeupdated": "1792611349",
+      "timebuildupdated": "1792610711"
+    },
+    "lanparty": {
+      "buildid": "22501059",
+      "description": "LAN-only network mode",
+      "timeupdated": "1774454371",
+      "timebuildupdated": "1774454320"
+    }
+  },
+  "depot": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "814331": {
+      "manifests": {
+        "public": {
+          "gid": "1173398310916637763",
+          "size": "5206264956",
+          "download": "4415118880"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24931916",
+        "timeupdated": "1787675835",
+        "timebuildupdated": "1787673138"
+      },
+      "experimental": {
+        "buildid": "26115459",
+        "description": "Private testing branch",
+        "timeupdated": "1792611349",
+        "timebuildupdated": "1792610711"
+      },
+      "lanparty": {
+        "buildid": "22501059",
+        "description": "LAN-only network mode",
+        "timeupdated": "1774454371",
+        "timebuildupdated": "1774454320"
+      }
+    }
+  }
+}

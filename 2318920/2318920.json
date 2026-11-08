@@ -1,0 +1,70 @@
+{
+  "name": "Re:Touring",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-06T23:21:28.941Z",
+  "branches": {
+    "public": {
+      "buildid": "17753214",
+      "timeupdated": "1742425522",
+      "timebuildupdated": "1742223957"
+    },
+    "prerelease": {
+      "buildid": "17753214",
+      "description": "Used by the CI",
+      "timeupdated": "1742223957",
+      "timebuildupdated": "1742223957"
+    }
+  },
+  "depot": {
+    "2318921": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5961260418449474937",
+          "size": "493993056",
+          "download": "173693088"
+        }
+      }
+    },
+    "2318922": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "618669346843749093",
+          "size": "589090583",
+          "download": "207148832"
+        }
+      }
+    },
+    "2318923": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1419101723402067900",
+          "size": "516718208",
+          "download": "179910416"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "17753214",
+        "timeupdated": "1742425522",
+        "timebuildupdated": "1742223957"
+      },
+      "prerelease": {
+        "buildid": "17753214",
+        "description": "Used by the CI",
+        "timeupdated": "1742223957",
+        "timebuildupdated": "1742223957"
+      }
+    }
+  }
+}

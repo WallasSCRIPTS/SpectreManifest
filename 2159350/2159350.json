@@ -1,0 +1,70 @@
+{
+  "name": "Super Jumpy Ball",
+  "source": "spectre",
+  "changenumber": 34887428,
+  "updated": "2026-11-06T23:19:25.591Z",
+  "branches": {
+    "public": {
+      "buildid": "15436156",
+      "timeupdated": "1724166943",
+      "timebuildupdated": "1724166649"
+    },
+    "beta": {
+      "buildid": "15436156",
+      "description": "Beta testing",
+      "timeupdated": "1724166695",
+      "timebuildupdated": "1724166649"
+    }
+  },
+  "depot": {
+    "2159351": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4493177756745742063",
+          "size": "217382850",
+          "download": "26364832"
+        }
+      }
+    },
+    "2159352": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3995546155066920047",
+          "size": "224892743",
+          "download": "26869872"
+        }
+      }
+    },
+    "2159353": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "2401223052441727619",
+          "size": "216031576",
+          "download": "25604064"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15436156",
+        "timeupdated": "1724166943",
+        "timebuildupdated": "1724166649"
+      },
+      "beta": {
+        "buildid": "15436156",
+        "description": "Beta testing",
+        "timeupdated": "1724166695",
+        "timebuildupdated": "1724166649"
+      }
+    }
+  }
+}

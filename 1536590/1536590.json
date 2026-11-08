@@ -1,0 +1,70 @@
+{
+  "name": "Cyclotronica",
+  "source": "spectre",
+  "changenumber": 34862986,
+  "updated": "2026-11-06T21:05:58.656Z",
+  "branches": {
+    "public": {
+      "buildid": "7266997",
+      "timeupdated": "1630174620",
+      "timebuildupdated": "1630174620"
+    },
+    "osx64": {
+      "buildid": "7266994",
+      "description": "OSX x64 Version",
+      "timeupdated": "1630174582",
+      "timebuildupdated": "1630174581"
+    },
+    "win10x64": {
+      "buildid": "6527509",
+      "description": "Windows x64 Version",
+      "timeupdated": "1618239622",
+      "timebuildupdated": "1618239622"
+    }
+  },
+  "depot": {
+    "1536591": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4242235449573776491",
+          "size": "942746754",
+          "download": "353585040"
+        }
+      }
+    },
+    "1536592": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5168419330835262058",
+          "size": "942131166",
+          "download": "355359296"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "7266997",
+        "timeupdated": "1630174620",
+        "timebuildupdated": "1630174620"
+      },
+      "osx64": {
+        "buildid": "7266994",
+        "description": "OSX x64 Version",
+        "timeupdated": "1630174582",
+        "timebuildupdated": "1630174581"
+      },
+      "win10x64": {
+        "buildid": "6527509",
+        "description": "Windows x64 Version",
+        "timeupdated": "1618239622",
+        "timebuildupdated": "1618239622"
+      }
+    }
+  }
+}

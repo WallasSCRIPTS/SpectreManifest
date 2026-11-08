@@ -1,0 +1,61 @@
+{
+  "name": "The Settlers 7 : History Edition",
+  "source": "spectre",
+  "changenumber": 40629389,
+  "updated": "2026-11-07T21:02:03.575Z",
+  "branches": {
+    "public": {
+      "buildid": "9509022",
+      "timeupdated": "1663094795",
+      "timebuildupdated": "1663094199"
+    },
+    "local": {
+      "buildid": "3375602",
+      "description": "Local Content Server",
+      "lcsrequired": "1",
+      "timeupdated": "1544180696",
+      "timebuildupdated": "1544180696"
+    }
+  },
+  "depot": {
+    "228986": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980"
+    },
+    "965321": {
+      "manifests": {
+        "public": {
+          "gid": "4252485715375198210",
+          "size": "6282894632",
+          "download": "6210014016"
+        }
+      }
+    },
+    "1716751": {
+      "manifests": {
+        "public": {
+          "gid": "6945505966615327303",
+          "size": "263096496",
+          "download": "262989248"
+        }
+      },
+      "depotfromapp": "1716750"
+    },
+    "branches": {
+      "public": {
+        "buildid": "9509022",
+        "timeupdated": "1663094795",
+        "timebuildupdated": "1663094199"
+      },
+      "local": {
+        "buildid": "3375602",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timeupdated": "1544180696",
+        "timebuildupdated": "1544180696"
+      }
+    }
+  }
+}

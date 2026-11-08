@@ -1,0 +1,51 @@
+{
+  "name": "Rogue Stargun",
+  "source": "spectre",
+  "changenumber": 39467275,
+  "updated": "2026-11-04T23:24:37.841Z",
+  "branches": {
+    "public": {
+      "buildid": "25706159",
+      "timeupdated": "1791092821",
+      "timebuildupdated": "1791092821"
+    }
+  },
+  "depot": {
+    "2803541": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "1338249615224769528",
+          "size": "8927809909",
+          "download": "4740584304"
+        }
+      }
+    },
+    "2803542": {
+      "config": {
+        "oslist": "macos,linux"
+      }
+    },
+    "2803543": {
+      "config": {
+        "oslist": "android"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4713580093593434999",
+          "size": "2959034871",
+          "download": "2816468208"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25706159",
+        "timeupdated": "1791092821",
+        "timebuildupdated": "1791092821"
+      }
+    }
+  }
+}

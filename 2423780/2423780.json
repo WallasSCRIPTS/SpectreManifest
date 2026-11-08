@@ -1,0 +1,58 @@
+{
+  "name": "Strategy game but with a penguin who has a sword",
+  "source": "spectre",
+  "changenumber": 38190425,
+  "updated": "2026-11-06T23:25:09.081Z",
+  "branches": {
+    "public": {
+      "buildid": "24843072",
+      "timeupdated": "1787239261",
+      "timebuildupdated": "1787238804"
+    },
+    "beta-test": {
+      "buildid": "24843072",
+      "description": "Testing branch",
+      "timeupdated": "1787238804",
+      "timebuildupdated": "1787238804"
+    }
+  },
+  "depot": {
+    "2423781": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7163347393874333052",
+          "size": "59120427",
+          "download": "49847680"
+        }
+      }
+    },
+    "2423782": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3769279679714363414",
+          "size": "62764449",
+          "download": "50290496"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "24843072",
+        "timeupdated": "1787239261",
+        "timebuildupdated": "1787238804"
+      },
+      "beta-test": {
+        "buildid": "24843072",
+        "description": "Testing branch",
+        "timeupdated": "1787238804",
+        "timebuildupdated": "1787238804"
+      }
+    }
+  }
+}

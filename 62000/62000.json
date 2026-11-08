@@ -1,0 +1,44 @@
+{
+  "name": "Flight Control HD",
+  "source": "spectre",
+  "changenumber": 39323160,
+  "updated": "2026-11-07T20:55:57.026Z",
+  "branches": {
+    "public": {
+      "buildid": "23895",
+      "timebuildupdated": "1352198057"
+    }
+  },
+  "depot": {
+    "62001": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7298159594922281640",
+          "size": "119211127",
+          "download": "0"
+        }
+      }
+    },
+    "62002": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3106020487338476313",
+          "size": "113878683",
+          "download": "0"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23895",
+        "timebuildupdated": "1352198057"
+      }
+    }
+  }
+}

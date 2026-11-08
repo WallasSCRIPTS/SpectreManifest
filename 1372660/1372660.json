@@ -1,0 +1,70 @@
+{
+  "name": "An Amazing Wizard",
+  "source": "spectre",
+  "changenumber": 40608279,
+  "updated": "2026-11-06T21:04:45.260Z",
+  "branches": {
+    "public": {
+      "buildid": "22148793",
+      "timeupdated": "1772362830",
+      "timebuildupdated": "1772362793"
+    },
+    "beta": {
+      "buildid": "22148793",
+      "description": "Beta branch",
+      "timeupdated": "1772362810",
+      "timebuildupdated": "1772362793"
+    }
+  },
+  "depot": {
+    "1372661": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "7359939055708992287",
+          "size": "3300362221",
+          "download": "619811552"
+        }
+      }
+    },
+    "1372662": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "3296168196573173408",
+          "size": "3324316595",
+          "download": "621908352"
+        }
+      }
+    },
+    "1372663": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "4868697284696689447",
+          "size": "3285249889",
+          "download": "618662992"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22148793",
+        "timeupdated": "1772362830",
+        "timebuildupdated": "1772362793"
+      },
+      "beta": {
+        "buildid": "22148793",
+        "description": "Beta branch",
+        "timeupdated": "1772362810",
+        "timebuildupdated": "1772362793"
+      }
+    }
+  }
+}

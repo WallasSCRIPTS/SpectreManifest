@@ -1,0 +1,94 @@
+{
+  "name": "Drift: Space Survival",
+  "source": "spectre",
+  "changenumber": 40678405,
+  "updated": "2026-11-06T23:19:25.623Z",
+  "branches": {
+    "public": {
+      "buildid": "22537246",
+      "timeupdated": "1774627947",
+      "timebuildupdated": "1774627732"
+    },
+    "previous": {
+      "buildid": "12677134",
+      "description": "The last public patch before this.",
+      "timeupdated": "1701899205",
+      "timebuildupdated": "1699676573"
+    },
+    "next": {
+      "buildid": "22537246",
+      "description": "May occasionally have unreleased builds.",
+      "timeupdated": "1774627732",
+      "timebuildupdated": "1774627732"
+    },
+    "playtest": {
+      "buildid": "26490615",
+      "description": "Alpha versions of the 1.0 update",
+      "timeupdated": "1793986045",
+      "timebuildupdated": "1793985768"
+    }
+  },
+  "depot": {
+    "2159651": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8427312632596649183",
+          "size": "562086184",
+          "download": "227489760"
+        }
+      }
+    },
+    "2159652": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "gid": "5497785123503666486",
+          "size": "572970672",
+          "download": "230416160"
+        }
+      }
+    },
+    "2159653": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "gid": "8145990103099239320",
+          "size": "634804449",
+          "download": "242272112"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "22537246",
+        "timeupdated": "1774627947",
+        "timebuildupdated": "1774627732"
+      },
+      "previous": {
+        "buildid": "12677134",
+        "description": "The last public patch before this.",
+        "timeupdated": "1701899205",
+        "timebuildupdated": "1699676573"
+      },
+      "next": {
+        "buildid": "22537246",
+        "description": "May occasionally have unreleased builds.",
+        "timeupdated": "1774627732",
+        "timebuildupdated": "1774627732"
+      },
+      "playtest": {
+        "buildid": "26490615",
+        "description": "Alpha versions of the 1.0 update",
+        "timeupdated": "1793986045",
+        "timebuildupdated": "1793985768"
+      }
+    }
+  }
+}
